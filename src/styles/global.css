@@ -1,0 +1,332 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+/* ═══════════════════════════════════════════════════════════
+   DARK MODE PALETTE  (default — applied to :root)
+   ═══════════════════════════════════════════════════════════ */
+:root,
+body,
+body.dark {
+  /* brand colours */
+  --color-primary-900: #0a192f;
+  --color-primary-800: #112240;
+  --color-primary-700: #233554;
+  --color-primary-600: #3a506b;
+  --color-accent-400: #dcb963;
+  --color-accent-500: #C9A84C;
+  --color-accent-600: #aa8c3e;
+
+  /* semantic tokens */
+  --bg-page:        #0a192f;
+  --bg-surface:     #112240;
+  --bg-elevated:    #233554;
+  --bg-input:       #112240;
+  --border:         #233554;
+  --border-subtle:  #1e3a5f;
+  --text-heading:   #f1f5f9;   /* slate-100 */
+  --text-body:      #cbd5e1;   /* slate-300 */
+  --text-muted:     #94a3b8;   /* slate-400 */
+  --text-faint:     #64748b;   /* slate-500 */
+  --input-text:     #f1f5f9;
+  --input-placeholder: #64748b;
+
+  /* table */
+  --table-head-bg:  #1B3A6B;
+  --table-odd-bg:   #0A1628;
+  --table-even-bg:  #0F2440;
+  --table-hover-bg: #1a2f4a;
+  --table-border:   #1e3a5f;
+  --table-cell-color:#e2e8f0;
+}
+
+/* ═══════════════════════════════════════════════════════════
+   LIGHT MODE PALETTE  (applied when body.light)
+   ═══════════════════════════════════════════════════════════ */
+body.light {
+  --color-primary-900: #e8edf5;
+  --color-primary-800: #ffffff;
+  --color-primary-700: #dde3ef;
+  --color-primary-600: #c8d2e4;
+
+  --bg-page:        #f0f4fa;
+  --bg-surface:     #ffffff;
+  --bg-elevated:    #e8edf5;
+  --bg-input:       #ffffff;
+  --border:         #c8d2e4;
+  --border-subtle:  #dde3ef;
+  --text-heading:   #0f172a;
+  --text-body:      #1e293b;
+  --text-muted:     #475569;
+  --text-faint:     #64748b;
+  --input-text:     #0f172a;
+  --input-placeholder: #94a3b8;
+
+  --table-head-bg:  #1e3a6b;
+  --table-odd-bg:   #ffffff;
+  --table-even-bg:  #f1f5f9;
+  --table-hover-bg: #e2e8f0;
+  --table-border:   #cbd5e1;
+  --table-cell-color:#1e293b;
+}
+
+/* ═══════════════════════════════════════════════════════════
+   TAILWIND THEME TOKENS (so bg-primary-* classes still work)
+   ═══════════════════════════════════════════════════════════ */
+@theme {
+  --color-primary-900: var(--color-primary-900);
+  --color-primary-800: var(--color-primary-800);
+  --color-primary-700: var(--color-primary-700);
+  --color-primary-600: var(--color-primary-600);
+  --color-accent-400:  var(--color-accent-400);
+  --color-accent-500:  var(--color-accent-500);
+  --color-accent-600:  var(--color-accent-600);
+}
+
+/* ═══════════════════════════════════════════════════════════
+   BASE
+   ═══════════════════════════════════════════════════════════ */
+@layer base {
+  html { scroll-behavior: smooth; }
+
+  body {
+    background-color: var(--bg-page);
+    color: var(--text-body);
+    @apply antialiased flex flex-col min-h-screen;
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+    transition: background-color 0.25s ease, color 0.25s ease;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    color: var(--text-heading);
+    @apply font-semibold tracking-tight;
+  }
+
+  a { @apply text-accent-500 hover:text-accent-400 transition-colors; }
+
+  /* Make <strong> consistent with 600 weight */
+  strong {
+    font-weight: 600;
+  }
+
+  /* inputs — light mode makes these white */
+  input, textarea, select {
+    background-color: var(--bg-input) !important;
+    color: var(--input-text) !important;
+    border-color: var(--border) !important;
+  }
+  input::placeholder, textarea::placeholder {
+    color: var(--input-placeholder) !important;
+  }
+}
+
+/* ═══════════════════════════════════════════════════════════
+   UTILITY OVERRIDES — make Tailwind classes respect theme vars
+   These selectors are specific enough to beat Tailwind's utilities.
+   ═══════════════════════════════════════════════════════════ */
+
+/* --- text colours --- */
+body .text-slate-100, body h1, body h2, body h3, body h4, body h5, body h6 { color: var(--text-heading); }
+body .text-slate-200 { color: var(--text-heading); }
+body .text-slate-300 { color: var(--text-body); }
+body .text-slate-400 { color: var(--text-muted); }
+body .text-slate-500 { color: var(--text-faint); }
+
+/* --- background colours --- */
+body .bg-primary-900 { background-color: var(--bg-page); }
+body .bg-primary-800 { background-color: var(--bg-surface); }
+body .bg-primary-700 { background-color: var(--bg-elevated); }
+body .bg-primary-600 { background-color: var(--color-primary-600); }
+
+/* --- border colours --- */
+body .border-primary-700 { border-color: var(--border); }
+body .border-primary-600 { border-color: var(--border); }
+body .border-primary-500 { border-color: var(--border); }
+
+/* --- hover states that reference primary colours --- */
+body .hover\:bg-primary-800:hover { background-color: var(--bg-elevated) !important; }
+body .hover\:bg-primary-700:hover { background-color: var(--bg-elevated) !important; }
+body .hover\:border-primary-500:hover { border-color: var(--border) !important; }
+
+/* --- opacity/alpha variants used in pages --- */
+body .bg-primary-900\/95 { background-color: color-mix(in srgb, var(--bg-page) 95%, transparent); }
+body .bg-primary-900\/60 { background-color: color-mix(in srgb, var(--bg-page) 60%, transparent); }
+body .bg-primary-800\/30 { background-color: color-mix(in srgb, var(--bg-surface) 30%, transparent); }
+body .bg-primary-800\/60 { background-color: color-mix(in srgb, var(--bg-surface) 60%, transparent); }
+body .bg-primary-800\/40 { background-color: color-mix(in srgb, var(--bg-surface) 40%, transparent); }
+
+/* --- gradient backgrounds --- */
+body .from-primary-800 { --tw-gradient-from: var(--bg-surface); }
+body .from-primary-900 { --tw-gradient-from: var(--bg-page); }
+body .to-primary-900   { --tw-gradient-to:   var(--bg-page); }
+
+/* --- ring/focus offset --- */
+body .focus\:ring-offset-primary-900:focus { --tw-ring-offset-color: var(--bg-page); }
+body .focus\:ring-offset-primary-800:focus { --tw-ring-offset-color: var(--bg-surface); }
+
+/* --- ad placeholder blocks --- */
+body .border-dashed.border-slate-400 { border-color: var(--border); }
+
+/* ═══════════════════════════════════════════════════════════
+   HEADER  (sticky — needs explicit override)
+   ═══════════════════════════════════════════════════════════ */
+header {
+  background-color: color-mix(in srgb, var(--bg-page) 95%, transparent) !important;
+  border-bottom-color: var(--border) !important;
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  transition: background-color 0.25s ease;
+}
+
+/* nav text */
+header .text-slate-300 { color: var(--text-body) !important; }
+header .text-slate-400 { color: var(--text-muted) !important; }
+header .hover\:text-slate-100:hover { color: var(--text-heading) !important; }
+header .hover\:bg-primary-800:hover { background-color: var(--bg-elevated) !important; }
+header .bg-primary-800 { background-color: var(--bg-surface) !important; }
+
+/* logo swap (keep existing dark logo; add light variant) */
+body.dark .gg-logo--light,
+body.light .gg-logo--dark {
+  display: none !important;
+}
+
+/* mobile menu */
+#mobile-menu {
+  background-color: var(--bg-surface) !important;
+  border-color: var(--border) !important;
+}
+#mobile-menu .text-slate-300 { color: var(--text-body) !important; }
+#mobile-menu .text-slate-400 { color: var(--text-muted) !important; }
+#mobile-menu .hover\:bg-primary-700:hover { background-color: var(--bg-elevated) !important; }
+
+/* ═══════════════════════════════════════════════════════════
+   FOOTER
+   ═══════════════════════════════════════════════════════════ */
+footer {
+  background-color: var(--color-primary-600) !important;
+  transition: background-color 0.25s ease;
+}
+footer .bg-primary-700 { background-color: var(--bg-elevated) !important; }
+footer .text-slate-100 { color: var(--text-heading) !important; }
+footer .text-slate-200 { color: var(--text-heading) !important; }
+footer .text-slate-300 { color: var(--text-body) !important; }
+footer .text-slate-400 { color: var(--text-muted) !important; }
+footer .text-slate-500 { color: var(--text-faint) !important; }
+footer .border-primary-700 { border-color: var(--border) !important; }
+footer .border-primary-600 { border-color: var(--border) !important; }
+footer .hover\:bg-primary-800:hover { background-color: var(--bg-elevated) !important; }
+footer .border-primary-500 { border-color: var(--border) !important; }
+
+/* ═══════════════════════════════════════════════════════════
+   SIDEBAR
+   ═══════════════════════════════════════════════════════════ */
+aside .bg-primary-800 { background-color: var(--bg-surface) !important; }
+aside .bg-primary-900 { background-color: var(--bg-page) !important; }
+aside .text-slate-100 { color: var(--text-heading) !important; }
+aside .text-slate-400 { color: var(--text-muted) !important; }
+aside .border-slate-400 { border-color: var(--border) !important; }
+aside .border-primary-600 { border-color: var(--border) !important; }
+
+/* ═══════════════════════════════════════════════════════════
+   CARD COMPONENT
+   ═══════════════════════════════════════════════════════════ */
+article.flex.flex-col.h-full { transition: border-color 0.2s, box-shadow 0.2s; }
+article.flex.flex-col.h-full .bg-primary-800 { background-color: var(--bg-surface) !important; }
+article.flex.flex-col.h-full .bg-primary-900 { background-color: var(--bg-page) !important; }
+article.flex.flex-col.h-full .border-primary-700 { border-color: var(--border) !important; }
+article.flex.flex-col.h-full .text-slate-100 { color: var(--text-heading) !important; }
+article.flex.flex-col.h-full .text-slate-400 { color: var(--text-muted) !important; }
+article.flex.flex-col.h-full .text-slate-500 { color: var(--text-faint) !important; }
+article.flex.flex-col.h-full .bg-primary-700 { background-color: var(--bg-elevated) !important; }
+article.flex.flex-col.h-full .text-primary-600 { color: var(--border) !important; }
+
+/* ═══════════════════════════════════════════════════════════
+   AUTHOR BIO
+   ═══════════════════════════════════════════════════════════ */
+.mt-16.bg-primary-600 {
+  background-color: var(--color-primary-600) !important;
+  border-color: var(--border) !important;
+}
+.mt-16.bg-primary-600 .bg-primary-900 { background-color: var(--bg-page) !important; }
+.mt-16.bg-primary-600 .text-slate-100 { color: var(--text-heading) !important; }
+.mt-16.bg-primary-600 .text-slate-300 { color: var(--text-body) !important; }
+
+/* ═══════════════════════════════════════════════════════════
+   AFFILIATE DISCLAIMER  (hardcoded inline style — override)
+   ═══════════════════════════════════════════════════════════ */
+body.dark .rounded-lg.p-4.mb-8 {
+  background-color: #1a2f4a !important;
+  border-color: #233554 !important;
+  color: #cbd5e1 !important;
+}
+body.dark .rounded-lg.p-4.mb-8 strong {
+  color: #f1f5f9 !important;
+}
+/* light mode keeps its original light blue look — no override needed */
+
+/* ═══════════════════════════════════════════════════════════
+   PROSE  (article body text rendered from markdown)
+   ═══════════════════════════════════════════════════════════ */
+/* Override prose variables for light mode so prose-invert displays correctly */
+body.light .prose, body.light .prose-invert {
+  --tw-prose-body: var(--text-body);
+  --tw-prose-headings: var(--text-heading);
+  --tw-prose-lead: var(--text-muted);
+  --tw-prose-links: var(--color-accent-500);
+  --tw-prose-bold: var(--text-heading);
+  --tw-prose-counters: var(--text-muted);
+  --tw-prose-bullets: var(--text-muted);
+  --tw-prose-hr: var(--border);
+  --tw-prose-quotes: var(--text-heading);
+  --tw-prose-quote-borders: var(--border);
+  --tw-prose-captions: var(--text-faint);
+  --tw-prose-code: var(--text-heading);
+  --tw-prose-pre-code: var(--text-heading);
+  --tw-prose-pre-bg: var(--bg-elevated);
+  --tw-prose-th-borders: var(--border);
+  --tw-prose-td-borders: var(--border);
+}
+
+/* ═══════════════════════════════════════════════════════════
+   TABLES  (inline hex colours → CSS vars)
+   ═══════════════════════════════════════════════════════════ */
+.prose table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  border-radius: 8px;
+  overflow: hidden;
+}
+.prose thead tr  { background-color: var(--table-head-bg); }
+.prose thead th  { color: #fff; font-weight: bold; padding: 12px 16px; text-align: left; font-size: 14px; }
+.prose tbody tr:nth-child(odd)  { background-color: var(--table-odd-bg); }
+.prose tbody tr:nth-child(even) { background-color: var(--table-even-bg); }
+.prose tbody td  { color: var(--table-cell-color); padding: 10px 16px; font-size: 14px; border-bottom: 1px solid var(--table-border); }
+.prose tbody tr:hover { background-color: var(--table-hover-bg); }
+
+
+
+/* ═══════════════════════════════════════════════════════════
+   CALCULATOR PAGE  (hardcoded dark colours)
+   ═══════════════════════════════════════════════════════════ */
+body .bg-primary-900.border.border-primary-700.rounded-2xl { background-color: var(--bg-page) !important; border-color: var(--border) !important; }
+body .bg-primary-800.border-b.border-primary-700 { background-color: var(--bg-surface) !important; border-color: var(--border) !important; }
+body .bg-primary-800.rounded-xl { background-color: var(--bg-surface) !important; }
+body .text-slate-300.mb-2 { color: var(--text-body) !important; }
+body #result-final-value { color: var(--color-accent-500) !important; }
+
+/* ═══════════════════════════════════════════════════════════
+   GLOSSARY PAGE
+   ═══════════════════════════════════════════════════════════ */
+.glossary-term-card { background-color: var(--bg-surface) !important; border-color: var(--border) !important; }
+.glossary-term-card h3 { color: var(--text-heading) !important; }
+.glossary-term-card p  { color: var(--text-muted) !important; }
+#glossary-search { background-color: var(--bg-surface) !important; border-color: var(--border) !important; color: var(--text-body) !important; }
+body .flex-grow.h-px.bg-primary-700 { background-color: var(--border) !important; }
+
+/* ═══════════════════════════════════════════════════════════
+   USEFUL LINKS PAGE
+   ═══════════════════════════════════════════════════════════ */
+body .bg-primary-800.rounded-2xl { background-color: var(--bg-surface) !important; border-color: var(--border) !important; }
+body .bg-primary-900.border-b.border-primary-700 { background-color: var(--bg-page) !important; border-color: var(--border) !important; }
+body a.group.block.p-4.bg-primary-900 { background-color: var(--bg-page) !important; border-color: var(--border) !important; }

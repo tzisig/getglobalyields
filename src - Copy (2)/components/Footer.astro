@@ -1,0 +1,115 @@
+---
+const currentYear = new Date().getFullYear();
+const currentPath = Astro.url.pathname;
+const hideCTA = currentPath.startsWith('/best-brokers');
+---
+
+<footer class="mt-auto bg-primary-600">
+  <!-- Final CTA Section -->
+  {!hideCTA && (
+    <div class="bg-primary-700 py-20 lg:py-24 mb-12 border-t border-b border-primary-700 shadow-inner">
+      <div class="container mx-auto px-4 sm:px-6 lg:px-8 text-center">
+        <h2 class="text-3xl md:text-4xl font-extrabold text-slate-100 mb-4">Ready to Start Investing Globally?</h2>
+        <p class="text-xl font-semibold text-accent-500 mb-3">Most investors choose the wrong broker and pay for it for years.</p>
+        <p class="text-lg text-slate-300 mb-10 max-w-2xl mx-auto">Choosing the right broker is the most important decision you'll make as an international investor.</p>
+        <div class="flex flex-col sm:flex-row justify-center items-center gap-4">
+          <a href="/best-brokers" class="w-full sm:w-auto inline-flex items-center justify-center px-8 py-4 border border-transparent text-lg font-bold rounded-md text-primary-900 bg-accent-500 hover:bg-accent-400 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-accent-500 focus:ring-offset-primary-900 shadow-lg shadow-accent-500/30 transition-all duration-200 hover:-translate-y-1">
+            Compare Best Brokers
+          </a>
+          <a href="https://www.interactivebrokers.com/" target="_blank" rel="noopener noreferrer" class="w-full sm:w-auto inline-flex items-center justify-center px-8 py-4 border-2 border-primary-600 text-lg font-bold rounded-md text-slate-100 bg-transparent hover:bg-primary-800 hover:border-primary-500 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-primary-500 transition-all duration-200">
+            Open IBKR Account
+          </a>
+        </div>
+      </div>
+    </div>
+  )}
+
+  <div class="border-t border-primary-700 py-12">
+    <div class="container mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-8 mb-10">
+        <!-- Brand -->
+        <div class="sm:col-span-2 lg:col-span-1">
+          <a href="/" class="block mb-4">
+            <img src="/logo.png" alt="Get Global Yields" class="h-12 w-auto object-contain" />
+          </a>
+          <p class="text-sm text-slate-400 max-w-xs">
+            Empowering your financial journey with expert insights, comparative reviews, and strategic investment guides.
+          </p>
+        </div>
+
+        <!-- Categories -->
+        <div>
+          <h3 class="text-sm font-semibold uppercase tracking-wider text-slate-200 mb-4">Categories</h3>
+          <ul class="space-y-2">
+            <li><a href="/best-brokers" class="text-sm text-slate-400 hover:text-accent-500">Best Brokers</a></li>
+            <li><a href="/start-here" class="text-sm text-slate-400 hover:text-accent-500">Start Here</a></li>
+            <li><a href="/us-investing" class="text-sm text-slate-400 hover:text-accent-500">US Investing</a></li>
+            <li><a href="/options-income" class="text-sm text-slate-400 hover:text-accent-500">Options Income</a></li>
+            <li><a href="/taxes" class="text-sm text-slate-400 hover:text-accent-500">Taxes</a></li>
+            <li><a href="/strategies" class="text-sm text-slate-400 hover:text-accent-500">Strategies</a></li>
+            <li><a href="/case-study" class="text-sm text-slate-400 hover:text-accent-500">Case Study</a></li>
+          </ul>
+        </div>
+
+        <!-- Resources -->
+        <div>
+          <h3 class="text-sm font-semibold uppercase tracking-wider text-slate-200 mb-4">Resources</h3>
+          <ul class="space-y-2">
+            <li><a href="/resources/calculators" class="text-sm text-slate-400 hover:text-accent-500">Calculators</a></li>
+            <li><a href="/resources/glossary" class="text-sm text-slate-400 hover:text-accent-500">Glossary</a></li>
+            <li><a href="/resources/useful-links" class="text-sm text-slate-400 hover:text-accent-500">Useful Links</a></li>
+          </ul>
+        </div>
+
+        <!-- Legal -->
+        <div>
+          <h3 class="text-sm font-semibold uppercase tracking-wider text-slate-200 mb-4">Legal</h3>
+          <ul class="space-y-2">
+            <li><a href="/about" class="text-sm text-slate-400 hover:text-accent-500">About Us</a></li>
+            <li><a href="/contact" class="text-sm text-slate-400 hover:text-accent-500">Contact</a></li>
+            <li><a href="/privacy-policy" class="text-sm text-slate-400 hover:text-accent-500">Privacy Policy</a></li>
+            <li><a href="/disclaimer" class="text-sm text-slate-400 hover:text-accent-500">Disclaimer</a></li>
+          </ul>
+        </div>
+
+        <!-- Stay Updated -->
+        <div>
+          <h3 class="text-sm font-semibold uppercase tracking-wider text-slate-200 mb-4">Stay Updated</h3>
+          <a href="/rss.xml" class="inline-flex items-center gap-2 text-sm text-slate-400 hover:text-accent-500">
+            <svg class="h-4 w-4" fill="currentColor" viewBox="0 0 20 20">
+              <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zM6.75 9.25a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zm0 3a.75.75 0 000 1.5h6.5a.75.75 0 000-1.5h-6.5zm0-6a.75.75 0 000 1.5h6.5a.75.75 0 000-1.5h-6.5z" clip-rule="evenodd" />
+            </svg>
+            RSS Feed
+          </a>
+        </div>
+      </div>
+
+      <!-- Centered CTA Button -->
+      {!hideCTA && (
+        <div class="flex justify-center mb-10">
+          <a href="/best-brokers" class="inline-flex items-center justify-center px-10 py-4 border border-transparent text-base font-bold rounded-md text-primary-900 bg-accent-500 hover:bg-accent-400 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-accent-500 focus:ring-offset-primary-800 shadow-lg shadow-accent-500/30 transition-all duration-200 hover:-translate-y-1">
+            Compare Best Brokers
+          </a>
+        </div>
+      )}
+
+      <!-- Disclosure -->
+      <div class="border-t border-primary-700 pt-8 text-center md:text-left">
+        <p class="text-sm md:text-base text-slate-300 font-medium mb-6">Used by international investors worldwide to access US markets efficiently.</p>
+        <div class="text-xs text-slate-500">
+          <p class="mb-2"><strong>Financial Disclaimer:</strong> The information provided on Get Global Yields is for educational and informational purposes only and should not be construed as specific financial, investment, or tax advice. Always consult with a qualified professional before making any financial decisions.</p>
+          <p><strong>Affiliate Disclosure:</strong> Some of the links on this website are affiliate links. If you happen to click and make a purchase or open an account, we may earn a small commission at no extra cost to you. This helps support our site.</p>
+        </div>
+      </div>
+
+      <div class="mt-8 flex flex-col md:flex-row items-center justify-between gap-4">
+        <p class="text-sm text-slate-500 text-center md:text-left">
+          &copy; {currentYear} Get Global Yields. All rights reserved.
+        </p>
+        <a href="/best-brokers" class="text-xs sm:text-sm text-slate-400 hover:text-accent-500 underline underline-offset-4 decoration-primary-600 hover:decoration-accent-500 transition-colors text-center md:text-right font-medium">
+          Still not sure? Compare the best brokers in 2 minutes.
+        </a>
+      </div>
+    </div>
+  </div>
+</footer>

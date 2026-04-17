@@ -1,0 +1,45 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Card from '../components/Card.astro';
+import { getCollection } from 'astro:content';
+
+const posts = (await getCollection('us-investing'))
+  .map(p => ({ ...p, type: 'us-investing', url: `/us-investing/${p.id}` }));
+---
+
+<BaseLayout
+  title="US Investing — Global Access"
+  description="Learn exactly how to buy US stocks and ETFs, circumvent barriers, and leverage the largest market in the world."
+>
+  <div class="bg-primary-900 py-16 lg:py-24 border-b border-primary-700 relative overflow-hidden">
+    <div class="container relative mx-auto px-4 sm:px-6 lg:px-8 max-w-4xl text-center">
+      <h1 class="text-4xl md:text-5xl font-extrabold text-slate-100 mb-6">
+        Mastering <span class="text-accent-500">US Investing</span>
+      </h1>
+      <p class="text-xl text-slate-300 leading-relaxed max-w-2xl mx-auto">
+        The definitive guides to safely and legally acquiring US financial assets without needing physical residency.
+      </p>
+    </div>
+  </div>
+
+  <section class="py-16 bg-primary-800 min-h-screen">
+    <div class="container mx-auto px-4 sm:px-6 lg:px-8 max-w-6xl">
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+        {posts.length > 0 ? posts.map(post => (
+          <Card
+            title={post.data.title}
+            description={post.data.description}
+            href={post.url}
+            date={post.data.pubDate}
+            categoryName={post.type}
+            image={post.data.heroImage}
+          />
+        )) : (
+           <div class="col-span-full text-center py-12 bg-primary-900 rounded-lg border border-primary-700 border-dashed">
+             <p class="text-slate-400">Content coming soon!</p>
+           </div>
+        )}
+      </div>
+    </div>
+  </section>
+</BaseLayout>

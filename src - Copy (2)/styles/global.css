@@ -1,0 +1,181 @@
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+@theme {
+  --color-primary-900: #0a192f;
+  --color-primary-800: #112240;
+  --color-primary-700: #233554;
+  --color-primary-600: #3a506b;
+  --color-accent-400: #dcb963;
+  --color-accent-500: #C9A84C;
+  --color-accent-600: #aa8c3e;
+}
+
+/* ─── Font ─────────────────────────────────────────────── */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&display=swap');
+
+/* ─── CSS Variables per theme ───────────────────────────── */
+:root {
+  --body-bg: #0a192f;
+  --body-text: #cbd5e1;       /* slate-300 */
+  --heading-text: #f1f5f9;    /* slate-100 */
+  --link-color: #C9A84C;
+  --link-hover: #dcb963;
+  --prose-text: #cbd5e1;
+  --prose-heading: #f1f5f9;
+  --prose-bold: #f1f5f9;
+  --prose-lead: #94a3b8;
+  --table-head-bg: #1B3A6B;
+  --table-odd-bg: #0A1628;
+  --table-even-bg: #0F2440;
+  --table-border: #1e3a5f;
+  --table-cell-text: #e2e8f0;
+  --table-hover-bg: #1a2f4a;
+}
+
+/* ─── Light theme ───────────────────────────────────────── */
+/* Applied when <body class="light"> or <html class="light"> */
+body.light,
+html.light body {
+  --body-bg: #f8f7f4;
+  --body-text: #374151;       /* warm dark gray — not pure black */
+  --heading-text: #111827;
+  --link-color: #C9A84C;
+  --link-hover: #aa8c3e;
+  --prose-text: #374151;
+  --prose-heading: #111827;
+  --prose-bold: #111827;
+  --prose-lead: #6b7280;
+  --table-head-bg: #3a506b;
+  --table-odd-bg: #f0f4ff;
+  --table-even-bg: #e8edf8;
+  --table-border: #c7d2e8;
+  --table-cell-text: #1e2d4a;
+  --table-hover-bg: #dde5f5;
+}
+
+/* ─── Base styles ───────────────────────────────────────── */
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    background-color: var(--body-bg);
+    color: var(--body-text);
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+    font-size: 16.5px;
+    line-height: 1.75;
+    -webkit-font-smoothing: antialiased;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    transition: background-color 0.3s ease, color 0.3s ease;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    color: var(--heading-text);
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    line-height: 1.3;
+  }
+
+  a {
+    color: var(--link-color);
+    transition: color 0.2s ease;
+  }
+  a:hover {
+    color: var(--link-hover);
+  }
+}
+
+/* ─── Smooth header-to-body transition ──────────────────── */
+/* Adds a subtle gradient bridge between dark header and light body */
+body.light .page-hero-bridge {
+  display: block;
+  height: 3px;
+  background: linear-gradient(to bottom, #112240, var(--body-bg));
+  margin-bottom: 0;
+}
+
+/* ─── Prose (article body) ──────────────────────────────── */
+.prose {
+  color: var(--prose-text);
+  font-family: 'Inter', system-ui, sans-serif;
+  font-size: 1.0625rem;   /* 17px — comfortable reading size */
+  line-height: 1.8;
+  max-width: 72ch;
+}
+
+.prose h1,
+.prose h2,
+.prose h3,
+.prose h4 {
+  color: var(--prose-heading);
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+.prose strong,
+.prose b {
+  color: var(--prose-bold);
+  font-weight: 600;
+}
+
+.prose p {
+  color: var(--prose-text);
+  margin-bottom: 1.25em;
+}
+
+.prose li {
+  color: var(--prose-text);
+}
+
+/* ─── Tables ─────────────────────────────────────────────── */
+.prose table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+  border-radius: 8px;
+  overflow: hidden;
+  font-size: 14px;
+}
+.prose thead tr {
+  background-color: var(--table-head-bg);
+}
+.prose thead th {
+  color: white !important;
+  font-weight: 600;
+  padding: 12px 16px;
+  text-align: left;
+}
+.prose tbody tr:nth-child(odd) {
+  background-color: var(--table-odd-bg);
+}
+.prose tbody tr:nth-child(even) {
+  background-color: var(--table-even-bg);
+}
+.prose tbody td {
+  color: var(--table-cell-text);
+  padding: 10px 16px;
+  border-bottom: 1px solid var(--table-border);
+}
+.prose tbody tr:hover {
+  background-color: var(--table-hover-bg);
+}
+
+/* ─── Disclosure bar ─────────────────────────────────────── */
+/* Visible, readable, but not aggressive */
+.disclosure-bar {
+  background-color: #e8edf5;        /* בהיר יותר מהדף אבל שונה */
+  border-left: 3px solid #C9A84C;
+  color: #4b5563;                   /* כהה מספיק לקריאה, לא בולט */
+  font-size: 0.85rem;
+  padding: 10px 16px;
+  border-radius: 4px;
+  margin-bottom: 1.5rem;
+}
+body:not(.light) .disclosure-bar {
+  background-color: #112240;
+  color: #94a3b8;
+}

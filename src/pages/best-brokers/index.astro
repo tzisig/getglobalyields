@@ -1,0 +1,97 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getEntry, render } from 'astro:content';
+import { BEST_BROKERS_HUB } from '../../data/bestBrokersHub';
+
+const reviews = BEST_BROKERS_HUB.filter(e => e.kind === 'review');
+const guides  = BEST_BROKERS_HUB.filter(e => e.kind === 'guide');
+const coming  = BEST_BROKERS_HUB.filter(e => e.kind === 'coming');
+
+const featured = reviews.find(r => r.slug?.includes('interactive-brokers'));
+
+let internationalGuideEntry: any = null;
+try {
+  internationalGuideEntry = await getEntry('best-brokers', 'best-brokers-international-investors-2026');
+} catch {
+  internationalGuideEntry = null;
+}
+const internationalGuide =
+  internationalGuideEntry && !internationalGuideEntry.data?.draft ? internationalGuideEntry : null;
+
+let InternationalGuideContent: any = null;
+if (internationalGuide) {
+  const rendered = await render(internationalGuide);
+  InternationalGuideContent = rendered.Content;
+}
+
+const brokerMeta: Record<string, { initials: string; tagline: string; tags: string[]; bestFor: string }> = {
+  'interactive-brokers-review-2026-the-best-broker-for-international-investors': {
+    initials: 'IB',
+    bestFor: 'Best Overall',
+    tagline: 'Ultra-low fees, 150+ global markets, best-in-class FX conversion. The long-term choice for serious international investors.',
+    tags: ['Lowest Fees', 'US Options', 'FX Optimized', '200+ Countries'],
+  },
+  'etoro-review-2026': {
+    initials: 'eT',
+    bestFor: 'Best for Beginners',
+    tagline: 'Social and copy trading, zero-commission stocks. Available in 140+ countries with a low $50 minimum deposit.',
+    tags: ['Copy Trading', 'Zero Commission', '140+ Countries'],
+  },
+  'saxo-bank-review-2026': {
+    initials: 'SB',
+    bestFor: 'Best for High Net Worth',
+    tagline: 'Institutional research, 70,000+ instruments, multi-currency accounts. Fees drop sharply at Platinum ($200k+) and VIP ($1M+).',
+    tags: ['Pro Tools', 'Full Market Access', 'Multi-Currency'],
+  },
+};
+
+const tableRows = [
+  { name: 'Interactive Brokers', sub: 'IBKR', slug: 'interactive-brokers-review-2026-the-best-broker-for-international-investors', bestFor: 'Advanced / Global', usStocks: 'Direct', options: true, fees: 'Very Low', feesClass: 'text-green-400', minDeposit: '$0', fxCost: 'Excellent', fxClass: 'text-green-400', countries: '200+', isBest: true },
+  { name: 'eToro', sub: 'EU / UK entity', slug: 'etoro-review-2026', bestFor: 'Beginners', usStocks: 'Direct / CFD', options: false, fees: 'Medium', feesClass: 'text-accent-400', minDeposit: '$50', fxCost: '0.5%', fxClass: 'text-accent-400', countries: '140+', isBest: false },
+  { name: 'Saxo Bank', sub: 'Multi-entity', slug: 'saxo-bank-review-2026', bestFor: 'High Net Worth', usStocks: 'Direct', options: true, fees: 'High → Low*', feesClass: 'text-orange-400', minDeposit: '$2,000', fxCost: 'Good', fxClass: 'text-green-400', countries: '50+', isBest: false },
+];
+---
+
+<BaseLayout
+  title="Best Brokers for International Investors (2026) | Get Global Yields"
+  description="Compare the best brokers for non-US investors. In-depth reviews of Interactive Brokers, eToro, and Saxo Bank plus guides for opening a US brokerage account from abroad."
+>
+
+  <!-- HERO -->
+  <div class="bg-gradient-to-b from-primary-800 to-primary-900 border-b border-primary-700">
+    <div class="container mx-auto px-4 sm:px-6 lg:px-8 py-16 lg:py-20 max-w-3xl text-center">
+      <span class="inline-block mb-5 rounded-full border border-accent-500/30 bg-accent-500/10 px-4 py-1.5 text-xs font-semibold uppercase tracking-widest text-accent-500">
+        Updated 2026 · Non-US Investors
+      </span>
+      <h1 class="text-4xl md:text-5xl font-bold text-slate-100 mb-5 tracking-tight leading-tight">
+        Best Brokers for International Investors in 2026:<br />
+        <span class="text-accent-500 text-2xl md:text-3xl mt-3 block">A Complete Guide for Expats and Global Market Participants</span>
+      </h1>
+      <p class="text-lg text-slate-400 max-w-2xl mx-auto mb-8">
+        Compare the best brokers for international investors in 2026—US market access, W-8BEN, fees, multi-currency accounts, and what expats and non-residents should prioritize.
+      </p>
+      <div class="flex flex-wrap justify-center gap-3">
+        <a href="#reviews" class="inline-flex items-center justify-center px-6 py-3 rounded-md bg-accent-500 hover:bg-accent-400 text-primary-900 text-sm font-bold shadow-lg shadow-accent-500/20 transition-all hover:-translate-y-0.5">
+          Compare Brokers ↓
+        </a>
+      </div>
+    </div>
+  </div>
+
+
+
+
+
+  {internationalGuide && InternationalGuideContent && (
+    <section id="international-guide" class="py-14 bg-primary-900 border-t border-primary-700">
+      <div class="container mx-auto px-4 sm:px-6 lg:px-8 max-w-4xl">
+
+
+        <div class="prose prose-invert prose-lg prose-a:text-accent-500 hover:prose-a:text-accent-400 max-w-none">
+          <InternationalGuideContent />
+        </div>
+      </div>
+    </section>
+  )}
+
+</BaseLayout>

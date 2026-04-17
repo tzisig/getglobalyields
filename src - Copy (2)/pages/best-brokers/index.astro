@@ -1,0 +1,252 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { BEST_BROKERS_HUB } from '../../data/bestBrokersHub';
+
+const reviews = BEST_BROKERS_HUB.filter(e => e.kind === 'review');
+const guides  = BEST_BROKERS_HUB.filter(e => e.kind === 'guide');
+const coming  = BEST_BROKERS_HUB.filter(e => e.kind === 'coming');
+
+const featured = reviews.find(r => r.slug.includes('interactive-brokers'));
+
+const brokerMeta: Record<string, { initials: string; tagline: string; tags: string[]; bestFor: string }> = {
+  'interactive-brokers-review-2026-the-best-broker-for-international-investors': {
+    initials: 'IB',
+    bestFor: 'Best Overall',
+    tagline: 'Ultra-low fees, 150+ global markets, best-in-class FX conversion. The long-term choice for serious international investors.',
+    tags: ['Lowest Fees', 'US Options', 'FX Optimized', '200+ Countries'],
+  },
+  'etoro-review-2026': {
+    initials: 'eT',
+    bestFor: 'Best for Beginners',
+    tagline: 'Social and copy trading, zero-commission stocks. Available in 140+ countries with a low $50 minimum deposit.',
+    tags: ['Copy Trading', 'Zero Commission', '140+ Countries'],
+  },
+  'saxo-bank-review-2026': {
+    initials: 'SB',
+    bestFor: 'Best for High Net Worth',
+    tagline: 'Institutional research, 70,000+ instruments, multi-currency accounts. Fees drop sharply at Platinum ($200k+) and VIP ($1M+).',
+    tags: ['Pro Tools', 'Full Market Access', 'Multi-Currency'],
+  },
+};
+
+const tableRows = [
+  { name: 'Interactive Brokers', sub: 'IBKR', slug: 'interactive-brokers-review-2026-the-best-broker-for-international-investors', bestFor: 'Advanced / Global', usStocks: 'Direct', options: true, fees: 'Very Low', feesClass: 'text-green-400', minDeposit: '$0', fxCost: 'Excellent', fxClass: 'text-green-400', countries: '200+', isBest: true },
+  { name: 'eToro', sub: 'EU / UK entity', slug: 'etoro-review-2026', bestFor: 'Beginners', usStocks: 'Direct / CFD', options: false, fees: 'Medium', feesClass: 'text-accent-400', minDeposit: '$50', fxCost: '0.5%', fxClass: 'text-accent-400', countries: '140+', isBest: false },
+  { name: 'Saxo Bank', sub: 'Multi-entity', slug: 'saxo-bank-review-2026', bestFor: 'High Net Worth', usStocks: 'Direct', options: true, fees: 'High → Low*', feesClass: 'text-orange-400', minDeposit: '$2,000', fxCost: 'Good', fxClass: 'text-green-400', countries: '50+', isBest: false },
+];
+---
+
+<BaseLayout
+  title="Best Brokers for International Investors (2026) | Get Global Yields"
+  description="Compare the best brokers for non-US investors. In-depth reviews of Interactive Brokers, eToro, and Saxo Bank plus guides for opening a US brokerage account from abroad."
+>
+
+  <!-- HERO -->
+  <div class="bg-gradient-to-b from-primary-800 to-primary-900 border-b border-primary-700">
+    <div class="container mx-auto px-4 sm:px-6 lg:px-8 py-16 lg:py-20 max-w-3xl text-center">
+      <span class="inline-block mb-5 rounded-full border border-accent-500/30 bg-accent-500/10 px-4 py-1.5 text-xs font-semibold uppercase tracking-widest text-accent-500">
+        Updated 2026 · Non-US Investors
+      </span>
+      <h1 class="text-4xl md:text-5xl font-extrabold text-slate-100 mb-5 tracking-tight leading-tight">
+        Best Brokers for<br />
+        <span class="text-accent-500">International Investors</span>
+      </h1>
+      <p class="text-lg text-slate-400 max-w-2xl mx-auto mb-8">
+        In-depth reviews, side-by-side comparisons, and step-by-step guides — so you choose the right broker for your situation.
+      </p>
+      <div class="flex flex-wrap justify-center gap-3">
+        <a href="#reviews" class="inline-flex items-center justify-center px-6 py-3 rounded-md bg-accent-500 hover:bg-accent-400 text-primary-900 text-sm font-bold shadow-lg shadow-accent-500/20 transition-all hover:-translate-y-0.5">
+          Compare Brokers ↓
+        </a>
+        <a href="#comparison-table" class="inline-flex items-center justify-center px-6 py-3 rounded-md border border-primary-600 hover:border-accent-500 text-slate-300 hover:text-accent-500 text-sm font-semibold transition-all">
+          Side-by-Side Table
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <!-- FEATURED BROKER -->
+  {featured && (
+    <section id="reviews" class="py-14 bg-primary-900">
+      <div class="container mx-auto px-4 sm:px-6 lg:px-8 max-w-4xl">
+        <div class="mb-8">
+          <h2 class="text-2xl font-bold text-slate-100 mb-1">Editor's Top Pick</h2>
+          <div class="h-0.5 w-12 bg-accent-500 rounded"></div>
+        </div>
+        <a
+          href={`/best-brokers/${featured.slug}`}
+          class="group relative flex flex-col sm:flex-row items-start gap-6 rounded-2xl border border-primary-600 hover:border-accent-500 bg-primary-800 hover:shadow-xl hover:shadow-accent-500/10 p-7 transition-all duration-200 hover:-translate-y-0.5"
+        >
+          <div class="absolute left-0 top-0 bottom-0 w-1 rounded-l-2xl bg-accent-500"></div>
+          <span class="absolute top-5 right-5 rounded bg-accent-500 px-2.5 py-1 text-xs font-bold uppercase tracking-wide text-primary-900">
+            ★ Best Overall
+          </span>
+          <div class="flex h-16 w-16 shrink-0 items-center justify-center rounded-xl border border-primary-600 bg-primary-900 text-2xl font-extrabold text-accent-500">
+            {brokerMeta[featured.slug]?.initials}
+          </div>
+          <div class="flex-1 min-w-0 pr-24">
+            <p class="text-xs font-semibold uppercase tracking-widest text-accent-500 mb-1">
+              {brokerMeta[featured.slug]?.bestFor}
+            </p>
+            <h3 class="text-xl font-bold text-slate-100 group-hover:text-accent-400 transition-colors mb-2">
+              {featured.title}
+            </h3>
+            <p class="text-sm text-slate-400 mb-4 leading-relaxed">
+              {brokerMeta[featured.slug]?.tagline}
+            </p>
+            <div class="flex flex-wrap gap-2">
+              {brokerMeta[featured.slug]?.tags.map(tag => (
+                <span class="rounded-md border border-primary-600 bg-primary-900 px-2.5 py-1 text-xs font-medium text-slate-300">
+                  {tag}
+                </span>
+              ))}
+            </div>
+          </div>
+          <svg class="hidden sm:block h-5 w-5 shrink-0 text-slate-500 group-hover:text-accent-500 transition-colors self-center" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+          </svg>
+        </a>
+      </div>
+    </section>
+  )}
+
+  <!-- ALL BROKER REVIEWS -->
+  <section class="pb-14 bg-primary-900">
+    <div class="container mx-auto px-4 sm:px-6 lg:px-8 max-w-4xl">
+      <div class="mb-8">
+        <h2 class="text-2xl font-bold text-slate-100 mb-1">All Broker Reviews</h2>
+        <div class="h-0.5 w-12 bg-accent-500 rounded"></div>
+      </div>
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+        {reviews.map(item => {
+          const meta = brokerMeta[item.slug];
+          return (
+            <a href={`/best-brokers/${item.slug}`} class="group flex flex-col rounded-xl border border-primary-700 hover:border-accent-500 bg-primary-800 hover:shadow-lg hover:shadow-accent-500/10 p-5 transition-all duration-200 hover:-translate-y-0.5">
+              <div class="flex items-center gap-3 mb-3">
+                <div class="flex h-10 w-10 shrink-0 items-center justify-center rounded-lg border border-primary-600 bg-primary-900 text-sm font-bold text-accent-500">
+                  {meta?.initials}
+                </div>
+                <div>
+                  <div class="font-bold text-slate-100 group-hover:text-accent-400 transition-colors text-sm">{item.title}</div>
+                  <div class="text-xs text-accent-500/80 font-medium">{meta?.bestFor}</div>
+                </div>
+              </div>
+              <p class="text-xs text-slate-500 leading-relaxed flex-1 mb-4">{meta?.tagline}</p>
+              <div class="flex flex-wrap gap-1.5 mb-4">
+                {meta?.tags.slice(0, 2).map(tag => (
+                  <span class="rounded border border-primary-600 px-2 py-0.5 text-xs text-slate-400">{tag}</span>
+                ))}
+              </div>
+              <span class="mt-auto text-xs font-semibold text-accent-500 group-hover:text-accent-400 flex items-center gap-1">
+                Read Full Review
+                <svg class="h-3.5 w-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+                </svg>
+              </span>
+            </a>
+          );
+        })}
+        {coming.map(item => (
+          <div class="flex flex-col rounded-xl border border-primary-700/50 bg-primary-800/40 p-5 opacity-50 cursor-not-allowed">
+            <div class="flex items-center gap-3 mb-3">
+              <div class="flex h-10 w-10 shrink-0 items-center justify-center rounded-lg border border-primary-700 bg-primary-900 text-slate-600">
+                <svg class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6v6m0 0v6m0-6h6m-6 0H6" />
+                </svg>
+              </div>
+              <div>
+                <div class="font-bold text-slate-400 text-sm">{item.title}</div>
+                <span class="inline-block rounded bg-primary-700 px-2 py-0.5 text-xs font-semibold uppercase tracking-wide text-slate-500">Coming Soon</span>
+              </div>
+            </div>
+            {item.teaser && <p class="text-xs text-slate-600 leading-relaxed">{item.teaser}</p>}
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- COMPARISON TABLE -->
+  <section id="comparison-table" class="py-14 bg-primary-800 border-t border-b border-primary-700">
+    <div class="container mx-auto px-4 sm:px-6 lg:px-8 max-w-4xl">
+      <div class="mb-8">
+        <h2 class="text-2xl font-bold text-slate-100 mb-1">Side-by-Side Comparison</h2>
+        <p class="text-sm text-slate-500 mt-2 mb-1">Key metrics for non-US investors</p>
+        <div class="h-0.5 w-12 bg-accent-500 rounded"></div>
+      </div>
+      <div class="overflow-x-auto rounded-xl border border-primary-700">
+        <table class="w-full text-sm border-collapse">
+          <thead>
+            <tr class="border-b border-primary-700 bg-primary-900/60">
+              <th class="px-4 py-3 text-left text-xs font-semibold uppercase tracking-wider text-accent-500">Broker</th>
+              <th class="px-4 py-3 text-left text-xs font-semibold uppercase tracking-wider text-accent-500">Best For</th>
+              <th class="px-4 py-3 text-center text-xs font-semibold uppercase tracking-wider text-accent-500">US Stocks</th>
+              <th class="px-4 py-3 text-center text-xs font-semibold uppercase tracking-wider text-accent-500">Options</th>
+              <th class="px-4 py-3 text-left text-xs font-semibold uppercase tracking-wider text-accent-500">Fees</th>
+              <th class="px-4 py-3 text-left text-xs font-semibold uppercase tracking-wider text-accent-500">Min. Deposit</th>
+              <th class="px-4 py-3 text-left text-xs font-semibold uppercase tracking-wider text-accent-500">FX Cost</th>
+              <th class="px-4 py-3 text-left text-xs font-semibold uppercase tracking-wider text-accent-500">Countries</th>
+              <th class="px-4 py-3"></th>
+            </tr>
+          </thead>
+          <tbody>
+            {tableRows.map((row, i) => (
+              <tr class={`border-b border-primary-700/50 transition-colors hover:bg-primary-700/30 ${row.isBest ? 'bg-accent-500/5' : (i % 2 === 0 ? 'bg-primary-800' : 'bg-primary-800/60')}`}>
+                <td class={`px-4 py-4 ${row.isBest ? 'border-l-2 border-accent-500' : ''}`}>
+                  <div class="font-semibold text-slate-100">{row.name}</div>
+                  <div class="text-xs text-slate-500">{row.sub}</div>
+                </td>
+                <td class="px-4 py-4 text-slate-300">{row.bestFor}</td>
+                <td class="px-4 py-4 text-center text-slate-300">{row.usStocks}</td>
+                <td class="px-4 py-4 text-center">
+                  {row.options ? <span class="text-green-400 font-bold">✓</span> : <span class="text-red-400">✗</span>}
+                </td>
+                <td class={`px-4 py-4 font-semibold ${row.feesClass}`}>{row.fees}</td>
+                <td class="px-4 py-4 text-slate-300">{row.minDeposit}</td>
+                <td class={`px-4 py-4 font-semibold ${row.fxClass}`}>{row.fxCost}</td>
+                <td class="px-4 py-4 text-slate-300">{row.countries}</td>
+                <td class="px-4 py-4">
+                  <a href={`/best-brokers/${row.slug}`} class="inline-flex items-center justify-center rounded-md bg-accent-500 hover:bg-accent-400 px-3 py-1.5 text-xs font-bold text-primary-900 transition-colors whitespace-nowrap">
+                    Review
+                  </a>
+                </td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <p class="mt-3 text-xs text-slate-500">* Saxo Bank fees decrease at Platinum ($200k+) and VIP ($1M+) tiers.</p>
+    </div>
+  </section>
+
+  <!-- GUIDES -->
+  <section class="py-14 bg-primary-900">
+    <div class="container mx-auto px-4 sm:px-6 lg:px-8 max-w-4xl">
+      <div class="mb-8">
+        <h2 class="text-2xl font-bold text-slate-100 mb-1">Guides & How-To Articles</h2>
+        <div class="h-0.5 w-12 bg-accent-500 rounded"></div>
+      </div>
+      <ul class="space-y-3">
+        {guides.map(item => (
+          <li>
+            <a href={`/best-brokers/${item.slug}`} class="group flex items-center gap-4 rounded-xl border border-primary-700 hover:border-accent-500 bg-primary-800 hover:shadow-lg hover:shadow-accent-500/10 px-5 py-4 transition-all duration-200">
+              <span class="flex h-9 w-9 shrink-0 items-center justify-center rounded-lg border border-primary-600 bg-primary-900 text-accent-500">
+                <svg class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
+                </svg>
+              </span>
+              <span class="flex-1 min-w-0">
+                <span class="font-bold text-slate-100 group-hover:text-accent-400 transition-colors">{item.title}</span>
+                <span class="mt-0.5 block text-sm text-slate-500">Guide — open article</span>
+              </span>
+              <svg class="h-5 w-5 shrink-0 text-slate-500 group-hover:text-accent-500 transition-colors" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+              </svg>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </div>
+  </section>
+
+</BaseLayout>

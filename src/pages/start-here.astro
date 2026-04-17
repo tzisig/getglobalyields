@@ -1,0 +1,134 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Card from '../components/Card.astro';
+import { getCollection, getEntry } from 'astro:content';
+
+// Fetch specific articles
+const usBrokerageAccount = await getEntry('best-brokers', 'how-to-open-a-us-brokerage-account-as-a-non-resident-2026-guide');
+const w8benGuide = await getEntry('taxes', 'w-8ben-form-complete-guide-for-foreign-investors-2026');
+const usIsraelTax = await getEntry('taxes', 'us-israel-tax-treaty-explained-capital-gains-dividends-2026');
+
+const ibkrReview = await getEntry('best-brokers', 'interactive-brokers-review-2026-the-best-broker-for-international-investors');
+
+const tqqqVsQqq = await getEntry('strategies', 'buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026');
+const usStocksGuide = await getEntry('us-investing', 'how-to-invest-in-us-stocks-from-israel-step-by-step-2026');
+const tqqqTaxes = await getEntry('taxes', 'tqqq-for-international-investors-tax-implications-2026');
+
+const formatPost = (post, type) => {
+  if (!post) return null;
+  return { ...post, type, url: `/${type}/${post.id}` };
+};
+
+const beginnerBasics = [
+  formatPost(usBrokerageAccount, 'best-brokers'),
+  formatPost(w8benGuide, 'taxes'),
+  formatPost(usIsraelTax, 'taxes')
+].filter(Boolean);
+
+const brokers = [
+  formatPost(ibkrReview, 'best-brokers')
+].filter(Boolean);
+
+const startInvesting = [
+  formatPost(tqqqVsQqq, 'strategies'),
+  formatPost(usStocksGuide, 'us-investing'),
+  formatPost(tqqqTaxes, 'taxes')
+].filter(Boolean);
+---
+
+<BaseLayout
+  title="Start Here — Your Global Investing Journey"
+  description="Follow our step-by-step roadmap to start investing in US markets from anywhere in the world."
+>
+  <div class="bg-primary-900 py-16 lg:py-24 border-b border-primary-700 relative overflow-hidden">
+    <div class="absolute inset-x-0 bottom-0 h-1/2 bg-gradient-to-t from-primary-800 to-transparent"></div>
+    <div class="container relative mx-auto px-4 sm:px-6 lg:px-8 max-w-4xl text-center">
+      <h1 class="text-4xl md:text-5xl lg:text-6xl font-bold text-slate-100 mb-6 font-heading">
+        Your Playbook to <span class="text-accent-500 text-transparent bg-clip-text bg-gradient-to-r from-accent-400 to-accent-600">Global Yields</span>
+      </h1>
+      <p class="text-xl text-slate-300 leading-relaxed">
+        Don't let borders limit your financial growth. Follow this step-by-step roadmap tailored specifically for international investors. 
+      </p>
+    </div>
+  </div>
+
+  <section class="py-16 bg-primary-800">
+    <div class="container mx-auto px-4 sm:px-6 lg:px-8 max-w-6xl">
+      
+      <!-- Section 1: Beginner Basics -->
+      <div class="mb-20">
+        <div class="flex items-center mb-8">
+          <div class="flex items-center justify-center w-12 h-12 rounded-full bg-accent-500 text-primary-900 font-bold text-xl mr-4 shadow-lg shadow-accent-500/20">1</div>
+          <div>
+            <h2 class="text-2xl md:text-3xl font-bold text-slate-100">Master the Basics</h2>
+            <p class="text-slate-400 mt-1">Understanding the foundational mechanics and rules of foreign tax systems.</p>
+          </div>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 pl-0 md:pl-16">
+          {beginnerBasics.map(post => (
+            <Card
+              title={post.data.title}
+              description={post.data.description}
+              href={post.url}
+              date={post.data.pubDate}
+              categoryName={post.type}
+              image={post.data.heroImage}
+            />
+          ))}
+        </div>
+      </div>
+
+      <!-- Section 2: Choose a Broker -->
+      <div class="mb-20 relative">
+        <div class="absolute left-6 top-12 bottom-[-4rem] w-0.5 bg-primary-700 hidden md:block"></div>
+        <div class="flex items-center mb-8 relative z-10">
+          <div class="flex items-center justify-center w-12 h-12 rounded-full bg-accent-500 text-primary-900 font-bold text-xl mr-4 shadow-lg shadow-accent-500/20">2</div>
+          <div>
+            <h2 class="text-2xl md:text-3xl font-bold text-slate-100">Set Up Your Infrastructure</h2>
+            <p class="text-slate-400 mt-1">Find the best global broker and build your command center.</p>
+          </div>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8 pl-0 md:pl-16 relative z-10">
+          <a href="/best-brokers" class="group p-8 bg-primary-900 rounded-xl border border-primary-600 hover:border-accent-500 transition-all duration-300 shadow-lg flex flex-col justify-center">
+            <h3 class="text-2xl font-bold text-slate-100 group-hover:text-accent-500 transition-colors mb-2">🏆 View The Best Brokers List</h3>
+            <p class="text-slate-400">See our comprehensive comparison of the best global brokers available to you.</p>
+          </a>
+          {brokers.map(post => (
+            <Card
+              title={post.data.title}
+              description={post.data.description}
+              href={post.url}
+              date={post.data.pubDate}
+              categoryName={post.type}
+              image={post.data.heroImage}
+            />
+          ))}
+        </div>
+      </div>
+
+      <!-- Section 3: Start Investing -->
+      <div>
+        <div class="flex items-center mb-8">
+          <div class="flex items-center justify-center w-12 h-12 rounded-full bg-accent-500 text-primary-900 font-bold text-xl mr-4 shadow-lg shadow-accent-500/20">3</div>
+          <div>
+            <h2 class="text-2xl md:text-3xl font-bold text-slate-100">Deploy Capital & Generate Yield</h2>
+            <p class="text-slate-400 mt-1">Implement proven investment strategies and capitalize on US markets.</p>
+          </div>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 pl-0 md:pl-16">
+          {startInvesting.map(post => (
+            <Card
+              title={post.data.title}
+              description={post.data.description}
+              href={post.url}
+              date={post.data.pubDate}
+              categoryName={post.type}
+              image={post.data.heroImage}
+            />
+          ))}
+        </div>
+      </div>
+
+    </div>
+  </section>
+</BaseLayout>

@@ -1,0 +1,193 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Sidebar from '../../components/Sidebar.astro';
+---
+
+<BaseLayout 
+  title="Investment Calculators | Get Global Yields" 
+  description="Free calculators to plan your financial journey, project compound interest, and estimate returns."
+>
+  <div class="py-12 lg:py-16">
+    <div class="container mx-auto px-4 sm:px-6 lg:px-8 max-w-7xl">
+      <div class="mb-12 text-center">
+        <h1 class="text-4xl font-bold text-slate-100 mb-4">Investment <span class="text-accent-500">Calculators</span></h1>
+        <p class="text-lg text-slate-400 max-w-2xl mx-auto">
+          Project your long-term wealth building with our compounding models. 
+        </p>
+      </div>
+
+      <!-- Content Grid Matching Review Pages -->
+      <div class="grid grid-cols-1 lg:grid-cols-3 gap-8 lg:gap-12">
+        <div class="lg:col-span-2">
+          <!-- Compound Interest Calculator -->
+          <div class="bg-primary-900 border border-primary-700 rounded-2xl overflow-hidden shadow-xl">
+            <div class="bg-primary-800 border-b border-primary-700 px-6 py-4">
+              <h2 class="text-2xl font-bold text-slate-100">Compound Interest Calculator</h2>
+            </div>
+            
+            <div class="p-6">
+              <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+                <!-- Column 1: Inputs -->
+                <div class="space-y-6">
+                  <div>
+                    <label for="initial-investment" class="block text-sm font-bold text-slate-300 mb-2">Initial Investment ($)</label>
+                    <input 
+                      type="number" 
+                      id="initial-investment" 
+                      value="10000" 
+                      min="0"
+                      class="w-full bg-primary-800 border border-primary-600 rounded-lg px-4 py-3 text-slate-100 focus:outline-none focus:ring-2 focus:ring-accent-500 focus:border-transparent transition-all"
+                    />
+                  </div>
+                  
+                  <div>
+                    <label for="monthly-contribution" class="block text-sm font-bold text-slate-300 mb-2">Monthly Contribution ($)</label>
+                    <input 
+                      type="number" 
+                      id="monthly-contribution" 
+                      value="500" 
+                      min="0"
+                      class="w-full bg-primary-800 border border-primary-600 rounded-lg px-4 py-3 text-slate-100 focus:outline-none focus:ring-2 focus:ring-accent-500 focus:border-transparent transition-all"
+                    />
+                  </div>
+                  
+                  <div>
+                    <label for="annual-return" class="block text-sm font-bold text-slate-300 mb-2">Estimated Annual Return (%)</label>
+                    <input 
+                      type="number" 
+                      id="annual-return" 
+                      value="8" 
+                      min="0"
+                      step="0.1"
+                      class="w-full bg-primary-800 border border-primary-600 rounded-lg px-4 py-3 text-slate-100 focus:outline-none focus:ring-2 focus:ring-accent-500 focus:border-transparent transition-all"
+                    />
+                  </div>
+                  
+                  <div>
+                    <label for="years" class="block text-sm font-bold text-slate-300 mb-2">Years to Grow</label>
+                    <input 
+                      type="number" 
+                      id="years" 
+                      value="10" 
+                      min="1"
+                      max="100"
+                      class="w-full bg-primary-800 border border-primary-600 rounded-lg px-4 py-3 text-slate-100 focus:outline-none focus:ring-2 focus:ring-accent-500 focus:border-transparent transition-all"
+                    />
+                  </div>
+
+
+                </div>
+
+                <!-- Column 2: Results -->
+                <div class="bg-primary-800 rounded-xl p-6 border border-primary-700 flex flex-col justify-center">
+                  <div class="mb-8">
+                    <h3 class="text-sm uppercase tracking-wider text-slate-400 font-bold mb-2">Final Portfolio Value</h3>
+                    <div class="text-4xl sm:text-5xl font-bold text-accent-500 break-words" id="result-final-value">$0.00</div>
+                  </div>
+                  
+                  <div class="space-y-4">
+                    <div class="flex justify-between items-center border-b border-primary-700 pb-3">
+                      <span class="text-slate-300">Initial Investment</span>
+                      <span class="font-bold text-slate-100" id="result-initial">$0.00</span>
+                    </div>
+                    <div class="flex justify-between items-center border-b border-primary-700 pb-3">
+                      <span class="text-slate-300">Total Contributions</span>
+                      <span class="font-bold text-slate-100" id="result-contributions">$0.00</span>
+                    </div>
+                    <div class="flex justify-between items-center">
+                      <span class="text-slate-300">Total Growth</span>
+                      <span class="font-bold text-green-400" id="result-growth">$0.00</span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="mt-8 text-center sm:text-left border-t border-primary-700 pt-6">
+                <p class="text-slate-400 text-sm italic">
+                  * Results are for illustrative purposes only and do not guarantee future returns.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <!-- Right Sidebar matches Reviews structure -->
+        <div class="hidden lg:block lg:col-span-1">
+          <div class="sticky top-24">
+            <Sidebar />
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    // Self-invoking immediately loaded script ensures execution regardless of ViewTransitions
+    function initCalculator() {
+      const inputInitial = document.getElementById('initial-investment') as HTMLInputElement;
+      const inputMonthly = document.getElementById('monthly-contribution') as HTMLInputElement;
+      const inputReturn = document.getElementById('annual-return') as HTMLInputElement;
+      const inputYears = document.getElementById('years') as HTMLInputElement;
+
+
+      const outFinal = document.getElementById('result-final-value');
+      const outInitial = document.getElementById('result-initial');
+      const outContributions = document.getElementById('result-contributions');
+      const outGrowth = document.getElementById('result-growth');
+
+      if (!inputInitial || !inputMonthly || !outFinal) return;
+
+      const formatCurrency = (num: number) => {
+        return new Intl.NumberFormat('en-US', { style: 'currency', currency: 'USD', maximumFractionDigits: 0 }).format(num);
+      };
+
+      const calculate = () => {
+        const p = parseFloat(inputInitial.value) || 0;
+        const pmt = parseFloat(inputMonthly.value) || 0;
+        const r = (parseFloat(inputReturn.value) || 0) / 100;
+        const t = parseFloat(inputYears.value) || 0;
+        const n = 12; // monthly compounding
+        
+        // Principal Growth P(1 + r/n)^(n*t)
+        const principalGrowth = p * Math.pow(1 + r/n, n * t);
+        
+        // Contributions Growth PMT × {[(1 + r/n)^(nt) - 1] / (r/n)}
+        let contributionGrowth = 0;
+        if (r > 0) {
+           contributionGrowth = pmt * ((Math.pow(1 + r/n, n * t) - 1) / (r/n));
+        } else {
+           contributionGrowth = pmt * (n * t);
+        }
+
+        const finalValue = principalGrowth + contributionGrowth;
+        const totalContributionsAmt = pmt * n * t;
+        const totalInvested = p + totalContributionsAmt;
+        const totalGrowthAmt = finalValue - totalInvested;
+
+        // Update DOM
+        outFinal.textContent = formatCurrency(finalValue);
+        outInitial.textContent = formatCurrency(p);
+        outContributions.textContent = formatCurrency(totalContributionsAmt);
+        outGrowth.textContent = formatCurrency(totalGrowthAmt);
+      };
+
+      // Ensure real-time updates via 'input' event
+      const inputs = [inputInitial, inputMonthly, inputReturn, inputYears];
+      inputs.forEach(input => {
+        input.addEventListener('input', calculate);
+      });
+
+
+
+      // Initial execution
+      calculate();
+    }
+
+    // Try executing directly. If DOM is still loading, wait.
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', initCalculator);
+    } else {
+      initCalculator();
+    }
+  </script>
+</BaseLayout>

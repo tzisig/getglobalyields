@@ -1,0 +1,29 @@
+---
+import SEOHead from '../components/SEOHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import '../styles/global.css';
+
+export interface Props {
+  title?: string;
+  description?: string;
+  image?: string;
+  type?: string;
+  theme?: 'dark' | 'light';  // 'dark' = דפי landing, 'light' = מאמרים
+}
+
+const { title, description, image, type, theme = 'dark' } = Astro.props;
+---
+
+<!DOCTYPE html>
+<html lang="en">
+  <SEOHead title={title} description={description} image={image} type={type} />
+  <body class={theme}>
+    <Header />
+    {theme === 'light' && <div class="page-hero-bridge" aria-hidden="true" />}
+    <main class="flex-grow w-full">
+      <slot />
+    </main>
+    <Footer />
+  </body>
+</html>

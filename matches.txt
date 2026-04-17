@@ -1,0 +1,7 @@
+c:\Users\Zion\Dev\getglobalyields\src\pages\about.astro:6:title="About Us - Get Global Yields"
+c:\Users\Zion\Dev\getglobalyields\src\pages\comparisons\[slug].astro:20:<BaseLayout title={`${post.data.title} - Get Global Yields`} description={post.data.description} image={post.data.heroImage}>
+c:\Users\Zion\Dev\getglobalyields\src\pages\comparisons\[slug].astro:45:{index < post.data.products.length - 1 && <span class="mx-4 text-primary-600 font-bold">VS</span>}
+c:\Users\Zion\Dev\getglobalyields\src\pages\contact.astro:6:title="Contact Us - Get Global Yields"
+c:\Users\Zion\Dev\getglobalyields\src\pages\disclaimer.astro:6:title="Disclaimer - Get Global Yields"
+c:\Users\Zion\Dev\getglobalyields\src\pages\guides\[slug].astro:21:<BaseLayout title={`${post.data.title} - Get Global Yields`} description={post.data.description} image={post.data.heroImage}>
+c:\Users\Zion\Dev\getglobalyields\src\pages\privacy-policy.astro:6:title="Privacy Policy - Get Global Yields"

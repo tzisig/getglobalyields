@@ -1,0 +1,53 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Card from '../components/Card.astro';
+import { getCollection } from 'astro:content';
+
+const allGuides = await getCollection('guides');
+const relevantSlugs = [
+  'us-israel-tax-treaty-explained-capital-gains-dividends-2026',
+  'w-8ben-form-complete-guide-for-foreign-investors-2026',
+  'tqqq-for-international-investors-tax-implications-2026'
+];
+
+const posts = allGuides
+  .filter(p => relevantSlugs.includes(p.id))
+  .map(p => ({ ...p, type: 'guides', url: `/guides/${p.id}` }));
+---
+
+<BaseLayout
+  title="International Taxes — Global Access"
+  description="Navigate W-8BEN forms, dividend withholding taxes, and tax treaties to protect your investment yields."
+>
+  <div class="bg-primary-900 py-16 lg:py-24 border-b border-primary-700 relative overflow-hidden">
+    <div class="container relative mx-auto px-4 sm:px-6 lg:px-8 max-w-4xl text-center">
+      <h1 class="text-4xl md:text-5xl font-extrabold text-slate-100 mb-6">
+        Navigating <span class="text-accent-500">Taxes</span>
+      </h1>
+      <p class="text-xl text-slate-300 leading-relaxed max-w-2xl mx-auto">
+        Don't let foreign withholding taxes eat your profits. Learn how to legally optimize your tax structure globally.
+      </p>
+    </div>
+  </div>
+
+  <section class="py-16 bg-primary-800 min-h-screen">
+    <div class="container mx-auto px-4 sm:px-6 lg:px-8 max-w-6xl">
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+        {posts.length > 0 ? posts.map(post => (
+          <Card
+            title={post.data.title}
+            description={post.data.description}
+            href={post.url}
+            date={post.data.pubDate}
+            categoryName={post.type}
+            image={post.data.heroImage}
+          />
+        )) : (
+           <div class="col-span-full text-center py-12 bg-primary-900 rounded-lg border border-primary-700 border-dashed">
+             <p class="text-slate-400">Content coming soon!</p>
+           </div>
+        )}
+      </div>
+    </div>
+  </section>
+</BaseLayout>
