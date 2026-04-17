@@ -1,0 +1,84 @@
+<svg width="100%" viewBox="0 0 680 520" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Global investing illustration</title>
+<desc>A globe with stock chart and rising arrow representing global investing returns</desc>
+<style>
+  .ring { fill: none; stroke: #C9A84C; stroke-width: 0.8; opacity: 0.25; }
+  .gridline { stroke: #C9A84C; stroke-width: 0.5; opacity: 0.12; }
+  .chartline { fill: none; stroke: #C9A84C; stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round; }
+  .chartfill { fill: #C9A84C; opacity: 0.08; }
+  .dot { fill: #C9A84C; }
+  .stat-box { fill: #112240; stroke: #C9A84C; stroke-width: 0.8; opacity: 0.95; }
+  .stat-val { font-family: system-ui, sans-serif; font-weight: 700; font-size: 15px; fill: #C9A84C; }
+  .stat-lbl { font-family: system-ui, sans-serif; font-size: 11px; fill: #94a3b8; }
+  .land { fill: #1e3a5f; opacity: 0.7; }
+  .ocean { fill: #0a192f; }
+  .meridian { fill: none; stroke: #3a506b; stroke-width: 0.6; }
+  .arrow-up { fill: none; stroke: #4ade80; stroke-width: 2.5; stroke-linecap: round; stroke-linejoin: round; }
+</style>
+
+<circle cx="340" cy="260" r="200" class="ocean" stroke="#233554" stroke-width="1"/>
+
+<ellipse cx="340" cy="260" rx="200" ry="40" class="meridian"/>
+<ellipse cx="340" cy="210" rx="185" ry="30" class="meridian"/>
+<ellipse cx="340" cy="310" rx="185" ry="30" class="meridian"/>
+<ellipse cx="340" cy="160" rx="145" ry="18" class="meridian"/>
+<ellipse cx="340" cy="360" rx="145" ry="18" class="meridian"/>
+
+<path d="M340 60 Q540 260 340 460" class="meridian"/>
+<path d="M340 60 Q140 260 340 460" class="meridian"/>
+<path d="M340 60 Q440 160 440 260 Q440 360 340 460" class="meridian"/>
+<path d="M340 60 Q240 160 240 260 Q240 360 340 460" class="meridian"/>
+
+<path d="M180 180 Q200 170 230 175 Q250 180 255 200 Q260 220 245 240 Q230 255 210 250 Q190 245 180 230 Q170 210 180 180Z" class="land"/>
+<path d="M330 155 Q355 150 370 160 Q380 170 375 185 Q368 195 350 195 Q332 190 328 175 Q325 165 330 155Z" class="land"/>
+<path d="M330 210 Q355 205 365 225 Q375 250 368 280 Q360 305 340 310 Q320 308 312 285 Q305 260 312 235 Q318 215 330 210Z" class="land"/>
+<path d="M390 155 Q430 145 460 155 Q485 165 490 185 Q492 205 475 215 Q455 220 430 215 Q405 210 393 195 Q385 178 390 155Z" class="land"/>
+<path d="M445 290 Q468 285 478 298 Q485 312 478 325 Q468 335 450 332 Q433 328 428 315 Q425 300 445 290Z" class="land"/>
+<path d="M230 270 Q250 265 260 280 Q268 298 260 320 Q250 340 235 342 Q220 340 215 322 Q210 302 218 283 Q222 270 230 270Z" class="land"/>
+
+<circle cx="340" cy="260" r="200" fill="none" stroke="#3a506b" stroke-width="1.5"/>
+<circle cx="340" cy="260" r="215" fill="none" stroke="#C9A84C" stroke-width="0.5" opacity="0.15"/>
+<circle cx="340" cy="260" r="230" fill="none" stroke="#C9A84C" stroke-width="0.3" opacity="0.08"/>
+
+<rect x="390" y="340" width="210" height="120" rx="10" fill="#0a192f" stroke="#233554" stroke-width="1" opacity="0.95"/>
+<line x1="400" y1="370" x2="590" y2="370" class="gridline"/>
+<line x1="400" y1="390" x2="590" y2="390" class="gridline"/>
+<line x1="400" y1="410" x2="590" y2="410" class="gridline"/>
+<line x1="400" y1="430" x2="590" y2="430" class="gridline"/>
+<polygon points="405,445 435,430 460,420 485,405 510,395 530,375 555,358 580,345 580,455 405,455" class="chartfill"/>
+<polyline points="405,445 435,430 460,420 485,405 510,395 530,375 555,358 580,345" class="chartline"/>
+<circle cx="405" cy="445" r="3" class="dot"/>
+<circle cx="460" cy="420" r="3" class="dot"/>
+<circle cx="510" cy="395" r="3" class="dot"/>
+<circle cx="555" cy="358" r="3" class="dot"/>
+<circle cx="580" cy="345" r="3.5" fill="#4ade80"/>
+
+<rect x="60" y="150" width="130" height="62" rx="8" class="stat-box"/>
+<text x="125" y="172" text-anchor="middle" class="stat-val">+127%</text>
+<text x="125" y="188" text-anchor="middle" class="stat-lbl">avg. annual return</text>
+<text x="125" y="202" text-anchor="middle" class="stat-lbl">TQQQ (5yr)</text>
+
+<rect x="60" y="330" width="130" height="62" rx="8" class="stat-box"/>
+<text x="125" y="352" text-anchor="middle" class="stat-val">200+</text>
+<text x="125" y="368" text-anchor="middle" class="stat-lbl">countries supported</text>
+<text x="125" y="382" text-anchor="middle" class="stat-lbl">by top brokers</text>
+
+<rect x="490" y="95" width="130" height="62" rx="8" class="stat-box"/>
+<text x="555" y="117" text-anchor="middle" class="stat-val">$0</text>
+<text x="555" y="133" text-anchor="middle" class="stat-lbl">commission trades</text>
+<text x="555" y="147" text-anchor="middle" class="stat-lbl">at top brokers</text>
+
+<polyline points="260,310 300,270 330,250 370,220 410,195" class="arrow-up"/>
+<polygon points="410,195 398,208 420,210" fill="#4ade80"/>
+
+<circle cx="355" cy="170" r="3" fill="#C9A84C" opacity="0.8"/>
+<circle cx="220" cy="210" r="3" fill="#C9A84C" opacity="0.8"/>
+<circle cx="450" cy="180" r="3" fill="#C9A84C" opacity="0.8"/>
+<circle cx="245" cy="295" r="3" fill="#C9A84C" opacity="0.8"/>
+<circle cx="460" cy="308" r="3" fill="#C9A84C" opacity="0.8"/>
+
+<line x1="355" y1="170" x2="220" y2="210" stroke="#C9A84C" stroke-width="0.8" stroke-dasharray="4,3" opacity="0.3"/>
+<line x1="355" y1="170" x2="450" y2="180" stroke="#C9A84C" stroke-width="0.8" stroke-dasharray="4,3" opacity="0.3"/>
+<line x1="220" y1="210" x2="245" y2="295" stroke="#C9A84C" stroke-width="0.8" stroke-dasharray="4,3" opacity="0.3"/>
+<line x1="450" y1="180" x2="460" y2="308" stroke="#C9A84C" stroke-width="0.8" stroke-dasharray="4,3" opacity="0.3"/>
+</svg>
