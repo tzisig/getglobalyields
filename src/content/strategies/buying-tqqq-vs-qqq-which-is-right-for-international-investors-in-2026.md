@@ -10,17 +10,17 @@ products: ["TQQQ", "QQQ"]
 
 ## **Introduction**
 
-If you follow tech investing or trade US ETFs from abroad, you have almost certainly come across both QQQ and TQQQ. These two funds track the same underlying index — the Nasdaq-100 — but they behave in dramatically different ways. One is a straightforward, buy-and-hold friendly ETF. The other is a leveraged product that can double or triple your gains in a week, and just as easily wipe out a significant portion of your portfolio.
+If you follow tech investing or trade US ETFs from abroad, you have almost certainly come across both QQQ and TQQQ. These two funds track the same underlying index - the Nasdaq-100 - but they behave in dramatically different ways. One is a straightforward, buy-and-hold friendly ETF. The other is a leveraged product that can double or triple your gains in a week, and just as easily wipe out a significant portion of your portfolio.
 
-For international investors — whether you are based in Israel, the UAE, Singapore, Europe, or Latin America — the choice between buying TQQQ vs QQQ is not just a performance question. It also involves tax treatment, volatility tolerance, account type, and investment horizon.
+For international investors - whether you are based in Israel, the UAE, Singapore, Europe, or Latin America - the choice between buying TQQQ vs QQQ is not just a performance question. It also involves tax treatment, volatility tolerance, account type, and investment horizon.
 
 This guide walks you through everything you need to know before deciding which ETF belongs in your portfolio.
 
 ## **What Are QQQ and TQQQ?**
 
-**QQQ — Invesco QQQ Trust**
+**QQQ - Invesco QQQ Trust**
 
-QQQ is one of the largest and most traded ETFs in the world. It tracks the Nasdaq-100 Index, which includes 100 of the largest non-financial companies listed on the Nasdaq — heavily weighted toward technology giants like Apple, Microsoft, Nvidia, Amazon, and Meta.
+QQQ is one of the largest and most traded ETFs in the world. It tracks the Nasdaq-100 Index, which includes 100 of the largest non-financial companies listed on the Nasdaq - heavily weighted toward technology giants like Apple, Microsoft, Nvidia, Amazon, and Meta.
 
 QQQ is a standard, non-leveraged ETF. If the Nasdaq-100 rises 1% in a day, QQQ rises approximately 1%. It is designed to be held long-term and is widely used by both retail and institutional investors around the world.
 
@@ -29,24 +29,24 @@ Key facts about QQQ:
 *   Expense ratio: 0.20% per year
 *   Assets under management: over $250 billion
 *   Available on most major US brokers accepting international clients
-*   No leverage — straightforward price exposure to the Nasdaq-100
+*   No leverage - straightforward price exposure to the Nasdaq-100
 
-**TQQQ — ProShares UltraPro QQQ**
+**TQQQ - ProShares UltraPro QQQ**
 
 TQQQ is a 3x leveraged daily ETF. It is designed to deliver three times the daily return of the Nasdaq-100. If the Nasdaq-100 goes up 2% today, TQQQ aims to go up approximately 6%. If the Nasdaq-100 drops 2%, TQQQ drops approximately 6%.
 
-This compounding of daily returns makes TQQQ a fundamentally different instrument from QQQ — even though they track the same index. It is not simply a "faster" version of QQQ. It is a short-term trading tool that behaves unpredictably over longer holding periods.
+This compounding of daily returns makes TQQQ a fundamentally different instrument from QQQ - even though they track the same index. It is not simply a "faster" version of QQQ. It is a short-term trading tool that behaves unpredictably over longer holding periods.
 
 Key facts about TQQQ:
 
 *   Expense ratio: 0.88% per year
-*   3x daily leverage — resets every trading day
+*   3x daily leverage - resets every trading day
 *   Subject to volatility decay (explained below)
 *   High volume and liquidity, but high risk
 
 ## **The Core Difference: Leverage and Volatility Decay**
 
-The biggest misunderstanding about TQQQ is this: people assume that if QQQ is up 30% over a year, TQQQ should be up roughly 90%. In reality, TQQQ almost never delivers exactly 3x the annual return of QQQ. It can deliver more — or far less — depending on the path the market takes to get there.
+The biggest misunderstanding about TQQQ is this: people assume that if QQQ is up 30% over a year, TQQQ should be up roughly 90%. In reality, TQQQ almost never delivers exactly 3x the annual return of QQQ. It can deliver more - or far less - depending on the path the market takes to get there.
 
 This is known as volatility decay (or beta slippage). Because TQQQ resets its leverage daily, sideways or choppy markets erode its value over time, even if the underlying index ends the period flat.
 
@@ -57,7 +57,7 @@ A simple example:
 *   Net result for Nasdaq-100: -0.25%
 *   Net result for TQQQ: approximately -2.25%
 
-Over short trending periods — like a strong bull run — TQQQ can dramatically outperform. Over volatile or sideways periods, it underperforms and decays. This is why TQQQ is generally considered a tool for short-term tactical positions, not long-term portfolio holdings.
+Over short trending periods - like a strong bull run - TQQQ can dramatically outperform. Over volatile or sideways periods, it underperforms and decays. This is why TQQQ is generally considered a tool for short-term tactical positions, not long-term portfolio holdings.
 
 QQQ does not have this problem. It simply reflects the index with no daily leverage reset, making it much more suitable for long-term, buy-and-hold strategies.
 
@@ -82,7 +82,7 @@ Tax treatment is one of the most overlooked aspects of the TQQQ vs QQQ decision 
 
 Both QQQ and TQQQ pay dividends, which are subject to US withholding tax. As a non-US resident, the standard withholding rate is 30%, which can be reduced if your country has a tax treaty with the United States.
 
-For example, under the US-Israel tax treaty, dividend withholding is typically reduced to 25% on portfolio dividends. Other countries may have lower rates — as low as 10-15% depending on the treaty.
+For example, under the US-Israel tax treaty, dividend withholding is typically reduced to 25% on portfolio dividends. Other countries may have lower rates - as low as 10-15% depending on the treaty.
 
 To benefit from treaty rates, you must file a W-8BEN form with your broker. Without it, the full 30% rate will be applied automatically.
 
@@ -90,11 +90,11 @@ Note: TQQQ's dividend yield is relatively low compared to QQQ (since most of its
 
 **Capital Gains Tax**
 
-Generally, non-US residents are not subject to US capital gains tax on the sale of US ETFs. This is one of the significant advantages of investing in US markets from abroad. Your home country, however, may tax your gains — always consult a local tax advisor.
+Generally, non-US residents are not subject to US capital gains tax on the sale of US ETFs. This is one of the significant advantages of investing in US markets from abroad. Your home country, however, may tax your gains - always consult a local tax advisor.
 
 **Wash Sale and Short-Term Trading Risks**
 
-TQQQ is often traded actively. Frequent buying and selling — especially around losses — may trigger wash sale rules if you hold the position in a US-domiciled brokerage account. While wash sale rules technically apply only to US taxpayers, some brokers track this for compliance purposes. More importantly, active short-term trading in TQQQ may create significant taxable events in your home country.
+TQQQ is often traded actively. Frequent buying and selling - especially around losses - may trigger wash sale rules if you hold the position in a US-domiciled brokerage account. While wash sale rules technically apply only to US taxpayers, some brokers track this for compliance purposes. More importantly, active short-term trading in TQQQ may create significant taxable events in your home country.
 
 ## **Which Is Right for You? A Framework for International Investors**
 

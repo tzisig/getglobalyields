@@ -262,7 +262,7 @@ article.flex.flex-col.h-full .text-primary-600 { color: var(--border) !important
 .mt-16.bg-primary-600 .text-slate-300 { color: var(--text-body) !important; }
 
 /* ═══════════════════════════════════════════════════════════
-   AFFILIATE DISCLAIMER  (hardcoded inline style — override)
+   DISCLAIMERS & CALLOUTS (hardcoded inline style — override)
    ═══════════════════════════════════════════════════════════ */
 body.dark .rounded-lg.p-4.mb-8 {
   background-color: #1a2f4a !important;
@@ -272,7 +272,25 @@ body.dark .rounded-lg.p-4.mb-8 {
 body.dark .rounded-lg.p-4.mb-8 strong {
   color: #f1f5f9 !important;
 }
-/* light mode keeps its original light blue look — no override needed */
+
+body.light .financial-disclaimer {
+  background-color: #f1f5f9 !important;
+  border-color: #cbd5e1 !important;
+  color: #475569 !important;
+}
+body.light .financial-disclaimer strong {
+  color: #334155 !important;
+}
+
+body.dark .financial-disclaimer {
+  background-color: var(--bg-surface) !important;
+  border-color: var(--border) !important;
+  color: var(--text-muted) !important;
+}
+body.dark .financial-disclaimer strong {
+  color: var(--text-heading) !important;
+}
+
 
 /* ═══════════════════════════════════════════════════════════
    PROSE  (article body text rendered from markdown)

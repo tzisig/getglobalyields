@@ -9,13 +9,13 @@ heroImage: "/images/blog/tqqq_tax_banner.png"
 
 ## **Introduction**
 
-TQQQ is one of the most discussed ETFs among retail investors globally. But most guides on TQQQ are written for US investors. The tax picture for international investors is fundamentally different — and in some ways, more favorable than you might expect.
+TQQQ is one of the most discussed ETFs among retail investors globally. But most guides on TQQQ are written for US investors. The tax picture for international investors is fundamentally different - and in some ways, more favorable than you might expect.
 
 This guide covers everything a non-US investor needs to know about the tax implications of holding TQQQ: withholding rates, capital gains treatment, dividend taxation, and the most tax-efficient strategies for international holders.
 
 ## **What Kind of Income Does TQQQ Generate?**
 
-**Dividends:** TQQQ pays a small dividend, typically quarterly. The yield is very low — usually under 1% annually. These dividends are subject to US withholding tax.
+**Dividends:** TQQQ pays a small dividend, typically quarterly. The yield is very low - usually under 1% annually. These dividends are subject to US withholding tax.
 
 **Capital gains distributions:** Occasionally, TQQQ distributes capital gains to shareholders. These are taxable events even if you did not sell any shares.
 
@@ -53,7 +53,7 @@ When you sell TQQQ at a profit through Interactive Brokers or any other US broke
 
 **Capital gains:** Profits from selling TQQQ are taxable in Israel at 25%. Since the US withholds nothing, you pay the full 25% to Israel on your annual tax return.
 
-Practical example: You buy TQQQ at $40 and sell at $100 — a $60 gain per share. US withholding: $0. Israeli capital gains tax: 25% of $60 = $15 per share. Net profit after Israeli tax: $45 per share.
+Practical example: You buy TQQQ at $40 and sell at $100 - a $60 gain per share. US withholding: $0. Israeli capital gains tax: 25% of $60 = $15 per share. Net profit after Israeli tax: $45 per share.
 
 ### **Canada**
 
@@ -65,7 +65,7 @@ Practical example: You buy TQQQ at $40 and sell at $100 — a $60 gain per share
 
 **Dividends:** The US withholds 15%. Australia provides a foreign tax credit.
 
-**Capital gains:** Australia taxes capital gains at your marginal rate but provides a 50% discount for assets held more than 12 months — an effective rate of approximately 11.5% to 24%.
+**Capital gains:** Australia taxes capital gains at your marginal rate but provides a 50% discount for assets held more than 12 months - an effective rate of approximately 11.5% to 24%.
 
 ## **The Tax Efficiency Advantage of TQQQ for International Investors**
 
@@ -83,9 +83,9 @@ For Israeli investors, TQQQ and QQQ are dramatically more tax-efficient than div
 
 ## **Options Income from TQQQ: The Most Tax-Efficient Approach**
 
-For international investors, selling covered calls or cash-secured puts on TQQQ generates premium income treated as capital gains — not dividends. This means:
+For international investors, selling covered calls or cash-secured puts on TQQQ generates premium income treated as capital gains - not dividends. This means:
 
--   Zero US withholding on options premium received — Tax is owed only to your home country on the net options profit — For Israeli investors: 25% to Israel on net options profit, nothing to the US
+-   Zero US withholding on options premium received - Tax is owed only to your home country on the net options profit - For Israeli investors: 25% to Israel on net options profit, nothing to the US
 
 ## **Practical Tax Reporting for International TQQQ Investors**
 
@@ -97,7 +97,7 @@ For international investors, selling covered calls or cash-secured puts on TQQQ 
 
 What to report in your home country:
 
--   All TQQQ dividends — report gross amount, claim foreign tax credit for US withholding — All capital gains from selling TQQQ — report full gain, no US withholding credit needed — All options premium income — report as capital gains in most jurisdictions
+-   All TQQQ dividends - report gross amount, claim foreign tax credit for US withholding - All capital gains from selling TQQQ - report full gain, no US withholding credit needed - All options premium income - report as capital gains in most jurisdictions
 
 ## **Common Tax Mistakes International TQQQ Investors Make**
 
@@ -113,14 +113,14 @@ What to report in your home country:
 
 | **Income Type** | **US Withholding** | **Home Country Tax** | **Notes** |
 | --- | --- | --- | --- |
-| TQQQ dividends | 25% Israel / 15% others | Yes (with foreign tax credit) | Low impact — small yield |
+| TQQQ dividends | 25% Israel / 15% others | Yes (with foreign tax credit) | Low impact - small yield |
 | Capital gains from selling | 0% | Yes (25% Israel, varies) | Primary source of returns |
 | Options premium | 0% | Yes (as capital gains) | Most tax-efficient method |
 | Capital gains distributions | Treaty rate | Yes | Usually small amounts |
 
 ## **Final Thoughts**
 
-For international investors, TQQQ's tax profile is actually quite favorable. The combination of a very low dividend yield (minimizing withholding drag) and zero US withholding on capital gains means that the primary driver of TQQQ returns — price appreciation — is taxed only once, by your home country.
+For international investors, TQQQ's tax profile is actually quite favorable. The combination of a very low dividend yield (minimizing withholding drag) and zero US withholding on capital gains means that the primary driver of TQQQ returns - price appreciation - is taxed only once, by your home country.
 
 Add options income strategies and the tax efficiency improves further. The key requirements are simple: file and maintain a valid W-8BEN, track your cost basis accurately, and report foreign income correctly on your home country tax return.
 

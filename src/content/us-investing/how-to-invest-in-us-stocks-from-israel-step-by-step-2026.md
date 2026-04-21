@@ -1,6 +1,6 @@
 ---
 title: "How to Invest in US Stocks from Israel: Step-by-Step (2026)"
-description: "Want to buy US stocks from Israel? Here's the complete step-by-step guide — from choosing a broker to placing your first trade, including taxes, W-8BEN, and currency conversion."
+description: "Want to buy US stocks from Israel? Here's the complete step-by-step guide - from choosing a broker to placing your first trade, including taxes, W-8BEN, and currency conversion."
 pubDate: 2026-04-01
 categories: ["us-investing"]
 author: "GetGlobalYields Team"
@@ -11,7 +11,7 @@ heroImage: "/images/blog/invest_israel_banner.png"
 
 Investing in US stocks from Israel has never been more accessible. With the right broker and a basic understanding of the process, an Israeli investor can have a fully funded US brokerage account and place their first trade within a week.
 
-Yet many Israelis are put off by the perceived complexity — foreign brokers, unfamiliar tax forms, currency conversion, and concerns about whether it is even legal. This guide answers all of those questions and walks you through the entire process from start to finish.
+Yet many Israelis are put off by the perceived complexity - foreign brokers, unfamiliar tax forms, currency conversion, and concerns about whether it is even legal. This guide answers all of those questions and walks you through the entire process from start to finish.
 
 ## **Is It Legal for Israelis to Invest in US Stocks?**
 
@@ -19,15 +19,15 @@ Yes, completely. Israeli residents are legally permitted to hold foreign investm
 
 Key legal points:
 
--   You must report foreign investment accounts to the ITA if your holdings exceed certain thresholds — Dividends and capital gains from foreign investments are taxable in Israel — The US-Israel tax treaty governs how US withholding tax interacts with your Israeli tax obligations — There is no requirement to use an Israeli broker — you can open an account directly with a US broker
+-   You must report foreign investment accounts to the ITA if your holdings exceed certain thresholds - Dividends and capital gains from foreign investments are taxable in Israel - The US-Israel tax treaty governs how US withholding tax interacts with your Israeli tax obligations - There is no requirement to use an Israeli broker - you can open an account directly with a US broker
 
 ## **Step 1: Choose Your Broker**
 
-The first decision is which US broker to use. As an Israeli investor, your options are more limited than for US residents — many popular brokers like Robinhood, Fidelity, and Webull do not accept Israeli clients.
+The first decision is which US broker to use. As an Israeli investor, your options are more limited than for US residents - many popular brokers like Robinhood, Fidelity, and Webull do not accept Israeli clients.
 
-**Interactive Brokers (IBKR) — Recommended:** The top choice for most Israeli investors. Accepts Israeli clients, offers excellent ILS-to-USD conversion rates, and provides access to stocks, ETFs, options, and more.
+**Interactive Brokers (IBKR) - Recommended:** The top choice for most Israeli investors. Accepts Israeli clients, offers excellent ILS-to-USD conversion rates, and provides access to stocks, ETFs, options, and more.
 
-**Tastytrade:** Best if your focus is options trading — covered calls, cash-secured puts, the Wheel strategy. Check current availability for Israeli clients on their website.
+**Tastytrade:** Best if your focus is options trading - covered calls, cash-secured puts, the Wheel strategy. Check current availability for Israeli clients on their website.
 
 **Firstrade:** A good starting point for beginners. Zero commissions across the board and a simpler interface.
 
@@ -39,11 +39,11 @@ Before starting the application, prepare the following:
 
 **Required for all brokers:**
 
--   Israeli passport (preferred) or Teudat Zehut — Proof of address: utility bill, bank statement, or official government letter dated within 90 days — Teudat Zehut number — your foreign tax identification number for the W-8BEN form — Israeli bank account details for funding and withdrawals
+-   Israeli passport (preferred) or Teudat Zehut - Proof of address: utility bill, bank statement, or official government letter dated within 90 days - Teudat Zehut number - your foreign tax identification number for the W-8BEN form - Israeli bank account details for funding and withdrawals
 
 **Good to have ready:**
 
--   Israeli brokerage account statements (if any) — some brokers ask about investment experience — Basic information about your income and net worth
+-   Israeli brokerage account statements (if any) - some brokers ask about investment experience - Basic information about your income and net worth
 
 ## **Step 3: Complete the Online Application**
 
@@ -53,7 +53,7 @@ The application process is fully online and takes 20 to 40 minutes. Here is what
 
 **Identity verification:** You will upload a photo of your passport and a selfie for identity matching. This is standard KYC procedure.
 
-**Financial profile:** The broker will ask about your annual income, net worth, investment experience, and objectives. Answer honestly — this determines what products you can access.
+**Financial profile:** The broker will ask about your annual income, net worth, investment experience, and objectives. Answer honestly - this determines what products you can access.
 
 **W-8BEN form:** Usually embedded in the application. Fill it in with your Israeli details (see Step 4 below).
 
@@ -69,14 +69,14 @@ For Israeli investors, fill it out as follows:
 
 | **Field** | **What to Enter** |
 | --- | --- |
-| Line 1 — Name | Your full legal name (as on passport) |
-| Line 2 — Country of citizenship | Israel |
-| Line 3 — Permanent residence address | Your Israeli home address |
-| Line 6 — Foreign tax ID | Your Teudat Zehut number |
-| Line 9 — Treaty country | Israel |
-| Line 10 — Rate | 25% (dividends under US-Israel treaty) |
+| Line 1 - Name | Your full legal name (as on passport) |
+| Line 2 - Country of citizenship | Israel |
+| Line 3 - Permanent residence address | Your Israeli home address |
+| Line 6 - Foreign tax ID | Your Teudat Zehut number |
+| Line 9 - Treaty country | Israel |
+| Line 10 - Rate | 25% (dividends under US-Israel treaty) |
 
-Sign and date. The form is valid for 3 years — set a reminder to renew it.
+Sign and date. The form is valid for 3 years - set a reminder to renew it.
 
 ## **Step 5: Fund Your Account**
 
@@ -88,7 +88,7 @@ You wire Israeli shekels from your Israeli bank account to IBKR, and then conver
 
 Steps:
 
--   In IBKR, go to Transfer and Pay > Transfer Funds > Deposit — Select Wire Transfer and choose ILS as the currency — IBKR will give you wire instructions including their bank details and your unique account reference number — Log in to your Israeli bank's online system and initiate an international wire transfer — Once the ILS arrives at IBKR (1 to 3 business days), use the currency conversion tool to convert ILS to USD
+-   In IBKR, go to Transfer and Pay > Transfer Funds > Deposit - Select Wire Transfer and choose ILS as the currency - IBKR will give you wire instructions including their bank details and your unique account reference number - Log in to your Israeli bank's online system and initiate an international wire transfer - Once the ILS arrives at IBKR (1 to 3 business days), use the currency conversion tool to convert ILS to USD
 
 ### **Option B: Wire USD Directly**
 
@@ -102,25 +102,25 @@ Once your account is funded, here is a quick orientation for new IBKR users:
 
 ### **Placing Your First Trade on IBKR Mobile**
 
--   Tap Trade — Search for the stock or ETF (e.g., type QQQ or TQQQ)
--   Select the security — Choose Buy — Enter the number of shares — Select order type: Limit Order (recommended) or Market Order — Review and submit
+-   Tap Trade - Search for the stock or ETF (e.g., type QQQ or TQQQ)
+-   Select the security - Choose Buy - Enter the number of shares - Select order type: Limit Order (recommended) or Market Order - Review and submit
 
 For beginners, always use a Limit Order rather than a Market Order. This prevents you from accidentally paying more than you intended, especially for less liquid securities.
 
 ## **Step 7: Understand Your Israeli Tax Obligations**
 
-This is the step most guides skip — but it is essential for Israeli investors.
+This is the step most guides skip - but it is essential for Israeli investors.
 
 **What you must report to the Israeli Tax Authority:** Foreign investment income (dividends, interest) and capital gains from selling foreign securities must be reported on your Israeli annual tax return (Doch Mas Hachnasa).
 
-**How the foreign tax credit works:** The US withholds 25% on your dividends under the treaty. Israel taxes investment income at 25%. Because you already paid 25% to the US, you receive a foreign tax credit in Israel — meaning you generally do not pay double tax on dividends.
+**How the foreign tax credit works:** The US withholds 25% on your dividends under the treaty. Israel taxes investment income at 25%. Because you already paid 25% to the US, you receive a foreign tax credit in Israel - meaning you generally do not pay double tax on dividends.
 
 **Capital gains:** Profits from selling stocks have no US withholding but are taxable in Israel at 25%. Report these on your Israeli tax return.
 
 Key documents to keep:
 
 -   Your IBKR annual statement (available in the Client Portal under Reports)
--   The 1042-S form (Foreign Person's US Source Income) — issued by IBKR each January for the prior tax year — Records of all buy and sell transactions
+-   The 1042-S form (Foreign Person's US Source Income) - issued by IBKR each January for the prior tax year - Records of all buy and sell transactions
 
 Tip: If your foreign investment income is significant, consider working with an Israeli accountant (roa'e cheshbon) who specializes in foreign investments. The cost is usually worth it for portfolios above $50,000.
 
@@ -132,7 +132,7 @@ There is no requirement to notify the Bank of Israel simply for opening a foreig
 
 ### **Can I use my Israeli credit card to fund my IBKR account?**
 
-Generally no — credit card funding is not available for international brokerage accounts. Wire transfer is the standard method.
+Generally no - credit card funding is not available for international brokerage accounts. Wire transfer is the standard method.
 
 ### **What happens if the shekel weakens against the dollar?**
 
@@ -157,9 +157,9 @@ Tip: Call your bank before initiating your first international wire to confirm t
 ## **Summary: Your Step-by-Step Checklist**
 
 -   Open IBKR account online (20 to 40 minutes)
--   Upload passport and proof of address — Complete W-8BEN form (enter Teudat Zehut number, select Israel, 25% rate)
+-   Upload passport and proof of address - Complete W-8BEN form (enter Teudat Zehut number, select Israel, 25% rate)
 -   Wait for account approval (1 to 3 business days)
--   Initiate wire transfer from Israeli bank to IBKR — Convert ILS to USD inside IBKR at interbank rate — Download IBKR Mobile app — Place first trade using a Limit Order — Save IBKR annual statement and 1042-S for Israeli tax return
+-   Initiate wire transfer from Israeli bank to IBKR - Convert ILS to USD inside IBKR at interbank rate - Download IBKR Mobile app - Place first trade using a Limit Order - Save IBKR annual statement and 1042-S for Israeli tax return
 
 **Financial Disclaimer**
 

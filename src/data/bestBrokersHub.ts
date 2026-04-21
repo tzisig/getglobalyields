@@ -70,6 +70,6 @@ export const BEST_BROKERS_HUB: BestBrokersHubEntry[] = [
     slug: 'firstrade-review-2026',
     title: 'Firstrade Review 2026',
     kind: 'coming',
-    teaser: 'Zero-commission US broker for many non-US nationals — fees, platform, and what to watch for.',
+    teaser: 'Zero-commission US broker for many non-US nationals - fees, platform, and what to watch for.',
   },
 ];

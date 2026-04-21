@@ -22,11 +22,11 @@ productName: "Interactive Brokers"
 | Options Trading | 5/5 |
 | Customer Support | 3/5 |
 | Ease of Use | 3/5 |
-Bottom line: Interactive Brokers is the gold standard for international investors. No other broker comes close on currency conversion rates, global availability, and product range. The learning curve is real — but the advantages are worth it for serious investors.
+Bottom line: Interactive Brokers is the gold standard for international investors. No other broker comes close on currency conversion rates, global availability, and product range. The learning curve is real - but the advantages are worth it for serious investors.
 
 ## **Who Is This Review For?**
 
-This review is written specifically for non-US investors — Israelis, Canadians, Australians, Europeans, and investors across 200+ countries who want access to US stocks, ETFs, and options markets. Most Interactive Brokers reviews online are written from a US perspective. This one is not.
+This review is written specifically for non-US investors - Israelis, Canadians, Australians, Europeans, and investors across 200+ countries who want access to US stocks, ETFs, and options markets. Most Interactive Brokers reviews online are written from a US perspective. This one is not.
 
 ## **Quick Facts**
 
@@ -45,15 +45,15 @@ This review is written specifically for non-US investors — Israelis, Canadians
 | Available products | Stocks, ETFs, options, futures, forex, bonds |
 ## **Why International Investors Choose IBKR**
 
-**1\. It actually accepts you:** Most US brokers — Robinhood, Fidelity, Webull, E\*TRADE — do not accept clients from outside the US. IBKR accepts clients from 200+ countries including Israel, Canada, Australia, and most of Europe.
+**1\. It actually accepts you:** Most US brokers - Robinhood, Fidelity, Webull, E\*TRADE - do not accept clients from outside the US. IBKR accepts clients from 200+ countries including Israel, Canada, Australia, and most of Europe.
 
-**2\. Currency conversion at interbank rates:** When you convert ILS, EUR, CAD, or AUD to USD at IBKR using the Ideal Pro marketplace, you pay approximately 0.002% — a fraction of what banks or other brokers charge. On a $20,000 conversion, that is $0.40 versus potentially $200+ at a bank.
+**2\. Currency conversion at interbank rates:** When you convert ILS, EUR, CAD, or AUD to USD at IBKR using the Ideal Pro marketplace, you pay approximately 0.002% - a fraction of what banks or other brokers charge. On a $20,000 conversion, that is $0.40 versus potentially $200+ at a bank.
 
-**3\. Full product access:** IBKR gives international investors access to the same products as US clients — stocks, ETFs, options, futures, forex, bonds, and more.
+**3\. Full product access:** IBKR gives international investors access to the same products as US clients - stocks, ETFs, options, futures, forex, bonds, and more.
 
 ## **Fees and Commissions: Detailed Breakdown**
 
-### **Stock and ETF Trading — IBKR Pro (International Investors)**
+### **Stock and ETF Trading - IBKR Pro (International Investors)**
 
 | **Monthly Volume** | **Commission per Share** | **Minimum per Order** |
 | --- | --- | --- |
@@ -70,15 +70,15 @@ This review is written specifically for non-US investors — Israelis, Canadians
 | Interactive Brokers | $0.20 (0.002%) |
 ## **Platform and Tools**
 
-**Trader Workstation (TWS):** IBKR's flagship desktop platform — one of the most powerful retail trading platforms available anywhere. Offers real-time streaming quotes, advanced charting, options analytics, paper trading, and algorithmic order types. Exceptional but overwhelming for new investors.
+**Trader Workstation (TWS):** IBKR's flagship desktop platform - one of the most powerful retail trading platforms available anywhere. Offers real-time streaming quotes, advanced charting, options analytics, paper trading, and algorithmic order types. Exceptional but overwhelming for new investors.
 
 **IBKR Mobile:** Significantly simpler than TWS and handles the vast majority of day-to-day needs. Rating: 4/5. Functional and reliable, though less polished than consumer-focused competitors.
 
-**Client Portal:** Web-based interface primarily for account management — deposits, withdrawals, W-8BEN submission, tax documents, and statements.
+**Client Portal:** Web-based interface primarily for account management - deposits, withdrawals, W-8BEN submission, tax documents, and statements.
 
 ## **Options Trading at IBKR**
 
-For investors interested in options income strategies — covered calls, cash-secured puts, the Wheel — IBKR is one of the strongest platforms available to international investors.
+For investors interested in options income strategies - covered calls, cash-secured puts, the Wheel - IBKR is one of the strongest platforms available to international investors.
 
 **What works well:**
 
@@ -99,7 +99,7 @@ Opening an IBKR account as an international investor takes approximately 20 to 4
 *   Fill in the W-8BEN form (embedded in the application)
 *   Answer financial profile questions (income, net worth, investment experience)
 *   Sign the account agreement digitally
-*   Receive approval — typically within 1 to 3 business days
+*   Receive approval - typically within 1 to 3 business days
 
 **Documents required:**
 
@@ -119,10 +119,10 @@ Opening an IBKR account as an international investor takes approximately 20 to 4
 
 **Pros:**
 
-*   Available in 200+ countries — the broadest international availability of any major broker
-*   Currency conversion at near-interbank rates — unmatched in the industry
-*   Full product range — stocks, ETFs, options, futures, forex, bonds
-*   Competitive commissions — among the lowest for international investors
+*   Available in 200+ countries - the broadest international availability of any major broker
+*   Currency conversion at near-interbank rates - unmatched in the industry
+*   Full product range - stocks, ETFs, options, futures, forex, bonds
+*   Competitive commissions - among the lowest for international investors
 *   SIPC protection up to $500,000 plus additional private insurance
 *   Interest paid on uninvested cash balances
 *   Paper trading available for practice
@@ -186,13 +186,13 @@ There is no minimum deposit. However, to avoid the $10/month inactivity fee, aim
 
 Interactive Brokers earns its reputation as the best broker for international investors. The combination of global availability, near-interbank currency conversion rates, comprehensive product access, and competitive commissions is simply not matched by any competitor.
 
-The trade-offs — a complex platform, slow customer support, and the inactivity fee for smaller accounts — are real but manageable. For serious investors building meaningful portfolios, these are minor inconveniences compared to the structural advantages IBKR provides.
+The trade-offs - a complex platform, slow customer support, and the inactivity fee for smaller accounts - are real but manageable. For serious investors building meaningful portfolios, these are minor inconveniences compared to the structural advantages IBKR provides.
 
-**Rating: 4.8 / 5 — Highly Recommended for International Investors**
+**Rating: 4.8 / 5 - Highly Recommended for International Investors**
 
 **Affiliate Disclosure**
 
-_GetGlobalYields.com may earn a commission if you open an account through links on this page. This does not affect our review — our ratings and opinions are independent and based on our own research and experience._
+_GetGlobalYields.com may earn a commission if you open an account through links on this page. This does not affect our review - our ratings and opinions are independent and based on our own research and experience._
 
 **Financial Disclaimer**
 
@@ -200,4 +200,4 @@ _This review is for informational purposes only and does not constitute financia
 
 **About the Author**
 
-_\[Add your author bio here — include your investment experience and background to build credibility with Google and readers.\]_
+_\[Add your author bio here - include your investment experience and background to build credibility with Google and readers.\]_

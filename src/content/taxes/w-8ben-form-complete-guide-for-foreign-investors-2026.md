@@ -11,7 +11,7 @@ heroImage: "/images/blog/w_8ben_banner.png"
 
 If you are a non-US investor holding US stocks, ETFs, or bonds, there is one tax form that can save you a significant amount of money every single year: the W-8BEN.
 
-Most international investors either don't know it exists, fill it out incorrectly, or let it expire without renewing it. Each of these mistakes results in the same outcome — the IRS withholds 30% of every dividend and interest payment you receive.
+Most international investors either don't know it exists, fill it out incorrectly, or let it expire without renewing it. Each of these mistakes results in the same outcome - the IRS withholds 30% of every dividend and interest payment you receive.
 
 This guide explains exactly what the W-8BEN is, who needs it, how to fill it out correctly, and how it applies to investors from Israel, Canada, Australia, and Europe.
 
@@ -21,15 +21,15 @@ The W-8BEN (Certificate of Foreign Status of Beneficial Owner for United States 
 
 When you submit it to your broker, you are telling the US government:
 
--   You are not a US citizen or green card holder — You are not a US tax resident — Your dividends and interest should be taxed according to the tax treaty between the US and your country — not at the default 30% rate
+-   You are not a US citizen or green card holder - You are not a US tax resident - Your dividends and interest should be taxed according to the tax treaty between the US and your country - not at the default 30% rate
 
-Without this form on file, your broker is legally required to withhold the full 30% on all investment income — regardless of your country's treaty with the US.
+Without this form on file, your broker is legally required to withhold the full 30% on all investment income - regardless of your country's treaty with the US.
 
 ## **Who Needs to Fill Out the W-8BEN?**
 
 You need a W-8BEN if all three of the following apply:
 
--   You are not a US citizen, US permanent resident (green card holder), or US tax resident — You have an account with a US broker (Interactive Brokers, Tastytrade, Firstrade, Schwab, etc.)
+-   You are not a US citizen, US permanent resident (green card holder), or US tax resident - You have an account with a US broker (Interactive Brokers, Tastytrade, Firstrade, Schwab, etc.)
 -   You receive dividends, interest, or other US-sourced investment income
 
 **You do NOT need a W-8BEN if:**
@@ -57,29 +57,29 @@ On a $100,000 dividend-generating portfolio, the difference between having and n
 
 Most brokers embed the W-8BEN into their online account opening process. You will rarely need to download and submit a paper form. Here is what each field means:
 
-### **Part I — Identification of Beneficial Owner**
+### **Part I - Identification of Beneficial Owner**
 
-**Line 1 — Name:** Your full legal name as it appears on your passport
+**Line 1 - Name:** Your full legal name as it appears on your passport
 
-**Line 2 — Country of citizenship:** The country of your passport (e.g., Israel, Canada, Australia)
+**Line 2 - Country of citizenship:** The country of your passport (e.g., Israel, Canada, Australia)
 
-**Line 3 — Permanent residence address:** Your actual home address. Do not use a PO box or your broker's address
+**Line 3 - Permanent residence address:** Your actual home address. Do not use a PO box or your broker's address
 
-**Line 4 — Mailing address:** Only fill this in if it is different from Line 3
+**Line 4 - Mailing address:** Only fill this in if it is different from Line 3
 
-**Line 5 — US taxpayer identification number (TIN):** Leave blank if you don't have one (most foreign investors don't)
+**Line 5 - US taxpayer identification number (TIN):** Leave blank if you don't have one (most foreign investors don't)
 
-**Line 6 — Foreign tax identifying number:** Your tax ID from your home country. For Israelis, this is your Teudat Zehut number. For Canadians, your SIN. For Australians, your TFN.
+**Line 6 - Foreign tax identifying number:** Your tax ID from your home country. For Israelis, this is your Teudat Zehut number. For Canadians, your SIN. For Australians, your TFN.
 
-### **Part II — Claim of Tax Treaty Benefits**
+### **Part II - Claim of Tax Treaty Benefits**
 
 This is the most important section. This is where you claim the reduced withholding rate.
 
-**Line 9 — Country:** Enter your country of residence (must be a treaty country)
+**Line 9 - Country:** Enter your country of residence (must be a treaty country)
 
-**Line 10 — Special rates and conditions:** For most investors receiving dividends, enter "15" in the rate field and "Dividends" as the type of income. Israeli investors should note that the US-Israel treaty specifies 25% on dividends in most cases — enter "25"
+**Line 10 - Special rates and conditions:** For most investors receiving dividends, enter "15" in the rate field and "Dividends" as the type of income. Israeli investors should note that the US-Israel treaty specifies 25% on dividends in most cases - enter "25"
 
-### **Part III — Certification**
+### **Part III - Certification**
 
 Sign and date the form. By signing, you certify that everything you have entered is accurate.
 
@@ -87,11 +87,11 @@ Sign and date the form. By signing, you certify that everything you have entered
 
 ### **Israel**
 
-The US-Israel tax treaty has been in force since 1995. The standard dividend withholding rate under the treaty is 25% — higher than most other developed countries. Israeli investors should be aware of this and factor it into their dividend investing strategy. Interest income may qualify for a lower rate depending on the type of instrument.
+The US-Israel tax treaty has been in force since 1995. The standard dividend withholding rate under the treaty is 25% - higher than most other developed countries. Israeli investors should be aware of this and factor it into their dividend investing strategy. Interest income may qualify for a lower rate depending on the type of instrument.
 
 ### **Canada**
 
-Canada has one of the most favorable US tax treaties. Canadian investors pay only 15% withholding on dividends — half the default rate. This makes dividend ETFs like SCHD and VYM significantly more attractive for Canadian investors holding them in taxable accounts. Note: Canadian RRSP accounts may qualify for 0% withholding under Article XXI of the treaty.
+Canada has one of the most favorable US tax treaties. Canadian investors pay only 15% withholding on dividends - half the default rate. This makes dividend ETFs like SCHD and VYM significantly more attractive for Canadian investors holding them in taxable accounts. Note: Canadian RRSP accounts may qualify for 0% withholding under Article XXI of the treaty.
 
 ### **Australia**
 
@@ -109,7 +109,7 @@ Example: If you sign a W-8BEN on June 15, 2024, it remains valid through Decembe
 
 If you do not renew it before it expires:
 
--   Your broker will revert to withholding the full 30% on your investment income — You may be able to claim a refund by filing a US tax return (Form 1040-NR), but this is a complex and time-consuming process
+-   Your broker will revert to withholding the full 30% on your investment income - You may be able to claim a refund by filing a US tax return (Form 1040-NR), but this is a complex and time-consuming process
 
 Most brokers will send you a reminder before your W-8BEN expires. Do not ignore it.
 
@@ -135,7 +135,7 @@ The W-8BEN reduces withholding on dividends and interest. Most capital gains (pr
 
 If you are investing as an individual, you use the W-8BEN.
 
-If you are investing through a foreign corporation, partnership, trust, or other entity, you use the W-8BEN-E — a longer and more complex form.
+If you are investing through a foreign corporation, partnership, trust, or other entity, you use the W-8BEN-E - a longer and more complex form.
 
 For most individual investors reading this guide, the standard W-8BEN is the correct form.
 
@@ -161,7 +161,7 @@ No. Capital gains from selling US stocks are generally not subject to US withhol
 
 The W-8BEN is one of the simplest forms you will ever fill out, and it is one of the highest-return actions you can take as an international investor. A few minutes of paperwork can save you hundreds or thousands of dollars per year in unnecessary tax withholding.
 
-Whether you are investing from Israel, Canada, Australia, or anywhere in Europe — make sure your W-8BEN is on file, accurate, and up to date. Set a reminder to renew it every three years, and update it immediately if you change your country of residence.
+Whether you are investing from Israel, Canada, Australia, or anywhere in Europe - make sure your W-8BEN is on file, accurate, and up to date. Set a reminder to renew it every three years, and update it immediately if you change your country of residence.
 
 **Financial Disclaimer**
 
