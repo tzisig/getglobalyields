@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import Sidebar from '../../components/Sidebar.astro';
+import FinancialDisclaimer from '../../components/FinancialDisclaimer.astro';
 
 const glossaryTerms = [
   { term: '1042-S', definition: 'IRS form issued to foreign investors showing US-source income and taxes withheld' },
@@ -106,6 +107,10 @@ const sortedLetters = Object.keys(groupedTerms).sort();
         </div>
       </div>
     </div>
+  </div>
+
+  <div class="container mx-auto px-4 sm:px-6 lg:px-8 max-w-7xl">
+    <FinancialDisclaimer />
   </div>
 
   <script>

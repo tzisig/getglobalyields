@@ -4,10 +4,11 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import AuthorBio from '../../components/AuthorBio.astro';
 import Sidebar from '../../components/Sidebar.astro';
 import AffiliateDisclaimer from '../../components/AffiliateDisclaimer.astro';
+import FinancialDisclaimer from '../../components/FinancialDisclaimer.astro';
 
 export async function getStaticPaths() {
   const posts = await getCollection('taxes').catch(() => []);
-  return posts.map(post => ({
+  return posts.filter(post => !post.data.draft).map(post => ({
     params: { slug: post.id },
     props: { post },
   }));
@@ -39,20 +40,34 @@ const { Content } = await render(post);
               <span>By {post.data.author}</span>
             </div>
           </header>
+
+          <!-- Ad Top -->
           <div class="w-full my-8 bg-primary-800/30 border-2 border-dashed border-primary-700 p-4 flex justify-center items-center text-slate-500 rounded-lg min-h-[100px]">
             <span class="text-xs uppercase tracking-widest font-semibold">Advertisement</span>
           </div>
+
           {post.data.heroImage && (
             <img src={post.data.heroImage} alt={post.data.title} class="w-full h-auto rounded-xl mb-12 shadow-2xl border border-primary-700" />
           )}
-          <div class="prose prose-invert prose-lg prose-a:text-accent-500 hover:prose-a:text-accent-400 max-w-none">
-            <Content />
-          </div>
+
+          <!-- Ad Middle -->
           <div class="w-full my-8 bg-primary-800/30 border-2 border-dashed border-primary-700 p-4 flex justify-center items-center text-slate-500 rounded-lg min-h-[100px]">
             <span class="text-xs uppercase tracking-widest font-semibold">Advertisement</span>
           </div>
+
+          <div class="prose prose-invert prose-lg prose-a:text-accent-500 hover:prose-a:text-accent-400 max-w-none">
+            <Content />
+          </div>
+
+          <!-- Ad Bottom -->
+          <div class="w-full my-8 bg-primary-800/30 border-2 border-dashed border-primary-700 p-4 flex justify-center items-center text-slate-500 rounded-lg min-h-[100px]">
+            <span class="text-xs uppercase tracking-widest font-semibold">Advertisement</span>
+          </div>
+
+          <FinancialDisclaimer />
           <AuthorBio name={post.data.author} />
         </div>
+
         <div class="hidden lg:block lg:col-span-1">
           <Sidebar />
         </div>

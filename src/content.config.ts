@@ -43,10 +43,16 @@ const caseStudy = defineCollection({
   schema: commonSchema,
 });
 
+const optionsIncome = defineCollection({
+  loader: glob({ pattern: "**/*.md", base: "./src/content/options-income" }),
+  schema: commonSchema,
+});
+
 export const collections = { 
   'best-brokers': bestBrokers, 
   strategies, 
   taxes, 
   'us-investing': usInvesting,
-  'case-study': caseStudy
+  'case-study': caseStudy,
+  'options-income': optionsIncome,
 };

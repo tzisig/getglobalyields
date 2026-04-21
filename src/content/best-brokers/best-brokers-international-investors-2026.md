@@ -363,6 +363,3 @@ Whatever platform you choose, ensure it handles W-8BEN documentation properly, u
 
 For more resources on investing in US markets as an international investor or expat, visit getglobalyields.com.
 
-**Financial Disclaimer**
-
-_The information provided in this article is for educational and informational purposes only and does not constitute financial, investment, tax, legal, or regulatory advice. Brokerage features, fees, country availability, and regulatory status are subject to change. Always verify current terms directly with the broker before opening an account. International investors should consult with a qualified financial advisor, tax professional, and legal counsel familiar with the laws of their country of residence and applicable international regulations before making any brokerage or investment decisions. getglobalyields.com and its contributors are not registered investment advisors and do not provide personalized investment recommendations. Mention of any broker or financial product in this article does not constitute an endorsement._

@@ -6,13 +6,7 @@ const navItems = [
   { name: 'Options Income', href: '/options-income' },
   { name: 'Taxes', href: '/taxes' },
   { name: 'Strategies', href: '/strategies' },
-  { 
-    name: 'Case Study', 
-    dropdown: true, 
-    items: [
-      { name: 'TQQQ Recovery', href: '/case-study/from-minus-70-to-plus-470k-real-tqqq-recovery-case-study' },
-    ]
-  },
+  { name: 'Case Studies', href: '/case-studies' },
   { 
     name: 'Tools', 
     dropdown: true, 
@@ -64,7 +58,7 @@ const currentPath = Astro.url.pathname;
                   <a
                     href={item.href}
                     class={`text-sm font-medium transition-colors hover:text-accent-500 ${
-                      isActive ? 'text-accent-500' : (item.highlight ? 'text-accent-400 font-semibold' : 'text-slate-300')
+                      isActive ? 'text-accent-500' : (item.highlight ? 'text-slate-100 font-bold' : 'text-slate-300')
                     }`}
                   >
                     {item.name}
@@ -174,7 +168,7 @@ const currentPath = Astro.url.pathname;
             class={`block rounded-md px-3 py-2 text-base font-medium ${
               isActive
                 ? 'bg-primary-900 text-accent-500'
-                : (item.highlight ? 'text-accent-400 font-semibold hover:bg-primary-700 hover:text-white' : 'text-slate-300 hover:bg-primary-700 hover:text-white')
+                : (item.highlight ? 'text-slate-100 font-bold hover:bg-primary-700 hover:text-white' : 'text-slate-300 hover:bg-primary-700 hover:text-white')
             }`}
             aria-current={isActive ? 'page' : undefined}
           >

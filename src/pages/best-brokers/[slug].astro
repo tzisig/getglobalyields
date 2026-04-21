@@ -3,6 +3,7 @@ import { getCollection, render } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import Sidebar from '../../components/Sidebar.astro';
 import AffiliateDisclaimer from '../../components/AffiliateDisclaimer.astro';
+import FinancialDisclaimer from '../../components/FinancialDisclaimer.astro';
 import AuthorBio from '../../components/AuthorBio.astro';
 
 export async function getStaticPaths() {
@@ -140,6 +141,7 @@ const cons = post.data.cons ?? [];
             </div>
           )}
 
+          <FinancialDisclaimer />
           <AuthorBio name={post.data.author} />
         </div>
 

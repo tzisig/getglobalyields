@@ -1,11 +1,48 @@
 @import "tailwindcss";
 @plugin "@tailwindcss/typography";
 
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 /* ═══════════════════════════════════════════════════════════
-   DARK MODE PALETTE  (default — applied to :root)
+   LIGHT MODE PALETTE  (default — applied to :root)
    ═══════════════════════════════════════════════════════════ */
 :root,
 body,
+body.light {
+  --color-primary-900: #e8edf5;
+  --color-primary-800: #ffffff;
+  --color-primary-700: #dde3ef;
+  --color-primary-600: #c8d2e4;
+  --color-accent-400: #dcb963;
+  --color-accent-500: #C9A84C;
+  --color-accent-600: #aa8c3e;
+
+  --bg-page:        #f8f9fa; /* off-white background */
+  --bg-surface:     #ffffff;
+  --bg-elevated:    #e8edf5;
+  --bg-input:       #ffffff;
+  --border:         #c8d2e4;
+  --border-subtle:  #dde3ef;
+  --text-heading:   #0f172a;
+  --text-body:      #1e293b;
+  --text-muted:     #475569;
+  --text-faint:     #64748b;
+  --input-text:     #0f172a;
+  --input-placeholder: #94a3b8;
+
+  --table-head-bg:  #1e3a6b;
+  --table-odd-bg:   #ffffff;
+  --table-even-bg:  #f1f5f9;
+  --table-hover-bg: #e2e8f0;
+  --table-border:   #cbd5e1;
+  --table-cell-color:#1e293b;
+}
+
+/* ═══════════════════════════════════════════════════════════
+   DARK MODE PALETTE  (applied when body.dark)
+   ═══════════════════════════════════════════════════════════ */
 body.dark {
   /* brand colours */
   --color-primary-900: #0a192f;
@@ -37,36 +74,6 @@ body.dark {
   --table-hover-bg: #1a2f4a;
   --table-border:   #1e3a5f;
   --table-cell-color:#e2e8f0;
-}
-
-/* ═══════════════════════════════════════════════════════════
-   LIGHT MODE PALETTE  (applied when body.light)
-   ═══════════════════════════════════════════════════════════ */
-body.light {
-  --color-primary-900: #e8edf5;
-  --color-primary-800: #ffffff;
-  --color-primary-700: #dde3ef;
-  --color-primary-600: #c8d2e4;
-
-  --bg-page:        #f0f4fa;
-  --bg-surface:     #ffffff;
-  --bg-elevated:    #e8edf5;
-  --bg-input:       #ffffff;
-  --border:         #c8d2e4;
-  --border-subtle:  #dde3ef;
-  --text-heading:   #0f172a;
-  --text-body:      #1e293b;
-  --text-muted:     #475569;
-  --text-faint:     #64748b;
-  --input-text:     #0f172a;
-  --input-placeholder: #94a3b8;
-
-  --table-head-bg:  #1e3a6b;
-  --table-odd-bg:   #ffffff;
-  --table-even-bg:  #f1f5f9;
-  --table-hover-bg: #e2e8f0;
-  --table-border:   #cbd5e1;
-  --table-cell-color:#1e293b;
 }
 
 /* ═══════════════════════════════════════════════════════════
@@ -183,6 +190,9 @@ header .text-slate-400 { color: var(--text-muted) !important; }
 header .hover\:text-slate-100:hover { color: var(--text-heading) !important; }
 header .hover\:bg-primary-800:hover { background-color: var(--bg-elevated) !important; }
 header .bg-primary-800 { background-color: var(--bg-surface) !important; }
+/* Best Brokers bold highlight — always visible in dark AND light mode */
+header .text-slate-100 { color: var(--text-heading) !important; }
+#mobile-menu .text-slate-100 { color: var(--text-heading) !important; }
 
 /* logo swap (keep existing dark logo; add light variant) */
 body.dark .gg-logo--light,

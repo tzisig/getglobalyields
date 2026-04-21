@@ -1,28 +1,18 @@
 ---
 const currentYear = new Date().getFullYear();
 const currentPath = Astro.url.pathname;
-const hideCTA = currentPath.startsWith('/best-brokers');
+
+const hideCTAPaths = [
+  '/best-brokers',
+  '/about',
+  '/contact',
+  '/privacy-policy',
+  '/disclaimer',
+];
+const hideCTA = hideCTAPaths.some(path => currentPath.startsWith(path));
 ---
 
 <footer class="mt-auto bg-primary-600">
-  <!-- Final CTA Section -->
-  {!hideCTA && (
-    <div class="bg-primary-700 py-20 lg:py-24 mb-12 border-t border-b border-primary-700 shadow-inner">
-      <div class="container mx-auto px-4 sm:px-6 lg:px-8 text-center">
-        <h2 class="text-3xl md:text-4xl font-bold text-slate-100 mb-4">Ready to Start Investing Globally?</h2>
-        <p class="text-xl font-semibold text-accent-500 mb-3">Most investors choose the wrong broker and pay for it for years.</p>
-        <p class="text-lg text-slate-300 mb-10 max-w-2xl mx-auto">Choosing the right broker is the most important decision you'll make as an international investor.</p>
-        <div class="flex flex-col sm:flex-row justify-center items-center gap-4">
-          <a href="/best-brokers" class="w-full sm:w-auto inline-flex items-center justify-center px-8 py-4 border border-transparent text-lg font-bold rounded-md text-primary-900 bg-accent-500 hover:bg-accent-400 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-accent-500 focus:ring-offset-primary-900 shadow-lg shadow-accent-500/30 transition-all duration-200 hover:-translate-y-1">
-            Compare Best Brokers
-          </a>
-          <a href="https://www.interactivebrokers.com/" target="_blank" rel="noopener noreferrer" class="w-full sm:w-auto inline-flex items-center justify-center px-8 py-4 border-2 border-primary-600 text-lg font-bold rounded-md text-slate-100 bg-transparent hover:bg-primary-800 hover:border-primary-500 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-primary-500 transition-all duration-200">
-            Open IBKR Account
-          </a>
-        </div>
-      </div>
-    </div>
-  )}
 
   <div class="border-t border-primary-700 py-12">
     <div class="container mx-auto px-4 sm:px-6 lg:px-8">
@@ -83,23 +73,35 @@ const hideCTA = currentPath.startsWith('/best-brokers');
           </a>
         </div>
       </div>
+    </div>
+  </div>
 
-      <!-- Centered CTA Button -->
-      {!hideCTA && (
-        <div class="flex justify-center mb-10">
-          <a href="/best-brokers" class="inline-flex items-center justify-center px-10 py-4 border border-transparent text-base font-bold rounded-md text-primary-900 bg-accent-500 hover:bg-accent-400 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-accent-500 focus:ring-offset-primary-800 shadow-lg shadow-accent-500/30 transition-all duration-200 hover:-translate-y-1">
+  <!-- Final CTA Section - אחרי הקטגוריות, לפני ה-Disclosure, רוחב מלא -->
+  {!hideCTA && (
+    <div class="w-full bg-primary-700 py-20 lg:py-24 border-t border-primary-600 shadow-inner">
+      <div class="container mx-auto px-4 sm:px-6 lg:px-8 text-center">
+        <h2 class="text-3xl md:text-4xl font-bold text-slate-100 mb-4">Ready to Start Investing Globally?</h2>
+        <p class="text-xl font-semibold text-accent-500 mb-3">Most investors choose the wrong broker and pay for it for years.</p>
+        <p class="text-lg text-slate-300 mb-10 max-w-2xl mx-auto">Choosing the right broker is the most important decision you'll make as an international investor.</p>
+        <div class="flex flex-col sm:flex-row justify-center items-center gap-4">
+          <a href="/best-brokers" class="w-full sm:w-auto inline-flex items-center justify-center px-8 py-4 border border-transparent text-lg font-bold rounded-md text-primary-900 bg-accent-500 hover:bg-accent-400 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-accent-500 focus:ring-offset-primary-900 shadow-lg shadow-accent-500/30 transition-all duration-200 hover:-translate-y-1">
             Compare Best Brokers
           </a>
+          <a href="https://www.interactivebrokers.com/" target="_blank" rel="noopener noreferrer" class="w-full sm:w-auto inline-flex items-center justify-center px-8 py-4 border-2 border-primary-600 text-lg font-bold rounded-md text-slate-100 bg-transparent hover:bg-primary-800 hover:border-primary-500 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-primary-500 transition-all duration-200">
+            Open IBKR Account
+          </a>
         </div>
-      )}
+      </div>
+    </div>
+  )}
 
-      <!-- Disclosure -->
-      <div class="border-t border-primary-700 pt-8 text-center md:text-left">
-        <p class="text-sm md:text-base text-slate-300 font-medium mb-6">Used by international investors worldwide to access US markets efficiently.</p>
-        <div class="text-xs text-slate-500">
-          <p class="mb-2"><strong>Financial Disclaimer:</strong> The information provided on Get Global Yields is for educational and informational purposes only and should not be construed as specific financial, investment, or tax advice. Always consult with a qualified professional before making any financial decisions.</p>
-          <p><strong>Affiliate Disclosure:</strong> Some of the links on this website are affiliate links. If you happen to click and make a purchase or open an account, we may earn a small commission at no extra cost to you. This helps support our site.</p>
-        </div>
+  <!-- Disclosure -->
+  <div class="border-t border-primary-700 py-8">
+    <div class="container mx-auto px-4 sm:px-6 lg:px-8">
+      <p class="text-sm md:text-base text-slate-300 font-medium mb-6 text-center md:text-left">Used by international investors worldwide to access US markets efficiently.</p>
+      <div class="text-xs text-slate-500 max-w-4xl">
+        <p class="mb-2"><strong>Financial Disclaimer:</strong> The information on Get Global Yields is for educational purposes only and does not constitute financial, investment, tax, or legal advice. Brokerage fees, features, and availability are subject to change — always verify directly with the broker. International investors should consult a qualified financial advisor and tax professional before making any decisions. getglobalyields.com is not a registered investment advisor and does not provide personalized recommendations.</p>
+        <p><strong>Affiliate Disclosure:</strong> Some of the links on this website are affiliate links. If you happen to click and make a purchase or open an account, we may earn a small commission at no extra cost to you. This helps support our site.</p>
       </div>
 
       <div class="mt-8 flex flex-col md:flex-row items-center justify-between gap-4">
@@ -112,4 +114,5 @@ const hideCTA = currentPath.startsWith('/best-brokers');
       </div>
     </div>
   </div>
+
 </footer>

@@ -147,6 +147,14 @@ declare module 'astro:content' {
   rendered?: RenderedContent;
   filePath?: string;
 }>;
+"options-income": Record<string, {
+  id: string;
+  body?: string;
+  collection: "options-income";
+  data: InferEntrySchema<"options-income">;
+  rendered?: RenderedContent;
+  filePath?: string;
+}>;
 "strategies": Record<string, {
   id: string;
   body?: string;

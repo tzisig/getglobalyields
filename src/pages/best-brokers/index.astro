@@ -1,28 +1,10 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
-import { getEntry, render } from 'astro:content';
 import { BEST_BROKERS_HUB } from '../../data/bestBrokersHub';
 
 const reviews = BEST_BROKERS_HUB.filter(e => e.kind === 'review');
 const guides  = BEST_BROKERS_HUB.filter(e => e.kind === 'guide');
 const coming  = BEST_BROKERS_HUB.filter(e => e.kind === 'coming');
-
-const featured = reviews.find(r => r.slug?.includes('interactive-brokers'));
-
-let internationalGuideEntry: any = null;
-try {
-  internationalGuideEntry = await getEntry('best-brokers', 'best-brokers-international-investors-2026');
-} catch {
-  internationalGuideEntry = null;
-}
-const internationalGuide =
-  internationalGuideEntry && !internationalGuideEntry.data?.draft ? internationalGuideEntry : null;
-
-let InternationalGuideContent: any = null;
-if (internationalGuide) {
-  const rendered = await render(internationalGuide);
-  InternationalGuideContent = rendered.Content;
-}
 
 const brokerMeta: Record<string, { initials: string; tagline: string; tags: string[]; bestFor: string }> = {
   'interactive-brokers-review-2026-the-best-broker-for-international-investors': {
@@ -45,11 +27,10 @@ const brokerMeta: Record<string, { initials: string; tagline: string; tags: stri
   },
 };
 
-const tableRows = [
-  { name: 'Interactive Brokers', sub: 'IBKR', slug: 'interactive-brokers-review-2026-the-best-broker-for-international-investors', bestFor: 'Advanced / Global', usStocks: 'Direct', options: true, fees: 'Very Low', feesClass: 'text-green-400', minDeposit: '$0', fxCost: 'Excellent', fxClass: 'text-green-400', countries: '200+', isBest: true },
-  { name: 'eToro', sub: 'EU / UK entity', slug: 'etoro-review-2026', bestFor: 'Beginners', usStocks: 'Direct / CFD', options: false, fees: 'Medium', feesClass: 'text-accent-400', minDeposit: '$50', fxCost: '0.5%', fxClass: 'text-accent-400', countries: '140+', isBest: false },
-  { name: 'Saxo Bank', sub: 'Multi-entity', slug: 'saxo-bank-review-2026', bestFor: 'High Net Worth', usStocks: 'Direct', options: true, fees: 'High → Low*', feesClass: 'text-orange-400', minDeposit: '$2,000', fxCost: 'Good', fxClass: 'text-green-400', countries: '50+', isBest: false },
-];
+const guideIcons: Record<string, string> = {
+  'how-to-open-a-us-brokerage-account-as-a-non-resident-2026-guide': '📋',
+  'best-brokers-international-investors-2026': '🌍',
+};
 ---
 
 <BaseLayout
@@ -64,34 +45,131 @@ const tableRows = [
         Updated 2026 · Non-US Investors
       </span>
       <h1 class="text-4xl md:text-5xl font-bold text-slate-100 mb-5 tracking-tight leading-tight">
-        Best Brokers for International Investors in 2026:<br />
-        <span class="text-accent-500 text-2xl md:text-3xl mt-3 block">A Complete Guide for Expats and Global Market Participants</span>
+        Best Brokers for International Investors
       </h1>
       <p class="text-lg text-slate-400 max-w-2xl mx-auto mb-8">
-        Compare the best brokers for international investors in 2026—US market access, W-8BEN, fees, multi-currency accounts, and what expats and non-residents should prioritize.
+        In-depth broker reviews, step-by-step guides, and comparisons — everything a non-US investor needs to open and manage a US brokerage account.
       </p>
-      <div class="flex flex-wrap justify-center gap-3">
-        <a href="#reviews" class="inline-flex items-center justify-center px-6 py-3 rounded-md bg-accent-500 hover:bg-accent-400 text-primary-900 text-sm font-bold shadow-lg shadow-accent-500/20 transition-all hover:-translate-y-0.5">
-          Compare Brokers ↓
-        </a>
-      </div>
     </div>
   </div>
 
+  <div class="bg-primary-900">
+    <div class="container mx-auto px-4 sm:px-6 lg:px-8 py-14 max-w-6xl space-y-16">
 
+      <!-- BROKER REVIEWS -->
+      {reviews.length > 0 && (
+        <section id="reviews">
+          <h2 class="text-2xl font-bold text-slate-100 mb-2">Broker Reviews</h2>
+          <p class="text-slate-400 mb-8">Detailed, unbiased reviews of the top brokers available to international investors.</p>
+          <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            {reviews.map((entry) => {
+              const meta = brokerMeta[entry.slug];
+              return (
+                <a
+                  href={`/best-brokers/${entry.slug}`}
+                  class="group flex flex-col bg-primary-800 border border-primary-700 rounded-2xl p-6 hover:border-accent-500/50 hover:shadow-lg hover:shadow-accent-500/10 transition-all duration-200"
+                >
+                  <div class="flex items-center gap-4 mb-4">
+                    <div class="w-12 h-12 rounded-xl bg-accent-500/10 border border-accent-500/20 flex items-center justify-center text-accent-500 font-bold text-lg shrink-0">
+                      {meta?.initials ?? entry.title.charAt(0)}
+                    </div>
+                    <div>
+                      {meta?.bestFor && (
+                        <span class="inline-block text-xs font-semibold text-accent-500 uppercase tracking-wide mb-1">{meta.bestFor}</span>
+                      )}
+                      <h3 class="text-base font-bold text-slate-100 leading-tight group-hover:text-accent-500 transition-colors">
+                        {entry.title}
+                      </h3>
+                    </div>
+                  </div>
+                  {meta?.tagline && (
+                    <p class="text-slate-400 text-sm mb-4 flex-1">{meta.tagline}</p>
+                  )}
+                  {meta?.tags && (
+                    <div class="flex flex-wrap gap-2 mt-auto">
+                      {meta.tags.map(tag => (
+                        <span class="text-xs bg-primary-700 text-slate-300 px-2.5 py-1 rounded-full">{tag}</span>
+                      ))}
+                    </div>
+                  )}
+                  <div class="mt-4 text-sm font-semibold text-accent-500 flex items-center gap-1">
+                    Read Review
+                    <svg class="w-4 h-4 group-hover:translate-x-1 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+                    </svg>
+                  </div>
+                </a>
+              );
+            })}
+          </div>
+        </section>
+      )}
 
+      <!-- GUIDES -->
+      {guides.length > 0 && (
+        <section id="guides">
+          <h2 class="text-2xl font-bold text-slate-100 mb-2">Guides</h2>
+          <p class="text-slate-400 mb-8">Step-by-step guides for navigating US markets as a non-resident investor.</p>
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+            {guides.map((entry) => {
+              const icon = guideIcons[entry.slug] ?? '📖';
+              return (
+                <a
+                  href={`/best-brokers/${entry.slug}`}
+                  class="group flex items-start gap-5 bg-primary-800 border border-primary-700 rounded-2xl p-6 hover:border-accent-500/50 hover:shadow-lg hover:shadow-accent-500/10 transition-all duration-200"
+                >
+                  <div class="text-3xl shrink-0">{icon}</div>
+                  <div>
+                    <h3 class="text-base font-bold text-slate-100 group-hover:text-accent-500 transition-colors mb-2 leading-snug">
+                      {entry.title}
+                    </h3>
+                    <span class="text-sm font-semibold text-accent-500 flex items-center gap-1">
+                      Read Guide
+                      <svg class="w-4 h-4 group-hover:translate-x-1 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+                      </svg>
+                    </span>
+                  </div>
+                </a>
+              );
+            })}
+          </div>
+        </section>
+      )}
 
+      <!-- COMING SOON -->
+      {coming.length > 0 && (
+        <section id="coming-soon">
+          <h2 class="text-2xl font-bold text-slate-100 mb-2">Coming Soon</h2>
+          <p class="text-slate-400 mb-8">More broker reviews and comparisons on the way.</p>
+          <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            {coming.map((entry) => (
+              <div class="flex flex-col bg-primary-800/50 border border-primary-700 border-dashed rounded-2xl p-6 opacity-70">
+                <div class="w-10 h-10 rounded-xl bg-primary-700 flex items-center justify-center mb-4">
+                  <svg class="w-5 h-5 text-slate-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
+                  </svg>
+                </div>
+                <h3 class="text-base font-bold text-slate-400 mb-2">{entry.title}</h3>
+                {'teaser' in entry && entry.teaser && (
+                  <p class="text-slate-500 text-sm">{entry.teaser}</p>
+                )}
+                <span class="mt-4 text-xs uppercase tracking-widest font-semibold text-slate-600">Coming Soon</span>
+              </div>
+            ))}
+          </div>
+        </section>
+      )}
 
-  {internationalGuide && InternationalGuideContent && (
-    <section id="international-guide" class="py-14 bg-primary-900 border-t border-primary-700">
-      <div class="container mx-auto px-4 sm:px-6 lg:px-8 max-w-4xl">
+    </div>
+  </div>
 
-
-        <div class="prose prose-invert prose-lg prose-a:text-accent-500 hover:prose-a:text-accent-400 max-w-none">
-          <InternationalGuideContent />
-        </div>
-      </div>
-    </section>
-  )}
-
+  <!-- Financial Disclaimer -->
+  <div class="bg-primary-900 border-t border-primary-700 py-6">
+    <div class="container mx-auto px-4 sm:px-6 lg:px-8 max-w-6xl">
+      <p class="text-xs text-slate-500 text-center leading-relaxed">
+        <strong class="text-slate-400">Financial Disclaimer:</strong> This content is for educational purposes only and is not financial advice. Investing involves risk. <a href="/disclaimer" class="hover:text-accent-500 underline">Read full disclaimer</a>.
+      </p>
+    </div>
+  </div>
 </BaseLayout>
