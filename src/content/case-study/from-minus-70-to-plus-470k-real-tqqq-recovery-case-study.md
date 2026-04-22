@@ -123,10 +123,6 @@ While a standard investment in QQQ would have recovered significantly during thi
 *   Less panic than 2022
 *   Still required discipline not to interfere
 
-<div class="w-full my-8 bg-primary-800/30 border-2 border-dashed border-primary-700 p-4 flex justify-center items-center text-slate-500 rounded-lg min-h-[100px]">
-  <span class="text-xs uppercase tracking-widest font-semibold">Advertisement</span>
-</div>
-
 ## 6. Failure Scenarios
 This strategy breaks under these conditions:
 

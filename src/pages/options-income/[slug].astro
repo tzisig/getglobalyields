@@ -41,27 +41,12 @@ const { Content } = await render(post);
             </div>
           </header>
 
-          <!-- Ad Top -->
-          <div class="w-full my-8 bg-primary-800/30 border-2 border-dashed border-primary-700 p-4 flex justify-center items-center text-slate-500 rounded-lg min-h-[100px]">
-            <span class="text-xs uppercase tracking-widest font-semibold">Advertisement</span>
-          </div>
-
           {post.data.heroImage && (
             <img src={post.data.heroImage} alt={post.data.title} class="w-full h-auto rounded-xl mb-12 shadow-2xl border border-primary-700" />
           )}
 
-          <!-- Ad Middle -->
-          <div class="w-full my-8 bg-primary-800/30 border-2 border-dashed border-primary-700 p-4 flex justify-center items-center text-slate-500 rounded-lg min-h-[100px]">
-            <span class="text-xs uppercase tracking-widest font-semibold">Advertisement</span>
-          </div>
-
           <div class="prose prose-invert prose-lg prose-a:text-accent-500 hover:prose-a:text-accent-400 max-w-none">
             <Content />
-          </div>
-
-          <!-- Ad Bottom -->
-          <div class="w-full my-8 bg-primary-800/30 border-2 border-dashed border-primary-700 p-4 flex justify-center items-center text-slate-500 rounded-lg min-h-[100px]">
-            <span class="text-xs uppercase tracking-widest font-semibold">Advertisement</span>
           </div>
 
           <FinancialDisclaimer />

@@ -63,7 +63,7 @@ const linkCategories = [
             <div class="bg-primary-800 rounded-2xl border border-primary-700 overflow-hidden shadow-lg">
               <div class="bg-primary-900 border-b border-primary-700 px-6 py-4 flex items-center gap-3">
                 <div class="text-accent-500" set:html={category.icon} />
-                <h2 class="text-xl font-bold text-slate-100">{category.title}</h2>
+                <h2 id={category.title === 'Tax & Compliance' ? 'tax-compliance' : undefined} class="text-xl font-bold text-slate-100">{category.title}</h2>
               </div>
               
               <div class="p-6">
