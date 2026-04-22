@@ -1,0 +1,91 @@
+<template id="inline-newsletter-template">
+  <div class="inline-newsletter">
+    <p class="inline-newsletter__text">Want weekly strategies in your inbox?</p>
+    <form action="https://formsubmit.co/eladreck@gmail.com" method="POST" class="inline-newsletter__form">
+      <input type="hidden" name="_subject" value="Get Access Now!" />
+      <input type="email" name="email" placeholder="Your email address" class="inline-newsletter__input" required />
+      <button type="submit" class="inline-newsletter__button">Get Access Now</button>
+    </form>
+  </div>
+</template>
+
+<script is:inline>
+  const mountInlineNewsletter = () => {
+    const content = document.querySelector('.article-content');
+    const template = document.querySelector('#inline-newsletter-template');
+    if (!content || !template) return;
+
+    if (content.querySelector('.inline-newsletter')) return;
+
+    const paragraphs = content.querySelectorAll('p');
+    if (paragraphs.length < 3) return;
+
+    const inlineNewsletter = template.content.firstElementChild?.cloneNode(true);
+    if (!inlineNewsletter) return;
+    paragraphs[2].insertAdjacentElement('afterend', inlineNewsletter);
+  };
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', mountInlineNewsletter, { once: true });
+  } else {
+    mountInlineNewsletter();
+  }
+</script>
+
+<style>
+  .inline-newsletter {
+    margin: 1.5rem 0;
+    border-radius: 0.75rem;
+    border: 1px solid rgb(51 65 85);
+    background: rgb(15 23 42);
+    padding: 1rem;
+  }
+
+  .inline-newsletter__text {
+    margin-bottom: 0.75rem;
+    color: rgb(241 245 249);
+    font-size: 0.95rem;
+    font-weight: 600;
+  }
+
+  .inline-newsletter__form {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  .inline-newsletter__input {
+    width: 100%;
+    border: none;
+    border-radius: 0.5rem;
+    padding: 0.55rem 0.75rem;
+    color: black;
+    font-size: 0.875rem;
+  }
+
+  .inline-newsletter__button {
+    border: none;
+    border-radius: 0.5rem;
+    background: rgb(201 168 76);
+    color: rgb(15 23 42);
+    font-weight: 700;
+    padding: 0.55rem 0.75rem;
+    font-size: 0.875rem;
+  }
+
+  @media (min-width: 640px) {
+    .inline-newsletter__form {
+      flex-direction: row;
+      align-items: center;
+    }
+
+    .inline-newsletter__input {
+      flex: 1;
+      min-width: 0;
+    }
+
+    .inline-newsletter__button {
+      white-space: nowrap;
+    }
+  }
+</style>

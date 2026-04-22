@@ -1,0 +1,144 @@
+---
+interface Props {
+  inSidebar?: boolean;
+  formId?: string;
+  compact?: boolean;
+}
+
+const { inSidebar = false, formId, compact = false } = Astro.props;
+---
+
+<div id={formId} class:list={['newsletter-form', inSidebar && 'newsletter-form--sidebar', compact && 'newsletter-form--compact']}>
+  {!compact && <h3 class="newsletter-form__heading">Master US Market from Abroad</h3>}
+  {!compact && <p class="newsletter-form__subtext">Join 5,000+ investors...</p>}
+  <form action="https://formsubmit.co/eladreck@gmail.com" method="POST" class="newsletter-form__form">
+    <input type="hidden" name="_subject" value="Get Access Now!" />
+    <input
+      type="email"
+      name="email"
+      placeholder="Your email address"
+      class="newsletter-form__input"
+      required
+    />
+    <button type="submit" class="newsletter-form__button">Get Access Now</button>
+  </form>
+  {!compact && <p class="newsletter-form__bottom">Join 5,000+ global investors. 100% Free.</p>}
+</div>
+
+<style>
+  .newsletter-form {
+    width: 100%;
+    border-radius: 0.75rem;
+    background: rgb(201 168 76);
+    padding: 1rem;
+    box-shadow: 0 10px 25px -5px rgb(234 179 8 / 0.25);
+  }
+
+  .newsletter-form__heading {
+    color: rgb(15 23 42);
+    font-size: 1.125rem;
+    font-weight: 700;
+    line-height: 1.2;
+  }
+
+  .newsletter-form__subtext {
+    margin-top: 0.25rem;
+    margin-bottom: 1rem;
+    color: rgb(30 41 59);
+    font-size: 0.875rem;
+    line-height: 1.35;
+  }
+
+  .newsletter-form__form {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  .newsletter-form__input {
+    width: 100%;
+    border: none;
+    border-radius: 0.5rem;
+    background: white;
+    color: black;
+    padding: 0.5rem 0.75rem;
+    font-size: 0.875rem;
+    outline: none;
+  }
+
+  .newsletter-form__input:focus {
+    box-shadow: 0 0 0 2px rgb(15 23 42);
+  }
+
+  .newsletter-form__button {
+    width: 100%;
+    border: 2px solid transparent;
+    border-radius: 0.5rem;
+    background: rgb(15 23 42);
+    color: rgb(241 245 249);
+    font-weight: 700;
+    padding: 0.5rem 0.75rem;
+    transition: background 150ms ease-in-out;
+  }
+
+  .newsletter-form__button:hover {
+    background: rgb(30 41 59);
+  }
+
+  .newsletter-form__bottom {
+    margin-top: 0.75rem;
+    color: rgb(30 41 59);
+    font-size: 0.6875rem;
+    text-align: center;
+    font-weight: 500;
+  }
+
+  .newsletter-form--compact {
+    padding: 0.75rem;
+  }
+
+  .newsletter-form--compact .newsletter-form__form {
+    align-items: center;
+    flex-direction: row;
+  }
+
+  .newsletter-form--compact .newsletter-form__input {
+    flex: 1;
+    min-width: 0;
+  }
+
+  .newsletter-form--compact .newsletter-form__button {
+    flex-shrink: 0;
+    width: auto;
+    white-space: nowrap;
+  }
+
+  @media (max-width: 639px) {
+    .newsletter-form--compact .newsletter-form__form {
+      flex-direction: column;
+      align-items: stretch;
+    }
+
+    .newsletter-form--compact .newsletter-form__button {
+      width: 100%;
+    }
+  }
+
+  @media (min-width: 768px) {
+    .newsletter-form:not(.newsletter-form--sidebar) .newsletter-form__form {
+      align-items: center;
+      flex-direction: row;
+    }
+
+    .newsletter-form:not(.newsletter-form--sidebar) .newsletter-form__input {
+      flex: 1;
+      min-width: 0;
+    }
+
+    .newsletter-form:not(.newsletter-form--sidebar) .newsletter-form__button {
+      flex-shrink: 0;
+      width: auto;
+      white-space: nowrap;
+    }
+  }
+</style>

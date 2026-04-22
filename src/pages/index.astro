@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
+import NewsletterForm from '../components/NewsletterForm.astro';
 
 const allPosts = [
   ...(await getCollection('best-brokers')).map(p => ({ ...p, type: 'best-brokers' })),
@@ -30,6 +31,9 @@ const latestPosts = allPosts
           <h1 class="text-4xl sm:text-5xl lg:text-7xl font-bold text-slate-100 tracking-tight mb-6">
             Maximize Your Returns on a <span class="text-accent-500">Global Scale</span>
           </h1>
+          <div class="max-w-2xl mb-6">
+            <NewsletterForm compact={true} />
+          </div>
           <p class="text-xl sm:text-2xl font-semibold text-slate-300 mb-4 max-w-2xl">
             Invest in US markets from anywhere in the world — with the right broker, strategy, and tax plan.
           </p>
@@ -133,6 +137,14 @@ const latestPosts = allPosts
         <a href="/start-here" class="inline-flex items-center justify-center px-8 py-4 border-2 border-primary-600 text-lg font-bold rounded-md text-slate-100 bg-transparent hover:bg-primary-800 hover:border-accent-500 transition-all duration-200">
           View All Articles
         </a>
+      </div>
+    </div>
+  </section>
+
+  <section class="py-12 bg-primary-900 border-t border-primary-700">
+    <div class="container mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="mx-auto max-w-5xl">
+        <NewsletterForm />
       </div>
     </div>
   </section>

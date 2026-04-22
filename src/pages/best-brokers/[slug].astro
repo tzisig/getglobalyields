@@ -2,6 +2,8 @@
 import { getCollection, render } from 'astro:content';
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import Sidebar from '../../components/Sidebar.astro';
+import NewsletterForm from '../../components/NewsletterForm.astro';
+import InlineNewsletterAfterThirdParagraph from '../../components/InlineNewsletterAfterThirdParagraph.astro';
 import AffiliateDisclaimer from '../../components/AffiliateDisclaimer.astro';
 import FinancialDisclaimer from '../../components/FinancialDisclaimer.astro';
 import AuthorBio from '../../components/AuthorBio.astro';
@@ -37,6 +39,9 @@ const cons = post.data.cons ?? [];
               {isReview ? 'Review' : 'Best Brokers'}
             </span>
             <h1 class="text-4xl md:text-5xl font-bold text-slate-100 tracking-tight mb-4">{post.data.title}</h1>
+            <a href="#article-newsletter" class="lg:hidden block bg-primary-800 border border-primary-700 rounded-lg px-4 py-3 text-slate-200 text-sm font-medium mb-4 hover:border-accent-500 transition-colors">
+              Want our weekly strategies? Join 5,000+ investors here
+            </a>
 
             {isReview && (
               <div class="flex flex-wrap items-center gap-4 mb-8">
@@ -109,9 +114,10 @@ const cons = post.data.cons ?? [];
             </div>
           )}
 
-          <div class="prose prose-invert prose-lg prose-a:text-accent-500 hover:prose-a:text-accent-400 max-w-none mb-16">
+          <div class="article-content prose prose-invert prose-lg prose-a:text-accent-500 hover:prose-a:text-accent-400 max-w-none mb-16">
             <Content />
           </div>
+          <InlineNewsletterAfterThirdParagraph />
 
           {post.data.affiliateLink && (
             <div class="bg-primary-800 border-t-4 border-accent-500 rounded-2xl p-8 sm:p-10 text-center shadow-2xl border border-primary-700 mt-12 mb-8">
@@ -133,6 +139,9 @@ const cons = post.data.cons ?? [];
         <div class="hidden lg:block lg:col-span-1">
           <Sidebar />
         </div>
+      </div>
+      <div class="mt-10 lg:mt-12 lg:max-w-[calc(66.666667%-1.5rem)]">
+        <NewsletterForm formId="article-newsletter" />
       </div>
     </div>
   </article>
