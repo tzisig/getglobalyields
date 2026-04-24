@@ -1,151 +1,176 @@
 ---
-title: "US-Israel Tax Treaty Explained: Capital Gains & Dividends (2026)"
-description: "Israeli investors in US stocks need to understand the US-Israel tax treaty. Here's exactly how it affects your dividends, capital gains, and withholding taxes - explained in plain English."
+title: "Best Brokers for Israeli Investors in US Markets (2026 Comparison)"
+description: "Compare the best brokers for Israeli investors trading US stocks, ETFs, and options. IBKR vs Saxo vs eToro — fees, FX costs, tax handling, and options access."
 pubDate: 2026-04-01
 categories: ["taxes"]
 author: "GetGlobalYields Team"
 heroImage: "/images/blog/us_israel_treaty_banner.png"
+slug: "best-broker-israeli-investors-us-markets"
+keywords: ["best broker Israel US stocks", "TQQQ broker Israel", "Interactive Brokers Israel review", "broker comparison Israel", "IBKR vs eToro vs Saxo", "investing in US from Israel", "options trading broker Israel"]
 ---
 
-## **Introduction**
+# **Finding the Best Broker in Israel for US Stocks (2026 Comparison)**
 
-If you are an Israeli investor holding US stocks, ETFs, or bonds, the tax treaty between the United States and Israel directly affects how much of your investment income you actually keep.
+When looking for the best broker in Israel for US stocks, ETFs, or options strategies, your biggest cost isn't commissions.
 
-The US-Israel tax treaty has been in force since 1995 and covers a wide range of income types - including dividends, interest, capital gains, and pensions. Understanding how it works is not just useful - it can save you thousands of dollars per year in unnecessary withholding taxes.
+It's what I call "Hidden Tax Drag."
 
-This guide breaks down the treaty in plain English, with specific examples for Israeli investors holding US assets like TQQQ, SCHD, VYM, and US dividend stocks.
+This includes:
 
-## **What Is a Tax Treaty and Why Does It Matter?**
+- Dividend withholding
+- Currency conversion costs
+- Spreads
+- How your broker handles cash and interest
 
-Without a tax treaty, the US would withhold 30% of every dividend and interest payment paid to foreign investors. For an Israeli investor receiving $10,000 per year in dividends, that would mean $3,000 going directly to the IRS - before you even see the money.
+Small differences here can easily cost hundreds to thousands of dollars per year.
 
-A tax treaty is a bilateral agreement between two countries that determines which country has the right to tax specific types of income, and at what rate. The goal is to prevent double taxation - a situation where the same income is taxed by both countries.
+This comparison focuses on three popular platforms among Israeli investors:
 
-The US-Israel treaty was signed in 1975 and updated in 1994, coming into force in 1995. It is one of the more comprehensive treaties the US has, covering multiple income types relevant to investors.
+- Interactive Brokers (IBKR) 👉 [**Explore IBKR here**](https://getglobalyields.com/go/ibkr) _(affiliate link)_
+- Saxo Bank
+- eToro
 
-## **Dividends: What Israeli Investors Actually Pay**
+_⚠️ Important Disclaimer: Tax treatment depends on your personal situation and may vary by broker structure and jurisdiction. Always verify details with a qualified tax advisor._
 
-Under the US-Israel tax treaty, the withholding rate on dividends depends on the ownership stake:
+## **1. Interactive Brokers (IBKR): Best Overall for Israeli Investors**
 
-| **Situation** | **Withholding Rate** | **Notes** |
-| --- | --- | --- |
-| Individual investor (standard) | 25% | Most Israeli retail investors |
-| Company owning 10%+ of US company | 12.5% | Corporate investors only |
-| Default rate (no treaty / no W-8BEN) | 30% | Without filing W-8BEN |
+_Best for: Active investors, options traders, portfolios above ~$10K–$25K_
 
-For most Israeli individual investors holding US stocks through a broker like Interactive Brokers, the applicable rate is 25%.
+### **Key Advantages**
 
-This is higher than what investors from Canada, Australia, or most European countries pay (typically 15%). It is an important consideration when building a dividend-focused portfolio as an Israeli investor.
+**Low currency conversion costs:**
 
-### **Practical Example**
+- ~0.002% (near interbank rate)
+- Significantly cheaper than banks or most brokers
 
-You hold $200,000 in SCHD (a popular US dividend ETF) with a 3.5% annual yield. That generates $7,000 in dividends per year. - Without W-8BEN: IRS withholds $2,100 (30%)
--   With W-8BEN (Israel treaty): IRS withholds $1,750 (25%)
--   Annual saving from filing W-8BEN: $350
+**Full access to US markets:**
 
-While the Israeli treaty rate of 25% is not as favorable as other countries, filing the W-8BEN still saves you money compared to the default 30%.
+- Stocks, ETFs, options, futures
+- Same access as US investors
 
-## **Capital Gains: The Good News for Israeli Investors**
+**Options trading support:**
 
-Here is where Israeli investors get very favorable treatment. Under the US-Israel tax treaty - and US tax law generally - capital gains from selling US stocks are not subject to US withholding tax for non-resident investors.
+- Multi-leg strategies
+- Real-time Greeks
+- Low commissions
 
-This means:
+_If you're using strategies like covered calls or cash-secured puts, this matters significantly._
 
--   You sell TQQQ after holding it for two years at a profit - The US does not withhold any tax on that gain - You are responsible only to the Israeli Tax Authority (ITA) for reporting and paying capital gains tax in Israel
+### **Estate Tax — Important Note**
 
-In Israel, capital gains on foreign securities are generally taxed at 25% for individuals. This is paid to the Israeli government, not the US. You may receive a foreign tax credit for any US taxes already paid (such as dividend withholding), reducing your overall Israeli tax liability.
+_⚠️ Non-US investors holding US-domiciled ETFs like TQQQ may be exposed to US estate tax on assets above ~$60,000. This is a real risk for long-term holders. The right approach depends on your individual situation — consult a tax advisor before building large positions._
 
-### **Key Takeaway: As an Israeli Investor, You Pay:**
+### **Downsides**
 
--   25% withholding to the US on dividends (via your broker automatically)
--   25% capital gains tax to Israel on profits from selling (reported through your Israeli tax return)
--   Potentially reduced Israeli tax on dividends due to foreign tax credit from US withholding
+- Platform complexity (TWS has steep learning curve)
+- Not ideal for complete beginners
 
-## **Interest Income**
+👉 [**Open an IBKR account here**](https://getglobalyields.com/go/ibkr) _(affiliate link)_
 
-Interest income (from US bonds, money market funds, or savings accounts held at a US broker) is generally taxed at 17.5% under the US-Israel treaty - lower than the standard dividend rate.
+## **2. Saxo Bank: Premium Alternative**
 
-For Israeli investors using Interactive Brokers and earning interest on idle cash balances, this is relevant. IBKR pays interest on cash held in USD, and that interest is subject to US withholding at the treaty rate.
+_Best for: Large portfolios, investors prioritizing stability and institutional infrastructure_
 
-## **The Foreign Tax Credit: Avoiding Double Taxation**
+### **Strengths**
 
-Israel uses a foreign tax credit system to prevent double taxation. Here is how it works:
+- Regulated European bank (Denmark)
+- Strong custody and infrastructure
+- Access to global markets — US, Europe, Asia
 
-1.  You receive $7,000 in US dividends
-2.  The US withholds $1,750 (25% under the treaty)
-3.  You report the $7,000 as foreign income to the Israeli Tax Authority
-4.  Israel calculates your Israeli tax liability (25% = $1,750)
-5.  You receive a credit for the $1,750 already paid to the US
-6.  **Your net additional Israeli tax: $0**
+### **Weaknesses**
 
-In this scenario, the 25% US withholding and the 25% Israeli capital income tax essentially cancel each other out. You do not pay double - but you do need to report correctly.
+- Higher commissions than IBKR
+- ~0.25% FX conversion cost — significantly higher than IBKR
+- Less competitive for active or frequent trading
 
-Important: This calculation assumes your Israeli marginal tax rate on investment income equals the US withholding rate. If your Israeli rate is higher, you may owe additional tax to Israel. Consult a tax professional who specializes in US-Israel taxation.
+_Saxo is positioned more as a wealth management platform than an active trading platform. Suitable if you prioritize stability over cost efficiency._
 
-## **Pensions and Retirement Accounts**
+## **3. eToro: Entry-Level Platform**
 
-The US-Israel treaty has special provisions for pension and retirement income. Israeli pension funds and retirement accounts (Keren Pensia, Kupat Gemel) are generally not subject to US taxation on their investment income. However, distributions from US retirement accounts (like IRAs or 401(k)s) to Israeli residents may be taxed differently.
+_Best for: Beginners, small accounts, passive investors_
 
-This is a complex area that varies based on individual circumstances. If you have US retirement accounts and are resident in Israel, consult a cross-border tax specialist.
+### **Strengths**
 
-## **Practical Tax Planning for Israeli Investors**
+- Simple interface
+- Copy trading features
+- Easy onboarding
 
-Given the 25% US dividend withholding rate, here are strategies Israeli investors use to optimize their tax position:
+### **Limitations**
 
-### **1\. Favor Growth Over Income in Taxable Accounts**
+- No options trading
+- Wider spreads — a hidden cost per trade
+- Limited control over execution
 
-Since capital gains have no US withholding, Israeli investors often prefer growth-oriented ETFs (like QQQ or TQQQ) over high-dividend ETFs in their taxable brokerage accounts. This defers US taxation until sale.
+### **Tax Handling — Important Nuance**
 
-### **2\. Consider Dividend ETFs Carefully**
+For Israeli investors, eToro applies W-8BEN treaty rates (typically 25%) on dividends from shares held directly.
 
-High-yield dividend ETFs like SCHD or JEPI are popular globally, but Israeli investors face a 25% withholding drag on all dividends. Factor this into your yield calculations.
+_⚠️ Important: eToro offers both real shares and CFDs. If you hold CFDs, you do not own the underlying security — the tax treatment is different and the 25% withholding may not apply in the same way. Always verify which product type you are holding._
 
-### **3\. Use Options Income Strategically**
+_"Zero commission" does not mean free — you pay through spreads and pricing differences. Suitable for getting started, not for advanced strategies._
 
-Premium income from selling covered calls or cash-secured puts on US stocks is generally treated as short-term capital gains - not dividends. This means it is not subject to US withholding at the source. This makes options-based income strategies particularly attractive for Israeli investors.
+## **Comparison Table (Israel-Focused)**
 
-### **4\. Keep Records for Your Israeli Tax Return**
+<table><thead><tr><th><p><strong>Feature</strong></p></th><th><p><strong>IBKR</strong></p></th><th><p><strong>Saxo Bank</strong></p></th><th><p><strong>eToro</strong></p></th></tr></thead><tbody><tr><td><p>US Dividend Tax</p></td><td><p><strong>25%</strong></p></td><td><p>25%</p></td><td><p>25% (shares)*</p></td></tr><tr><td><p>FX Conversion</p></td><td><p><strong>~0.002%</strong></p></td><td><p>~0.25%</p></td><td><p>Spread-based</p></td></tr><tr><td><p>Options Trading</p></td><td><p><strong>Full</strong></p></td><td><p>Limited</p></td><td><p>None</p></td></tr><tr><td><p>UCITS Access</p></td><td><p><strong>Yes</strong></p></td><td><p>Yes</p></td><td><p>No</p></td></tr><tr><td><p>Platform Level</p></td><td><p><strong>Advanced</strong></p></td><td><p>Advanced</p></td><td><p>Beginner</p></td></tr><tr><td><p>Best For</p></td><td><p><strong>All-around</strong></p></td><td><p>Stability</p></td><td><p>Entry-level</p></td></tr></tbody></table>
 
-Your US broker will provide a 1042-S form (Foreign Person's US Source Income) at year-end showing how much was withheld. You will need this to claim your foreign tax credit in Israel.
+_\* eToro 25% applies to real shares only — see CFD note above._
 
-## **Key Documents You Will Need**
+## **The "Hidden Tax Drag" Explained**
 
--   W-8BEN form: Filed with your US broker to claim the 25% treaty rate (instead of 30%)
--   1042-S form: Issued by your US broker each year showing US-source income and tax withheld - Annual account statement: From your broker showing all transactions, dividends, and interest - Israeli tax return (Doch Mas Hachnasa): Where you report foreign income and claim the foreign tax credit
+This is where most investors lose money without noticing.
 
-## **Frequently Asked Questions**
+### **1. Currency Conversion**
 
-### **Do I need to file a US tax return as an Israeli investor?**
+- IBKR → ~0.002% (near interbank)
+- Saxo → ~0.25%
+- eToro → spread-based, often higher
 
-Generally no - if your only US income is investment income (dividends, interest) that has been correctly withheld at the treaty rate, you are not required to file a US return. However, if you have other US-source income (rental income, business income, etc.), you may need to file Form 1040-NR.
+### **2. Dividends**
 
-### **What if I am an Israeli citizen living outside Israel?**
+- 25% US withholding for Israeli investors (via W-8BEN treaty)
+- Unavoidable on dividend-paying ETFs — but more impactful on high-yield ETFs than on TQQQ
 
-Your tax residency - not your citizenship - determines which treaty applies. If you live in Canada, for example, you claim treaty benefits under the US-Canada treaty, not the US-Israel treaty.
+### **3. Spreads**
 
-### **Does the treaty cover ETFs like TQQQ and QQQ?**
+- Especially relevant on platforms like eToro
+- Increases the effective cost per trade
 
-Yes. Dividends paid by US-domiciled ETFs to Israeli investors are subject to the 25% treaty rate, same as individual US stocks.
+### **4. Cash and Interest**
 
-### **I have both Israeli and US citizenship. Which rules apply?**
+Different brokers handle uninvested cash differently — some pay interest, others do not. This affects your total return on idle capital. Check your broker's specific policy.
 
-This is a complex situation. US citizens are taxed by the US on worldwide income regardless of where they live. If you hold dual citizenship, you likely need to file US taxes annually and should work with a tax advisor specializing in US expat taxation.
+## **Which is the Best Broker in Israel for US Stocks?**
 
-## **Summary: US-Israel Tax Treaty at a Glance**
+**Choose IBKR if:**
 
-| **Income Type** | **US Withholding** | **Israeli Tax** | **Net Position** |
-| --- | --- | --- | --- |
-| Dividends | 25% | 25% (credit available) | ~25% effective rate |
-| Capital Gains | 0% | 25% | 25% to Israel only |
-| Interest | 17.5% | 25% (credit available) | ~25% effective rate |
-| Options premium | 0% (treated as gains) | 25% | 25% to Israel only |
+- You trade options
+- You care about minimizing costs
+- You want full control over execution
 
-## **Final Thoughts**
+**Choose Saxo if:**
 
-The US-Israel tax treaty is a useful framework for Israeli investors, but it is not the most favorable treaty the US has. The 25% dividend withholding rate - higher than the 15% that Canadian or Australian investors pay - means Israeli investors should be thoughtful about dividend-heavy strategies.
+- You have a large portfolio
+- You want an institutional-level environment
+- Cost efficiency is less important than infrastructure
 
-The silver lining: capital gains have zero US withholding, options income is not subject to US withholding at source, and the foreign tax credit system prevents true double taxation. With proper planning and correct documentation (especially the W-8BEN), Israeli investors can invest in US markets efficiently and legally.
+**Choose eToro if:**
 
-**Financial Disclaimer**
+- You are just starting out
+- You want simplicity above all
+- You don't use options or advanced strategies
 
-_The content on GetGlobalYields.com is for informational and educational purposes only and does not constitute financial, investment, or tax advice. Tax laws and treaty provisions change over time and vary by individual circumstances. Always consult a licensed Israeli and US tax professional before making investment decisions._
+## **Final Verdict**
+
+**For Israeli investors trading TQQQ or using options strategies: Interactive Brokers is the most cost-efficient and capable platform overall.**
+
+Lowest FX costs, best execution, full strategy support.
+
+Other platforms are valid — but involve trade-offs: higher costs, limited tools, or less flexibility.
+
+👉 [**Start with IBKR here**](https://getglobalyields.com/go/ibkr) _(affiliate link)_
+
+## **Related Guides**
+
+- [TQQQ vs QQQ — Strategy Breakdown](https://getglobalyields.com/tqqq-vs-qqq-non-us-investors/)
+- [TQQQ Tax Guide for Non-US Investors](https://getglobalyields.com/tqqq-tax-non-us-investors/)
+- [Full Case Study: From -70% to +$483K](https://getglobalyields.com/case-study/from-minus-70-to-plus-483k-real-tqqq-recovery-case-study/)

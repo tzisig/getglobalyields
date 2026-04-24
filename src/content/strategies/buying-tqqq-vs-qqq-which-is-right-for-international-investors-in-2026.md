@@ -13,7 +13,7 @@ If you're investing in US markets from outside the US, you've probably come acro
 
 One is built for long-term growth. The other is a high-risk trading tool that can multiply gains - or destroy capital fast.
 
-I used TQQQ myself during a recovery phase after a 70% portfolio drawdown. Read the full breakdown: [Case Study: From -70% to +$483K](/case-study/from-minus-70-to-plus-470k-real-tqqq-recovery-case-study/)
+I used TQQQ myself during a recovery phase after a 70% portfolio drawdown. Read the full breakdown: [Case Study: From -70% to +$483K](/case-study/from-minus-70-to-plus-483k-real-tqqq-recovery-case-study/)
 
 <!-- AdSense Placement -->
 
@@ -144,7 +144,7 @@ TQQQ works only under specific conditions:
 
 *It should always be a small part of your portfolio.*
 
-In my own case, combining TQQQ with an options strategy during a recovery phase turned this structural risk into a significant advantage - [you can read the full breakdown in the case study.](/case-study/from-minus-70-to-plus-470k-real-tqqq-recovery-case-study/)
+In my own case, combining TQQQ with an options strategy during a recovery phase turned this structural risk into a significant advantage - [you can read the full breakdown in the case study.](/case-study/from-minus-70-to-plus-483k-real-tqqq-recovery-case-study/)
 
 ## **When to Avoid TQQQ**
 

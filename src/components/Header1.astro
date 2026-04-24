@@ -1,0 +1,254 @@
+---
+const navItems = [
+  { name: 'Start Here', href: '/start-here' },
+  { name: 'Best Brokers', href: '/best-brokers', highlight: true },
+  { name: 'US Investing', href: '/us-investing' },
+  { name: 'Options Income', href: '/options-income' },
+  { name: 'Taxes', href: '/taxes' },
+  { name: 'Strategies', href: '/strategies' },
+  { name: 'Case Studies', href: '/case-studies' },
+  { 
+    name: 'Tools', 
+    dropdown: true, 
+    items: [
+      { name: 'Calculators', href: '/resources/calculators' },
+      { name: 'Glossary', href: '/resources/glossary' },
+      { name: 'Useful Links', href: '/resources/useful-links' },
+    ]
+  },
+];
+
+const currentPath = Astro.url.pathname;
+---
+
+<header class="sticky top-0 z-50 w-full border-b border-primary-700 bg-primary-900/95 backdrop-blur supports-[backdrop-filter]:bg-primary-900/80">
+  <div class="container mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="flex h-24 lg:h-32 items-center justify-between">
+      <!-- Logo -->
+      <div class="flex-shrink-0">
+        <a href="/" class="flex items-center gap-2">
+          <img src="/logo.png" alt="Get Global Yields" class="h-16 lg:h-24 w-auto object-contain py-1" />
+        </a>
+      </div>
+
+      <!-- Desktop Navigation -->
+      <nav class="hidden xl:block">
+        <ul class="flex items-center space-x-6">
+          {navItems.map((item) => {
+            const isActive = item.href ? (currentPath === item.href || currentPath.startsWith(item.href + '/')) : false;
+            return (
+              <li class={item.dropdown ? "relative group" : ""}>
+                {item.dropdown ? (
+                  <>
+                    <button class="flex items-center text-sm font-medium transition-colors hover:text-accent-500 text-slate-300 py-2">
+                      {item.name}
+                      <svg class="ml-1 h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                      </svg>
+                    </button>
+                    <div class="absolute left-0 mt-2 w-48 rounded-md shadow-lg bg-primary-800 ring-1 ring-black ring-opacity-5 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 z-50">
+                      <div class="py-1" role="menu" aria-orientation="vertical">
+                        {item.items?.map((subitem: any) => (
+                          <a href={subitem.href} class="block px-4 py-2 text-sm text-slate-300 hover:bg-primary-700 hover:text-accent-500" role="menuitem">{subitem.name}</a>
+                        ))}
+                      </div>
+                    </div>
+                  </>
+                ) : (
+                  <a
+                    href={item.href}
+                    class={`text-sm font-medium transition-colors hover:text-accent-500 ${
+                      isActive ? 'text-accent-500' : (item.highlight ? 'text-accent-400 bg-primary-700 px-2 py-1 rounded' : 'text-slate-300')
+                    }`}
+                  >
+                    {item.name}
+                  </a>
+                )}
+              </li>
+            );
+          })}
+        </ul>
+      </nav>
+
+      <!-- Right side: Theme toggle + CTA -->
+      <div class="hidden md:flex items-center space-x-3">
+        <!-- Theme Toggle Button -->
+        <button
+          id="theme-toggle"
+          type="button"
+          title="Toggle dark/light mode"
+          aria-label="Toggle theme"
+          class="flex items-center justify-center w-9 h-9 rounded-md text-slate-400 hover:text-slate-100 hover:bg-primary-800 transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-accent-500"
+        >
+          <!-- Sun icon (shown in dark mode) -->
+          <svg id="icon-sun" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364-6.364l-.707.707M6.343 17.657l-.707.707M17.657 17.657l-.707-.707M6.343 6.343l-.707-.707M16 12a4 4 0 11-8 0 4 4 0 018 0z" />
+          </svg>
+          <!-- Moon icon (shown in light mode, hidden by default) -->
+          <svg id="icon-moon" class="h-5 w-5 hidden" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z" />
+          </svg>
+        </button>
+
+        <!-- CTA -->
+        <a href="/best-brokers" class="inline-flex items-center justify-center px-5 py-2.5 border border-transparent text-sm font-bold rounded-md text-primary-900 bg-accent-500 hover:bg-accent-400 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-accent-500 focus:ring-offset-primary-900 shadow-lg shadow-accent-500/20 transition-all duration-200">
+          Compare Best Brokers
+        </a>
+      </div>
+
+      <!-- Mobile: Theme toggle + menu button -->
+      <div class="flex items-center xl:hidden ml-4 gap-2">
+        <!-- Theme Toggle (mobile) -->
+        <button
+          id="theme-toggle-mobile"
+          type="button"
+          title="Toggle dark/light mode"
+          aria-label="Toggle theme"
+          class="flex items-center justify-center w-9 h-9 rounded-md text-slate-400 hover:text-slate-100 hover:bg-primary-800 transition-all duration-200"
+        >
+          <svg id="icon-sun-mobile" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364-6.364l-.707.707M6.343 17.657l-.707.707M17.657 17.657l-.707-.707M6.343 6.343l-.707-.707M16 12a4 4 0 11-8 0 4 4 0 018 0z" />
+          </svg>
+          <svg id="icon-moon-mobile" class="h-5 w-5 hidden" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z" />
+          </svg>
+        </button>
+
+        <!-- Mobile menu button -->
+        <button
+          type="button"
+          id="mobile-menu-button"
+          class="inline-flex items-center justify-center rounded-md p-2 text-slate-400 hover:bg-primary-800 hover:text-slate-100 focus:outline-none focus:ring-2 focus:ring-accent-500"
+          aria-controls="mobile-menu"
+          aria-expanded="false"
+        >
+          <span class="sr-only">Open main menu</span>
+          <svg class="block h-6 w-6" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5" />
+          </svg>
+          <svg class="hidden h-6 w-6" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" aria-hidden="true">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12" />
+          </svg>
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Mobile menu -->
+  <div class="xl:hidden hidden border-t border-primary-700 bg-primary-800" id="mobile-menu">
+    <div class="space-y-1 px-2 pb-3 pt-2">
+      {navItems.map((item) => {
+        if (item.dropdown) {
+          return (
+            <div class="space-y-1 py-1">
+              <div class="px-3 py-2 text-base font-medium text-slate-400">{item.name}</div>
+              {item.items?.map((subitem: any) => {
+                const isSubActive = currentPath === subitem.href || currentPath.startsWith(subitem.href + '/');
+                return (
+                  <a
+                    href={subitem.href}
+                    class={`block rounded-md pl-6 pr-3 py-2 text-base font-medium ${
+                      isSubActive
+                        ? 'bg-primary-900 text-accent-500'
+                        : 'text-slate-300 hover:bg-primary-700 hover:text-white'
+                    }`}
+                  >
+                    {subitem.name}
+                  </a>
+                );
+              })}
+            </div>
+          );
+        }
+        
+        const isActive = item.href ? (currentPath === item.href || currentPath.startsWith(item.href + '/')) : false;
+        return (
+          <a
+            href={item.href}
+            class={`block rounded-md px-3 py-2 text-base font-medium ${
+              isActive
+                ? 'bg-primary-900 text-accent-500'
+                : (item.highlight ? 'text-white font-semibold hover:bg-primary-700 hover:text-white' : 'text-slate-300 hover:bg-primary-700 hover:text-white')
+            }`}
+            aria-current={isActive ? 'page' : undefined}
+          >
+            {item.name}
+          </a>
+        );
+      })}
+      <div class="mt-4 px-3">
+        <a href="/best-brokers" class="flex w-full items-center justify-center px-4 py-3 border border-transparent text-base font-bold rounded-md text-primary-900 bg-accent-500 hover:bg-accent-400 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-accent-500 shadow-lg transition-all duration-200">
+          Compare Best Brokers
+        </a>
+      </div>
+    </div>
+  </div>
+</header>
+
+<script>
+  // ─── Theme Toggle ────────────────────────────────────────
+  function applyTheme(theme: string) {
+    // Apply to both body and html (html class set by inline script in BaseLayout)
+    document.body.classList.remove('light', 'dark');
+    document.body.classList.add(theme);
+    document.documentElement.classList.remove('light', 'dark');
+    document.documentElement.classList.add(theme);
+    localStorage.setItem('theme', theme);
+
+    const isDark = theme === 'dark';
+    // Sun = shown in dark mode (click to go light)
+    // Moon = shown in light mode (click to go dark)
+    document.getElementById('icon-sun')?.classList.toggle('hidden', !isDark);
+    document.getElementById('icon-moon')?.classList.toggle('hidden', isDark);
+    document.getElementById('icon-sun-mobile')?.classList.toggle('hidden', !isDark);
+    document.getElementById('icon-moon-mobile')?.classList.toggle('hidden', isDark);
+  }
+
+  function setupTheme() {
+    const saved = localStorage.getItem('theme') || 'dark';
+    applyTheme(saved);
+
+    const handleToggle = () => {
+      const next = document.body.classList.contains('dark') ? 'light' : 'dark';
+      applyTheme(next);
+    };
+
+    // Always clone to remove stale listeners before re-attaching
+    ['theme-toggle', 'theme-toggle-mobile'].forEach((id) => {
+      const el = document.getElementById(id);
+      if (!el) return;
+      const clone = el.cloneNode(true) as HTMLElement;
+      el.parentNode?.replaceChild(clone, el);
+      clone.addEventListener('click', handleToggle);
+    });
+  }
+
+  setupTheme();
+  document.addEventListener('astro:page-load', setupTheme);
+
+  // ─── Mobile Menu ─────────────────────────────────────────
+  function setupMobileMenu() {
+    const button = document.getElementById('mobile-menu-button');
+    const menu   = document.getElementById('mobile-menu');
+    if (!button || !menu) return;
+
+    const fresh = button.cloneNode(true) as HTMLButtonElement;
+    button.parentNode?.replaceChild(fresh, button);
+
+    fresh.addEventListener('click', () => {
+      const expanded = fresh.getAttribute('aria-expanded') === 'true';
+      fresh.setAttribute('aria-expanded', String(!expanded));
+      menu.classList.toggle('hidden');
+      const svgs = fresh.querySelectorAll('svg');
+      if (svgs.length >= 2) {
+        svgs[0].classList.toggle('hidden');
+        svgs[0].classList.toggle('block');
+        svgs[1].classList.toggle('hidden');
+        svgs[1].classList.toggle('block');
+      }
+    });
+  }
+
+  setupMobileMenu();
+  document.addEventListener('astro:page-load', setupMobileMenu);
+</script>
