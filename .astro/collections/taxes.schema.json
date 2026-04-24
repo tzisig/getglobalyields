@@ -30,9 +30,83 @@
         "type": "string"
       }
     },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "canonicalURL": {
+      "type": "string",
+      "format": "uri"
+    },
     "draft": {
       "default": false,
       "type": "boolean"
+    },
+    "readingTime": {
+      "type": "string"
+    },
+    "featured": {
+      "type": "boolean"
+    },
+    "seo": {
+      "type": "object",
+      "properties": {
+        "metaTitle": {
+          "type": "string"
+        },
+        "metaDescription": {
+          "type": "string"
+        },
+        "keywords": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "ogTitle": {
+          "type": "string"
+        },
+        "ogDescription": {
+          "type": "string"
+        },
+        "ogImage": {
+          "type": "string"
+        },
+        "twitterCard": {
+          "type": "string"
+        }
+      }
+    },
+    "schema": {
+      "type": "object",
+      "properties": {
+        "type": {
+          "type": "string"
+        },
+        "headline": {
+          "type": "string"
+        },
+        "description": {
+          "type": "string"
+        },
+        "author": {
+          "type": "string"
+        },
+        "datePublished": {
+          "type": "string"
+        },
+        "dateModified": {
+          "type": "string"
+        },
+        "image": {
+          "type": "string"
+        },
+        "mainEntityOfPage": {
+          "type": "string"
+        }
+      }
     },
     "productName": {
       "type": "string"
