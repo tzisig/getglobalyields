@@ -166,4 +166,4 @@ Key points:
 
 - [TQQQ vs QQQ for International Investors](https://getglobalyields.com/tqqq-vs-qqq-non-us-investors/)
 - [Best Brokers for Israeli Investors in US Markets](/best-broker-israeli-investors-us-markets/)
-- [Full Case Study: From -70% to +$470K](https://getglobalyields.com/case-study/from-minus-70-to-plus-470k-real-tqqq-recovery-case-study/)
+- [Full Case Study: From -70% to +$483K](https://getglobalyields.com/case-study/from-minus-70-to-plus-483k-real-tqqq-recovery-case-study/)

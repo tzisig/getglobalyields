@@ -230,7 +230,7 @@ Also read:
 
 - [Interactive Brokers review](/best-brokers/interactive-brokers-review-non-us-investors/)
 - [TQQQ tax guide for international investors](/tqqq-tax-international-investors/)
-- [real TQQQ recovery case study](/case-study/from-minus-70-to-plus-470k-real-tqqq-recovery-case-study/)
+- [real TQQQ recovery case study](/case-study/from-minus-70-to-plus-483k-real-tqqq-recovery-case-study/)
 
 ## FAQ
 
