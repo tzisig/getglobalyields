@@ -4,7 +4,7 @@ import Card from '../components/Card.astro';
 import { getCollection } from 'astro:content';
 
 const posts = (await getCollection('case-study'))
-  .map(p => ({ ...p, type: 'case-studies', url: `/case-study/${p.id}` }));
+  .map(p => ({ ...p, type: 'case-studies', url: `/case-study/${p.data.slug ?? p.id}` }));
 ---
 
 <BaseLayout
@@ -35,6 +35,8 @@ const posts = (await getCollection('case-study'))
               date={post.data.pubDate}
               categoryName={post.type}
               image={post.data.heroImage}
+              imageLight={post.data.heroImageLight}
+              imageDark={post.data.heroImageDark}
               isFeatured={isFeatured}
             />
           );

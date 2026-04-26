@@ -7,6 +7,8 @@ const commonSchema = z.object({
   pubDate: z.coerce.date(),
   updatedDate: z.coerce.date().optional(),
   heroImage: z.string().optional(),
+  heroImageLight: z.string().optional(),
+  heroImageDark: z.string().optional(),
   author: z.string().default('Get Global Yields Team'),
   categories: z.array(z.string()).default([]),
   tags: z.array(z.string()).optional(),

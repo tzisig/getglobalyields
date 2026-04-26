@@ -200,6 +200,17 @@ body.light .gg-logo--dark {
   display: none !important;
 }
 
+/* theme-based visibility helpers (project uses body.dark/body.light) */
+body.dark .theme-light-only,
+body.light .theme-dark-only {
+  display: none !important;
+}
+
+body.light .theme-light-only,
+body.dark .theme-dark-only {
+  display: block !important;
+}
+
 /* mobile menu */
 #mobile-menu {
   background-color: var(--bg-surface) !important;

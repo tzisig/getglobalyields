@@ -173,4 +173,4 @@ Other platforms are valid — but involve trade-offs: higher costs, limited tool
 
 - [TQQQ vs QQQ — Strategy Breakdown](https://getglobalyields.com/tqqq-vs-qqq-non-us-investors/)
 - [TQQQ Tax Guide for Non-US Investors](https://getglobalyields.com/tqqq-tax-non-us-investors/)
-- [Full Case Study: From -70% to +$483K](https://getglobalyields.com/case-study/from-minus-70-to-plus-483k-real-tqqq-recovery-case-study/)
+- [Full Case Study: From -70% to +$492K](https://getglobalyields.com/case-study/from-minus-70-to-plus-492k-real-tqqq-recovery-case-study/)

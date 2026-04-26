@@ -1,11 +1,15 @@
 ---
-title: "From -72% to +245%: A Real TQQQ Recovery Case Study"
-description: "A personal case study of loss, recovery, and systematic options strategy on TQQQ."
+title: "From -72% to over +250%: Real TQQQ Recovery Case Study (Non-US Investor)"
+description: "One investor's real journey with TQQQ — from a 72% drawdown to over 250% return using the Wheel Strategy. Full breakdown with numbers, mistakes, and current portfolio."
 pubDate: 2026-04-17
 categories: ["case-study"]
 author: "GetGlobalYields Team"
-heroImage: "/images/blog/tqqq_card_banner.png"
+heroImage: "/images/blog/tqqq_recovery_light.png"
+heroImageLight: "/images/blog/tqqq_recovery_light.png"
+heroImageDark: "/images/blog/tqqq_recovery_dark.png"
 products: ["TQQQ", "Options"]
+slug: "from-minus-70-to-plus-492k-real-tqqq-recovery-case-study"
+keywords: "TQQQ recovery case study, TQQQ wheel strategy real results, TQQQ drawdown recovery, TQQQ covered calls strategy, leveraged ETF recovery, options income TQQQ, investing in TQQQ from abroad"
 ---
 
 > [!NOTE]
@@ -21,7 +25,7 @@ products: ["TQQQ", "Options"]
 > *   **Bottom:** ~$28,000 (-72%)
 > *   **Added collateral:** $40,000 (Feb 2023)
 > *   **Total invested:** $140,000
-> *   **Current value:** $483,000 (+245%) - April 2026
+> *   **Current value:** $492,000 (over +250%) - April 2026
 > *   **Method:** TQQQ + Covered Calls + Short Puts
 > 
 > *This is not a success story. It's a reconstruction after a near wipeout.*
@@ -43,7 +47,8 @@ As an international investor entering the US market, my first mistake was relyin
 **Result:** $100,000 → $28,000 within a year
 No edge. No system. Just exposure and hope.
 
-![TQQQ Recovery Banner](/images/blog/tqqq_recovery_banner.png)
+<img src="/images/blog/tqqq_recovery_light.png" alt="TQQQ Recovery Banner" class="theme-light-only" />
+<img src="/images/blog/tqqq_recovery_dark.png" alt="TQQQ Recovery Banner" class="theme-dark-only" />
 
 ## 2. The Turning Point (Late 2022)
 At the bottom, I stopped trading and started thinking.
@@ -149,7 +154,7 @@ Not the market. My behavior.
 | Overtrading | Letting positions work |
 
 ## Chapter 3: The System Running Now (April 2026)
-Current portfolio value: $483,000
+Current portfolio value: $492,000
 *(net liquid - after buying back all options at today’s prices)*
 
 **Active positions:**

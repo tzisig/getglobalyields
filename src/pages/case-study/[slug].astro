@@ -11,7 +11,7 @@ import FinancialDisclaimer from '../../components/FinancialDisclaimer.astro';
 export async function getStaticPaths() {
   const posts = await getCollection('case-study').catch(() => []);
   return posts.filter(post => !post.data.draft).map(post => ({
-    params: { slug: post.id },
+    params: { slug: post.data.slug ?? post.id },
     props: { post },
   }));
 }
@@ -19,6 +19,8 @@ export async function getStaticPaths() {
 const { post } = Astro.props;
 if (!post) return Astro.redirect('/404');
 const { Content } = await render(post);
+const heroImageLight = post.data.heroImageLight ?? post.data.heroImage;
+const heroImageDark = post.data.heroImageDark ?? post.data.heroImage;
 ---
 
 <BaseLayout title={`${post.data.title} — Get Global Yields`} description={post.data.description} image={post.data.heroImage}>
@@ -46,8 +48,15 @@ const { Content } = await render(post);
             </div>
           </header>
 
-          {post.data.heroImage && (
-            <img src={post.data.heroImage} alt={post.data.title} class="w-full h-auto rounded-xl mb-12 shadow-2xl border border-primary-700" />
+          {(heroImageLight || heroImageDark) && (
+            <>
+              {heroImageLight && (
+                <img src={heroImageLight} alt={post.data.title} class="w-full h-auto rounded-xl mb-12 shadow-2xl border border-primary-700 theme-light-only" />
+              )}
+              {heroImageDark && (
+                <img src={heroImageDark} alt={post.data.title} class="w-full h-auto rounded-xl mb-12 shadow-2xl border border-primary-700 theme-dark-only" />
+              )}
+            </>
           )}
 
           <div class="article-content prose prose-invert prose-lg prose-a:text-accent-500 hover:prose-a:text-accent-400 max-w-none">

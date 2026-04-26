@@ -16,7 +16,7 @@ TQQQ is widely discussed for its high returns potential. But most tax guides are
 
 For international investors, the tax picture is different — and in some ways, more efficient.
 
-**👉 I personally used TQQQ (with options) during a recovery after a 70% drawdown.** [Full case study here.](https://getglobalyields.com/case-study/from-minus-70-to-plus-470k-real-tqqq-recovery-case-study/)
+**👉 I personally used TQQQ (with options) during a recovery after a 70% drawdown.** [Full case study here.](https://getglobalyields.com/case-study/from-minus-70-to-plus-492k-real-tqqq-recovery-case-study/)
 
 This guide breaks down exactly how TQQQ is taxed for non-US investors:
 
@@ -192,6 +192,6 @@ From a tax perspective, TQQQ is relatively efficient for non-US investors.
 ## **Related Reading**
 
 - [TQQQ vs QQQ: Which ETF is better for non-US investors](https://getglobalyields.com/tqqq-vs-qqq-non-us-investors/)
-- [Full recovery case study: From -70% to +$483K](https://getglobalyields.com/case-study/from-minus-70-to-plus-470k-real-tqqq-recovery-case-study/)
+- [Full recovery case study: From -70% to +$492K](https://getglobalyields.com/case-study/from-minus-70-to-plus-492k-real-tqqq-recovery-case-study/)
 
 <!-- INTERNAL SEO NOTE (non-visible): Add cluster links to this page using anchor text "TQQQ tax non-US" or "leveraged ETF tax international". -->

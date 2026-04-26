@@ -19,6 +19,12 @@
     "heroImage": {
       "type": "string"
     },
+    "heroImageLight": {
+      "type": "string"
+    },
+    "heroImageDark": {
+      "type": "string"
+    },
     "author": {
       "default": "Get Global Yields Team",
       "type": "string"
