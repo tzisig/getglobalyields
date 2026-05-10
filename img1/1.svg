@@ -1,0 +1,313 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" width="1200" height="700">
+  <defs>
+    <!-- Background gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#F5F7FB;stop-opacity:1" />
+      <stop offset="60%" style="stop-color:#EEF2FA;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#E8EEF8;stop-opacity:1" />
+    </linearGradient>
+
+    <!-- Gold glow gradient -->
+    <radialGradient id="goldGlow" cx="60%" cy="45%" r="45%">
+      <stop offset="0%" style="stop-color:#D4AF37;stop-opacity:0.12" />
+      <stop offset="100%" style="stop-color:#D4AF37;stop-opacity:0" />
+    </radialGradient>
+
+    <!-- Blue glow -->
+    <radialGradient id="blueGlow" cx="35%" cy="55%" r="40%">
+      <stop offset="0%" style="stop-color:#4A6FA5;stop-opacity:0.10" />
+      <stop offset="100%" style="stop-color:#4A6FA5;stop-opacity:0" />
+    </radialGradient>
+
+    <!-- Chart line gradient -->
+    <linearGradient id="chartLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#4A6FA5;stop-opacity:0.6" />
+      <stop offset="50%" style="stop-color:#D4AF37;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#D4AF37;stop-opacity:1" />
+    </linearGradient>
+
+    <!-- Chart fill gradient -->
+    <linearGradient id="chartFill" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#D4AF37;stop-opacity:0.20" />
+      <stop offset="100%" style="stop-color:#D4AF37;stop-opacity:0" />
+    </linearGradient>
+
+    <!-- Globe gradient -->
+    <radialGradient id="globeGrad" cx="38%" cy="35%" r="60%">
+      <stop offset="0%" style="stop-color:#4A6FA5;stop-opacity:0.18" />
+      <stop offset="60%" style="stop-color:#0B1F3A;stop-opacity:0.07" />
+      <stop offset="100%" style="stop-color:#0B1F3A;stop-opacity:0.15" />
+    </radialGradient>
+
+    <!-- Card shadow -->
+    <filter id="cardShadow" x="-10%" y="-10%" width="120%" height="130%">
+      <feDropShadow dx="0" dy="8" stdDeviation="16" flood-color="#0B1F3A" flood-opacity="0.10"/>
+    </filter>
+
+    <!-- Soft glow filter -->
+    <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <!-- Gold dot glow -->
+    <filter id="dotGlow">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <!-- Clip for globe -->
+    <clipPath id="globeClip">
+      <circle cx="420" cy="350" r="220"/>
+    </clipPath>
+
+    <!-- Grid pattern -->
+    <pattern id="gridPattern" x="0" y="0" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#0B1F3A" stroke-width="0.4" opacity="0.12"/>
+    </pattern>
+
+    <style>
+      @keyframes chartDraw {
+        from { stroke-dashoffset: 800; }
+        to { stroke-dashoffset: 0; }
+      }
+      @keyframes float1 {
+        0%, 100% { transform: translateY(0px); }
+        50% { transform: translateY(-10px); }
+      }
+      @keyframes float2 {
+        0%, 100% { transform: translateY(0px); }
+        50% { transform: translateY(-7px); }
+      }
+      @keyframes pulse {
+        0%, 100% { opacity: 1; r: 5; }
+        50% { opacity: 0.7; r: 7; }
+      }
+      @keyframes spin {
+        from { transform: rotate(0deg); }
+        to { transform: rotate(360deg); }
+      }
+      @keyframes fadeIn {
+        from { opacity: 0; transform: translateY(12px); }
+        to { opacity: 1; transform: translateY(0); }
+      }
+      @keyframes glowPulse {
+        0%, 100% { opacity: 0.4; }
+        50% { opacity: 0.8; }
+      }
+      .chart-path {
+        stroke-dasharray: 800;
+        stroke-dashoffset: 800;
+        animation: chartDraw 2.2s ease-out 0.5s forwards;
+      }
+      .card-float-1 { animation: float1 4s ease-in-out infinite; }
+      .card-float-2 { animation: float2 5s ease-in-out 0.8s infinite; }
+      .card-float-3 { animation: float2 4.5s ease-in-out 0.4s infinite; }
+      .dot-pulse { animation: pulse 2s ease-in-out infinite; }
+      .glow-pulse { animation: glowPulse 3s ease-in-out infinite; }
+      .fade-in-1 { animation: fadeIn 0.8s ease-out 0.3s both; }
+      .fade-in-2 { animation: fadeIn 0.8s ease-out 0.6s both; }
+      .fade-in-3 { animation: fadeIn 0.8s ease-out 0.9s both; }
+      .fade-in-4 { animation: fadeIn 0.8s ease-out 1.2s both; }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="700" fill="url(#bgGrad)"/>
+  <rect width="1200" height="700" fill="url(#goldGlow)"/>
+  <rect width="1200" height="700" fill="url(#blueGlow)"/>
+
+  <!-- Subtle grid -->
+  <rect width="1200" height="700" fill="url(#gridPattern)" opacity="0.5"/>
+
+  <!-- ═══════════════════════════════════════ -->
+  <!-- GLOBE -->
+  <!-- ═══════════════════════════════════════ -->
+
+  <!-- Globe outer ring glow -->
+  <circle cx="420" cy="350" r="235" fill="none" stroke="#4A6FA5" stroke-width="1" opacity="0.15" class="glow-pulse"/>
+  <circle cx="420" cy="350" r="250" fill="none" stroke="#D4AF37" stroke-width="0.5" opacity="0.10" class="glow-pulse"/>
+
+  <!-- Globe base -->
+  <circle cx="420" cy="350" r="220" fill="url(#globeGrad)" stroke="#0B1F3A" stroke-width="1" opacity="0.9"/>
+
+  <!-- Globe grid lines (clipped) -->
+  <g clip-path="url(#globeClip)" opacity="0.20">
+    <!-- Latitude lines -->
+    <ellipse cx="420" cy="350" rx="220" ry="50" fill="none" stroke="#0B1F3A" stroke-width="0.8"/>
+    <ellipse cx="420" cy="350" rx="220" ry="110" fill="none" stroke="#0B1F3A" stroke-width="0.8"/>
+    <ellipse cx="420" cy="350" rx="220" ry="170" fill="none" stroke="#0B1F3A" stroke-width="0.8"/>
+    <line x1="200" y1="350" x2="640" y2="350" stroke="#0B1F3A" stroke-width="0.8"/>
+    <!-- Longitude lines -->
+    <ellipse cx="420" cy="350" rx="55" ry="220" fill="none" stroke="#0B1F3A" stroke-width="0.8"/>
+    <ellipse cx="420" cy="350" rx="110" ry="220" fill="none" stroke="#0B1F3A" stroke-width="0.8"/>
+    <ellipse cx="420" cy="350" rx="165" ry="220" fill="none" stroke="#0B1F3A" stroke-width="0.8"/>
+    <line x1="420" y1="130" x2="420" y2="570" stroke="#0B1F3A" stroke-width="0.8"/>
+  </g>
+
+  <!-- Continents (simplified) -->
+  <g clip-path="url(#globeClip)" opacity="0.85">
+    <!-- North America -->
+    <path d="M280 240 Q295 225 320 228 Q340 230 355 245 Q365 260 355 280 Q340 300 315 310 Q295 315 275 305 Q260 290 265 270 Z" fill="#0B1F3A" opacity="0.35"/>
+    <!-- Europe -->
+    <path d="M430 210 Q445 205 462 212 Q475 220 478 235 Q472 248 460 252 Q445 255 432 248 Q422 238 425 225 Z" fill="#0B1F3A" opacity="0.35"/>
+    <!-- Africa -->
+    <path d="M435 265 Q455 258 470 270 Q488 285 485 320 Q480 355 465 370 Q448 382 432 375 Q415 365 412 340 Q408 308 418 285 Z" fill="#0B1F3A" opacity="0.35"/>
+    <!-- Asia -->
+    <path d="M490 200 Q525 192 560 198 Q590 205 605 225 Q618 248 608 268 Q592 285 562 290 Q530 293 505 280 Q482 265 480 242 Q480 220 490 200 Z" fill="#0B1F3A" opacity="0.35"/>
+    <!-- Australia -->
+    <path d="M530 370 Q550 362 570 368 Q585 378 582 398 Q576 415 558 420 Q540 422 528 410 Q518 396 522 380 Z" fill="#0B1F3A" opacity="0.35"/>
+    <!-- South America -->
+    <path d="M295 330 Q315 322 332 330 Q345 342 342 368 Q336 392 318 402 Q300 408 285 396 Q272 380 275 358 Q278 338 295 330 Z" fill="#0B1F3A" opacity="0.35"/>
+  </g>
+
+  <!-- Connection dots on globe -->
+  <g filter="url(#dotGlow)">
+    <circle cx="308" cy="270" r="5" fill="#D4AF37" class="dot-pulse"/>
+    <circle cx="449" cy="230" r="4" fill="#D4AF37" opacity="0.9"/>
+    <circle cx="550" cy="245" r="5" fill="#D4AF37" class="dot-pulse"/>
+    <circle cx="453" cy="330" r="4" fill="#D4AF37" opacity="0.9"/>
+    <circle cx="318" cy="368" r="4" fill="#4A6FA5" opacity="0.9"/>
+    <circle cx="558" cy="394" r="4" fill="#4A6FA5" opacity="0.9"/>
+    <circle cx="470" cy="212" r="3" fill="#D4AF37" opacity="0.8"/>
+  </g>
+
+  <!-- Connection arcs between dots -->
+  <g opacity="0.4" fill="none">
+    <path d="M308 270 Q420 200 449 230" stroke="#D4AF37" stroke-width="1.2" stroke-dasharray="4 3"/>
+    <path d="M449 230 Q510 210 550 245" stroke="#D4AF37" stroke-width="1.2" stroke-dasharray="4 3"/>
+    <path d="M308 270 Q350 320 318 368" stroke="#4A6FA5" stroke-width="1" stroke-dasharray="3 3"/>
+    <path d="M550 245 Q560 320 558 394" stroke="#4A6FA5" stroke-width="1" stroke-dasharray="3 3"/>
+    <path d="M449 230 Q455 280 453 330" stroke="#D4AF37" stroke-width="1" stroke-dasharray="3 3"/>
+  </g>
+
+  <!-- Globe shine -->
+  <ellipse cx="360" cy="280" rx="60" ry="40" fill="white" opacity="0.08"/>
+
+  <!-- ═══════════════════════════════════════ -->
+  <!-- MAIN CHART CARD -->
+  <!-- ═══════════════════════════════════════ -->
+  <g class="card-float-1 fade-in-2" transform="translate(680, 130)">
+    <rect x="0" y="0" width="440" height="260" rx="20" ry="20" fill="white" filter="url(#cardShadow)" opacity="0.97"/>
+    <!-- Card header -->
+    <rect x="0" y="0" width="440" height="60" rx="20" ry="20" fill="#0B1F3A" opacity="0.04"/>
+    <rect x="0" y="40" width="440" height="20" fill="#0B1F3A" opacity="0.04"/>
+    <text x="24" y="35" font-family="Georgia, serif" font-size="13" font-weight="600" fill="#0B1F3A" opacity="0.7">Portfolio Performance</text>
+    <text x="340" y="35" font-family="Georgia, serif" font-size="11" fill="#4A6FA5" opacity="0.8">YTD +247%</text>
+
+    <!-- Chart grid lines -->
+    <line x1="24" y1="80" x2="416" y2="80" stroke="#0B1F3A" stroke-width="0.5" opacity="0.08"/>
+    <line x1="24" y1="110" x2="416" y2="110" stroke="#0B1F3A" stroke-width="0.5" opacity="0.08"/>
+    <line x1="24" y1="140" x2="416" y2="140" stroke="#0B1F3A" stroke-width="0.5" opacity="0.08"/>
+    <line x1="24" y1="170" x2="416" y2="170" stroke="#0B1F3A" stroke-width="0.5" opacity="0.08"/>
+    <line x1="24" y1="200" x2="416" y2="200" stroke="#0B1F3A" stroke-width="0.5" opacity="0.08"/>
+
+    <!-- Y-axis labels -->
+    <text x="8" y="83" font-family="monospace" font-size="9" fill="#0B1F3A" opacity="0.35">400</text>
+    <text x="8" y="113" font-family="monospace" font-size="9" fill="#0B1F3A" opacity="0.35">300</text>
+    <text x="8" y="143" font-family="monospace" font-size="9" fill="#0B1F3A" opacity="0.35">200</text>
+    <text x="8" y="173" font-family="monospace" font-size="9" fill="#0B1F3A" opacity="0.35">100</text>
+
+    <!-- Chart fill area -->
+    <path d="M30 195 L78 192 L126 185 L174 178 L222 168 L270 152 L318 128 L366 100 L414 78 L414 210 L30 210 Z"
+          fill="url(#chartFill)"/>
+
+    <!-- Chart line -->
+    <path d="M30 195 L78 192 L126 185 L174 178 L222 168 L270 152 L318 128 L366 100 L414 78"
+          fill="none" stroke="url(#chartLine)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"
+          class="chart-path"/>
+
+    <!-- Chart dots -->
+    <circle cx="414" cy="78" r="5" fill="#D4AF37" filter="url(#dotGlow)"/>
+    <circle cx="366" cy="100" r="3.5" fill="#D4AF37" opacity="0.7"/>
+    <circle cx="318" cy="128" r="3.5" fill="#D4AF37" opacity="0.7"/>
+
+    <!-- Peak label -->
+    <rect x="390" y="58" width="46" height="18" rx="9" fill="#D4AF37" opacity="0.15"/>
+    <text x="413" y="71" text-anchor="middle" font-family="monospace" font-size="9" font-weight="700" fill="#D4AF37">+247%</text>
+
+    <!-- X-axis labels -->
+    <text x="30" y="228" font-family="monospace" font-size="9" fill="#0B1F3A" opacity="0.35">Jan</text>
+    <text x="118" y="228" font-family="monospace" font-size="9" fill="#0B1F3A" opacity="0.35">Mar</text>
+    <text x="210" y="228" font-family="monospace" font-size="9" fill="#0B1F3A" opacity="0.35">Jun</text>
+    <text x="302" y="228" font-family="monospace" font-size="9" fill="#0B1F3A" opacity="0.35">Sep</text>
+    <text x="390" y="228" font-family="monospace" font-size="9" fill="#0B1F3A" opacity="0.35">Dec</text>
+
+    <!-- Bottom stats row -->
+    <line x1="24" y1="238" x2="416" y2="238" stroke="#0B1F3A" stroke-width="0.5" opacity="0.1"/>
+    <text x="40" y="253" font-family="Georgia, serif" font-size="10" fill="#0B1F3A" opacity="0.5">TQQQ</text>
+    <text x="120" y="253" font-family="monospace" font-size="10" font-weight="700" fill="#4A6FA5">$470K</text>
+    <text x="220" y="253" font-family="Georgia, serif" font-size="10" fill="#0B1F3A" opacity="0.5">Covered Calls</text>
+    <text x="340" y="253" font-family="monospace" font-size="10" font-weight="700" fill="#D4AF37">+$82K</text>
+  </g>
+
+  <!-- ═══════════════════════════════════════ -->
+  <!-- FX RATES CARD -->
+  <!-- ═══════════════════════════════════════ -->
+  <g class="card-float-2 fade-in-3" transform="translate(680, 420)">
+    <rect x="0" y="0" width="200" height="130" rx="16" ry="16" fill="white" filter="url(#cardShadow)" opacity="0.97"/>
+    <text x="20" y="28" font-family="Georgia, serif" font-size="11" font-weight="600" fill="#0B1F3A" opacity="0.7">FX Conversion</text>
+    <!-- Comparison bars -->
+    <rect x="20" y="42" width="160" height="10" rx="5" fill="#E8EEF8"/>
+    <rect x="20" y="42" width="12" height="10" rx="5" fill="#D4AF37"/>
+    <text x="38" y="51" font-family="monospace" font-size="8.5" fill="#D4AF37" font-weight="700">IBKR 0.002%</text>
+
+    <rect x="20" y="60" width="160" height="10" rx="5" fill="#E8EEF8"/>
+    <rect x="20" y="60" width="55" height="10" rx="5" fill="#4A6FA5" opacity="0.5"/>
+    <text x="80" y="69" font-family="monospace" font-size="8.5" fill="#0B1F3A" opacity="0.5">Wise ~0.5%</text>
+
+    <rect x="20" y="78" width="160" height="10" rx="5" fill="#E8EEF8"/>
+    <rect x="20" y="78" width="130" height="10" rx="5" fill="#0B1F3A" opacity="0.2"/>
+    <text x="155" y="87" font-family="monospace" font-size="8.5" fill="#0B1F3A" opacity="0.4">Bank ~2%</text>
+
+    <line x1="20" y1="105" x2="180" y2="105" stroke="#0B1F3A" stroke-width="0.5" opacity="0.1"/>
+    <text x="20" y="120" font-family="Georgia, serif" font-size="9" fill="#0B1F3A" opacity="0.45">Save ~$200 per $10K</text>
+  </g>
+
+  <!-- ═══════════════════════════════════════ -->
+  <!-- COUNTRIES CARD -->
+  <!-- ═══════════════════════════════════════ -->
+  <g class="card-float-3 fade-in-4" transform="translate(900, 420)">
+    <rect x="0" y="0" width="210" height="130" rx="16" ry="16" fill="#0B1F3A" filter="url(#cardShadow)" opacity="0.97"/>
+    <!-- Gold accent top -->
+    <rect x="0" y="0" width="210" height="4" rx="2" fill="#D4AF37" opacity="0.9"/>
+    <text x="20" y="35" font-family="Georgia, serif" font-size="12" font-weight="600" fill="white" opacity="0.9">Global Access</text>
+
+    <text x="20" y="68" font-family="Georgia, serif" font-size="36" font-weight="700" fill="#D4AF37">200+</text>
+    <text x="20" y="88" font-family="monospace" font-size="9" fill="white" opacity="0.5">countries supported</text>
+
+    <!-- Mini flag dots -->
+    <g opacity="0.7">
+      <circle cx="20" cy="108" r="5" fill="#4A6FA5"/>
+      <circle cx="34" cy="108" r="5" fill="#D4AF37"/>
+      <circle cx="48" cy="108" r="5" fill="#4A6FA5" opacity="0.6"/>
+      <circle cx="62" cy="108" r="5" fill="#D4AF37" opacity="0.6"/>
+      <circle cx="76" cy="108" r="5" fill="white" opacity="0.3"/>
+    </g>
+    <text x="90" y="113" font-family="Georgia, serif" font-size="9" fill="white" opacity="0.4">+195 more</text>
+  </g>
+
+  <!-- ═══════════════════════════════════════ -->
+  <!-- RATING BADGE -->
+  <!-- ═══════════════════════════════════════ -->
+  <g class="fade-in-1" transform="translate(648, 260)">
+    <rect x="0" y="0" width="120" height="56" rx="28" fill="white" filter="url(#cardShadow)"/>
+    <text x="60" y="22" text-anchor="middle" font-family="Georgia, serif" font-size="10" fill="#0B1F3A" opacity="0.55">IBKR Rating</text>
+    <text x="38" y="42" font-family="Georgia, serif" font-size="22" font-weight="700" fill="#0B1F3A">4.8</text>
+    <text x="70" y="36" font-family="monospace" font-size="14" fill="#D4AF37">★★★★★</text>
+  </g>
+
+  <!-- ═══════════════════════════════════════ -->
+  <!-- FLOATING ACCENT DOTS -->
+  <!-- ═══════════════════════════════════════ -->
+  <circle cx="660" cy="120" r="8" fill="#D4AF37" opacity="0.15"/>
+  <circle cx="650" cy="480" r="5" fill="#4A6FA5" opacity="0.20"/>
+  <circle cx="1160" cy="160" r="12" fill="#D4AF37" opacity="0.10"/>
+  <circle cx="1140" cy="580" r="7" fill="#4A6FA5" opacity="0.15"/>
+  <circle cx="150" cy="520" r="6" fill="#D4AF37" opacity="0.15"/>
+  <circle cx="100" cy="180" r="10" fill="#4A6FA5" opacity="0.10"/>
+
+  <!-- Subtle decorative line -->
+  <line x1="640" y1="60" x2="640" y2="640" stroke="#0B1F3A" stroke-width="0.5" opacity="0.07" stroke-dasharray="6 4"/>
+
+</svg>
