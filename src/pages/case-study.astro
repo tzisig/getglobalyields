@@ -4,17 +4,17 @@ import Card from '../components/Card.astro';
 import { getCollection } from 'astro:content';
 
 const posts = (await getCollection('case-study'))
-  .map(p => ({ ...p, type: 'case-studies', url: `/case-study/${p.data.slug ?? p.id}` }));
+  .map(p => ({ ...p, type: 'case-study', url: `/case-study/${p.data.slug ?? p.id}` }));
 ---
 
 <BaseLayout
-  title="Real Investment Case Studies"
-  description="Real-world case studies detailing portfolio growth and yield generation using global brokers."
+  title="Real Investment Case Study"
+  description="Real-world case study detailing portfolio growth and yield generation using global brokers."
 >
   <div class="bg-primary-900 py-16 lg:py-24 border-b border-primary-700 relative overflow-hidden">
     <div class="container relative mx-auto px-4 sm:px-6 lg:px-8 max-w-4xl text-center">
       <h1 class="text-4xl md:text-5xl font-bold text-slate-100 mb-6 leading-tight">
-        Transparency in Action:<br class="hidden md:block" /> <span class="text-accent-500">Real-Money Case Studies</span>
+        Transparency in Action:<br class="hidden md:block" /> <span class="text-accent-500">Real-Money Case Study</span>
       </h1>
       <p class="text-xl text-slate-300 leading-relaxed max-w-3xl mx-auto">
         No theories, no 'what-ifs.' We peel back the curtain on live portfolios, showing exactly how global yield strategies perform in volatile markets.

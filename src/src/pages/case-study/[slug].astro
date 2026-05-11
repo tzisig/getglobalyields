@@ -1,0 +1,398 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import AuthorBio from '../../components/AuthorBio.astro';
+import Sidebar from '../../components/Sidebar.astro';
+import NewsletterForm from '../../components/NewsletterForm.astro';
+import InlineNewsletterAfterThirdParagraph from '../../components/InlineNewsletterAfterThirdParagraph.astro';
+import AffiliateDisclaimer from '../../components/AffiliateDisclaimer.astro';
+import FinancialDisclaimer from '../../components/FinancialDisclaimer.astro';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('case-study').catch(() => []);
+  return posts.filter(post => !post.data.draft).map(post => ({
+    params: { slug: post.data.slug ?? post.id },
+    props: { post },
+  }));
+}
+
+const { post } = Astro.props;
+if (!post) return Astro.redirect('/404');
+const { Content } = await render(post);
+const heroImageLight = post.data.heroImageLight ?? post.data.heroImage;
+const heroImageDark = post.data.heroImageDark ?? post.data.heroImage;
+const resolvedSlug = post.data.slug ?? post.id;
+const isRecoveryChartPost =
+  resolvedSlug === 'from-minus-70-to-plus-492k-real-tqqq-recovery-case-study' ||
+  Astro.url.pathname.includes('/case-study/from-minus-70-to-plus-492k-real-tqqq-recovery-case-study') ||
+  post.data.title.includes('From -72% to over +250%');
+
+type CandlePoint = {
+  time: string;
+  open: number;
+  high: number;
+  low: number;
+  close: number;
+};
+
+async function getRecoveryCandles(): Promise<CandlePoint[]> {
+  try {
+    const period1 = Math.floor(Date.UTC(2022, 0, 1) / 1000);
+    const period2 = Math.floor(Date.now() / 1000) + 86400;
+    const url = `https://query1.finance.yahoo.com/v8/finance/chart/TQQQ?interval=1d&period1=${period1}&period2=${period2}&events=history&includeAdjustedClose=true`;
+    const response = await fetch(url);
+    if (!response.ok) return [];
+    const payload = await response.json();
+    const result = payload?.chart?.result?.[0];
+    const timestamps = result?.timestamp || [];
+    const quote = result?.indicators?.quote?.[0] || {};
+    return timestamps
+      .map((ts: number, idx: number) => ({
+        time: new Date(ts * 1000).toISOString().slice(0, 10),
+        open: Number(quote.open?.[idx]),
+        high: Number(quote.high?.[idx]),
+        low: Number(quote.low?.[idx]),
+        close: Number(quote.close?.[idx]),
+      }))
+      .filter(
+        (row) =>
+          row.time >= '2022-01-01' &&
+          Number.isFinite(row.open) &&
+          Number.isFinite(row.high) &&
+          Number.isFinite(row.low) &&
+          Number.isFinite(row.close)
+      );
+  } catch {
+    return [];
+  }
+}
+
+const recoveryCandles = isRecoveryChartPost ? await getRecoveryCandles() : [];
+---
+
+<BaseLayout title={`${post.data.title} - Get Global Yields`} description={post.data.description} image={post.data.heroImage}>
+  <article class="py-16 lg:py-24 bg-primary-900 border-b border-primary-700">
+    <div class="container mx-auto px-4 sm:px-6 lg:px-8 max-w-7xl">
+      <div class="grid grid-cols-1 lg:grid-cols-3 gap-8 lg:gap-12">
+        <div class="lg:col-span-2">
+          <AffiliateDisclaimer />
+          <header class="mb-8 text-center">
+            {post.data.categories && post.data.categories.length > 0 && (
+              <span class="inline-block bg-accent-500 text-primary-900 text-xs font-bold px-3 py-1 rounded uppercase tracking-wider shadow-sm mb-4">
+                {post.data.categories[0]}
+              </span>
+            )}
+            <h1 class="text-4xl md:text-5xl font-bold text-slate-100 tracking-tight mb-4">{post.data.title}</h1>
+            <a href="#article-newsletter" class="lg:hidden block bg-primary-800 border border-primary-700 rounded-lg px-4 py-3 text-slate-200 text-sm font-medium mb-4 hover:border-accent-500 transition-colors">
+              Want our weekly strategies? Join 5,000+ investors here
+            </a>
+            <div class="flex items-center justify-center text-slate-400 text-sm space-x-4">
+              <time datetime={post.data.pubDate.toISOString()}>
+                {post.data.pubDate.toLocaleDateString('en-us', { year: 'numeric', month: 'long', day: 'numeric' })}
+              </time>
+              <span>&bull;</span>
+              <span>By {post.data.author}</span>
+            </div>
+          </header>
+
+          {isRecoveryChartPost ? (
+            <div class="recovery-chart-wrapper mb-12 shadow-2xl border border-primary-700 rounded-xl overflow-hidden">
+              <div class="recovery-chart-header px-5 py-4 border-b border-primary-700">
+                <p class="text-sm font-semibold tracking-wide">Portfolio Recovery Timeline</p>
+                <p class="text-xs text-slate-400">From 01/01/2022 to today</p>
+              </div>
+              <div class="recovery-chart relative">
+                <div id="recovery-chart-dark" class="tv-chart theme-dark-only"></div>
+                <div id="recovery-chart-light" class="tv-chart theme-light-only"></div>
+                <script id="recovery-chart-data" type="application/json" set:html={JSON.stringify(recoveryCandles)} />
+              </div>
+            </div>
+          ) : (
+            (heroImageLight || heroImageDark) && (
+              <>
+                {heroImageLight && (
+                  <img src={heroImageLight} alt={post.data.title} class="w-full h-auto rounded-xl mb-12 shadow-2xl border border-primary-700 theme-light-only" />
+                )}
+                {heroImageDark && (
+                  <img src={heroImageDark} alt={post.data.title} class="w-full h-auto rounded-xl mb-12 shadow-2xl border border-primary-700 theme-dark-only" />
+                )}
+              </>
+            )
+          )}
+
+          <div class="article-content prose prose-invert prose-lg prose-a:text-accent-500 hover:prose-a:text-accent-400 max-w-none">
+            <Content />
+          </div>
+          <InlineNewsletterAfterThirdParagraph />
+
+          <FinancialDisclaimer />
+          <AuthorBio name={post.data.author} />
+        </div>
+
+        <div class="hidden lg:block lg:col-span-1">
+          <Sidebar />
+        </div>
+      </div>
+      <div class="mt-10 lg:mt-12 lg:max-w-[calc(66.666667%-1.5rem)]">
+        <NewsletterForm formId="article-newsletter" />
+      </div>
+    </div>
+  </article>
+
+  {isRecoveryChartPost && (
+    <script is:inline>
+      function parseChartData() {
+        const el = document.getElementById('recovery-chart-data');
+        if (!el) return [];
+        try {
+          const parsed = JSON.parse(el.textContent || '[]');
+          return Array.isArray(parsed) ? parsed : [];
+        } catch {
+          return [];
+        }
+      }
+
+      function buildPortfolioSeries(candles) {
+        const basePoint = candles.find((point) => point.time >= '2022-01-18') || candles[0];
+        if (!basePoint) return [];
+        const baseClose = basePoint.close;
+        return candles.map((point) => ({
+          time: point.time,
+          value: Math.round((point.close / baseClose) * 100000),
+        }));
+      }
+
+      function toBusinessDay(isoDate) {
+        const [year, month, day] = isoDate.split('-').map((part) => Number(part));
+        return { year, month, day };
+      }
+
+      function bubbleConfig(theme) {
+        const dark = theme === 'dark';
+        return {
+          bubbleBg: dark ? 'rgba(10, 22, 38, 0.94)' : 'rgba(255, 255, 255, 0.96)',
+          bubbleText: dark ? '#f8fafc' : '#0f172a',
+          bubbleMuted: dark ? '#dbeafe' : '#334155',
+          bubbleBorder: '#51d84f',
+          green: '#58f25b',
+          red: '#ef4444',
+          line: dark ? 'rgba(43, 60, 93, 0.52)' : 'rgba(148, 163, 184, 0.35)',
+          chartBg: dark ? '#071a33' : '#f8fafc',
+        };
+      }
+
+      function drawBubble(ctx, x, y, opts) {
+        const w = 96;
+        const h = opts.note ? 58 : 48;
+        const r = 8;
+        const ax = opts.rightArrow ? w + 22 : -22;
+        const ay = opts.rightArrow ? 18 : h - 7;
+        const tipX = opts.rightArrow ? x + ax + 12 : x + ax - 12;
+        const tipY = opts.rightArrow ? y + ay + 4 : y + ay + 10;
+
+        ctx.save();
+        ctx.strokeStyle = opts.colors.bubbleBorder;
+        ctx.fillStyle = opts.colors.bubbleBg;
+        ctx.lineWidth = 1;
+        ctx.beginPath();
+        ctx.moveTo(x + r, y);
+        ctx.arcTo(x + w, y, x + w, y + h, r);
+        ctx.arcTo(x + w, y + h, x, y + h, r);
+        ctx.arcTo(x, y + h, x, y, r);
+        ctx.arcTo(x, y, x + w, y, r);
+        ctx.closePath();
+        ctx.fill();
+        ctx.stroke();
+
+        ctx.beginPath();
+        ctx.moveTo(x + ax, y + ay);
+        ctx.lineTo(tipX, tipY);
+        ctx.stroke();
+
+        ctx.beginPath();
+        if (opts.rightArrow) {
+          ctx.moveTo(tipX, tipY);
+          ctx.lineTo(tipX - 6, tipY - 3);
+          ctx.lineTo(tipX - 6, tipY + 3);
+        } else {
+          ctx.moveTo(tipX, tipY);
+          ctx.lineTo(tipX + 6, tipY - 3);
+          ctx.lineTo(tipX + 6, tipY + 3);
+        }
+        ctx.closePath();
+        ctx.fillStyle = opts.colors.bubbleBorder;
+        ctx.fill();
+
+        ctx.textAlign = 'center';
+        ctx.fillStyle = opts.colors.green;
+        ctx.font = '600 11px Inter, system-ui, sans-serif';
+        ctx.fillText(opts.title, x + w / 2, y + 14);
+        ctx.fillStyle = opts.colors.bubbleText;
+        ctx.font = '500 9px Inter, system-ui, sans-serif';
+        ctx.fillText(opts.date, x + w / 2, y + 26);
+        ctx.fillStyle = opts.negative ? opts.colors.red : opts.colors.green;
+        ctx.font = '600 11px Inter, system-ui, sans-serif';
+        ctx.fillText(opts.value, x + w / 2, y + 40);
+        if (opts.note) {
+          ctx.fillStyle = opts.colors.bubbleMuted;
+          ctx.font = '500 8px Inter, system-ui, sans-serif';
+          ctx.fillText(opts.note, x + w / 2, y + 52);
+        }
+        ctx.restore();
+      }
+
+      async function initRecoveryChart() {
+        if (!window.LightweightCharts) {
+          const existing = document.querySelector('script[data-lwc-recovery="1"]');
+          if (existing) return;
+          const lwcScript = document.createElement('script');
+          lwcScript.src = 'https://unpkg.com/lightweight-charts/dist/lightweight-charts.standalone.production.js';
+          lwcScript.async = true;
+          lwcScript.dataset.lwcRecovery = '1';
+          lwcScript.onload = initRecoveryChart;
+          document.head.appendChild(lwcScript);
+          return;
+        }
+
+        const { createChart, CandlestickSeries, LineSeries } = window.LightweightCharts;
+        const darkContainer = document.getElementById('recovery-chart-dark');
+        const lightContainer = document.getElementById('recovery-chart-light');
+        if (!darkContainer || !lightContainer) return;
+        if (darkContainer.dataset.ready === '1' || lightContainer.dataset.ready === '1') return;
+
+        const candles = parseChartData();
+        if (!candles.length) return;
+        const chartCandles = candles.map((point) => ({
+          ...point,
+          time: toBusinessDay(point.time),
+        }));
+        const portfolioData = buildPortfolioSeries(candles).map((point) => ({
+          ...point,
+          time: toBusinessDay(point.time),
+        }));
+        const priceByDate = new Map(candles.map((c) => [c.time, c.close]));
+
+        const annotations = [
+          { key: 'start', time: '2022-01-18', title: 'Start', date: 'Jan 2022', value: '$100,000', dx: -38, dy: -100 },
+          { key: 'bottom', time: '2023-02-13', title: 'Bottom', date: 'Feb 2023', value: '-72%', note: '(~$28,000)', negative: true, dx: -40, dy: -84 },
+          { key: 'temp', time: '2025-02-10', title: 'Temp Record', date: 'Feb 2025', value: '$465,000', dx: -44, dy: -96 },
+          { key: 'drop', time: '2025-04-07', title: 'Dropdown', date: 'Apr 2025', value: '$340,000', rightArrow: true, dx: -118, dy: -78 },
+          { key: 'today', time: '2026-04-27', title: 'Today', date: 'Apr 2026', value: '$492,000', note: '(+245% total return)', rightArrow: true, dx: -118, dy: -118 },
+        ];
+
+        function mount(container, theme) {
+          const colors = bubbleConfig(theme);
+          const chart = createChart(container, {
+            autoSize: true,
+            layout: { background: { color: colors.chartBg }, textColor: colors.bubbleText },
+            rightPriceScale: { borderColor: colors.line },
+            timeScale: { borderColor: colors.line, rightOffset: 2, barSpacing: 8 },
+            grid: { vertLines: { color: colors.line }, horzLines: { color: colors.line } },
+            localization: { locale: 'en-US' },
+            crosshair: { vertLine: { visible: true }, horzLine: { visible: true } },
+          });
+
+          const series = typeof chart.addSeries === 'function'
+            ? chart.addSeries(CandlestickSeries, {
+                upColor: '#13c296',
+                downColor: '#ef4444',
+                wickUpColor: '#13c296',
+                wickDownColor: '#ef4444',
+                borderVisible: false,
+                priceLineVisible: false,
+              })
+            : chart.addCandlestickSeries({
+                upColor: '#13c296',
+                downColor: '#ef4444',
+                wickUpColor: '#13c296',
+                wickDownColor: '#ef4444',
+                borderVisible: false,
+                priceLineVisible: false,
+              });
+          series.setData(chartCandles);
+
+          const valueSeries = typeof chart.addSeries === 'function'
+            ? chart.addSeries(LineSeries, {
+                color: 'rgba(0,0,0,0)',
+                lineWidth: 1,
+                priceLineVisible: false,
+                lastValueVisible: false,
+              })
+            : chart.addLineSeries({
+                color: 'rgba(0,0,0,0)',
+                lineWidth: 1,
+                priceLineVisible: false,
+                lastValueVisible: false,
+              });
+          valueSeries.setData(portfolioData);
+
+          const customPane = document.createElement('canvas');
+          customPane.className = 'chart-annotation-canvas';
+          container.appendChild(customPane);
+
+          function redraw() {
+            const width = container.clientWidth;
+            const height = container.clientHeight;
+            if (!width || !height) return;
+            customPane.width = width * window.devicePixelRatio;
+            customPane.height = height * window.devicePixelRatio;
+            customPane.style.width = `${width}px`;
+            customPane.style.height = `${height}px`;
+            const ctx = customPane.getContext('2d');
+            if (!ctx) return;
+            ctx.setTransform(window.devicePixelRatio, 0, 0, window.devicePixelRatio, 0, 0);
+            ctx.clearRect(0, 0, width, height);
+
+            for (const a of annotations) {
+              const x = chart.timeScale().timeToCoordinate(toBusinessDay(a.time));
+              const y = series.priceToCoordinate(priceByDate.get(a.time) ?? candles[candles.length - 1].close);
+              if (x == null || y == null) continue;
+              drawBubble(ctx, x + a.dx, y + a.dy, { ...a, colors });
+            }
+          }
+
+          chart.timeScale().subscribeVisibleLogicalRangeChange(redraw);
+          chart.subscribeCrosshairMove(() => {});
+          window.addEventListener('resize', redraw);
+          redraw();
+          return chart;
+        }
+
+        mount(darkContainer, 'dark');
+        mount(lightContainer, 'light');
+        darkContainer.dataset.ready = '1';
+        lightContainer.dataset.ready = '1';
+      }
+
+      initRecoveryChart();
+      document.addEventListener('astro:page-load', initRecoveryChart);
+    </script>
+  )}
+
+  <style>
+    .recovery-chart {
+      position: relative;
+      width: 100%;
+      height: 430px;
+      background: #071a33;
+    }
+    .tv-chart {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      z-index: 1;
+    }
+    .chart-annotation-canvas {
+      position: absolute;
+      inset: 0;
+      pointer-events: none;
+      z-index: 4;
+    }
+    @media (max-width: 640px) {
+      .recovery-chart {
+        height: 360px;
+      }
+    }
+  </style>
+</BaseLayout>

@@ -9,7 +9,14 @@ heroImageLight: "/images/blog/tqqq_recovery_light.png"
 heroImageDark: "/images/blog/tqqq_recovery_dark.png"
 products: ["TQQQ", "Options"]
 slug: "from-minus-70-to-plus-492k-real-tqqq-recovery-case-study"
-keywords: "TQQQ recovery case study, TQQQ wheel strategy real results, TQQQ drawdown recovery, TQQQ covered calls strategy, leveraged ETF recovery, options income TQQQ, investing in TQQQ from abroad"
+tags:
+  - "TQQQ recovery case study"
+  - "TQQQ wheel strategy real results"
+  - "TQQQ drawdown recovery"
+  - "TQQQ covered calls strategy"
+  - "leveraged ETF recovery"
+  - "options income TQQQ"
+  - "investing in TQQQ from abroad"
 ---
 
 > [!NOTE]
@@ -46,9 +53,6 @@ As an international investor entering the US market, my first mistake was relyin
 
 **Result:** $100,000 → $28,000 within a year
 No edge. No system. Just exposure and hope.
-
-<img src="/images/blog/tqqq_recovery_light.png" alt="TQQQ Recovery Banner" class="theme-light-only" />
-<img src="/images/blog/tqqq_recovery_dark.png" alt="TQQQ Recovery Banner" class="theme-dark-only" />
 
 ## 2. The Turning Point (Late 2022)
 At the bottom, I stopped trading and started thinking.
