@@ -2,8 +2,21 @@
 title: "Firstrade Review 2026: A Zero-Commission Broker for Non-US Investors?"
 description: "A 2026 review of Firstrade for international investors: eligibility, fees, platform, W-8BEN handling, and limitations."
 pubDate: 2026-04-14
+updatedDate: 2026-05-12
+author: "GetGlobalYields Team"
 categories: ["Best Brokers"]
-author: "Get Global Yields Team"
+tags:
+  - "firstrade"
+  - "zero commission"
+  - "free trading"
+  - "2026 review"
+  - "international brokers"
+  - "beginner friendly"
+  - "w-8ben"
+heroImage: "/images/blog/firstrade-review-2026.svg"
+draft: false
+readingTime: "10 min read"
+featured: false
 rating: 4.2
 pros: ["$0 commissions on US stocks/ETFs/options", "Accepts many non-US residents", "Simple account opening and W-8BEN flow"]
 cons: ["Fewer advanced tools than IBKR", "Limited multi-currency features", "FX and funding options vary by country"]

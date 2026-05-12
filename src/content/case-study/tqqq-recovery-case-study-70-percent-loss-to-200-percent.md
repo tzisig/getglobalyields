@@ -3,12 +3,23 @@ title: "From -70% to +200%: A Real TQQQ Recovery Case Study"
 slug: "tqqq-recovery-case-study-70-percent-loss-to-200-percent"
 description: "Real TQQQ recovery from -70% drawdown to $503K portfolio using disciplined long-term investing and options income."
 pubDate: 2026-05-04
-author: "Global Yields Team"
-categories: ["case-study"]
+updatedDate: 2026-05-12
+author: "GetGlobalYields Team"
+categories: ["Case Study"]
+tags:
+  - "tqqq recovery"
+  - "case study"
+  - "drawdown recovery"
+  - "options income"
+  - "leveraged etf"
+  - "portfolio recovery"
+  - "real results"
 heroImage: "/images/blog/tqqq-recovery-chart.jpg"
 heroImageLight: "/images/blog/light/tqqq-recovery-chart.jpg"
 heroImageDark: "/images/blog/tqqq-recovery-chart.jpg"
 draft: false
+readingTime: "10 min read"
+featured: false
 ---
 
 ## What Went Wrong
