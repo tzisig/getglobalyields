@@ -2,7 +2,7 @@
 title: "Best Options Brokers for International Traders 2026"
 description: "The top options brokers available to non-US traders in 2026. Compare fees, platforms, and international availability for options trading."
 pubDate: 2026-04-01
-updatedDate: 2026-04-01
+updatedDate: 2026-05-12
 author: "GetGlobalYields Team"
 categories: ["Best Brokers"]
 tags:
@@ -10,6 +10,9 @@ tags:
   - "international trading"
   - "2026"
   - "broker comparison"
+  - "options trading"
+  - "derivatives"
+  - "international brokers"
 heroImage: "/images/blog/best-options-brokers-international-2026.svg"
 draft: false
 readingTime: "10 min read"

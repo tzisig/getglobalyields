@@ -13,7 +13,7 @@ tags:
   - "ibkr vs etoro vs saxo"
   - "investing in us from israel"
   - "options trading broker israel"
-heroImage: "/public/images/blog/Brokers-for-Israeli-Investors.png"
+heroImage: "/images/blog/Brokers-for-Israeli-Investors.png"
 draft: false
 readingTime: "8 min read"
 featured: false

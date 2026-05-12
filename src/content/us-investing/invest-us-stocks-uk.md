@@ -2,9 +2,9 @@
 title: "How to Invest in US Stocks from the UK"
 description: "A step-by-step guide for UK residents to buy US stocks and ETFs. Covers broker selection, tax forms, and currency considerations."
 pubDate: 2026-04-01
-updatedDate: 2026-04-01
+updatedDate: 2026-05-12
 author: "GetGlobalYields Team"
-categories: ["Us Investing"]
+categories: ["US Investing"]
 tags:
   - "UK investors"
   - "US stocks"

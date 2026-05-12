@@ -4,17 +4,38 @@ export interface Props {
   description?: string;
   image?: string;
   type?: string;
+  keywords?: string[];
+  seo?: {
+    metaTitle?: string;
+    metaDescription?: string;
+    keywords?: string[];
+    ogTitle?: string;
+    ogDescription?: string;
+    ogImage?: string;
+    twitterCard?: string;
+  };
 }
 
 const {
   title = "Get Global Yields — Finance & Investment Insights",
   description = "Expert reviews, how-to guides, and comparisons for global financial products, high-yield accounts, and investment strategies.",
   image = "/og-image.jpg",
-  type = "website"
+  type = "website",
+  keywords = [],
+  seo = {}
 } = Astro.props;
 
+// seo object overrides take priority
+const finalTitle       = seo?.metaTitle       || title;
+const finalDescription = seo?.metaDescription || description;
+const finalImage       = seo?.ogImage         || image;
+const finalOgTitle     = seo?.ogTitle         || finalTitle;
+const finalOgDesc      = seo?.ogDescription   || finalDescription;
+const finalKeywords    = seo?.keywords?.length ? seo.keywords : keywords;
+const twitterCard      = seo?.twitterCard     || "summary_large_image";
+
 const canonicalURL = new URL(Astro.url.pathname, Astro.site || Astro.url);
-const ogImageUrl = new URL(image, Astro.site || Astro.url);
+const ogImageUrl   = new URL(finalImage, Astro.site || Astro.url);
 ---
 
 <head>
@@ -27,22 +48,25 @@ const ogImageUrl = new URL(image, Astro.site || Astro.url);
   <link rel="canonical" href={canonicalURL} />
 
   <!-- Primary Meta Tags -->
-  <title>{title}</title>
-  <meta name="title" content={title} />
-  <meta name="description" content={description} />
+  <title>{finalTitle}</title>
+  <meta name="title" content={finalTitle} />
+  <meta name="description" content={finalDescription} />
+  {finalKeywords.length > 0 && (
+    <meta name="keywords" content={finalKeywords.join(", ")} />
+  )}
 
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content={type} />
   <meta property="og:url" content={Astro.url} />
-  <meta property="og:title" content={title} />
-  <meta property="og:description" content={description} />
+  <meta property="og:title" content={finalOgTitle} />
+  <meta property="og:description" content={finalOgDesc} />
   <meta property="og:image" content={ogImageUrl} />
 
   <!-- Twitter -->
-  <meta property="twitter:card" content="summary_large_image" />
+  <meta property="twitter:card" content={twitterCard} />
   <meta property="twitter:url" content={Astro.url} />
-  <meta property="twitter:title" content={title} />
-  <meta property="twitter:description" content={description} />
+  <meta property="twitter:title" content={finalOgTitle} />
+  <meta property="twitter:description" content={finalOgDesc} />
   <meta property="twitter:image" content={ogImageUrl} />
 
   <link rel="sitemap" href="/sitemap-index.xml" />

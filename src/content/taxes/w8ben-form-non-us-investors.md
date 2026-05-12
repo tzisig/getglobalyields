@@ -13,7 +13,7 @@ tags:
   - "w8ben explained"
   - "tax treaty us dividends"
   - "reduce us dividend tax"
-heroImage: "/public/images/blog/w-8ben-form-guide.png"
+heroImage: "/images/blog/w-8ben-form-guide.png"
 canonicalURL: "https://getglobalyields.com/w8ben-form-non-us-investors"
 draft: false
 readingTime: "12 min read"

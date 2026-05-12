@@ -2,9 +2,9 @@
 title: "How to Invest in US Stocks from Australia"
 description: "Australian investors guide to US stocks. Covers broker selection, CGT implications, and how to claim the US-Australia tax treaty benefits."
 pubDate: 2026-04-01
-updatedDate: 2026-04-01
+updatedDate: 2026-05-12
 author: "GetGlobalYields Team"
-categories: ["Us Investing"]
+categories: ["US Investing"]
 tags:
   - "Australia"
   - "US stocks"

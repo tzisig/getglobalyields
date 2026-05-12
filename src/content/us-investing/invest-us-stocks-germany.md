@@ -2,9 +2,9 @@
 title: "How to Invest in US Stocks from Germany"
 description: "German investors complete guide to buying US stocks and ETFs. Understand broker options, Abgeltungsteuer, and US tax treaty benefits."
 pubDate: 2026-04-01
-updatedDate: 2026-04-01
+updatedDate: 2026-05-12
 author: "GetGlobalYields Team"
-categories: ["Us Investing"]
+categories: ["US Investing"]
 tags:
   - "Germany"
   - "US stocks"

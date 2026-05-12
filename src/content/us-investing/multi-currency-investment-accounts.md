@@ -2,9 +2,9 @@
 title: "Multi-Currency Investment Accounts: Top Options"
 description: "The best multi-currency investment accounts for international investors. Compare features, fees, and availability across global brokers."
 pubDate: 2026-04-01
-updatedDate: 2026-04-01
+updatedDate: 2026-05-12
 author: "GetGlobalYields Team"
-categories: ["Us Investing"]
+categories: ["US Investing"]
 tags:
   - "multi-currency"
   - "investment accounts"
