@@ -2,10 +2,21 @@
 title: "Best Brokers for Israeli Investors in US Markets (2026 Comparison)"
 description: "Compare the best brokers for Israeli investors trading US stocks, ETFs, and options. IBKR vs Saxo vs eToro — fees, FX costs, tax handling, and options access."
 pubDate: 2026-04-01
-categories: ["taxes"]
+updatedDate: 2026-05-12
 author: "GetGlobalYields Team"
-heroImage: "/public/images/blog/us-israel-tax-treaty.svg"
-keywords: ["best broker Israel US stocks", "TQQQ broker Israel", "Interactive Brokers Israel review", "broker comparison Israel", "IBKR vs eToro vs Saxo", "investing in US from Israel", "options trading broker Israel"]
+categories: ["Taxes"]
+tags:
+  - "best broker israel us stocks"
+  - "tqqq broker israel"
+  - "interactive brokers israel review"
+  - "broker comparison israel"
+  - "ibkr vs etoro vs saxo"
+  - "investing in us from israel"
+  - "options trading broker israel"
+heroImage: "/public/images/blog/Brokers-for-Israeli-Investors.png"
+draft: false
+readingTime: "8 min read"
+featured: false
 ---
 
 # **Finding the Best Broker in Israel for US Stocks (2026 Comparison)**

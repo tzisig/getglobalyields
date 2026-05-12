@@ -2,19 +2,18 @@
 title: "W-8BEN Form Explained (2026): Reduce US Withholding Tax for Non-US Investors"
 description: "Complete W-8BEN guide for international investors. Learn how to reduce US withholding tax from 30% to treaty rates (15%-25%), avoid costly mistakes, and optimize your tax strategy."
 pubDate: 2026-04-01
-updatedDate: 2026-04-01
+updatedDate: 2026-05-12
 author: "GetGlobalYields Team"
-categories: ["Taxes", "International Investing"]
+categories: ["Taxes"]
 tags:
-  - "W-8BEN"
-  - "withholding tax"
-  - "US tax for foreigners"
-  - "international investors"
-  - "tax treaty US"
-  - "dividend tax"
-  - "non US investors"
-  - "foreign investors US market"
-heroImage: "/public/images/blog/w-8ben-form-guide.svg"
+  - "w-8ben form"
+  - "us withholding tax"
+  - "non us investors tax"
+  - "foreign investors us tax"
+  - "w8ben explained"
+  - "tax treaty us dividends"
+  - "reduce us dividend tax"
+heroImage: "/public/images/blog/w-8ben-form-guide.png"
 canonicalURL: "https://getglobalyields.com/w8ben-form-non-us-investors"
 draft: false
 readingTime: "12 min read"
@@ -22,15 +21,6 @@ featured: false
 seo:
   metaTitle: "W-8BEN Form Explained (2026): Reduce US Withholding Tax"
   metaDescription: "Step-by-step W-8BEN guide for non-US investors. Reduce dividend tax from 30% to treaty rates and avoid costly mistakes."
-  keywords:
-    - "W-8BEN form"
-    - "US withholding tax"
-    - "non US investors tax"
-    - "foreign investors US tax"
-    - "W8BEN explained"
-    - "tax treaty US dividends"
-    - "reduce US dividend tax"
-    - "W8BEN 2026 guide"
   ogTitle: "W-8BEN Explained: Save Thousands in US Withholding Tax"
   ogDescription: "Learn how non-US investors reduce US dividend tax using W-8BEN. Step-by-step guide + real examples."
   ogImage: "/images/blog/w_8ben_banner.png"
@@ -41,7 +31,7 @@ schema:
   description: "Complete guide to W-8BEN for international investors"
   author: "GetGlobalYields Team"
   datePublished: "2026-04-01"
-  dateModified: "2026-04-01"
+  dateModified: "2026-05-12"
   image: "/images/blog/w_8ben_banner.png"
   mainEntityOfPage: "https://getglobalyields.com/w8ben-form-non-us-investors"
 ---

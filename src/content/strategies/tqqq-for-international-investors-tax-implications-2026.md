@@ -1,11 +1,22 @@
 ---
 title: "TQQQ for Non-US Investors: Tax Implications Explained (2026 Guide)"
 description: "How is TQQQ taxed for international investors? Dividends, capital gains, options income, estate tax risk, and country-by-country breakdown."
-keywords: "TQQQ tax non-US investors · TQQQ dividend withholding · leveraged ETF tax international · W-8BEN TQQQ · TQQQ capital gains"
 pubDate: 2026-04-01
-categories: ["strategies"]
+updatedDate: 2026-05-12
 author: "GetGlobalYields Team"
+categories: ["Strategies"]
+tags:
+  - "tqqq tax non-us investors"
+  - "tqqq dividend withholding"
+  - "leveraged etf tax international"
+  - "w-8ben tqqq"
+  - "tqqq capital gains"
+  - "tqqq tax israel"
+  - "us etf tax non us residents"
 heroImage: "/images/blog/tqqq_tax_banner.png"
+draft: false
+readingTime: "9 min read"
+featured: false
 ---
 
 # **TQQQ for Non-US Investors: Tax Implications Explained (2026 Guide)**

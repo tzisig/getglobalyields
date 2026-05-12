@@ -2,14 +2,25 @@
 title: "From -72% to over +250%: Real TQQQ Recovery Case Study (Non-US Investor)"
 description: "One investor's real journey with TQQQ — from a 72% drawdown to over 250% return using the Wheel Strategy. Full breakdown with numbers, mistakes, and current portfolio."
 pubDate: 2026-04-17
-categories: ["case-study"]
+updatedDate: 2026-05-12
 author: "GetGlobalYields Team"
+categories: ["Case Study"]
+tags:
+  - "tqqq recovery case study"
+  - "tqqq wheel strategy real results"
+  - "tqqq drawdown recovery"
+  - "tqqq covered calls strategy"
+  - "leveraged etf recovery"
+  - "options income tqqq"
+  - "investing in tqqq from abroad"
 heroImage: "/images/blog/tqqq_recovery_light.png"
 heroImageLight: "/images/blog/tqqq_recovery_light.png"
 heroImageDark: "/images/blog/tqqq_recovery_dark.png"
 products: ["TQQQ", "Options"]
 slug: "from-minus-70-to-plus-492k-real-tqqq-recovery-case-study"
-keywords: "TQQQ recovery case study, TQQQ wheel strategy real results, TQQQ drawdown recovery, TQQQ covered calls strategy, leveraged ETF recovery, options income TQQQ, investing in TQQQ from abroad"
+draft: false
+readingTime: "12 min read"
+featured: false
 ---
 
 > [!NOTE]

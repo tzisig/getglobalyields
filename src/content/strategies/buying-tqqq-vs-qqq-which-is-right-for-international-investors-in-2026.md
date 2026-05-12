@@ -1,12 +1,23 @@
 ---
 title: "TQQQ vs QQQ for Non-US Investors (2026): Risks, Taxes & Strategy Guide"
 description: "Compare TQQQ vs QQQ for international investors. Learn about volatility decay, taxes, risks, and when to use leveraged ETFs safely."
-keywords: "volatility decay explained · TQQQ strategy · investing in US from abroad · best ETF for international investors · IBKR non US investors"
 pubDate: 2026-04-05
-categories: ["strategies"]
+updatedDate: 2026-05-12
 author: "GetGlobalYields Team"
+categories: ["Strategies"]
+tags:
+  - "volatility decay explained"
+  - "tqqq strategy"
+  - "investing in us from abroad"
+  - "best etf for international investors"
+  - "ibkr non us investors"
+  - "tqqq vs qqq"
+  - "leveraged etf risks"
 heroImage: "/images/blog/tqqq_vs_qqq_banner.png"
 products: ["TQQQ", "QQQ"]
+draft: false
+readingTime: "10 min read"
+featured: false
 ---
 
 If you're investing in US markets from outside the US, you've probably come across QQQ and TQQQ. They both track the Nasdaq-100. They are not the same investment.
