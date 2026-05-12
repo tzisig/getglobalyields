@@ -13,8 +13,10 @@ export interface Props {
 
 const { title, description, href, date, categoryName, image, imageLight, imageDark, isFeatured = false } = Astro.props;
 const hasThemeImages = Boolean(imageLight || imageDark);
-const lightImage = imageLight ?? image;
-const darkImage = imageDark ?? image;
+const isProd = import.meta.env.PROD;
+const cfImg = (src: string) => isProd ? `/cdn-cgi/image/width=800,format=webp,quality=85${src}` : src;
+const lightImage = cfImg(imageLight ?? image ?? '');
+const darkImage = cfImg(imageDark ?? image ?? '');
 ---
 
 <a href={href} class={`group block h-full ${isFeatured ? 'md:col-span-2 lg:col-span-3' : ''}`}>
@@ -24,10 +26,10 @@ const darkImage = imageDark ?? image;
       {hasThemeImages || image ? (
         <>
           {lightImage && (
-            <img src={lightImage} alt={title} class={`w-full transition-transform duration-700 group-hover:scale-105 theme-light-only ${isFeatured ? 'h-auto block' : 'h-full object-cover'}`} />
+            <img src={lightImage} alt={title} loading="lazy" decoding="async" class={`w-full transition-transform duration-700 group-hover:scale-105 theme-light-only ${isFeatured ? 'h-auto block' : 'h-full object-cover'}`} />
           )}
           {darkImage && (
-            <img src={darkImage} alt={title} class={`w-full transition-transform duration-700 group-hover:scale-105 theme-dark-only ${isFeatured ? 'h-auto block' : 'h-full object-cover'}`} />
+            <img src={darkImage} alt={title} loading="lazy" decoding="async" class={`w-full transition-transform duration-700 group-hover:scale-105 theme-dark-only ${isFeatured ? 'h-auto block' : 'h-full object-cover'}`} />
           )}
         </>
       ) : (
