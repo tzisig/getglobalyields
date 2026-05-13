@@ -13,7 +13,7 @@ tags:
   - "2026 review"
   - "institutional research"
   - "multi-currency"
-heroImage: "/images/blog/saxo_banner.png"
+heroImage: "/images/blog/saxo-bank-review-2026.svg"
 draft: false
 readingTime: "10 min read"
 featured: false

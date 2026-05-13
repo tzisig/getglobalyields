@@ -5,9 +5,9 @@ description: "Simple explanation of TQQQ options income strategy using covered c
 pubDate: 2026-05-04
 author: "Global Yields Team"
 categories: ["strategies"]
-heroImage: "/images/blog/options-strategy-diagram.jpg"
-heroImageLight: "/images/blog/light/options-strategy-diagram.jpg"
-heroImageDark: "/images/blog/public/images/blog/tqqq-implied-volatility-strategies.svg"
+heroImage: "/images/blog/tqqq-implied-volatility-strategies.svg"
+heroImageLight: "/images/blog/tqqq-implied-volatility-strategies.svg"
+heroImageDark: "/images/blog/tqqq-implied-volatility-strategies.svg"
 draft: false
 ---
 
