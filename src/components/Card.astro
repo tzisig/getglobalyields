@@ -13,10 +13,8 @@ export interface Props {
 
 const { title, description, href, date, categoryName, image, imageLight, imageDark, isFeatured = false } = Astro.props;
 const hasThemeImages = Boolean(imageLight || imageDark);
-const isProd = import.meta.env.PROD;
-const cfImg = (src: string) => isProd ? `/cdn-cgi/image/width=800,format=webp,quality=85${src}` : src;
-const lightImage = cfImg(imageLight ?? image ?? '');
-const darkImage = cfImg(imageDark ?? image ?? '');
+const lightImage = imageLight ?? image;
+const darkImage = imageDark ?? image;
 ---
 
 <a href={href} class={`group block h-full ${isFeatured ? 'md:col-span-2 lg:col-span-3' : ''}`}>

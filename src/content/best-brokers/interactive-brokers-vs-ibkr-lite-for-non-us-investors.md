@@ -13,7 +13,6 @@ tags:
   - "comparison"
   - "2026"
   - "fees"
-heroImage: "/images/blog/interactive-brokers-vs-ibkr-lite.svg"
 draft: false
 readingTime: "8 min read"
 featured: false

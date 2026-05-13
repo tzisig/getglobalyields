@@ -14,9 +14,9 @@ tags:
   - "leveraged etf"
   - "portfolio recovery"
   - "real results"
-heroImage: "/images/blog/tqqq_recovery_light.webp"
-heroImageLight: "/images/blog/tqqq_recovery_light.webp"
-heroImageDark: "/images/blog/tqqq_recovery_dark.webp"
+heroImage: "/images/blog/tqqq-recovery-chart.jpg"
+heroImageLight: "/images/blog/light/tqqq-recovery-chart.jpg"
+heroImageDark: "/images/blog/tqqq-recovery-chart.jpg"
 draft: false
 readingTime: "10 min read"
 featured: false

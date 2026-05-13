@@ -13,7 +13,6 @@ tags:
   - "broker comparison"
   - "global markets"
   - "multi-currency"
-heroImage: "/images/blog/best-brokers-international-investors-2026.svg"
 draft: false
 readingTime: "20 min read"
 featured: false

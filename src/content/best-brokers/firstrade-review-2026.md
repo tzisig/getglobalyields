@@ -13,7 +13,6 @@ tags:
   - "international brokers"
   - "beginner friendly"
   - "w-8ben"
-heroImage: "/images/blog/firstrade-review-2026.svg"
 draft: false
 readingTime: "10 min read"
 featured: false

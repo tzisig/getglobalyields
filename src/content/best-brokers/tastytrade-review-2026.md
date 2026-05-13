@@ -13,7 +13,6 @@ tags:
   - "derivatives"
   - "active trading"
   - "platform ux"
-heroImage: "/images/blog/tastytrade-review-2026.svg"
 draft: false
 readingTime: "10 min read"
 featured: false
