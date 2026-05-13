@@ -10,7 +10,7 @@ tags:
   - "withholding tax"
   - "foreign investors"
   - "US tax"
-heroImage: "/images/blog/taxes-us-dividends-foreign-investors.png"
+heroImage: "/images/blog/taxes-us-dividends-foreign-investors.webp"
 draft: false
 readingTime: "10 min read"
 featured: false

@@ -11,7 +11,7 @@ tags:
   - "dividends"
   - "W-8BEN"
   - "withholding tax"
-heroImage: "/images/blog/us-israel-tax-treaty-explained-capital-gains-dividends-2026.png"
+heroImage: "/images/blog/us-israel-tax-treaty-explained-capital-gains-dividends-2026.webp"
 draft: false
 readingTime: "8 min read"
 featured: false

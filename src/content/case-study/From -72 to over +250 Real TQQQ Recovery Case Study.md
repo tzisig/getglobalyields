@@ -4,9 +4,9 @@ description: "One investor's real journey with TQQQ — from a 72% drawdown to o
 pubDate: 2026-04-17
 categories: ["case-study"]
 author: "GetGlobalYields Team"
-heroImage: "/images/blog/tqqq_recovery_light.png"
-heroImageLight: "/images/blog/tqqq_recovery_light.png"
-heroImageDark: "/images/blog/tqqq_recovery_dark.png"
+heroImage: "/images/blog/tqqq_recovery_light.webp"
+heroImageLight: "/images/blog/tqqq_recovery_light.webp"
+heroImageDark: "/images/blog/tqqq_recovery_dark.webp"
 products: ["TQQQ", "Options"]
 slug: "from-minus-70-to-plus-492k-real-tqqq-recovery-case-study"
 tags:

@@ -10,7 +10,7 @@ tags:
   - "foreign funds"
   - "US tax"
   - "international investors"
-heroImage: "/images/blog/pfic-rules-international-investors.png"
+heroImage: "/images/blog/pfic-rules-international-investors.webp"
 draft: false
 readingTime: "10 min read"
 featured: false

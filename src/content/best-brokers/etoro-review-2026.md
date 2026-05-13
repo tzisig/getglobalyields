@@ -13,7 +13,7 @@ tags:
   - "2026 review"
   - "international brokers"
   - "commission-free"
-heroImage: "/images/blog/etoro_banner.png"
+heroImage: "/images/blog/etoro_banner.webp"
 draft: false
 readingTime: "8 min read"
 featured: false

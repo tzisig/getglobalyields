@@ -10,7 +10,7 @@ tags:
   - "US-UK"
   - "withholding tax"
   - "UK investors"
-heroImage: "/images/blog/us-uk-tax-treaty.png"
+heroImage: "/images/blog/us-uk-tax-treaty.webp"
 draft: false
 readingTime: "10 min read"
 featured: false

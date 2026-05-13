@@ -13,7 +13,7 @@ tags:
   - "tqqq capital gains"
   - "tqqq tax israel"
   - "us etf tax non us residents"
-heroImage: "/images/blog/tqqq_tax_banner.png"
+heroImage: "/images/blog/tqqq_tax_banner.webp"
 draft: false
 readingTime: "9 min read"
 featured: false

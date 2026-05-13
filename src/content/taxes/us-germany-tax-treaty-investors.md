@@ -10,7 +10,7 @@ tags:
   - "US-Germany"
   - "withholding tax"
   - "German investors"
-heroImage: "/images/blog/us-germany-tax-treaty.png"
+heroImage: "/images/blog/us-germany-tax-treaty.webp"
 draft: false
 readingTime: "10 min read"
 featured: false

@@ -11,7 +11,7 @@ tags:
   - "tax implications"
   - "international investors"
   - "dividend withholding"
-heroImage: "/images/blog/tqqq-for-international-investors-tax-implications-2026.png"
+heroImage: "/images/blog/tqqq-for-international-investors-tax-implications-2026.webp"
 draft: false
 readingTime: "9 min read"
 featured: false

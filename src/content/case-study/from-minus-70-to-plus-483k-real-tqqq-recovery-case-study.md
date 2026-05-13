@@ -13,9 +13,9 @@ tags:
   - "leveraged etf recovery"
   - "options income tqqq"
   - "investing in tqqq from abroad"
-heroImage: "/images/blog/tqqq_recovery_light.png"
-heroImageLight: "/images/blog/tqqq_recovery_light.png"
-heroImageDark: "/images/blog/tqqq_recovery_dark.png"
+heroImage: "/images/blog/tqqq_recovery_light.webp"
+heroImageLight: "/images/blog/tqqq_recovery_light.webp"
+heroImageDark: "/images/blog/tqqq_recovery_dark.webp"
 products: ["TQQQ", "Options"]
 slug: "from-minus-70-to-plus-492k-real-tqqq-recovery-case-study"
 draft: false
@@ -58,8 +58,8 @@ As an international investor entering the US market, my first mistake was relyin
 **Result:** $100,000 → $28,000 within a year
 No edge. No system. Just exposure and hope.
 
-<img src="/images/blog/tqqq_recovery_light.png" alt="TQQQ Recovery Banner" class="theme-light-only" />
-<img src="/images/blog/tqqq_recovery_dark.png" alt="TQQQ Recovery Banner" class="theme-dark-only" />
+<img src="/images/blog/tqqq_recovery_light.webp" alt="TQQQ Recovery Banner" class="theme-light-only" />
+<img src="/images/blog/tqqq_recovery_dark.webp" alt="TQQQ Recovery Banner" class="theme-dark-only" />
 
 ## 2. The Turning Point (Late 2022)
 At the bottom, I stopped trading and started thinking.

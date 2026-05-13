@@ -13,7 +13,7 @@ tags:
   - "w-8ben"
   - "currency conversion"
   - "taxes"
-heroImage: "/images/blog/invest_israel_banner.png"
+heroImage: "/images/blog/invest_israel_banner.webp"
 draft: false
 readingTime: "15 min read"
 featured: false

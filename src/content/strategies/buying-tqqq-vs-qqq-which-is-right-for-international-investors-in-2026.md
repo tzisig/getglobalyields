@@ -13,7 +13,7 @@ tags:
   - "ibkr non us investors"
   - "tqqq vs qqq"
   - "leveraged etf risks"
-heroImage: "/images/blog/tqqq_vs_qqq_banner.png"
+heroImage: "/images/blog/tqqq_vs_qqq_banner.webp"
 products: ["TQQQ", "QQQ"]
 draft: false
 readingTime: "10 min read"
