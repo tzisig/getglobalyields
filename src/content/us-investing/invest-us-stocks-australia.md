@@ -10,7 +10,7 @@ tags:
   - "US stocks"
   - "CGT"
   - "international investing"
-heroImage: "/images/blog/invest-us-stocks-australia.svg"
+heroImage: "/images/blog/invest-us-stocks-australia.webp"
 draft: false
 readingTime: "10 min read"
 featured: false

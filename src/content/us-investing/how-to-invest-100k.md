@@ -10,7 +10,7 @@ tags:
   - "asset allocation"
   - "investing"
   - "$100k"
-heroImage: "/images/blog/how-to-invest-100k.svg"
+heroImage: "/images/blog/how-to-invest-100k.webp"
 draft: false
 readingTime: "10 min read"
 featured: false

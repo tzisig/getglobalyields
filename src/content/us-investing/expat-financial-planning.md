@@ -13,7 +13,7 @@ tags:
   - "cross-border"
   - "tax planning"
   - "portfolio management"
-heroImage: "/images/blog/expat-financial-planning.svg"
+heroImage: "/images/blog/expat-financial-planning.webp"
 draft: false
 readingTime: "10 min read"
 featured: false

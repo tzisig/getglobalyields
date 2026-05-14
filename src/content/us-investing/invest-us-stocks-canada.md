@@ -10,7 +10,7 @@ tags:
   - "US stocks"
   - "TFSA"
   - "international investing"
-heroImage: "/images/blog/invest-us-stocks-canada.svg"
+heroImage: "/images/blog/invest-us-stocks-canada.webp"
 draft: false
 readingTime: "10 min read"
 featured: false

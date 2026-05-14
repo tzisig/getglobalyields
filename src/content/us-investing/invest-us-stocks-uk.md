@@ -10,7 +10,7 @@ tags:
   - "US stocks"
   - "investing abroad"
   - "IBKR"
-heroImage: "/images/blog/invest-us-stocks-uk.svg"
+heroImage: "/images/blog/invest-us-stocks-uk.webp"
 draft: false
 readingTime: "10 min read"
 featured: false

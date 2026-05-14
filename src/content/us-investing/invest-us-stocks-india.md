@@ -10,7 +10,7 @@ tags:
   - "US stocks"
   - "LRS"
   - "international investing"
-heroImage: "/images/blog/invest-us-stocks-india.svg"
+heroImage: "/images/blog/invest-us-stocks-india.webp"
 draft: false
 readingTime: "10 min read"
 featured: false

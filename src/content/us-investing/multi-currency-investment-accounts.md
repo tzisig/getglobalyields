@@ -10,7 +10,7 @@ tags:
   - "investment accounts"
   - "forex"
   - "international"
-heroImage: "/images/blog/multi-currency-investment-accounts.svg"
+heroImage: "/images/blog/multi-currency-investment-accounts.webp"
 draft: false
 readingTime: "10 min read"
 featured: false
