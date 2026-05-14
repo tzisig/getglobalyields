@@ -11,7 +11,7 @@ tags:
   - "2026"
   - "QYLD"
   - "JEPI"
-heroImage: "/images/blog/best-high-yield-etfs-2026.svg"
+heroImage: "/images/blog/best-high-yield-etfs-2026.webp"
 draft: false
 readingTime: "10 min read"
 featured: false

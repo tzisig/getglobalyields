@@ -10,7 +10,7 @@ tags:
   - "leveraged ETF"
   - "TQQQ"
   - "beta slippage"
-heroImage: "/images/blog/volatility-decay-leveraged-etfs.svg"
+heroImage: "/images/blog/volatility-decay-leveraged-etfs.webp"
 draft: false
 readingTime: "10 min read"
 featured: false

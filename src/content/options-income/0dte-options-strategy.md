@@ -10,7 +10,7 @@ tags:
   - "options"
   - "day trading"
   - "high risk"
-heroImage: "/images/blog/0dte-options-strategy.svg"
+heroImage: "/images/blog/0dte-options-strategy.webp"
 draft: false
 readingTime: "10 min read"
 featured: false

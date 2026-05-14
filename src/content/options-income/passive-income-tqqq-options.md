@@ -10,7 +10,7 @@ tags:
   - "TQQQ"
   - "options"
   - "monthly income"
-heroImage: "/images/blog/passive-income-tqqq-options.svg"
+heroImage: "/images/blog/passive-income-tqqq-options.webp"
 draft: false
 readingTime: "10 min read"
 featured: false

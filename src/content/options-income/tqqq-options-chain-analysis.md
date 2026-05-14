@@ -10,7 +10,7 @@ tags:
   - "TQQQ"
   - "implied volatility"
   - "Greeks"
-heroImage: "/images/blog/tqqq-options-chain-analysis.svg"
+heroImage: "/images/blog/tqqq-options-chain-analysis.webp"
 draft: false
 readingTime: "10 min read"
 featured: false

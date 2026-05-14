@@ -10,7 +10,7 @@ tags:
   - "dividend stocks"
   - "passive income"
   - "comparison"
-heroImage: "/images/blog/reits-vs-dividend-stocks.svg"
+heroImage: "/images/blog/reits-vs-dividend-stocks.webp"
 draft: false
 readingTime: "10 min read"
 featured: false

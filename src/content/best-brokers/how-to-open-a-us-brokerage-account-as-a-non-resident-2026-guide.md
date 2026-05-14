@@ -13,7 +13,7 @@ tags:
   - "international investors"
   - "account opening"
   - "documentation"
-heroImage: "/images/blog/how-to-open-us-brokerage-account.svg"
+heroImage: "/images/blog/how-to-open-us-brokerage-account.webp"
 draft: false
 readingTime: "12 min read"
 featured: false

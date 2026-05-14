@@ -10,7 +10,7 @@ tags:
   - "leveraged ETF"
   - "TQQQ"
   - "position sizing"
-heroImage: "/images/blog/risk-management-leveraged-etf.svg"
+heroImage: "/images/blog/risk-management-leveraged-etf.webp"
 draft: false
 readingTime: "10 min read"
 featured: false

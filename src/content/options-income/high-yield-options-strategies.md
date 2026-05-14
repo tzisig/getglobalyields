@@ -10,7 +10,7 @@ tags:
   - "high yield"
   - "income"
   - "covered calls"
-heroImage: "/images/blog/high-yield-options-strategies.svg"
+heroImage: "/images/blog/high-yield-options-strategies.webp"
 draft: false
 readingTime: "10 min read"
 featured: false

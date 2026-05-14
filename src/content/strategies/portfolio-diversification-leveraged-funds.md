@@ -10,7 +10,7 @@ tags:
   - "leveraged ETF"
   - "portfolio"
   - "3x funds"
-heroImage: "/images/blog/portfolio-diversification-leveraged-funds.svg"
+heroImage: "/images/blog/portfolio-diversification-leveraged-funds.webp"
 draft: false
 readingTime: "10 min read"
 featured: false

@@ -10,7 +10,7 @@ tags:
   - "leveraged investing"
   - "TQQQ"
   - "passive income"
-heroImage: "/images/blog/financial-freedom-leveraged-investing.svg"
+heroImage: "/images/blog/financial-freedom-leveraged-investing.webp"
 draft: false
 readingTime: "10 min read"
 featured: false

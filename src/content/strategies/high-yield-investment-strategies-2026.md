@@ -10,7 +10,7 @@ tags:
   - "investment strategies"
   - "2026"
   - "returns"
-heroImage: "/images/blog/high-yield-investment-strategies-2026.svg"
+heroImage: "/images/blog/high-yield-investment-strategies-2026.webp"
 draft: false
 readingTime: "10 min read"
 featured: false

@@ -10,7 +10,7 @@ tags:
   - "TQQQ"
   - "dollar cost averaging"
   - "investing strategy"
-heroImage: "/images/blog/dollar-cost-averaging-tqqq.svg"
+heroImage: "/images/blog/dollar-cost-averaging-tqqq.webp"
 draft: false
 readingTime: "10 min read"
 featured: false

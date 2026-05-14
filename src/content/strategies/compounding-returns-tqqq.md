@@ -10,7 +10,7 @@ tags:
   - "TQQQ"
   - "returns"
   - "leveraged ETF"
-heroImage: "/images/blog/compounding-returns-tqqq.svg"
+heroImage: "/images/blog/compounding-returns-tqqq.webp"
 draft: false
 readingTime: "10 min read"
 featured: false

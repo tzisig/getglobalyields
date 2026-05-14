@@ -10,7 +10,7 @@ tags:
   - "high IV"
   - "options income"
   - "premium selling"
-heroImage: "/images/blog/cash-secured-puts-high-iv.svg"
+heroImage: "/images/blog/cash-secured-puts-high-iv.webp"
 draft: false
 readingTime: "10 min read"
 featured: false

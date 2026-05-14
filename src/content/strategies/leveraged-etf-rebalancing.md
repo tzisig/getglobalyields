@@ -10,7 +10,7 @@ tags:
   - "leveraged ETF"
   - "TQQQ"
   - "portfolio management"
-heroImage: "/images/blog/leveraged-etf-rebalancing.svg"
+heroImage: "/images/blog/leveraged-etf-rebalancing.webp"
 draft: false
 readingTime: "10 min read"
 featured: false

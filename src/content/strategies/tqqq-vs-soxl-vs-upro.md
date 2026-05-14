@@ -10,7 +10,7 @@ tags:
   - "SOXL"
   - "UPRO"
   - "leveraged ETF"
-heroImage: "/images/blog/tqqq-vs-soxl-vs-upro.svg"
+heroImage: "/images/blog/tqqq-vs-soxl-vs-upro.webp"
 draft: false
 readingTime: "10 min read"
 featured: false

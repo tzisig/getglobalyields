@@ -10,7 +10,7 @@ tags:
   - "SCHD"
   - "QYLD"
   - "dividend ETF"
-heroImage: "/images/blog/jepi-vs-schd-vs-qyld.svg"
+heroImage: "/images/blog/jepi-vs-schd-vs-qyld.webp"
 draft: false
 readingTime: "10 min read"
 featured: false

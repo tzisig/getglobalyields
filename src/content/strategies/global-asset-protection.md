@@ -10,7 +10,7 @@ tags:
   - "wealth management"
   - "international"
   - "legal structures"
-heroImage: "/images/blog/global-asset-protection.svg"
+heroImage: "/images/blog/global-asset-protection.webp"
 draft: false
 readingTime: "10 min read"
 featured: false

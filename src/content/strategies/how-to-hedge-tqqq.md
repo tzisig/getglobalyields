@@ -13,7 +13,7 @@ tags:
   - "leveraged etf"
   - "portfolio protection"
   - "market downturns"
-heroImage: "/images/blog/how-to-hedge-tqqq.svg"
+heroImage: "/images/blog/how-to-hedge-tqqq.webp"
 draft: false
 readingTime: "10 min read"
 featured: false

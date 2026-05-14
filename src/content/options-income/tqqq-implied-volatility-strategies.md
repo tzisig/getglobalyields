@@ -10,7 +10,7 @@ tags:
   - "TQQQ"
   - "options"
   - "IV crush"
-heroImage: "/images/blog/tqqq-implied-volatility-strategies.svg"
+heroImage: "/images/blog/tqqq-implied-volatility-strategies.webp"
 draft: false
 readingTime: "10 min read"
 featured: false

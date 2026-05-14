@@ -10,7 +10,7 @@ tags:
   - "TQQQ"
   - "options"
   - "passive income"
-heroImage: "/images/blog/wheel-strategy-tqqq.svg"
+heroImage: "/images/blog/wheel-strategy-tqqq.webp"
 draft: false
 readingTime: "10 min read"
 featured: false

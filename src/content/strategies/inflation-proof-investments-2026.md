@@ -10,7 +10,7 @@ tags:
   - "investments"
   - "2026"
   - "portfolio protection"
-heroImage: "/images/blog/inflation-proof-investments-2026.svg"
+heroImage: "/images/blog/inflation-proof-investments-2026.webp"
 draft: false
 readingTime: "10 min read"
 featured: false

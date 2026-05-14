@@ -13,7 +13,7 @@ tags:
   - "options trading"
   - "currency conversion"
   - "2026 review"
-heroImage: "/images/blog/interactive-brokers-review-2026.svg"
+heroImage: "/images/blog/interactive-brokers-review-2026.webp"
 draft: false
 readingTime: "15 min read"
 featured: false

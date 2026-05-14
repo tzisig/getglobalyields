@@ -10,7 +10,7 @@ tags:
   - "long-term"
   - "buy and hold"
   - "leveraged ETF"
-heroImage: "/images/blog/tqqq-long-term-strategy.svg"
+heroImage: "/images/blog/tqqq-long-term-strategy.webp"
 draft: false
 readingTime: "10 min read"
 featured: false

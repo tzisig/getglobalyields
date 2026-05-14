@@ -13,7 +13,7 @@ tags:
   - "options trading"
   - "derivatives"
   - "international brokers"
-heroImage: "/images/blog/best-options-brokers-international-2026.svg"
+heroImage: "/images/blog/best-options-brokers-international-2026.webp"
 draft: false
 readingTime: "10 min read"
 featured: false

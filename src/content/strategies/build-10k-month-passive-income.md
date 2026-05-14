@@ -10,7 +10,7 @@ tags:
   - "$10k/month"
   - "portfolio"
   - "income investing"
-heroImage: "/images/blog/build-10k-month-passive-income.svg"
+heroImage: "/images/blog/build-10k-month-passive-income.webp"
 draft: false
 readingTime: "10 min read"
 featured: false

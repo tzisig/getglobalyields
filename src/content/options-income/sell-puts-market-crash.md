@@ -10,7 +10,7 @@ tags:
   - "market crash"
   - "options"
   - "crisis strategy"
-heroImage: "/images/blog/sell-puts-market-crash.svg"
+heroImage: "/images/blog/sell-puts-market-crash.webp"
 draft: false
 readingTime: "10 min read"
 featured: false

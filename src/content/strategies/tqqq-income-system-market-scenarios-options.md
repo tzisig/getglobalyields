@@ -5,9 +5,9 @@ description: "Breakdown of TQQQ income system using options across rising, sidew
 pubDate: 2026-05-04
 author: "Global Yields Team"
 categories: ["strategies"]
-heroImage: "/images/blog/tqqq-system-architecture.jpg"
-heroImageLight: "/images/blog/light/tqqq-system-architecture.jpg"
-heroImageDark: "/images/blog/tqqq-system-architecture.jpg"
+heroImage: "/images/blog/tqqq-system-architecture.webp"
+heroImageLight: "/images/blog/light/tqqq-system-architecture.webp"
+heroImageDark: "/images/blog/tqqq-system-architecture.webp"
 draft: false
 ---
 

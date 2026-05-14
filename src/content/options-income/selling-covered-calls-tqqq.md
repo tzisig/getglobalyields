@@ -10,7 +10,7 @@ tags:
   - "TQQQ"
   - "options income"
   - "passive income"
-heroImage: "/images/blog/selling-covered-calls-tqqq.svg"
+heroImage: "/images/blog/selling-covered-calls-tqqq.webp"
 draft: false
 readingTime: "10 min read"
 featured: false
