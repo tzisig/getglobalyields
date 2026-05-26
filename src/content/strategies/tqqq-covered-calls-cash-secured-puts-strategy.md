@@ -6,8 +6,7 @@ pubDate: 2026-05-04
 author: "Global Yields Team"
 categories: ["strategies"]
 heroImage: "/images/blog/options-strategy-diagram.webp"
-heroImageLight: "/images/blog/light/options-strategy-diagram.webp"
-heroImageDark: "/images/blog/tqqq-implied-volatility-strategies.webp"
+
 draft: false
 ---
 

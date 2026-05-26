@@ -101,7 +101,8 @@ const startInvesting = [
               href={post.url}
               date={post.data.pubDate}
               categoryName={post.type}
-              image={post.data.heroImage}
+              imageDark={post.data.heroImage}
+              imageLight={post.data.heroImage?.replace('/images/blog/', '/images/blog/light/')}
             />
           ))}
         </div>
@@ -124,7 +125,8 @@ const startInvesting = [
               href={post.url}
               date={post.data.pubDate}
               categoryName={post.type}
-              image={post.data.heroImage}
+              imageDark={post.data.heroImage}
+              imageLight={post.data.heroImage?.replace('/images/blog/', '/images/blog/light/')}
             />
           ))}
         </div>
