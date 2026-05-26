@@ -1,0 +1,338 @@
+---
+// AccessibilityWidget.astro
+// Accessibility button - compliant with Israeli Equal Rights for Persons with Disabilities Law
+---
+
+<div id="accessibility-widget" aria-label="Accessibility menu">
+  <!-- Toggle button -->
+  <button
+    id="accessibility-toggle"
+    aria-label="Open accessibility menu"
+    aria-expanded="false"
+    aria-controls="accessibility-panel"
+    title="Accessibility"
+  >
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" width="26" height="26" aria-hidden="true">
+      <circle cx="12" cy="4" r="2"/>
+      <path d="M19 9h-5V7h-4v2H5l1 2h2.5l-1.5 8h2l1-5h4l1 5h2l-1.5-8H18z"/>
+    </svg>
+    <span>Accessibility</span>
+  </button>
+
+  <!-- Panel -->
+  <div
+    id="accessibility-panel"
+    role="dialog"
+    aria-label="Accessibility options"
+    aria-modal="false"
+    hidden
+  >
+    <div class="acc-header">
+      <h2>Accessibility Settings</h2>
+      <button id="accessibility-close" aria-label="Close accessibility menu">✕</button>
+    </div>
+
+    <div class="acc-body">
+
+      <div class="acc-section">
+        <h3>Text Size</h3>
+        <div class="acc-row">
+          <button class="acc-btn" data-action="font-decrease" aria-label="Decrease text size">A−</button>
+          <button class="acc-btn" data-action="font-reset" aria-label="Reset text size">A</button>
+          <button class="acc-btn" data-action="font-increase" aria-label="Increase text size">A+</button>
+        </div>
+      </div>
+
+      <div class="acc-section">
+        <h3>Contrast</h3>
+        <div class="acc-row">
+          <button class="acc-btn" data-action="contrast-high" aria-label="High contrast">High Contrast</button>
+          <button class="acc-btn" data-action="contrast-reset" aria-label="Normal contrast">Normal</button>
+        </div>
+      </div>
+
+      <div class="acc-section">
+        <h3>Colors</h3>
+        <div class="acc-row">
+          <button class="acc-btn" data-action="grayscale-on" aria-label="Grayscale mode">Grayscale</button>
+          <button class="acc-btn" data-action="grayscale-off" aria-label="Normal colors">Normal</button>
+        </div>
+      </div>
+
+      <div class="acc-section">
+        <h3>Links</h3>
+        <div class="acc-row">
+          <button class="acc-btn" data-action="links-highlight" aria-label="Highlight links">Highlight Links</button>
+          <button class="acc-btn" data-action="links-reset" aria-label="Normal links">Normal</button>
+        </div>
+      </div>
+
+      <div class="acc-section">
+        <h3>Readable Font</h3>
+        <div class="acc-row">
+          <button class="acc-btn" data-action="font-readable" aria-label="Readable font">Readable Font</button>
+          <button class="acc-btn" data-action="font-default" aria-label="Default font">Default</button>
+        </div>
+      </div>
+
+      <div class="acc-section">
+        <h3>Animations</h3>
+        <div class="acc-row">
+          <button class="acc-btn" data-action="animations-stop" aria-label="Stop animations">Stop Animations</button>
+          <button class="acc-btn" data-action="animations-reset" aria-label="Enable animations">Enable</button>
+        </div>
+      </div>
+
+      <button class="acc-btn acc-btn-reset" data-action="reset-all" aria-label="Reset all accessibility settings">
+        Reset All Settings
+      </button>
+
+      <a href="/accessibility-statement" class="acc-statement-link">
+        Accessibility Statement
+      </a>
+    </div>
+  </div>
+</div>
+
+<style>
+  #accessibility-widget {
+    position: fixed;
+    bottom: 24px;
+    left: 24px;
+    z-index: 9999;
+    font-family: Arial, sans-serif;
+  }
+
+  #accessibility-toggle {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    background-color: #1a56db;
+    color: white;
+    border: none;
+    border-radius: 50px;
+    padding: 12px 18px;
+    cursor: pointer;
+    font-size: 15px;
+    font-weight: bold;
+    box-shadow: 0 4px 14px rgba(0,0,0,0.4);
+    transition: background-color 0.2s, transform 0.1s;
+  }
+
+  #accessibility-toggle:hover {
+    background-color: #1e40af;
+    transform: scale(1.05);
+  }
+
+  #accessibility-toggle:focus-visible {
+    outline: 3px solid #facc15;
+    outline-offset: 2px;
+  }
+
+  #accessibility-panel {
+    position: absolute;
+    bottom: 70px;
+    left: 0;
+    width: 280px;
+    background: #1e293b;
+    border: 1px solid #334155;
+    border-radius: 12px;
+    box-shadow: 0 8px 32px rgba(0,0,0,0.5);
+    color: #f1f5f9;
+    overflow: hidden;
+  }
+
+  #accessibility-panel[hidden] { display: none; }
+
+  .acc-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 14px 16px;
+    background: #0f172a;
+    border-bottom: 1px solid #334155;
+  }
+
+  .acc-header h2 {
+    margin: 0;
+    font-size: 15px;
+    font-weight: bold;
+    color: #f1f5f9;
+  }
+
+  #accessibility-close {
+    background: none;
+    border: none;
+    color: #94a3b8;
+    cursor: pointer;
+    font-size: 18px;
+    padding: 2px 6px;
+    border-radius: 4px;
+  }
+
+  #accessibility-close:hover { color: #f1f5f9; background: #334155; }
+  #accessibility-close:focus-visible { outline: 2px solid #facc15; }
+
+  .acc-body {
+    padding: 12px 14px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    max-height: 70vh;
+    overflow-y: auto;
+  }
+
+  .acc-section h3 {
+    margin: 0 0 6px 0;
+    font-size: 11px;
+    color: #94a3b8;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+  }
+
+  .acc-row {
+    display: flex;
+    gap: 6px;
+    flex-wrap: wrap;
+  }
+
+  .acc-btn {
+    background: #334155;
+    color: #f1f5f9;
+    border: 1px solid #475569;
+    border-radius: 6px;
+    padding: 7px 12px;
+    cursor: pointer;
+    font-size: 13px;
+    transition: background 0.15s;
+    flex: 1;
+  }
+
+  .acc-btn:hover { background: #475569; }
+  .acc-btn:focus-visible { outline: 2px solid #facc15; outline-offset: 1px; }
+  .acc-btn.active { background: #1a56db; border-color: #3b82f6; }
+
+  .acc-btn-reset {
+    width: 100%;
+    background: #7f1d1d;
+    border-color: #991b1b;
+    text-align: center;
+    padding: 9px;
+    margin-top: 4px;
+  }
+
+  .acc-btn-reset:hover { background: #991b1b; }
+
+  .acc-statement-link {
+    display: block;
+    text-align: center;
+    color: #93c5fd;
+    font-size: 13px;
+    text-decoration: underline;
+    padding: 4px 0 2px;
+  }
+
+  .acc-statement-link:hover { color: #bfdbfe; }
+
+  /* Global accessibility classes */
+  :root.acc-font-lg  { font-size: 110% !important; }
+  :root.acc-font-xl  { font-size: 125% !important; }
+  :root.acc-font-xxl { font-size: 145% !important; }
+  :root.acc-high-contrast { filter: contrast(150%); }
+  :root.acc-grayscale { filter: grayscale(100%); }
+  :root.acc-high-contrast.acc-grayscale { filter: contrast(150%) grayscale(100%); }
+  :root.acc-highlight-links a {
+    text-decoration: underline !important;
+    outline: 2px solid #facc15 !important;
+    outline-offset: 2px !important;
+  }
+  :root.acc-readable-font,
+  :root.acc-readable-font * {
+    font-family: Arial, Helvetica, sans-serif !important;
+    letter-spacing: 0.03em !important;
+    line-height: 1.6 !important;
+  }
+  :root.acc-no-animations *,
+  :root.acc-no-animations *::before,
+  :root.acc-no-animations *::after {
+    animation: none !important;
+    transition: none !important;
+  }
+</style>
+
+<script>
+  (function () {
+    const toggle = document.getElementById('accessibility-toggle');
+    const panel  = document.getElementById('accessibility-panel');
+    const closeBtn = document.getElementById('accessibility-close');
+    const root = document.documentElement;
+    const FONT_CLASSES = ['acc-font-lg', 'acc-font-xl', 'acc-font-xxl'];
+    let fontLevel = 0;
+
+    function save(k, v) { try { localStorage.setItem('acc_' + k, v); } catch(e) {} }
+    function load(k)    { try { return localStorage.getItem('acc_' + k); } catch(e) { return null; } }
+
+    function updateFontClasses() {
+      root.classList.remove(...FONT_CLASSES);
+      if (fontLevel === 1) root.classList.add('acc-font-lg');
+      if (fontLevel === 2) root.classList.add('acc-font-xl');
+      if (fontLevel === 3) root.classList.add('acc-font-xxl');
+    }
+
+    function applyAllSaved() {
+      fontLevel = parseInt(load('fontLevel') || '0');
+      updateFontClasses();
+      if (load('highContrast')   === '1') root.classList.add('acc-high-contrast');
+      if (load('grayscale')      === '1') root.classList.add('acc-grayscale');
+      if (load('linksHighlight') === '1') root.classList.add('acc-highlight-links');
+      if (load('readableFont')   === '1') root.classList.add('acc-readable-font');
+      if (load('noAnimations')   === '1') root.classList.add('acc-no-animations');
+    }
+
+    function openPanel() {
+      panel.hidden = false;
+      toggle.setAttribute('aria-expanded', 'true');
+      closeBtn.focus();
+    }
+
+    function closePanel() {
+      panel.hidden = true;
+      toggle.setAttribute('aria-expanded', 'false');
+      toggle.focus();
+    }
+
+    toggle.addEventListener('click', () => panel.hidden ? openPanel() : closePanel());
+    closeBtn.addEventListener('click', closePanel);
+    document.addEventListener('keydown', e => { if (e.key === 'Escape' && !panel.hidden) closePanel(); });
+    document.addEventListener('click', e => {
+      if (!document.getElementById('accessibility-widget').contains(e.target) && !panel.hidden) closePanel();
+    });
+
+    panel.addEventListener('click', (e) => {
+      const btn = e.target.closest('[data-action]');
+      if (!btn) return;
+      switch (btn.dataset.action) {
+        case 'font-increase': fontLevel = Math.min(fontLevel + 1, 3); updateFontClasses(); save('fontLevel', fontLevel); break;
+        case 'font-decrease': fontLevel = Math.max(fontLevel - 1, 0); updateFontClasses(); save('fontLevel', fontLevel); break;
+        case 'font-reset':    fontLevel = 0; updateFontClasses(); save('fontLevel', 0); break;
+        case 'contrast-high':  root.classList.add('acc-high-contrast');    save('highContrast', '1'); break;
+        case 'contrast-reset': root.classList.remove('acc-high-contrast'); save('highContrast', '0'); break;
+        case 'grayscale-on':   root.classList.add('acc-grayscale');        save('grayscale', '1'); break;
+        case 'grayscale-off':  root.classList.remove('acc-grayscale');     save('grayscale', '0'); break;
+        case 'links-highlight': root.classList.add('acc-highlight-links');    save('linksHighlight', '1'); break;
+        case 'links-reset':     root.classList.remove('acc-highlight-links'); save('linksHighlight', '0'); break;
+        case 'font-readable': root.classList.add('acc-readable-font');    save('readableFont', '1'); break;
+        case 'font-default':  root.classList.remove('acc-readable-font'); save('readableFont', '0'); break;
+        case 'animations-stop':  root.classList.add('acc-no-animations');    save('noAnimations', '1'); break;
+        case 'animations-reset': root.classList.remove('acc-no-animations'); save('noAnimations', '0'); break;
+        case 'reset-all':
+          fontLevel = 0; updateFontClasses();
+          root.classList.remove('acc-high-contrast','acc-grayscale','acc-highlight-links','acc-readable-font','acc-no-animations');
+          ['fontLevel','highContrast','grayscale','linksHighlight','readableFont','noAnimations'].forEach(k => save(k, '0'));
+          break;
+      }
+    });
+
+    applyAllSaved();
+  })();
+</script>
