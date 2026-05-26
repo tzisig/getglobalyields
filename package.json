@@ -9,7 +9,12 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "openrouter:model": "node switch-openrouter-model.js",
+    "openrouter:model:list": "node switch-openrouter-model.js list",
+    "openrouter:model:set": "node switch-openrouter-model.js set",
+    "openrouter:model:reset": "node switch-openrouter-model.js reset",
+    "openrouter:status": "node openrouter-status.js"
   },
   "overrides": {
     "vite": "^7"

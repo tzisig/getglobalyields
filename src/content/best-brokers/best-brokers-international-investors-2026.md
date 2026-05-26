@@ -13,6 +13,7 @@ tags:
   - "broker comparison"
   - "global markets"
   - "multi-currency"
+heroImage: "/images/blog/us_brokerage_banner.webp"
 draft: false
 readingTime: "20 min read"
 featured: false

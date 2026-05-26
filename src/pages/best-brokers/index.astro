@@ -1,10 +1,26 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { BEST_BROKERS_HUB } from '../../data/bestBrokersHub';
+import { getCollection } from 'astro:content';
+
+const allBrokerPosts = await getCollection('best-brokers');
 
 const reviews = BEST_BROKERS_HUB.filter(e => e.kind === 'review');
 const guides  = BEST_BROKERS_HUB.filter(e => e.kind === 'guide');
-const coming  = BEST_BROKERS_HUB.filter(e => e.kind === 'coming');
+
+const topPickSlugs = [
+  'interactive-brokers-review-2026-the-best-broker-for-international-investors',
+  'etoro-review-2026',
+  'saxo-bank-review-2026'
+];
+
+const otherReviews = allBrokerPosts.filter(post => {
+  const slug = post.slug || post.id.replace(/\.md$/, '');
+  return !topPickSlugs.includes(slug);
+});
+
+console.log(`[best-brokers] Total entries found: ${allBrokerPosts.length}`);
+console.log(`[best-brokers] Entries after excluding Top Picks: ${otherReviews.length}`);
 
 const brokerMeta: Record<string, { initials: string; tagline: string; tags: string[]; bestFor: string }> = {
   'interactive-brokers-review-2026-the-best-broker-for-international-investors': {
@@ -56,19 +72,25 @@ const guideIcons: Record<string, string> = {
   <div class="bg-primary-900">
     <div class="container mx-auto px-4 sm:px-6 lg:px-8 py-14 max-w-6xl space-y-16">
 
-      <!-- BROKER REVIEWS -->
+      <!-- Editor's Top Picks -->
       {reviews.length > 0 && (
         <section id="reviews">
-          <h2 class="text-2xl font-bold text-slate-100 mb-2">Broker Reviews</h2>
+          <h2 class="text-2xl font-bold text-slate-100 mb-2">Editor's Top Picks</h2>
           <p class="text-slate-400 mb-8">Detailed, unbiased reviews of the top brokers available to international investors.</p>
           <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
             {reviews.map((entry) => {
               const meta = brokerMeta[entry.slug];
+              const post = allBrokerPosts.find(p => p.slug === entry.slug || p.id === entry.slug || p.id === entry.contentId || p.id === entry.slug + '.md' || p.id === entry.contentId + '.md');
+              const heroImage = post?.data?.heroImage || '';
+              const altText = post?.data?.title || entry.title;
               return (
                 <a
                   href={`/best-brokers/${entry.slug}`}
                   class="group flex flex-col bg-primary-800 border border-primary-700 rounded-2xl p-6 hover:border-accent-500/50 hover:shadow-lg hover:shadow-accent-500/10 transition-all duration-200"
                 >
+                  <div class="w-full h-48 bg-primary-700/50 rounded-xl mb-6 overflow-hidden shrink-0">
+                    <img src={heroImage} alt={altText} class="w-full h-full object-cover" />
+                  </div>
                   <div class="flex items-center gap-4 mb-4">
                     <div class="w-12 h-12 rounded-xl bg-accent-500/10 border border-accent-500/20 flex items-center justify-center text-accent-500 font-bold text-lg shrink-0">
                       {meta?.initials ?? entry.title.charAt(0)}
@@ -105,6 +127,46 @@ const guideIcons: Record<string, string> = {
         </section>
       )}
 
+      <!-- ALL BROKER REVIEWS -->
+      <section id="all-reviews">
+        <h2 class="text-2xl font-bold text-slate-100 mb-2">All Broker Reviews</h2>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+          {otherReviews.map((post) => {
+            const heroImage = post.data?.heroImage || '';
+            const title = post.data?.title || 'Review';
+            const description = post.data?.description || '';
+            const tags = post.data?.tags || [];
+            const slug = post.slug || post.id.replace(/\.md$/, '');
+            return (
+            <a
+              href={`/best-brokers/${slug}`}
+              class="group flex flex-col bg-primary-800 border border-primary-700 rounded-2xl p-5 hover:border-accent-500/50 hover:shadow-lg hover:shadow-accent-500/10 transition-all duration-200"
+            >
+              <div class="w-full h-32 bg-primary-700/50 rounded-xl mb-4 overflow-hidden shrink-0">
+                <img src={heroImage} alt={title} class="w-full h-full object-cover" />
+              </div>
+              <h3 class="text-base font-bold text-slate-100 leading-tight group-hover:text-accent-500 transition-colors mb-2">
+                {title}
+              </h3>
+              <p class="text-slate-400 text-sm mb-4 flex-1">{description}</p>
+              {tags && tags.length > 0 && (
+                <div class="flex flex-wrap gap-2 mt-auto mb-4">
+                  {tags.slice(0, 3).map((tag: string) => (
+                    <span class="text-xs bg-primary-700 text-slate-300 px-2.5 py-1 rounded-full">{tag}</span>
+                  ))}
+                </div>
+              )}
+              <div class="text-sm font-semibold text-accent-500 flex items-center gap-1 mt-auto">
+                Read Review
+                <svg class="w-4 h-4 group-hover:translate-x-1 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+                </svg>
+              </div>
+            </a>
+          )})}
+        </div>
+      </section>
+
       <!-- GUIDES -->
       {guides.length > 0 && (
         <section id="guides">
@@ -137,29 +199,7 @@ const guideIcons: Record<string, string> = {
         </section>
       )}
 
-      <!-- COMING SOON -->
-      {coming.length > 0 && (
-        <section id="coming-soon">
-          <h2 class="text-2xl font-bold text-slate-100 mb-2">Coming Soon</h2>
-          <p class="text-slate-400 mb-8">More broker reviews and comparisons on the way.</p>
-          <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            {coming.map((entry) => (
-              <div class="flex flex-col bg-primary-800/50 border border-primary-700 border-dashed rounded-2xl p-6 opacity-70">
-                <div class="w-10 h-10 rounded-xl bg-primary-700 flex items-center justify-center mb-4">
-                  <svg class="w-5 h-5 text-slate-500" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
-                  </svg>
-                </div>
-                <h3 class="text-base font-bold text-slate-400 mb-2">{entry.title}</h3>
-                {'teaser' in entry && entry.teaser && (
-                  <p class="text-slate-500 text-sm">{entry.teaser}</p>
-                )}
-                <span class="mt-4 text-xs uppercase tracking-widest font-semibold text-slate-600">Coming Soon</span>
-              </div>
-            ))}
-          </div>
-        </section>
-      )}
+
 
     </div>
   </div>
