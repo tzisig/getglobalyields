@@ -1,4 +1,5 @@
 ---
+slug: how-to-hedge-tqqq
 title: "How to Hedge a TQQQ Position: A Realistic Guide"
 description: "The real cost of hedging TQQQ - protective puts, collars, SQQQ, and position sizing. What works, what doesn't, and the math most guides skip."
 pubDate: 2026-05-25
@@ -13,7 +14,7 @@ tags:
   - "TQQQ risk management"
   - "leveraged ETF hedge"
   - "TQQQ position sizing"
-heroImage: "/images/blog/how-to-hedge-tqqq.webp"
+heroImage: "/images/blog/strategies/how-to-hedge-tqqq.webp"
 draft: false
 readingTime: "12 min read"
 featured: false
@@ -68,7 +69,7 @@ The annualized cost at $300/month per contract: **$3,600 per year on a $7,300 po
 
 ### 2. The Collar
 
-A collar combines a protective put with a covered call, using the premium from the short call to partially or fully offset the cost of the put. You're capping your upside in exchange for reducing your hedge cost.
+A collar combines a protective put with a [covered call](/options-income/selling-covered-calls-tqqq), using the premium from the short call to partially or fully offset the cost of the put. You're capping your upside in exchange for reducing your hedge cost.
 
 **How it works in practice:**
 
@@ -186,9 +187,9 @@ If you've done that sizing work and concluded you hold the right amount of TQQQ 
 
 Two costs that US-based guides typically omit.
 
-**FX on option premiums:** If you're funding a US brokerage account from a non-USD bank account, every option premium you pay involves a currency conversion. At a broker like IBKR the conversion cost is minimal (0.03 basis points). At a USD-only broker that charges a 1-1.5% FX spread, a $300 monthly put premium carries an additional $3-$4.50 in hidden FX cost - small individually, meaningful over a year of rolling hedges.
+**FX on option premiums:** If you're funding a [US brokerage account](/best-brokers/how-to-open-a-us-brokerage-account-as-a-non-resident-2026-guide) from a non-USD bank account, every option premium you pay involves a currency conversion. At a broker like [IBKR](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors) the conversion cost is minimal (0.03 basis points). At a USD-only broker that charges a 1-1.5% FX spread, a $300 monthly put premium carries an additional $3-$4.50 in hidden FX cost - small individually, meaningful over a year of rolling hedges.
 
-**Tax treatment of option gains and losses:** Options on TQQQ held in a US brokerage account by a non-US person are generally exempt from US capital gains tax under the same W-8BEN framework that covers stock gains. However, your home country may tax option premiums and gains differently from equity gains - some jurisdictions treat short-term option income as ordinary income rather than capital gains. This is a question for a local tax advisor in your jurisdiction, not something to assume matches US treatment.
+**Tax treatment of option gains and losses:** Options on TQQQ held in a US brokerage account by a non-US person are generally exempt from US capital gains tax under the same [W-8BEN](/taxes/w8ben-form-non-us-investors) framework that covers stock gains. However, your home country may tax option premiums and gains differently from equity gains - some jurisdictions treat short-term option income as ordinary income rather than capital gains. This is a question for a local tax advisor in your jurisdiction, not something to assume matches US treatment.
 
 ---
 
@@ -197,3 +198,4 @@ Hedging strategies for leveraged ETFs involve significant complexity. The cost e
 ---
 
 *Data sources: TQQQ and SQQQ maximum drawdown figures from PortfoliosLab (verified May 2026). TQQQ IV range 45%-150% from ApexVol. SQQQ lifetime maximum drawdown -100% from PortfoliosLab. Expense ratios 0.95% for both TQQQ and SQQQ from ProShares official documentation. April 2025 TQQQ monthly return of +52.5% from PortfoliosLab monthly returns data.*
+

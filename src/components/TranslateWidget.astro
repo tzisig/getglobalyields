@@ -1,0 +1,262 @@
+---
+// TranslateWidget.astro
+---
+
+<div id="google_translate_element" style="display:none;"></div>
+
+<div id="translate-widget" class="translate-widget">
+  <button id="translate-btn" class="translate-btn" aria-label="Translate site">
+    <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <circle cx="12" cy="12" r="10"/>
+      <line x1="2" y1="12" x2="22" y2="12"/>
+      <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/>
+    </svg>
+    <span id="translate-btn-label">Translate</span>
+  </button>
+
+  <div id="translate-dropdown" class="translate-dropdown" hidden>
+    <div class="lang-grid">
+      <button class="lang-btn" data-lang="es">🇪🇸 <span>Español</span></button>
+      <button class="lang-btn" data-lang="fr">🇫🇷 <span>Français</span></button>
+      <button class="lang-btn" data-lang="de">🇩🇪 <span>Deutsch</span></button>
+      <button class="lang-btn" data-lang="pt">🇧🇷 <span>Português</span></button>
+      <button class="lang-btn" data-lang="it">🇮🇹 <span>Italiano</span></button>
+      <button class="lang-btn" data-lang="nl">🇳🇱 <span>Nederlands</span></button>
+      <button class="lang-btn" data-lang="pl">🇵🇱 <span>Polski</span></button>
+      <button class="lang-btn" data-lang="ru">🇷🇺 <span>Русский</span></button>
+      <button class="lang-btn" data-lang="ar">🇸🇦 <span>العربية</span></button>
+      <button class="lang-btn" data-lang="iw">🇮🇱 <span>עברית</span></button>
+      <button class="lang-btn" data-lang="zh-CN">🇨🇳 <span>中文</span></button>
+      <button class="lang-btn" data-lang="ja">🇯🇵 <span>日本語</span></button>
+      <button class="lang-btn" data-lang="ko">🇰🇷 <span>한국어</span></button>
+      <button class="lang-btn" data-lang="tr">🇹🇷 <span>Türkçe</span></button>
+      <button class="lang-btn" data-lang="hi">🇮🇳 <span>हिंदी</span></button>
+      <button class="lang-btn" data-lang="id">🇮🇩 <span>Indonesia</span></button>
+      <button class="lang-btn" data-lang="th">🇹🇭 <span>ไทย</span></button>
+      <button class="lang-btn" data-lang="vi">🇻🇳 <span>Tiếng Việt</span></button>
+    </div>
+    <button class="lang-reset" id="lang-reset">↩ Back to English</button>
+  </div>
+</div>
+
+<script is:inline>
+  window.googleTranslateElementInit = function () {
+    new google.translate.TranslateElement(
+      { pageLanguage: 'en', autoDisplay: false },
+      'google_translate_element'
+    );
+  };
+</script>
+<script is:inline src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+<script is:inline>
+  (function () {
+    var btn       = document.getElementById('translate-btn');
+    var dropdown  = document.getElementById('translate-dropdown');
+    var resetBtn  = document.getElementById('lang-reset');
+    var btnLabel  = document.getElementById('translate-btn-label');
+
+    // --- Wait for Google Translate select to be ready, then trigger ---
+    function doTranslate(lang) {
+      var attempts = 0;
+      var interval = setInterval(function () {
+        var select = document.querySelector('select.goog-te-combo');
+        if (select) {
+          clearInterval(interval);
+          select.value = lang;
+          // Fire both change and input events for reliability
+          select.dispatchEvent(new Event('change', { bubbles: true }));
+          select.dispatchEvent(new Event('input',  { bubbles: true }));
+        } else if (++attempts > 30) {
+          clearInterval(interval);
+          // Fallback: cookie + reload
+          document.cookie = 'googtrans=/en/' + lang + '; path=/';
+          document.cookie = 'googtrans=/en/' + lang + '; path=/; domain=.' + location.hostname;
+          location.reload();
+        }
+      }, 200);
+    }
+
+    function doReset() {
+      var past = 'Thu, 01 Jan 1970 00:00:00 UTC';
+      document.cookie = 'googtrans=; expires=' + past + '; path=/';
+      document.cookie = 'googtrans=; expires=' + past + '; path=/; domain=.' + location.hostname;
+      document.cookie = 'googtrans=; expires=' + past + '; path=/; domain=' + location.hostname;
+      location.reload();
+    }
+
+    // --- Toggle dropdown ---
+    btn.addEventListener('click', function (e) {
+      e.stopPropagation();
+      dropdown.hidden = !dropdown.hidden;
+    });
+
+    document.addEventListener('click', function () {
+      dropdown.hidden = true;
+    });
+
+    dropdown.addEventListener('click', function (e) {
+      e.stopPropagation();
+    });
+
+    // --- Language buttons ---
+    document.querySelectorAll('.lang-btn').forEach(function (langBtn) {
+      langBtn.addEventListener('click', function () {
+        var lang     = this.getAttribute('data-lang');
+        var label    = this.querySelector('span').textContent;
+
+        doTranslate(lang);
+
+        // Update UI
+        document.querySelectorAll('.lang-btn').forEach(function (b) { b.classList.remove('selected'); });
+        this.classList.add('selected');
+        btnLabel.textContent = label;
+        resetBtn.style.display = 'block';
+        dropdown.hidden = true;
+      });
+    });
+
+    // --- Reset ---
+    resetBtn.addEventListener('click', function () {
+      doReset();
+      document.querySelectorAll('.lang-btn').forEach(function (b) { b.classList.remove('selected'); });
+      btnLabel.textContent = 'Translate';
+      resetBtn.style.display = 'none';
+      dropdown.hidden = true;
+    });
+  })();
+</script>
+
+<style>
+  .goog-te-banner-frame { display: none !important; }
+  body { top: 0 !important; }
+  #goog-gt-tt, .goog-te-balloon-frame { display: none !important; }
+
+  .translate-widget {
+    position: fixed;
+    bottom: 24px;
+    right: 24px;
+    z-index: 9998;
+    font-family: inherit;
+  }
+
+  .translate-btn {
+    display: flex;
+    align-items: center;
+    gap: 7px;
+    background: #1a1a2e;
+    color: #e2e8f0;
+    border: 1px solid #334155;
+    border-radius: 50px;
+    padding: 12px 18px;
+    font-size: 15px;
+    font-weight: bold;
+    cursor: pointer;
+    box-shadow: 0 4px 14px rgba(0,0,0,0.4);
+    transition: background 0.2s, border-color 0.2s, transform 0.1s;
+  }
+
+  .translate-btn:hover {
+    background: #0f3460;
+    border-color: #4f8ef7;
+    transform: scale(1.05);
+  }
+
+  .translate-dropdown {
+    position: absolute;
+    bottom: calc(100% + 10px);
+    right: 0;
+    background: #1a1a2e;
+    border: 1px solid #334155;
+    border-radius: 14px;
+    padding: 14px;
+    box-shadow: 0 8px 32px rgba(0,0,0,0.5);
+    width: 280px;
+    animation: fadeUp 0.18s ease;
+  }
+
+  @keyframes fadeUp {
+    from { opacity: 0; transform: translateY(8px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+
+  .lang-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 6px;
+    margin-bottom: 10px;
+  }
+
+  .lang-btn {
+    display: flex;
+    align-items: center;
+    gap: 7px;
+    background: #0f1b2d;
+    color: #cbd5e1;
+    border: 1px solid #1e3a5f;
+    border-radius: 8px;
+    padding: 8px 10px;
+    font-size: 12.5px;
+    cursor: pointer;
+    transition: background 0.15s, border-color 0.15s;
+    text-align: left;
+    white-space: nowrap;
+    overflow: hidden;
+  }
+
+  .lang-btn:hover {
+    background: #0f3460;
+    border-color: #4f8ef7;
+    color: #fff;
+  }
+
+  .lang-btn.selected {
+    background: #0f3460;
+    border-color: #4f8ef7;
+    color: #fff;
+  }
+
+  .lang-reset {
+    width: 100%;
+    background: transparent;
+    color: #64748b;
+    border: 1px dashed #334155;
+    border-radius: 8px;
+    padding: 7px;
+    font-size: 12px;
+    cursor: pointer;
+    transition: color 0.15s, border-color 0.15s;
+    display: none;
+  }
+
+  .lang-reset:hover {
+    color: #94a3b8;
+    border-color: #475569;
+  }
+
+  :global(.light) .translate-btn {
+    background: #f8fafc;
+    color: #1e293b;
+    border-color: #cbd5e1;
+    box-shadow: 0 4px 14px rgba(0,0,0,0.1);
+  }
+  :global(.light) .translate-btn:hover {
+    background: #e0eaff;
+    border-color: #4f8ef7;
+  }
+  :global(.light) .translate-dropdown {
+    background: #f8fafc;
+    border-color: #cbd5e1;
+  }
+  :global(.light) .lang-btn {
+    background: #fff;
+    color: #334155;
+    border-color: #e2e8f0;
+  }
+  :global(.light) .lang-btn:hover,
+  :global(.light) .lang-btn.selected {
+    background: #e0eaff;
+    border-color: #4f8ef7;
+    color: #1e293b;
+  }
+</style>

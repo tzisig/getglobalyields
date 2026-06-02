@@ -1,4 +1,5 @@
 ---
+slug: selling-covered-calls-tqqq
 title: "Selling Covered Calls on TQQQ: A Complete Guide"
 description: "A professional, balanced guide to selling covered calls on TQQQ - mechanics, strike selection, Greeks, rolling strategy, tax treatment, and the real risks of using this strategy on a 3x leveraged ETF."
 pubDate: 2026-05-20
@@ -15,7 +16,7 @@ tags:
   - "TQQQ risks"
   - "rolling covered calls"
   - "options Greeks"
-heroImage: "/images/blog/selling-covered-calls-tqqq.webp"
+heroImage: "/images/blog/options-income/selling-covered-calls-tqqq.webp"
 draft: false
 readingTime: "14 min read"
 featured: false
@@ -114,7 +115,7 @@ The strike you choose determines the balance between premium collected and upsid
 
 **5-7% OTM calls** are the most common choice among TQQQ covered call sellers. They balance meaningful premium with some room for the position to appreciate before being called away. In calm markets, they expire worthless regularly. In strong rallies, you get called away with a solid gain.
 
-**10-15% OTM calls** generate less premium but allow significantly more upside participation. For investors who primarily hold TQQQ for its long-term appreciation potential and use covered calls as a secondary income layer, wider OTM strikes make more sense - you are less likely to cap the gains that make holding TQQQ worthwhile in the first place.
+**10-15% OTM calls** generate less premium but allow significantly more upside participation. For investors who primarily [hold TQQQ](/strategies/tqqq-long-term-strategy-buy-and-hold) for its long-term appreciation potential and use covered calls as a secondary income layer, wider OTM strikes make more sense - you are less likely to cap the gains that make holding TQQQ worthwhile in the first place.
 
 ---
 
@@ -281,3 +282,4 @@ Volatility decay hurts the long TQQQ position over time in choppy markets. If TQ
 
 **Can I use this strategy in a retirement account (IRA)?**
 Covered calls are permitted in IRAs at most major brokers. The tax treatment differs: gains in a traditional IRA are tax-deferred and taxed at ordinary income rates on withdrawal; gains in a Roth IRA are tax-free on qualified withdrawal. However, many retirement account holders should consider whether TQQQ is appropriate for retirement assets given its drawdown potential - that question is separate from and more fundamental than the covered call mechanics.
+

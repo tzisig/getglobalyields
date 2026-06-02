@@ -1,4 +1,5 @@
 ---
+slug: us-uk-tax-treaty-investors
 title: "US-UK Tax Treaty for Investors: The Complete 2026 Guide"
 description: "A practical guide to the US-UK tax treaty for individual investors. Verified withholding rates on dividends, interest, and capital gains. ISA vs SIPP treatment, which UK brokers deliver 0% on US dividends, the March 2025 HMRC pension ruling, the FIG regime, and what the Savings Clause actually means for US citizens in the UK."
 pubDate: 2026-05-24
@@ -15,7 +16,7 @@ tags:
   - "foreign tax credit UK"
   - "FIG regime 2025"
   - "US citizen UK pension"
-heroImage: "/images/blog/us-uk-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-uk-tax-treaty.webp"
 draft: false
 readingTime: "16 min read"
 featured: true
@@ -24,7 +25,7 @@ featured: true
 <!-- ADSENSE PLACEHOLDER — TOP OF ARTICLE -->
 <!-- [ADSENSE_TOP] -->
 
-Most UK investors holding US stocks are overpaying their US tax bill. Not by a little - by 15 percentage points on every dividend payment. The fix takes one form and a few minutes. But the more interesting question is whether you are using the right account type to begin with - because the difference between holding US stocks in an ISA versus a SIPP can be the difference between paying 15% US withholding forever and paying zero.
+Most [UK](/us-investing/invest-us-stocks-uk) investors holding US stocks are overpaying their US tax bill. Not by a little - by 15 percentage points on every dividend payment. The fix takes one form and a few minutes. But the more interesting question is whether you are using the right account type to begin with - because the difference between holding US stocks in an ISA versus a SIPP can be the difference between paying 15% US withholding forever and paying zero.
 
 That is the most actionable part of the US-UK tax treaty for most UK investors, and this guide starts there rather than burying it in article numbers and treaty history.
 
@@ -34,7 +35,7 @@ That is the most actionable part of the US-UK tax treaty for most UK investors, 
 
 The US-UK tax treaty caps dividend withholding at 15% for portfolio investors. That is the rate you pay on US dividends in a standard taxable account and inside an ISA. What most UK investors do not know is that qualifying UK pension schemes - including SIPPs - receive a further exemption, dropping the rate to zero.
 
-This is confirmed in Article 10(3) of the treaty, which exempts pension schemes from withholding. AJ Bell, the UK's major self-invested pension provider, states this explicitly: "A form is not required to buy and sell US investments in your AJ Bell SIPP, or to benefit from the 0% withholding tax rate for qualifying pension schemes... US investments are automatically exempt from withholding tax."
+This is confirmed in Article 10(3) of the treaty, which exempts pension schemes from withholding. AJ Bell, the UK's major self-invested pension provider, states this explicitly: "A form is not required to buy and sell US investments in your AJ Bell SIPP, or to benefit from the 0% [withholding tax](/taxes/taxes-us-dividends-foreign-investors) rate for qualifying pension schemes... US investments are automatically exempt from withholding tax."
 
 Hargreaves Lansdown operates the same way. A qualifying SIPP with either provider receives US dividends on individual US stocks with no US withholding deducted at source.
 
@@ -53,7 +54,7 @@ That is $300 per year on a $100,000 portfolio - purely from account choice, not 
 
 **Not all SIPP providers deliver the 0% rate.** The pension exemption requires the provider to have registered their SIPP with the IRS as a qualifying pension scheme and to have set up the correct withholding arrangements. AJ Bell and Hargreaves Lansdown both confirm they do this. InvestEngine's community forum shows investors asking whether InvestEngine handles US withholding reclaim for their SIPP - the answer from the platform was not a clear confirmation. Before opening a SIPP specifically to hold US individual stocks, verify in writing whether your provider delivers 0% withholding on US dividends.
 
-| Provider | SIPP US Dividend Rate (individual stocks) | W-8BEN needed? |
+| Provider | SIPP US Dividend Rate (individual stocks) | [W-8BEN](/taxes/w8ben-form-non-us-investors) needed? |
 |---|---|---|
 | AJ Bell | **0%** (confirmed) | No - automatic |
 | Hargreaves Lansdown | **0%** (confirmed) | No - automatic |
@@ -84,7 +85,7 @@ The verified rates from the treaty text and HMRC's Double Taxation Relief Manual
 
 **Source:** US-UK Income Tax Convention (July 24, 2001), Protocols (2002, 2003); HMRC DT19852; Congress.gov Treaty Document 107-19.
 
-These rates are standard across comparable US treaties. The US-Germany, US-Ireland, and US-Netherlands treaties all deliver the same 15%/5%/0% dividend structure and 0% on interest and royalties. The US-UK treaty is not more favorable than its European peers at the headline level - its distinction lies in the pension provisions and in how it interacts with UK-specific wrappers.
+These rates are standard across comparable US treaties. The US-[Germany](/us-investing/invest-us-stocks-germany), US-Ireland, and US-Netherlands treaties all deliver the same 15%/5%/0% dividend structure and 0% on interest and royalties. The US-UK treaty is not more favorable than its European peers at the headline level - its distinction lies in the pension provisions and in how it interacts with UK-specific wrappers.
 
 ### The 0% Dividend Rate for Corporates: Narrower Than It Sounds
 
@@ -189,7 +190,7 @@ The saving clause was historically applied only by the US. In March 2025, HMRC i
 
 **Foreign Tax Credit (Form 1116):** Credits UK income tax against US tax liability. Because UK rates (20-45%) generally exceed US federal rates for equivalent income, US citizens in the UK typically eliminate additional US tax through the FTC.
 
-**ISA funds as PFICs:** UK-domiciled investment funds held within an ISA (unit trusts, OEICs, investment trusts) are classified as Passive Foreign Investment Companies under US tax law. PFIC taxation is punitive - gains taxed at the highest ordinary income rate plus an interest charge - and requires Form 8621 for each fund each year. Individual UK-listed shares held in an ISA are not PFICs. US-domiciled ETFs are not PFICs but are largely inaccessible at UK platforms due to EU PRIIPs regulations.
+**ISA funds as PFICs:** UK-domiciled investment funds held within an ISA (unit trusts, OEICs, investment trusts) are classified as Passive Foreign Investment Companies under US tax law. [PFIC](/taxes/pfic-rules-international-investors) taxation is punitive - gains taxed at the highest ordinary income rate plus an interest charge - and requires Form 8621 for each fund each year. Individual UK-listed shares held in an ISA are not PFICs. US-domiciled ETFs are not PFICs but are largely inaccessible at UK platforms due to EU PRIIPs regulations.
 
 **SIPP for US citizens:** Articles 17 and 18 of the treaty provide that contributions to and growth within a qualifying UK pension scheme are generally deferred for US tax purposes, matching UK treatment. This is a specific carve-out from the saving clause. However, the IRS has historically treated some SIPP structures as foreign grantor trusts requiring Form 3520 and 3520-A filings. Specialist advice is essential before contributing to or withdrawing from a SIPP as a US person.
 
@@ -313,3 +314,4 @@ The March 2025 HMRC ruling on US pension lump sums is the most significant treat
 *This article is informational only and does not constitute tax or legal advice. Rates are based on the US-UK Income Tax Convention (2001) and Protocols (2002, 2003). HMRC and IRS interpretations change. Always consult a qualified cross-border tax professional for advice specific to your situation.*
 
 *Sources: US-UK Income Tax Convention (July 24, 2001) and Protocols; HMRC Double Taxation Relief Manual DT19852; Congress.gov Treaty Document 107-19; AJ Bell official guidance on US withholding and W-8BEN (ajbell.co.uk); HMRC updated pension lump sum guidance (March 12, 2025) as reported by USTAXFS, Blick Rothenberg, and ICAEW; UK FIG regime guidance (HMRC, April 2025); UK CGT rates confirmed via HMRC and Gov.uk (October 2024 Budget); UK dividend tax rates 2025/26 and 2026/27 confirmed via HMRC; IRS Publication 515 (2026).*
+

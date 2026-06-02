@@ -1,4 +1,5 @@
 ---
+slug: dollar-cost-averaging-tqqq
 title: "Dollar-Cost Averaging into TQQQ: When It Helps, When It Doesn't"
 description: "DCA into TQQQ is not one strategy - it's four different strategies depending on when you start. Four real start-date scenarios calculated from Yahoo Finance price data show when DCA beats lump sum, when lump sum dominates, and what the numbers actually say."
 pubDate: 2026-05-24
@@ -13,7 +14,7 @@ tags:
   - "leveraged ETF strategy"
   - "TQQQ backtest 2026"
   - "TQQQ 2022 entry"
-heroImage: "/images/blog/dollar-cost-averaging-tqqq.webp"
+heroImage: "/images/blog/strategies/dollar-cost-averaging-tqqq.webp"
 draft: false
 readingTime: "14 min read"
 featured: true
@@ -288,7 +289,7 @@ What DCA reliably delivers is a smaller initial position at risk and a lower ave
 
 ## A Note for Non-US Investors
 
-TQQQ is a US-listed ETF accessible to international investors through brokers such as Interactive Brokers and Saxo Bank. Israeli investors should note that capital gains on TQQQ are subject to 25% tax in Israel, which reduces — but does not eliminate — the lump sum advantage shown above. US-listed securities also carry US estate tax exposure above $60,000 for non-US residents, a meaningful consideration given the position sizes this strategy can produce over time. For a full breakdown, see our [guide to US taxes for foreign investors].
+TQQQ is a US-listed ETF accessible to international investors through brokers such as [Interactive Brokers](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors) and [Saxo Bank](/best-brokers/saxo-bank-review-2026). Israeli investors should note that capital gains on TQQQ are subject to 25% tax in [Israel](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026), which reduces — but does not eliminate — the lump sum advantage shown above. US-listed securities also carry US estate tax exposure above $60,000 for non-US residents, a meaningful consideration given the position sizes this strategy can produce over time. For a full breakdown, see our [guide to US taxes for foreign investors].
 
 ---
 
@@ -303,3 +304,4 @@ All figures in this article are available for independent verification in our <a
 *This article is informational only and does not constitute investment advice. TQQQ involves substantial risk including the possibility of total loss. All TQQQ scenario figures are calculated from Yahoo Finance monthly adjusted close data (Jan 2016–Dec 2025), downloaded May 2026, using a consistent methodology across all four scenarios. QQQ comparison figures use QuantFlowLab backtest data (March 2026). Past performance does not predict future results.*
 
 *Sources: ProShares TQQQ official data; Yahoo Finance TQQQ adjusted close history; QuantFlowLab TQQQ/QQQ Backtest (March 2026); PortfoliosLab TQQQ data (May 2026); Raw price data and scenario calculations: <a href="https://docs.google.com/spreadsheets/d/1byhijLW0jCuVON8bM549IqpMSQcXQPEA/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Google Sheets</a> (Yahoo Finance adj close, Jan 2016–Dec 2025).*
+

@@ -1,4 +1,5 @@
 ---
+slug: high-yield-options-strategies
 title: "High Yield Options Strategies for Income Investors (2026 Guide)"
 description: "A practical comparison of the best options income strategies in 2026: covered calls, cash-secured puts, the wheel, PMCC, and covered call ETFs. Real numbers, real trade-offs."
 pubDate: 2026-05-23
@@ -14,7 +15,7 @@ tags:
   - "PMCC poor mans covered call"
   - "JEPI QYLD covered call ETF"
   - "options income investors"
-heroImage: "/images/blog/high-yield-options-strategies.webp"
+heroImage: "/images/blog/options-income/high-yield-options-strategies.webp"
 draft: false
 readingTime: "13 min read"
 featured: true
@@ -24,7 +25,7 @@ Most income investors start in the same place: dividend stocks yielding 3-4%, bo
 
 Some of those numbers are real. Some are marketing. Most are real under specific conditions that the headline conveniently omits.
 
-This guide covers the five options income strategies that have a genuine statistical foundation - covered calls, cash-secured puts, the wheel, the Poor Man's Covered Call, and covered call ETFs. For each one, you will see how it works, what it actually pays, what it costs you in exchange, and how it fits into a real portfolio. The guide closes with a direct comparison of what each strategy generates on a $50,000 account so you can evaluate them side by side.
+This guide covers the five options income strategies that have a genuine statistical foundation - covered calls, cash-secured puts, [the wheel](/options-income/wheel-strategy-tqqq), the Poor Man's [Covered Call](/options-income/selling-covered-calls-tqqq), and covered call ETFs. For each one, you will see how it works, what it actually pays, what it costs you in exchange, and how it fits into a real portfolio. The guide closes with a direct comparison of what each strategy generates on a $50,000 account so you can evaluate them side by side.
 
 There is no single best strategy here. There is a best strategy for your specific situation - and that depends on how much capital you have, how much time you want to spend managing positions, and what you are willing to give up in exchange for income.
 
@@ -151,9 +152,9 @@ Options income is not all equal from a tax perspective - and this section looks 
 
 **US investors.** Premium income from covered calls and cash-secured puts on individual stocks is taxed as short-term capital gains - ordinary income rates regardless of holding period. If your marginal rate is 32%, a 15% gross yield becomes a 10.2% after-tax yield. SPX-based strategies qualify for Section 1256 treatment: 60% of gains taxed at long-term capital gains rates and 40% at short-term rates, regardless of holding period. For a 32% bracket investor, this reduces the effective rate to approximately 23.2%. The after-tax difference on $10,000 in annual premium is nearly $900. Running any of these strategies inside a Roth IRA eliminates tax drag entirely - the most compelling and underutilized advantage available to US options sellers.
 
-**Israeli investors.** Capital gains on financial assets - including options premium - are taxed at a flat 25% for individual investors (30% for holders of 10%+ in a company). This applies to both realized gains and premium income. There is no equivalent of the US Roth IRA or Section 1256 preferential treatment for index options. However, the 25% flat rate is meaningfully lower than the top marginal income tax rate of up to 50% in Israel - which means options income structured as capital gains is relatively tax-efficient by local standards. Israeli investors running these strategies in foreign brokerage accounts must report income to the Israeli Tax Authority and may be subject to withholding at source depending on the broker's jurisdiction. Consult a licensed Israeli tax adviser before starting.
+**Israeli investors.** Capital gains on financial assets - including options premium - are taxed at a flat 25% for individual investors (30% for holders of 10%+ in a company). This applies to both realized gains and premium income. There is no equivalent of the US Roth IRA or Section 1256 preferential treatment for index options. However, the 25% flat rate is meaningfully lower than the top marginal income tax rate of up to 50% in [Israel](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026) - which means options income structured as capital gains is relatively tax-efficient by local standards. Israeli investors running these strategies in foreign brokerage accounts must report income to the [Israeli Tax](/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026) Authority and may be subject to withholding at source depending on the broker's jurisdiction. Consult a licensed Israeli tax adviser before starting.
 
-**UK investors.** Options premium income falls under Capital Gains Tax in the UK. The annual CGT exemption is £3,000 for 2026/27. Above that, basic rate taxpayers pay 18% on gains from financial assets, higher rate taxpayers pay 24%. The Stocks and Shares ISA - with a £20,000 annual allowance for 2026/27 - shelters investment returns from both CGT and income tax. However, most UK ISA providers do not currently support options selling strategies such as covered calls or cash-secured puts directly. UK investors who want the tax shelter of an ISA for options income strategies typically need to use covered call ETFs like JEPI or QYLD, which can be held inside a Stocks and Shares ISA without restriction.
+**[UK](/us-investing/invest-us-stocks-uk) investors.** Options premium income falls under Capital Gains Tax in the UK. The annual CGT exemption is £3,000 for 2026/27. Above that, basic rate taxpayers pay 18% on gains from financial assets, higher rate taxpayers pay 24%. The Stocks and Shares ISA - with a £20,000 annual allowance for 2026/27 - shelters investment returns from both CGT and income tax. However, most UK ISA providers do not currently support options selling strategies such as covered calls or cash-secured puts directly. UK investors who want the tax shelter of an ISA for options income strategies typically need to use covered call ETFs like JEPI or QYLD, which can be held inside a Stocks and Shares ISA without restriction.
 
 **European investors (general).** Tax treatment varies significantly by country. Most European jurisdictions tax financial gains as either capital gains or investment income, typically at rates between 15% and 30%. There is generally no equivalent of the US Roth IRA or Section 1256 preferential treatment. Covered call ETFs like JEPI and QYLD are widely accessible through European brokers, but active options selling strategies may require margin accounts or specific broker approvals that vary by country. Check your local tax authority's guidance on derivative income before starting.
 
@@ -199,3 +200,4 @@ The investors who generate genuine long-term income from options are not the one
 > **This article is for informational purposes only and does not constitute financial or investment advice. Options trading involves significant risk of loss and is not appropriate for all investors. Yield figures are estimates based on current market conditions and will vary. Always consult a licensed financial adviser before trading options.**
 
 *Last updated: May 2026*
+

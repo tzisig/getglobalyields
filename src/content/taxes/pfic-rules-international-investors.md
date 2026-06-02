@@ -1,4 +1,5 @@
 ---
+slug: pfic-rules-international-investors
 title: "PFIC Rules: What International Investors Must Know"
 description: "PFIC rules can trigger punishing US taxes on foreign mutual funds and ETFs. Learn what qualifies as a PFIC and how to avoid the tax trap."
 pubDate: 2026-04-01
@@ -10,7 +11,7 @@ tags:
   - "foreign funds"
   - "US tax"
   - "international investors"
-heroImage: "/images/blog/pfic-rules-international-investors.webp"
+heroImage: "/images/blog/taxes/pfic-rules-international-investors.webp"
 draft: false
 readingTime: "10 min read"
 featured: false
@@ -48,7 +49,7 @@ Under IRS rules, a foreign corporation is classified as a PFIC if it meets eithe
 
 **Asset test:** At least 50% of the company's assets produce passive income or are held to produce passive income.
 
-Most foreign mutual funds, ETFs, and unit trusts automatically meet one or both of these tests. That means if you're an Israeli investor who owns a Tel Aviv-listed index fund, an Australian who holds a local managed fund, or a Canadian with shares in a non-US ETF - there's a real chance you're holding a PFIC.
+Most foreign mutual funds, ETFs, and unit trusts automatically meet one or both of these tests. That means if you're an Israeli investor who owns a Tel Aviv-listed index fund, an [Australian](/us-investing/invest-us-stocks-australia) who holds a local managed fund, or a [Canadian](/us-investing/invest-us-stocks-canada) with shares in a non-US ETF - there's a real chance you're holding a PFIC.
 
 ## 💸  Why PFIC Tax Treatment Is So Painful
 
@@ -193,16 +194,17 @@ If you already hold PFICs, get professional advice before exiting - the right se
 
 ## 🔗  Related Articles on GetGlobalYields.com
 
-→ [Interactive Brokers 2026 Review: The Best Broker for International Investors](/best-brokers/interactive-brokers-review-2026)
+→ [Interactive Brokers 2026 Review: The Best Broker for International Investors](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors)
 
-→ [W-8BEN Form: Complete Guide for International Investors](/taxes/w-8ben-form-non-us-investors)
+→ [W-8BEN Form: Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors)
 
-→ [How to Convert ILS to USD at Interbank Rates Using IBKR](/strategies/convert-ils-to-usd-interbank-rates-ibkr)
+→ [How to Convert ILS to USD at Interbank Rates Using IBKR](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026)
 
-→ [The Wheel Strategy on TQQQ: A Step-by-Step Guide](/strategies/wheel-strategy-tqqq-step-by-step-guide)
+→ [The Wheel Strategy on TQQQ: A Step-by-Step Guide](/options-income/wheel-strategy-tqqq)
 
-→ [US Estate Tax for Non-Residents: What International Investors Must Know](/taxes/us-estate-tax-non-residents)
+→ [US Estate Tax for Non-Residents: What International Investors Must Know](/taxes/taxes-us-dividends-foreign-investors)
 
 > ⚠️ **Affiliate Disclosure:** GetGlobalYields.com may earn a commission if you open an account through links on this page. This does not affect our editorial independence.
 > 
 > ⚠️ **Tax Disclaimer:** This article is for informational purposes only and does not constitute tax or financial advice. Consult a qualified cross-border tax professional for guidance specific to your situation.
+

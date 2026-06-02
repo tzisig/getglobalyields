@@ -1,4 +1,5 @@
 ---
+slug: etoro-review-2026
 title: "eToro Review 2026: Is It Worth It for International Investors?"
 description: "Honest eToro review for non-US investors. Real fees, FX costs, copy trading, and how it compares to IBKR."
 pubDate: 2026-05-19
@@ -13,7 +14,7 @@ tags:
   - "etoro vs ibkr"
   - "etoro israel"
   - "commission free trading"
-heroImage: "/images/blog/etoro-review-2026.webp"
+heroImage: "/images/blog/best-brokers/etoro-review-2026.webp"
 draft: false
 readingTime: "11 min read"
 featured: false
@@ -49,7 +50,7 @@ rating: 3.8
 
 Most eToro reviews talk about how great the copy trading feature is. Fine. But they skip the part that matters most if you live outside the US: what does it actually cost you to use this platform?
 
-This review is written for investors in Israel, Australia, Canada, Europe, and other countries who want to invest in US stocks and ETFs. We'll cover the real numbers - conversion fees, withdrawal fees, and what you're actually paying even when eToro says "zero commission."
+This review is written for investors in [Israel](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026), [Australia](/us-investing/invest-us-stocks-australia), [Canada](/us-investing/invest-us-stocks-canada), Europe, and other countries who want to invest in US stocks and ETFs. We'll cover the real numbers - conversion fees, withdrawal fees, and what you're actually paying even when eToro says "zero commission."
 
 ---
 
@@ -58,7 +59,7 @@ This review is written for investors in Israel, Australia, Canada, Europe, and o
 | | |
 |---|---|
 | Founded | 2007 |
-| Headquarters | Cyprus / UK / US |
+| Headquarters | Cyprus / [UK](/us-investing/invest-us-stocks-uk) / US |
 | Regulation | FCA (UK), CySEC (EU), ASIC (AU), SEC (US) |
 | Countries accepted | 100+ |
 | Minimum deposit (most countries) | $50-$200 |
@@ -118,7 +119,7 @@ This is what the numbers actually look like for an Israeli investor depositing $
 | Broker | Annual conversion cost | 10-year cumulative cost |
 |---|---|---|
 | eToro (ILS) | $750 (1.5%) | ~$7,500 |
-| Wise + Firstrade | $175-250 (0.35-0.5%) | ~$2,000 |
+| Wise + [Firstrade](/best-brokers/firstrade-review-2026) | $175-250 (0.35-0.5%) | ~$2,000 |
 | Interactive Brokers | $1 (0.002%) | ~$10 |
 
 Over a decade, the conversion fee alone costs an eToro/ILS investor ~$7,500 more than IBKR. That's real money.
@@ -191,7 +192,7 @@ This is where eToro genuinely earns its reputation. The platform is the most int
 
 **What's missing:**
 - No real options trading (only CFD options, which are different)
-- Limited charting tools compared to TWS or tastytrade
+- Limited charting tools compared to TWS or [tastytrade](/best-brokers/tastytrade-review-2026)
 - No futures
 - No bonds
 
@@ -230,7 +231,7 @@ eToro is fully available in Israel and is one of the more popular platforms amon
 - **Minimum deposit: $10,000** - significantly higher than most other markets. This is a real barrier for new investors
 - **Currency conversion: ~1.5%** on NIS deposits - one of the highest in the industry for this currency pair
 - **Real shares** - Israeli clients receive actual share ownership, not CFDs
-- **Israeli tax:** Capital gains tax of 25% applies. Dividend withholding is typically 15% with a valid W-8BEN form (reduced from 30% under the US-Israel tax treaty). eToro provides annual statements but you file your own tax report in Israel
+- **Israeli tax:** Capital gains tax of 25% applies. Dividend withholding is typically 15% with a valid W-8BEN form (reduced from 30% under the US-[Israel tax](/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026) treaty). eToro provides annual statements but you file your own tax report in Israel
 
 **Bottom line for Israelis:** The Hebrew interface and support are genuine advantages. The $10,000 minimum and 1.5% conversion fee are real disadvantages. For investors who have $10,000+ and want a simple Hebrew-language experience, eToro works. For everyone else, IBKR is more cost-effective.
 
@@ -239,8 +240,8 @@ eToro is fully available in Israel and is one of the more popular platforms amon
 | Investor Country | Default withholding | With W-8BEN | Notes |
 |---|---|---|---|
 | Israel | 30% | 15% | US-Israel tax treaty |
-| UK | 30% | 15% | US-UK tax treaty |
-| Germany | 30% | 15% | US-Germany tax treaty |
+| UK | 30% | 15% | US-[UK tax](/taxes/us-uk-tax-treaty-investors) treaty |
+| [Germany](/us-investing/invest-us-stocks-germany) | 30% | 15% | US-[Germany tax](/taxes/us-germany-tax-treaty-investors) treaty |
 | Australia | 30% | 15% | US-Australia tax treaty |
 | Canada | 30% | 15% | US-Canada tax treaty |
 
@@ -389,3 +390,4 @@ Many investors keep both - eToro for copy trading with a smaller allocation, IBK
 *⚠️ Affiliate Disclosure: This review contains affiliate links. GetGlobalYields.com may earn a commission if you open an account through links on this page. This never affects our ratings or editorial independence - we only recommend brokers we have independently researched and tested. See our [full disclosure policy](/disclaimer).*
 
 *⚠️ Financial Disclaimer: This review is for informational purposes only and does not constitute financial advice. Tax treatment varies by country. Always consult a qualified tax advisor and conduct your own research before opening a brokerage account.*
+

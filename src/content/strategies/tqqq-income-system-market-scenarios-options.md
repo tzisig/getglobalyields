@@ -5,7 +5,7 @@ description: "Breakdown of TQQQ income system using options across rising, sidew
 pubDate: 2026-05-04
 author: "Global Yields Team"
 categories: ["strategies"]
-heroImage: "/images/blog/tqqq-system-architecture.webp"
+heroImage: "/images/blog/strategies/tqqq-system-architecture.webp"
 heroImageLight: "/images/blog/light/tqqq-system-architecture.webp"
 heroImageDark: "/images/blog/tqqq-system-architecture.webp"
 draft: false
@@ -17,7 +17,7 @@ draft: false
 
 Instead of betting everything on price appreciation, the system generates:
 - Capital gains from TQQQ ownership
-- Premium income from covered calls
+- Premium income from [covered calls](/options-income/selling-covered-calls-tqqq)
 - Put premium from cash reserves
 
 [IMAGE_1: System architecture diagram]

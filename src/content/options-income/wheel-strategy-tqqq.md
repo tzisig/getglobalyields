@@ -1,4 +1,5 @@
 ---
+slug: wheel-strategy-tqqq
 title: "The Wheel Strategy on TQQQ: Step-by-Step (And Why You Should Think Twice)"
 description: "A complete guide to running the wheel strategy on TQQQ - how it works, why the high premiums are tempting, and the real risks that most tutorials skip. Includes a comparison with QQQ and SPY."
 pubDate: 2026-05-24
@@ -13,7 +14,7 @@ tags:
   - "wheel strategy leveraged ETF"
   - "TQQQ vs QQQ wheel"
   - "options income strategy 2026"
-heroImage: "/images/blog/wheel-strategy-tqqq.webp"
+heroImage: "/images/blog/options-income/wheel-strategy-tqqq.webp"
 draft: false
 readingTime: "13 min read"
 featured: false
@@ -35,7 +36,7 @@ This guide walks through the mechanics honestly - how the strategy works, what t
 
 ## What Is the Wheel Strategy?
 
-The wheel is a systematic options income strategy built on two positions that most options traders know: the cash-secured put and the covered call. The "wheel" refers to the cycle between them.
+The wheel is a systematic options income strategy built on two positions that most options traders know: the [cash-secured put](/options-income/cash-secured-puts-high-iv) and the [covered call](/options-income/selling-covered-calls-tqqq). The "wheel" refers to the cycle between them.
 
 ### Phase 1 - Sell a Cash-Secured Put
 
@@ -215,3 +216,4 @@ For most investors: QQQ gives you the Nasdaq-100 exposure, meaningful option pre
 > **Final warning:** Options trading involves the risk of losing your entire invested capital. The wheel strategy does not eliminate downside risk - it modifies how you experience it. The 2022 TQQQ drawdown of 81.66% is a documented fact, not a theoretical scenario. Before trading any options strategy, understand every component, size your positions conservatively, and never trade with money you cannot afford to lose. Nothing in this article constitutes financial advice.
 
 *Fee data, drawdown figures, and ETF characteristics are sourced from ProShares official documentation, PortfoliosLab, and StockAnalysis.com. Options premium estimates reflect typical market conditions and will vary with market volatility. Always verify current figures before placing any trade.*
+

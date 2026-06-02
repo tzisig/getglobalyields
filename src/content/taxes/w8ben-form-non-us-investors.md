@@ -1,4 +1,5 @@
 ---
+slug: w8ben-form-non-us-investors
 title: "W-8BEN Form Explained (2026): Reduce US Withholding Tax for Non-US Investors"
 description: "Complete W-8BEN guide for international investors. Learn how to reduce US withholding tax from 30% to treaty rates (15%-25%), avoid costly mistakes, and optimize your tax strategy."
 pubDate: 2026-04-01
@@ -13,7 +14,7 @@ tags:
   - "w8ben explained"
   - "tax treaty us dividends"
   - "reduce us dividend tax"
-heroImage: "/images/blog/w-8ben-form-guide.webp"
+heroImage: "/images/blog/taxes/w-8ben-form-guide.webp"
 canonicalURL: "https://getglobalyields.com/w8ben-form-non-us-investors"
 draft: false
 readingTime: "12 min read"
@@ -23,7 +24,7 @@ seo:
   metaDescription: "Step-by-step W-8BEN guide for non-US investors. Reduce dividend tax from 30% to treaty rates and avoid costly mistakes."
   ogTitle: "W-8BEN Explained: Save Thousands in US Withholding Tax"
   ogDescription: "Learn how non-US investors reduce US dividend tax using W-8BEN. Step-by-step guide + real examples."
-  ogImage: "/public/images/blog/w-8ben-form-guide.webp"
+  ogImage: "/public/images/blog/taxes/w-8ben-form-guide.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "Article"
@@ -32,7 +33,7 @@ schema:
   author: "GetGlobalYields Team"
   datePublished: "2026-04-01"
   dateModified: "2026-05-12"
-  image: "/public/images/blog/w-8ben-form-guide.webp"
+  image: "/public/images/blog/taxes/w-8ben-form-guide.webp"
   mainEntityOfPage: "https://getglobalyields.com/w8ben-form-non-us-investors"
 ---
 
@@ -40,7 +41,7 @@ schema:
 
 If you invest in US stocks or ETFs as a non-US resident, one form directly determines how much of your returns you actually keep: the W-8BEN.
 
-Without it, the IRS withholds 30% of your dividends and certain types of interest. With it, and with the correct tax treaty applied, that rate drops to 15% for most countries and 25% for Israeli investors.
+Without it, the IRS withholds 30% of your dividends and certain types of interest. With it, and with the correct tax treaty applied, that rate drops to 15% for most countries and 25% for [Israeli](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026) investors.
 
 Over time, that difference compounds into thousands of dollars.
 
@@ -54,7 +55,7 @@ The W-8BEN (Certificate of Foreign Status of Beneficial Owner for United States 
 
 - Confirm they are not US persons
 - Claim tax treaty benefits
-- Reduce US withholding tax on dividends and interest
+- Reduce US [withholding tax](/taxes/taxes-us-dividends-foreign-investors) on dividends and interest
 
 You do not send this form to the IRS. You submit it directly to your broker, and the broker applies the correct withholding rate automatically.
 
@@ -77,7 +78,7 @@ Assume:
 | --- | --- | --- | --- |
 | No W-8BEN | 30% | $1,200 | $2,800 |
 | Israel (treaty) | 25% | $1,000 | $3,000 |
-| UK / EU | 15% | $600 | $3,400 |
+| [UK](/us-investing/invest-us-stocks-uk) / EU | 15% | $600 | $3,400 |
 
 Difference vs no form:
 
@@ -94,7 +95,7 @@ You need this form if:
 - You invest in US stocks, ETFs, or bonds
 - You receive (or expect to receive) dividends or interest
 
-This applies to almost all international investors using brokers like Interactive Brokers, tastytrade, Firstrade, and Schwab International.
+This applies to almost all international investors using brokers like [Interactive Brokers](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors), [tastytrade](/best-brokers/tastytrade-review-2026), [Firstrade](/best-brokers/firstrade-review-2026), and Schwab International.
 
 Who does not need it:
 
@@ -107,13 +108,13 @@ Who does not need it:
 | Country | Default | Treaty Rate |
 | --- | --- | --- |
 | Israel | 30% | 25% |
-| Canada | 30% | 15% |
+| [Canada](/us-investing/invest-us-stocks-canada) | 30% | 15% |
 | UK | 30% | 15% |
-| Germany | 30% | 15% |
+| [Germany](/us-investing/invest-us-stocks-germany) | 30% | 15% |
 | France | 30% | 15% |
-| Australia | 30% | 15% |
+| [Australia](/us-investing/invest-us-stocks-australia) | 30% | 15% |
 | Japan | 30% | 10% |
-| India | 30% | 25% |
+| [India](/us-investing/invest-us-stocks-india) | 30% | 25% |
 | Brazil | 30% | 30% (no treaty) |
 | Singapore | 30% | 30% (no treaty) |
 
@@ -218,9 +219,9 @@ Open an account with Interactive Brokers: [Interactive Brokers (IBKR)](https://g
 
 Also read:
 
-- [Interactive Brokers review](/best-brokers/interactive-brokers-review-non-us-investors/)
-- [TQQQ tax guide for international investors](/tqqq-tax-international-investors/)
-- [real TQQQ recovery case study](/case-study/from-minus-70-to-plus-492k-real-tqqq-recovery-case-study/)
+- [Interactive Brokers review](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors)
+- [TQQQ tax guide for international investors](/taxes/tqqq-tax-international-investors)
+- [real TQQQ recovery case study](/case-study/rom-minus-70-to-plus-492k-real-tqqq-recovery-case-study/)
 
 ## FAQ
 
@@ -255,5 +256,6 @@ If you invest in US markets and do not have this form correctly filed, you may b
 
 Next steps:
 
-- Start here: [Best Brokers for Israeli Investors in US Markets](/best-broker-israeli-investors-us-markets/)
-- Learn more: [TQQQ tax guide for international investors](/tqqq-tax-international-investors/)
+- Start here: [Best Brokers for Israeli Investors in US Markets](/taxes/best-broker-israeli-investors-us-markets)
+- Learn more: [TQQQ tax guide for international investors](/taxes/tqqq-tax-international-investors)
+

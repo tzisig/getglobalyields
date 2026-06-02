@@ -1,4 +1,5 @@
 ---
+slug: invest-us-stocks-uk
 title: "How to Invest in US Stocks from the UK (2026 Guide)"
 description: "Complete guide for UK investors: ISA vs SIPP vs GIA for US stocks, withholding tax, CGT rates, best brokers, and the mistake most investors make with their ISA."
 pubDate: 2026-05-19
@@ -13,7 +14,7 @@ tags:
   - "ibkr uk review"
   - "us stocks uk cgt"
   - "w8ben uk investor"
-heroImage: "/images/blog/invest-us-stocks-uk.webp"
+heroImage: "/images/blog/us-investing/invest-us-stocks-uk.webp"
 draft: false
 readingTime: "12 min read"
 featured: false
@@ -22,7 +23,7 @@ featured: false
 <!--
 SEO CHECKLIST
 Title tag (52 chars): How to Invest in US Stocks from the UK (2026)
-Meta description (155 chars): Complete guide for UK investors: ISA vs SIPP vs GIA for US stocks, withholding tax, CGT rates, best brokers, and the mistake most investors make with their ISA.
+Meta description (155 chars): Complete guide for UK investors: ISA vs SIPP vs GIA for US stocks, [withholding tax](/taxes/taxes-us-dividends-foreign-investors), CGT rates, best brokers, and the mistake most investors make with their ISA.
 Focus keyword: how to invest in us stocks from the uk
 Slug: how-to-invest-in-us-stocks-from-uk
 Schema type: Article, FAQPage, HowTo
@@ -30,7 +31,7 @@ Schema type: Article, FAQPage, HowTo
 
 *Updated: May 2026 - GetGlobalYields.com - Read time: ~12 min*
 
-UK investors have some of the best tools in the world for owning US stocks tax-efficiently. The ISA and SIPP wrappers, combined with the US-UK tax treaty, create a structure that most other countries genuinely envy. But there is a common misunderstanding that costs UK investors real money every year - and almost no guide explains it clearly.
+UK investors have some of the best tools in the world for owning US stocks tax-efficiently. The ISA and SIPP wrappers, combined with the US-[UK tax](/taxes/us-uk-tax-treaty-investors) treaty, create a structure that most other countries genuinely envy. But there is a common misunderstanding that costs UK investors real money every year - and almost no guide explains it clearly.
 
 The misunderstanding: your ISA does not protect you from US withholding tax on US dividends.
 
@@ -252,7 +253,7 @@ For most UK investors, a combination of ISA for growth-focused US positions and 
 - [Interactive Brokers Review 2026: The Best Broker for International Investors](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors)
 - [W-8BEN Form: Complete Guide for Non-US Investors](/taxes/w8ben-form-non-us-investors)
 - [Saxo Bank Review 2026: Pro Features for High Net Worth Investors](/best-brokers/saxo-bank-review-2026)
-- [TQQQ Tax Implications for International Investors](/taxes/tqqq-for-international-investors-tax-implications-2026)
+- [TQQQ Tax Implications for International Investors](/taxes/tqqq-tax-international-investors)
 
 ---
 

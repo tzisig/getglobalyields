@@ -14,7 +14,7 @@ tags:
   - "saxo bank account tiers"
   - "saxo bank platinum vip"
 slug: saxo-bank-review-2026
-heroImage: "/images/blog/saxo-bank-review-2026.webp"
+heroImage: "/images/blog/best-brokers/saxo-bank-review-2026.webp"
 draft: false
 readingTime: "12 min read"
 featured: false
@@ -63,7 +63,7 @@ Hero image alt text: Saxo Bank review 2026 for international investors
 
 Most Saxo Bank reviews are written for European traders looking at CFDs and forex spreads. This review is different.
 
-It is written for international investors - in Israel, Australia, Canada, and beyond - who are evaluating Saxo as a serious long-term platform for stocks, ETFs, options, and multi-asset portfolios. We focus on what actually matters: real fees, account tiers, FX costs, and whether Saxo is worth it compared to IBKR.
+It is written for international investors - in [Israel](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026), [Australia](/us-investing/invest-us-stocks-australia), [Canada](/us-investing/invest-us-stocks-canada), and beyond - who are evaluating Saxo as a serious long-term platform for stocks, ETFs, options, and multi-asset portfolios. We focus on what actually matters: real fees, account tiers, FX costs, and whether Saxo is worth it compared to IBKR.
 
 ---
 
@@ -74,7 +74,7 @@ It is written for international investors - in Israel, Australia, Canada, and be
 | Founded | 1992 |
 | Headquarters | Copenhagen, Denmark |
 | Legal Status | Licensed Danish investment bank |
-| Regulation | Danish FSA, FCA (UK), ASIC (AU), MAS (SG), FINMA (CH), 15+ jurisdictions |
+| Regulation | Danish FSA, FCA ([UK](/us-investing/invest-us-stocks-uk)), ASIC (AU), MAS (SG), FINMA (CH), 15+ jurisdictions |
 | SIFI Status | Yes - Systemically Important Financial Institution since 2023 |
 | S&P Credit Rating | A- |
 | Countries accepted | 180+ |
@@ -254,9 +254,9 @@ Saxo provides detailed tax reporting, but the specifics depend on which Saxo ent
 
 | Investor Country | Default | With W-8BEN | Notes |
 |---|---|---|---|
-| Israel | 30% | 25% | US-Israel tax treaty |
-| UK | 30% | 15% | US-UK tax treaty |
-| Germany | 30% | 15% | US-Germany tax treaty |
+| Israel | 30% | 25% | US-[Israel tax](/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026) treaty |
+| UK | 30% | 15% | US-[UK tax](/taxes/us-uk-tax-treaty-investors) treaty |
+| [Germany](/us-investing/invest-us-stocks-germany) | 30% | 15% | US-[Germany tax](/taxes/us-germany-tax-treaty-investors) treaty |
 | Australia | 30% | 15% | US-Australia tax treaty |
 | Canada | 30% | 15% | US-Canada tax treaty |
 

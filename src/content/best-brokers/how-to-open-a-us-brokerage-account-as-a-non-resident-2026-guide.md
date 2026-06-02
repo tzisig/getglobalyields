@@ -1,4 +1,5 @@
 ---
+slug: how-to-open-a-us-brokerage-account-as-a-non-resident-2026-guide
 title: "How to Open a US Brokerage Account as a Non-Resident (2026 Guide)"
 description: "Want to invest in US stocks from abroad? Here's exactly how non-US residents can open a brokerage account, what documents you need, and the best brokers that accept international clients."
 pubDate: 2026-04-01
@@ -13,7 +14,7 @@ tags:
   - "international investors"
   - "account opening"
   - "documentation"
-heroImage: "/images/blog/how-to-open-us-brokerage-account.webp"
+heroImage: "/images/blog/best-brokers/how-to-open-us-brokerage-account.webp"
 draft: false
 readingTime: "12 min read"
 featured: false
@@ -34,7 +35,7 @@ Yes - with conditions. US law does not prohibit non-residents from investing in 
 The key requirements are:
 
 -   A valid government-issued ID (passport preferred)
--   Proof of address in your country of residence - A completed W-8BEN form (more on this below)
+-   Proof of address in your country of residence - A completed [W-8BEN](/taxes/w8ben-form-non-us-investors) form (more on this below)
 -   A foreign bank account for funding
 
 Some brokers also require a minimum deposit, and a small number of countries are restricted due to US sanctions or local regulations.
@@ -45,7 +46,7 @@ The W-8BEN is an IRS form that certifies you are a foreign person for US tax pur
 
 **Why it matters:**
 
--   Without a W-8BEN, US brokers are required to withhold 30% tax on your dividends and interest payments - With a W-8BEN, the withholding rate drops to whatever your country's tax treaty with the US specifies - often 15% or lower - For example, the US-Israel tax treaty reduces dividend withholding to 25% in most cases (and lower on certain income types)
+-   Without a W-8BEN, US brokers are required to withhold 30% tax on your dividends and interest payments - With a W-8BEN, the withholding rate drops to whatever your country's tax treaty with the US specifies - often 15% or lower - For example, the US-[Israel](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026) tax treaty reduces dividend withholding to 25% in most cases (and lower on certain income types)
 
 The W-8BEN is not complicated. It asks for your name, country of citizenship, country of residence, and tax identification number. Most brokers let you fill it out digitally during the account opening process.
 
@@ -75,7 +76,7 @@ This is usually embedded in the application. Fill it out carefully - errors can 
 
 ### **Step 5: Fund Your Account**
 
-International wire transfers are the most common funding method. Fees vary by broker and by your home bank. Some brokers (like IBKR) also support currency conversion at competitive rates.
+International wire transfers are the most common funding method. Fees vary by broker and by your home bank. Some brokers (like [IBKR](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors)) also support currency conversion at competitive rates.
 
 ### **Step 6: Start Investing**
 
@@ -100,7 +101,7 @@ Interactive Brokers is widely considered the gold standard for international inv
 
 ### **2\. Tastytrade**
 
-Tastytrade is the go-to platform for options traders. It accepts clients from select international countries and is known for its low, flat-rate options commissions and excellent educational content.
+[Tastytrade](/best-brokers/tastytrade-review-2026) is the go-to platform for options traders. It accepts clients from select international countries and is known for its low, flat-rate options commissions and excellent educational content.
 
 **Pros:**
 
@@ -111,11 +112,11 @@ Tastytrade is the go-to platform for options traders. It accepts clients from se
 
 -   Available in fewer countries than IBKR - Focused on active traders - not ideal for passive investors
 
-**Best for:** International investors focused on options income strategies (covered calls, the Wheel, etc.)
+**Best for:** International investors focused on options income strategies ([covered calls](/options-income/selling-covered-calls-tqqq), [the Wheel](/options-income/wheel-strategy-tqqq), etc.)
 
 ### **3\. Firstrade**
 
-Firstrade is a lesser-known but excellent option for international investors, particularly those in Asia and parts of the Middle East. It offers commission-free trading on stocks, ETFs, and options.
+[Firstrade](/best-brokers/firstrade-review-2026) is a lesser-known but excellent option for international investors, particularly those in Asia and parts of the Middle East. It offers commission-free trading on stocks, ETFs, and options.
 
 **Pros:**
 
@@ -177,3 +178,4 @@ For most international investors, Interactive Brokers is the default choice due 
 **Financial Disclaimer**
 
 _The content on GetGlobalYields.com is for informational and educational purposes only and does not constitute financial, investment, or tax advice. Always consult a licensed financial advisor and tax professional before making investment decisions. Tax laws vary by country and individual circumstances._
+

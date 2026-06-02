@@ -1,4 +1,5 @@
 ---
+slug: us-israel-tax-treaty-explained-capital-gains-dividends-2026
 title: "US-Israel Tax Treaty: Capital Gains & Dividend Rates (2026)"
 description: "Complete guide to the US-Israel tax treaty rates for capital gains, dividends, and interest. Updated for 2026 with current withholding rates and treaty benefits."
 pubDate: 2026-05-12
@@ -11,7 +12,7 @@ tags:
   - "dividends"
   - "W-8BEN"
   - "withholding tax"
-heroImage: "/images/blog/us-israel-tax-treaty-explained-capital-gains-dividends-2026.webp"
+heroImage: "/images/blog/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026.webp"
 draft: false
 readingTime: "8 min read"
 featured: false
@@ -78,8 +79,8 @@ The W-8BEN is a one-page form where you:
 **Where to file it:**
 
 - **Interactive Brokers:** Account Management → Tax Forms → W-8BEN
-- **eToro:** Settings → Account → Tax Forms
-- **Firstrade:** My Account → Tax Information → W-8BEN
+- **[eToro](/best-brokers/etoro-review-2026):** Settings → Account → Tax Forms
+- **[Firstrade](/best-brokers/firstrade-review-2026):** My Account → Tax Information → W-8BEN
 - **TD Ameritrade/Charles Schwab:** Similar sections in account settings
 
 The form is valid for three years. After that, you need to renew it. If you don't renew, your broker will revert to the 30% withholding rate.
@@ -161,7 +162,7 @@ Most brokers process W-8BEN forms within 1-3 business days. You'll see the reduc
 | Firstrade | Yes | Full | Commission-free US stocks |
 | TD Ameritrade | Limited | Full | Requires $25,000 minimum for non-US |
 | Charles Schwab | Limited | Full | International account available |
-| Saxo Bank | Yes | Full | European broker with US access |
+| [Saxo Bank](/best-brokers/saxo-bank-review-2026) | Yes | Full | European broker with US access |
 
 **Recommendation:** Interactive Brokers has the most straightforward W-8BEN process and clearly displays your treaty withholding rate in tax documents.
 
@@ -201,15 +202,15 @@ The US-Israel tax treaty is one of the most investor-friendly agreements Israel 
 
 ## 🔗  Related Articles on GetGlobalYields.com
 
-→ [W-8BEN Form: Complete Guide for International Investors](/taxes/w-8ben-form-non-us-investors)
+→ [W-8BEN Form: Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors)
 
-→ [How to Convert ILS to USD at Interbank Rates Using IBKR](/strategies/convert-ils-to-usd-interbank-rates-ibkr)
+→ [How to Convert ILS to USD at Interbank Rates Using IBKR](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026)
 
-→ [Interactive Brokers 2026 Review: The Best Broker for International Investors](/best-brokers/interactive-brokers-review-2026)
+→ [Interactive Brokers 2026 Review: The Best Broker for International Investors](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors)
 
 → [PFIC Rules: What International Investors Must Know](/taxes/pfic-rules-international-investors)
 
-→ [US Estate Tax for Non-Residents: What International Investors Must Know](/taxes/us-estate-tax-non-residents)
+→ [US Estate Tax for Non-Residents: What International Investors Must Know](/taxes/taxes-us-dividends-foreign-investors)
 
 > ⚠️ **Affiliate Disclosure:** GetGlobalYields.com may earn a commission if you open an account through links on this page. This does not affect our editorial independence.
 > 

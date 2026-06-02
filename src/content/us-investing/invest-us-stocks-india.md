@@ -1,4 +1,5 @@
 ---
+slug: invest-us-stocks-india
 title: "How to Invest in US Stocks from India (2026 Guide)"
 description: "Complete guide for Indian investors: LRS rules, best platforms, tax implications, and step-by-step process to legally invest in US stocks from India."
 pubDate: 2026-05-19
@@ -13,7 +14,7 @@ tags:
   - "india us dtaa"
   - "investing in us from india 2026"
   - "rbi lrs limit"
-heroImage: "/images/blog/invest-us-stocks-india.webp"
+heroImage: "/images/blog/us-investing/invest-us-stocks-india.webp"
 draft: false
 readingTime: "13 min read"
 featured: false
@@ -122,7 +123,7 @@ Another India-focused platform with a strong mobile app and an integrated approa
 
 ### Winvesta
 
-UK-regulated platform that has built a significant Indian user base. Strong on compliance and reporting, reasonable fees, and a decent mobile experience.
+[UK](/us-investing/invest-us-stocks-uk)-regulated platform that has built a significant Indian user base. Strong on compliance and reporting, reasonable fees, and a decent mobile experience.
 
 **The honest comparison:**
 

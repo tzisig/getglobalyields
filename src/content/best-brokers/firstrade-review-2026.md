@@ -14,7 +14,7 @@ tags:
   - "firstrade account types"
   - "firstrade non-us"
 slug: firstrade-review-2026
-heroImage: "/images/blog/firstrade_review_banner.webp"
+heroImage: "/images/blog/best-brokers/firstrade_review_banner.webp"
 draft: false
 readingTime: "12 min read"
 featured: false
@@ -24,7 +24,7 @@ cons: ["Fewer advanced tools than IBKR", "Limited multi-currency features", "FX 
 productName: "Firstrade"
 ---
 
-Here's a scenario that comes up more than you'd think. Someone outside the US - let's say an investor in Germany or Singapore - decides they want exposure to US stocks and ETFs. They open a brokerage account with a local provider, only to find the selection is limited, the fees are higher than they expected, and options trading either doesn't exist or costs a fortune per contract. They start looking at US brokers. One by one, those brokers turn them away - "we don't accept international clients at this time." Then they find Firstrade.
+Here's a scenario that comes up more than you'd think. Someone outside the US - let's say an investor in [Germany](/us-investing/invest-us-stocks-germany) or Singapore - decides they want exposure to US stocks and ETFs. They open a brokerage account with a local provider, only to find the selection is limited, the fees are higher than they expected, and options trading either doesn't exist or costs a fortune per contract. They start looking at US brokers. One by one, those brokers turn them away - "we don't accept international clients at this time." Then they find Firstrade.
 
 Firstrade isn't the most sophisticated broker on this list. It won't win any design awards. But it does two things that matter a lot for international investors: it charges $0 on virtually everything, and it actually accepts clients from 28 countries outside the US when most of its peers stopped bothering years ago.
 
@@ -69,7 +69,7 @@ One detail worth flagging: through Apex Clearing, Firstrade clients benefit from
 
 Most US brokers stopped accepting new international clients years ago - quietly, without announcement, usually buried in a FAQ. Firstrade didn't. That's not marketing copy; it's a genuine operational difference that makes Firstrade relevant to a global audience other platforms have written off.
 
-The **International Account** is open to non-US citizens without a Social Security Number, provided your country of residence is on Firstrade's approved list. That list currently includes 28 countries: Germany, the UK, China, Singapore, Hong Kong, Taiwan, and others across Asia and Europe. The full list lives at firstrade.com/accounts/international - check it before you start an application, because it does change.
+The **International Account** is open to non-US citizens without a Social Security Number, provided your country of residence is on Firstrade's approved list. That list currently includes 28 countries: Germany, the [UK](/us-investing/invest-us-stocks-uk), China, Singapore, Hong Kong, Taiwan, and others across Asia and Europe. The full list lives at firstrade.com/accounts/international - check it before you start an application, because it does change.
 
 Account opening is entirely online, takes around 15 minutes, and requires a passport upload for identity verification. Approval typically takes 1-2 business days. No minimum deposit is required. International deposits come via wire transfer and are available for trading as soon as they post, typically within 1-2 business days of sending.
 
@@ -113,7 +113,7 @@ Directly from Firstrade's pricing page, with a base rate of 11.00% as of Decembe
 | $500,000 - $999,999 | 8.60% |
 | $1,000,000+ | 8.00% |
 
-Interactive Brokers charges around 5-6% on similar balances. On a $50,000 margin position, the difference between 11.25% and 5.5% costs roughly $2,875 per year. Firstrade is simply not the right tool for investors who use leverage.
+[Interactive Brokers](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors) charges around 5-6% on similar balances. On a $50,000 margin position, the difference between 11.25% and 5.5% costs roughly $2,875 per year. Firstrade is simply not the right tool for investors who use leverage.
 
 One more number worth knowing: cash balances earn a flat 0.15% across all tiers. Money market rates in 2026 are meaningfully higher than that. If you're holding significant uninvested cash, you're leaving real yield on the table.
 
@@ -129,7 +129,7 @@ This section is the one most international investors don't read carefully enough
 
 ### The W-8BEN Form
 
-Every non-US investor at Firstrade must file a **Form W-8BEN**. It does two things: it certifies your non-US status, which in most cases exempts you from US capital gains tax on stock sales; and it allows you to claim a reduced dividend withholding rate under your home country's tax treaty with the US.
+Every non-US investor at Firstrade must file a **Form [W-8BEN](/taxes/w8ben-form-non-us-investors)**. It does two things: it certifies your non-US status, which in most cases exempts you from US capital gains tax on stock sales; and it allows you to claim a reduced dividend withholding rate under your home country's tax treaty with the US.
 
 The form is valid for three calendar years from the date signed. If it lapses without renewal, Firstrade will withhold **30% on dividends and interest** and **24% on sale proceeds**. Firstrade sends renewal reminders, but it's your responsibility to act on them. Missing the renewal is an expensive mistake that's entirely avoidable.
 
@@ -282,7 +282,7 @@ Before publishing:
 Internal linking:
 - Link "Interactive Brokers" in the comparison table to your IBKR review
 - Link from your "best brokers for international investors" roundup
-- Link from any W-8BEN or US withholding tax explainer articles
+- Link from any W-8BEN or US [withholding tax](/taxes/taxes-us-dividends-foreign-investors) explainer articles
 - Link from options trading guides
 
 SEO:

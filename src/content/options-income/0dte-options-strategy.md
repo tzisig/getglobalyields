@@ -1,4 +1,5 @@
 ---
+slug: 0dte-options-strategy
 title: "0DTE Options Strategy: High Risk, High Reward (2026 Guide)"
 description: "Everything serious traders need to know about 0DTE options in 2026. Strategies, real statistics, Greeks, the PDT rule change, and how to manage risk before it manages you."
 pubDate: 2026-05-23
@@ -15,7 +16,7 @@ tags:
   - "iron condor 0DTE"
   - "credit spread 0DTE"
   - "0DTE butterfly strategy"
-heroImage: "/images/blog/0dte-options-strategy.webp"
+heroImage: "/images/blog/options-income/0dte-options-strategy.webp"
 draft: false
 readingTime: "13 min read"
 featured: true
@@ -205,3 +206,4 @@ The traders who survive 0DTE long-term are not the ones who are right most often
 > **This article is for informational purposes only and does not constitute financial or investment advice. Options trading involves significant risk of loss. 0DTE options are complex instruments not suitable for all investors. Always consult a licensed financial adviser before trading options.**
 
 *Last updated: May 2026*
+

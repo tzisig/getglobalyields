@@ -1,4 +1,5 @@
 ---
+slug: best-high-yield-etfs-2026
 title: "Best High-Yield ETFs for Income Investors in 2026"
 description: "A data-driven guide to the best high-yield ETFs in 2026. Covers covered call funds, dividend ETFs, and high-yield bonds - with verified yields, expense ratios, benchmark comparisons, tax mechanics, and honest risk analysis for international investors."
 pubDate: 2026-05-24
@@ -15,7 +16,7 @@ tags:
   - "dividend etf international investors"
   - "NAV erosion covered call"
   - "ELN equity linked notes"
-heroImage: "/images/blog/best-high-yield-etfs-2026.webp"
+heroImage: "/images/blog/strategies/best-high-yield-etfs-2026.webp"
 draft: false
 readingTime: "15 min read"
 featured: true
@@ -38,7 +39,7 @@ This article covers eight ETFs across three structural categories. The data is v
 
 Understanding the mechanics before comparing yields is not optional - it changes every conclusion.
 
-**Covered call ETFs** hold equities and sell call options against those positions. The premiums received are paid out as monthly distributions. The structural tradeoff is capped upside: when the market rallies strongly, call sellers forgo gains above the strike price. In flat, moderately rising, or declining markets, the premium income provides meaningful return advantage. In strong bull markets, these funds consistently lag a plain index fund on total return.
+**[Covered call](/options-income/selling-covered-calls-tqqq) ETFs** hold equities and sell call options against those positions. The premiums received are paid out as monthly distributions. The structural tradeoff is capped upside: when the market rallies strongly, call sellers forgo gains above the strike price. In flat, moderately rising, or declining markets, the premium income provides meaningful return advantage. In strong bull markets, these funds consistently lag a plain index fund on total return.
 
 **Dividend equity ETFs** own stocks with a history of paying and growing dividends. The current yield is lower - typically 2-4% - but the distributions come from real corporate earnings rather than option premiums or capital. NAV tends to grow alongside the underlying businesses. Dividend growth compounds the yield-on-cost over time.
 
@@ -265,7 +266,7 @@ Vanguard has announced a competing high-yield corporate bond ETF (VCHY) for laun
 
 Non-U.S. investors face a specific cost that materially affects net yield calculations.
 
-The U.S. default withholding tax on dividends and distributions paid to foreign investors is 30%. Under a bilateral tax treaty, this rate is typically reduced to 15% for eligible countries. The treaty rate applies only if the investor files a W-8BEN form with their broker. Without it, the full 30% applies by default.
+The U.S. default [withholding tax](/taxes/taxes-us-dividends-foreign-investors) on dividends and distributions paid to foreign investors is 30%. Under a bilateral tax treaty, this rate is typically reduced to 15% for eligible countries. The treaty rate applies only if the investor files a [W-8BEN](/taxes/w8ben-form-non-us-investors) form with their broker. Without it, the full 30% applies by default.
 
 **The ELN complication:** JEPI and JEPQ distributions are classified as ordinary income from debt instruments rather than as qualified dividends. The treaty rate reduction may apply differently depending on the investor's jurisdiction and the specific treaty language. This is not a theoretical concern - in some treaty structures, interest income receives different treatment than dividend income. Confirm this specific point with a local tax advisor before assuming the 15% treaty rate applies to JEPI/JEPQ in full.
 
@@ -336,3 +337,4 @@ The goal is not the highest number in the yield column. It is the most durable i
 ---
 
 *All yield, AUM, and expense ratio data verified as of May 2026. Past performance does not guarantee future results. This article is for informational and educational purposes only and does not constitute investment advice. Consult a qualified financial or tax advisor before making investment decisions.*
+

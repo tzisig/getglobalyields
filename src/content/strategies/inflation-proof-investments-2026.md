@@ -15,7 +15,7 @@ tags:
   - "real assets investing"
   - "infrastructure stocks inflation"
 slug: inflation-proof-investments-2026
-heroImage: "/images/blog/inflation-proof-investments-2026.webp"
+heroImage: "/images/blog/strategies/inflation-proof-investments-2026.webp"
 draft: false
 readingTime: "14 min read"
 featured: false
@@ -81,7 +81,7 @@ For US investors with a one-to-five year horizon who want a simple, liquid, gove
 
 ### UK Index-Linked Gilts
 
-For UK investors and expats with GBP exposure, index-linked gilts (ILGs) are the sterling equivalent of TIPS. The UK was one of the earliest developed economies to issue inflation-indexed government bonds, and the market is deep and liquid.
+For [UK](/us-investing/invest-us-stocks-uk) investors and expats with GBP exposure, index-linked gilts (ILGs) are the sterling equivalent of TIPS. The UK was one of the earliest developed economies to issue inflation-indexed government bonds, and the market is deep and liquid.
 
 The current picture as of late May 2026: the 10-year nominal gilt yields 4.86% - down from a peak of 5.07–5.10% on May 12, the highest level since July 2008. The 10-year index-linked gilt offers a real yield of 1.65% above RPI (as of May 12; not yet updated for late May), with RPI currently running at 4.1%. The implied breakeven rate sits at 3.42%.
 
@@ -97,7 +97,7 @@ One structural point worth knowing: UK index-linked gilts are indexed to RPI (Re
 
 ### German Inflation-Linked Bonds (Bundesanleihen)
 
-For euro-area investors and expats with EUR liabilities, German inflation-linked federal bonds are the sovereign equivalent of TIPS within the eurozone. Both the principal and coupon are indexed to the eurozone HICP (Harmonised Index of Consumer Prices, excluding tobacco), calculated by Eurostat.
+For euro-area investors and expats with EUR liabilities, [German](/us-investing/invest-us-stocks-germany) inflation-linked federal bonds are the sovereign equivalent of TIPS within the eurozone. Both the principal and coupon are indexed to the eurozone HICP (Harmonised Index of Consumer Prices, excluding tobacco), calculated by Eurostat.
 
 Four inflation-linked German federal bonds remain in issue, with a total outstanding volume of €47.05 billion. Individual bond real yields as of early May 2026 are not publicly available due to very thin trading volume - the German ILB market traded only €58 billion in 2024, falling to just 1% of total federal securities turnover. The best available proxy for EUR inflation-linked real yields is the ECB's eurozone aggregate: as of February 10, 2026, the 10-year eurozone real yield stood at 0.74% and the 10-year eurozone breakeven at 2.06%.
 
@@ -112,7 +112,7 @@ These real yields are considerably lower than the 1.65% available on UK index-li
 
 **Two structural points to understand before investing.** First, Germany stopped issuing new inflation-linked bonds in November 2023 and will not reopen existing series. The four current issues will trade until maturity, but the market will not grow, and secondary market liquidity is already thin. Second, the 10-year Bund nominal yield reached approximately 3.05–3.20% in May 2026 - its highest level since 2011 - implying market-priced eurozone inflation expectations of roughly 2.3–2.5% at the 10-year horizon, above the ECB's 2% target.
 
-**Access for non-US investors:** Direct bond purchase through IBKR or Saxo is the cleanest route for large allocations. For smaller allocations or broader eurozone inflation-linked exposure, Amundi Euro Government Inflation-Linked Bond UCITS ETF (LYQ7, LU1650491282, accumulating) and its distributing share class (LU1650491795) both trade on Xetra and are confirmed active as of May 2026. These funds hold a basket of eurozone inflation-linked sovereigns, not just German Bunds.
+**Access for non-US investors:** Direct bond purchase through [IBKR](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors) or [Saxo](/best-brokers/saxo-bank-review-2026) is the cleanest route for large allocations. For smaller allocations or broader eurozone inflation-linked exposure, Amundi Euro Government Inflation-Linked Bond UCITS ETF (LYQ7, LU1650491282, accumulating) and its distributing share class (LU1650491795) both trade on Xetra and are confirmed active as of May 2026. These funds hold a basket of eurozone inflation-linked sovereigns, not just German Bunds.
 
 *Sources: Deutsche Finanzagentur annual report 2024; ECB/Bank of Greece Inflation Monitor (Feb 10, 2026); Trading Economics (May 26, 2026).*
 

@@ -1,4 +1,5 @@
 ---
+slug: sell-puts-market-crash
 title: "How to Sell Puts During a Market Crash (2026 Guide)"
 description: "A professional guide to selling put options during market crashes - VIX, IV Rank, strike selection, position sizing, and the risks most traders ignore."
 pubDate: 2026-05-24
@@ -14,7 +15,7 @@ tags:
   - "IV rank options"
   - "put selling crash strategy"
   - "options income investing"
-heroImage: "/images/blog/sell-puts-market-crash.webp"
+heroImage: "/images/blog/options-income/sell-puts-market-crash.webp"
 draft: false
 readingTime: "14 min read"
 featured: false
@@ -22,7 +23,7 @@ featured: false
 
 <!-- INTERNAL LINKS: Link from options basics guide, VIX explainer, credit spreads guide -->
 
-On April 8, 2025, the S&P 500 was down more than 18% from its February highs. The VIX hit 52. Every financial headline was catastrophic. And a small group of options traders was quietly selling puts at premiums they had not seen since March 2020 - collecting income that in normal markets would take six months to accumulate, in a single trade.
+On April 8, 2025, the S&P 500 was down more than 18% from its February highs. The VIX hit 52. Every financial headline was catastrophic. And a small group of options traders was quietly [selling puts](/options-income/cash-secured-puts-high-iv) at premiums they had not seen since March 2020 - collecting income that in normal markets would take six months to accumulate, in a single trade.
 
 That is the opportunity that market crashes create for put sellers. It is also where most traders blow up their accounts.
 
@@ -34,7 +35,7 @@ This guide covers both sides: how to structure put sales during a crash to captu
 
 This guide is for options traders who already understand the basics of selling puts and want a specific framework for high-volatility, high-fear environments. If you have never sold a put before, start with normal market conditions first - a crash is the worst possible classroom.
 
-It is also relevant for non-US investors, including Israelis trading US options through IBKR, where currency exposure adds a layer that most English-language guides ignore entirely.
+It is also relevant for non-US investors, including Israelis trading US options through [IBKR](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors), where currency exposure adds a layer that most English-language guides ignore entirely.
 
 **This guide is not for:** complete options beginners, traders using margin they do not fully understand, or anyone looking for a get-rich-quick framework. Crash put selling done wrong is one of the fastest ways to lose a large amount of money in a short time.
 
@@ -308,7 +309,7 @@ The strategy mechanics are identical globally. What differs is the platform, cur
 
 ### Broker Access
 
-Most non-US investors sell puts through Interactive Brokers (IBKR Pro). It is the dominant platform for international options traders for good reason: full access to SPX, SPY, QQQ, and individual US options, professional-grade tools, and the lowest FX conversion cost available - approximately $2 per $100,000 converted. Israeli investors can fund IBKR accounts directly from Israeli bank accounts in ILS, which IBKR converts to USD at near-spot rates.
+Most non-US investors sell puts through Interactive Brokers (IBKR Pro). It is the dominant platform for international options traders for good reason: full access to SPX, SPY, QQQ, and individual US options, professional-grade tools, and the lowest FX conversion cost available - approximately $2 per $100,000 converted. [Israeli](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026) investors can fund IBKR accounts directly from Israeli bank accounts in ILS, which IBKR converts to USD at near-spot rates.
 
 ### The Currency Layer (ILS/USD)
 
@@ -320,7 +321,7 @@ Practical approaches: some traders size their US options positions with the curr
 
 ### Israeli Tax Treatment (25%)
 
-Options premium income - and capital gains from closing options positions early - are subject to Israeli capital gains tax at 25% for Israeli residents. This applies to profits on US options traded through international brokers. Losses can offset gains across the same tax year. Israel has a tax treaty with the US, so there is no US withholding on options income for Israeli residents, but Israeli tax obligations apply in full.
+Options premium income - and capital gains from closing options positions early - are subject to Israeli capital gains tax at 25% for Israeli residents. This applies to profits on US options traded through international brokers. Losses can offset gains across the same tax year. Israel has a tax treaty with the US, so there is no US withholding on options income for Israeli residents, but [Israeli tax](/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026) obligations apply in full.
 
 Consult a tax advisor familiar with both Israeli and US securities taxation before trading US options from Israel - the interaction between treaty provisions and Israeli reporting requirements requires specific guidance.
 
@@ -335,7 +336,7 @@ It can be, if you sell too early and without proper sizing. The strategy works w
 Most experienced put sellers become more active above VIX 25-30, where premiums are meaningfully elevated relative to normal. Above VIX 40, premiums are exceptional but require proportionally more caution on sizing and strike selection.
 
 **What happens if I get assigned during a crash?**
-If you sold a cash-secured put and are assigned, you buy the shares at your strike price minus the premium received. Your effective cost is below the current market price, and if the underlying is a quality asset (SPY, a blue-chip stock), you now hold it at a discount. Many experienced put sellers treat assignment as a natural outcome and then sell covered calls on the assigned position to continue generating income.
+If you sold a cash-secured put and are assigned, you buy the shares at your strike price minus the premium received. Your effective cost is below the current market price, and if the underlying is a quality asset (SPY, a blue-chip stock), you now hold it at a discount. Many experienced put sellers treat assignment as a natural outcome and then sell [covered calls](/options-income/selling-covered-calls-tqqq) on the assigned position to continue generating income.
 
 **Should I use credit spreads instead of naked puts during a crash?**
 For most traders, yes. Credit spreads cap your maximum loss and remove the risk of a catastrophic gap-down destroying your account. You collect less premium, but defined risk is worth the tradeoff in an environment where large overnight moves are common.
@@ -363,3 +364,4 @@ The next crash will come. The traders who prepared in advance - who practiced in
 ---
 
 *This article is for informational and educational purposes only and does not constitute financial or investment advice. Options trading involves substantial risk of loss. Consult a licensed financial advisor before implementing any options strategy.*
+

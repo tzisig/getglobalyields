@@ -17,7 +17,7 @@ tags:
   - "Sparerpauschbetrag 2026"
   - "Teilfreistellung"
 slug: how-to-invest-in-us-stocks-from-germany
-heroImage: "/images/blog/invest-us-stocks-germany.webp"
+heroImage: "/images/blog/us-investing/invest-us-stocks-germany.webp"
 draft: false
 readingTime: "13 min read"
 featured: true
@@ -26,10 +26,10 @@ rating: 4.9
 
 <!--
 PAGE PLACEMENT INSTRUCTIONS
-- File location: src/content/blog/how-to-invest-in-us-stocks-from-germany.md
+- File location: src/content/blog/how-to-invest-in-us-stocks-from-[germany](/us-investing/invest-us-stocks-germany).md
 - Hero image: /public/images/blog/invest-us-stocks-germany.webp
 - Feature on: Country Guides category page, Investing Guides category page
-- Internal links embedded in body: Best Brokers for International Investors, IBKR Review, Saxo Bank Review
+- Internal links embedded in body: Best Brokers for International Investors, [IBKR](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors) Review, [Saxo Bank](/best-brokers/saxo-bank-review-2026) Review
 - Add JSON-LD FAQ schema using the Q&A block at the bottom of this file
 - Related posts widget: "How to Invest $100K", "Best ETFs for European Investors", "IBKR Review 2026"
 -->
@@ -154,7 +154,7 @@ If he wants specifically US equity and will manage international allocation sepa
 
 Lukas decides: CSPX for his US core, VWCE for his monthly savings plan. Simple, globally diversified, fully accumulating.
 
-**A note on synthetic ETFs.** Some funds - notably Xtrackers' XDWD - use swap-based replication rather than physically holding the underlying stocks. Synthetic ETFs can be marginally more tax-efficient because they avoid withholding tax on dividends at the fund level. The trade-off is counterparty risk, though UCITS rules cap swap exposure at 10% of NAV. Both structures are legitimate. Most long-term investors use physical ETFs for simplicity.
+**A note on synthetic ETFs.** Some funds - notably Xtrackers' XDWD - use swap-based replication rather than physically holding the underlying stocks. Synthetic ETFs can be marginally more tax-efficient because they avoid [withholding tax](/taxes/taxes-us-dividends-foreign-investors) on dividends at the fund level. The trade-off is counterparty risk, though UCITS rules cap swap exposure at 10% of NAV. Both structures are legitimate. Most long-term investors use physical ETFs for simplicity.
 
 ---
 
@@ -193,7 +193,7 @@ Lukas opens two accounts: Trade Republic for his monthly €500 VWCE savings pla
 
 ## Step 5: The W-8BEN Form - Do Not Skip This
 
-If you buy US individual stocks - not UCITS ETFs, but direct shares in Apple, Microsoft, or any US company - dividends are subject to a 30% US withholding tax by default. The US-Germany tax treaty reduces this to **15%**, but only if you have certified your non-US status by submitting a W-8BEN form to your broker.
+If you buy US individual stocks - not UCITS ETFs, but direct shares in Apple, Microsoft, or any US company - dividends are subject to a 30% US withholding tax by default. The US-[Germany tax](/taxes/us-germany-tax-treaty-investors) treaty reduces this to **15%**, but only if you have certified your non-US status by submitting a [W-8BEN](/taxes/w8ben-form-non-us-investors) form to your broker.
 
 Without the form: 30% withheld on every dividend. With it: 15%. On a €3,000 annual dividend from a US stock portfolio, that is €450 in unnecessary annual tax. The form takes five minutes.
 

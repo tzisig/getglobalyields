@@ -15,7 +15,7 @@ tags:
   - "currency risk investing"
   - "best brokers expats"
 slug: expat-financial-planning-managing-investments-across-borders
-heroImage: "/images/blog/expat-financial-planning.webp"
+heroImage: "/images/blog/us-investing/expat-financial-planning.webp"
 draft: false
 readingTime: "11 min read"
 featured: false
@@ -35,8 +35,8 @@ Hero image: World map with financial overlay, or a professional at a laptop
             Dimensions: 1200x630px, under 100KB
 
 Internal links TO add:
-  - From your IBKR review → link to this article (anchor: "managing investments as an expat")
-  - From your Saxo Bank review → link to this article (anchor: "expat broker selection")
+  - From your [IBKR](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors) review → link to this article (anchor: "managing investments as an expat")
+  - From your [Saxo Bank](/best-brokers/saxo-bank-review-2026) review → link to this article (anchor: "expat broker selection")
   - From this article → link to your IBKR review and Saxo review (already placed below)
 
 Schema: Article (already covered by your global schema setup)
@@ -90,7 +90,7 @@ The OBBBA also raised the US federal estate tax exemption to $15 million per ind
 
 ### The PFIC Problem - The Most Expensive Mistake US Expats Make
 
-A Passive Foreign Investment Company (PFIC) is any non-US fund-like entity where at least 75% of gross income is passive, or at least 50% of assets produce passive income. In practice, almost every non-US mutual fund and ETF qualifies - including the ones your local bank or financial adviser in your country of residence will enthusiastically recommend.
+A Passive Foreign Investment Company ([PFIC](/taxes/pfic-rules-international-investors)) is any non-US fund-like entity where at least 75% of gross income is passive, or at least 50% of assets produce passive income. In practice, almost every non-US mutual fund and ETF qualifies - including the ones your local bank or financial adviser in your country of residence will enthusiastically recommend.
 
 The key point that catches people out: PFIC classification is based on where the fund is legally domiciled, not what it holds. Vanguard's S&P 500 ETF (VTI), registered in the US, is not a PFIC. Vanguard's S&P 500 UCITS ETF (VUSA), registered in Ireland, is a PFIC - even though both track the same index and hold the same underlying stocks.
 
@@ -104,7 +104,7 @@ That rule applies strictly to US persons. For the rest of the world - the majori
 
 ## For Non-US Expats: The Irish UCITS Advantage
 
-Non-US expats in most of the world sit in the opposite position from US persons - and Irish UCITS ETFs are among the most tax-efficient structures available to them. When a US company pays a dividend, it first hits withholding tax at the source country level (the US), then potentially at the fund domicile level, then at the investor level.
+Non-US expats in most of the world sit in the opposite position from US persons - and Irish UCITS ETFs are among the most tax-efficient structures available to them. When a US company pays a dividend, it first hits [withholding tax](/taxes/taxes-us-dividends-foreign-investors) at the source country level (the US), then potentially at the fund domicile level, then at the investor level.
 
 For an investor in a country without a US tax treaty using a US-domiciled ETF: the dividend faces 30% US withholding at the fund level. For the same investor using an Irish-domiciled UCITS ETF: the US-Ireland tax treaty reduces that first layer to 15%. Ireland then charges 0% withholding on distributions to non-Irish residents. The difference is 15 percentage points of every dividend, every year, automatically - before the investor's home country tax treatment even enters the picture.
 
@@ -139,7 +139,7 @@ Where they consistently fail: the product has been one of the most systematicall
 
 If an adviser recommends an offshore bond: ask for a full fee breakdown in writing, including their upfront commission, the annual management charge, the fund fees, and any policy charges. Then model the compound cost over your expected holding period against a simple direct brokerage account. The comparison is often clarifying.
 
-For US persons: offshore bonds provide essentially no tax benefit due to the worldwide taxation system and PFIC considerations. The structure is primarily relevant for UK, EU, and non-US expats.
+For US persons: offshore bonds provide essentially no tax benefit due to the worldwide taxation system and PFIC considerations. The structure is primarily relevant for [UK](/us-investing/invest-us-stocks-uk), EU, and non-US expats.
 
 ---
 
@@ -169,11 +169,11 @@ The most important criterion for expats is not the commission schedule. It's whe
 
 The honest caveat: the platform is genuinely complex. If you want something that feels like a consumer app, IBKR is not it. For investors managing serious cross-border portfolios, that complexity is the trade-off for capability and cost efficiency - and most find it worthwhile.
 
-For a more detailed breakdown of IBKR's fee structure and account setup, see our [Interactive Brokers review](/blog/interactive-brokers-review-2026/).
+For a more detailed breakdown of IBKR's fee structure and account setup, see our [Interactive Brokers review](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors).
 
 **Saxo Bank** serves a different part of the market - larger portfolios where service quality and platform experience matter as much as the fee schedule. Access to 71,000+ instruments across 50+ exchanges, institutional-quality research, and a tiered account structure (Classic, Platinum, VIP) where better pricing unlocks at higher deposit levels. The fees are higher than IBKR, which matters less at the portfolio sizes Saxo is designed for. It is a strong choice for investors who prioritize comprehensive market access and direct client service over absolute cost minimization.
 
-Full details are in our [Saxo Bank review](/blog/saxo-bank-review-2026/).
+Full details are in our [Saxo Bank review](/best-brokers/saxo-bank-review-2026).
 
 What both platforms share: genuine cross-border functionality, multi-currency accounts, and a realistic path to maintaining your account when your country of residence changes. That reliability is worth more to an expat investor than a marginally lower commission structure on a platform that might restrict your account the moment you update your address.
 
@@ -253,7 +253,7 @@ Everything else - asset allocation, return optimization, yield maximization - wo
 
 ---
 
-*Found this useful? Our [Interactive Brokers review](/blog/interactive-brokers-review-2026/) and [Saxo Bank review](/blog/saxo-bank-review-2026/) go deeper on the two platforms most recommended for internationally mobile investors.*
+*Found this useful? Our [Interactive Brokers review](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors) and [Saxo Bank review](/best-brokers/saxo-bank-review-2026) go deeper on the two platforms most recommended for internationally mobile investors.*
 
 ---
 

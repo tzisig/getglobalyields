@@ -1,4 +1,5 @@
 ---
+slug: passive-income-tqqq-options
 title: "Generating Passive Income from TQQQ Options (2026 Guide)"
 description: "Can you generate reliable passive income from TQQQ options? An honest look at covered calls, cash-secured puts, and the wheel strategy on a 3x leveraged ETF - with real numbers and the risks most guides skip."
 pubDate: 2026-05-23
@@ -14,13 +15,13 @@ tags:
   - "TQQQ cash secured puts"
   - "3x leveraged ETF income"
   - "TQQQ risk 2026"
-heroImage: "/images/blog/passive-income-tqqq-options.webp"
+heroImage: "/images/blog/options-income/passive-income-tqqq-options.webp"
 draft: false
 readingTime: "12 min read"
 featured: false
 ---
 
-The pitch sounds compelling. TQQQ's implied volatility regularly sits between 55% and 75%. That means covered call premiums can run 3-5% per month on the position size. Annualized, the numbers look extraordinary - 40%, 50%, sometimes more.
+The pitch sounds compelling. TQQQ's implied volatility regularly sits between 55% and 75%. That means [covered call](/options-income/selling-covered-calls-tqqq) premiums can run 3-5% per month on the position size. Annualized, the numbers look extraordinary - 40%, 50%, sometimes more.
 
 What the pitch leaves out: in 2022, TQQQ fell 81.7%. The maximum drawdown took 486 trading days to recover. No amount of covered call premium collected during that period offset the capital destruction. A trader who entered at the January 2022 high and sold covered calls every week for the next year still lost the majority of their investment.
 
@@ -85,9 +86,9 @@ Selling cash-secured puts on TQQQ means accepting the obligation to buy 100 shar
 
 The income is real. The risk is also real, and it is different in character from a covered call on a quality stock.
 
-The fundamental problem: a cash-secured put strategy on TQQQ only makes sense if you are genuinely comfortable owning TQQQ at the strike price. With a normal equity, this is a reasonable proposition - buying a quality company at a 10% discount to current price is often an acceptable outcome.
+The fundamental problem: a [cash-secured put](/options-income/cash-secured-puts-high-iv) strategy on TQQQ only makes sense if you are genuinely comfortable owning TQQQ at the strike price. With a normal equity, this is a reasonable proposition - buying a quality company at a 10% discount to current price is often an acceptable outcome.
 
-With TQQQ, the question is more complicated. If TQQQ falls 30% and you are assigned at $38.50 on a share currently at $55, you now own a 3x leveraged instrument at the beginning of what might be a sustained downturn. The next 20% decline in QQQ becomes a 60% decline in your assigned position. The Wheel strategy - selling covered calls against the assigned shares - does not rescue you. At $27 per share, the covered call premiums are much smaller in dollar terms, and the underlying continues to decay faster than premium covers it.
+With TQQQ, the question is more complicated. If TQQQ falls 30% and you are assigned at $38.50 on a share currently at $55, you now own a 3x leveraged instrument at the beginning of what might be a sustained downturn. The next 20% decline in QQQ becomes a 60% decline in your assigned position. The [Wheel strategy](/options-income/wheel-strategy-tqqq) - selling covered calls against the assigned shares - does not rescue you. At $27 per share, the covered call premiums are much smaller in dollar terms, and the underlying continues to decay faster than premium covers it.
 
 This is what the Seeking Alpha analysis described as "collecting pennies in front of a steamroller." The metaphor is accurate. The premium is not commensurate with the tail risk.
 
@@ -146,9 +147,9 @@ Both structures share the essential advantage: your maximum loss is known at ent
 
 Most TQQQ content is written for US investors with US brokerage accounts. A few notes for those outside the US.
 
-TQQQ is listed on Nasdaq and is accessible through most international brokers that offer US market access, including Interactive Brokers, Moomoo, and similar platforms. Options on TQQQ are American-style and settle in USD.
+TQQQ is listed on Nasdaq and is accessible through most international brokers that offer US market access, including [Interactive Brokers](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors), Moomoo, and similar platforms. Options on TQQQ are American-style and settle in USD.
 
-Tax treatment of options premium from TQQQ varies by jurisdiction. In Israel, the 25% flat capital gains rate applies. In the UK, TQQQ options premium falls under CGT at 18%/24% depending on your rate. European investors should check local treatment of derivative income.
+Tax treatment of options premium from TQQQ varies by jurisdiction. In [Israel](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026), the 25% flat capital gains rate applies. In the [UK](/us-investing/invest-us-stocks-uk), TQQQ options premium falls under CGT at 18%/24% depending on your rate. European investors should check local treatment of derivative income.
 
 One additional consideration for non-US investors: TQQQ involves embedded currency risk. If you fund your account in AUD, GBP, or ILS and hold a leveraged USD position, an adverse currency move compounds the already significant volatility of the underlying. A 20% decline in TQQQ combined with a 5% adverse currency move is a 25% effective loss in your home currency before fees.
 
@@ -176,3 +177,4 @@ If covered call income on standard quality equities or index ETFs generates 12-1
 > **This article is for informational purposes only and does not constitute financial or investment advice. TQQQ is a complex leveraged ETF designed for short-term trading and is not suitable for all investors. Options trading involves significant risk of loss. Always consult a licensed financial adviser before trading leveraged instruments or options.**
 
 *Last updated: May 2026*
+

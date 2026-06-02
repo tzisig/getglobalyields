@@ -13,9 +13,9 @@ tags:
   - "leveraged etf recovery"
   - "options income tqqq"
   - "investing in tqqq from abroad"
-heroImage: "/images/blog/tqqq_recovery_light.webp"
-heroImageLight: "/images/blog/tqqq_recovery_light.webp"
-heroImageDark: "/images/blog/tqqq_recovery_dark.webp"
+heroImage: "/images/blog/case-study/tqqq_recovery_light.webp"
+heroImageLight: "/images/blog/case-study/tqqq_recovery_light.webp"
+heroImageDark: "/images/blog/case-study/tqqq_recovery_dark.webp"
 products: ["TQQQ", "Options"]
 slug: "from-minus-70-to-plus-492k-real-tqqq-recovery-case-study"
 draft: false
@@ -27,7 +27,7 @@ featured: false
 > **Key Stats:**
 > * **Asset:** TQQQ (ProShares UltraPro QQQ)
 > * **Duration:** Jan 2022 - April 2026 (Ongoing)
-> * **Strategy Type:** Wheel Strategy / Leveraged Long-Term Holding
+> * **Strategy Type:** [Wheel Strategy](/options-income/wheel-strategy-tqqq) / Leveraged Long-Term Holding
 
 > [!IMPORTANT]
 > **The Short Version**
@@ -37,7 +37,7 @@ featured: false
 > *   **Added collateral:** $40,000 (Feb 2023)
 > *   **Total invested:** $140,000
 > *   **Current value:** $492,000 (over +250%) - April 2026
-> *   **Method:** TQQQ + Covered Calls + Short Puts
+> *   **Method:** TQQQ + [Covered Calls](/options-income/selling-covered-calls-tqqq) + Short Puts
 > 
 > *This is not a success story. It's a reconstruction after a near wipeout.*
 
@@ -78,7 +78,7 @@ At the bottom, I stopped trading and started thinking.
 
 ### Core position:
 *   Bought ~2,000 shares of TQQQ at ~$25
-*   Added $40,000 as cash collateral to support selling puts without broker margin
+*   Added $40,000 as cash collateral to support [selling puts](/options-income/cash-secured-puts-high-iv) without broker margin
 
 ### Layer 1: Covered Calls
 Sold calls continuously against shares.

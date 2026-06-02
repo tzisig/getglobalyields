@@ -1,4 +1,5 @@
 ---
+slug: compounding-returns-tqqq
 title: "Compounding Returns with TQQQ: Math vs Reality (2026)"
 description: "The real numbers behind TQQQ's 3x leverage promise - volatility decay, historical year-by-year returns, the 2022 drawdown, and who should actually hold it."
 pubDate: 2026-05-24
@@ -14,7 +15,7 @@ tags:
   - "TQQQ 2022 drawdown"
   - "3x leveraged ETF risk"
   - "TQQQ international investors"
-heroImage: "/images/blog/compounding-returns-tqqq.webp"
+heroImage: "/images/blog/strategies/compounding-returns-tqqq.webp"
 draft: false
 readingTime: "13 min read"
 featured: false
@@ -26,7 +27,7 @@ featured: false
 
 This guide is for investors who understand what TQQQ is and want an honest, numbers-first look at what long-term holding actually delivers - versus what the 3x promise implies on paper. If you are new to leveraged ETFs, read a QQQ primer first.
 
-This is also relevant for non-US investors, including Israelis trading TQQQ through IBKR, where currency exposure and local tax treatment add layers the standard coverage misses.
+This is also relevant for non-US investors, including Israelis trading TQQQ through [IBKR](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors), where currency exposure and local tax treatment add layers the standard coverage misses.
 
 ---
 
@@ -190,7 +191,7 @@ There is no "correct" allocation. The right size is the one you can hold through
 
 ## For Non-US Investors: TQQQ Through IBKR
 
-TQQQ is available to international investors through Interactive Brokers (IBKR), which is the standard platform for non-US traders accessing US-listed ETFs. The product trades on NASDAQ and is fully accessible to Israeli and other international investors with a standard IBKR account.
+TQQQ is available to international investors through Interactive Brokers (IBKR), which is the standard platform for non-US traders accessing US-listed ETFs. The product trades on NASDAQ and is fully accessible to [Israeli](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026) and other international investors with a standard IBKR account.
 
 ### The Currency Layer
 
@@ -202,7 +203,7 @@ This does not make TQQQ unsuitable for Israeli investors. It means the currency 
 
 ### Israeli Tax Treatment
 
-Capital gains from TQQQ - whether from selling the ETF at a profit or from distributions - are subject to Israeli capital gains tax at 25% for Israeli resident individuals. This applies to gains realized through international brokers including IBKR. Losses can offset gains within the same tax year. There is no US withholding tax on capital gains for non-US investors under the Israel-US tax treaty, but Israeli reporting and payment obligations apply in full.
+Capital gains from TQQQ - whether from selling the ETF at a profit or from distributions - are subject to Israeli capital gains tax at 25% for Israeli resident individuals. This applies to gains realized through international brokers including IBKR. Losses can offset gains within the same tax year. There is no US [withholding tax](/taxes/taxes-us-dividends-foreign-investors) on capital gains for non-US investors under the Israel-US tax treaty, but Israeli reporting and payment obligations apply in full.
 
 TQQQ pays a very small dividend yield (approximately 0.4%), which may be subject to a 15% US withholding rate under the treaty rather than 30%. Consult a tax advisor familiar with both Israeli securities law and US ETF taxation before taking a significant position.
 
@@ -264,3 +265,4 @@ Size it accordingly. Understand what you own. The math does not care which inves
 ---
 
 *This article is for informational and educational purposes only and does not constitute financial or investment advice. Leveraged ETFs involve substantial risk of loss. Past performance does not guarantee future results. Consult a licensed financial advisor before making investment decisions.*
+

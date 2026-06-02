@@ -14,9 +14,9 @@ tags:
   - "leveraged etf"
   - "portfolio recovery"
   - "real results"
-heroImage: "/images/blog/tqqq-recovery-chart.webp"
-heroImageLight: "/images/blog/light/tqqq-recovery-chart.webp"
-heroImageDark: "/images/blog/tqqq-recovery-chart.webp"
+heroImage: "/images/blog/case-study/tqqq-recovery-chart.webp"
+heroImageLight: "/images/blog/light/case-study/tqqq-recovery-chart.webp"
+heroImageDark: "/images/blog/case-study/tqqq-recovery-chart.webp"
 draft: false
 readingTime: "10 min read"
 featured: false
@@ -32,7 +32,7 @@ The portfolio collapse was swift and devastating:
 
 The mistakes were predictable and repeated across many traders:
 
-**Overleveraged options trading** — Using TQQQ as collateral for aggressive covered call positions without adequate capital reserves. One market reversal wiped out months of premium collection.
+**Overleveraged options trading** — Using TQQQ as collateral for aggressive [covered call](/options-income/selling-covered-calls-tqqq) positions without adequate capital reserves. One market reversal wiped out months of premium collection.
 
 **Emotional decisions** — Panic selling at the worst possible time, locking in losses instead of averaging down during the recovery phase.
 
@@ -80,5 +80,5 @@ The traders who survived 2022 weren't the ones who predicted the bounce correctl
 
 ### Internal Link Suggestions
 
-- TQQQ vs QQQ: Which Is Right for International Investors in 2026
+- [TQQQ vs QQQ](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026): Which Is Right for International Investors in 2026
 - How a TQQQ Income System Works: 3 Market Scenarios

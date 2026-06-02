@@ -1,4 +1,5 @@
 ---
+slug: best-broker-israeli-investors-us-markets
 title: "Best Brokers for Israeli Investors in US Markets (2026 Comparison)"
 description: "Compare the best brokers for Israeli investors trading US stocks, ETFs, and options. IBKR vs Saxo vs eToro — fees, FX costs, tax handling, and options access."
 pubDate: 2026-04-01
@@ -13,7 +14,7 @@ tags:
   - "ibkr vs etoro vs saxo"
   - "investing in us from israel"
   - "options trading broker israel"
-heroImage: "/images/blog/Brokers-for-Israeli-Investors.webp"
+heroImage: "/images/blog/taxes/Brokers-for-Israeli-Investors.webp"
 draft: false
 readingTime: "8 min read"
 featured: false
@@ -21,7 +22,7 @@ featured: false
 
 # **Finding the Best Broker in Israel for US Stocks (2026 Comparison)**
 
-When looking for the best broker in Israel for US stocks, ETFs, or options strategies, your biggest cost isn't commissions.
+When looking for the best broker in [Israel](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026) for US stocks, ETFs, or options strategies, your biggest cost isn't commissions.
 
 It's what I call "Hidden Tax Drag."
 
@@ -36,9 +37,9 @@ Small differences here can easily cost hundreds to thousands of dollars per year
 
 This comparison focuses on three popular platforms among Israeli investors:
 
-- Interactive Brokers (IBKR) 👉 [**Explore IBKR here**](https://getglobalyields.com/go/ibkr) _(affiliate link)_
-- Saxo Bank
-- eToro
+- [Interactive Brokers](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors) (IBKR) 👉 [**Explore IBKR here**](https://getglobalyields.com/go/ibkr) _(affiliate link)_
+- [Saxo Bank](/best-brokers/saxo-bank-review-2026)
+- [eToro](/best-brokers/etoro-review-2026)
 
 _⚠️ Important Disclaimer: Tax treatment depends on your personal situation and may vary by broker structure and jurisdiction. Always verify details with a qualified tax advisor._
 
@@ -64,7 +65,7 @@ _Best for: Active investors, options traders, portfolios above ~$10K–$25K_
 - Real-time Greeks
 - Low commissions
 
-_If you're using strategies like covered calls or cash-secured puts, this matters significantly._
+_If you're using strategies like [covered calls](/options-income/selling-covered-calls-tqqq) or cash-secured puts, this matters significantly._
 
 ### **Estate Tax — Important Note**
 
@@ -113,7 +114,7 @@ _Best for: Beginners, small accounts, passive investors_
 
 ### **Tax Handling — Important Nuance**
 
-For Israeli investors, eToro applies W-8BEN treaty rates (typically 25%) on dividends from shares held directly.
+For Israeli investors, eToro applies [W-8BEN](/taxes/w8ben-form-non-us-investors) treaty rates (typically 25%) on dividends from shares held directly.
 
 _⚠️ Important: eToro offers both real shares and CFDs. If you hold CFDs, you do not own the underlying security — the tax treatment is different and the 25% withholding may not apply in the same way. Always verify which product type you are holding._
 
@@ -121,7 +122,7 @@ _"Zero commission" does not mean free — you pay through spreads and pricing di
 
 ## **Comparison Table (Israel-Focused)**
 
-<table><thead><tr><th><p><strong>Feature</strong></p></th><th><p><strong>IBKR</strong></p></th><th><p><strong>Saxo Bank</strong></p></th><th><p><strong>eToro</strong></p></th></tr></thead><tbody><tr><td><p>US Dividend Tax</p></td><td><p><strong>25%</strong></p></td><td><p>25%</p></td><td><p>25% (shares)*</p></td></tr><tr><td><p>FX Conversion</p></td><td><p><strong>~0.002%</strong></p></td><td><p>~0.25%</p></td><td><p>Spread-based</p></td></tr><tr><td><p>Options Trading</p></td><td><p><strong>Full</strong></p></td><td><p>Limited</p></td><td><p>None</p></td></tr><tr><td><p>UCITS Access</p></td><td><p><strong>Yes</strong></p></td><td><p>Yes</p></td><td><p>No</p></td></tr><tr><td><p>Platform Level</p></td><td><p><strong>Advanced</strong></p></td><td><p>Advanced</p></td><td><p>Beginner</p></td></tr><tr><td><p>Best For</p></td><td><p><strong>All-around</strong></p></td><td><p>Stability</p></td><td><p>Entry-level</p></td></tr></tbody></table>
+<table><thead><tr><th><p><strong>Feature</strong></p></th><th><p><strong>IBKR</strong></p></th><th><p><strong>Saxo Bank</strong></p></th><th><p><strong>eToro</strong></p></th></tr></thead><tbody><tr><td><p>US [Dividend Tax](/taxes/taxes-us-dividends-foreign-investors)</p></td><td><p><strong>25%</strong></p></td><td><p>25%</p></td><td><p>25% (shares)*</p></td></tr><tr><td><p>FX Conversion</p></td><td><p><strong>~0.002%</strong></p></td><td><p>~0.25%</p></td><td><p>Spread-based</p></td></tr><tr><td><p>Options Trading</p></td><td><p><strong>Full</strong></p></td><td><p>Limited</p></td><td><p>None</p></td></tr><tr><td><p>UCITS Access</p></td><td><p><strong>Yes</strong></p></td><td><p>Yes</p></td><td><p>No</p></td></tr><tr><td><p>Platform Level</p></td><td><p><strong>Advanced</strong></p></td><td><p>Advanced</p></td><td><p>Beginner</p></td></tr><tr><td><p>Best For</p></td><td><p><strong>All-around</strong></p></td><td><p>Stability</p></td><td><p>Entry-level</p></td></tr></tbody></table>
 
 _\* eToro 25% applies to real shares only — see CFD note above._
 
@@ -181,6 +182,7 @@ Other platforms are valid — but involve trade-offs: higher costs, limited tool
 
 ## **Related Guides**
 
-- [TQQQ vs QQQ — Strategy Breakdown](https://getglobalyields.com/tqqq-vs-qqq-non-us-investors/)
-- [TQQQ Tax Guide for Non-US Investors](https://getglobalyields.com/tqqq-tax-non-us-investors/)
+- [TQQQ vs QQQ — Strategy Breakdown](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026)
+- [TQQQ Tax Guide for Non-US Investors](/taxes/tqqq-for-international-investors-tax-implications-2026)
 - [Full Case Study: From -70% to +$492K](https://getglobalyields.com/case-study/from-minus-70-to-plus-492k-real-tqqq-recovery-case-study/)
+

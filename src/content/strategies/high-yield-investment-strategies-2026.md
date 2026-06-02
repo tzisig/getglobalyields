@@ -1,4 +1,5 @@
 ---
+slug: high-yield-investment-strategies-2026
 title: "High-Yield Investment Strategies That Actually Work in 2026"
 description: "A honest, data-driven guide to high-yield investing in 2026 - REITs, BDCs, CLO ETFs, covered calls, and dividend stocks with verified current yields. What works, what is a yield trap, and how to build an income portfolio that lasts."
 pubDate: 2026-05-25
@@ -16,7 +17,7 @@ tags:
   - "yield trap"
   - "passive income investing"
   - "portfolio income strategy"
-heroImage: "/images/blog/high-yield-investment-strategies-2026.webp"
+heroImage: "/images/blog/strategies/high-yield-investment-strategies-2026.webp"
 draft: false
 readingTime: "15 min read"
 featured: true
@@ -58,7 +59,7 @@ We will follow Sofia through each strategy in this guide.
 | Equity REITs (diversified) | 4.0-6.5% | Moderate | High (established) |
 | CLO ETFs (investment-grade tranches) | 6.0-6.5% | Moderate | High |
 | Business Development Companies (BDCs) | 7-12% | Moderate-high | Moderate |
-| Covered calls on dividend stocks | 8-14% combined | Moderate-high | Variable |
+| [Covered calls](/options-income/selling-covered-calls-tqqq) on dividend stocks | 8-14% combined | Moderate-high | Variable |
 | Mortgage REITs (mREITs) | 12-20% | High-very high | Low-moderate |
 | High-yield junk bonds | 7-9% | High | Moderate |
 
@@ -97,7 +98,7 @@ Three equity REITs that consistently appear on quality-screened income lists as 
 
 **What makes an equity REIT a yield trap instead:** High-yielding REITs in sectors with structural headwinds - office space, regional malls - or with payout ratios that exceed funds from operations (FFO) are warning signs. A 9% yield from an office REIT in 2026 is almost certainly pricing in expected dividend cuts or NAV erosion.
 
-**The tax consideration for international investors:** Dividends from US REITs are subject to a 30% US withholding tax for non-US investors, typically reduced to 15% under tax treaties. Irish-domiciled REIT ETFs such as iShares Developed Markets Property Yield UCITS ETF (IWDP, expense ratio 0.59%) provide diversified global REIT exposure with better withholding tax treatment for European investors.
+**The tax consideration for international investors:** Dividends from US REITs are subject to a 30% US [withholding tax](/taxes/taxes-us-dividends-foreign-investors) for non-US investors, typically reduced to 15% under tax treaties. Irish-domiciled REIT ETFs such as iShares Developed Markets Property Yield UCITS ETF (IWDP, expense ratio 0.59%) provide diversified global REIT exposure with better withholding tax treatment for European investors.
 
 **Sofia's allocation:** She puts 20% of her portfolio (€80,000) into IWDP for broad global REIT exposure, targeting a blended yield of approximately 4.5% after withholding tax. Annual income from this portion: approximately €3,600.
 
@@ -146,7 +147,7 @@ A concrete example using Pfizer (PFE) as of May 2026. PFE carries a dividend yie
 
 The more important principle: only sell covered calls on stocks you would be equally comfortable holding without writing calls. The option income is additive, not the reason to own the position.
 
-**A note on tax treatment by jurisdiction.** Option premium income is taxed differently depending on where you live. US investors pay short-term capital gains rates on premium collected from expired or closed calls. European investors vary widely: in Germany, premiums fall under Abgeltungsteuer at 26.375%; in the UK, under CGT rules. Before implementing this strategy at scale, confirm the tax classification with a local advisor.
+**A note on tax treatment by jurisdiction.** Option premium income is taxed differently depending on where you live. US investors pay short-term capital gains rates on premium collected from expired or closed calls. European investors vary widely: in [Germany](/us-investing/invest-us-stocks-germany), premiums fall under Abgeltungsteuer at 26.375%; in the [UK](/us-investing/invest-us-stocks-uk), under CGT rules. Before implementing this strategy at scale, confirm the tax classification with a local advisor.
 
 **Sofia's allocation:** She selects three quality dividend-paying stocks she already holds and begins selling monthly covered calls 8-10% OTM against each. She targets approximately 1% per month in additional call premium. Combined income target: approximately 8% on this allocation. On €60,000, that is approximately €4,800 annually.
 
@@ -254,3 +255,4 @@ Depends on your time horizon. If you need income now - in or near retirement - a
 
 **How does the 4.1% HYSA rate change the calculus for high-yield investing?**
 It raises the hurdle significantly. When cash paid 0.5% in 2020, a 4% REIT yield offered 3.5% above the risk-free rate. At today's 4.1% cash rate, a 4% REIT offers negative spread versus cash. The strategies that remain compelling are those offering 5%+ with specific, understandable risks. That standard eliminates a large portion of what gets marketed as "high yield."
+

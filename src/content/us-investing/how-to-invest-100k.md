@@ -17,7 +17,7 @@ tags:
   - "VWCE"
   - "international investor portfolio"
 slug: how-to-invest-100k-step-by-step-guide
-heroImage: "/images/blog/how-to-invest-100k.webp"
+heroImage: "/images/blog/us-investing/how-to-invest-100k.webp"
 draft: false
 readingTime: "13 min read"
 featured: true
@@ -29,7 +29,7 @@ PAGE PLACEMENT INSTRUCTIONS
 - File location: src/content/blog/how-to-invest-100k-step-by-step-guide.md
 - Hero image: /public/images/blog/how-to-invest-100k.webp
 - Feature on: homepage "Featured Guides" section, Investing Guides category page
-- Internal links embedded in body: Best Brokers for International Investors, Saxo Bank Review, IBKR Review
+- Internal links embedded in body: Best Brokers for International Investors, [Saxo Bank](/best-brokers/saxo-bank-review-2026) Review, [IBKR](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors) Review
 - Add JSON-LD FAQ schema using the Q&A block at the bottom of this file
 - Related posts widget: "Best Brokers for International Investors", "Three-Fund Portfolio Explained", "Saxo Bank Review 2026"
 -->
@@ -93,7 +93,7 @@ All figures sourced from IRS Notice 2025-67 (November 13, 2025) and IRS Revenue 
 
 Marco does not have a 401(k). But the principle is identical: find your local tax-advantaged account, fill it before investing in taxable accounts, then deploy the rest.
 
-In the UK, that is the ISA - up to £20,000 annually, completely tax-free on growth and withdrawals. In Canada, the TFSA and RRSP. In Australia, the superannuation system. In Germany, the Sparerpauschbetrag exemption (€1,000 per year tax-free on investment income) is modest, but the broker-held depot offers some structural advantages. In the Netherlands, Marco uses Box 3 optimization - structuring holdings to minimize the deemed return calculation. Every jurisdiction is different. The question to ask is always the same: what is the most tax-sheltered place this money can live?
+In the [UK](/us-investing/invest-us-stocks-uk), that is the ISA - up to £20,000 annually, completely tax-free on growth and withdrawals. In [Canada](/us-investing/invest-us-stocks-canada), the TFSA and RRSP. In [Australia](/us-investing/invest-us-stocks-australia), the superannuation system. In [Germany](/us-investing/invest-us-stocks-germany), the Sparerpauschbetrag exemption (€1,000 per year tax-free on investment income) is modest, but the broker-held depot offers some structural advantages. In the Netherlands, Marco uses Box 3 optimization - structuring holdings to minimize the deemed return calculation. Every jurisdiction is different. The question to ask is always the same: what is the most tax-sheltered place this money can live?
 
 For self-employed investors outside the US in particular, this step often gets skipped because there is no payroll-based account forcing the behavior. Do not skip it.
 
@@ -148,7 +148,7 @@ On $100,000, the blended expense ratio of this portfolio costs roughly $40 per y
 
 ### For International Investors: Irish-Domiciled UCITS ETFs
 
-This is where the guide diverges most sharply. US-listed ETFs like VTI are subject to a 30% US withholding tax on dividends for non-US investors. Irish-domiciled UCITS ETFs solve this problem - they are structured to benefit from the US-Ireland tax treaty, which reduces US dividend withholding to 15%.
+This is where the guide diverges most sharply. US-listed ETFs like VTI are subject to a 30% US [withholding tax](/taxes/taxes-us-dividends-foreign-investors) on dividends for non-US investors. Irish-domiciled UCITS ETFs solve this problem - they are structured to benefit from the US-Ireland tax treaty, which reduces US dividend withholding to 15%.
 
 | Fund | Ticker | Coverage | Expense Ratio |
 |---|---|---|---|

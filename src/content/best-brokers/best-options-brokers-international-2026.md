@@ -14,7 +14,7 @@ tags:
   - "options broker non-US residents"
   - "options trading 2026"
 slug: best-options-brokers-international-traders-2026
-heroImage: "/images/blog/best-options-brokers-international-2026.webp"
+heroImage: "/images/blog/best-brokers/best-options-brokers-international-2026.webp"
 draft: false
 readingTime: "11 min read"
 featured: true
@@ -50,7 +50,7 @@ Before jumping into the list, here are the criteria that actually matter:
 
 ### 1. Interactive Brokers - The Overall Best
 
-Interactive Brokers remains the benchmark for international options traders in 2026. It supports clients from more countries than virtually any other broker, covers over 160 markets globally, and offers genuinely professional options tools.
+[Interactive Brokers](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors) remains the benchmark for international options traders in 2026. It supports clients from more countries than virtually any other broker, covers over 160 markets globally, and offers genuinely professional options tools.
 
 **Fees:** Under IBKR Pro's tiered pricing, US options start at $0.65 per contract, dropping to $0.50 once you exceed 10,000 contracts per month. If you use limit orders and route intelligently, you'll often pay below the base rate - or receive a rebate. For European stock options, the base execution fee is EUR 1.00 per contract, with exchange and clearing fees added on top.
 
@@ -64,11 +64,11 @@ Interactive Brokers remains the benchmark for international options traders in 2
 
 ### 2. tastytrade - Best for Options-First Traders (Select Countries)
 
-tastytrade was built specifically for options traders. The platform was designed by the founders of thinkorswim - the same people who built the tools that professional traders used at TD Ameritrade - and the product shows that origin clearly.
+[tastytrade](/best-brokers/tastytrade-review-2026) was built specifically for options traders. The platform was designed by the founders of thinkorswim - the same people who built the tools that professional traders used at TD Ameritrade - and the product shows that origin clearly.
 
 **Fees:** Options trades are charged at $1 per contract to open, with no closing fee. That one-way commission structure is meaningfully cheaper than competitors for traders who close positions frequently.
 
-**International access:** This is where it gets complicated. tastytrade does accept international clients from select countries, but the list has gaps. Canada is currently excluded (though they've been working on it). US citizens living abroad and foreign nationals with a US taxpayer number (SSN, ITIN, EIN) cannot open international accounts. The account opening process takes roughly a week and requires proof of foreign residency plus a valid government-issued ID.
+**International access:** This is where it gets complicated. tastytrade does accept international clients from select countries, but the list has gaps. [Canada](/us-investing/invest-us-stocks-canada) is currently excluded (though they've been working on it). US citizens living abroad and foreign nationals with a US taxpayer number (SSN, ITIN, EIN) cannot open international accounts. The account opening process takes roughly a week and requires proof of foreign residency plus a valid government-issued ID.
 
 **Platform:** Purpose-built for options. The interface surfaces probabilities, Greeks, and strategy mechanics in a way that matches how options traders actually think. The TradingView integration (launched in late 2024) makes it accessible from a charting environment many international traders already use.
 
@@ -78,7 +78,7 @@ tastytrade was built specifically for options traders. The platform was designed
 
 ### 3. Saxo Bank - Best for Europeans and Premium-Tier Clients
 
-Saxo Bank is regulated in 11 jurisdictions and accepts clients across Europe, the Middle East, and Asia - making it one of the most broadly accessible brokers for international traders who want a non-US-based option.
+[Saxo Bank](/best-brokers/saxo-bank-review-2026) is regulated in 11 jurisdictions and accepts clients across Europe, the Middle East, and Asia - making it one of the most broadly accessible brokers for international traders who want a non-US-based option.
 
 **Fees:** Saxo's options fees are tier-based. Classic account clients pay higher per-contract rates; Platinum and VIP tiers reduce costs meaningfully as trading volume increases. There are no minimum ticket fees on listed options. One important note: Saxo charges an overnight carrying cost on options positions held past the close, calculated using the Saxo Offer Financing Rate plus a 350 bps markup for Classic accounts. This is unusual among brokers and can add up for traders who carry positions.
 
@@ -92,7 +92,7 @@ Saxo Bank is regulated in 11 jurisdictions and accepts clients across Europe, th
 
 ### 4. Firstrade - Free Options Trades, Limited International Scope
 
-Firstrade offers commission-free stock, ETF, and options trading - including no per-contract fee on options. That's genuinely unusual and worth considering for lower-frequency traders where per-trade fees add up in absolute terms.
+[Firstrade](/best-brokers/firstrade-review-2026) offers commission-free stock, ETF, and options trading - including no per-contract fee on options. That's genuinely unusual and worth considering for lower-frequency traders where per-trade fees add up in absolute terms.
 
 **Fees:** Zero commissions and zero per-contract fees on options. The catch is that Firstrade's international availability is limited compared to IBKR or Saxo. It accepts clients from a number of non-US countries, but the geographic scope is narrower.
 
@@ -139,9 +139,9 @@ MEXEM is an introducing broker built on top of Interactive Brokers' infrastructu
 
 ## Key Considerations Before You Open an Account
 
-**Withholding tax on US dividends** - If you're trading options on US stocks and get assigned, you'll hold the underlying. Non-US investors are subject to a 30% withholding tax on US dividends unless your country has a treaty rate. Check this before you trade covered calls or cash-secured puts on high-dividend stocks.
+**[Withholding tax](/taxes/taxes-us-dividends-foreign-investors) on US dividends** - If you're trading options on US stocks and get assigned, you'll hold the underlying. Non-US investors are subject to a 30% withholding tax on US dividends unless your country has a treaty rate. Check this before you trade [covered calls](/options-income/selling-covered-calls-tqqq) or cash-secured puts on high-dividend stocks.
 
-**Tax documentation** - US brokers accepting international clients require a W-8BEN form, which certifies your foreign status and applies any applicable tax treaty rates on US-source income. Non-US brokers like Saxo have their own equivalent documentation requirements depending on your jurisdiction. Either way, expect to complete tax residency paperwork before your account is fully activated.
+**Tax documentation** - US brokers accepting international clients require a [W-8BEN](/taxes/w8ben-form-non-us-investors) form, which certifies your foreign status and applies any applicable tax treaty rates on US-source income. Non-US brokers like Saxo have their own equivalent documentation requirements depending on your jurisdiction. Either way, expect to complete tax residency paperwork before your account is fully activated.
 
 **Currency conversion costs** - Options premiums are denominated in the currency of the underlying exchange. If you're funding in EUR and trading US options, every transaction involves a conversion. IBKR and Saxo both let you hold multi-currency accounts to manage this - take advantage of it.
 

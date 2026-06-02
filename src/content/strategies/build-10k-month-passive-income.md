@@ -1,4 +1,5 @@
 ---
+slug: build-10k-month-passive-income
 title: "How to Build a $10K/Month Passive Income Portfolio in 2026"
 description: "A data-driven, honest framework for building a $10,000/month passive income portfolio. Covers capital requirements, asset allocation, specific instruments with verified yields, tax mechanics, and the risks most guides skip."
 pubDate: 2026-05-24
@@ -13,7 +14,7 @@ tags:
   - "dividend portfolio strategy"
   - "how much to invest for passive income"
   - "international investor passive income"
-heroImage: "/images/blog/build-10k-month-passive-income.webp"
+heroImage: "/images/blog/strategies/build-10k-month-passive-income.webp"
 draft: false
 readingTime: "14 min read"
 featured: true
@@ -46,7 +47,7 @@ Before selecting instruments, the math needs to be clear. $10,000 per month equa
 | 9% | $1,333,000 |
 | 10% | $1,200,000 |
 
-Two things this table makes clear: first, there is no shortcut. Even a 10% blended portfolio yield - which requires owning meaningful positions in covered call ETFs, BDCs, and REITs - requires $1.2 million in invested capital. Second, the relationship between yield and capital is linear but the relationship between yield and risk is not. Moving from 5% to 10% doesn't double the risk; it changes the nature of what you're owning entirely.
+Two things this table makes clear: first, there is no shortcut. Even a 10% blended portfolio yield - which requires owning meaningful positions in [covered call](/options-income/selling-covered-calls-tqqq) ETFs, BDCs, and REITs - requires $1.2 million in invested capital. Second, the relationship between yield and capital is linear but the relationship between yield and risk is not. Moving from 5% to 10% doesn't double the risk; it changes the nature of what you're owning entirely.
 
 These figures are pre-tax and pre-inflation. Both adjustments matter significantly, and this article addresses both.
 
@@ -262,7 +263,7 @@ U.S.-situs assets subject to estate tax include shares in U.S. corporations (JEP
 
 ### Withholding Tax for International Investors
 
-The U.S. default withholding tax on dividends and distributions paid to foreign investors is 30%. Under a bilateral tax treaty, this reduces to 15% for eligible investors who file a W-8BEN form with their broker.
+The U.S. default [withholding tax](/taxes/taxes-us-dividends-foreign-investors) on dividends and distributions paid to foreign investors is 30%. Under a bilateral tax treaty, this reduces to 15% for eligible investors who file a [W-8BEN](/taxes/w8ben-form-non-us-investors) form with their broker.
 
 JEPI/JEPQ ELN income may not receive treaty-rate treatment in all jurisdictions. Verify this point explicitly with a local tax advisor before assuming the 15% treaty rate applies in full to JEPI or JEPQ distributions.
 
@@ -364,3 +365,4 @@ $10,000 a month gross is a yield calculation. $10,000 a month after taxes, in re
 ---
 
 *All yield, price, and fund data verified as of May 2026. Portfolio models are illustrative and do not constitute personalized investment advice. Tax treatment varies by jurisdiction and individual circumstances. Consult a qualified financial and tax advisor before implementing any income strategy. Past distributions do not guarantee future payments.*
+

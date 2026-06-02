@@ -1,4 +1,5 @@
 ---
+slug: buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026
 title: "TQQQ vs QQQ for Non-US Investors (2026): Risks, Taxes & Strategy Guide"
 description: "Compare TQQQ vs QQQ for international investors. Learn about volatility decay, taxes, risks, and when to use leveraged ETFs safely."
 pubDate: 2026-04-05
@@ -13,7 +14,7 @@ tags:
   - "ibkr non us investors"
   - "tqqq vs qqq"
   - "leveraged etf risks"
-heroImage: "/images/blog/tqqq_vs_qqq_banner.webp"
+heroImage: "/images/blog/strategies/tqqq_vs_qqq_banner.webp"
 products: ["TQQQ", "QQQ"]
 draft: false
 readingTime: "10 min read"
@@ -24,7 +25,7 @@ If you're investing in US markets from outside the US, you've probably come acro
 
 One is built for long-term growth. The other is a high-risk trading tool that can multiply gains - or destroy capital fast.
 
-I used TQQQ myself during a recovery phase after a 70% portfolio drawdown. Read the full breakdown: [Case Study: From -70% to +$492K](/case-study/from-minus-70-to-plus-492k-real-tqqq-recovery-case-study/)
+I used TQQQ myself during a recovery phase after a 70% portfolio drawdown. Read the full breakdown: [Case Study: From -70% to +250%](/case-study/rom-minus-70-to-plus-492k-real-tqqq-recovery-case-study/)
 
 <!-- AdSense Placement -->
 
@@ -111,8 +112,8 @@ This is why long-term holding of TQQQ in unstable markets can fail - even if the
 ### **Dividend Withholding**
 
 - Typically 30% for non-US investors
-- Reduced via tax treaties (e.g., Israel, EU)
-- Requires W-8BEN
+- Reduced via tax treaties (e.g., [Israel](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026), EU)
+- Requires [W-8BEN](/taxes/w8ben-form-non-us-investors)
 
 The default US withholding rate is 30% - but most countries have a tax treaty that reduces this.
 
@@ -155,7 +156,7 @@ TQQQ works only under specific conditions:
 
 *It should always be a small part of your portfolio.*
 
-In my own case, combining TQQQ with an options strategy during a recovery phase turned this structural risk into a significant advantage - [you can read the full breakdown in the case study.](/case-study/from-minus-70-to-plus-492k-real-tqqq-recovery-case-study/)
+In my own case, combining TQQQ with an options strategy during a recovery phase turned this structural risk into a significant advantage - [you can read the full breakdown in the case study.](/case-study/rom-minus-70-to-plus-492k-real-tqqq-recovery-case-study)
 
 ## **When to Avoid TQQQ**
 
@@ -208,3 +209,4 @@ QQQ and TQQQ track the same index - but behave very differently.
 **TQQQ** → leveraged exposure with structural risk
 
 **The biggest mistake isn't choosing the wrong ETF. It's using the right one at the wrong time.**
+
