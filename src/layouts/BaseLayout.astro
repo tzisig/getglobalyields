@@ -29,6 +29,15 @@ const { title, description, image, type, keywords, seo } = Astro.props;
 <!DOCTYPE html>
 <html lang="en">
   <SEOHead title={title} description={description} image={image} type={type} keywords={keywords} seo={seo} />
+
+  <!-- Google Analytics GA4 -->
+  <script is:inline async src="https://www.googletagmanager.com/gtag/js?id=G-358H9G2F4C"></script>
+  <script is:inline>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-358H9G2F4C');
+  </script>
   <!-- Prevent flash: apply saved theme BEFORE paint -->
   <script is:inline>
     (function() {
