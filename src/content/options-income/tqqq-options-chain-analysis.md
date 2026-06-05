@@ -4,7 +4,7 @@ title: "TQQQ Options Chain Analysis: Reading IV and Greeks"
 description: "How to read the TQQQ options chain - IV range, Greeks interpretation, IV rank, term structure, and what makes a leveraged ETF options chain fundamentally different from a stock."
 pubDate: 2026-05-24
 updatedDate: 2026-05-24
-author: "GetGlobalYields Team"
+author: "Tzion S."
 categories: ["Options Income"]
 tags:
   - "TQQQ options chain"

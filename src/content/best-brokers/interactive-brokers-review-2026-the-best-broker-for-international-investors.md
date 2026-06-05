@@ -4,7 +4,7 @@ title: "Interactive Brokers Review 2026: The Best Broker for International Inves
 description: "Is Interactive Brokers the right broker for non-US investors? Our in-depth 2026 review covers fees, platforms, currency conversion, options trading, and whether IBKR is worth it for international clients."
 pubDate: 2026-04-05
 updatedDate: 2026-05-12
-author: "GetGlobalYields Team"
+author: "Tzion S."
 categories: ["Best Brokers"]
 tags:
   - "interactive brokers"
@@ -109,7 +109,7 @@ Opening an IBKR account as an international investor takes approximately 20 to 4
 
 *   Create an account at ibkr.com and select your country of residence
 *   Complete identity verification (passport + proof of address)
-*   Fill in the W-8BEN form (embedded in the application)
+*   Fill in the [W-8BEN](/taxes/w8ben-form-non-us-investors) form (embedded in the application)
 *   Answer financial profile questions (income, net worth, investment experience)
 *   Sign the account agreement digitally
 *   Receive approval - typically within 1 to 3 business days
@@ -122,7 +122,7 @@ Opening an IBKR account as an international investor takes approximately 20 to 4
 
 ## **Tax Handling for International Investors**
 
-**W-8BEN:** Filed digitally during account opening. IBKR automatically applies your treaty withholding rate to dividends and interest. Renewal reminder sent before expiration every 3 years.
+**[W-8BEN](/taxes/w8ben-form-non-us-investors):** Filed digitally during account opening. IBKR automatically applies your treaty withholding rate to dividends and interest. Renewal reminder sent before expiration every 3 years.
 
 **Form 1042-S:** Issued annually in January/February showing all US-source income and taxes withheld. Required for your home country tax return.
 

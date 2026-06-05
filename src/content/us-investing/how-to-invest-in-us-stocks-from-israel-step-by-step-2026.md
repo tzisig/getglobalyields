@@ -4,7 +4,7 @@ title: "How to Invest in US Stocks from Israel: Step-by-Step (2026)"
 description: "Want to buy US stocks from Israel? Here's the complete step-by-step guide - from choosing a broker to placing your first trade, including taxes, W-8BEN, and currency conversion."
 pubDate: 2026-04-01
 updatedDate: 2026-05-12
-author: "GetGlobalYields Team"
+author: "Tzion S."
 categories: ["US Investing"]
 tags:
   - "israel"

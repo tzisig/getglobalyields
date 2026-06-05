@@ -4,7 +4,7 @@ title: "US-UK Tax Treaty for Investors: The Complete 2026 Guide"
 description: "A practical guide to the US-UK tax treaty for individual investors. Verified withholding rates on dividends, interest, and capital gains. ISA vs SIPP treatment, which UK brokers deliver 0% on US dividends, the March 2025 HMRC pension ruling, the FIG regime, and what the Savings Clause actually means for US citizens in the UK."
 pubDate: 2026-05-24
 updatedDate: 2026-05-24
-author: "GetGlobalYields Team"
+author: "Tzion S."
 categories: ["Taxes"]
 tags:
   - "US UK tax treaty 2026"

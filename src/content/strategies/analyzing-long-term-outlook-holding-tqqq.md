@@ -4,7 +4,7 @@ title: "Analyzing the Long-Term Outlook on Holding TQQQ"
 description: "A rigorous, data-driven analysis of holding TQQQ long-term. Covers 16-year verified performance, rolling returns, drawdowns, the dot-com simulation problem, Nasdaq concentration risk, and a clear framework for who should - and should not - hold TQQQ."
 pubDate: 2026-05-29
 updatedDate: 2026-05-29
-author: "GetGlobalYields Team"
+author: "Tzion S."
 categories: ["Strategies"]
 keywords: ""
 tags:

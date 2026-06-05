@@ -4,7 +4,7 @@ title: "Generating Passive Income from TQQQ Options (2026 Guide)"
 description: "Can you generate reliable passive income from TQQQ options? An honest look at covered calls, cash-secured puts, and the wheel strategy on a 3x leveraged ETF - with real numbers and the risks most guides skip."
 pubDate: 2026-05-23
 updatedDate: 2026-05-23
-author: "GetGlobalYields Team"
+author: "Tzion S."
 categories: ["Options Income"]
 tags:
   - "TQQQ options strategy"

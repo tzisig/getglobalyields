@@ -3,7 +3,7 @@ title: "Best Brokers for International Investors in 2026: A Complete Guide for E
 description: "Compare the best brokers for international investors in 2026-US market access, W-8BEN, fees, multi-currency accounts, and what expats and non-residents should prioritize."
 pubDate: 2026-04-12
 updatedDate: 2026-05-12
-author: "GetGlobalYields Team"
+author: "Tzion S."
 categories: ["Best Brokers"]
 tags:
   - "best brokers"

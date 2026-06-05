@@ -215,6 +215,9 @@ body.dark .theme-dark-only {
 #mobile-menu {
   background-color: var(--bg-surface) !important;
   border-color: var(--border) !important;
+  overflow-y: auto !important;
+  max-height: 100dvh !important;
+  -webkit-overflow-scrolling: touch !important;
 }
 #mobile-menu .text-slate-300 { color: var(--text-body) !important; }
 #mobile-menu .text-slate-400 { color: var(--text-muted) !important; }

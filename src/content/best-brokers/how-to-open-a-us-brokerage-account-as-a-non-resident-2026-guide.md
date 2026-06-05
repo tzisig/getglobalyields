@@ -4,7 +4,7 @@ title: "How to Open a US Brokerage Account as a Non-Resident (2026 Guide)"
 description: "Want to invest in US stocks from abroad? Here's exactly how non-US residents can open a brokerage account, what documents you need, and the best brokers that accept international clients."
 pubDate: 2026-04-01
 updatedDate: 2026-05-12
-author: "GetGlobalYields Team"
+author: "Tzion S."
 categories: ["Best Brokers"]
 tags:
   - "open brokerage account"

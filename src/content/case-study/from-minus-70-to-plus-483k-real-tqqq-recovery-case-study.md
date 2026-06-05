@@ -3,7 +3,7 @@ title: "From -72% to over +250%: Real TQQQ Recovery Case Study (Non-US Investor)
 description: "One investor's real journey with TQQQ — from a 72% drawdown to over 250% return using the Wheel Strategy. Full breakdown with numbers, mistakes, and current portfolio."
 pubDate: 2026-04-17
 updatedDate: 2026-05-12
-author: "GetGlobalYields Team"
+author: "Tzion S."
 categories: ["Case Study"]
 tags:
   - "tqqq recovery case study"

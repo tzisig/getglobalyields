@@ -4,7 +4,7 @@ title: "Multi-Currency Investment Accounts: Top Options for International Invest
 description: "The hidden cost of single-currency brokers is eating your returns. Here are the best multi-currency investment accounts in 2026 - compared honestly on FX costs, market access, and real usability."
 pubDate: 2026-05-24
 updatedDate: 2026-05-24
-author: "GetGlobalYields Team"
+author: "Tzion S."
 categories: ["US Investing"]
 tags:
   - "multi-currency investment account"

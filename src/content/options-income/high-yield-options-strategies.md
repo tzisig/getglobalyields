@@ -4,7 +4,7 @@ title: "High Yield Options Strategies for Income Investors (2026 Guide)"
 description: "A practical comparison of the best options income strategies in 2026: covered calls, cash-secured puts, the wheel, PMCC, and covered call ETFs. Real numbers, real trade-offs."
 pubDate: 2026-05-23
 updatedDate: 2026-05-23
-author: "GetGlobalYields Team"
+author: "Tzion S."
 categories: ["Options Income"]
 tags:
   - "high yield options strategies"

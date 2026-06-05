@@ -4,7 +4,7 @@ title: "Global Asset Protection: How to Safeguard Your Wealth (2026)"
 description: "A practical guide to global asset protection for international investors - jurisdictions, legal structures, FATCA/CRS compliance, and what actually works in 2026."
 pubDate: 2026-04-01
 updatedDate: 2026-05-25
-author: "GetGlobalYields Team"
+author: "Tzion S."
 categories: ["Strategies"]
 tags:
   - "global asset protection 2026"

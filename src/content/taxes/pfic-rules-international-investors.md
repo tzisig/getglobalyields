@@ -4,7 +4,7 @@ title: "PFIC Rules: What International Investors Must Know"
 description: "PFIC rules can trigger punishing US taxes on foreign mutual funds and ETFs. Learn what qualifies as a PFIC and how to avoid the tax trap."
 pubDate: 2026-04-01
 updatedDate: 2026-05-12
-author: "GetGlobalYields Team"
+author: "Tzion S."
 categories: ["Taxes"]
 tags:
   - "PFIC"

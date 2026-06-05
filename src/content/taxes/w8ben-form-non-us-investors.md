@@ -4,7 +4,7 @@ title: "W-8BEN Form Explained (2026): Reduce US Withholding Tax for Non-US Inves
 description: "Complete W-8BEN guide for international investors. Learn how to reduce US withholding tax from 30% to treaty rates (15%-25%), avoid costly mistakes, and optimize your tax strategy."
 pubDate: 2026-04-01
 updatedDate: 2026-05-12
-author: "GetGlobalYields Team"
+author: "Tzion S."
 categories: ["Taxes"]
 tags:
   - "w-8ben form"
@@ -30,7 +30,7 @@ schema:
   type: "Article"
   headline: "W-8BEN Form Explained (2026)"
   description: "Complete guide to W-8BEN for international investors"
-  author: "GetGlobalYields Team"
+  author: "Tzion S."
   datePublished: "2026-04-01"
   dateModified: "2026-05-12"
   image: "/public/images/blog/taxes/w-8ben-form-guide.webp"

@@ -3,7 +3,7 @@ title: "Risk Management for Leveraged ETF Investors (2026)"
 description: "A data-driven guide to managing risk in leveraged ETF portfolios - position sizing, the Kelly Criterion, SMA-based exit rules, drawdown protection, and what actually works in 2026."
 pubDate: 2026-05-30
 updatedDate: 2026-05-30
-author: "GetGlobalYields Team"
+author: "Tzion S."
 categories: ["ETF-Investing", "Portfolio-Strategy"]
 tags:
   - "leveraged ETF risk management"

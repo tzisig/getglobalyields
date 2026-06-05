@@ -4,7 +4,7 @@ title: "TQQQ vs QQQ for Non-US Investors (2026): Risks, Taxes & Strategy Guide"
 description: "Compare TQQQ vs QQQ for international investors. Learn about volatility decay, taxes, risks, and when to use leveraged ETFs safely."
 pubDate: 2026-04-05
 updatedDate: 2026-05-12
-author: "GetGlobalYields Team"
+author: "Tzion S."
 categories: ["Strategies"]
 tags:
   - "volatility decay explained"

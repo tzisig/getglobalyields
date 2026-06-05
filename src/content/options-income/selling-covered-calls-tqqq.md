@@ -4,7 +4,7 @@ title: "Selling Covered Calls on TQQQ: A Complete Guide"
 description: "A professional, balanced guide to selling covered calls on TQQQ - mechanics, strike selection, Greeks, rolling strategy, tax treatment, and the real risks of using this strategy on a 3x leveraged ETF."
 pubDate: 2026-05-20
 updatedDate: 2026-05-20
-author: "GetGlobalYields Team"
+author: "Tzion S."
 categories: ["Options Income"]
 tags:
   - "covered calls TQQQ"

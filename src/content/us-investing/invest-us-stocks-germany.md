@@ -3,7 +3,7 @@ title: "How to Invest in US Stocks from Germany: The Complete 2026 Guide"
 description: "A practical guide for German investors buying US stocks and ETFs - Abgeltungsteuer, Vorabpauschale, Freistellungsauftrag, UCITS vs US ETFs, and the best brokers in Germany. Verified 2026 figures."
 pubDate: 2026-05-20
 updatedDate: 2026-05-20
-author: "GetGlobalYields Team"
+author: "Tzion S."
 categories: ["Investing-Guides", "Country-Guides"]
 tags:
   - "invest in US stocks from Germany"

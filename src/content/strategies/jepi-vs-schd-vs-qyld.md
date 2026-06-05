@@ -4,7 +4,7 @@ title: "JEPI vs SCHD vs QYLD: Best Dividend ETF Comparison"
 description: "Compare the top dividend ETFs for income investors. Which of JEPI, SCHD, or QYLD is best for international investors seeking yield?"
 pubDate: 2026-04-01
 updatedDate: 2026-05-28
-author: "GetGlobalYields Team"
+author: "Tzion S."
 categories: ["Strategies"]
 tags:
   - "JEPI"

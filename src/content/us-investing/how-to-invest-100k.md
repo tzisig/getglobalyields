@@ -3,7 +3,7 @@ title: "How to Invest $100K: A Step-by-Step Allocation Guide"
 description: "A practical guide to investing $100,000 - the right sequence, tax-advantaged accounts, portfolio allocation by risk profile, and ETF picks for US and international investors. Verified 2026 figures throughout."
 pubDate: 2026-05-20
 updatedDate: 2026-05-20
-author: "GetGlobalYields Team"
+author: "Tzion S."
 categories: ["Investing-Guides"]
 tags:
   - "how to invest 100k"

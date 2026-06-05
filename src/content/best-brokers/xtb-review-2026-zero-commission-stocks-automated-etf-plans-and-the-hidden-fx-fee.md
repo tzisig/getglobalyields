@@ -3,7 +3,7 @@ title: "XTB Review 2026: Zero-Commission Stocks, Automated ETF Plans, and the Hi
 description: "An honest XTB review for international investors in 2026. Zero-commission ETFs, automated Investment Plans, cash interest rates, W-8BEN, the 0.5% FX fee you need to know about, and how XTB compares to IBKR and eToro."
 pubDate: 2026-06-03
 updatedDate: 2026-06-03
-author: "GetGlobalYields Team"
+author: "Tzion S."
 categories: ["Best-Brokers"]
 tags:
   - "XTB review 2026"

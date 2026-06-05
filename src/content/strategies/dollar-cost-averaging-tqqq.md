@@ -4,7 +4,7 @@ title: "Dollar-Cost Averaging into TQQQ: When It Helps, When It Doesn't"
 description: "DCA into TQQQ is not one strategy - it's four different strategies depending on when you start. Four real start-date scenarios calculated from Yahoo Finance price data show when DCA beats lump sum, when lump sum dominates, and what the numbers actually say."
 pubDate: 2026-05-24
 updatedDate: 2026-05-24
-author: "GetGlobalYields Team"
+author: "Tzion S."
 categories: ["Strategies"]
 tags:
   - "TQQQ DCA"

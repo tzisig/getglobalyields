@@ -1,0 +1,294 @@
+---
+/**
+ * TableOfContents.astro
+ * 
+ * שימוש:
+ *   import TableOfContents from '@/components/TableOfContents.astro';
+ *   <TableOfContents headings={headings} />
+ * 
+ * ב-Astro, כדי לקבל את הכותרות מתוך מאמר markdown אפשר להשתמש ב:
+ *   const { headings } = Astro.props;  (כשהקומפוננט עובד בתוך layout של content collection)
+ * 
+ *   או להעביר ידנית:
+ *   const headings = [
+ *     { depth: 2, slug: 'fees-and-costs', text: 'Fees and Costs' },
+ *     { depth: 3, slug: 'currency-conversion', text: 'Currency Conversion' },
+ *   ];
+ */
+
+interface Heading {
+  depth: number;
+  slug: string;
+  text: string;
+}
+
+interface Props {
+  headings: Heading[];
+  title?: string;
+}
+
+const { headings, title = "In This Review" } = Astro.props;
+
+// סנן רק h2 ו-h3, דלג על כותרות ה-FAQ ו-Related Articles
+const filtered = headings.filter(h =>
+  h.depth <= 3 &&
+  !h.text.toLowerCase().includes('related') &&
+  !h.text.toLowerCase().includes('frequently asked')
+);
+---
+
+<nav class="toc-wrapper" aria-label="Table of contents">
+  <button class="toc-toggle" aria-expanded="true" aria-controls="toc-list" id="toc-toggle-btn">
+    <span class="toc-icon" aria-hidden="true">
+      <svg width="16" height="16" viewBox="0 0 16 16" fill="none">
+        <rect x="0" y="2" width="16" height="1.5" rx="0.75" fill="currentColor"/>
+        <rect x="0" y="7.25" width="11" height="1.5" rx="0.75" fill="currentColor"/>
+        <rect x="0" y="12.5" width="13" height="1.5" rx="0.75" fill="currentColor"/>
+      </svg>
+    </span>
+    <span class="toc-title">{title}</span>
+    <span class="toc-chevron" aria-hidden="true">
+      <svg width="14" height="14" viewBox="0 0 14 14" fill="none">
+        <path d="M3 5L7 9L11 5" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+      </svg>
+    </span>
+  </button>
+
+  <ol class="toc-list" id="toc-list">
+    {filtered.map((h, i) => (
+      <li class={`toc-item toc-depth-${h.depth}`}>
+        <a href={`#${h.slug}`} class="toc-link" data-index={i}>
+          {h.depth === 2 && <span class="toc-num" aria-hidden="true">{filtered.filter(x => x.depth === 2).indexOf(h) + 1}</span>}
+          <span class="toc-text">{h.text}</span>
+        </a>
+      </li>
+    ))}
+  </ol>
+
+  <div class="toc-progress" aria-hidden="true">
+    <div class="toc-progress-bar" id="toc-progress-bar"></div>
+  </div>
+</nav>
+
+<style>
+  .toc-wrapper {
+    position: relative;
+    background-color: var(--bg-surface);
+    border: 1px solid var(--border);
+    border-left: 3px solid var(--color-accent-500);
+    border-radius: 8px;
+    margin: 0 0 2rem;
+    overflow: hidden;
+    transition: border-color 0.2s;
+  }
+
+  .toc-wrapper:hover {
+    border-color: var(--color-accent-400);
+    border-left-color: var(--color-accent-400);
+  }
+
+  /* כפתור כותרת */
+  .toc-toggle {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    width: 100%;
+    padding: 14px 16px;
+    background: var(--bg-elevated);
+    border: none;
+    cursor: pointer;
+    color: var(--text-heading);
+    font-family: inherit;
+    text-align: left;
+  }
+
+  .toc-icon {
+    color: var(--color-accent-500);
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+  }
+
+  .toc-title {
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--color-accent-500);
+    flex: 1;
+  }
+
+  .toc-chevron {
+    color: var(--text-muted);
+    transition: transform 0.25s ease;
+    display: flex;
+    align-items: center;
+  }
+
+  .toc-toggle[aria-expanded="false"] .toc-chevron {
+    transform: rotate(-90deg);
+  }
+
+  /* הרשימה */
+  .toc-list {
+    list-style: none;
+    margin: 0;
+    padding: 10px 0 12px;
+    transition: max-height 0.3s ease, opacity 0.25s ease;
+    max-height: 800px;
+    opacity: 1;
+    overflow: hidden;
+  }
+
+  .toc-list.collapsed {
+    max-height: 0;
+    opacity: 0;
+    padding: 0;
+  }
+
+  .toc-item {
+    margin: 0;
+  }
+
+  .toc-link {
+    display: flex;
+    align-items: baseline;
+    gap: 8px;
+    padding: 5px 16px;
+    font-size: 14px;
+    color: var(--text-body);
+    text-decoration: none;
+    line-height: 1.4;
+    border-left: 2px solid transparent;
+    transition: color 0.15s, background 0.15s, border-color 0.15s;
+  }
+
+  .toc-link:hover {
+    color: var(--color-accent-400);
+    background: color-mix(in srgb, var(--color-accent-500) 6%, transparent);
+    border-left-color: var(--color-accent-500);
+    text-decoration: none;
+  }
+
+  .toc-link.active {
+    color: var(--color-accent-400);
+    border-left-color: var(--color-accent-500);
+    background: color-mix(in srgb, var(--color-accent-500) 8%, transparent);
+    font-weight: 500;
+  }
+
+  /* h3 מוזז פנימה */
+  .toc-depth-3 .toc-link {
+    padding-left: 28px;
+    font-size: 13px;
+    color: var(--text-muted);
+  }
+
+  .toc-depth-3 .toc-link::before {
+    content: '—';
+    color: var(--text-faint);
+    font-size: 11px;
+    flex-shrink: 0;
+  }
+
+  /* מספרים */
+  .toc-num {
+    font-size: 11px;
+    font-weight: 600;
+    color: var(--color-accent-600);
+    min-width: 18px;
+    flex-shrink: 0;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .toc-text {
+    flex: 1;
+  }
+
+  /* פס התקדמות */
+  .toc-progress {
+    height: 2px;
+    background: var(--border-subtle);
+  }
+
+  .toc-progress-bar {
+    height: 100%;
+    width: 0%;
+    background: var(--color-accent-500);
+    transition: width 0.1s linear;
+  }
+</style>
+
+<script>
+  function initTOC() {
+    const toggle = document.getElementById('toc-toggle-btn');
+    const list = document.getElementById('toc-list');
+    const progressBar = document.getElementById('toc-progress-bar');
+
+    if (!toggle || !list) return;
+
+    // פתיחה/סגירה
+    toggle.addEventListener('click', () => {
+      const expanded = toggle.getAttribute('aria-expanded') === 'true';
+      toggle.setAttribute('aria-expanded', String(!expanded));
+      list.classList.toggle('collapsed', expanded);
+    });
+
+    // סגור אוטומטית במובייל בטעינה
+    if (window.innerWidth < 640) {
+      toggle.setAttribute('aria-expanded', 'false');
+      list.classList.add('collapsed');
+    }
+
+    // Active link + progress bar
+    const links = list.querySelectorAll<HTMLAnchorElement>('.toc-link');
+    const headingIds = Array.from(links).map(l => l.getAttribute('href')?.slice(1)).filter(Boolean) as string[];
+    const headingEls = headingIds.map(id => document.getElementById(id)).filter(Boolean) as HTMLElement[];
+
+    if (headingEls.length === 0) return;
+
+    function onScroll() {
+      const scrollTop = window.scrollY;
+      const docHeight = document.documentElement.scrollHeight - window.innerHeight;
+      const progress = docHeight > 0 ? Math.min(100, (scrollTop / docHeight) * 100) : 0;
+      if (progressBar) progressBar.style.width = progress + '%';
+
+      // מצא את הכותרת הנוכחית
+      let activeIdx = 0;
+      for (let i = 0; i < headingEls.length; i++) {
+        if (headingEls[i].getBoundingClientRect().top <= 100) {
+          activeIdx = i;
+        }
+      }
+
+      links.forEach((l, i) => l.classList.toggle('active', i === activeIdx));
+    }
+
+    window.addEventListener('scroll', onScroll, { passive: true });
+    onScroll();
+
+    // Smooth scroll עם offset לheader
+    links.forEach(link => {
+      link.addEventListener('click', (e) => {
+        const id = link.getAttribute('href')?.slice(1);
+        if (!id) return;
+        const target = document.getElementById(id);
+        if (!target) return;
+        e.preventDefault();
+        const offset = 80;
+        const top = target.getBoundingClientRect().top + window.scrollY - offset;
+        window.scrollTo({ top, behavior: 'smooth' });
+
+        // סגור תפריט במובייל אחרי לחיצה
+        if (window.innerWidth < 640) {
+          toggle.setAttribute('aria-expanded', 'false');
+          list.classList.add('collapsed');
+        }
+      });
+    });
+  }
+
+  // תמיכה ב-View Transitions של Astro
+  document.addEventListener('astro:page-load', initTOC);
+  initTOC();
+</script>

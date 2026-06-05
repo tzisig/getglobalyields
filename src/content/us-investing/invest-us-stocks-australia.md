@@ -3,7 +3,7 @@ title: "How to Invest in US Stocks from Australia (2026 Guide)"
 description: "A practical guide for Australian investors who want to buy US stocks. Covers brokers, W-8BEN, FX fees, taxes, the CGT changes coming in 2027, and what SMSF investors need to know."
 pubDate: 2026-05-23
 updatedDate: 2026-05-23
-author: "GetGlobalYields Team"
+author: "Tzion S."
 categories: ["Investing-Guides"]
 tags:
   - "how to invest in us stocks from australia"

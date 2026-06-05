@@ -3,7 +3,7 @@ title: "Inflation-Proof Investments: What Works in 2026"
 description: "A data-driven guide to inflation-resistant assets in 2026. TIPS, I Bonds, gold, commodities, REITs, and infrastructure - what actually works, what doesn't, and how to build a portfolio that holds its purchasing power."
 pubDate: 2026-05-26
 updatedDate: 2026-05-26
-author: "GetGlobalYields Team"
+author: "Tzion S."
 categories: ["Strategies"]
 tags:
   - "inflation proof investments 2026"

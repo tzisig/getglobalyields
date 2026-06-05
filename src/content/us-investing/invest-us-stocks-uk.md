@@ -4,7 +4,7 @@ title: "How to Invest in US Stocks from the UK (2026 Guide)"
 description: "Complete guide for UK investors: ISA vs SIPP vs GIA for US stocks, withholding tax, CGT rates, best brokers, and the mistake most investors make with their ISA."
 pubDate: 2026-05-19
 updatedDate: 2026-05-19
-author: "GetGlobalYields Team"
+author: "Tzion S."
 categories: ["Basics"]
 tags:
   - "how to invest in us stocks from uk"

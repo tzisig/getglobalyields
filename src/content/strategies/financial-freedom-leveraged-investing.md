@@ -4,7 +4,7 @@ title: "Financial Freedom Through Leveraged Investing: A Realistic Plan"
 description: "A data-driven, honest guide to leveraged investing for financial freedom. Covers 3x ETFs (TQQQ, UPRO), margin loans, volatility decay mechanics, verified drawdown data, and what a realistic path actually looks like - including what can go permanently wrong."
 pubDate: 2026-05-25
 updatedDate: 2026-05-25
-author: "GetGlobalYields Team"
+author: "Tzion S."
 categories: ["Strategies"]
 tags:
   - "leveraged investing 2026"

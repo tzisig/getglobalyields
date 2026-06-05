@@ -4,7 +4,7 @@ title: "0DTE Options Strategy: High Risk, High Reward (2026 Guide)"
 description: "Everything serious traders need to know about 0DTE options in 2026. Strategies, real statistics, Greeks, the PDT rule change, and how to manage risk before it manages you."
 pubDate: 2026-05-23
 updatedDate: 2026-05-23
-author: "GetGlobalYields Team"
+author: "Tzion S."
 categories: ["Options Income"]
 tags:
   - "0DTE options strategy"

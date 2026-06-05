@@ -4,7 +4,7 @@ title: "eToro Review 2026: Is It Worth It for International Investors?"
 description: "Honest eToro review for non-US investors. Real fees, FX costs, copy trading, and how it compares to IBKR."
 pubDate: 2026-05-19
 updatedDate: 2026-05-18
-author: "GetGlobalYields Team"
+author: "Tzion S."
 categories: ["Brokers"]
 tags:
   - "etoro review 2026"
@@ -21,7 +21,7 @@ featured: false
 rating: 3.8
 ---
 
-# eToro Review 2026: Is It Worth It for International Investors?
+
 
 *Updated: May 2026 - GetGlobalYields.com - Read time: ~11 min*
 

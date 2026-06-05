@@ -3,7 +3,7 @@ title: "How to Invest in US Stocks from Canada (2026 Guide)"
 description: "A practical guide for Canadian investors on buying US stocks - covering account types, withholding tax, currency conversion, Norbert's Gambit, and the best brokers in 2026."
 pubDate: 2026-05-24
 updatedDate: 2026-05-24
-author: "GetGlobalYields Team"
+author: "Tzion S."
 categories: ["Investing-Guides"]
 tags:
   - "how to invest in us stocks from canada"

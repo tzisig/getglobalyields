@@ -26,7 +26,7 @@ const navItems = [
 const currentPath = Astro.url.pathname;
 ---
 
-<header class="sticky top-0 z-50 w-full border-b border-primary-700 bg-primary-900/95 backdrop-blur supports-[backdrop-filter]:bg-primary-900/80">
+<header class="notranslate sticky top-0 z-50 w-full border-b border-primary-700 bg-primary-900/95 backdrop-blur supports-[backdrop-filter]:bg-primary-900/80" translate="no">
   <div class="container mx-auto px-4 sm:px-6 lg:px-8">
     <div class="flex h-24 lg:h-32 items-center justify-between">
       <!-- Logo -->
@@ -75,8 +75,45 @@ const currentPath = Astro.url.pathname;
         </ul>
       </nav>
 
-      <!-- Right side: Theme toggle + CTA -->
+      <!-- Right side: Translate + Theme toggle + CTA -->
       <div class="hidden md:flex items-center space-x-3">
+        <!-- Translate Button (desktop) -->
+        <div class="relative" id="translate-wrapper-desktop">
+          <button
+            id="translate-btn-desktop"
+            type="button"
+            aria-label="Translate site"
+            aria-expanded="false"
+            title="Translate"
+            class="flex items-center justify-center w-9 h-9 rounded-md hover:bg-primary-800 transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-accent-500"
+          >
+            <span id="translate-flag-desktop"><img src="https://flagcdn.com/20x15/us.png" width="20" height="15" alt="English" /></span>
+          </button>
+          <div id="translate-dropdown-desktop" hidden class="translate-dd translate-dd-right">
+            <div class="lang-grid">
+              <button class="lang-btn" data-lang="es" data-cc="es"><img src="https://flagcdn.com/20x15/es.png" width="20" height="15" alt="Español" loading="lazy" /> <span>Español</span></button>
+              <button class="lang-btn" data-lang="fr" data-cc="fr"><img src="https://flagcdn.com/20x15/fr.png" width="20" height="15" alt="Français" loading="lazy" /> <span>Français</span></button>
+              <button class="lang-btn" data-lang="de" data-cc="de"><img src="https://flagcdn.com/20x15/de.png" width="20" height="15" alt="Deutsch" loading="lazy" /> <span>Deutsch</span></button>
+              <button class="lang-btn" data-lang="pt" data-cc="br"><img src="https://flagcdn.com/20x15/br.png" width="20" height="15" alt="Português" loading="lazy" /> <span>Português</span></button>
+              <button class="lang-btn" data-lang="it" data-cc="it"><img src="https://flagcdn.com/20x15/it.png" width="20" height="15" alt="Italiano" loading="lazy" /> <span>Italiano</span></button>
+              <button class="lang-btn" data-lang="nl" data-cc="nl"><img src="https://flagcdn.com/20x15/nl.png" width="20" height="15" alt="Nederlands" loading="lazy" /> <span>Nederlands</span></button>
+              <button class="lang-btn" data-lang="pl" data-cc="pl"><img src="https://flagcdn.com/20x15/pl.png" width="20" height="15" alt="Polski" loading="lazy" /> <span>Polski</span></button>
+              <button class="lang-btn" data-lang="ru" data-cc="ru"><img src="https://flagcdn.com/20x15/ru.png" width="20" height="15" alt="Русский" loading="lazy" /> <span>Русский</span></button>
+              <button class="lang-btn" data-lang="ar" data-cc="sa"><img src="https://flagcdn.com/20x15/sa.png" width="20" height="15" alt="العربية" loading="lazy" /> <span>العربية</span></button>
+              <button class="lang-btn" data-lang="iw" data-cc="il"><img src="https://flagcdn.com/20x15/il.png" width="20" height="15" alt="עברית" loading="lazy" /> <span>עברית</span></button>
+              <button class="lang-btn" data-lang="zh-CN" data-cc="cn"><img src="https://flagcdn.com/20x15/cn.png" width="20" height="15" alt="中文" loading="lazy" /> <span>中文</span></button>
+              <button class="lang-btn" data-lang="ja" data-cc="jp"><img src="https://flagcdn.com/20x15/jp.png" width="20" height="15" alt="日本語" loading="lazy" /> <span>日本語</span></button>
+              <button class="lang-btn" data-lang="ko" data-cc="kr"><img src="https://flagcdn.com/20x15/kr.png" width="20" height="15" alt="한국어" loading="lazy" /> <span>한국어</span></button>
+              <button class="lang-btn" data-lang="tr" data-cc="tr"><img src="https://flagcdn.com/20x15/tr.png" width="20" height="15" alt="Türkçe" loading="lazy" /> <span>Türkçe</span></button>
+              <button class="lang-btn" data-lang="hi" data-cc="in"><img src="https://flagcdn.com/20x15/in.png" width="20" height="15" alt="हिंदी" loading="lazy" /> <span>हिंदी</span></button>
+              <button class="lang-btn" data-lang="id" data-cc="id"><img src="https://flagcdn.com/20x15/id.png" width="20" height="15" alt="Indonesia" loading="lazy" /> <span>Indonesia</span></button>
+              <button class="lang-btn" data-lang="th" data-cc="th"><img src="https://flagcdn.com/20x15/th.png" width="20" height="15" alt="ไทย" loading="lazy" /> <span>ไทย</span></button>
+              <button class="lang-btn" data-lang="vi" data-cc="vn"><img src="https://flagcdn.com/20x15/vn.png" width="20" height="15" alt="Tiếng Việt" loading="lazy" /> <span>Tiếng Việt</span></button>
+            </div>
+            <button class="lang-reset" id="lang-reset-desktop" style="display:none;">↩ Back to English</button>
+          </div>
+        </div>
+
         <!-- Theme Toggle Button -->
         <button
           id="theme-toggle"
@@ -101,8 +138,45 @@ const currentPath = Astro.url.pathname;
         </a>
       </div>
 
-      <!-- Mobile: Theme toggle + menu button -->
+      <!-- Mobile: Translate + Theme toggle + menu button -->
       <div class="flex items-center xl:hidden ml-4 gap-2">
+        <!-- Translate Button (mobile) -->
+        <div class="relative" id="translate-wrapper-mobile">
+          <button
+            id="translate-btn-mobile"
+            type="button"
+            aria-label="Translate site"
+            aria-expanded="false"
+            title="Translate"
+            class="flex items-center justify-center w-9 h-9 rounded-md hover:bg-primary-800 transition-all duration-200"
+          >
+            <span id="translate-flag-mobile"><img src="https://flagcdn.com/20x15/us.png" width="20" height="15" alt="English" /></span>
+          </button>
+          <div id="translate-dropdown-mobile" hidden class="translate-dd translate-dd-left">
+            <div class="lang-grid">
+              <button class="lang-btn" data-lang="es" data-cc="es"><img src="https://flagcdn.com/20x15/es.png" width="20" height="15" alt="Español" loading="lazy" /> <span>Español</span></button>
+              <button class="lang-btn" data-lang="fr" data-cc="fr"><img src="https://flagcdn.com/20x15/fr.png" width="20" height="15" alt="Français" loading="lazy" /> <span>Français</span></button>
+              <button class="lang-btn" data-lang="de" data-cc="de"><img src="https://flagcdn.com/20x15/de.png" width="20" height="15" alt="Deutsch" loading="lazy" /> <span>Deutsch</span></button>
+              <button class="lang-btn" data-lang="pt" data-cc="br"><img src="https://flagcdn.com/20x15/br.png" width="20" height="15" alt="Português" loading="lazy" /> <span>Português</span></button>
+              <button class="lang-btn" data-lang="it" data-cc="it"><img src="https://flagcdn.com/20x15/it.png" width="20" height="15" alt="Italiano" loading="lazy" /> <span>Italiano</span></button>
+              <button class="lang-btn" data-lang="nl" data-cc="nl"><img src="https://flagcdn.com/20x15/nl.png" width="20" height="15" alt="Nederlands" loading="lazy" /> <span>Nederlands</span></button>
+              <button class="lang-btn" data-lang="pl" data-cc="pl"><img src="https://flagcdn.com/20x15/pl.png" width="20" height="15" alt="Polski" loading="lazy" /> <span>Polski</span></button>
+              <button class="lang-btn" data-lang="ru" data-cc="ru"><img src="https://flagcdn.com/20x15/ru.png" width="20" height="15" alt="Русский" loading="lazy" /> <span>Русский</span></button>
+              <button class="lang-btn" data-lang="ar" data-cc="sa"><img src="https://flagcdn.com/20x15/sa.png" width="20" height="15" alt="العربية" loading="lazy" /> <span>العربية</span></button>
+              <button class="lang-btn" data-lang="iw" data-cc="il"><img src="https://flagcdn.com/20x15/il.png" width="20" height="15" alt="עברית" loading="lazy" /> <span>עברית</span></button>
+              <button class="lang-btn" data-lang="zh-CN" data-cc="cn"><img src="https://flagcdn.com/20x15/cn.png" width="20" height="15" alt="中文" loading="lazy" /> <span>中文</span></button>
+              <button class="lang-btn" data-lang="ja" data-cc="jp"><img src="https://flagcdn.com/20x15/jp.png" width="20" height="15" alt="日本語" loading="lazy" /> <span>日本語</span></button>
+              <button class="lang-btn" data-lang="ko" data-cc="kr"><img src="https://flagcdn.com/20x15/kr.png" width="20" height="15" alt="한국어" loading="lazy" /> <span>한국어</span></button>
+              <button class="lang-btn" data-lang="tr" data-cc="tr"><img src="https://flagcdn.com/20x15/tr.png" width="20" height="15" alt="Türkçe" loading="lazy" /> <span>Türkçe</span></button>
+              <button class="lang-btn" data-lang="hi" data-cc="in"><img src="https://flagcdn.com/20x15/in.png" width="20" height="15" alt="हिंदी" loading="lazy" /> <span>हिंदी</span></button>
+              <button class="lang-btn" data-lang="id" data-cc="id"><img src="https://flagcdn.com/20x15/id.png" width="20" height="15" alt="Indonesia" loading="lazy" /> <span>Indonesia</span></button>
+              <button class="lang-btn" data-lang="th" data-cc="th"><img src="https://flagcdn.com/20x15/th.png" width="20" height="15" alt="ไทย" loading="lazy" /> <span>ไทย</span></button>
+              <button class="lang-btn" data-lang="vi" data-cc="vn"><img src="https://flagcdn.com/20x15/vn.png" width="20" height="15" alt="Tiếng Việt" loading="lazy" /> <span>Tiếng Việt</span></button>
+            </div>
+            <button class="lang-reset" id="lang-reset-mobile" style="display:none;">↩ Back to English</button>
+          </div>
+        </div>
+
         <!-- Theme Toggle (mobile) -->
         <button
           id="theme-toggle-mobile"
@@ -257,3 +331,272 @@ const currentPath = Astro.url.pathname;
   setupMobileMenu();
   document.addEventListener('astro:page-load', setupMobileMenu);
 </script>
+
+<div id="google_translate_element" style="display:none;"></div>
+<script is:inline>
+  window.googleTranslateElementInit = function () {
+    new google.translate.TranslateElement({ pageLanguage: 'en', autoDisplay: false }, 'google_translate_element');
+  };
+</script>
+<script is:inline src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+<script is:inline>
+(function () {
+  var RTL_LANGS = ['iw', 'ar', 'he'];
+  var flag_map = {
+    'es':'es','fr':'fr','de':'de','pt':'br','it':'it','nl':'nl','pl':'pl',
+    'ru':'ru','ar':'sa','iw':'il','zh-CN':'cn','ja':'jp','ko':'kr',
+    'tr':'tr','hi':'in','id':'id','th':'th','vi':'vn'
+  };
+  var LANGS = [
+    { lang: 'es', label: 'Español',    flag: '🇪🇸' },
+    { lang: 'fr', label: 'Français',   flag: '🇫🇷' },
+    { lang: 'de', label: 'Deutsch',    flag: '🇩🇪' },
+    { lang: 'pt', label: 'Português',  flag: '🇧🇷' },
+    { lang: 'it', label: 'Italiano',   flag: '🇮🇹' },
+    { lang: 'nl', label: 'Nederlands', flag: '🇳🇱' },
+    { lang: 'pl', label: 'Polski',     flag: '🇵🇱' },
+    { lang: 'ru', label: 'Русский',    flag: '🇷🇺' },
+    { lang: 'ar', label: 'العربية',    flag: '🇸🇦' },
+    { lang: 'iw', label: 'עברית',      flag: '🇮🇱' },
+    { lang: 'zh-CN', label: '中文',    flag: '🇨🇳' },
+    { lang: 'ja', label: '日本語',     flag: '🇯🇵' },
+    { lang: 'ko', label: '한국어',     flag: '🇰🇷' },
+    { lang: 'tr', label: 'Türkçe',     flag: '🇹🇷' },
+    { lang: 'hi', label: 'हिंदी',      flag: '🇮🇳' },
+    { lang: 'id', label: 'Indonesia',  flag: '🇮🇩' },
+    { lang: 'th', label: 'ไทย',        flag: '🇹🇭' },
+    { lang: 'vi', label: 'Tiếng Việt', flag: '🇻🇳' },
+  ];
+
+  function setCookie(lang) {
+    var val = '/en/' + lang;
+    document.cookie = 'googtrans=' + val + '; path=/';
+    document.cookie = 'googtrans=' + val + '; path=/; domain=.' + location.hostname;
+  }
+
+  function clearCookie() {
+    var past = 'Thu, 01 Jan 1970 00:00:00 UTC';
+    ['', '.'].forEach(function (prefix) {
+      document.cookie = 'googtrans=; expires=' + past + '; path=/; domain=' + prefix + location.hostname;
+    });
+    document.cookie = 'googtrans=; expires=' + past + '; path=/';
+  }
+
+  function getCookieLang() {
+    var m = document.cookie.match(/googtrans=\/en\/([^;]+)/);
+    return m ? m[1] : null;
+  }
+
+  function applyRTL(lang) {
+    document.documentElement.setAttribute('dir', RTL_LANGS.indexOf(lang) !== -1 ? 'rtl' : 'ltr');
+  }
+
+  function triggerSelect(lang, attempts) {
+    attempts = attempts || 0;
+    var select = document.querySelector('.goog-te-combo');
+    if (select) {
+      select.value = lang;
+      select.dispatchEvent(new Event('change', { bubbles: true }));
+      select.dispatchEvent(new Event('input',  { bubbles: true }));
+      return;
+    }
+    if (attempts < 25) {
+      setTimeout(function () { triggerSelect(lang, attempts + 1); }, 200);
+    } else {
+      setCookie(lang);
+      location.reload();
+    }
+  }
+
+  function doTranslate(lang) {
+    setCookie(lang);
+    applyRTL(lang);
+    triggerSelect(lang);
+  }
+
+  function doReset() {
+    clearCookie();
+    document.documentElement.setAttribute('dir', 'ltr');
+    location.reload();
+  }
+
+  function buildDropdown(ddEl, resetId, flagId) {
+    // dropdown is now static HTML - nothing to build
+  }
+
+  function closeAll() {
+    ['translate-dropdown-desktop', 'translate-dropdown-mobile'].forEach(function (id) {
+      var el = document.getElementById(id);
+      if (el) { el.hidden = true; }
+    });
+    ['translate-btn-desktop', 'translate-btn-mobile'].forEach(function (id) {
+      var el = document.getElementById(id);
+      if (el) { el.setAttribute('aria-expanded', 'false'); }
+    });
+  }
+
+  function setupTranslate() {
+    var ddDesktop = document.getElementById('translate-dropdown-desktop');
+    var ddMobile  = document.getElementById('translate-dropdown-mobile');
+    var btnDesktop = document.getElementById('translate-btn-desktop');
+    var btnMobile  = document.getElementById('translate-btn-mobile');
+
+    if (!ddDesktop || !btnDesktop) return;
+
+    // Build dropdowns once
+    if (!ddDesktop.dataset.built) {
+      buildDropdown(ddDesktop, 'lang-reset-desktop', 'translate-flag-desktop');
+      ddDesktop.dataset.built = '1';
+
+      // Attach click handlers to static buttons
+      ddDesktop.querySelectorAll('.lang-btn').forEach(function (btn) {
+        btn.addEventListener('click', function () {
+          var lang = btn.getAttribute('data-lang');
+          var cc = btn.getAttribute('data-cc');
+          var label = btn.querySelector('span') ? btn.querySelector('span').textContent : lang;
+          var flagImg = '<img src="https://flagcdn.com/20x15/' + cc + '.png" width="20" height="15" alt="' + label + '" />';
+          doTranslate(lang);
+          document.querySelectorAll('.lang-btn').forEach(function (b) { b.classList.remove('selected'); });
+          document.querySelectorAll('[id^="translate-flag"]').forEach(function (el) { el.innerHTML = flagImg; });
+          document.querySelectorAll('[class="lang-btn"][data-lang="' + lang + '"]').forEach(function (b) { b.classList.add('selected'); });
+          document.querySelectorAll('.lang-reset').forEach(function (r) { r.style.display = 'block'; });
+          closeAll();
+        });
+      });
+      document.getElementById('lang-reset-desktop').addEventListener('click', doReset);
+    }
+
+    if (ddMobile && !ddMobile.dataset.built) {
+      buildDropdown(ddMobile, 'lang-reset-mobile', 'translate-flag-mobile');
+      ddMobile.dataset.built = '1';
+
+      ddMobile.querySelectorAll('.lang-btn').forEach(function (btn) {
+        btn.addEventListener('click', function () {
+          var lang = btn.getAttribute('data-lang');
+          var cc = btn.getAttribute('data-cc');
+          var label = btn.querySelector('span') ? btn.querySelector('span').textContent : lang;
+          var flagImg = '<img src="https://flagcdn.com/20x15/' + cc + '.png" width="20" height="15" alt="' + label + '" />';
+          doTranslate(lang);
+          document.querySelectorAll('.lang-btn').forEach(function (b) { b.classList.remove('selected'); });
+          document.querySelectorAll('[id^="translate-flag"]').forEach(function (el) { el.innerHTML = flagImg; });
+          document.querySelectorAll('.lang-reset').forEach(function (r) { r.style.display = 'block'; });
+          closeAll();
+        });
+      });
+      document.getElementById('lang-reset-mobile').addEventListener('click', doReset);
+    }
+
+    function toggle(dd, btn) {
+      var isHidden = dd.hidden;
+      closeAll();
+      if (isHidden) {
+        dd.hidden = false;
+        btn.setAttribute('aria-expanded', 'true');
+      }
+    }
+
+    btnDesktop.addEventListener('click', function (e) {
+      e.stopPropagation();
+      toggle(ddDesktop, btnDesktop);
+    });
+
+    if (btnMobile && ddMobile) {
+      btnMobile.addEventListener('click', function (e) {
+        e.stopPropagation();
+        toggle(ddMobile, btnMobile);
+      });
+    }
+
+    document.addEventListener('click', closeAll);
+    [ddDesktop, ddMobile].forEach(function (dd) {
+      if (dd) dd.addEventListener('click', function (e) { e.stopPropagation(); });
+    });
+    document.addEventListener('keydown', function (e) { if (e.key === 'Escape') closeAll(); });
+
+    // Restore saved state
+    var saved = getCookieLang();
+    if (saved) {
+      applyRTL(saved);
+      var match = LANGS.find(function (l) { return l.lang === saved; });
+      if (match) {
+        var cc = flag_map[saved] || saved;
+        var flagImg = '<img src="https://flagcdn.com/20x15/' + cc + '.png" width="20" height="15" alt="' + match.label + '" />';
+        document.querySelectorAll('[id^="translate-flag"]').forEach(function (el) { el.innerHTML = flagImg; });
+        document.querySelectorAll('.lang-reset').forEach(function (r) { r.style.display = 'block'; });
+      }
+    }
+  }
+
+  setupTranslate();
+  document.addEventListener('astro:page-load', setupTranslate);
+})();
+</script>
+
+<style>
+  .goog-te-banner-frame { display: none !important; }
+  body { top: 0 !important; }
+  #goog-gt-tt, .goog-te-balloon-frame { display: none !important; }
+
+  .translate-dd {
+    position: absolute;
+    top: calc(100% + 8px);
+    background: var(--bg-surface, #112240);
+    border: 1px solid var(--border, #233554);
+    border-radius: 10px;
+    padding: 10px;
+    box-shadow: 0 8px 32px rgba(0,0,0,0.45);
+    width: 260px;
+    z-index: 9999;
+  }
+
+  .translate-dd-right { right: 0; }
+  .translate-dd-left  { left: 0; }
+  .translate-dd[hidden] { display: none; }
+
+  .lang-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 4px;
+    margin-bottom: 6px;
+  }
+
+  .lang-btn {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    background: var(--bg-elevated, #233554);
+    color: var(--text-body, #cbd5e1);
+    border: 1px solid var(--border, #3a506b);
+    border-radius: 6px;
+    padding: 6px 8px;
+    font-size: 12px;
+    font-family: inherit;
+    cursor: pointer;
+    transition: background 0.15s, border-color 0.15s;
+    text-align: left;
+    white-space: nowrap;
+    overflow: hidden;
+  }
+
+  .lang-btn:hover, .lang-btn.selected {
+    background: color-mix(in srgb, var(--color-accent-500, #C9A84C) 15%, transparent);
+    border-color: var(--color-accent-500, #C9A84C);
+    color: var(--color-accent-400, #dcb963);
+  }
+
+  .lang-reset {
+    width: 100%;
+    background: transparent;
+    color: var(--text-faint, #64748b);
+    border: 1px dashed var(--border, #3a506b);
+    border-radius: 6px;
+    padding: 6px;
+    font-size: 11px;
+    font-family: inherit;
+    cursor: pointer;
+    transition: color 0.15s;
+  }
+
+  .lang-reset:hover { color: var(--text-body, #cbd5e1); }
+</style>

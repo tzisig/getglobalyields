@@ -3,7 +3,7 @@ title: "TQQQ Long-Term Outlook: What the Data Actually Says for 2026 and Beyond"
 description: "A rigorous, data-driven analysis of TQQQ's long-term outlook - verified performance data, the bull and bear case for the Nasdaq-100, rolling return analysis, volatility decay, and a framework for deciding whether TQQQ belongs in your long-term portfolio."
 pubDate: 2026-05-31
 updatedDate: 2026-05-31
-author: "GetGlobalYields Team"
+author: "Tzion S."
 categories: ["Strategies"]
 tags:
   - "TQQQ long term outlook"

@@ -3,7 +3,7 @@ title: "TQQQ Covered Calls and Cash-Secured Puts: The Complete Strategy Guide"
 description: "A professional guide to generating income from TQQQ using covered calls and cash-secured puts - IV explained, Greeks, the Wheel Strategy, rolling, early assignment risk, and tax implications. Verified 2026 data."
 pubDate: 2026-05-30
 updatedDate: 2026-05-30
-author: "GetGlobalYields Team"
+author: "Tzion S."
 categories: ["Strategies"]
 tags:
   - "TQQQ covered calls"

@@ -4,7 +4,7 @@ slug: "tqqq-recovery-case-study-70-percent-loss-to-200-percent"
 description: "Real TQQQ recovery from -70% drawdown to $503K portfolio using disciplined long-term investing and options income."
 pubDate: 2026-05-04
 updatedDate: 2026-05-12
-author: "GetGlobalYields Team"
+author: "Tzion S."
 categories: ["Case Study"]
 tags:
   - "tqqq recovery"

@@ -4,7 +4,7 @@ title: "TQQQ Implied Volatility Strategies: A Practical Guide for Options Trader
 description: "How to exploit TQQQ's structurally elevated implied volatility. Covered calls, iron condors, CSPs, and LEAPS - with real trade examples, a full risk framework, and the 2022 lesson every premium seller must understand."
 pubDate: 2026-05-24
 updatedDate: 2026-05-24
-author: "GetGlobalYields Team"
+author: "Tzion S."
 categories: ["Options Income"]
 tags:
   - "TQQQ implied volatility"

@@ -3,7 +3,7 @@ title: "Saxo Bank Review 2026: Pro Features for High Net Worth Investors"
 description: "Honest Saxo Bank review for international investors. Fees, account tiers, platforms, and how it compares to IBKR for serious portfolios."
 pubDate: 2026-05-18
 updatedDate: 2026-05-18
-author: "GetGlobalYields Team"
+author: "Tzion S."
 categories: ["Brokers"]
 tags:
   - "saxo bank review 2026"

@@ -4,7 +4,7 @@ title: "How to Sell Puts During a Market Crash (2026 Guide)"
 description: "A professional guide to selling put options during market crashes - VIX, IV Rank, strike selection, position sizing, and the risks most traders ignore."
 pubDate: 2026-05-24
 updatedDate: 2026-05-24
-author: "GetGlobalYields Team"
+author: "Tzion S."
 categories: ["Options Income"]
 tags:
   - "sell puts market crash"

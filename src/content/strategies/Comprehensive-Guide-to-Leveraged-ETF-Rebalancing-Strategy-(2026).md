@@ -3,7 +3,7 @@ title: "Comprehensive Guide to Leveraged ETF Rebalancing Strategy (2026)"
 description: "A data-driven guide to rebalancing portfolios that contain leveraged ETFs - threshold bands, frequency, tax implications, and the variance drain myth that most guides get wrong."
 pubDate: 2026-05-29
 updatedDate: 2026-05-29
-author: "GetGlobalYields Team"
+author: "Tzion S."
 categories: ["ETF-Investing", "Portfolio-Strategy"]
 tags:
 - "leveraged ETF rebalancing"

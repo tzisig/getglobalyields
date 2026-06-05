@@ -4,7 +4,7 @@ title: "Portfolio Diversification with Leveraged Funds: The 3x Approach"
 description: "How to build a diversified portfolio using leveraged ETFs. The 3x approach to balancing risk and reward for international investors."
 pubDate: 2026-04-01
 updatedDate: 2026-04-01
-author: "GetGlobalYields Team"
+author: "Tzion S."
 categories: ["Strategies"]
 keywords: "Leveraged ETFs, 3x ETFs, Portfolio Diversification, TQQQ Strategy, Volatility Drag, TQQQ in diversified portfolio 2026, leveraged ETF rebalancing strategy, should I hold TQQQ long term, managing 3x fund decay, risk of leveraged ETFs diversification"
 tags:

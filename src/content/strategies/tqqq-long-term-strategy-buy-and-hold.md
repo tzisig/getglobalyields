@@ -3,7 +3,7 @@ title: "TQQQ Long-Term Strategy: Is Buy and Hold Viable?"
 description: "A rigorous, data-driven answer to whether buy and hold is a viable strategy for TQQQ. Fund flow case study, three investor archetypes, rebalancing drift, position sizing, and the behavioral reasons most investors fail to hold through drawdowns."
 pubDate: 2026-05-29
 updatedDate: 2026-05-29
-author: "GetGlobalYields Team"
+author: "Tzion S."
 categories: ["Strategies"]
 tags:
   - "TQQQ buy and hold"

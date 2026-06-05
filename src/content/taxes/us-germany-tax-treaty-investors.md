@@ -4,7 +4,7 @@ title: "US-Germany Tax Treaty for Investors: The Complete 2026 Guide"
 description: "A practical guide to the US-Germany tax treaty for individual investors. Withholding rates on dividends, interest, and capital gains, how to file W-8BEN, PFIC traps for US citizens, and how Germany's treaty compares to the UK, Ireland, and the Netherlands."
 pubDate: 2026-05-24
 updatedDate: 2026-05-24
-author: "GetGlobalYields Team"
+author: "Tzion S."
 categories: ["Taxes"]
 tags:
   - "us germany tax treaty"

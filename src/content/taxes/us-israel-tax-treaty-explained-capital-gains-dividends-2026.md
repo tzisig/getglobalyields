@@ -4,7 +4,7 @@ title: "US-Israel Tax Treaty: Capital Gains & Dividend Rates (2026)"
 description: "Complete guide to the US-Israel tax treaty rates for capital gains, dividends, and interest. Updated for 2026 with current withholding rates and treaty benefits."
 pubDate: 2026-05-12
 updatedDate: 2026-05-12
-author: "GetGlobalYields Team"
+author: "Tzion S."
 categories: ["Taxes"]
 tags:
   - "US-Israel tax treaty"

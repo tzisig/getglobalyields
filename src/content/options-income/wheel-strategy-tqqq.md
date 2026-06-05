@@ -4,7 +4,7 @@ title: "The Wheel Strategy on TQQQ: Step-by-Step (And Why You Should Think Twice
 description: "A complete guide to running the wheel strategy on TQQQ - how it works, why the high premiums are tempting, and the real risks that most tutorials skip. Includes a comparison with QQQ and SPY."
 pubDate: 2026-05-24
 updatedDate: 2026-05-24
-author: "GetGlobalYields Team"
+author: "Tzion S."
 categories: ["Options Income"]
 tags:
   - "wheel strategy TQQQ"

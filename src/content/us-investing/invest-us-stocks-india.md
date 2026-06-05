@@ -4,7 +4,7 @@ title: "How to Invest in US Stocks from India (2026 Guide)"
 description: "Complete guide for Indian investors: LRS rules, best platforms, tax implications, and step-by-step process to legally invest in US stocks from India."
 pubDate: 2026-05-19
 updatedDate: 2026-05-19
-author: "GetGlobalYields Team"
+author: "Tzion S."
 categories: ["Basics"]
 tags:
   - "how to invest in us stocks from india"

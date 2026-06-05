@@ -4,7 +4,7 @@ title: "TQQQ for Non-US Investors: Tax Implications Explained (2026 Guide)"
 description: "How is TQQQ taxed for international investors? Dividends, capital gains, options income, estate tax risk, and country-by-country breakdown."
 pubDate: 2026-04-01
 updatedDate: 2026-05-12
-author: "GetGlobalYields Team"
+author: "Tzion S."
 categories: ["Strategies"]
 tags:
   - "tqqq tax non-us investors"
