@@ -1,6 +1,6 @@
 ---
 slug: buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026
-title: "TQQQ vs QQQ for Non-US Investors (2026): Risks, Taxes & Strategy Guide"
+title: "TQQQ vs QQQ: Which Is Right for Non-US Investors in 2026?"
 description: "Compare TQQQ vs QQQ for international investors. Learn about volatility decay, taxes, risks, and when to use leveraged ETFs safely."
 pubDate: 2026-04-05
 updatedDate: 2026-05-12

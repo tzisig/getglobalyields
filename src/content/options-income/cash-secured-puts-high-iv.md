@@ -1,7 +1,7 @@
 ---
 slug: cash-secured-puts-high-iv
 title: "Cash-Secured Puts on High-IV Stocks (2026 Guide)"
-description: "A complete guide to selling cash-secured puts on high implied volatility stocks. Strategy mechanics, IV rank, strike selection, assignment management, the wheel strategy, and real trade examples."
+description: "How to sell cash-secured puts in high IV environments. Strike selection, premium targets, assignment management, and risk controls for TQQQ options traders."
 pubDate: 2026-05-23
 updatedDate: 2026-05-23
 author: "Tzion S."

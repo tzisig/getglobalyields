@@ -1,6 +1,6 @@
 ---
 slug: best-broker-israeli-investors-us-markets
-title: "Best Brokers for Israeli Investors in US Markets (2026 Comparison)"
+title: "Best Brokers for Israeli Investors in US Markets (2026)"
 description: "Compare the best brokers for Israeli investors trading US stocks, ETFs, and options. IBKR vs Saxo vs eToro — fees, FX costs, tax handling, and options access."
 pubDate: 2026-04-01
 updatedDate: 2026-05-12

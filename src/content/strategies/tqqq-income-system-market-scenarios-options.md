@@ -1,7 +1,7 @@
 ---
 title: "How a TQQQ Income System Works: 3 Market Scenarios"
 slug: "tqqq-income-system-market-scenarios-options"
-description: "Breakdown of TQQQ income system using options across rising, sideways, and falling markets."
+description: "TQQQ income system across market scenarios. How covered calls and puts perform in bull, bear, and sideways markets — with real premium data and sizing rules."
 pubDate: 2026-05-04
 author: "Global Yields Team"
 categories: ["strategies"]

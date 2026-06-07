@@ -1,7 +1,7 @@
 ---
 slug: wheel-strategy-tqqq
-title: "The Wheel Strategy on TQQQ: Step-by-Step (And Why You Should Think Twice)"
-description: "A complete guide to running the wheel strategy on TQQQ - how it works, why the high premiums are tempting, and the real risks that most tutorials skip. Includes a comparison with QQQ and SPY."
+title: "The Wheel Strategy on TQQQ: Step-by-Step Guide (2026)"
+description: "How to run the Wheel Strategy on TQQQ as a non-US investor. Cash-secured puts, covered calls, assignment handling, and the real risks of wheeling a 3x ETF."
 pubDate: 2026-05-24
 updatedDate: 2026-05-24
 author: "Tzion S."

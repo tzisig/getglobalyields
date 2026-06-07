@@ -1,7 +1,7 @@
 ---
 slug: taxes-us-dividends-foreign-investors
-title: "Taxes on US Dividends for Foreign Investors: The Complete 2026 Guide"
-description: "How the US taxes dividends paid to foreign investors. The 30% default rate, treaty reductions, exempt dividend categories, REITs, ETFs, and how to reclaim overwithholding - all verified against IRS sources."
+title: "US Dividend Withholding Tax for Foreign Investors (2026)"
+description: "How the US taxes dividends paid to non-residents. The 30% default rate, treaty reductions, ETF vs stock treatment, and how to reclaim overwithholding."
 pubDate: 2026-05-24
 updatedDate: 2026-05-24
 author: "Tzion S."

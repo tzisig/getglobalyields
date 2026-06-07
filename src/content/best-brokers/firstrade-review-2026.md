@@ -1,6 +1,6 @@
 ---
-title: "Firstrade Review 2026: A Zero-Commission Broker for Non-US Investors?"
-description: "Honest Firstrade review for international investors. Fees, account types, platforms, tax implications, and how it compares to IBKR for non-US clients."
+title: "Firstrade Review 2026: Free Options for Non-US Investors"
+description: "Firstrade reviewed for non-US investors. Zero-commission options, no account minimum, and the limitations that matter for international traders."
 pubDate: 2026-05-23
 updatedDate: 2026-05-23
 author: "Tzion S."

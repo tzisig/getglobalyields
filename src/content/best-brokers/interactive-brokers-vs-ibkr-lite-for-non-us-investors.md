@@ -1,7 +1,7 @@
 ---
 slug: interactive-brokers-vs-ibkr-lite-for-non-us-investors
-title: "Interactive Brokers Review for Non-US Investors (2026) - IBKR Pro vs IBKR Lite Explained"
-description: "A complete, honest review of Interactive Brokers for non-US and Israeli investors in 2026. We explain why IBKR Lite is unavailable outside the US, what IBKR Pro actually costs, and whether it's worth it."
+title: "Interactive Brokers vs IBKR Lite for Non-US Investors (2026)"
+description: "IBKR Pro vs IBKR Lite compared for international investors. Which account type saves more on fees, commissions, and options trading outside the US."
 pubDate: 2026-05-18
 updatedDate: 2026-05-18
 author: "Finance Team"

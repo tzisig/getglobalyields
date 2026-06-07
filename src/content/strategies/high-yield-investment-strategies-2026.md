@@ -1,7 +1,7 @@
 ---
 slug: high-yield-investment-strategies-2026
 title: "High-Yield Investment Strategies That Actually Work in 2026"
-description: "A honest, data-driven guide to high-yield investing in 2026 - REITs, BDCs, CLO ETFs, covered calls, and dividend stocks with verified current yields. What works, what is a yield trap, and how to build an income portfolio that lasts."
+description: "High-yield investment strategies for international investors. Covered call ETFs, REITs, BDCs, and bonds — verified yields with tax and risk analysis for 2026."
 pubDate: 2026-05-25
 updatedDate: 2026-05-25
 author: "Tzion S."

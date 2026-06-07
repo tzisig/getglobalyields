@@ -1,6 +1,6 @@
 ---
-title: "The QQQ 225-Day Moving Average Strategy: What the Data Actually Shows"
-description: "A rigorous, data-driven analysis of the 225-day moving average strategy applied to QQQ and TQQQ. Verified backtest results from Masonson's research, why it works for QQQ, why it underperforms on TQQQ, and what investors should actually do with the strategy."
+title: "QQQ 225-Day Moving Average Strategy: Complete Guide"
+description: "How the 225-day moving average strategy works on QQQ. Entry and exit rules, historical backtest results, and how international investors implement it via IBKR."
 pubDate: 2026-05-31
 updatedDate: 2026-05-31
 author: "Tzion S."

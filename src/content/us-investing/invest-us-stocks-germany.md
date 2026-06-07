@@ -1,6 +1,6 @@
 ---
-title: "How to Invest in US Stocks from Germany: The Complete 2026 Guide"
-description: "A practical guide for German investors buying US stocks and ETFs - Abgeltungsteuer, Vorabpauschale, Freistellungsauftrag, UCITS vs US ETFs, and the best brokers in Germany. Verified 2026 figures."
+title: "How to Invest in US Stocks from Germany (2026 Guide)"
+description: "How to invest in US stocks from Germany. Broker options, W-8BEN, Abgeltungsteuer, UCITS vs US ETFs, and Vorabpauschale — explained clearly for 2026."
 pubDate: 2026-05-20
 updatedDate: 2026-05-20
 author: "Tzion S."

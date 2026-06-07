@@ -1,6 +1,6 @@
 ---
-title: "Best Brokers for International Investors in 2026: A Complete Guide for Expats and Global Market Participants"
-description: "Compare the best brokers for international investors in 2026-US market access, W-8BEN, fees, multi-currency accounts, and what expats and non-residents should prioritize."
+title: "Best Brokers for International Investors (2026)"
+description: "Top US brokers for non-US investors in 2026. Compare IBKR, Tastytrade, Firstrade, eToro and more — fees, options access, tax handling, and FX costs."
 pubDate: 2026-04-12
 updatedDate: 2026-05-12
 author: "Tzion S."

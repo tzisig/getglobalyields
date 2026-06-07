@@ -1,6 +1,6 @@
 ---
 slug: portfolio-diversification-leveraged-funds
-title: "Portfolio Diversification with Leveraged Funds: The 3x Approach"
+title: "Portfolio Diversification with Leveraged ETFs: The 3x Guide"
 description: "How to build a diversified portfolio using leveraged ETFs. The 3x approach to balancing risk and reward for international investors."
 pubDate: 2026-04-01
 updatedDate: 2026-04-01

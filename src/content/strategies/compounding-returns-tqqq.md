@@ -1,7 +1,7 @@
 ---
 slug: compounding-returns-tqqq
 title: "Compounding Returns with TQQQ: Math vs Reality (2026)"
-description: "The real numbers behind TQQQ's 3x leverage promise - volatility decay, historical year-by-year returns, the 2022 drawdown, and who should actually hold it."
+description: "How compounding works with TQQQ. The math behind 3x leverage compounding, volatility drag impact, and realistic long-term scenarios for non-US investors."
 pubDate: 2026-05-24
 updatedDate: 2026-05-24
 author: "Tzion S."

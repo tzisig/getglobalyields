@@ -1,7 +1,7 @@
 ---
 slug: global-asset-protection
-title: "Global Asset Protection: How to Safeguard Your Wealth (2026)"
-description: "A practical guide to global asset protection for international investors - jurisdictions, legal structures, FATCA/CRS compliance, and what actually works in 2026."
+title: "Global Asset Protection for International Investors"
+description: "How non-US investors can protect assets across borders. Covers broker safety, account structures, and legal considerations for international portfolios."
 pubDate: 2026-04-01
 updatedDate: 2026-05-25
 author: "Tzion S."

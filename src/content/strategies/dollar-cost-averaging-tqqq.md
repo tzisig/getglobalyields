@@ -1,7 +1,7 @@
 ---
 slug: dollar-cost-averaging-tqqq
-title: "Dollar-Cost Averaging into TQQQ: When It Helps, When It Doesn't"
-description: "DCA into TQQQ is not one strategy - it's four different strategies depending on when you start. Four real start-date scenarios calculated from Yahoo Finance price data show when DCA beats lump sum, when lump sum dominates, and what the numbers actually say."
+title: "Dollar-Cost Averaging TQQQ: Strategy Guide for 2026"
+description: "How to DCA into TQQQ as a non-US investor. Entry timing, position sizing, volatility decay impact, and when DCA works — and when it doesn't — on a 3x ETF."
 pubDate: 2026-05-24
 updatedDate: 2026-05-24
 author: "Tzion S."

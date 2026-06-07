@@ -1,6 +1,6 @@
 ---
 title: "How to Invest in US Stocks from Canada (2026 Guide)"
-description: "A practical guide for Canadian investors on buying US stocks - covering account types, withholding tax, currency conversion, Norbert's Gambit, and the best brokers in 2026."
+description: "How to invest in US stocks from Canada. Broker options, withholding tax under the US-Canada treaty, RRSP treatment of US dividends, and PFIC rules for Canadians."
 pubDate: 2026-05-24
 updatedDate: 2026-05-24
 author: "Tzion S."

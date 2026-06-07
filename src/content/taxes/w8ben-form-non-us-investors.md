@@ -1,7 +1,7 @@
 ---
 slug: w8ben-form-non-us-investors
-title: "W-8BEN Form Explained (2026): Reduce US Withholding Tax for Non-US Investors"
-description: "Complete W-8BEN guide for international investors. Learn how to reduce US withholding tax from 30% to treaty rates (15%-25%), avoid costly mistakes, and optimize your tax strategy."
+title: "W-8BEN Form: Complete Guide for International Investors"
+description: "How to complete and file Form W-8BEN to reduce US withholding tax from 30% to treaty rates. Common mistakes, renewal rules, and broker-specific instructions."
 pubDate: 2026-04-01
 updatedDate: 2026-05-12
 author: "Tzion S."

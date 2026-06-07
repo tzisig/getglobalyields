@@ -1,6 +1,6 @@
 ---
-title: "tastytrade Review 2026: Best Options Broker for International Traders?"
-description: "Honest tastytrade review for international options traders. Fees, platform quality, international account limitations, and how it compares to IBKR in 2026."
+title: "Tastytrade Review 2026: Options Broker for Non-US Investors"
+description: "Tastytrade reviewed for international investors. Flat-fee options, powerful analytics, and who qualifies for an account outside the US."
 pubDate: 2026-05-23
 updatedDate: 2026-05-23
 author: "Tzion S."

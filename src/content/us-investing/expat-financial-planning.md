@@ -1,6 +1,6 @@
 ---
-title: "Expat Financial Planning: Managing Investments Across Borders"
-description: "A practical guide for expats managing portfolios across jurisdictions. Covers FBAR, FATCA, PFIC rules, Irish UCITS ETFs, the new OBBBA remittance tax, currency risk, and broker selection for serious international investors."
+title: "Expat Financial Planning: US Investing from Abroad (2026)"
+description: "Financial planning for expats investing in US markets. Broker selection, tax treaties, W-8BEN, currency risk, and cross-border account structures explained."
 pubDate: 2026-05-20
 updatedDate: 2026-05-20
 author: "Tzion S."

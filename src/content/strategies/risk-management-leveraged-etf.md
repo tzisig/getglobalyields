@@ -1,6 +1,6 @@
 ---
 title: "Risk Management for Leveraged ETF Investors (2026)"
-description: "A data-driven guide to managing risk in leveraged ETF portfolios - position sizing, the Kelly Criterion, SMA-based exit rules, drawdown protection, and what actually works in 2026."
+description: "Risk management for leveraged ETF investors. Position sizing, SMA exit rules, VIX overlays, drawdown limits, and tax-aware execution for TQQQ and UPRO traders."
 pubDate: 2026-05-30
 updatedDate: 2026-05-30
 author: "Tzion S."

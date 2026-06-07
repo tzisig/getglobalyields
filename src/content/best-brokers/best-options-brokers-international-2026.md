@@ -1,6 +1,6 @@
 ---
 title: "Best Options Brokers for International Traders 2026"
-description: "A practical guide to the top options brokers for traders outside the US. Real fees, platform comparisons, and what actually matters when trading options from abroad."
+description: "Best options brokers for non-US investors in 2026. IBKR, Tastytrade, and Firstrade compared on commissions, platform, country eligibility, and options access."
 pubDate: 2026-05-12
 updatedDate: 2026-05-20
 author: "Tzion S."
