@@ -246,3 +246,14 @@ Tax-advantaged account wherever possible. TQQQ's compounding is severely hampere
 
 **What percentage of a portfolio should TQQQ represent?**
 There is no universal answer, but a useful framework: TQQQ should represent no more than the percentage of your portfolio where an 80% loss in that position would not materially impair your financial life or force you to sell other assets. For most investors, that is a small single-digit percentage of total assets. For investors with a high risk tolerance, a long time horizon, and demonstrated behavioral resilience through past drawdowns, it may be higher. The right size is the one you can actually hold through a severe bear market - not the one that maximizes expected return in a spreadsheet.
+
+---
+
+## Related Articles
+
+- [TQQQ Long-Term Strategy: Buy and Hold Analysis](/strategies/tqqq-long-term-strategy-buy-and-hold)
+- [TQQQ vs QQQ: Which Is Right for International Investors?](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026)
+- [TQQQ vs SOXL vs UPRO: Which Leveraged ETF Wins?](/strategies/tqqq-vs-soxl-vs-upro)
+- [Risk Management for Leveraged ETF Investors](/strategies/risk-management-leveraged-etf)
+- [How to Hedge TQQQ](/strategies/how-to-hedge-tqqq)
+- [Selling Covered Calls on TQQQ](/options-income/selling-covered-calls-tqqq)

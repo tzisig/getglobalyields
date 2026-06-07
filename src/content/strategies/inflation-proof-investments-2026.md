@@ -284,3 +284,14 @@ Inflation eventually comes down. Real-return discipline, built into a portfolio 
 *This article is for informational purposes only and does not constitute investment advice. All figures and market data reflect publicly available information as of May 2026. ISIN references are provided for identification only - verify current availability and terms with your broker before investing. Past performance of any asset class is not a guarantee of future results. Consult a qualified financial adviser before making investment decisions.*
 
 *Sources: US Bureau of Labor Statistics CPI data (April 2026); Federal Reserve TIPS breakeven rates; Hartford Funds, "Which Equity Sectors Can Combat Higher Inflation?" (energy 74%, REITs 66% figures); Deutsche Finanzagentur inflation-linked bond data and annual report 2024; ECB/Bank of Greece Inflation Monitor (February 10, 2026); gilt-edge.uk UK real yield and breakeven data (May 12, 2026); Trading Economics gilt and Bund yield data (May 26, 2026); Brookfield Infrastructure Partners Q1 2026 earnings release; J.P. Morgan central bank gold demand data; Bloomberg Commodity Index Total Return data; justETF UCITS ETF data (May 2026).*
+
+---
+
+## Related Articles
+
+- [JEPI vs SCHD vs QYLD: Full Comparison](/strategies/jepi-vs-schd-vs-qyld)
+- [Best High-Yield ETFs for Income Investors in 2026](/strategies/best-high-yield-etfs-2026)
+- [TQQQ vs QQQ: Which Is Right for International Investors?](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026)
+- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors)
+- [W-8BEN Form: Complete Guide](/taxes/w8ben-form-non-us-investors)
+- [Best Brokers for International Investors 2026](/best-brokers/best-brokers-international-investors-2026)

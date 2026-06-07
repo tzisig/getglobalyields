@@ -165,7 +165,7 @@ Article 13 follows the OECD model: gains from selling securities are taxable onl
 <!-- ADSENSE PLACEHOLDER — MID ARTICLE -->
 <!-- [ADSENSE_MID_2] -->
 
-## Form W-8BEN: The Single Highest-Value Action for German Investors
+## [Form W-8BEN](/taxes/w8ben-form-non-us-investors): The Single Highest-Value Action for German Investors
 
 For German residents receiving US-source income, **Form W-8BEN** is the mechanism for claiming reduced withholding. You provide it to your US broker or withholding agent - not to the IRS - before the first payment.
 

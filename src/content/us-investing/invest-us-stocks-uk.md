@@ -253,7 +253,7 @@ For most UK investors, a combination of ISA for growth-focused US positions and 
 - [Interactive Brokers Review 2026: The Best Broker for International Investors](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors)
 - [W-8BEN Form: Complete Guide for Non-US Investors](/taxes/w8ben-form-non-us-investors)
 - [Saxo Bank Review 2026: Pro Features for High Net Worth Investors](/best-brokers/saxo-bank-review-2026)
-- [TQQQ Tax Implications for International Investors](/taxes/tqqq-tax-international-investors)
+- [[TQQQ](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026) Tax Implications for International Investors](/taxes/tqqq-tax-international-investors)
 
 ---
 

@@ -231,3 +231,14 @@ A widely used combination: **SCHD (40%) + JEPI (40%) + QYLD (20%)** - balancing 
 
 *Sources: JPMorgan JEPI Fact Sheet (30/4/2026); Schwab Asset Management (SCHD); Yahoo Finance (May 26-27, 2026); TotalRealReturns.com (TTM figures, May 27, 2026); FinanceCharts.com (5Y CAGR and performance data); Global X QYLD fund page (distribution rate, May 26, 2026); PortfoliosLab (drawdown and beta data, May 2026); IRS Publication 515 (withholding tax rates).*
 
+
+---
+
+## Related Articles
+
+- [Best High-Yield ETFs for Income Investors in 2026](/strategies/best-high-yield-etfs-2026)
+- [Selling Covered Calls on TQQQ](/options-income/selling-covered-calls-tqqq)
+- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors)
+- [W-8BEN Form: Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors)
+- [Best Brokers for International Investors 2026](/best-brokers/best-brokers-international-investors-2026)
+- [TQQQ vs QQQ: Which Is Right for International Investors?](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026)

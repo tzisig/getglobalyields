@@ -40,7 +40,7 @@ This guide is about that gap - what every number in TQQQ's options chain actuall
 
 Before looking at any specific Greek, one structural fact shapes everything: TQQQ resets its leverage daily.
 
-Every trading day, ProShares rebalances TQQQ to maintain 3x exposure to the Nasdaq-100's daily return. That rebalancing creates volatility decay (also called beta slippage) - the gradual erosion of value in choppy markets that occurs independent of the Nasdaq-100's direction. On a day when the Nasdaq falls 5% and rises 5.26% the next, the index is flat. TQQQ is not. The daily reset means TQQQ ends slightly below where it started.
+Every trading day, ProShares rebalances TQQQ to maintain 3x exposure to the Nasdaq-100's daily return. That rebalancing creates [volatility decay](/strategies/risk-management-leveraged-etf) (also called beta slippage) - the gradual erosion of value in choppy markets that occurs independent of the Nasdaq-100's direction. On a day when the Nasdaq falls 5% and rises 5.26% the next, the index is flat. TQQQ is not. The daily reset means TQQQ ends slightly below where it started.
 
 This matters for options analysis because:
 
@@ -217,3 +217,14 @@ For historical backtesting of TQQQ options performance under different IV regime
 
 *IV range, volume, open interest, and spread data sourced from ApexVol (verified April 2026). TQQQ drawdown figures sourced from PortfoliosLab. Options mechanics and Greek definitions are standard financial concepts.*
 
+
+---
+
+## Related Articles
+
+- [Selling Covered Calls on TQQQ: Step-by-Step Guide](/options-income/selling-covered-calls-tqqq)
+- [The Wheel Strategy on TQQQ](/options-income/wheel-strategy-tqqq)
+- [TQQQ vs QQQ: Which Is Right for International Investors?](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026)
+- [Best Options Brokers for International Investors](/best-brokers/best-options-brokers-international-2026)
+- [TQQQ Tax Guide for International Investors](/taxes/tqqq-tax-international-investors)
+- [Interactive Brokers Review 2026](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors)

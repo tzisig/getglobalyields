@@ -37,8 +37,6 @@ schema:
   mainEntityOfPage: "https://getglobalyields.com/w8ben-form-non-us-investors"
 ---
 
-# W-8BEN Form Explained (2026)
-
 If you invest in US stocks or ETFs as a non-US resident, one form directly determines how much of your returns you actually keep: the W-8BEN.
 
 Without it, the IRS withholds 30% of your dividends and certain types of interest. With it, and with the correct tax treaty applied, that rate drops to 15% for most countries and 25% for [Israeli](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026) investors.
@@ -221,7 +219,7 @@ Also read:
 
 - [Interactive Brokers review](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors)
 - [TQQQ tax guide for international investors](/taxes/tqqq-tax-international-investors)
-- [real TQQQ recovery case study](/case-study/rom-minus-70-to-plus-492k-real-tqqq-recovery-case-study/)
+- [real TQQQ recovery case study](/case-study/from-minus-70-to-plus-492k-real-tqqq-recovery-case-study/)
 
 ## FAQ
 

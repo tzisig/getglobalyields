@@ -91,7 +91,7 @@ This review is written specifically for non-US investors - Israelis, Canadians, 
 
 ## **Options Trading at IBKR**
 
-For investors interested in options income strategies - [covered calls](/options-income/selling-covered-calls-tqqq), cash-secured puts, [the Wheel](/options-income/wheel-strategy-tqqq) - IBKR is one of the strongest platforms available to international investors.
+For investors interested in options income strategies - [covered calls](/options-income/selling-covered-calls-tqqq), [cash-secured puts](/options-income/cash-secured-puts-high-iv), [the Wheel](/options-income/wheel-strategy-tqqq) - IBKR is one of the strongest platforms available to international investors.
 
 **What works well:**
 

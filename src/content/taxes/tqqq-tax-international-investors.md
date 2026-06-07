@@ -20,8 +20,6 @@ readingTime: "9 min read"
 featured: false
 ---
 
-# **TQQQ for Non-US Investors: Tax Implications Explained (2026 Guide)**
-
 If you're investing in US markets from outside the US, understanding taxes is not optional — it directly impacts your real returns.
 
 TQQQ is widely discussed for its high returns potential. But most tax guides are written for US residents.

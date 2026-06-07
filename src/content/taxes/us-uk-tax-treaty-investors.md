@@ -35,7 +35,7 @@ That is the most actionable part of the US-UK tax treaty for most UK investors, 
 
 The US-UK tax treaty caps dividend withholding at 15% for portfolio investors. That is the rate you pay on US dividends in a standard taxable account and inside an ISA. What most UK investors do not know is that qualifying UK pension schemes - including SIPPs - receive a further exemption, dropping the rate to zero.
 
-This is confirmed in Article 10(3) of the treaty, which exempts pension schemes from withholding. AJ Bell, the UK's major self-invested pension provider, states this explicitly: "A form is not required to buy and sell US investments in your AJ Bell SIPP, or to benefit from the 0% [withholding tax](/taxes/taxes-us-dividends-foreign-investors) rate for qualifying pension schemes... US investments are automatically exempt from withholding tax."
+This is confirmed in Article 10(3) of the treaty, which exempts pension schemes from withholding. [AJ Bell](/best-brokers/best-brokers-international-investors-2026), the UK's major self-invested pension provider, states this explicitly: "A form is not required to buy and sell US investments in your AJ Bell SIPP, or to benefit from the 0% [withholding tax](/taxes/taxes-us-dividends-foreign-investors) rate for qualifying pension schemes... US investments are automatically exempt from withholding tax."
 
 Hargreaves Lansdown operates the same way. A qualifying SIPP with either provider receives US dividends on individual US stocks with no US withholding deducted at source.
 
@@ -50,7 +50,7 @@ A UK investor holding $100,000 in US dividend stocks yielding 2% annually:
 
 That is $300 per year on a $100,000 portfolio - purely from account choice, not investment selection. On a £500,000 portfolio, it is £1,500 per year that either stays in the pension or goes to the IRS. Compounded over a 20-year accumulation period, the difference is substantial.
 
-**The critical caveat on ETFs:** The 0% pension exemption applies to direct individual US stock holdings where the SIPP is the registered beneficial owner on record with the IRS. It does not flow through to ETFs. If you hold an Irish-domiciled ETF (CSPX, VUSA) inside a SIPP, the fund itself pays 15% US withholding at the fund level before the dividends ever reach you - and the pension wrapper provides no benefit at that layer. The 0% rate only works with individual US stocks held directly.
+**The critical caveat on ETFs:** The 0% pension exemption applies to direct individual US stock holdings where the SIPP is the registered beneficial owner on record with the IRS. It does not flow through to ETFs. If you hold an [Irish-domiciled ETF](/strategies/best-high-yield-etfs-2026) (CSPX, VUSA) inside a SIPP, the fund itself pays 15% US withholding at the fund level before the dividends ever reach you - and the pension wrapper provides no benefit at that layer. The 0% rate only works with individual US stocks held directly.
 
 **Not all SIPP providers deliver the 0% rate.** The pension exemption requires the provider to have registered their SIPP with the IRS as a qualifying pension scheme and to have set up the correct withholding arrangements. AJ Bell and Hargreaves Lansdown both confirm they do this. InvestEngine's community forum shows investors asking whether InvestEngine handles US withholding reclaim for their SIPP - the answer from the platform was not a clear confirmation. Before opening a SIPP specifically to hold US individual stocks, verify in writing whether your provider delivers 0% withholding on US dividends.
 
@@ -58,7 +58,7 @@ That is $300 per year on a $100,000 portfolio - purely from account choice, not 
 |---|---|---|
 | AJ Bell | **0%** (confirmed) | No - automatic |
 | Hargreaves Lansdown | **0%** (confirmed) | No - automatic |
-| Interactive Investor | Not confirmed - check directly | Verify |
+| [Interactive Investor](/best-brokers/best-brokers-international-investors-2026) | Not confirmed - check directly | Verify |
 | Fidelity UK | Not confirmed - check directly | Verify |
 | InvestEngine | Not confirmed - check directly | Verify |
 
@@ -95,7 +95,7 @@ For individual investors this rate is not available. For most corporate investor
 
 ---
 
-## How to Claim the 15% Treaty Rate: Form W-8BEN
+## How to Claim the 15% Treaty Rate: [Form W-8BEN](/taxes/w8ben-form-non-us-investors)
 
 For UK residents holding US stocks in a taxable account or ISA, the mechanism for claiming the reduced 15% rate is Form W-8BEN - filed with your broker, not the IRS.
 

@@ -103,7 +103,7 @@ The last piece - the one people skip until it becomes a problem - is reporting. 
 
 ## Which Broker Should Indian Investors Use?
 
-### Interactive Brokers (IBKR)
+### [Interactive Brokers](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors) (IBKR)
 
 The best option for investors who want the full range of US markets, the lowest costs, and professional-grade tools. IBKR accepts Indian residents, handles W-8BEN correctly, provides Form 1042-S for tax reporting, and offers near-interbank FX rates at 0.002% - which matters when you are converting rupees to dollars.
 
@@ -277,7 +277,7 @@ If you are ready to start, here are four concrete steps - in order:
 
 - [Interactive Brokers Review 2026: The Best Broker for International Investors](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors)
 - [W-8BEN Form: Complete Guide for Non-US Investors](/taxes/w8ben-form-non-us-investors)
-- [TQQQ Tax Implications for International Investors](/taxes/tqqq-tax-international-investors)
+- [[TQQQ](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026) Tax Implications for International Investors](/taxes/tqqq-tax-international-investors)
 - [Best Brokers for Non-US Investors in US Markets (2026)](/taxes/best-broker-israeli-investors-us-markets)
 
 ---

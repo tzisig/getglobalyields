@@ -26,7 +26,7 @@ The broker she almost chose instead charged $0.03 per $100 converted. The same f
 
 That gap - between a lazy FX setup and a deliberate one - is what this guide is about. Not which broker has the prettiest app. Which one handles your money across currencies without bleeding you at the exchange rate.
 
-The numbers above aren't hypothetical. On a $100,000 portfolio with four deposits a year, a 1.5% FX markup costs roughly $6,000 over ten years. The best brokers charge 0.03 basis points - the same deposits cost about $120. The difference is $5,880, and most reviews don't mention it at all.
+The numbers above aren't hypothetical. On a $100,000 portfolio with four deposits a year, a 1.5% FX markup costs roughly $6,000 over ten years. The [best brokers](/best-brokers/best-brokers-international-investors-2026) charge 0.03 basis points - the same deposits cost about $120. The difference is $5,880, and most reviews don't mention it at all.
 
 Here are the accounts that get this right.
 
@@ -48,7 +48,7 @@ The brokers in this guide are the ones that actually show you what FX costs, cha
 
 ## The Top Options
 
-### 1. Interactive Brokers - The Best Overall
+### 1. [Interactive Brokers](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors) - The Best Overall
 
 [IBKR](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors) is the default answer for most serious international investors, and the FX workflow is the main reason why.
 

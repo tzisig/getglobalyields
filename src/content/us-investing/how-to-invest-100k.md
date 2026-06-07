@@ -161,7 +161,7 @@ VWCE is the single most widely held ETF among European retail investors doing pa
 
 IWDA covers only developed markets. If you want emerging market exposure separately - which gives you control over the allocation - pair IWDA with EIMI. For most investors, VWCE is cleaner.
 
-**Broker matters here.** Most local brokers in smaller markets do not provide access to these ETFs or charge fees that undermine the cost advantage. Interactive Brokers (IBKR) is the most widely used platform among serious international retail investors - global market access, strong regulatory standing, and competitive costs at this portfolio size. Saxo Bank is worth considering for investors who want a more full-service experience and are comfortable with slightly higher fees. [See our full comparison of the best brokers for international investors →]
+**Broker matters here.** Most local brokers in smaller markets do not provide access to these ETFs or charge fees that undermine the cost advantage. [Interactive Brokers](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors) (IBKR) is the most widely used platform among serious international retail investors - global market access, strong regulatory standing, and competitive costs at this portfolio size. Saxo Bank is worth considering for investors who want a more full-service experience and are comfortable with slightly higher fees. [See our full comparison of the best brokers for international investors →]
 
 ---
 

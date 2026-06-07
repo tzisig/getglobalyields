@@ -18,8 +18,6 @@ readingTime: "8 min read"
 featured: false
 ---
 
-# US-Israel Tax Treaty: Capital Gains & Dividend Rates (2026)
-
 Updated: May 2026  •  GetGlobalYields.com  •  Read time: ~8 min
 
 💡 **Bottom Line**
@@ -78,7 +76,7 @@ The W-8BEN is a one-page form where you:
 
 **Where to file it:**
 
-- **Interactive Brokers:** Account Management → Tax Forms → W-8BEN
+- **[Interactive Brokers](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors):** Account Management → Tax Forms → W-8BEN
 - **[eToro](/best-brokers/etoro-review-2026):** Settings → Account → Tax Forms
 - **[Firstrade](/best-brokers/firstrade-review-2026):** My Account → Tax Information → W-8BEN
 - **TD Ameritrade/Charles Schwab:** Similar sections in account settings

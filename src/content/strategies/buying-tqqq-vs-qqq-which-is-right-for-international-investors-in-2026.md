@@ -25,7 +25,7 @@ If you're investing in US markets from outside the US, you've probably come acro
 
 One is built for long-term growth. The other is a high-risk trading tool that can multiply gains - or destroy capital fast.
 
-I used TQQQ myself during a recovery phase after a 70% portfolio drawdown. Read the full breakdown: [Case Study: From -70% to +250%](/case-study/rom-minus-70-to-plus-492k-real-tqqq-recovery-case-study/)
+I used TQQQ myself during a recovery phase after a 70% portfolio drawdown. Read the full breakdown: [Case Study: From -70% to +250%](/case-study/from-minus-70-to-plus-492k-real-tqqq-recovery-case-study/)
 
 <!-- AdSense Placement -->
 
@@ -115,7 +115,7 @@ This is why long-term holding of TQQQ in unstable markets can fail - even if the
 - Reduced via tax treaties (e.g., [Israel](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026), EU)
 - Requires [W-8BEN](/taxes/w8ben-form-non-us-investors)
 
-The default US withholding rate is 30% - but most countries have a tax treaty that reduces this.
+The default [US withholding rate](/taxes/taxes-us-dividends-foreign-investors) is 30% - but most countries have a tax treaty that reduces this.
 
 Check your country's rate:- <a href="https://www.irs.gov/individuals/international-taxpayers/tax-treaty-tables" target="_blank" rel="noopener noreferrer">IRS Tax Treaty Tables</a>
 
@@ -156,7 +156,7 @@ TQQQ works only under specific conditions:
 
 *It should always be a small part of your portfolio.*
 
-In my own case, combining TQQQ with an options strategy during a recovery phase turned this structural risk into a significant advantage - [you can read the full breakdown in the case study.](/case-study/rom-minus-70-to-plus-492k-real-tqqq-recovery-case-study)
+In my own case, combining TQQQ with an [options strategy](/options-income/selling-covered-calls-tqqq) during a recovery phase turned this structural risk into a significant advantage - [you can read the full breakdown in the case study.](/case-study/from-minus-70-to-plus-492k-real-tqqq-recovery-case-study)
 
 ## **When to Avoid TQQQ**
 

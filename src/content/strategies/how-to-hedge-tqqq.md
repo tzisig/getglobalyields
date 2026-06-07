@@ -11,7 +11,7 @@ tags:
   - "TQQQ protective put"
   - "TQQQ collar"
   - "TQQQ SQQQ hedge"
-  - "TQQQ risk management"
+  - "TQQQ [risk management](/strategies/risk-management-leveraged-etf)"
   - "leveraged ETF hedge"
   - "TQQQ position sizing"
 heroImage: "/images/blog/strategies/how-to-hedge-tqqq.webp"

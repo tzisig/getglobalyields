@@ -26,7 +26,7 @@ If you live outside the United States but want access to US stocks, ETFs, and op
 
 The good news: opening a US brokerage account as a non-resident is entirely legal and more straightforward than most people think. The bad news: most mainstream guides are written for US citizens, leaving international investors confused about the process.
 
-This guide walks you through everything - eligibility, required documents, tax forms, and the best brokers that actually accept non-US residents in 2026.
+This guide walks you through everything - eligibility, required documents, tax forms, and the best brokers that actually accept non-US residents in 2026. For a full comparison of those brokers, see our [best brokers for international investors 2026](/best-brokers/best-brokers-international-investors-2026) guide.
 
 ## **Can Non-US Residents Open a US Brokerage Account?**
 
@@ -35,7 +35,7 @@ Yes - with conditions. US law does not prohibit non-residents from investing in 
 The key requirements are:
 
 -   A valid government-issued ID (passport preferred)
--   Proof of address in your country of residence - A completed [W-8BEN](/taxes/w8ben-form-non-us-investors) form (more on this below)
+-   Proof of address in your country of residence - A completed [W-8BEN](/taxes/w8ben-form-non-us-investors) form — our [complete W-8BEN guide](/taxes/w8ben-form-non-us-investors) walks through every field
 -   A foreign bank account for funding
 
 Some brokers also require a minimum deposit, and a small number of countries are restricted due to US sanctions or local regulations.
@@ -46,7 +46,7 @@ The W-8BEN is an IRS form that certifies you are a foreign person for US tax pur
 
 **Why it matters:**
 
--   Without a W-8BEN, US brokers are required to withhold 30% tax on your dividends and interest payments - With a W-8BEN, the withholding rate drops to whatever your country's tax treaty with the US specifies - often 15% or lower - For example, the US-[Israel](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026) tax treaty reduces dividend withholding to 25% in most cases (and lower on certain income types)
+-   Without a W-8BEN, US brokers are required to withhold 30% tax on your dividends and interest payments - With a W-8BEN, the withholding rate drops to whatever your country's [tax treaty with the US](/taxes/taxes-us-dividends-foreign-investors) specifies - often 15% or lower - For example, the US-[Israel](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026) tax treaty reduces dividend withholding to 25% in most cases (and lower on certain income types)
 
 The W-8BEN is not complicated. It asks for your name, country of citizenship, country of residence, and tax identification number. Most brokers let you fill it out digitally during the account opening process.
 

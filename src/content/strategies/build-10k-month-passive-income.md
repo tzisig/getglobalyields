@@ -78,7 +78,7 @@ The liquidity and stability anchor. Generates income while maintaining full opti
 **Layer 2 - Dividend Growth Equity (3-4% yield, total return compounding)**
 The inflation-protection and capital appreciation component. Lower current yield but growing income over time. The only layer that reliably keeps pace with inflation over a decade.
 
-**Layer 3 - Covered Call ETFs (8-14% yield, equity risk with capped upside)**
+**Layer 3 - [Covered Call ETFs](/strategies/best-high-yield-etfs-2026) (8-14% yield, equity risk with capped upside)**
 The primary income engine for investors who need current cash flow above what Layers 1 and 2 provide. Monthly distributions. The tradeoff is structural underperformance versus plain equity index funds in strong bull markets.
 
 **Layer 4 - REITs and BDCs (5-11% yield, specialized credit and real estate risk)**
@@ -126,7 +126,7 @@ Honest context: SCHD has underperformed the S&P 500 by approximately 2.6 percent
 - AUM: $45 billion
 - Pays monthly
 
-JEPI is the income anchor for the covered call sleeve. Its beta of 0.48 means it moves approximately half as much as the S&P 500 in either direction, making it the most defensively positioned option in this category. In the 2022 drawdown, JEPI fell approximately 3.5% while the S&P 500 declined 18.1% on a total return basis.
+JEPI is the income anchor for the covered call sleeve. For a detailed comparison of JEPI, SCHD, and QYLD, see our [JEPI vs SCHD vs QYLD guide](/strategies/jepi-vs-schd-vs-qyld). Its beta of 0.48 means it moves approximately half as much as the S&P 500 in either direction, making it the most defensively positioned option in this category. In the 2022 drawdown, JEPI fell approximately 3.5% while the S&P 500 declined 18.1% on a total return basis.
 
 Tax note: JEPI distributions are classified as ordinary income from equity-linked notes. For U.S. investors in the 32% bracket, an 8.3% yield becomes approximately 5.6% after-tax in a taxable account. International investors subject to 15% withholding receive approximately 7.1% net.
 
@@ -255,11 +255,11 @@ Gross yield is not net income. The gap between what the portfolio generates and 
 
 ### The Estate Tax Trap Most International Investors Miss
 
-U.S. citizens and permanent residents enjoy a $15 million federal estate tax exemption in 2026. Non-resident aliens - investors who are not U.S. citizens and not domiciled in the U.S. - receive an exemption of only $60,000 on U.S.-situs assets.
+U.S. citizens and permanent residents enjoy a $15 million federal estate tax exemption in 2026. Non-resident aliens - investors who are not U.S. citizens and not domiciled in the U.S. - receive an exemption of only $60,000 on U.S.-situs assets. International investors should use a broker like [Interactive Brokers](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors) that handles W-8BEN and tax treaty documentation correctly.
 
 U.S.-situs assets subject to estate tax include shares in U.S. corporations (JEPI, JEPQ, ARCC, SCHD, Realty Income - all of them). At rates up to 40% on assets above $60,000, a non-resident alien investor who dies holding a $2M income portfolio in U.S. ETFs faces a potential estate tax liability of approximately $776,000.
 
-15 countries have estate tax treaties with the U.S. that increase the effective exemption for qualifying residents. Holding U.S. ETFs through a non-U.S. domiciled fund structure (Irish-domiciled ETFs) removes the U.S.-situs classification in many treaty frameworks. If you are a non-U.S. investor building a $1.5M+ income portfolio in U.S.-listed securities, the estate tax exposure is a structural planning requirement. Consult a cross-border tax attorney before committing capital at this scale.
+15 countries have estate tax treaties with the U.S. that increase the effective exemption for qualifying residents. Holding U.S. ETFs through a non-U.S. domiciled fund structure (Irish-domiciled ETFs) removes the U.S.-situs classification in many treaty frameworks. If you are a non-U.S. investor building a $1.5M+ income portfolio in U.S.-listed securities, the estate tax exposure is a structural planning requirement. Consult a cross-border tax attorney before committing capital at this scale. For broker selection, see our [best brokers for international investors](/best-brokers/best-brokers-international-investors-2026) guide.
 
 ### Withholding Tax for International Investors
 
@@ -311,7 +311,7 @@ What each instrument actually does in a severe downturn:
 
 **ARCC** - fell approximately 50% in the March 2020 COVID crash before recovering within 6 months. Dividend was maintained. In a prolonged credit deterioration (2008 scenario), NAV would decline and dividend coverage could become stressed.
 
-**The behavioral risk:** The most common failure in income portfolios is not that the investments perform poorly - it is that investors sell during drawdowns. Building a 6-12 month cash reserve in SGOV before starting this portfolio is not optional - it is the difference between staying invested and panic-selling at the bottom.
+**The behavioral risk:** The most common failure in income portfolios is not that the investments perform poorly - it is that investors sell during drawdowns. Building a 6-12 month cash reserve in SGOV before starting this portfolio is not optional. See also our [risk management guide for leveraged ETF investors](/strategies/risk-management-leveraged-etf). - it is the difference between staying invested and panic-selling at the bottom.
 
 ---
 

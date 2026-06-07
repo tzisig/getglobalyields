@@ -10,7 +10,7 @@ tags:
   - "0DTE options strategy"
   - "zero days to expiration options"
   - "0DTE SPX trading"
-  - "0DTE risk management"
+  - "0DTE [risk management](/strategies/risk-management-leveraged-etf)"
   - "options day trading 2026"
   - "PDT rule change 2026"
   - "iron condor 0DTE"
@@ -128,7 +128,7 @@ Win rates on 0DTE put credit spreads were also extremely high during the largely
 
 ---
 
-## The PDT Rule Change: What It Means for 0DTE Traders
+## The [PDT Rule](/best-brokers/how-to-open-a-us-brokerage-account-as-a-non-resident-2026-guide) Change: What It Means for 0DTE Traders
 
 On April 14, 2026, the SEC approved FINRA's elimination of the Pattern Day Trader rule - the framework requiring traders to maintain $25,000 in a margin account to make more than three day trades per five-day period. The new intraday margin framework took effect June 4, 2026, with an 18-month phase-in period for brokers.
 
@@ -144,7 +144,7 @@ For undisciplined traders who previously had the $25,000 requirement as a de fac
 
 Two differences matter most.
 
-**Tax treatment.** SPX options qualify for Section 1256 tax treatment - 60% of gains are taxed at the long-term capital gains rate and 40% at the short-term rate, regardless of holding period. For active 0DTE traders generating significant income, this can represent meaningful tax savings compared to trading SPY or individual stock options. SPX is also cash-settled, eliminating any risk of unexpected share assignment at expiration.
+**Tax treatment.** SPX options qualify for Section 1256 [tax treatment](/taxes/tqqq-tax-international-investors) - 60% of gains are taxed at the long-term capital gains rate and 40% at the short-term rate, regardless of holding period. For active 0DTE traders generating significant income, this can represent meaningful tax savings compared to trading SPY or individual stock options. SPX is also cash-settled, eliminating any risk of unexpected share assignment at expiration.
 
 **Liquidity.** SPX has the deepest 0DTE liquidity of any product. Bid-ask spreads are tighter relative to premium, reducing slippage costs - which matter more than most traders realize when you are trading daily.
 
@@ -207,3 +207,14 @@ The traders who survive 0DTE long-term are not the ones who are right most often
 
 *Last updated: May 2026*
 
+
+---
+
+## Related Articles
+
+- [Selling Covered Calls on TQQQ: Step-by-Step Guide](/options-income/selling-covered-calls-tqqq)
+- [The Wheel Strategy on TQQQ](/options-income/wheel-strategy-tqqq)
+- [Cash-Secured Puts in High IV Environments](/options-income/cash-secured-puts-high-iv)
+- [TQQQ Implied Volatility Strategies](/options-income/tqqq-implied-volatility-strategies)
+- [Best Options Brokers for International Investors](/best-brokers/best-options-brokers-international-2026)
+- [How to Open a US Brokerage Account as a Non-Resident](/best-brokers/how-to-open-a-us-brokerage-account-as-a-non-resident-2026-guide)

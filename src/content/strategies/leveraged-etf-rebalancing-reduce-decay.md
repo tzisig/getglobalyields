@@ -242,3 +242,13 @@ TQQQ's 10-year CAGR of 44% is real. So is the -79% it delivered in 2022. The inv
 ---
 
 *This article is for informational purposes only and does not constitute investment advice. Leveraged ETFs are complex instruments and carry significant risk of capital loss. All figures and market data reflect publicly available information as of May 2026. Past performance is not a guarantee of future results. Consult a qualified financial adviser before making investment decisions.*
+
+---
+
+## Related Articles
+
+- [TQQQ vs QQQ: Which Is Right for International Investors?](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026)
+- [Risk Management for Leveraged ETF Investors](/strategies/risk-management-leveraged-etf)
+- [Selling Covered Calls on TQQQ for Monthly Income](/options-income/selling-covered-calls-tqqq)
+- [TQQQ Tax Guide for International Investors](/taxes/tqqq-tax-international-investors)
+- [Best Brokers for International Investors 2026](/best-brokers/best-brokers-international-investors-2026)

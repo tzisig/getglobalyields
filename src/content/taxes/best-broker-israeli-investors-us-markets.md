@@ -20,8 +20,6 @@ readingTime: "8 min read"
 featured: false
 ---
 
-# **Finding the Best Broker in Israel for US Stocks (2026 Comparison)**
-
 When looking for the best broker in [Israel](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026) for US stocks, ETFs, or options strategies, your biggest cost isn't commissions.
 
 It's what I call "Hidden Tax Drag."
@@ -65,11 +63,11 @@ _Best for: Active investors, options traders, portfolios above ~$10K–$25K_
 - Real-time Greeks
 - Low commissions
 
-_If you're using strategies like [covered calls](/options-income/selling-covered-calls-tqqq) or cash-secured puts, this matters significantly._
+_If you're using strategies like [[covered call](/options-income/selling-covered-calls-tqqq)s](/options-income/selling-covered-calls-tqqq) or cash-secured puts, this matters significantly._
 
 ### **Estate Tax — Important Note**
 
-_⚠️ Non-US investors holding US-domiciled ETFs like TQQQ may be exposed to US estate tax on assets above ~$60,000. This is a real risk for long-term holders. The right approach depends on your individual situation — consult a tax advisor before building large positions._
+_⚠️ Non-US investors holding US-domiciled ETFs like [TQQQ](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026) may be exposed to US estate tax on assets above ~$60,000. This is a real risk for long-term holders. The right approach depends on your individual situation — consult a tax advisor before building large positions._
 
 ### **Downsides**
 
@@ -139,7 +137,7 @@ This is where most investors lose money without noticing.
 ### **2. Dividends**
 
 - 25% US withholding for Israeli investors (via W-8BEN treaty)
-- Unavoidable on dividend-paying ETFs — but more impactful on high-yield ETFs than on TQQQ
+- Unavoidable on dividend-paying ETFs — but more impactful on [high-yield ETF](/strategies/best-high-yield-etfs-2026)s than on TQQQ
 
 ### **3. Spreads**
 

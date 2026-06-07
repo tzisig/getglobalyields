@@ -27,7 +27,7 @@ rating: 4.8
 
 Selling covered calls on TQQQ generates some of the highest option premiums available in the ETF universe. That is not an accident. TQQQ's implied volatility consistently runs at roughly three times that of QQQ, which means option sellers collect far more premium than they would from any non-leveraged equivalent. On paper, it looks like an income machine.
 
-The reality is more complicated. TQQQ is already a complex instrument before a single option enters the picture. Its 3x daily leverage, daily rebalancing mechanism, and well-documented volatility decay mean that the underlying asset behaves differently from any stock or standard ETF you might typically write calls against. The high premium you collect reflects real risk. This guide explains both sides of that equation clearly.
+The reality is more complicated. TQQQ is already a complex instrument before a single option enters the picture. Its 3x daily leverage, daily rebalancing mechanism, and well-documented [volatility decay](/strategies/risk-management-leveraged-etf) mean that the underlying asset behaves differently from any stock or standard ETF you might typically write calls against. The high premium you collect reflects real risk. This guide explains both sides of that equation clearly.
 
 ---
 
@@ -137,7 +137,7 @@ The goal is to collect enough new premium from the roll to offset the loss on bu
 
 ## The Tax Treatment - Details That Matter
 
-Option income is taxed differently depending on how the position closes, and the rules have specific implications for covered calls. Source: IRS Publication 550 and Fidelity's tax guidance on covered calls.
+[Option income](/taxes/tqqq-tax-international-investors) is taxed differently depending on how the position closes, and the rules have specific implications for covered calls. Source: IRS Publication 550 (see our [W-8BEN guide](/taxes/w8ben-form-non-us-investors) for international tax filing) and Fidelity's tax guidance on covered calls.
 
 **If the call expires worthless:** The premium collected is treated as a short-term capital gain, regardless of how long you held the shares. Taxed at ordinary income rates.
 
@@ -283,3 +283,14 @@ Volatility decay hurts the long TQQQ position over time in choppy markets. If TQ
 **Can I use this strategy in a retirement account (IRA)?**
 Covered calls are permitted in IRAs at most major brokers. The tax treatment differs: gains in a traditional IRA are tax-deferred and taxed at ordinary income rates on withdrawal; gains in a Roth IRA are tax-free on qualified withdrawal. However, many retirement account holders should consider whether TQQQ is appropriate for retirement assets given its drawdown potential - that question is separate from and more fundamental than the covered call mechanics.
 
+
+---
+
+## Related Articles
+
+- [The Wheel Strategy on TQQQ](/options-income/wheel-strategy-tqqq)
+- [Cash-Secured Puts in High IV Environments](/options-income/cash-secured-puts-high-iv)
+- [Best Options Brokers for International Investors](/best-brokers/best-options-brokers-international-2026)
+- [TQQQ vs QQQ: Which Is Right for International Investors?](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026)
+- [TQQQ Tax Guide for International Investors](/taxes/tqqq-tax-international-investors)
+- [How to Open a US Brokerage Account as a Non-Resident](/best-brokers/how-to-open-a-us-brokerage-account-as-a-non-resident-2026-guide)

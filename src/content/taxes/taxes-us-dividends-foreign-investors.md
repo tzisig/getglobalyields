@@ -135,7 +135,7 @@ Countries without a US income tax treaty include Brazil, Singapore, UAE, Saudi A
 
 ---
 
-## How to Claim the Treaty Rate: Form W-8BEN
+## How to Claim the Treaty Rate: [Form W-8BEN](/taxes/w8ben-form-non-us-investors)
 
 To receive the reduced treaty rate, you must provide your broker or withholding agent with a completed Form [W-8BEN](/taxes/w8ben-form-non-us-investors) (Certificate of Foreign Status of Beneficial Owner for United States Tax Withholding and Reporting - Individuals). Entities use the related Form W-8BEN-E.
 

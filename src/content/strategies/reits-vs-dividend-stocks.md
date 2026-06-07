@@ -31,7 +31,7 @@ rating: 4.5
 
 The surface comparison is easy: REITs yield more. Average REIT yield sits above 4% in early 2026 - roughly triple the S&P 500's yield of approximately 1%, and above the Dividend Aristocrats' average of around 2.8%. If passive income is the goal, case closed.
 
-Not quite. For international investors, the yield figure on a screen is not the yield you receive. US withholding taxes, FIRPTA exposure on share sales, and the fact that a typical REIT distribution contains three different income types - each taxed differently - can shift the after-tax picture significantly enough to reverse the apparent REIT advantage.
+Not quite. For international investors, the yield figure on a screen is not the yield you receive. US [withholding tax](/taxes/taxes-us-dividends-foreign-investors)es, FIRPTA exposure on share sales, and the fact that a typical REIT distribution contains three different income types - each taxed differently - can shift the after-tax picture significantly enough to reverse the apparent REIT advantage.
 
 Most investors who arrive at this comparison have already decided they want REITs. The yield number convinced them. This guide is written for that investor specifically - the one who is about to commit capital to Realty Income or a REIT ETF and has not yet done the full tax math. The numbers may change the conclusion. They changed it for the case study at the end of this article.
 

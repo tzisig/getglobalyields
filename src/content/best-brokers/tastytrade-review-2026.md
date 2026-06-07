@@ -69,7 +69,7 @@ To put it in concrete terms: a trader running 30 contracts per leg on a strangle
 
 Index options follow the same structure. Futures run $0.75 per contract each way. Micro futures are also $0.75. Crypto carries no stated commission but a 0.50%-0.75% spread applies at execution.
 
-Exercise and assignment fees are $5 per leg, flat - regardless of how many shares are involved. Worth factoring in if you run strategies where assignment is a real possibility.
+Exercise and assignment fees are $5 per leg, flat - regardless of how many shares are involved. Worth factoring in if you run strategies like [covered calls](/options-income/selling-covered-calls-tqqq) or [the Wheel](/options-income/wheel-strategy-tqqq) where assignment is a real possibility.
 
 No account fee, no inactivity fee, no custody fee, no deposit fee for incoming wires. That last point matters specifically for international clients.
 
@@ -113,7 +113,7 @@ In 2024, FINRA fined tastytrade $30,000 for failing to properly supervise employ
 
 ## International Accounts: The Honest Picture
 
-tastytrade does offer international accounts to clients in eligible countries. The accounts open as cash accounts by default and can be upgraded to include margin, options, and futures based on account size and financial profile. The highest permission tier - called "The Works" - unlocks everything at once, and applying for it from the start is the most straightforward path.
+tastytrade does offer international accounts to clients in eligible countries. For a broader guide on opening any US brokerage account from abroad, see our [complete non-resident guide](/best-brokers/how-to-open-a-us-brokerage-account-as-a-non-resident-2026-guide). The accounts open as cash accounts by default and can be upgraded to include margin, options, and futures based on account size and financial profile. The highest permission tier - called "The Works" - unlocks everything at once, and applying for it from the start is the most straightforward path.
 
 International clients trade on the same fee schedule as US clients. The practical differences come down to a few things.
 
@@ -147,7 +147,7 @@ This does not make tastytrade an unstable platform in day-to-day use. It is a re
 
 ## tastytrade vs Interactive Brokers
 
-These two are the most common comparison for active international options traders, so here is a direct breakdown.
+These two are the most common comparison for active international options traders — see our full [best options brokers for international investors](/best-brokers/best-options-brokers-international-2026) guide for a broader comparison.
 
 | | tastytrade | Interactive Brokers |
 |---|---|---|

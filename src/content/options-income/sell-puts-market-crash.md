@@ -305,7 +305,7 @@ Learning to sell puts in a crash environment by starting in a crash is like lear
 
 ## For Non-US Investors: What Changes
 
-The strategy mechanics are identical globally. What differs is the platform, currency layer, and tax treatment.
+The strategy mechanics are identical globally. What differs is the platform, currency layer, and [tax treatment](/taxes/tqqq-tax-international-investors).
 
 ### Broker Access
 
@@ -365,3 +365,14 @@ The next crash will come. The traders who prepared in advance - who practiced in
 
 *This article is for informational and educational purposes only and does not constitute financial or investment advice. Options trading involves substantial risk of loss. Consult a licensed financial advisor before implementing any options strategy.*
 
+
+---
+
+## Related Articles
+
+- [Selling Covered Calls on TQQQ: Step-by-Step Guide](/options-income/selling-covered-calls-tqqq)
+- [The Wheel Strategy on TQQQ](/options-income/wheel-strategy-tqqq)
+- [TQQQ vs QQQ: Which Is Right for International Investors?](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026)
+- [Best Options Brokers for International Investors](/best-brokers/best-options-brokers-international-2026)
+- [TQQQ Tax Guide for International Investors](/taxes/tqqq-tax-international-investors)
+- [Interactive Brokers Review 2026](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors)

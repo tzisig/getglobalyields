@@ -17,8 +17,6 @@ readingTime: "10 min read"
 featured: false
 ---
 
-# PFIC Rules: What International Investors Must Know
-
 Updated: May 2026  •  GetGlobalYields.com  •  Read time: ~10 min
 
 💡 **Bottom Line**
@@ -200,7 +198,7 @@ If you already hold PFICs, get professional advice before exiting - the right se
 
 → [How to Convert ILS to USD at Interbank Rates Using IBKR](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026)
 
-→ [The Wheel Strategy on TQQQ: A Step-by-Step Guide](/options-income/wheel-strategy-tqqq)
+→ [The Wheel Strategy on [TQQQ](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026): A Step-by-Step Guide](/options-income/wheel-strategy-tqqq)
 
 → [US Estate Tax for Non-Residents: What International Investors Must Know](/taxes/taxes-us-dividends-foreign-investors)
 

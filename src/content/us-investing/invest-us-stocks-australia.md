@@ -171,7 +171,7 @@ Australian residents pay tax on worldwide income. US stocks are not exempt. Here
 
 If managing a separate international account is more complexity than you want right now, US-focused ETFs on the ASX solve the problem for passive investors. You buy in AUD through any standard broker, the fund manager handles currency conversion internally, and there is no FX fee to manage.
 
-The most widely held options: IVV (iShares S&P 500 ETF, MER 0.07%), NDQ (BetaShares Nasdaq 100 ETF, MER 0.48%), and QUAL (VanEck MSCI World ex-Australia Quality ETF, MER 0.40%). You pay the management fee every year, you cannot pick individual stocks, and you have no control over the fund's internal FX timing. For someone who wants broad US market exposure without the overhead, these are a legitimate choice - not a compromise.
+The most widely held options: [IVV](/strategies/best-high-yield-etfs-2026) (iShares S&P 500 ETF, MER 0.07%), NDQ (BetaShares Nasdaq 100 ETF, MER 0.48%), and QUAL (VanEck MSCI World ex-Australia Quality ETF, MER 0.40%). You pay the management fee every year, you cannot pick individual stocks, and you have no control over the fund's internal FX timing. For someone who wants broad US market exposure without the overhead, these are a legitimate choice - not a compromise.
 
 ---
 

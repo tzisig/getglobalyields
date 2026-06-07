@@ -162,7 +162,7 @@ Lukas decides: CSPX for his US core, VWCE for his monthly savings plan. Simple, 
 
 ### The Main Options in Germany
 
-**Interactive Brokers (IBKR)** is the benchmark for serious investors with larger portfolios. Commission rates are among the lowest available globally, the platform offers access to virtually every market worldwide, and the German-registered entity handles Abgeltungsteuer, Vorabpauschale, and Freistellungsauftrag automatically. The interface rewards patience to learn. At portfolio sizes above €50,000, the cost advantages are meaningful. [See our full IBKR review →]
+**Interactive Brokers (IBKR)** is the benchmark for serious investors with larger portfolios. Commission rates are among the lowest available globally, the platform offers access to virtually every market worldwide, and the German-registered entity handles Abgeltungsteuer, Vorabpauschale, and Freistellungsauftrag automatically. The interface rewards patience to learn. At portfolio sizes above €50,000, the cost advantages are meaningful. [See our full IBKR review →](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors)
 
 **Trade Republic** has become Germany's most popular retail broker for a reason. Commission-free ETF savings plans, clean mobile interface, fully automatic tax handling, and a fast onboarding process. The limitation: fewer order types, no margin lending, and limited access to non-European exchanges for individual stocks. For long-term ETF investors with monthly savings plans, it is hard to beat.
 

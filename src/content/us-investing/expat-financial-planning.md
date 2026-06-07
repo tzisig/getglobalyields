@@ -90,7 +90,7 @@ The OBBBA also raised the US federal estate tax exemption to $15 million per ind
 
 ### The PFIC Problem - The Most Expensive Mistake US Expats Make
 
-A Passive Foreign Investment Company ([PFIC](/taxes/pfic-rules-international-investors)) is any non-US fund-like entity where at least 75% of gross income is passive, or at least 50% of assets produce passive income. In practice, almost every non-US mutual fund and ETF qualifies - including the ones your local bank or financial adviser in your country of residence will enthusiastically recommend.
+A Passive Foreign Investment Company ([PFIC](/taxes/pfic-rules-international-investors)) is any non-US fund-like entity where at least 75% of gross income is passive, or at least 50% of assets produce [passive income](/strategies/build-10k-month-passive-income). In practice, almost every non-US mutual fund and ETF qualifies - including the ones your local bank or financial adviser in your country of residence will enthusiastically recommend.
 
 The key point that catches people out: PFIC classification is based on where the fund is legally domiciled, not what it holds. Vanguard's S&P 500 ETF (VTI), registered in the US, is not a PFIC. Vanguard's S&P 500 UCITS ETF (VUSA), registered in Ireland, is a PFIC - even though both track the same index and hold the same underlying stocks.
 

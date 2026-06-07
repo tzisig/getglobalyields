@@ -2,25 +2,21 @@
 title: "From -72% to over +250%: Real TQQQ Recovery Case Study (Non-US Investor)"
 description: "One investor's real journey with TQQQ — from a 72% drawdown to over 250% return using the Wheel Strategy. Full breakdown with numbers, mistakes, and current portfolio."
 pubDate: 2026-04-17
-updatedDate: 2026-05-12
+categories: ["case-study"]
 author: "Tzion S."
-categories: ["Case Study"]
-tags:
-  - "tqqq recovery case study"
-  - "tqqq wheel strategy real results"
-  - "tqqq drawdown recovery"
-  - "tqqq covered calls strategy"
-  - "leveraged etf recovery"
-  - "options income tqqq"
-  - "investing in tqqq from abroad"
 heroImage: "/images/blog/case-study/tqqq_recovery_light.webp"
 heroImageLight: "/images/blog/case-study/tqqq_recovery_light.webp"
 heroImageDark: "/images/blog/case-study/tqqq_recovery_dark.webp"
 products: ["TQQQ", "Options"]
 slug: "from-minus-70-to-plus-492k-real-tqqq-recovery-case-study"
-draft: false
-readingTime: "12 min read"
-featured: false
+tags:
+  - "TQQQ recovery case study"
+  - "TQQQ wheel strategy real results"
+  - "TQQQ drawdown recovery"
+  - "TQQQ covered calls strategy"
+  - "leveraged ETF recovery"
+  - "options income TQQQ"
+  - "investing in TQQQ from abroad"
 ---
 
 > [!NOTE]
@@ -57,9 +53,6 @@ As an international investor entering the US market, my first mistake was relyin
 
 **Result:** $100,000 → $28,000 within a year
 No edge. No system. Just exposure and hope.
-
-<img src="/images/blog/tqqq_recovery_light.webp" alt="TQQQ Recovery Banner" class="theme-light-only" />
-<img src="/images/blog/tqqq_recovery_dark.webp" alt="TQQQ Recovery Banner" class="theme-dark-only" />
 
 ## 2. The Turning Point (Late 2022)
 At the bottom, I stopped trading and started thinking.
@@ -226,3 +219,13 @@ The biggest risk is not volatility. It’s applying this in the wrong market env
 
 > [!CAUTION]
 > ⚠️ **Not financial advice.** This is a personal case study of one investor's experience. Past performance does not guarantee future results.
+
+---
+
+## Related Articles
+
+- [TQQQ vs QQQ: Which Is Right for International Investors?](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026)
+- [TQQQ Long-Term Strategy: Buy and Hold Analysis](/strategies/tqqq-long-term-strategy-buy-and-hold)
+- [Selling Covered Calls on TQQQ for Monthly Income](/options-income/selling-covered-calls-tqqq)
+- [Risk Management for Leveraged ETF Investors](/strategies/risk-management-leveraged-etf)
+- [Dollar-Cost Averaging TQQQ](/strategies/dollar-cost-averaging-tqqq)

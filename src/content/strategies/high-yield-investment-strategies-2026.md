@@ -256,3 +256,14 @@ Depends on your time horizon. If you need income now - in or near retirement - a
 **How does the 4.1% HYSA rate change the calculus for high-yield investing?**
 It raises the hurdle significantly. When cash paid 0.5% in 2020, a 4% REIT yield offered 3.5% above the risk-free rate. At today's 4.1% cash rate, a 4% REIT offers negative spread versus cash. The strategies that remain compelling are those offering 5%+ with specific, understandable risks. That standard eliminates a large portion of what gets marketed as "high yield."
 
+
+---
+
+## Related Articles
+
+- [Best High-Yield ETFs for Income Investors in 2026](/strategies/best-high-yield-etfs-2026)
+- [JEPI vs SCHD vs QYLD: Full Comparison](/strategies/jepi-vs-schd-vs-qyld)
+- [Selling Covered Calls on TQQQ for Monthly Income](/options-income/selling-covered-calls-tqqq)
+- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors)
+- [W-8BEN Form: Complete Guide](/taxes/w8ben-form-non-us-investors)
+- [Best Brokers for International Investors 2026](/best-brokers/best-brokers-international-investors-2026)

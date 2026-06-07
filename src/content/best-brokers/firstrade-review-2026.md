@@ -205,7 +205,7 @@ The honest framing: if you're a buy-and-hold investor who logs in occasionally a
 
 ## Firstrade vs Interactive Brokers
 
-For international investors, this is the comparison that matters most.
+For international investors, this is the comparison that matters most — for a broader look at all options brokers for non-US traders, see our [best options brokers for international investors](/best-brokers/best-options-brokers-international-2026) guide.
 
 | | Firstrade | Interactive Brokers |
 |---|---|---|
@@ -227,7 +227,7 @@ Firstrade wins on options costs and simplicity. IBKR wins on almost everything e
 
 ## Who This Is For
 
-Think about an investor like David, based in Singapore, building a passive portfolio of US index ETFs and occasionally trading options on individual US stocks. He doesn't need access to Asian exchanges through his US broker - he uses a local broker for that. He moves money once or twice a year, so the $25 wire fee is an annoyance rather than a meaningful cost. He doesn't use margin. He's not going to call customer service; he set his account up once and mostly leaves it alone.
+Think about an investor like David, based in Singapore, building a passive portfolio of US index ETFs and occasionally trading options on individual US stocks. He doesn't need access to Asian exchanges through his US broker - he uses a local broker for that. He moves money once or twice a year, so the $25 wire fee is an annoyance rather than a meaningful cost. He occasionally runs [covered calls](/options-income/selling-covered-calls-tqqq) on his ETF positions for extra income. He doesn't use margin. He's not going to call customer service; he set his account up once and mostly leaves it alone.
 
 For David, Firstrade is close to ideal. Zero commissions on every ETF purchase, zero per-contract fees on options, solid research tools, and $500,000 in SIPC protection plus the Lloyd's supplemental. He's not paying for features he doesn't use.
 
@@ -236,6 +236,8 @@ Now think about someone building a more complex portfolio - global equities, act
 ---
 
 ## How to Open an International Account
+
+> For a general guide on opening any US brokerage account from abroad, see our [complete non-resident walkthrough](/best-brokers/how-to-open-a-us-brokerage-account-as-a-non-resident-2026-guide).
 
 1. Go to **firstrade.com/accounts/international** and verify your country is on the current approved list before doing anything else
 2. Start the online application and select International Account
@@ -254,7 +256,7 @@ Firstrade is a broker that does a narrow set of things very well. Zero-commissio
 
 The limits are just as real. A USD-only account, a $25 fee on every withdrawal, margin rates that make borrowing expensive, cash that earns almost nothing, and customer service that multiple independent reviewers consistently rate as slow. For the right investor - passive, US-focused, low-activity, no leverage - none of those limits bite hard. For anyone else, they compound.
 
-The honest summary: Firstrade is a specialist tool. Used for what it's good at, it's excellent value. Used as a general-purpose broker for an international investor with complex needs, it will frustrate you.
+The honest summary: Firstrade is a specialist tool. For a full side-by-side of all brokers available to international investors, see our [best brokers for international investors 2026](/best-brokers/best-brokers-international-investors-2026) guide. Used for what it's good at, it's excellent value. Used as a general-purpose broker for an international investor with complex needs, it will frustrate you.
 
 **Rating: 4.0 / 5**
 

@@ -196,7 +196,7 @@ The drawdown limit is written down before the position is opened. It is not reco
 
 ## Hedging: What Works and What Costs Too Much
 
-Some investors attempt to [hedge leveraged](/strategies/how-to-hedge-tqqq) ETF positions using put options or inverse ETFs. The mechanics are correct - a long put on TQQQ or a position in SQQQ (3x inverse Nasdaq-100) gains value when TQQQ falls. The practical challenge is cost.
+Some investors attempt to [hedge leveraged](/strategies/how-to-hedge-tqqq) ETF positions using put options or inverse ETFs. Alternatively, some investors generate income on their leveraged positions using [covered calls](/options-income/selling-covered-calls-tqqq). The mechanics are correct - a long put on TQQQ or a position in SQQQ (3x inverse Nasdaq-100) gains value when TQQQ falls. The practical challenge is cost.
 
 ### Put options as a hedge
 
@@ -293,7 +293,7 @@ No. In choppy sideways markets, it generates false signals - exit and re-entry s
 Check the S&P 500's closing price relative to its 200-day SMA weekly. Free tools (StockCharts, TradingView) display this visually. When the S&P 500 closes below the 200-day SMA, reduce or exit the leveraged position. Define the re-entry condition (close back above 200-day SMA for two consecutive weeks, for example) before executing the exit.
 
 **What if I cannot monitor the SMA weekly?**
-Set a price alert on your broker platform or a free service like TradingView. The 200-day SMA moves slowly - it rarely changes by more than a few points per day. A weekly check is sufficient. Monthly monitoring creates the risk of missing the crossover signal during a fast-moving market decline.
+Set a price alert on your [broker platform](/best-brokers/best-brokers-international-investors-2026) or a free service like TradingView. The 200-day SMA moves slowly - it rarely changes by more than a few points per day. A weekly check is sufficient. Monthly monitoring creates the risk of missing the crossover signal during a fast-moving market decline.
 
 ---
 
