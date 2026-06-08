@@ -60,7 +60,7 @@ const latestPosts = allPosts
           (function() {
             var img = document.getElementById('hero-globe');
             if (!img) return;
-            var isDark = document.documentElement.classList.contains('dark');
+            var isDark = document.body.classList.contains('dark');
             if (!isDark) img.src = '/images/hero-globe-light.svg';
           })();
         </script>
@@ -302,7 +302,7 @@ const latestPosts = allPosts
   </section>
   <script is:inline>
     (function() {
-      var isDark = document.documentElement.classList.contains('dark');
+      var isDark = document.body.classList.contains('dark');
       if (isDark) return;
       document.querySelectorAll('.blog-hero-img').forEach(function(img) {
         var light = img.getAttribute('data-light');
