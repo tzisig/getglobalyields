@@ -24,6 +24,8 @@ rating: 4.9
 
 <!-- RELATED POSTS: "QQQ 225-Day Moving Average Strategy", "Leveraged ETF Rebalancing: How to Reduce Decay", "TQQQ Covered Calls and Cash-Secured Puts" -->
 
+This article covers TQQQ's verified historical performance and the forward-looking bull and bear case. If you already hold TQQQ and want a framework for managing the position, see [TQQQ Long-Term Strategy: Buy and Hold.](/strategies/tqqq-long-term-strategy-buy-and-hold)
+
 > **Important:** TQQQ is a 3x leveraged ETF designed to deliver three times the daily return of the Nasdaq-100. It has lost more than 79% of its value in a single calendar year. This article is educational and does not constitute financial advice. Read the risk sections fully before drawing any conclusions.
 
 ---
