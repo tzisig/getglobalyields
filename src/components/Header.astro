@@ -338,8 +338,6 @@ const currentPath = Astro.url.pathname;
     new google.translate.TranslateElement({ pageLanguage: 'en', autoDisplay: false }, 'google_translate_element');
   };
 </script>
-<script is:inline src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
-
 <script is:inline>
 (function () {
   var RTL_LANGS = ['iw', 'ar', 'he'];
@@ -409,10 +407,30 @@ const currentPath = Astro.url.pathname;
     }
   }
 
+  function loadGoogleTranslate(callback) {
+    if (window.google && window.google.translate) {
+      callback && callback();
+      return;
+    }
+    window.googleTranslateElementInit = function () {
+      new window.google.translate.TranslateElement(
+        { pageLanguage: 'en', autoDisplay: false },
+        'google_translate_element'
+      );
+      callback && callback();
+    };
+    var s = document.createElement('script');
+    s.src = '//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit';
+    s.async = true;
+    document.head.appendChild(s);
+  }
+
   function doTranslate(lang) {
     setCookie(lang);
     applyRTL(lang);
-    triggerSelect(lang);
+    loadGoogleTranslate(function() {
+      triggerSelect(lang);
+    });
   }
 
   function doReset() {
@@ -524,6 +542,8 @@ const currentPath = Astro.url.pathname;
         var flagImg = '<img src="https://flagcdn.com/20x15/' + cc + '.png" width="20" height="15" alt="' + match.label + '" />';
         document.querySelectorAll('[id^="translate-flag"]').forEach(function (el) { el.innerHTML = flagImg; });
         document.querySelectorAll('.lang-reset').forEach(function (r) { r.style.display = 'block'; });
+        // Load translate engine since a language was previously selected
+        loadGoogleTranslate(function() { triggerSelect(saved); });
       }
     }
   }
