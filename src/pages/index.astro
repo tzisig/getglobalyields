@@ -54,9 +54,18 @@ const latestPosts = allPosts
           <p class="text-sm text-slate-300">No sponsored rankings. No broker pays for rankings or placement.</p>
         </div>
         <div class="hidden lg:flex items-center justify-center">
-          <img src="/images/hero-globe-light.svg" alt="Global investing illustration" class="w-full max-w-2xl theme-light-only" />
-          <img src="/images/hero-globe-dark.svg" alt="Global investing illustration" class="w-full max-w-2xl theme-dark-only" />
+          <img id="hero-globe" src="/images/hero-globe-dark.svg" alt="Global investing illustration" class="w-full max-w-2xl" fetchpriority="high" />
         </div>
+        <script is:inline>
+          (function() {
+            var img = document.getElementById('hero-globe');
+            if (!img) return;
+            var isDark = document.documentElement.classList.contains('dark') ||
+              document.body.classList.contains('dark') ||
+              !document.body.classList.contains('light');
+            if (!isDark) img.src = '/images/hero-globe-light.svg';
+          })();
+        </script>
       </div>
     </div>
   </section>
@@ -190,8 +199,13 @@ const latestPosts = allPosts
           <a href={`/${post.type}/${post.id}`} class="group bg-primary-800 border border-primary-700 rounded-2xl overflow-hidden hover:border-accent-500 hover:shadow-xl hover:shadow-accent-500/10 transition-all duration-300 hover:-translate-y-1 flex flex-col">
             {post.data.heroImage && (
               <div class="w-full h-48">
-                <img src={post.data.heroImage} alt={post.data.title} class="w-full h-48 object-cover theme-dark-only" />
-                <img src={post.data.heroImage.replace('/images/blog/', '/images/blog/light/')} alt={post.data.title} class="w-full h-48 object-cover theme-light-only" />
+                <img
+                  src={post.data.heroImage}
+                  data-light={post.data.heroImage.replace('/images/blog/', '/images/blog/light/')}
+                  alt={post.data.title}
+                  class="w-full h-48 object-cover blog-hero-img"
+                  loading="lazy"
+                />
               </div>
             )}
             <div class="p-6 flex flex-col flex-1">
@@ -288,5 +302,17 @@ const latestPosts = allPosts
       </div>
     </div>
   </section>
+  <script is:inline>
+    (function() {
+      var isDark = document.documentElement.classList.contains('dark') ||
+        document.body.classList.contains('dark') ||
+        !document.body.classList.contains('light');
+      if (isDark) return;
+      document.querySelectorAll('.blog-hero-img').forEach(function(img) {
+        var light = img.getAttribute('data-light');
+        if (light) img.src = light;
+      });
+    })();
+  </script>
 
 </BaseLayout>
