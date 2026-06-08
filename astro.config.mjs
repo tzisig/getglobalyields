@@ -9,6 +9,9 @@ import mdx from '@astrojs/mdx';
 // https://astro.build/config
 export default defineConfig({
   site: 'https://getglobalyields.com',
+  image: {
+    remotePatterns: [{ protocol: "https" }],
+  },
   vite: {
     plugins: [tailwindcss()]
   },
