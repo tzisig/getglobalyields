@@ -6,15 +6,37 @@ import tailwindcss from '@tailwindcss/vite';
 import sitemap from '@astrojs/sitemap';
 import mdx from '@astrojs/mdx';
 
-// Vite plugin: convert <link rel="stylesheet"> to async preload for Astro CSS
-function asyncCssPlugin() {
+// Astro integration: convert render-blocking CSS links to async preload
+function asyncCssIntegration() {
   return {
-    name: 'async-css',
-    transformIndexHtml(html) {
-      return html.replace(
-        /<link rel="stylesheet" href="\/_astro\/([^"]+\.css)">/g,
-        '<link rel="preload" as="style" href="/_astro/$1" onload="this.onload=null;this.rel=\'stylesheet\'"><noscript><link rel="stylesheet" href="/_astro/$1"></noscript>'
-      );
+    name: 'async-css-integration',
+    hooks: {
+      'astro:build:done': async ({ dir }) => {
+        const { readdir, readFile, writeFile } = await import('fs/promises');
+        const { join } = await import('path');
+        const outDir = dir.pathname;
+
+        async function processDir(dirPath) {
+          const entries = await readdir(dirPath, { withFileTypes: true });
+          for (const entry of entries) {
+            const fullPath = join(dirPath, entry.name);
+            if (entry.isDirectory()) {
+              await processDir(fullPath);
+            } else if (entry.name.endsWith('.html')) {
+              let html = await readFile(fullPath, 'utf-8');
+              const updated = html.replace(
+                /<link rel="stylesheet" href="(\/_astro\/[^"]+\.css)">/g,
+                '<link rel="preload" as="style" href="$1" onload="this.onload=null;this.rel=\'stylesheet\'"><noscript><link rel="stylesheet" href="$1"></noscript>'
+              );
+              if (updated !== html) {
+                await writeFile(fullPath, updated, 'utf-8');
+              }
+            }
+          }
+        }
+
+        await processDir(outDir);
+      }
     }
   };
 }
@@ -26,10 +48,10 @@ export default defineConfig({
     remotePatterns: [{ protocol: "https" }],
   },
   vite: {
-    plugins: [tailwindcss(), asyncCssPlugin()]
+    plugins: [tailwindcss()]
   },
   markdown: {
     remarkPlugins: [remarkGfm],
   },
-  integrations: [sitemap(), mdx()]
+  integrations: [sitemap(), mdx(), asyncCssIntegration()]
 });
