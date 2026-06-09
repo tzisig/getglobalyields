@@ -50,7 +50,13 @@ const { title, description, image, type, keywords, seo } = Astro.props;
       document.documentElement.classList.add(t);
     })();
   </script>
-  <body class="dark">
+  <body>
+    <script is:inline>
+      (function() {
+        var t = localStorage.getItem('theme') || 'dark';
+        document.body.classList.add(t);
+      })();
+    </script>
     <Header />
     <main class="flex-grow w-full">
       <slot />
