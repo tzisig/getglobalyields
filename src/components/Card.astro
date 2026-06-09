@@ -25,10 +25,7 @@ const darkImage = imageDark ?? image;
         <>
           {lightImage && (
             <img src={lightImage} alt={title} loading="lazy" decoding="async" class={`w-full transition-transform duration-700 group-hover:scale-105 theme-light-only ${isFeatured ? 'h-auto block' : 'h-full object-cover'}`} />
-          )}
-          {darkImage && (
-            <img src={darkImage} alt={title} loading="lazy" decoding="async" class={`w-full transition-transform duration-700 group-hover:scale-105 theme-dark-only ${isFeatured ? 'h-auto block' : 'h-full object-cover'}`} />
-          )}
+          )}          
         </>
       ) : (
         <div class="w-full h-full flex items-center justify-center text-primary-600 bg-primary-900 border-b border-primary-700">
