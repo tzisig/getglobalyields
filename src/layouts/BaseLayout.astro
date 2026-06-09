@@ -51,12 +51,12 @@ const { title, description, image, type, keywords, seo } = Astro.props;
     });
   </script> -->
   <!-- Prevent flash: apply saved theme BEFORE paint -->
- <!--  <script is:inline>
-  (function() {
-    var t = localStorage.getItem('theme') || 'dark';
-    document.documentElement.className = t;
-  })();
-</script> -->
+  <script is:inline>
+    (function() {
+      var t = localStorage.getItem('theme') || 'dark';
+      document.documentElement.className = t;
+    })();
+  </script>
   <body>
    
     <Header />
