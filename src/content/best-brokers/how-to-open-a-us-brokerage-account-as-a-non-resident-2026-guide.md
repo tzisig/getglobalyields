@@ -15,6 +15,8 @@ tags:
   - "account opening"
   - "documentation"
 heroImage: "/images/blog/best-brokers/how-to-open-us-brokerage-account.webp"
+heroImageWidth: 840
+heroImageHeight: 560
 draft: false
 readingTime: "12 min read"
 featured: false

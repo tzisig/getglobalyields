@@ -18,6 +18,8 @@ tags:
   - "Form 1042-S"
   - "US tax nonresident"
 heroImage: "/images/blog/taxes/taxes-us-dividends-foreign-investors.webp"
+heroImageWidth: 840
+heroImageHeight: 560
 draft: false
 readingTime: "15 min read"
 featured: true

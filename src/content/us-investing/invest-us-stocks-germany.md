@@ -18,6 +18,8 @@ tags:
   - "Teilfreistellung"
 slug: how-to-invest-in-us-stocks-from-germany
 heroImage: "/images/blog/us-investing/invest-us-stocks-germany.webp"
+heroImageWidth: 840
+heroImageHeight: 560
 draft: false
 readingTime: "13 min read"
 featured: true

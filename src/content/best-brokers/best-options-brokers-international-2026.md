@@ -15,6 +15,8 @@ tags:
   - "options trading 2026"
 slug: best-options-brokers-international-traders-2026
 heroImage: "/images/blog/best-brokers/best-options-brokers-international-2026.webp"
+heroImageWidth: 840
+heroImageHeight: 560
 draft: false
 readingTime: "11 min read"
 featured: true

@@ -18,6 +18,8 @@ tags:
   - "passive income investing"
   - "portfolio income strategy"
 heroImage: "/images/blog/strategies/high-yield-investment-strategies-2026.webp"
+heroImageWidth: 840
+heroImageHeight: 560
 draft: false
 readingTime: "15 min read"
 featured: true

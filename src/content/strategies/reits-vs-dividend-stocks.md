@@ -16,6 +16,8 @@ tags:
   - "passive income Israel"
 slug: reits-vs-dividend-stocks
 heroImage: "/images/blog/strategies/reits-vs-dividend-stocks.webp"
+heroImageWidth: 840
+heroImageHeight: 560
 draft: false
 readingTime: "14 min read"
 featured: false

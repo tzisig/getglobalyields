@@ -16,6 +16,8 @@ tags:
   - "best brokers expats"
 slug: expat-financial-planning-managing-investments-across-borders
 heroImage: "/images/blog/us-investing/expat-financial-planning.webp"
+heroImageWidth: 840
+heroImageHeight: 560
 draft: false
 readingTime: "11 min read"
 featured: false

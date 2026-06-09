@@ -15,6 +15,8 @@ tags:
   - "TQQQ viable strategy 2026"
 slug: tqqq-long-term-strategy-buy-and-hold
 heroImage: "/images/blog/strategies/tqqq-long-term-strategy-buy-and-hold.webp"
+heroImageWidth: 840
+heroImageHeight: 560
 draft: false
 readingTime: "13 min read"
 featured: false

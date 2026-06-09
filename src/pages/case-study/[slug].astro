@@ -112,10 +112,22 @@ const recoveryCandles = isRecoveryChartPost ? await getRecoveryCandles() : [];
             (heroImageLight || heroImageDark) && (
               <>
                 {heroImageLight && (
-                  <img src={heroImageLight} alt={post.data.title} class="w-full h-auto rounded-xl mb-12 shadow-2xl border border-primary-700 theme-light-only" />
+                  <img
+                    src={heroImageLight}
+                    alt={post.data.title}
+                    width={post.data.heroImageWidth ?? 840}
+                    height={post.data.heroImageHeight ?? 560}
+                    class="w-full h-auto rounded-xl mb-12 shadow-2xl border border-primary-700 theme-light-only"
+                  />
                 )}
                 {heroImageDark && (
-                  <img src={heroImageDark} alt={post.data.title} class="w-full h-auto rounded-xl mb-12 shadow-2xl border border-primary-700 theme-dark-only" />
+                  <img
+                    src={heroImageDark}
+                    alt={post.data.title}
+                    width={post.data.heroImageWidth ?? 840}
+                    height={post.data.heroImageHeight ?? 560}
+                    class="w-full h-auto rounded-xl mb-12 shadow-2xl border border-primary-700 theme-dark-only"
+                  />
                 )}
               </>
             )

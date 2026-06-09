@@ -26,6 +26,8 @@ seo:
   ogDescription: "Learn how non-US investors reduce US dividend tax using W-8BEN. Step-by-step guide + real examples."
   ogImage: "/public/images/blog/taxes/w-8ben-form-guide.webp"
   twitterCard: "summary_large_image"
+heroImageWidth: 840
+heroImageHeight: 560
 schema:
   type: "Article"
   headline: "W-8BEN Form Explained (2026)"

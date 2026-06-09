@@ -19,6 +19,8 @@ tags:
   - "volatility"
   - "compounding decay"
 heroImage: "/images/blog/strategies/portfolio-diversification-leveraged-funds.webp"
+heroImageWidth: 840
+heroImageHeight: 560
 draft: false
 readingTime: "10 min read"
 featured: false

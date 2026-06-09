@@ -16,6 +16,8 @@ tags:
   - "reduce beta slippage"
 slug: leveraged-etf-rebalancing-reduce-decay
 heroImage: "/images/blog/strategies/leveraged-etf-rebalancing.webp"
+heroImageWidth: 840
+heroImageHeight: 560
 draft: false
 readingTime: "13 min read"
 featured: false

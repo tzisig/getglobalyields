@@ -15,6 +15,8 @@ tags:
   - "saxo bank platinum vip"
 slug: saxo-bank-review-2026
 heroImage: "/images/blog/best-brokers/saxo-bank-review-2026.webp"
+heroImageWidth: 840
+heroImageHeight: 560
 draft: false
 readingTime: "12 min read"
 featured: false

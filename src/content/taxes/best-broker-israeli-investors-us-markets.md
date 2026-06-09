@@ -15,6 +15,8 @@ tags:
   - "investing in us from israel"
   - "options trading broker israel"
 heroImage: "/images/blog/taxes/Brokers-for-Israeli-Investors.webp"
+heroImageWidth: 840
+heroImageHeight: 560
 draft: false
 readingTime: "8 min read"
 featured: false

@@ -15,6 +15,8 @@ tags:
   - "TQQQ risk management"
 slug: tqqq-qqq-225-day-moving-average-strategy
 heroImage: "/images/blog/strategies/qqq-225-day-moving-average-strategy.webp"
+heroImageWidth: 840
+heroImageHeight: 560
 draft: false
 readingTime: "13 min read"
 featured: false

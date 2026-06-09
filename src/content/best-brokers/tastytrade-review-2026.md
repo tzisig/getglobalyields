@@ -15,6 +15,8 @@ tags:
   - "tastytrade platform"
 slug: tastytrade-review-2026
 heroImage: "/images/blog/best-brokers/tastytrade_review_banner.webp"
+heroImageWidth: 840
+heroImageHeight: 560
 draft: false
 readingTime: "11 min read"
 featured: false

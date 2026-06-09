@@ -16,6 +16,8 @@ tags:
   - "JEPI QYLD covered call ETF"
   - "options income investors"
 heroImage: "/images/blog/options-income/high-yield-options-strategies.webp"
+heroImageWidth: 840
+heroImageHeight: 560
 draft: false
 readingTime: "13 min read"
 featured: true

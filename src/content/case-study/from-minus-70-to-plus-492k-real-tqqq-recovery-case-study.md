@@ -5,6 +5,8 @@ pubDate: 2026-04-17
 categories: ["case-study"]
 author: "Tzion S."
 heroImage: "/images/blog/case-study/tqqq_recovery_light.webp"
+heroImageWidth: 840
+heroImageHeight: 560
 heroImageLight: "/images/blog/case-study/tqqq_recovery_light.webp"
 heroImageDark: "/images/blog/case-study/tqqq_recovery_dark.webp"
 products: ["TQQQ", "Options"]

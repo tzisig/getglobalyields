@@ -15,6 +15,8 @@ tags:
   - "TQQQ backtest 2026"
   - "TQQQ 2022 entry"
 heroImage: "/images/blog/strategies/dollar-cost-averaging-tqqq.webp"
+heroImageWidth: 840
+heroImageHeight: 560
 draft: false
 readingTime: "14 min read"
 featured: true

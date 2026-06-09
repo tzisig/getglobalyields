@@ -16,6 +16,8 @@ tags:
   - "leveraged ETF options strategy"
 slug: tqqq-covered-calls-cash-secured-puts-strategy
 heroImage: "/images/blog/strategies/tqqq-covered-calls-cash-secured-puts.webp"
+heroImageWidth: 840
+heroImageHeight: 560
 draft: false
 readingTime: "15 min read"
 featured: false

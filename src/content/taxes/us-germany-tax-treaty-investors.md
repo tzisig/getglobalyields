@@ -18,6 +18,8 @@ tags:
   - "PFIC rules Germany"
   - "FBAR Germany"
 heroImage: "/images/blog/taxes/us-germany-tax-treaty.webp"
+heroImageWidth: 840
+heroImageHeight: 560
 draft: false
 readingTime: "16 min read"
 featured: true

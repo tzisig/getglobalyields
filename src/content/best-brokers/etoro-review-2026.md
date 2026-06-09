@@ -15,6 +15,8 @@ tags:
   - "etoro israel"
   - "commission free trading"
 heroImage: "/images/blog/best-brokers/etoro-review-2026.webp"
+heroImageWidth: 840
+heroImageHeight: 560
 draft: false
 readingTime: "11 min read"
 featured: false

@@ -8,6 +8,8 @@ categories: ["strategies"]
 heroImage: "/images/blog/strategies/tqqq-system-architecture.webp"
 heroImageLight: "/images/blog/light/tqqq-system-architecture.webp"
 heroImageDark: "/images/blog/tqqq-system-architecture.webp"
+heroImageWidth: 840
+heroImageHeight: 560
 draft: false
 ---
 

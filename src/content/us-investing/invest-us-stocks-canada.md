@@ -18,6 +18,8 @@ tags:
   - "w-8ben canada"
 slug: how-to-invest-in-us-stocks-from-canada
 heroImage: "/images/blog/us-investing/invest-us-stocks-canada.webp"
+heroImageWidth: 840
+heroImageHeight: 560
 draft: false
 readingTime: "13 min read"
 featured: false

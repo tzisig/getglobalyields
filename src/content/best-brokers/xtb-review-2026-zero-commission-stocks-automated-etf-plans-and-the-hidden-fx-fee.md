@@ -26,6 +26,8 @@ tags:
   - "XTB Warsaw Stock Exchange"
 slug: xtb-review-2026
 heroImage: "/images/blog/best-brokers/xtb-review-2026.webp"
+heroImageWidth: 840
+heroImageHeight: 560
 draft: false
 readingTime: "13 min read"
 featured: false

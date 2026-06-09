@@ -16,6 +16,8 @@ tags:
   - "3x leveraged ETF income"
   - "TQQQ risk 2026"
 heroImage: "/images/blog/options-income/passive-income-tqqq-options.webp"
+heroImageWidth: 840
+heroImageHeight: 560
 draft: false
 readingTime: "12 min read"
 featured: false

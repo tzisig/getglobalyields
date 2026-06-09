@@ -16,6 +16,8 @@ tags:
   - "3x leveraged ETF risk"
   - "TQQQ international investors"
 heroImage: "/images/blog/strategies/compounding-returns-tqqq.webp"
+heroImageWidth: 840
+heroImageHeight: 560
 draft: false
 readingTime: "13 min read"
 featured: false

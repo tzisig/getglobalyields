@@ -15,6 +15,8 @@ tags:
   - "us stocks uk cgt"
   - "w8ben uk investor"
 heroImage: "/images/blog/us-investing/invest-us-stocks-uk.webp"
+heroImageWidth: 840
+heroImageHeight: 560
 draft: false
 readingTime: "12 min read"
 featured: false

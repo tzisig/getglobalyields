@@ -16,6 +16,8 @@ tags:
   - "3x ETF long term"
   - "leveraged ETF risk"
 heroImage: "/images/blog/strategies/financial-freedom-leveraged-investing.webp"
+heroImageWidth: 840
+heroImageHeight: 560
 draft: false
 readingTime: "20 min read"
 featured: true

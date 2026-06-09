@@ -23,6 +23,8 @@ tags:
   - ibkr israeli investors
   - ibkr w-8ben
 heroImage: "/images/blog/best-brokers/interactive-brokers-vs-ibkr-lite-2026.webp"
+heroImageWidth: 840
+heroImageHeight: 560
 draft: false
 readingTime: "14 min"
 featured: false

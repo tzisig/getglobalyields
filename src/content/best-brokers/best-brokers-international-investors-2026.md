@@ -15,6 +15,8 @@ tags:
   - "multi-currency"
 slug: best-brokers-international-investors-2026
 heroImage: "/images/blog/best-brokers/us_brokerage_banner.webp"
+heroImageWidth: 840
+heroImageHeight: 560
 draft: false
 readingTime: "20 min read"
 featured: false

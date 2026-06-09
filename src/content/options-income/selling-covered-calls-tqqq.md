@@ -17,6 +17,8 @@ tags:
   - "rolling covered calls"
   - "options Greeks"
 heroImage: "/images/blog/options-income/selling-covered-calls-tqqq.webp"
+heroImageWidth: 840
+heroImageHeight: 560
 draft: false
 readingTime: "14 min read"
 featured: false

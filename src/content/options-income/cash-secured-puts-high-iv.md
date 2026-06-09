@@ -16,6 +16,8 @@ tags:
   - "options premium income"
   - "assignment risk options"
 heroImage: "/images/blog/options-income/cash-secured-puts-high-iv.webp"
+heroImageWidth: 840
+heroImageHeight: 560
 draft: false
 readingTime: "13 min read"
 featured: true

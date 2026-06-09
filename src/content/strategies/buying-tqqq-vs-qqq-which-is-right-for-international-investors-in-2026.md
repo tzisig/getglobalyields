@@ -15,6 +15,8 @@ tags:
   - "tqqq vs qqq"
   - "leveraged etf risks"
 heroImage: "/images/blog/strategies/tqqq_vs_qqq_banner.webp"
+heroImageWidth: 840
+heroImageHeight: 560
 products: ["TQQQ", "QQQ"]
 draft: false
 readingTime: "10 min read"

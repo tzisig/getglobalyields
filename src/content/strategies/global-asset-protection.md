@@ -17,6 +17,8 @@ tags:
   - "international diversification"
   - "wealth preservation strategies"
 heroImage: "/images/blog/strategies/global-asset-protection.webp"
+heroImageWidth: 840
+heroImageHeight: 560
 draft: false
 readingTime: "16 min read"
 featured: false

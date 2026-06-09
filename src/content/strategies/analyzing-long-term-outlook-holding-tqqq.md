@@ -17,6 +17,8 @@ tags:
   - "leveraged ETF strategy"
   - "TQQQ rolling returns"
 heroImage: "/images/blog/strategies/analyzing-long-term-outlook-holding-tqqq.webp"
+heroImageWidth: 840
+heroImageHeight: 560
 draft: false
 readingTime: "13 min read"
 featured: false

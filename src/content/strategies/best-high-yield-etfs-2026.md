@@ -17,6 +17,8 @@ tags:
   - "NAV erosion covered call"
   - "ELN equity linked notes"
 heroImage: "/images/blog/strategies/best-high-yield-etfs-2026.webp"
+heroImageWidth: 840
+heroImageHeight: 560
 draft: false
 readingTime: "15 min read"
 featured: true

@@ -15,6 +15,8 @@ tags:
   - "tqqq tax israel"
   - "us etf tax non us residents"
 heroImage: "/images/blog/taxes/tqqq-for-international-investors-tax-implications-2026.webp"
+heroImageWidth: 840
+heroImageHeight: 560
 draft: false
 readingTime: "9 min read"
 featured: false

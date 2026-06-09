@@ -16,6 +16,8 @@ tags:
   - "infrastructure stocks inflation"
 slug: inflation-proof-investments-2026
 heroImage: "/images/blog/strategies/inflation-proof-investments-2026.webp"
+heroImageWidth: 840
+heroImageHeight: 560
 draft: false
 readingTime: "14 min read"
 featured: false

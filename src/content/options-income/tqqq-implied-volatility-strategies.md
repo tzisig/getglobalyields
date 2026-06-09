@@ -18,6 +18,8 @@ tags:
   - "TQQQ vs QQQ options"
   - "options volatility strategies 2026"
 heroImage: "/images/blog/options-income/tqqq-implied-volatility-strategies.webp"
+heroImageWidth: 840
+heroImageHeight: 560
 draft: false
 readingTime: "16 min read"
 featured: false

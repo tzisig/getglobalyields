@@ -15,6 +15,8 @@ tags:
   - "[TQQQ vs QQQ](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026) wheel"
   - "options income strategy 2026"
 heroImage: "/images/blog/options-income/wheel-strategy-tqqq.webp"
+heroImageWidth: 840
+heroImageHeight: 560
 draft: false
 readingTime: "13 min read"
 featured: false

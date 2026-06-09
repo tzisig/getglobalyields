@@ -15,6 +15,8 @@ tags:
   - "wise interactive brokers"
   - "lowest fx fees broker"
 heroImage: "/images/blog/us-investing/multi-currency-investment-accounts.webp"
+heroImageWidth: 840
+heroImageHeight: 560
 draft: false
 readingTime: "11 min read"
 featured: false

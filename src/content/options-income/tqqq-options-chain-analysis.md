@@ -15,6 +15,8 @@ tags:
   - "IV rank TQQQ"
   - "options chain analysis"
 heroImage: "/images/blog/options-income/tqqq-options-chain-analysis.webp"
+heroImageWidth: 840
+heroImageHeight: 560
 draft: false
 readingTime: "12 min read"
 featured: false

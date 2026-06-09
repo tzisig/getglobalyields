@@ -17,6 +17,8 @@ tags:
   - "credit spread 0DTE"
   - "0DTE butterfly strategy"
 heroImage: "/images/blog/options-income/0dte-options-strategy.webp"
+heroImageWidth: 840
+heroImageHeight: 560
 draft: false
 readingTime: "13 min read"
 featured: true

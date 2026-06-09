@@ -13,7 +13,7 @@ if (!post || post.data.draft) return Astro.redirect('/404');
 const { Content } = await render(post);
 ---
 
-<BaseLayout title={`${post.data.title}  Get Global Yields`} description={post.data.description} image={post.data.heroImage}>
+<BaseLayout title={`${post.data.title} ï¿½ Get Global Yields`} description={post.data.description} image={post.data.heroImage}>
   <article class="py-16 lg:py-24 bg-primary-900 border-b border-primary-700">
     <div class="container mx-auto px-4 sm:px-6 lg:px-8 max-w-7xl">
       <div class="grid grid-cols-1 lg:grid-cols-3 gap-8 lg:gap-12">
@@ -39,7 +39,13 @@ const { Content } = await render(post);
           </header>
 
           {post.data.heroImage && (
-            <img src={post.data.heroImage} alt={post.data.title} class="w-full h-auto rounded-xl mb-12 shadow-2xl border border-primary-700" />
+            <img
+              src={post.data.heroImage}
+              alt={post.data.title}
+              width={post.data.heroImageWidth ?? 840}
+              height={post.data.heroImageHeight ?? 560}
+              class="w-full h-auto rounded-xl mb-12 shadow-2xl border border-primary-700"
+            />
           )}
 
           <div class="article-content prose prose-invert prose-lg prose-a:text-accent-500 hover:prose-a:text-accent-400 max-w-none">

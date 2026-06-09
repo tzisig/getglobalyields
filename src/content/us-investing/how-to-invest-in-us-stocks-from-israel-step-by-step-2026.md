@@ -15,6 +15,8 @@ tags:
   - "currency conversion"
   - "taxes"
 heroImage: "/images/blog/us-investing/invest_israel_banner.webp"
+heroImageWidth: 840
+heroImageHeight: 560
 draft: false
 readingTime: "15 min read"
 featured: false

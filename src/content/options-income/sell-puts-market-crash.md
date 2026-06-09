@@ -16,6 +16,8 @@ tags:
   - "put selling crash strategy"
   - "options income investing"
 heroImage: "/images/blog/options-income/sell-puts-market-crash.webp"
+heroImageWidth: 840
+heroImageHeight: 560
 draft: false
 readingTime: "14 min read"
 featured: false

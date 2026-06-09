@@ -15,6 +15,8 @@ tags:
   - "investing in us from india 2026"
   - "rbi lrs limit"
 heroImage: "/images/blog/us-investing/invest-us-stocks-india.webp"
+heroImageWidth: 840
+heroImageHeight: 560
 draft: false
 readingTime: "13 min read"
 featured: false

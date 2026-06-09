@@ -15,6 +15,8 @@ tags:
   - "how much to invest for passive income"
   - "international investor passive income"
 heroImage: "/images/blog/strategies/build-10k-month-passive-income.webp"
+heroImageWidth: 840
+heroImageHeight: 560
 draft: false
 readingTime: "14 min read"
 featured: true

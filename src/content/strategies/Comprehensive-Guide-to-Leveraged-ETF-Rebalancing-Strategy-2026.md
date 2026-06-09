@@ -16,6 +16,8 @@ tags:
 - "UPRO portfolio rebalancing"
 slug: leveraged-etf-rebalancing-strategy-2026
 heroImage: "/images/blog/strategies/leveraged-etf-rebalancing-strategy.webp"
+heroImageWidth: 840
+heroImageHeight: 560
 draft: false
 readingTime: "13 min read"
 featured: false
