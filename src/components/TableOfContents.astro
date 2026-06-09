@@ -247,7 +247,9 @@ const filtered = headings.filter(h =>
 
     if (headingEls.length === 0) return;
 
-    function onScroll() {
+    // Optimize scroll handling to avoid forced reflows: batch reads via rAF
+    let tocTick = false;
+    function updateToc() {
       const scrollTop = window.scrollY;
       const docHeight = document.documentElement.scrollHeight - window.innerHeight;
       const progress = docHeight > 0 ? Math.min(100, (scrollTop / docHeight) * 100) : 0;
@@ -264,8 +266,15 @@ const filtered = headings.filter(h =>
       links.forEach((l, i) => l.classList.toggle('active', i === activeIdx));
     }
 
+    function onScroll() {
+      if (!tocTick) {
+        tocTick = true;
+        requestAnimationFrame(() => { updateToc(); tocTick = false; });
+      }
+    }
+
     window.addEventListener('scroll', onScroll, { passive: true });
-    onScroll();
+    updateToc();
 
     // Smooth scroll עם offset לheader
     links.forEach(link => {

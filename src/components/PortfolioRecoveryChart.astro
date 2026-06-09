@@ -479,10 +479,22 @@
       chart.timeScale().setVisibleRange({ from: "2022-01-01", to: "2026-05-31" });
       if (loadingEl) loadingEl.style.display = "none";
       createAnnotations();
-      chart.timeScale().subscribeVisibleLogicalRangeChange(updatePositions);
+      // Schedule updates via requestAnimationFrame to avoid layout thrashing
+      var prtTick = false;
+      function scheduleUpdatePositions() {
+        if (!prtTick) {
+          prtTick = true;
+          requestAnimationFrame(function () { updatePositions(); prtTick = false; });
+        }
+      }
+
+      chart.timeScale().subscribeVisibleLogicalRangeChange(scheduleUpdatePositions);
+
+      var resizeTimer;
       window.addEventListener("resize", function () {
         chart.applyOptions({ width: container.clientWidth });
-        updatePositions();
+        clearTimeout(resizeTimer);
+        resizeTimer = setTimeout(function () { scheduleUpdatePositions(); }, 120);
       });
     }
 
