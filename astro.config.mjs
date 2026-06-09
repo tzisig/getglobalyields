@@ -62,5 +62,5 @@ export default defineConfig({
   markdown: {
     remarkPlugins: [remarkGfm],
   },
-  integrations: [sitemap(), mdx(), asyncCssIntegration()]
+  integrations: [sitemap(), mdx()]
 });
