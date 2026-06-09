@@ -13,7 +13,10 @@ export default defineConfig({
     remotePatterns: [{ protocol: "https" }],
   },
   vite: {
-    plugins: [tailwindcss()]
+    plugins: [tailwindcss()],
+    build: {
+      cssCodeSplit: false,
+    }
   },
   markdown: {
     remarkPlugins: [remarkGfm],
