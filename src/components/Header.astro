@@ -1,4 +1,4 @@
-﻿---
+---
 const navItems = [
   { name: 'Start Here', href: '/start-here' },
   { name: 'Best Brokers', href: '/best-brokers',highlight: true },
@@ -78,7 +78,7 @@ const currentPath = Astro.url.pathname;
       <!-- Right side: Translate + Theme toggle + CTA -->
       <div class="hidden md:flex items-center space-x-3">
         <!-- Translate Button (desktop) -->
-        <div class="relative" id="translate-wrapper-desktop">
+        <div class="relative hidden xl:block" id="translate-wrapper-desktop">
           <button
             id="translate-btn-desktop"
             type="button"
@@ -120,7 +120,7 @@ const currentPath = Astro.url.pathname;
           type="button"
           title="Toggle dark/light mode"
           aria-label="Toggle theme"
-          class="flex items-center justify-center w-9 h-9 rounded-md text-slate-400 hover:text-slate-100 hover:bg-primary-800 transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-accent-500"
+          class="hidden xl:flex items-center justify-center w-9 h-9 rounded-md text-slate-400 hover:text-slate-100 hover:bg-primary-800 transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-accent-500"
         >
           <!-- Sun icon (shown in dark mode) -->
           <svg id="icon-sun" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
