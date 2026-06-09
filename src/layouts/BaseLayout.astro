@@ -31,7 +31,7 @@ const { title, description, image, type, keywords, seo } = Astro.props;
   <SEOHead title={title} description={description} image={image} type={type} keywords={keywords} seo={seo} />
 
   <!-- Google Analytics GA4 - loaded after page to avoid render-blocking -->
-  <script is:inline>
+  <!-- <script is:inline>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
@@ -49,21 +49,20 @@ const { title, description, image, type, keywords, seo } = Astro.props;
         setTimeout(loadGtag, 2000);
       }
     });
-  </script>
+  </script> -->
   <!-- Prevent flash: apply saved theme BEFORE paint -->
-  <script is:inline>
+ <!--  <script is:inline>
   (function() {
     var t = localStorage.getItem('theme') || 'dark';
     document.documentElement.className = t;
   })();
-</script>
+</script> -->
   <body>
    
-    <!-- <Header /> -->
-
+    <Header />
     <main class="flex-grow w-full">
-  <div style="height: 1000px"></div>
-</main>
+      <slot />
+    </main>
     <Footer />
     <AccessibilityWidget />
   </body>
