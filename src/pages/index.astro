@@ -54,16 +54,10 @@ const latestPosts = allPosts
           <p class="text-sm text-slate-300">No sponsored rankings. No broker pays for rankings or placement.</p>
         </div>
         <div class="hidden lg:flex items-center justify-center">
-          <img id="hero-globe" src="/images/hero-globe-dark.svg" alt="Global investing illustration" width="680" height="520" class="w-full max-w-2xl" fetchpriority="high" />
+          <img src="/images/hero-globe-dark.svg" alt="Global investing illustration" width="680" height="520" class="w-full max-w-2xl theme-dark-only" fetchpriority="high" />
+          <img src="/images/hero-globe-light.svg" alt="Global investing illustration" width="680" height="520" class="w-full max-w-2xl theme-light-only" fetchpriority="high" />
         </div>
-        <script is:inline>
-          (function() {
-            var img = document.getElementById('hero-globe');
-            if (!img) return;
-            var isDark = document.documentElement.classList.contains('dark');
-            if (!isDark) img.src = '/images/hero-globe-light.svg';
-          })();
-        </script>
+        
       </div>
     </div>
   </section>
