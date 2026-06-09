@@ -1,4 +1,4 @@
-@import "tailwindcss";
+﻿@import "tailwindcss";
 @plugin "@tailwindcss/typography";
 
 @tailwind base;
@@ -16,7 +16,7 @@ body.light {
   --color-primary-700: #dde3ef;
   --color-primary-600: #c8d2e4;
   --color-accent-400: #dcb963;
-  --color-accent-500: #C9A84C;
+  --color-accent-500: #E0C870;
   --color-accent-600: #aa8c3e;
 
   --bg-page:        #f8f9fa; /* off-white background */
@@ -50,7 +50,7 @@ body.dark {
   --color-primary-700: #233554;
   --color-primary-600: #3a506b;
   --color-accent-400: #dcb963;
-  --color-accent-500: #C9A84C;
+  --color-accent-500: #E0C870;
   --color-accent-600: #aa8c3e;
 
   /* semantic tokens */

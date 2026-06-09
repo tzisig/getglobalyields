@@ -14,7 +14,9 @@ function asyncCssIntegration() {
       'astro:build:done': async ({ dir }) => {
         const { readdir, readFile, writeFile } = await import('fs/promises');
         const { join } = await import('path');
-        const outDir = dir.pathname;
+        const { fileURLToPath } = await import('url');
+        const outDir = typeof dir === 'string' ? dir : fileURLToPath(dir);
+        let htmlFilesProcessed = 0;
 
         async function processDir(dirPath) {
           const entries = await readdir(dirPath, { withFileTypes: true });
@@ -31,11 +33,18 @@ function asyncCssIntegration() {
               if (updated !== html) {
                 await writeFile(fullPath, updated, 'utf-8');
               }
+              htmlFilesProcessed += 1;
             }
           }
         }
 
-        await processDir(outDir);
+        try {
+          await processDir(outDir);
+          console.log(`[async-css-integration] processed ${htmlFilesProcessed} HTML file(s) in ${outDir}`);
+        } catch (error) {
+          console.error('[async-css-integration] error processing output directory:', outDir, error);
+          throw error;
+        }
       }
     }
   };
