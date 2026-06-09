@@ -19,8 +19,7 @@ const darkImage = imageDark ?? image;
 
 <a href={href} class={`group block h-full ${isFeatured ? 'md:col-span-2 lg:col-span-3' : ''}`}>
   <article class={`flex flex-col h-full bg-primary-800 rounded-xl overflow-hidden transition-all duration-300 hover:shadow-2xl hover:-translate-y-1 ${isFeatured ? 'border border-accent-500/30 hover:border-accent-400 shadow-xl shadow-accent-500/5' : 'border border-primary-700 hover:border-accent-500 hover:shadow-accent-500/10'}`}>
-    
-    <div class={`relative overflow-hidden flex items-center justify-center bg-primary-800 ${isFeatured ? 'w-full' : 'h-48'}`}>
+    <div class={`relative overflow-hidden flex items-center justify-center bg-primary-800 ${isFeatured ? 'h-[400px] w-full' : 'h-48'}`}>
       {hasThemeImages || image ? (
         <>
           {lightImage && (
