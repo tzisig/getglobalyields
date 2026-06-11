@@ -46,7 +46,7 @@ This review is for non-US investors - particularly those in Europe and the Middl
 
 ## Bottom Line
 
-XTB offers 0% commission on real stocks and ETFs up to €100,000 in monthly trading volume, interest on uninvested cash (3.45% USD, 2.30% EUR, 4% GBP - automatic, no minimum), W-8BEN filing via the mobile app, and regulation by seven authorities including FCA and CySEC. It is publicly listed on the Warsaw Stock Exchange - an unusual level of institutional transparency for a retail broker.
+XTB offers 0% commission on <a href="https://geolink.xtb.com/4xcQo" target="_blank" rel="noopener noreferrer sponsored">real stocks and ETFs</a> up to €100,000 in monthly trading volume, interest on uninvested cash (3.45% USD, 2.30% EUR, 4% GBP - automatic, no minimum), W-8BEN filing via the mobile app, and regulation by seven authorities including FCA and CySEC. It is publicly listed on the Warsaw Stock Exchange - an unusual level of institutional transparency for a retail broker.
 
 The main limitation for serious investors: XTB's heritage is CFD and forex trading, and the real stock offering - while genuine and commission-free - is more limited than IBKR's global market access. For investors who need options, futures, or access to 150+ markets, IBKR remains the better choice. For passive investors deploying €500-2,000 per month into European and US ETFs, XTB's combination of zero commissions, cash interest, and automated Investment Plans makes it a genuinely strong alternative.
 
@@ -274,7 +274,7 @@ XTB's stock and ETF selection is substantially larger than eToro's. Its FX conve
 
 XTB's onboarding is fully digital and takes approximately 30 minutes:
 
-1. Register with email and password at xtb.com
+1. <a href="https://geolink.xtb.com/4xcQo" target="_blank" rel="noopener noreferrer sponsored">Register with email and password at xtb.com</a>
 2. Complete the MiFID II suitability questionnaire
 3. Upload proof of identity and proof of address
 4. Account typically verified within one business day
@@ -357,7 +357,7 @@ XTB is a genuinely competitive broker for European and international stock and E
 
 The honest limitations remain: the 0.5% FX conversion fee adds up for investors making regular currency conversions, IFSC entity clients have lower formal protection than EU/UK alternatives, and the product range cannot match IBKR for multi-asset or professional investing.
 
-The bottom line: for a passive European or international investor who wants zero-commission ETFs, automated monthly investing, cash earning interest, and a straightforward platform, XTB is a serious contender in 2026 — see how it stacks up in our [best brokers for international investors](/best-brokers/best-brokers-international-investors-2026) guide. For anyone who needs professional-grade market access, frequent cross-currency investing, or the full options and futures toolkit, [IBKR](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors) remains the stronger choice.
+The bottom line: for a passive European or international investor who wants zero-commission ETFs, automated monthly investing, cash earning interest, and a straightforward platform, XTB is a <a href="https://geolink.xtb.com/4xcQo" target="_blank" rel="noopener noreferrer sponsored">serious contender in 2026</a> — see how it stacks up in our [best brokers for international investors](/best-brokers/best-brokers-international-investors-2026) guide. For anyone who needs professional-grade market access, frequent cross-currency investing, or the full options and futures toolkit, [IBKR](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors) remains the stronger choice.
 
 ---
 
