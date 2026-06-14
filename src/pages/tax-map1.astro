@@ -549,7 +549,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
             <span class="info-label">W-8BEN Required</span>
             <span class="badge ${data.w8ben === 'Yes' ? 'yes' : 'no'}">${data.w8ben}</span>
           </div>
-          <a href="${['ISR','DEU','GBR'].includes(iso3) ? data.guide : '#'}" class="btn-guide" ${['ISR','DEU','GBR'].includes(iso3) ? '' : 'onclick="return false;" style="opacity:0.4;cursor:default;"'}>Read Full Guide →</a>
+          <a href="${data.guide}" class="btn-guide">Read Full Guide ?</a>
         `;
       }
 
