@@ -1,4 +1,8 @@
 User-agent: *
+Disallow: /en/
+Disallow: /en/
+Disallow: /en/
+Disallow: /en/
 Allow: /
 
 Sitemap: https://getglobalyields.com/sitemap-index.xml
