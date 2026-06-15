@@ -14,4 +14,4 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - run: python check_redirects.py
+      - run: python github/workflows/redirect_redirects.py
