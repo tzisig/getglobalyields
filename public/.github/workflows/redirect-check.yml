@@ -1,0 +1,19 @@
+name: Redirect Check
+
+on:
+  push:
+    paths: ['_redirects']
+  pull_request:
+    paths: ['_redirects']
+
+workflow_dispatch: # <-- השורה הזו חייבת להופיע כאן, באותו קו של push ו-pull_request
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: python check_redirects.py
