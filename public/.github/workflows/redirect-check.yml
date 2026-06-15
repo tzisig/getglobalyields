@@ -2,11 +2,12 @@ name: Redirect Check
 
 on:
   push:
-    paths: ['_redirects']
+    paths:
+      - 'public/_redirects'
   pull_request:
-    paths: ['_redirects']
-
-workflow_dispatch: # <-- השורה הזו חייבת להופיע כאן, באותו קו של push ו-pull_request
+    paths:
+      - 'public/_redirects'
+  workflow_dispatch:
 
 jobs:
   check:
@@ -16,4 +17,4 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-      - run: python check_redirects.py
+      - run: python check_redirects.py public/_redirects
