@@ -17,8 +17,4 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-<<<<<<< HEAD
       - run: python check_redirects.py public/_redirects
-=======
-      - run: python check_redirects.py public/_redirects
->>>>>>> eb91fe1956550ebec9497b86c6a6c304febc1872
