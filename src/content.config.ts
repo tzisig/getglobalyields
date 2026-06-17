@@ -25,7 +25,7 @@ const commonSchema = z.object({
     ogImage: z.string().optional(),
     twitterCard: z.string().optional(),
   }).optional(),
-  schema: z.object({
+schema: z.object({
     type: z.string().optional(),
     headline: z.string().optional(),
     description: z.string().optional(),
@@ -34,6 +34,10 @@ const commonSchema = z.object({
     dateModified: z.string().optional(),
     image: z.string().optional(),
     mainEntityOfPage: z.string().optional(),
+    faq: z.array(z.object({
+      question: z.string(),
+      answer: z.string(),
+    })).optional(),
   }).optional(),
   productName: z.string().optional(),
   rating: z.number().optional(),
