@@ -26,6 +26,21 @@ heroImage: "/images/blog/best-brokers/interactive-brokers-vs-ibkr-lite-2026.webp
 heroImageWidth: 840
 heroImageHeight: 560
 draft: false
+schema:
+  type: "Article"
+  faq:
+    - question: "Can non-US residents use IBKR Lite?"
+      answer: "No. IBKR Lite is only available to US residents and is built on payment for order flow (PFOF), which is not permitted in most non-US jurisdictions. All non-US investors receive IBKR Pro accounts automatically, with no option to switch."
+    - question: "Is Interactive Brokers available in Israel?"
+      answer: "Yes. Israeli residents can open IBKR Pro accounts. Israelis can buy SPY, QQQ, VTI, and other US-listed ETFs directly through IBKR without the PRIIPs restrictions that block EU investors."
+    - question: "What is the minimum deposit for IBKR for non-US investors?"
+      answer: "There is no official minimum deposit. As of 2021, IBKR eliminated the monthly inactivity fee for most accounts."
+    - question: "What does the W-8BEN do for non-US investors?"
+      answer: "The W-8BEN certifies to IBKR and the IRS that you are not a US person. It allows you to claim your country's tax treaty dividend withholding rate instead of the standard 30% withheld from non-US investors without a treaty claim."
+    - question: "Does IBKR offer real shares or CFDs?"
+      answer: "Real shares only. Interactive Brokers does not offer CFD products on its main platform. When you buy a stock through IBKR, you own the actual equity."
+    - question: "Is IBKR Lite available outside the US?"
+      answer: "No. IBKR Lite is not available outside the United States. All international investors automatically receive IBKR Pro accounts."
 readingTime: "14 min"
 featured: false
 ---

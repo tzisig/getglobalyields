@@ -12,6 +12,10 @@ export interface Props {
   type?: string;
   theme?: 'dark' | 'light';
   keywords?: string[];
+  pubDate?: string;
+  updatedDate?: string;
+  author?: string;
+  faq?: { question: string; answer: string }[];
   seo?: {
     metaTitle?: string;
     metaDescription?: string;
@@ -23,33 +27,13 @@ export interface Props {
   };
 }
 
-const { title, description, image, type, keywords, seo } = Astro.props;
+const { title, description, image, type, keywords, seo, pubDate, updatedDate, author, faq } = Astro.props;
 ---
 
 <!DOCTYPE html>
 <html lang="en">
-  <SEOHead title={title} description={description} image={image} type={type} keywords={keywords} seo={seo} />
+  <SEOHead title={title} description={description} image={image} type={type} keywords={keywords} seo={seo} pubDate={pubDate} updatedDate={updatedDate} author={author} faq={faq} />
 
-  <!-- Google Analytics GA4 - loaded after page to avoid render-blocking -->
-  <!-- <script is:inline>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-358H9G2F4C');
-    window.addEventListener('load', function() {
-      function loadGtag() {
-        var s = document.createElement('script');
-        s.src = 'https://www.googletagmanager.com/gtag/js?id=G-358H9G2F4C';
-        s.async = true;
-        document.head.appendChild(s);
-      }
-      if ('requestIdleCallback' in window) {
-        requestIdleCallback(loadGtag);
-      } else {
-        setTimeout(loadGtag, 2000);
-      }
-    });
-  </script> -->
   <!-- Prevent flash: apply saved theme BEFORE paint -->
   <script is:inline>
     (function() {
