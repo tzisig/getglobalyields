@@ -20,6 +20,22 @@ heroImageHeight: 560
 draft: false
 readingTime: "15 min read"
 featured: false
+schema:
+  faq:
+    - question: "Is it legal for Israelis to invest in US stocks?"
+      answer: "Yes, completely. Israeli residents are legally permitted to hold foreign investment accounts and invest in US stocks, ETFs, and other securities. There is no restriction on the amount you can invest abroad, provided you report your foreign income and assets to the Israeli Tax Authority as required."
+    - question: "Which broker is best for Israeli investors in US stocks?"
+      answer: "Interactive Brokers (IBKR) is the top choice for most Israeli investors. It accepts Israeli clients, offers excellent ILS-to-USD conversion rates at approximately 0.002%, and provides access to stocks, ETFs, options, and more."
+    - question: "How do I fund an IBKR account from Israel?"
+      answer: "Wire ILS from your Israeli bank to IBKR, then convert to USD inside the platform at IBKR's near-interbank rate. This is far cheaper than having your Israeli bank convert the currency. Most Israeli banks charge 30 to 80 ILS per international wire transfer."
+    - question: "What is the W-8BEN rate for Israeli investors?"
+      answer: "Israeli investors who file W-8BEN correctly receive a 25% withholding rate on US dividends under the US-Israel tax treaty, reduced from the default 30%."
+    - question: "Do I need to pay tax in Israel on US stock gains?"
+      answer: "Yes. Capital gains from selling US stocks are taxable in Israel at 25%. Dividends are also taxed at 25% in Israel, but the US withholding of 25% under the treaty means you generally do not pay double tax. You must report all foreign investment income on your Israeli annual tax return."
+    - question: "What is the minimum deposit to start investing in US stocks from Israel?"
+      answer: "Interactive Brokers has no minimum deposit. For beginners, starting with $1,000 to $5,000 is reasonable. To avoid the monthly inactivity fee, aim to generate at least $10 per month in commissions or grow your account to $100,000."
+    - question: "Do I need to declare my IBKR account to the Bank of Israel?"
+      answer: "There is no requirement to notify the Bank of Israel simply for opening a foreign brokerage account. However, you must report foreign assets and income to the Israeli Tax Authority as part of your annual tax obligations."
 ---
 
 ## **Introduction**
@@ -179,4 +195,3 @@ Tip: Call your bank before initiating your first international wire to confirm t
 **Financial Disclaimer**
 
 _The content on GetGlobalYields.com is for informational and educational purposes only and does not constitute financial, investment, or tax advice. Tax laws, broker terms, and regulatory requirements change over time. Always consult a licensed Israeli tax professional and verify current broker requirements before opening an account._
-

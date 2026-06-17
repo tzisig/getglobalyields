@@ -37,6 +37,21 @@ schema:
   dateModified: "2026-05-12"
   image: "/public/images/blog/taxes/w-8ben-form-guide.webp"
   mainEntityOfPage: "https://getglobalyields.com/w8ben-form-non-us-investors"
+  faq:
+    - question: "What is the W-8BEN form?"
+      answer: "The W-8BEN is an IRS form used by non-US investors to confirm they are not US persons, claim tax treaty benefits, and reduce US withholding tax on dividends and interest from 30% to their country's treaty rate."
+    - question: "Do I send the W-8BEN to the IRS?"
+      answer: "No. You submit it directly to your broker, and the broker applies the correct withholding rate automatically."
+    - question: "What happens if I don't file the W-8BEN?"
+      answer: "Without a valid W-8BEN, the IRS applies a flat 30% withholding on all dividends and interest. No treaty benefits are applied, permanently reducing your returns."
+    - question: "How long is the W-8BEN valid?"
+      answer: "The W-8BEN is valid for 3 full calendar years plus the current year. For example, if signed in 2026, it is valid until December 31, 2029. After expiration, your broker typically reverts to 30% withholding."
+    - question: "Does the W-8BEN affect capital gains tax?"
+      answer: "No. The W-8BEN covers dividends and interest only. For most non-US investors, US capital gains tax is generally 0% and capital gains are taxed in your home country."
+    - question: "What withholding rate do Israeli investors get with W-8BEN?"
+      answer: "Israeli investors who file W-8BEN correctly receive a 25% withholding rate on US dividends under the US-Israel tax treaty, reduced from the default 30%."
+    - question: "Can I fix a mistake on my W-8BEN?"
+      answer: "Yes. Simply submit a new, corrected W-8BEN form to your broker. The new form replaces the old one."
 ---
 
 If you invest in US stocks or ETFs as a non-US resident, one form directly determines how much of your returns you actually keep: the W-8BEN.
@@ -258,4 +273,3 @@ Next steps:
 
 - Start here: [Best Brokers for Israeli Investors in US Markets](/taxes/best-broker-israeli-investors-us-markets)
 - Learn more: [TQQQ tax guide for international investors](/taxes/tqqq-tax-international-investors)
-

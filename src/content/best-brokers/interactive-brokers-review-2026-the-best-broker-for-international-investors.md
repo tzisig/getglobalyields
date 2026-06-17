@@ -24,6 +24,22 @@ rating: 4.8
 pros: ["Available in 200+ countries", "Near-interbank currency conversion rates", "Full product range including options", "Competitive commissions"]
 cons: ["Steep learning curve", "Inaccessible IBKR Lite for internationals", "$10/m inactivity fee for <$100k", "Slow customer support"]
 productName: "Interactive Brokers"
+schema:
+  faq:
+    - question: "Is Interactive Brokers safe for international investors?"
+      answer: "Yes. IBKR is regulated by the SEC and FINRA in the US, the FCA in the UK, and regulators in 10+ additional jurisdictions. Client assets are protected by SIPC up to $500,000, with additional Lloyd's of London insurance coverage. IBKR has been in operation since 1978 and is publicly traded on NASDAQ."
+    - question: "Can non-US investors trade options at Interactive Brokers?"
+      answer: "Yes, subject to approval based on your investment experience and financial profile. Most investors with some experience are approved for at least Level 2 options, which includes covered calls and cash-secured puts."
+    - question: "How long does it take to open an Interactive Brokers account?"
+      answer: "Typically 1 to 3 business days after you submit your application and documents. The application itself takes 20 to 40 minutes online."
+    - question: "Does Interactive Brokers offer a demo account?"
+      answer: "Yes. IBKR's paper trading feature allows you to practice with virtual money on a simulated account using real market data. This is available to all clients at no cost."
+    - question: "What is the minimum deposit for Interactive Brokers?"
+      answer: "There is no minimum deposit. However, to avoid the $10/month inactivity fee, aim to generate $10 or more in monthly commissions or grow your account to $100,000 or more."
+    - question: "Is Interactive Brokers available outside the US?"
+      answer: "Yes. Interactive Brokers accepts clients from 200+ countries including Israel, Canada, Australia, and most of Europe. It is one of the few major brokers with genuine global availability."
+    - question: "What currency conversion rate does Interactive Brokers offer?"
+      answer: "IBKR offers near-interbank currency conversion rates of approximately 0.002%. On a $10,000 conversion, that is roughly $0.20 compared to $100-$200 at a typical bank."
 ---
 
 ## **Overall Rating: 4.8 / 5**
