@@ -20,63 +20,15 @@ import BaseLayout from '../layouts/BaseLayout.astro';
         Content updated manually each week - last updated: <strong id="last-updated-date">June 9, 2026</strong>
       </div>
 
-      <div class="cards-grid" id="cards-grid">
-        <div class="card regulatory" data-card="regulatory">
-          <div class="card-accent-bar"></div>
-          <span class="category-badge">
-            <svg fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M12 9v3.75m-9.303 3.376c-.866 1.5.217 3.374 1.948 3.374h14.71c1.73 0 2.813-1.874 1.948-3.374L13.949 3.378c-.866-1.5-3.032-1.5-3.898 0L2.697 16.126zM12 15.75h.007v.008H12v-.008z" /></svg>
-            Market Update
-          </span>
-          <div class="headline" data-field="headline">International Stocks Outperform US 4:1 in 2026</div>
-          <div class="summary" data-field="summary">Bank of America reports $104 billion flowed into international stocks in 2026 versus only $25 billion into US stocks. The S&P 500 is up just 0.5% YTD while the Vanguard Total International ETF is up 11%.</div>
-          <div class="date-tag" data-field="week">
-            <svg fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 012.25-2.25h13.5A2.25 2.25 0 0121 7.5v11.25m-18 0A2.25 2.25 0 005.25 21h13.5A2.25 2.25 0 0021 18.75m-18 0v-7.5A2.25 2.25 0 015.25 9h13.5A2.25 2.25 0 0121 11.25v7.5" /></svg>
-            Week of June 9, 2026
-          </div>
-        </div>
-
-        <div class="card broker" data-card="broker">
-          <div class="card-accent-bar"></div>
-          <span class="category-badge">
-            <svg fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M3 7.5L7.5 3m0 0L12 7.5M7.5 3v13.5m13.5 0L16.5 21m0 0L12 16.5m4.5 4.5V7.5" /></svg>
-            Broker News
-          </span>
-          <div class="headline" data-field="headline">IBKR Launches AI Trading via Claude Integration</div>
-          <div class="summary" data-field="summary">Interactive Brokers launched agentic trading through Claude AI, allowing clients to manage accounts and execute trades across 170+ global markets using natural language. International investors can now use conversational AI to interact with their IBKR account directly.</div>
-          <div class="date-tag" data-field="week">
-            <svg fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 012.25-2.25h13.5A2.25 2.25 0 0121 7.5v11.25m-18 0A2.25 2.25 0 005.25 21h13.5A2.25 2.25 0 0021 18.75m-18 0v-7.5A2.25 2.25 0 015.25 9h13.5A2.25 2.25 0 0121 11.25v7.5" /></svg>
-            Week of June 9, 2026
-          </div>
-        </div>
-
-        <div class="card tax" data-card="tax">
-          <div class="card-accent-bar"></div>
-          <span class="category-badge">
-            <svg fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M9 12.75L11.25 15 15 9.75m-3-7.036A11.959 11.959 0 013.598 6 11.99 11.99 0 003 9.749c0 5.592 3.824 10.29 9 11.623 5.176-1.332 9-6.03 9-11.622 0-1.31-.21-2.571-.598-3.751h-.152c-3.196 0-6.1-1.248-8.25-3.285z" /></svg>
-            Broker News
-          </span>
-          <div class="headline" data-field="headline">IBKR Offers International Clients Access to SpaceX IPO</div>
-          <div class="summary" data-field="summary">Interactive Brokers UK is giving eligible clients access to the SpaceX IPO on Nasdaq. A rare example of a major IPO accessible to international investors through their broker account.</div>
-          <div class="date-tag" data-field="week">
-            <svg fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 012.25-2.25h13.5A2.25 2.25 0 0121 7.5v11.25m-18 0A2.25 2.25 0 005.25 21h13.5A2.25 2.25 0 0021 18.75m-18 0v-7.5A2.25 2.25 0 015.25 9h13.5A2.25 2.25 0 0121 11.25v7.5" /></svg>
-            Week of June 9, 2026
-          </div>
-        </div>
-
-        <div class="card stat" data-card="stat">
-          <div class="card-accent-bar"></div>
-          <span class="category-badge">
-            <svg fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M3 13.125C3 12.504 3.504 12 4.125 12h2.25c.621 0 1.125.504 1.125 1.125v6.75C7.5 20.496 6.996 21 6.375 21h-2.25A1.125 1.125 0 013 19.875v-6.75zM9.75 8.625c0-.621.504-1.125 1.125-1.125h2.25c.621 0 1.125.504 1.125 1.125v11.25c0 .621-.504 1.125-1.125 1.125h-2.25a1.125 1.125 0 01-1.125-1.125V8.625zM16.5 4.125c0-.621.504-1.125 1.125-1.125h2.25C20.496 3 21 3.504 21 4.125v15.75c0 .621-.504 1.125-1.125 1.125h-2.25a1.125 1.125 0 01-1.125-1.125V4.125z" /></svg>
-            Stat of the Week
-          </span>
-          <div class="headline" data-field="headline">IBKR Records 4.97 Million Daily Trades in May 2026</div>
-          <div class="summary" data-field="summary">Interactive Brokers reported 4.969 million DARTs in May 2026, reflecting continued growth in global retail trading. IBKR remains the most active broker for international investors by trading volume.</div>
-          <div class="date-tag" data-field="week">
-            <svg fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5"><path stroke-linecap="round" stroke-linejoin="round" d="M6.75 3v2.25M17.25 3v2.25M3 18.75V7.5a2.25 2.25 0 012.25-2.25h13.5A2.25 2.25 0 0121 7.5v11.25m-18 0A2.25 2.25 0 005.25 21h13.5A2.25 2.25 0 0021 18.75m-18 0v-7.5A2.25 2.25 0 015.25 9h13.5A2.25 2.25 0 0121 11.25v7.5" /></svg>
-            Week of June 9, 2026
-          </div>
-        </div>
-      </div>
+      <div class="cards-grid" id="cards-grid" data-astro-cid-j73ewcdv=""> <div class="card regulatory" data-astro-cid-j73ewcdv=""> <div class="card-accent-bar" data-astro-cid-j73ewcdv=""></div> <span class="category-badge" data-astro-cid-j73ewcdv=""> <svg fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" data-astro-cid-j73ewcdv=""><path stroke-linecap="round" stroke-linejoin="round" d="M12 9v3.75m-9.303 3.376c-.866 1.5.217 3.374 1.948 3.374h14.71c1.73 0 2.813-1.874 1.948-3.374L13.949 3.378c-.866-1.5-3.032-1.5-3.898 0L2.697 16.126zM12 15.75h.007v.008H12v-.008z" data-astro-cid-j73ewcdv=""></path></svg>
+Market Update
+</span> <div class="headline" data-astro-cid-j73ewcdv="">IBKR Launches Commission-Free iShares ETFs Across Europe</div> <div class="summary" data-astro-cid-j73ewcdv="">Interactive Brokers added 500+ commission-free iShares ETFs from BlackRock to its recurring investment feature for European clients. Non-US investors in Europe now have broader access to bond, equity, and sector ETFs at zero cost.</div> <div class="date-tag" data-astro-cid-j73ewcdv="">Week of  June 18, 2026</div> </div> <div class="card broker" data-astro-cid-j73ewcdv=""> <div class="card-accent-bar" data-astro-cid-j73ewcdv=""></div> <span class="category-badge" data-astro-cid-j73ewcdv=""> <svg fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" data-astro-cid-j73ewcdv=""><path stroke-linecap="round" stroke-linejoin="round" d="M3 7.5L7.5 3m0 0L12 7.5M7.5 3v13.5m13.5 0L16.5 21m0 0L12 16.5m4.5 4.5V7.5" data-astro-cid-j73ewcdv=""></path></svg>
+Broker News
+</span> <div class="headline" data-astro-cid-j73ewcdv="">IBKR Integrates AI Trading via Claude</div> <div class="summary" data-astro-cid-j73ewcdv="">Interactive Brokers launched agentic AI trading on June 1 through direct integration with Claude AI. Clients can now use AI-assisted portfolio management across 170+ markets from a single interface.</div> <div class="date-tag" data-astro-cid-j73ewcdv="">Week of  June 18, 2026</div> </div> <div class="card tax" data-astro-cid-j73ewcdv=""> <div class="card-accent-bar" data-astro-cid-j73ewcdv=""></div> <span class="category-badge" data-astro-cid-j73ewcdv=""> <svg fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" data-astro-cid-j73ewcdv=""><path stroke-linecap="round" stroke-linejoin="round" d="M9 12.75L11.25 15 15 9.75m-3-7.036A11.959 11.959 0 013.598 6 11.99 11.99 0 003 9.749c0 5.592 3.824 10.29 9 11.623 5.176-1.332 9-6.03 9-11.622 0-1.31-.21-2.571-.598-3.751h-.152c-3.196 0-6.1-1.248-8.25-3.285z" data-astro-cid-j73ewcdv=""></path></svg>
+Broker News
+</span> <div class="headline" data-astro-cid-j73ewcdv="">IBKR Reports 4.75 Million Client Accounts in Q1 2026</div> <div class="summary" data-astro-cid-j73ewcdv="">Interactive Brokers Q1 2026 results showed client accounts up 31% year-over-year to 4.75 million. Revenue hit a record $1.67 billion, up 17%. Quarterly dividend increased to $0.0875 per share.</div> <div class="date-tag" data-astro-cid-j73ewcdv="">Week of  June 18, 2026</div> </div> <div class="card stat" data-astro-cid-j73ewcdv=""> <div class="card-accent-bar" data-astro-cid-j73ewcdv=""></div> <span class="category-badge" data-astro-cid-j73ewcdv=""> <svg fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" data-astro-cid-j73ewcdv=""><path stroke-linecap="round" stroke-linejoin="round" d="M3 13.125C3 12.504 3.504 12 4.125 12h2.25c.621 0 1.125.504 1.125 1.125v6.75C7.5 20.496 6.996 21 6.375 21h-2.25A1.125 1.125 0 013 19.875v-6.75zM9.75 8.625c0-.621.504-1.125 1.125-1.125h2.25c.621 0 1.125.504 1.125 1.125v11.25c0 .621-.504 1.125-1.125 1.125h-2.25a1.125 1.125 0 01-1.125-1.125V8.625zM16.5 4.125c0-.621.504-1.125 1.125-1.125h2.25C20.496 3 21 3.504 21 4.125v15.75c0 .621-.504 1.125-1.125 1.125h-2.25a1.125 1.125 0 01-1.125-1.125V4.125z" data-astro-cid-j73ewcdv=""></path></svg>
+Stat of the Week
+</span> <div class="headline" data-astro-cid-j73ewcdv="">IBKR Client Equity Reaches $789 Billion</div> <div class="summary" data-astro-cid-j73ewcdv="">Interactive Brokers reported client equity of $789.4 billion in Q1 2026, up 38% year-over-year. Customer margin loans also grew 35%, reflecting increased activity from international investors.</div> <div class="date-tag" data-astro-cid-j73ewcdv="">Week of  June 18, 2026</div> </div> </div>
 
       <div class="admin-hint">Press Ctrl+Shift+E to open admin editor</div>
 
