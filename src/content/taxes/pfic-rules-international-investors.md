@@ -182,6 +182,16 @@ No. The PFIC classification is based on what you own, not where you bought it. B
 
 No. There's no minimum value threshold. Even a small position in a PFIC requires Form 8621 filing. The penalties for not filing can exceed the value of a small holding.
 
+## Before You Act - Useful Tools
+
+If you are reviewing your fund holdings or considering switching to US-listed alternatives:
+
+- **[Tax Map](/tax-map/)** - Check how PFIC exposure intersects with your country's capital gains and dividend rules.
+- **[Broker Finder](/broker-finder/)** - Find brokers that give international investors access to US-listed ETFs and avoid the PFIC trap.
+- **[Broker Fee Calculator](/broker-calculator/)** - Compare the total cost of switching to a US-domiciled ETF approach through IBKR vs other platforms.
+
+---
+
 ## 🏁 Final Takeaway
 
 PFIC rules exist specifically to discourage US persons from investing in foreign passive vehicles. The tax treatment is punitive by design.

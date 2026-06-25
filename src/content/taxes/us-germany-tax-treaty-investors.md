@@ -300,6 +300,16 @@ This position is primarily relevant to corporate structures - US companies holdi
 <!-- ADSENSE PLACEHOLDER — BOTTOM OF ARTICLE -->
 <!-- [ADSENSE_BOTTOM] -->
 
+## Useful Tools
+
+Not sure which broker or structure fits your situation? These tools can help you decide before you open an account:
+
+- **[Tax Map](/tax-map/)** - A country-by-country breakdown of US withholding rates, capital gains rules, and treaty benefits.
+- **[Broker Finder](/broker-finder/)** - Find brokers that accept German residents and handle W-8BEN correctly.
+- **[Broker Fee Calculator](/broker-calculator/)** - Compare the total cost of ownership across platforms, including FX and custody.
+
+---
+
 ## Key Takeaways
 
 The US-Germany tax treaty delivers standard modern treaty rates - 15% on portfolio dividends, 0% on interest and royalties, and residence-only taxation for capital gains. These rates are not unique to Germany; the US-UK, US-Ireland, and US-Netherlands treaties provide the same headline numbers. The treaty's value for investors is in reliability and the specificity of its interaction with Germany's domestic tax framework - not in exceptional preferential rates.

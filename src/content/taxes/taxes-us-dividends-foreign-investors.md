@@ -313,6 +313,16 @@ The 30% default is a starting point, not a ceiling and not always a floor. Under
 
 ---
 
+## Tools to Help You Plan
+
+Before you invest, it helps to know exactly where you stand:
+
+- **[Tax Map](/tax-map/)** - See your country's treaty rate, dividend withholding, and capital gains treatment at a glance.
+- **[Broker Finder](/broker-finder/)** - Find the right broker for your country and investment style.
+- **[Broker Fee Calculator](/broker-calculator/)** - Compare the real cost of different brokers, including FX conversion and custody fees.
+
+---
+
 *This article is informational only and does not constitute tax or legal advice. Rates and rules are based on IRC Section 871, IRS Publication 515 (2026 edition), IRS Treaty Tables (updated February 23, 2026), and individual treaty texts as published by the US Treasury and IRS. Tax rules change. Consult a qualified cross-border tax professional for advice specific to your situation.*
 
 *Sources: IRC §871(a), §871(k)(1), §871(k)(2), §897 (FIRPTA); IRS Publication 515 (2026); IRS Publication 519 (2025); IRS Tax Treaty Tables (IRS.gov, February 2026); PWC Tax Summaries - United States Corporate Withholding Taxes (March 2026); US-Israel Tax Treaty (IRS.gov/pub/irs-trty/israel.pdf); US-Japan Income Tax Convention and 2019 Protocol.*

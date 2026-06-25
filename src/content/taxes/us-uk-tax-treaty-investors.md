@@ -303,6 +303,16 @@ The UK treaty's genuine distinction is the pension exemption mechanism and how i
 <!-- ADSENSE PLACEHOLDER — BOTTOM OF ARTICLE -->
 <!-- [ADSENSE_BOTTOM] -->
 
+## Useful Tools
+
+Getting the treaty rate right is only the first step. These tools help you optimize the full picture:
+
+- **[Tax Map](/tax-map/)** - Compare the US-UK treaty rates against other countries and income types at a glance.
+- **[Broker Finder](/broker-finder/)** - Find UK-compatible brokers that handle W-8BEN correctly, including SIPP providers that deliver the 0% rate.
+- **[Broker Fee Calculator](/broker-calculator/)** - See how Halifax, AJ Bell, Hargreaves Lansdown, and IBKR compare on total cost for US stock investors.
+
+---
+
 ## Key Takeaways
 
 The US-UK treaty delivers the same headline rates as comparable US treaties with Germany, Ireland, and the Netherlands: 15% on portfolio dividends, 0% on interest and royalties, and residence-country-only taxation for capital gains. Its genuine advantage for UK investors is the pension exemption - a qualifying SIPP with the right provider receives US dividends on individual stocks at 0% withholding instead of 15%.

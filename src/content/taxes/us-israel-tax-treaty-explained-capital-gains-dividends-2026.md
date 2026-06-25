@@ -188,6 +188,16 @@ The treaty works both ways. US investors in Israeli securities get reduced Israe
 
 Yes, but there's a process. You need to file Form 1040-NR and Form 1040-C to claim refunds for up to three prior tax years. Consider using a cross-border tax professional for this.
 
+## Useful Tools for Israeli Investors
+
+Before you finalize your setup, these tools can save you time and money:
+
+- **[Tax Map](/tax-map/)** - Compare Israel's treaty rates against other countries side by side.
+- **[Broker Finder](/broker-finder/)** - Find brokers that accept Israeli residents and support W-8BEN filing.
+- **[Broker Fee Calculator](/broker-calculator/)** - Calculate the real cost difference between IBKR, eToro, Saxo, and others - including FX conversion drag.
+
+---
+
 ## 🏁  Action Steps for Israeli Investors
 
 1. **Check your current withholding rate** on your broker's tax documents

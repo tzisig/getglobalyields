@@ -170,6 +170,16 @@ Different brokers handle uninvested cash differently — some pay interest, othe
 - You want simplicity above all
 - You don't use options or advanced strategies
 
+## **Compare Before You Commit**
+
+These tools help you validate your decision before opening an account:
+
+- **[Broker Finder](/broker-finder/)** - Answer a few questions about your situation and get matched to the right broker.
+- **[Broker Fee Calculator](/broker-calculator/)** - Compare IBKR vs Saxo vs eToro on total cost - FX, commissions, and custody combined.
+- **[Tax Map](/tax-map/)** - See how Israeli investors are taxed on US dividends and capital gains, including the treaty rates that apply.
+
+---
+
 ## **Final Verdict**
 
 **For Israeli investors trading TQQQ or using options strategies: Interactive Brokers is the most cost-efficient and capable platform overall.**

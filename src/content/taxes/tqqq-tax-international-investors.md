@@ -191,6 +191,16 @@ Execution matters more than most people think. You need:
 
 IBKR offers global access, strong reporting tools, and supports advanced strategies like options.
 
+## **Useful Tools**
+
+Before you scale your TQQQ position, make sure your tax and broker setup is optimized:
+
+- **[Tax Map](/tax-map/)** - See how your country taxes US ETF dividends and capital gains, including the rates that apply to leveraged ETFs like TQQQ.
+- **[Broker Finder](/broker-finder/)** - Find brokers that accept investors from your country and give access to US-listed ETFs.
+- **[Broker Fee Calculator](/broker-calculator/)** - Compare the real cost of holding TQQQ through IBKR vs other platforms - FX, commissions, and cash interest included.
+
+---
+
 ## **Final Thoughts**
 
 From a tax perspective, TQQQ is relatively efficient for non-US investors.
