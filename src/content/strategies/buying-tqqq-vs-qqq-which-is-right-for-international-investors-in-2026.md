@@ -6,6 +6,7 @@ pubDate: 2026-04-05
 updatedDate: 2026-05-12
 author: "Tzion S."
 categories: ["Strategies"]
+keywords: "Volatility Decay Explained, Tqqq Strategy, Investing In Us From Abroad, Best Etf For International Investors, Ibkr Non Us Investors, Tqqq Vs Qqq, Leveraged Etf Risks, Strategies, TQQQ vs QQQ Which Is Right for Non-US Investors in 2026, TQQQ vs QQQ, Which Is Right for Non, US Investors in 2026?"
 tags:
   - "volatility decay explained"
   - "tqqq strategy"

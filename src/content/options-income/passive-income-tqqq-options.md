@@ -6,6 +6,7 @@ pubDate: 2026-05-23
 updatedDate: 2026-05-23
 author: "Tzion S."
 categories: ["Options Income"]
+keywords: "TQQQ Options Strategy, TQQQ Covered Calls, TQQQ Passive Income, Leveraged ETF Options, TQQQ Wheel Strategy, TQQQ Cash Secured Puts, 3x Leveraged ETF Income, TQQQ Risk 2026, Options Income, Generating Passive Income from TQQQ Options 2026 Guide, TQQQ, QQQ"
 tags:
   - "TQQQ options strategy"
   - "TQQQ covered calls"

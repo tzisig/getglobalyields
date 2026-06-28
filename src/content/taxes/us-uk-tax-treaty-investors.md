@@ -6,6 +6,7 @@ pubDate: 2026-05-24
 updatedDate: 2026-05-24
 author: "Tzion S."
 categories: ["Taxes"]
+keywords: "US UK Tax Treaty 2026, UK Investor US Stocks, W-8BEN UK, SIPP US Dividends Withholding, ISA US Stocks Tax, Double Taxation UK US, Foreign Tax Credit UK, FIG Regime 2025, US Citizen UK Pension, Taxes, US-UK Tax Treaty for Investors The Complete 2026 Guide, UK Tax Treaty for Investors"
 tags:
   - "US UK tax treaty 2026"
   - "UK investor US stocks"

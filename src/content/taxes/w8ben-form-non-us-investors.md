@@ -6,6 +6,7 @@ pubDate: 2026-04-01
 updatedDate: 2026-05-12
 author: "Tzion S."
 categories: ["Taxes"]
+keywords: "W-8ben Form, Us Withholding Tax, Non Us Investors Tax, Foreign Investors Us Tax, W8ben Explained, Tax Treaty Us Dividends, Reduce Us Dividend Tax, Taxes, W-8BEN Form Complete Guide for International Investors, 8BEN Form, Complete Guide for International Investors, W-8BEN"
 tags:
   - "w-8ben form"
   - "us withholding tax"

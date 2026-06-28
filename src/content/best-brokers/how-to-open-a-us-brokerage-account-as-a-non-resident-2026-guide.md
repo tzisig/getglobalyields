@@ -6,6 +6,7 @@ pubDate: 2026-04-01
 updatedDate: 2026-05-12
 author: "Tzion S."
 categories: ["Best Brokers"]
+keywords: "Open Brokerage Account, Non-resident, 2026 Guide, W-8ben, International Investors, Account Opening, Documentation, Best Brokers, How to Open a US Brokerage Account as a Non-Resident 2026, Resident (2026), US Stocks"
 tags:
   - "open brokerage account"
   - "non-resident"

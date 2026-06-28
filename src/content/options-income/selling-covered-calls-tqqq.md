@@ -6,6 +6,7 @@ pubDate: 2026-05-20
 updatedDate: 2026-05-20
 author: "Tzion S."
 categories: ["Options Income"]
+keywords: "Covered Calls TQQQ, TQQQ Options Strategy, Selling Covered Calls, Leveraged ETF Options, TQQQ Implied Volatility, Options Income Strategy, TQQQ Risks, Rolling Covered Calls, Options Greeks, Options Income, Selling Covered Calls on TQQQ A Complete Guide, Selling Covered Calls on TQQQ"
 tags:
   - "covered calls TQQQ"
   - "TQQQ options strategy"

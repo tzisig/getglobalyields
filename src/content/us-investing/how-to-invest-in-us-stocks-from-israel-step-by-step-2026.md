@@ -6,6 +6,7 @@ pubDate: 2026-04-01
 updatedDate: 2026-05-12
 author: "Tzion S."
 categories: ["US Investing"]
+keywords: "Israel, Us Stocks, Step-by-step, 2026 Guide, W-8ben, Currency Conversion, Taxes, US Investing, How to Invest in US Stocks from Israel Step-by-Step 2026, Step (2026), US Stocks"
 tags:
   - "israel"
   - "us stocks"

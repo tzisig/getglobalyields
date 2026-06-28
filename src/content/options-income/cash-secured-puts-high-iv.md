@@ -6,6 +6,7 @@ pubDate: 2026-05-23
 updatedDate: 2026-05-23
 author: "Tzion S."
 categories: ["Options Income"]
+keywords: "Cash Secured Puts, High IV Stocks Options, Cash Secured Put Strategy 2026, IV Rank Options, Wheel Strategy Options, Selling Puts For Income, Options Premium Income, Assignment Risk Options, Options Income, Cash-Secured Puts on High-IV Stocks 2026 Guide, Secured Puts on High, IV Stocks (2026 Guide)"
 tags:
   - "cash secured puts"
   - "high IV stocks options"

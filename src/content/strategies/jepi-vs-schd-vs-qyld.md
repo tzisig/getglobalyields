@@ -6,6 +6,7 @@ pubDate: 2026-04-01
 updatedDate: 2026-05-28
 author: "Tzion S."
 categories: ["Strategies"]
+keywords: "JEPI, SCHD, QYLD, Dividend ETF, JEPI Vs SCHD, Best Dividend ETF 2026, Covered Call ETF, Dividend ETF Non-US Investor, Strategies, JEPI vs SCHD vs QYLD Best Dividend ETF Comparison, JEPI vs SCHD vs QYLD, Best Dividend ETF Comparison"
 tags:
   - "JEPI"
   - "SCHD"

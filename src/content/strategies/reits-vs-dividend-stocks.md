@@ -5,6 +5,7 @@ pubDate: 2026-05-30
 updatedDate: 2026-05-30
 author: "Tzion S."
 categories: ["Income-Investing", "ETF-Investing"]
+keywords: "REITs Vs Dividend Stocks, Passive Income 2026, REIT Investing International, Dividend Stocks 2026, Realty Income O, Dividend Aristocrats 2026, FIRPTA Foreign Investors, Passive Income Israel, Income-Investing, ETF-Investing, REITs vs Dividend Stocks Best for Passive Income in 2026, REITs vs Dividend Stocks"
 tags:
   - "REITs vs dividend stocks"
   - "passive income 2026"

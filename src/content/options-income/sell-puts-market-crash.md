@@ -6,6 +6,7 @@ pubDate: 2026-05-24
 updatedDate: 2026-05-24
 author: "Tzion S."
 categories: ["Options Income"]
+keywords: "Sell Puts Market Crash, Cash Secured Puts High VIX, Selling Puts During Volatility, Options Trading Bear Market, VIX Put Selling Strategy, IV Rank Options, Put Selling Crash Strategy, Options Income Investing, Options Income, How to Sell Puts During a Market Crash 2026 Guide"
 tags:
   - "sell puts market crash"
   - "cash secured puts high VIX"

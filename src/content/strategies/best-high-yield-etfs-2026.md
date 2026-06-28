@@ -6,6 +6,7 @@ pubDate: 2026-05-24
 updatedDate: 2026-05-24
 author: "Tzion S."
 categories: ["Strategies"]
+keywords: "Best High Yield Etf 2026, Income Etf 2026, JEPI JEPQ SCHD 2026, Covered Call Etf, SPYI QQQI NEOS, High Yield Bond Etf, Dividend Etf International Investors, NAV Erosion Covered Call, ELN Equity Linked Notes, Strategies, Best High-Yield ETFs for Income Investors in 2026, Best High"
 tags:
   - "best high yield etf 2026"
   - "income etf 2026"

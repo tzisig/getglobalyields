@@ -6,6 +6,7 @@ pubDate: 2026-05-12
 updatedDate: 2026-05-12
 author: "Tzion S."
 categories: ["Taxes"]
+keywords: "US-Israel Tax Treaty, Capital Gains, Dividends, W-8BEN, Withholding Tax, Taxes, US-Israel Tax Treaty Capital Gains  Dividend Rates 2026, Israel Tax Treaty, US Stocks"
 tags:
   - "US-Israel tax treaty"
   - "capital gains"

@@ -6,6 +6,7 @@ pubDate: 2026-05-24
 updatedDate: 2026-05-24
 author: "Tzion S."
 categories: ["Taxes"]
+keywords: "US Dividend Tax Foreign Investors, Withholding Tax US Dividends, Nonresident Alien Dividend Tax, W-8BEN, Treaty Rate Dividends, FDAP Income, Interest-related Dividends, REIT Withholding Tax, Form 1042-S, US Tax Nonresident, Taxes, US Dividend Withholding Tax for Foreign Investors 2026"
 tags:
   - "US dividend tax foreign investors"
   - "withholding tax US dividends"

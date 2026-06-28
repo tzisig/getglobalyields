@@ -6,6 +6,7 @@ pubDate: 2026-05-25
 updatedDate: 2026-05-25
 author: "Tzion S."
 categories: ["Strategies"]
+keywords: "High Yield Investments 2026, Income Investing, REIT Dividend Yield, BDC Investing, CLO ETF, Covered Call Income, Dividend Stocks 2026, Yield Trap, Passive Income Investing, Portfolio Income Strategy, Strategies, High-Yield Investment Strategies That Actually Work in 2026"
 tags:
   - "high yield investments 2026"
   - "income investing"

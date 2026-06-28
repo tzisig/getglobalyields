@@ -6,6 +6,7 @@ pubDate: 2026-05-24
 updatedDate: 2026-05-24
 author: "Tzion S."
 categories: ["Strategies"]
+keywords: "TQQQ Compounding Returns, TQQQ Volatility Decay, Leveraged ETF Long Term, TQQQ Vs QQQ, Beta Slippage TQQQ, TQQQ 2022 Drawdown, 3x Leveraged ETF Risk, TQQQ International Investors, Strategies, Compounding Returns with TQQQ Math vs Reality 2026, Compounding Returns with TQQQ, Math vs Reality (2026)"
 tags:
   - "TQQQ compounding returns"
   - "TQQQ volatility decay"

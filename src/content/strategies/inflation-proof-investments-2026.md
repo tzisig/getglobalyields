@@ -5,6 +5,7 @@ pubDate: 2026-05-26
 updatedDate: 2026-05-26
 author: "Tzion S."
 categories: ["Strategies"]
+keywords: "Inflation Proof Investments 2026, TIPS 2026, I Bonds 2026, Gold Inflation Hedge, Commodities Inflation, Inflation Hedge Portfolio, Real Assets Investing, Infrastructure Stocks Inflation, Strategies, Inflation-Proof Investments What Works in 2026, Proof Investments, What Works in 2026"
 tags:
   - "inflation proof investments 2026"
   - "TIPS 2026"

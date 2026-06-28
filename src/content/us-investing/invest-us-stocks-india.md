@@ -6,6 +6,7 @@ pubDate: 2026-05-19
 updatedDate: 2026-05-19
 author: "Tzion S."
 categories: ["Basics"]
+keywords: "How To Invest In Us Stocks From India, Lrs Scheme Us Stocks India, Us Stocks India Tax, Ibkr India, India Us Dtaa, Investing In Us From India 2026, Rbi Lrs Limit, Basics, How to Invest in US Stocks from India 2026 Guide, US Stocks"
 tags:
   - "how to invest in us stocks from india"
   - "lrs scheme us stocks india"

@@ -5,6 +5,7 @@ pubDate: 2026-05-20
 updatedDate: 2026-05-20
 author: "Tzion S."
 categories: ["Investing-Guides", "Country-Guides"]
+keywords: "Invest In US Stocks From Germany, Germany ETF Investing 2026, Vorabpauschale 2026, Abgeltungsteuer, Freistellungsauftrag, VWCE Germany, Best Broker Germany, UCITS ETF Germany, Sparerpauschbetrag 2026, Teilfreistellung, Investing-Guides, Country-Guides"
 tags:
   - "invest in US stocks from Germany"
   - "Germany ETF investing 2026"

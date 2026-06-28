@@ -6,6 +6,7 @@ pubDate: 2026-04-01
 updatedDate: 2026-05-25
 author: "Tzion S."
 categories: ["Strategies"]
+keywords: "Global Asset Protection 2026, Offshore Trusts, Asset Protection Jurisdictions, FATCA CRS Compliance, Offshore Wealth Management, Cook Islands Trust, Singapore Asset Protection, International Diversification, Wealth Preservation Strategies, Strategies, Global Asset Protection for International Investors, Non-US Investors"
 tags:
   - "global asset protection 2026"
   - "offshore trusts"

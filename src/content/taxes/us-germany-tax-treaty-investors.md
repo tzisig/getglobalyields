@@ -6,6 +6,7 @@ pubDate: 2026-05-24
 updatedDate: 2026-05-24
 author: "Tzion S."
 categories: ["Taxes"]
+keywords: "Us Germany Tax Treaty, Us Germany Tax Treaty 2026, German Investor US Stocks, W-8BEN Germany, Double Taxation Avoidance, Abgeltungsteuer, Foreign Tax Credit, Withholding Tax Dividends, PFIC Rules Germany, FBAR Germany, Taxes, US-Germany Tax Treaty for Investors The Complete 2026 Guide"
 tags:
   - "us germany tax treaty"
   - "us germany tax treaty 2026"

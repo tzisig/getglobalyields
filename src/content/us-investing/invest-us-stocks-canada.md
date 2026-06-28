@@ -5,6 +5,7 @@ pubDate: 2026-05-24
 updatedDate: 2026-05-24
 author: "Tzion S."
 categories: ["Investing-Guides"]
+keywords: "How To Invest In Us Stocks From Canada, Buy Us Stocks Canada, Canadian Investor Us Stocks, TFSA Us Stocks Withholding Tax, RRSP Us Stocks, Norberts Gambit, Questrade Us Stocks, Wealthsimple Us Stocks, Interactive Brokers Canada, W-8ben Canada, Investing-Guides, How to Invest in US Stocks from Canada 2026 Guide"
 tags:
   - "how to invest in us stocks from canada"
   - "buy us stocks canada"

@@ -6,6 +6,7 @@ pubDate: 2026-04-01
 updatedDate: 2026-05-12
 author: "Tzion S."
 categories: ["Strategies"]
+keywords: "Tqqq Tax Non-us Investors, Tqqq Dividend Withholding, Leveraged Etf Tax International, W-8ben Tqqq, Tqqq Capital Gains, Tqqq Tax Israel, Us Etf Tax Non Us Residents, Strategies, TQQQ Tax Guide for International Investors 2026, TQQQ, QQQ, Capital Gains"
 tags:
   - "tqqq tax non-us investors"
   - "tqqq dividend withholding"

@@ -6,6 +6,7 @@ pubDate: 2026-05-24
 updatedDate: 2026-05-24
 author: "Tzion S."
 categories: ["Strategies"]
+keywords: "Passive Income Portfolio 2026, 10000 Month Passive Income, Income Portfolio Construction, JEPI ARCC Realty Income Portfolio, Dividend Portfolio Strategy, How Much To Invest For Passive Income, International Investor Passive Income, Strategies, How to Build a 10KMonth Passive Income Portfolio in 2026, Passive Income"
 tags:
   - "passive income portfolio 2026"
   - "10000 month passive income"

@@ -5,6 +5,7 @@ pubDate: 2026-05-30
 updatedDate: 2026-05-30
 author: "Tzion S."
 categories: ["Strategies"]
+keywords: "TQQQ Covered Calls, TQQQ Cash Secured Puts, TQQQ Wheel Strategy, Implied Volatility TQQQ, Options Greeks TQQQ, TQQQ Options Income, Rolling Options TQQQ, Leveraged ETF Options Strategy, Strategies, TQQQ Covered Calls  Cash-Secured Puts Strategy Guide, TQQQ Covered Calls & Cash, Secured Puts Strategy Guide"
 tags:
   - "TQQQ covered calls"
   - "TQQQ cash secured puts"

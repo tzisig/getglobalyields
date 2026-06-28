@@ -6,6 +6,7 @@ pubDate: 2026-05-23
 updatedDate: 2026-05-23
 author: "Tzion S."
 categories: ["Options Income"]
+keywords: "High Yield Options Strategies, Options Income Strategies 2026, Covered Calls Income, Cash Secured Puts Income, Wheel Strategy Options, PMCC Poor Mans Covered Call, JEPI QYLD Covered Call ETF, Options Income Investors, Options Income, High-Yield Options Strategies for International Investors, TQQQ, QQQ"
 tags:
   - "high yield options strategies"
   - "options income strategies 2026"
