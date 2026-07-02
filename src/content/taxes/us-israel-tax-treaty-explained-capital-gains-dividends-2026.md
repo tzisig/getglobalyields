@@ -19,15 +19,30 @@ heroImageHeight: 560
 draft: false
 readingTime: "8 min read"
 featured: false
+seo:
+  metaTitle: "US-Israel Tax Treaty Guide for Israeli Investors (2026)"
+  metaDescription: "How the US-Israel tax treaty affects Israeli residents. Understand capital gains, the 25% dividend withholding rate, W-8BEN rules, and double tax credits."
+  ogTitle: "US-Israel Tax Treaty Guide for Israeli Investors (2026)"
+  ogDescription: "How the US-Israel tax treaty affects Israeli residents. Understand capital gains, the 25% dividend withholding rate, W-8BEN rules, and double tax credits."
+  ogImage: "/images/blog/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026.webp"
+  twitterCard: "summary_large_image"
+schema:
+  type: "article"
+  headline: "US-Israel Tax Treaty Guide for Israeli Investors (2026)"
+  description: "How the US-Israel tax treaty affects Israeli residents. Understand capital gains, the 25% dividend withholding rate, W-8BEN rules, and double tax credits."
+  author: "Tzion S."
+  datePublished: "2026-05-12"
+  dateModified: "2026-06-30"
+  image: "/images/blog/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026.webp"
+  mainEntityOfPage: "https://getglobalyields.com/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026"
 ---
-
 Updated: May 2026  •  GetGlobalYields.com  •  Read time: ~8 min
 
 💡 **Bottom Line**
 
 The US-Israel tax treaty reduces US withholding on dividends from 30% to 15% for Israeli residents. Capital gains on US stocks are generally tax-free in the US if you're an Israeli resident.
 
-But you need to file a W-8BEN form with your broker to claim these rates. This guide covers the current treaty rates, how to apply them, and what Israeli investors need to know for 2026.
+But you need to file a [W-8BEN](/taxes/w8ben-form-non-us-investors) form with your broker to claim these rates. This guide covers the current treaty rates, how to apply them, and what Israeli investors need to know for 2026.
 
 <!-- ADSENSE-LEADERBOARD-728x90 -->
 
@@ -86,7 +101,7 @@ The W-8BEN is a one-page form where you:
 
 The form is valid for three years. After that, you need to renew it. If you don't renew, your broker will revert to the 30% withholding rate.
 
-<!-- AFFILIATE-CTA-1: IBKR open account -->
+<!-- AFFILIATE-CTA-1: [IBKR](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors) open account -->
 
 ## 🇮🇱  Israeli Tax Treatment of US Income
 
@@ -152,7 +167,7 @@ You must report all foreign income (including US dividends and capital gains) on
 
 Most brokers process W-8BEN forms within 1-3 business days. You'll see the reduced rate on your next dividend payment.
 
-<!-- AFFILIATE-CTA-2: IBKR primary CTA -->
+<!-- AFFILIATE-CTA-2: [IBKR](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors) primary CTA -->
 
 ## 🏦  Which Brokers Accept W-8BEN from Israeli Residents?
 
@@ -179,7 +194,7 @@ Different rules apply. US citizens are taxed worldwide regardless of residence. 
 
 ### Does the treaty apply to ETFs and mutual funds?
 
-Yes. Dividends from US-listed ETFs (like VOO, QQQ) qualify for the 15% treaty rate. However, some foreign-domiciled ETFs may have different treatment (see PFIC rules).
+Yes. Dividends from US-listed ETFs (like VOO, QQQ) qualify for the 15% treaty rate. However, some foreign-domiciled ETFs may have different treatment (see [PFIC](/taxes/pfic-rules-international-investors) rules).
 
 ### What about Israeli bonds or stocks held by US investors?
 
@@ -211,18 +226,18 @@ The US-Israel tax treaty is one of the most investor-friendly agreements Israel 
 
 <!-- AFFILIATE-CTA-FINAL -->
 
-## 🔗  Related Articles on GetGlobalYields.com
-
-→ [W-8BEN Form: Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors)
-
-→ [How to Convert ILS to USD at Interbank Rates Using IBKR](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026)
-
-→ [Interactive Brokers 2026 Review: The Best Broker for International Investors](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors)
-
-→ [PFIC Rules: What International Investors Must Know](/taxes/pfic-rules-international-investors)
-
-→ [US Estate Tax for Non-Residents: What International Investors Must Know](/taxes/taxes-us-dividends-foreign-investors)
-
 > ⚠️ **Affiliate Disclosure:** GetGlobalYields.com may earn a commission if you open an account through links on this page. This does not affect our editorial independence.
 > 
 > ⚠️ **Tax Disclaimer:** This article is for informational purposes only and does not constitute tax or financial advice. Tax treaties are complex and subject to change. Consult a qualified cross-border tax professional for guidance specific to your situation.
+
+## Related Guides
+
+- [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors)
+- [How to Convert ILS to USD at Interbank Rates Using IBKR](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026)
+- [Interactive Brokers 2026 Review: The Best Broker for International Investors](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors)
+- [PFIC Rules for International Investors](/taxes/pfic-rules-international-investors)
+- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors)
+- [Best Brokers for Israeli Investors in US Markets](/taxes/best-broker-israeli-investors-us-markets)
+- [TQQQ Tax Guide for International Investors](/taxes/tqqq-tax-international-investors)
+- [US-Germany Tax Treaty for Investors](/taxes/us-germany-tax-treaty-investors)
+- [US-UK Tax Treaty for Investors](/taxes/us-uk-tax-treaty-investors)
