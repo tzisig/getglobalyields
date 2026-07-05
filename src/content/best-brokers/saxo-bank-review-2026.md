@@ -1,6 +1,6 @@
 ---
 title: "Saxo Bank Review 2026: Premium Broker for Global Investors"
-description: "Saxo Bank reviewed for international investors. High minimums, wide market access, and premium tools — is it worth the cost over IBKR?"
+description: "Saxo Bank reviewed for international investors. High minimums, wide market access, and premium tools - is it worth the cost over IBKR?"
 pubDate: 2026-05-18
 updatedDate: 2026-05-18
 author: "Tzion S."

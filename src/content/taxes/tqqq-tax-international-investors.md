@@ -38,11 +38,11 @@ schema:
   image: "/images/blog/taxes/tqqq-tax-international-investors.webp"
   mainEntityOfPage: "https://getglobalyields.com/taxes/tqqq-tax-international-investors"
 ---
-If you're investing in US markets from outside the US, understanding taxes is not optional — it directly impacts your real returns.
+If you're investing in US markets from outside the US, understanding taxes is not optional - it directly impacts your real returns.
 
 TQQQ is widely discussed for its high returns potential. But most tax guides are written for US residents.
 
-For international investors, the tax picture is different — and in some ways, more efficient.
+For international investors, the tax picture is different - and in some ways, more efficient.
 
 **👉 I personally used TQQQ (with options) during a recovery after a 70% drawdown.** [Full case study here.](/case-study/from-minus-70-to-plus-492k-real-tqqq-recovery-case-study/)
 
@@ -53,7 +53,7 @@ This guide breaks down exactly how TQQQ is taxed for non-US investors:
 - Options income
 - Hidden risks most people ignore
 
-_⚠️ Important Disclaimer: Tax rules vary by country and individual circumstances. This guide is for educational purposes only — always verify with a qualified tax advisor in your jurisdiction._
+_⚠️ Important Disclaimer: Tax rules vary by country and individual circumstances. This guide is for educational purposes only - always verify with a qualified tax advisor in your jurisdiction._
 
 ## **What Kind of Income Does TQQQ Generate?**
 
@@ -83,7 +83,7 @@ TQQQ dividends are subject to US withholding tax.
 
 Typical rates with a [valid W-8BEN form](/taxes/w8ben-form-non-us-investors):
 
-<table><thead><tr><th><p><strong>Country</strong></p></th><th><p><strong>Withholding Rate</strong></p></th></tr></thead><tbody><tr><td><p>[Israel](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026)</p></td><td><p><em>25% (treaty rate — not a large reduction vs default)</em></p></td></tr><tr><td><p>[UK](/us-investing/invest-us-stocks-uk) / [Germany](/us-investing/invest-us-stocks-germany) / France</p></td><td><p>15%</p></td></tr><tr><td><p>[Australia](/us-investing/invest-us-stocks-australia)</p></td><td><p>15%</p></td></tr><tr><td><p>No treaty</p></td><td><p>30%</p></td></tr></tbody></table>
+<table><thead><tr><th><p><strong>Country</strong></p></th><th><p><strong>Withholding Rate</strong></p></th></tr></thead><tbody><tr><td><p>[Israel](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026)</p></td><td><p><em>25% (treaty rate - not a large reduction vs default)</em></p></td></tr><tr><td><p>[UK](/us-investing/invest-us-stocks-uk) / [Germany](/us-investing/invest-us-stocks-germany) / France</p></td><td><p>15%</p></td></tr><tr><td><p>[Australia](/us-investing/invest-us-stocks-australia)</p></td><td><p>15%</p></td></tr><tr><td><p>No treaty</p></td><td><p>30%</p></td></tr></tbody></table>
 
 _Because TQQQ's yield is low, the actual dollar impact is small even at 25%._
 
@@ -121,7 +121,7 @@ Example:
 
 - 50% of gains are included in taxable income at your marginal rate
 
-_⚠️ Effective rate varies widely by income bracket — consult a [Canadian](/us-investing/invest-us-stocks-canada) tax advisor for your specific situation._
+_⚠️ Effective rate varies widely by income bracket - consult a [Canadian](/us-investing/invest-us-stocks-canada) tax advisor for your specific situation._
 
 ### **Australia**
 
@@ -138,11 +138,11 @@ Key points:
 
 - Threshold: ~$60,000 for non-residents
 - Tax rates: up to 40%
-- Applies upon death — not on trading
+- Applies upon death - not on trading
 
-_⚠️ Verify the current threshold — this is subject to change based on US tax legislation._
+_⚠️ Verify the current threshold - this is subject to change based on US tax legislation._
 
-This does not affect trading — but it matters for long-term holders. If you plan to hold large US positions long-term, this risk should not be ignored.
+This does not affect trading - but it matters for long-term holders. If you plan to hold large US positions long-term, this risk should not be ignored.
 
 ## **The Tax Efficiency Advantage of TQQQ**
 
@@ -168,7 +168,7 @@ However:
 - Tax treatment varies by country
 - Frequent trading increases taxable events locally
 
-_👉 Bottom line: Efficient structure — but requires tracking and discipline._
+_👉 Bottom line: Efficient structure - but requires tracking and discipline._
 
 ## **Practical Tax Reporting**
 
@@ -203,7 +203,7 @@ Execution matters more than most people think. You need:
 - Low fees
 - Reliable tax documents
 
-**👉 We recommend [IBKR](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors) for most non-US investors —** here's our full review.
+**👉 We recommend [IBKR](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors) for most non-US investors -** here's our full review.
 
 IBKR offers global access, strong reporting tools, and supports advanced strategies like options.
 
@@ -225,7 +225,7 @@ From a tax perspective, TQQQ is relatively efficient for non-US investors.
 
 **No US capital gains tax** → profits taxed locally
 
-**👉 Tax doesn't disappear — it shifts. You're not avoiding tax. You're moving the obligation from the US to your home country. Used correctly, this is efficient. Used blindly, it creates problems.**
+**👉 Tax doesn't disappear - it shifts. You're not avoiding tax. You're moving the obligation from the US to your home country. Used correctly, this is efficient. Used blindly, it creates problems.**
 
 ## Related Guides
 

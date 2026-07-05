@@ -23,11 +23,9 @@ readingTime: "11 min read"
 featured: true
 ---
 
-<!-- PAGE: Add this article to /blog/ — no special layout needed beyond the standard blog post template -->
-
 Trading options from outside the United States is genuinely harder than most guides let on. The brokers with the best tools often restrict non-US clients. The ones that accept international traders frequently charge fees that eat into any edge you thought you had. And regulatory differences mean that what works in Europe may not work in Asia or the Middle East.
 
-This guide focuses on what matters for traders living outside the US who want real access to options markets — not a watered-down product.
+This guide focuses on what matters for traders living outside the US who want real access to options markets - not a watered-down product.
 
 <!-- ADSENSE PLACEHOLDER -->
 

@@ -150,7 +150,7 @@ This does not make tastytrade an unstable platform in day-to-day use. It is a re
 
 ## tastytrade vs Interactive Brokers
 
-These two are the most common comparison for active international options traders — see our full [best options brokers for international investors](/best-brokers/best-options-brokers-international-2026) guide for a broader comparison.
+These two are the most common comparison for active international options traders - see our full [best options brokers for international investors](/best-brokers/best-options-brokers-international-2026) guide for a broader comparison.
 
 | | tastytrade | Interactive Brokers |
 |---|---|---|

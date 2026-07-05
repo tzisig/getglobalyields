@@ -208,7 +208,7 @@ The honest framing: if you're a buy-and-hold investor who logs in occasionally a
 
 ## Firstrade vs Interactive Brokers
 
-For international investors, this is the comparison that matters most — for a broader look at all options brokers for non-US traders, see our [best options brokers for international investors](/best-brokers/best-options-brokers-international-2026) guide.
+For international investors, this is the comparison that matters most - for a broader look at all options brokers for non-US traders, see our [best options brokers for international investors](/best-brokers/best-options-brokers-international-2026) guide.
 
 | | Firstrade | Interactive Brokers |
 |---|---|---|

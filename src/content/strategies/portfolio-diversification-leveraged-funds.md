@@ -28,7 +28,7 @@ featured: false
 
 ## Portfolio Diversification with Leveraged Funds: Mastering the 3x Approach
 
-The allure of amplified returns is powerful, drawing countless investors toward the world of leveraged exchange-traded funds (ETFs). While diversification remains the bedrock of smart investing, incorporating 3x products—instruments designed to deliver triple the daily market movement—forces us to ask a difficult question: Can such high-octane assets truly diversify a portfolio, or do they just increase the intensity of the ride? For seasoned investors seeking alpha, understanding the mechanics is paramount; nuance is currency here.
+The allure of amplified returns is powerful, drawing countless investors toward the world of leveraged exchange-traded funds (ETFs). While diversification remains the bedrock of smart investing, incorporating 3x products-instruments designed to deliver triple the daily market movement-forces us to ask a difficult question: Can such high-octane assets truly diversify a portfolio, or do they just increase the intensity of the ride? For seasoned investors seeking alpha, understanding the mechanics is paramount; nuance is currency here.
 
 ## The Engine Room: Decoding Daily Reset Mechanics and Volatility Drag
 
@@ -68,7 +68,7 @@ For serious investors, the 3x fund should be treated as a high-beta satellite, r
 **Allocation Rule Example:** If your strategic allocation to equities is 60% of the total portfolio:
 
 - **Core Equity (50% of Portfolio):** Standard, low-cost ETFs (e.g., VOO, VTI). This is the anchor.
-- **Leveraged Satellite (Target 10% of Portfolio):** Held in TQQQ/UPRO — see our [TQQQ vs SOXL vs UPRO comparison](/strategies/tqqq-vs-soxl-vs-upro) to choose the right instrument.
+- **Leveraged Satellite (Target 10% of Portfolio):** Held in TQQQ/UPRO - see our [TQQQ vs SOXL vs UPRO comparison](/strategies/tqqq-vs-soxl-vs-upro) to choose the right instrument.
 - **Defensive Buffer (40% of Portfolio):** Bonds, cash equivalents, or low-volatility assets.
 
 **The Critical Rebalancing Protocol:** The target allocation must be maintained. If poor performance causes the 10% satellite to shrink to 7%, you may choose to *add* to it (if market conditions are favorable) or leave it. But if strong performance causes it to swell to **15% of the total portfolio value**, you must **systematically trim** the gains back down to the 10% target. This disciplined harvesting neutralizes the decay risk by locking in profits into the defensive buffer. For a full breakdown of rules and thresholds, see our [comprehensive guide to leveraged ETF rebalancing strategy](/strategies/leveraged-etf-rebalancing-reduce-decay).

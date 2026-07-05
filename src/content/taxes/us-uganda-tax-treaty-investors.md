@@ -39,7 +39,7 @@ schema:
 
 This comprehensive guide on **US-Uganda Tax Rules for Investors** is currently under development and will be published soon.
 
-Note that **the United States and Uganda do not currently have a double tax treaty in place**. Without a treaty, Ugandan tax residents don't get the reduced dividend rates that investors in treaty countries like [Germany](/taxes/us-germany-tax-treaty-investors), the [UK](/taxes/us-uk-tax-treaty-investors), [Canada](/taxes/us-canada-tax-treaty-investors-2026), [Israel](/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026), or [Australia](/taxes/us-australia-tax-treaty-investors) benefit from — the default 30% withholding applies instead of a treaty-reduced rate.
+Note that **the United States and Uganda do not currently have a double tax treaty in place**. Without a treaty, Ugandan tax residents don't get the reduced dividend rates that investors in treaty countries like [Germany](/taxes/us-germany-tax-treaty-investors), the [UK](/taxes/us-uk-tax-treaty-investors), [Canada](/taxes/us-canada-tax-treaty-investors-2026), [Israel](/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026), or [Australia](/taxes/us-australia-tax-treaty-investors) benefit from - the default 30% withholding applies instead of a treaty-reduced rate.
 
 In this upcoming guide, we will explore:
 - **Default Withholding Rates**: Why Ugandan tax residents face the standard 30% US [withholding tax](/taxes/taxes-us-dividends-foreign-investors) on dividends due to the lack of a tax treaty.
@@ -47,12 +47,12 @@ In this upcoming guide, we will explore:
 - **Double Taxation Considerations**: How Ugandan residents can manage double tax issues under domestic tax rules.
 - **UCITS Alternatives**: How Ugandan investors can use European-domiciled UCITS ETFs to optimize their portfolios, and why US-domiciled leveraged products like [TQQQ](/taxes/tqqq-tax-international-investors) carry different tax mechanics without a treaty in place.
 - **PFIC Risk**: Why non-US-domiciled fund structures can trigger the [PFIC](/taxes/pfic-rules-international-investors) regime for US-connected investors, and how to avoid it.
-- **Broker Access**: Which brokers accept Ugandan residents and provide reliable US market access — our [Interactive Brokers review](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors) covers the platform most non-treaty-country investors end up using, alongside broker options we cover for [Israeli investors](/taxes/best-broker-israeli-investors-us-markets) facing similar cross-border considerations.
+- **Broker Access**: Which brokers accept Ugandan residents and provide reliable US market access - our [Interactive Brokers review](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors) covers the platform most non-treaty-country investors end up using, alongside broker options we cover for [Israeli investors](/taxes/best-broker-israeli-investors-us-markets) facing similar cross-border considerations.
 
 **In the meantime, these tools can help you plan:**
-- **[Tax Map](/tax-map/)** — see exactly how your country of residence taxes US dividends and capital gains.
-- **[Broker Finder](/broker-finder/)** — find brokers that accept investors from Uganda and provide US market access.
-- **[Broker Fee Calculator](/broker-calculator/)** — compare real costs (FX, commissions, cash interest) across platforms before you commit.
+- **[Tax Map](/tax-map/)** - see exactly how your country of residence taxes US dividends and capital gains.
+- **[Broker Finder](/broker-finder/)** - find brokers that accept investors from Uganda and provide US market access.
+- **[Broker Fee Calculator](/broker-calculator/)** - compare real costs (FX, commissions, cash interest) across platforms before you commit.
 
 Stay tuned!
 

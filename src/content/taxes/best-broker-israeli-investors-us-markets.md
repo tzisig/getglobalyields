@@ -1,7 +1,7 @@
 ---
 slug: best-broker-israeli-investors-us-markets
 title: "Best Brokers for Israeli Investors in US Markets (2026)"
-description: "Compare the best brokers for Israeli investors trading US stocks, ETFs, and options. IBKR vs Saxo vs eToro — fees, FX costs, tax handling, and options access."
+description: "Compare the best brokers for Israeli investors trading US stocks, ETFs, and options. IBKR vs Saxo vs eToro - fees, FX costs, tax handling, and options access."
 pubDate: 2026-04-01
 updatedDate: 2026-05-12
 author: "Tzion S."
@@ -83,9 +83,9 @@ _Best for: Active investors, options traders, portfolios above ~$10K–$25K_
 
 _If you're using strategies like [covered calls](/options-income/selling-covered-calls-tqqq/), [tqqq](/taxes/tqqq-tax-international-investors) or cash-secured puts, this matters significantly._
 
-### **Estate Tax — Important Note**
+### **Estate Tax - Important Note**
 
-_⚠️ Non-US investors holding US-domiciled ETFs like [TQQQ](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026) may be exposed to US estate tax on assets above ~$60,000. This is a real risk for long-term holders. The right approach depends on your individual situation — consult a tax advisor before building large positions._
+_⚠️ Non-US investors holding US-domiciled ETFs like [TQQQ](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026) may be exposed to US estate tax on assets above ~$60,000. This is a real risk for long-term holders. The right approach depends on your individual situation - consult a tax advisor before building large positions._
 
 ### **Downsides**
 
@@ -102,12 +102,12 @@ _Best for: Large portfolios, investors prioritizing stability and institutional 
 
 - Regulated European bank ([Denmark](/taxes/us-denmark-tax-treaty-investors))
 - Strong custody and infrastructure
-- Access to global markets — US, Europe, Asia
+- Access to global markets - US, Europe, Asia
 
 ### **Weaknesses**
 
 - Higher commissions than IBKR
-- ~0.25% FX conversion cost — significantly higher than IBKR
+- ~0.25% FX conversion cost - significantly higher than IBKR
 - Less competitive for active or frequent trading
 
 _Saxo is positioned more as a wealth management platform than an active trading platform. Suitable if you prioritize stability over cost efficiency._
@@ -125,22 +125,22 @@ _Best for: Beginners, small accounts, passive investors_
 ### **Limitations**
 
 - No options trading
-- Wider spreads — a hidden cost per trade
+- Wider spreads - a hidden cost per trade
 - Limited control over execution
 
-### **Tax Handling — Important Nuance**
+### **Tax Handling - Important Nuance**
 
 For Israeli investors, eToro applies [W-8BEN](/taxes/w8ben-form-non-us-investors) treaty rates (typically 25%) on dividends from shares held directly.
 
-_⚠️ Important: eToro offers both real shares and CFDs. If you hold CFDs, you do not own the underlying security — the tax treatment is different and the 25% withholding may not apply in the same way. Always verify which product type you are holding._
+_⚠️ Important: eToro offers both real shares and CFDs. If you hold CFDs, you do not own the underlying security - the tax treatment is different and the 25% withholding may not apply in the same way. Always verify which product type you are holding._
 
-_"Zero commission" does not mean free — you pay through spreads and pricing differences. Suitable for getting started, not for advanced strategies._
+_"Zero commission" does not mean free - you pay through spreads and pricing differences. Suitable for getting started, not for advanced strategies._
 
 ## **Comparison Table (Israel-Focused)**
 
 <table><thead><tr><th><p><strong>Feature</strong></p></th><th><p><strong>IBKR</strong></p></th><th><p><strong>Saxo Bank</strong></p></th><th><p><strong>eToro</strong></p></th></tr></thead><tbody><tr><td><p>US Dividend Tax</p></td><td><p><strong>25%</strong></p></td><td><p>25%</p></td><td><p>25% (shares)*</p></td></tr><tr><td><p>FX Conversion</p></td><td><p><strong>~0.002%</strong></p></td><td><p>~0.25%</p></td><td><p>Spread-based</p></td></tr><tr><td><p>Options Trading</p></td><td><p><strong>Full</strong></p></td><td><p>Limited</p></td><td><p>None</p></td></tr><tr><td><p>UCITS Access</p></td><td><p><strong>Yes</strong></p></td><td><p>Yes</p></td><td><p>No</p></td></tr><tr><td><p>Platform Level</p></td><td><p><strong>Advanced</strong></p></td><td><p>Advanced</p></td><td><p>Beginner</p></td></tr><tr><td><p>Best For</p></td><td><p><strong>All-around</strong></p></td><td><p>Stability</p></td><td><p>Entry-level</p></td></tr></tbody></table>
 
-_\* eToro 25% applies to real shares only — see CFD note above._
+_\* eToro 25% applies to real shares only - see CFD note above._
 
 ## **The "Hidden Tax Drag" Explained**
 
@@ -155,7 +155,7 @@ This is where most investors lose money without noticing.
 ### **2. Dividends**
 
 - 25% US withholding for Israeli investors (via W-8BEN treaty)
-- Unavoidable on dividend-paying ETFs — but more impactful on [high-yield ETF](/strategies/best-high-yield-etfs-2026)s than on TQQQ
+- Unavoidable on dividend-paying ETFs - but more impactful on [high-yield ETF](/strategies/best-high-yield-etfs-2026)s than on TQQQ
 
 ### **3. Spreads**
 
@@ -164,7 +164,7 @@ This is where most investors lose money without noticing.
 
 ### **4. Cash and Interest**
 
-Different brokers handle uninvested cash differently — some pay interest, others do not. This affects your total return on idle capital. Check your broker's specific policy.
+Different brokers handle uninvested cash differently - some pay interest, others do not. This affects your total return on idle capital. Check your broker's specific policy.
 
 ## **Which is the Best Broker in Israel for US Stocks?**
 
@@ -202,13 +202,13 @@ These tools help you validate your decision before opening an account:
 
 Lowest FX costs, best execution, full strategy support.
 
-Other platforms are valid — but involve trade-offs: higher costs, limited tools, or less flexibility.
+Other platforms are valid - but involve trade-offs: higher costs, limited tools, or less flexibility.
 
 👉 [**Start with IBKR here**](https://www.interactivebrokers.com/)
 
 ## **Related Guides**
 
-- [TQQQ vs QQQ — Strategy Breakdown](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026)
+- [TQQQ vs QQQ - Strategy Breakdown](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026)
 - [Full Case Study: From -70% to +$492K](/case-study/from-minus-70-to-plus-492k-real-tqqq-recovery-case-study/)
 - [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors)
 - [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors)

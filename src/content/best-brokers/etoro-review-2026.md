@@ -41,7 +41,7 @@ rating: 3.8
 | International Availability | 4/5 |
 | Platform & UX | 5/5 |
 | Copy Trading | 5/5 |
-| Asset Range | 4/5 *(9,000+ stocks, 1,000+ ETFs, 160+ crypto — but no bonds, futures, or real options)* |
+| Asset Range | 4/5 *(9,000+ stocks, 1,000+ ETFs, 160+ crypto - but no bonds, futures, or real options)* |
 | Customer Support | 3/5 |
 | Ease of Use | 5/5 |
 

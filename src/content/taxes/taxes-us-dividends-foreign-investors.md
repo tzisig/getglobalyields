@@ -41,7 +41,7 @@ schema:
   image: "/images/blog/taxes/taxes-us-dividends-foreign-investors.webp"
   mainEntityOfPage: "https://getglobalyields.com/taxes/taxes-us-dividends-foreign-investors"
 ---
-<!-- ADSENSE PLACEHOLDER — TOP OF ARTICLE -->
+<!-- ADSENSE PLACEHOLDER - TOP OF ARTICLE -->
 <!-- [ADSENSE_TOP] -->
 
 If you live outside the United States and hold US stocks, the IRS wants a share of your dividends. By default, that share is 30% - withheld automatically before the money reaches your account. No filing required from you, no notice, no negotiation. The broker or fund company does it.
@@ -86,7 +86,7 @@ The withholding agent - your broker, the dividend-paying company, or the fund ad
 
 ---
 
-<!-- ADSENSE PLACEHOLDER — MID ARTICLE -->
+<!-- ADSENSE PLACEHOLDER - MID ARTICLE -->
 <!-- [ADSENSE_MID_1] -->
 
 ---
@@ -148,7 +148,7 @@ Countries without a US income tax treaty include Brazil, Singapore, UAE, Saudi A
 
 ---
 
-<!-- ADSENSE PLACEHOLDER — MID ARTICLE -->
+<!-- ADSENSE PLACEHOLDER - MID ARTICLE -->
 <!-- [ADSENSE_MID_2] -->
 
 ---
@@ -225,7 +225,7 @@ The net result for most European investors: An Irish-domiciled ETF typically del
 
 ---
 
-<!-- ADSENSE PLACEHOLDER — MID ARTICLE -->
+<!-- ADSENSE PLACEHOLDER - MID ARTICLE -->
 <!-- [ADSENSE_MID_3] -->
 
 ---
@@ -303,7 +303,7 @@ For publicly traded US REITs, the FIRPTA exemption for domestically controlled e
 
 ---
 
-<!-- ADSENSE PLACEHOLDER — BOTTOM OF ARTICLE -->
+<!-- ADSENSE PLACEHOLDER - BOTTOM OF ARTICLE -->
 <!-- [ADSENSE_BOTTOM] -->
 
 ---

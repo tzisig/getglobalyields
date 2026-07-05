@@ -24,7 +24,7 @@ readingTime: "13 min read"
 featured: false
 ---
 
-<!-- ADSENSE PLACEHOLDER — TOP OF ARTICLE -->
+<!-- ADSENSE PLACEHOLDER - TOP OF ARTICLE -->
 <!-- [ADSENSE_TOP] -->
 
 **The bottom line up front:** SCHD builds wealth over time. JEPI delivers stable monthly income with lower volatility. QYLD maximizes current cash flow at the cost of capital growth. The right choice depends on your time horizon - but for non-US investors, [withholding tax](/taxes/taxes-us-dividends-foreign-investors) changes the math significantly for all three.
@@ -115,7 +115,7 @@ All three funds converged at 7-9% annually over five years - similar total retur
 
 ---
 
-<!-- ADSENSE PLACEHOLDER — MID ARTICLE -->
+<!-- ADSENSE PLACEHOLDER - MID ARTICLE -->
 <!-- [ADSENSE_MID_1] -->
 
 ---
@@ -211,7 +211,7 @@ The impact is largest on QYLD and JEPI, which are most dependent on distribution
 
 ---
 
-<!-- ADSENSE PLACEHOLDER — BOTTOM OF ARTICLE -->
+<!-- ADSENSE PLACEHOLDER - BOTTOM OF ARTICLE -->
 <!-- [ADSENSE_BOTTOM] -->
 
 ---

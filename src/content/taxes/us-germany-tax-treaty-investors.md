@@ -41,7 +41,7 @@ schema:
   image: "/images/blog/taxes/us-germany-tax-treaty-investors.webp"
   mainEntityOfPage: "https://getglobalyields.com/taxes/us-germany-tax-treaty-investors"
 ---
-<!-- ADSENSE PLACEHOLDER — TOP OF ARTICLE -->
+<!-- ADSENSE PLACEHOLDER - TOP OF ARTICLE -->
 <!-- [ADSENSE_TOP] -->
 
 The US-[Germany](/us-investing/how-to-invest-in-us-stocks-from-germany/) tax treaty reduces withholding on US dividends from 30% to 15%, eliminates withholding on interest and royalties entirely, and ensures that capital gains are taxed only once - in your country of residence. For investors moving money across one of the world's largest bilateral trading relationships, that is a meaningful set of protections.
@@ -88,7 +88,7 @@ Establishing treaty residence in Germany does not remove the US filing obligatio
 
 ---
 
-<!-- ADSENSE PLACEHOLDER — MID ARTICLE -->
+<!-- ADSENSE PLACEHOLDER - MID ARTICLE -->
 <!-- [ADSENSE_MID_1] -->
 
 ## The Rate Table: What the Treaty Actually Does
@@ -180,7 +180,7 @@ Article 13 follows the OECD model: gains from selling securities are taxable onl
 
 ---
 
-<!-- ADSENSE PLACEHOLDER — MID ARTICLE -->
+<!-- ADSENSE PLACEHOLDER - MID ARTICLE -->
 <!-- [ADSENSE_MID_2] -->
 
 ## Form W-8BEN: The Single Highest-Value Action for German Investors
@@ -262,7 +262,7 @@ FBAR and Form 8938 are independent requirements with different thresholds. You m
 
 ---
 
-<!-- ADSENSE PLACEHOLDER — BEFORE CHECKLIST -->
+<!-- ADSENSE PLACEHOLDER - BEFORE CHECKLIST -->
 <!-- [ADSENSE_MID_3] -->
 
 ## The Limitation on Benefits Clause and the December 2025 BZSt Position
@@ -313,7 +313,7 @@ This position is primarily relevant to corporate structures - US companies holdi
 
 ---
 
-<!-- ADSENSE PLACEHOLDER — BOTTOM OF ARTICLE -->
+<!-- ADSENSE PLACEHOLDER - BOTTOM OF ARTICLE -->
 <!-- [ADSENSE_BOTTOM] -->
 
 ## Useful Tools

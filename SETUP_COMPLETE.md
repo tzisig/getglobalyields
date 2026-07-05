@@ -2,7 +2,7 @@
 
 ## What's Been Installed
 
-Your project now has unlimited free access to **Hermes 3 Llama 3.1 405B** — the most powerful free AI model available.
+Your project now has unlimited free access to **Hermes 3 Llama 3.1 405B** - the most powerful free AI model available.
 
 ### 📁 New Files Created
 

@@ -1,7 +1,7 @@
 ---
 title: "How a TQQQ Income System Works: 3 Market Scenarios"
 slug: "tqqq-income-system-market-scenarios-options"
-description: "TQQQ income system across market scenarios. How covered calls and puts perform in bull, bear, and sideways markets — with real premium data and sizing rules."
+description: "TQQQ income system across market scenarios. How covered calls and puts perform in bull, bear, and sideways markets - with real premium data and sizing rules."
 pubDate: 2026-05-04
 author: "Global Yields Team"
 categories: ["strategies"]
@@ -33,7 +33,7 @@ TQQQ climbs steadily. Tech is winning. Rates are accommodating.
 - Your TQQQ shares appreciate (+5% to +15% per year)
 - Covered calls get called away at their strike price
 - You sell new calls at higher strikes, collect more premium
-- Cash-secured puts remain "safe" — no assignment pressure
+- Cash-secured puts remain "safe" - no assignment pressure
 
 **Example outcomes:**
 - TQQQ gains: +$2,000
@@ -85,7 +85,7 @@ The system transitions to **accumulation mode**. You're buying the dip with put 
 
 Most traders think options income strategies fail because of "volatility risk." Wrong.
 
-The real risk is **time horizon risk** — if you need your money in 6 months and the market is down 30%, you're locked into losses.
+The real risk is **time horizon risk** - if you need your money in 6 months and the market is down 30%, you're locked into losses.
 
 But if your time horizon is 3+ years, even a bear market becomes an accumulation opportunity. You buy cheaper shares through put assignments while collecting premium.
 
@@ -97,7 +97,7 @@ The genius of this system: **it doesn't require you to be right about the market
 - Bear market? Accumulation happens at discounts.
 - Sideways? Time decay is harvested.
 
-Risk is managed through position sizing, strike selection, and cash buffers — not through guessing what the Fed will do next.
+Risk is managed through position sizing, strike selection, and cash buffers - not through guessing what the Fed will do next.
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Best Brokers for International Investors (2026)"
-description: "Top US brokers for non-US investors in 2026. Compare IBKR, Tastytrade, Firstrade, eToro and more — fees, options access, tax handling, and FX costs."
+description: "Top US brokers for non-US investors in 2026. Compare IBKR, Tastytrade, Firstrade, eToro and more - fees, options access, tax handling, and FX costs."
 pubDate: 2026-04-12
 updatedDate: 2026-05-12
 author: "Tzion S."

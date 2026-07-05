@@ -1,7 +1,7 @@
 # OpenRouter Integration Guide
 
 ## Overview
-This project now has unlimited free access to **Hermes 3 Llama 3.1 405B** — the most powerful free AI model on OpenRouter.
+This project now has unlimited free access to **Hermes 3 Llama 3.1 405B** - the most powerful free AI model on OpenRouter.
 
 ## Setup ✅
 

@@ -40,7 +40,7 @@ schema:
   image: "/images/blog/taxes/us-uk-tax-treaty-investors.webp"
   mainEntityOfPage: "https://getglobalyields.com/taxes/us-uk-tax-treaty-investors"
 ---
-<!-- ADSENSE PLACEHOLDER — TOP OF ARTICLE -->
+<!-- ADSENSE PLACEHOLDER - TOP OF ARTICLE -->
 <!-- [ADSENSE_TOP] -->
 
 Most [UK](/us-investing/invest-us-stocks-uk) investors holding US stocks are overpaying their US tax bill. Not by a little - by 15 percentage points on every dividend payment. The fix takes one form and a few minutes. But the more interesting question is whether you are using the right account type to begin with - because the difference between holding US stocks in an ISA versus a SIPP can be the difference between paying 15% US withholding forever and paying zero.
@@ -82,7 +82,7 @@ That is $300 per year on a $100,000 portfolio - purely from account choice, not 
 
 ---
 
-<!-- ADSENSE PLACEHOLDER — MID ARTICLE -->
+<!-- ADSENSE PLACEHOLDER - MID ARTICLE -->
 <!-- [ADSENSE_MID_1] -->
 
 ## The Treaty: What It Actually Covers
@@ -158,7 +158,7 @@ Additionally, IRC Section 871(k)(1) exempts interest-related dividends paid by U
 
 ---
 
-<!-- ADSENSE PLACEHOLDER — MID ARTICLE -->
+<!-- ADSENSE PLACEHOLDER - MID ARTICLE -->
 <!-- [ADSENSE_MID_2] -->
 
 ## UK Dividend Tax: The 2025/26 and 2026/27 Numbers
@@ -257,7 +257,7 @@ For high-net-worth investors arriving in the UK: US dividends, gains from sellin
 
 ---
 
-<!-- ADSENSE PLACEHOLDER — BEFORE CHECKLIST -->
+<!-- ADSENSE PLACEHOLDER - BEFORE CHECKLIST -->
 <!-- [ADSENSE_MID_3] -->
 
 ## How the US-UK Treaty Compares to Other Major US Treaties
@@ -316,7 +316,7 @@ The UK treaty's genuine distinction is the pension exemption mechanism and how i
 
 ---
 
-<!-- ADSENSE PLACEHOLDER — BOTTOM OF ARTICLE -->
+<!-- ADSENSE PLACEHOLDER - BOTTOM OF ARTICLE -->
 <!-- [ADSENSE_BOTTOM] -->
 
 ## Useful Tools

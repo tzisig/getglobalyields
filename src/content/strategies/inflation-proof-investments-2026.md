@@ -1,6 +1,6 @@
 ---
 title: "Inflation-Proof Investments: What Works in 2026"
-description: "Which assets actually protect against inflation for non-US investors. Gold, TIPS, real estate, dividend growers, and commodities — data-driven analysis for 2026."
+description: "Which assets actually protect against inflation for non-US investors. Gold, TIPS, real estate, dividend growers, and commodities - data-driven analysis for 2026."
 pubDate: 2026-05-26
 updatedDate: 2026-05-26
 author: "Tzion S."

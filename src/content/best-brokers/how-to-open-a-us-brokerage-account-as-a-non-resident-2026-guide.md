@@ -38,7 +38,7 @@ Yes - with conditions. US law does not prohibit non-residents from investing in 
 The key requirements are:
 
 -   A valid government-issued ID (passport preferred)
--   Proof of address in your country of residence - A completed [W-8BEN](/taxes/w8ben-form-non-us-investors) form — our [complete W-8BEN guide](/taxes/w8ben-form-non-us-investors) walks through every field
+-   Proof of address in your country of residence - A completed [W-8BEN](/taxes/w8ben-form-non-us-investors) form - our [complete W-8BEN guide](/taxes/w8ben-form-non-us-investors) walks through every field
 -   A foreign bank account for funding
 
 Some brokers also require a minimum deposit, and a small number of countries are restricted due to US sanctions or local regulations.
