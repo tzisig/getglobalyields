@@ -23,7 +23,7 @@ seo:
   metaDescription: "Guide to US investing for Ugandan residents. Why a 30% default dividend withholding tax applies due to no treaty, W-8BEN filing, and UCITS ETFs."
   ogTitle: "US-Uganda Tax Rules & Guide for Ugandan Investors (2026)"
   ogDescription: "Guide to US investing for Ugandan residents. Why a 30% default dividend withholding tax applies due to no treaty, W-8BEN filing, and UCITS ETFs."
-  ogImage: "/images/blog/taxes/us-uganda-tax-treaty-investors.webp"
+  ogImage: "/images/blog/taxes/us-uganda-tax-treaty.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"

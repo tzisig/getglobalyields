@@ -28,7 +28,7 @@ seo:
   metaDescription: "How the US-UK tax treaty reduces US dividend withholding tax for UK residents to 15%. Learn W-8BEN requirements, ISA implications, and pension rules."
   ogTitle: "US-UK Tax Treaty Guide for British Investors (2026)"
   ogDescription: "How the US-UK tax treaty reduces US dividend withholding tax for UK residents to 15%. Learn W-8BEN requirements, ISA implications, and pension rules."
-  ogImage: "/images/blog/taxes/us-uk-tax-treaty-investors.webp"
+  ogImage: "/images/blog/taxes/us-uk-tax-treaty.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"
@@ -66,7 +66,7 @@ A UK investor holding $100,000 in US dividend stocks yielding 2% annually:
 | ISA | $2,000 | $300 (15%) | $1,700 |
 | SIPP (AJ Bell / HL) | $2,000 | $0 | $2,000 |
 
-That is $300 per year on a $100,000 portfolio - purely from account choice, not investment selection. On a £500,000 portfolio, it is £1,500 per year that either stays in the pension or goes to the IRS. Compounded over a 20-year accumulation period, the difference is substantial.
+That is $300 per year on a $100,000 portfolio - purely from account choice, not investment selection. On a ֲ£500,000 portfolio, it is ֲ£1,500 per year that either stays in the pension or goes to the IRS. Compounded over a 20-year accumulation period, the difference is substantial.
 
 **The critical caveat on ETFs:** The 0% pension exemption applies to direct individual US stock holdings where the SIPP is the registered beneficial owner on record with the IRS. It does not flow through to ETFs. If you hold an [Irish-domiciled ETF](/strategies/best-high-yield-etfs-2026) (CSPX, VUSA) inside a SIPP, the fund itself pays 15% US withholding at the fund level before the dividends ever reach you - and the pension wrapper provides no benefit at that layer. The 0% rate only works with individual US stocks held directly.
 
@@ -135,7 +135,7 @@ If you are unsure whether your broker has a valid W-8BEN on file for your accoun
 Under Article 13 of the treaty, gains from selling US stocks are taxable only in the UK for UK residents. No US capital gains tax applies. No withholding is deducted on sale proceeds.
 
 The UK taxes the gain at domestic rates. For 2025/26:
-- Annual exempt amount (CGT allowance): **£3,000** per individual
+- Annual exempt amount (CGT allowance): **ֲ£3,000** per individual
 - Basic rate (gains within remaining basic rate band): **18%**
 - Higher and additional rate: **24%**
 
@@ -150,9 +150,9 @@ These rates apply from October 30, 2024, following the Autumn Budget. They repla
 Article 11 of the treaty eliminates US source-country withholding on interest paid to UK residents. If you hold US Treasuries or a US-domiciled bond ETF, the interest component of distributions arrives with no US withholding applied.
 
 The income is then taxed in the UK at your applicable rate, after the Personal Savings Allowance:
-- Basic rate taxpayers: £1,000 allowance, then 20%
-- Higher rate taxpayers: £500 allowance, then 40%
-- Additional rate taxpayers: £0 allowance, then 45%
+- Basic rate taxpayers: ֲ£1,000 allowance, then 20%
+- Higher rate taxpayers: ֲ£500 allowance, then 40%
+- Additional rate taxpayers: ֲ£0 allowance, then 45%
 
 Additionally, IRC Section 871(k)(1) exempts interest-related dividends paid by US-domiciled RICs (mutual funds and ETFs) from withholding for foreign investors. If you hold a US bond ETF, the portion of distributions derived from interest income should arrive without US withholding - but brokers do not always apply this correctly. Check your Form 1042-S against what was actually withheld.
 
@@ -166,13 +166,13 @@ Additionally, IRC Section 871(k)(1) exempts interest-related dividends paid by U
 When US dividends land in a UK taxable account, UK dividend tax applies after crediting the US withholding already paid.
 
 **2025/26:**
-- Dividend allowance: £500
+- Dividend allowance: ֲ£500
 - Basic rate: **8.75%**
 - Higher rate: **33.75%**
 - Additional rate: **39.35%**
 
 **2026/27:**
-- Dividend allowance: £500 (unchanged)
+- Dividend allowance: ֲ£500 (unchanged)
 - Basic rate: **10.75%** (up 2%)
 - Higher rate: **35.75%** (up 2%)
 - Additional rate: **39.35%** (unchanged)
@@ -251,7 +251,7 @@ From April 6, 2025, the UK replaced its non-domicile remittance basis with the F
 - Not UK resident in any of the 10 tax years before the claim year
 - Maximum of four consecutive years from the year of arrival
 
-**Trade-off:** Claiming FIG relief in a year means forfeiting the UK personal allowance (£12,570) and the CGT annual exempt amount (£3,000) for that year. This makes FIG most valuable for individuals whose foreign income substantially exceeds those allowances.
+**Trade-off:** Claiming FIG relief in a year means forfeiting the UK personal allowance (ֲ£12,570) and the CGT annual exempt amount (ֲ£3,000) for that year. This makes FIG most valuable for individuals whose foreign income substantially exceeds those allowances.
 
 For high-net-worth investors arriving in the UK: US dividends, gains from selling US stocks, and other foreign investment income in the first four years can be sheltered from UK tax under FIG. Planning before UK residence begins - not after - is essential.
 
@@ -299,7 +299,7 @@ The UK treaty's genuine distinction is the pension exemption mechanism and how i
 - [ ] Renew W-8BEN before expiry (valid three calendar years from signing)
 - [ ] If using Halifax, iWeb, or iDealing - these platforms do not participate in reduced withholding; consider switching for US dividend stocks
 - [ ] Report US dividends on UK Self Assessment and claim foreign tax credit for US withholding paid
-- [ ] Capital gains on US stocks: taxable in UK only; use £3,000 annual exempt amount
+- [ ] Capital gains on US stocks: taxable in UK only; use ֲ£3,000 annual exempt amount
 
 **UK investor considering SIPP for US stocks:**
 - [ ] Confirm your SIPP provider delivers 0% US withholding on individual US stocks (AJ Bell and HL confirmed; others need verification)

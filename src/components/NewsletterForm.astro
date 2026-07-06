@@ -13,6 +13,7 @@ const { inSidebar = false, formId, compact = false } = Astro.props;
   {!compact && <p class="newsletter-form__subtext"></p>}
   <form action="https://formsubmit.co/getglobalyields@gmail.com" method="POST" class="newsletter-form__form">
     <input type="hidden" name="_subject" value="Get Access Now!" />
+    <input type="hidden" name="_captcha" value="true" />
     <input
       type="email"
       name="email"

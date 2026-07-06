@@ -1,4 +1,5 @@
 ---
+slug: tqqq-long-term-outlook
 title: "TQQQ Long-Term Outlook: Bull & Bear Scenarios for 2026+"
 description: "TQQQ long-term outlook across bull and bear scenarios. Volatility decay math, historical drawdowns, and realistic return expectations for non-US investors."
 pubDate: 2026-05-31
@@ -15,7 +16,6 @@ tags:
   - "TQQQ risk"
   - "TQQQ buy and hold"
   - "volatility decay TQQQ"
-slug: tqqq-long-term-outlook
 heroImage: "/images/blog/strategies/tqqq-long-term-outlook.webp"
 heroImageWidth: 840
 heroImageHeight: 560

@@ -1,4 +1,5 @@
 ---
+slug: how-to-invest-in-us-stocks-from-germany
 title: "How to Invest in US Stocks from Germany (2026 Guide)"
 description: "How to invest in US stocks from Germany. Broker options, W-8BEN, Abgeltungsteuer, UCITS vs US ETFs, and Vorabpauschale - explained clearly for 2026."
 pubDate: 2026-05-20
@@ -17,7 +18,6 @@ tags:
   - "UCITS ETF Germany"
   - "Sparerpauschbetrag 2026"
   - "Teilfreistellung"
-slug: how-to-invest-in-us-stocks-from-germany
 heroImage: "/images/blog/us-investing/invest-us-stocks-germany.webp"
 heroImageWidth: 840
 heroImageHeight: 560

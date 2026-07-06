@@ -1,4 +1,5 @@
 ---
+slug: leveraged-etf-rebalancing-reduce-decay
 title: "Volatility Decay in Leveraged ETFs: The Math, the Myth, and Four Strategies That Actually Work"
 description: "Volatility decay (beta slippage) explained precisely - the math behind it, why rebalancing frequency does not fix it, and four proven strategies that actually reduce its impact: HFEA, threshold rebalancing, calendar reset ETFs, and volatility targeting."
 pubDate: 2026-05-28
@@ -15,7 +16,6 @@ tags:
   - "leveraged ETF decay math"
   - "volatility targeting TQQQ"
   - "reduce beta slippage"
-slug: leveraged-etf-rebalancing-reduce-decay
 heroImage: "/images/blog/strategies/leveraged-etf-rebalancing.webp"
 heroImageWidth: 840
 heroImageHeight: 560

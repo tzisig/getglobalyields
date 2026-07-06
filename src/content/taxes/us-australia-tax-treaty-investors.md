@@ -190,10 +190,10 @@ When US dividends land in a taxable account, they are assessable income in Austr
 
 | Taxable Income | Marginal Rate |
 |---|---|
-| $0 – $18,200 | 0% |
-| $18,201 – $45,000 | 16% |
-| $45,001 – $135,000 | 30% |
-| $135,001 – $190,000 | 37% |
+| $0 ג€“ $18,200 | 0% |
+| $18,201 ג€“ $45,000 | 16% |
+| $45,001 ג€“ $135,000 | 30% |
+| $135,001 ג€“ $190,000 | 37% |
 | $190,001+ | 45% |
 
 Medicare levy of 2% applies in addition to these rates for most taxpayers, bringing the effective top combined rate to 47%.

@@ -1,4 +1,5 @@
 ---
+slug: tqqq-vs-soxl-vs-upro-best-leveraged-etf-2026
 title: "TQQQ vs SOXL vs UPRO: Best Leveraged ETF for 2026"
 description: "TQQQ vs SOXL vs UPRO compared for international investors. Underlying index, volatility, drawdown history, expense ratios, and which fits each investor profile."
 pubDate: 2026-05-31
@@ -15,7 +16,6 @@ tags:
   - "3x ETF comparison"
   - "SOXL drawdown"
   - "leveraged ETF risk"
-slug: tqqq-vs-soxl-vs-upro-best-leveraged-etf-2026
 heroImage: "/images/blog/strategies/tqqq-vs-soxl-vs-upro.webp"
 heroImageWidth: 840
 heroImageHeight: 560

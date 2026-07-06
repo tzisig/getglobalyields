@@ -1,4 +1,5 @@
 ---
+slug: tqqq-qqq-225-day-moving-average-strategy
 title: "QQQ 225-Day Moving Average Strategy: Complete Guide"
 description: "How the 225-day moving average strategy works on QQQ. Entry and exit rules, historical backtest results, and how international investors implement it via IBKR."
 pubDate: 2026-05-31
@@ -14,7 +15,6 @@ tags:
   - "Masonson QQQ strategy"
   - "moving average QQQ backtest"
   - "TQQQ risk management"
-slug: tqqq-qqq-225-day-moving-average-strategy
 heroImage: "/images/blog/strategies/qqq-225-day-moving-average-strategy.webp"
 heroImageWidth: 840
 heroImageHeight: 560

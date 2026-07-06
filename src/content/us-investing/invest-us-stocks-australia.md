@@ -1,4 +1,5 @@
 ---
+slug: how-to-invest-in-us-stocks-from-australia
 title: "How to Invest in US Stocks from Australia (2026 Guide)"
 description: "How to invest in US stocks from Australia. Broker comparison, W-8BEN, CGT rules, SMSF considerations, and the 2027 CGT changes Australian investors need to know."
 pubDate: 2026-05-23
@@ -19,7 +20,6 @@ tags:
   - "CGT discount 2027 australia"
   - "superhero broker australia"
   - "SMSF us stocks"
-slug: how-to-invest-in-us-stocks-from-australia
 heroImage: "/images/blog/us-investing/invest-us-stocks-australia.webp"
 heroImageWidth: 840
 heroImageHeight: 560

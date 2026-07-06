@@ -1,4 +1,5 @@
 ---
+slug: tastytrade-review-2026
 title: "Tastytrade Review 2026: Options Broker for Non-US Investors"
 description: "Tastytrade reviewed for international investors. Flat-fee options, powerful analytics, and who qualifies for an account outside the US."
 pubDate: 2026-05-23
@@ -14,7 +15,6 @@ tags:
   - "tastytrade vs ibkr"
   - "options trading broker"
   - "tastytrade platform"
-slug: tastytrade-review-2026
 heroImage: "/images/blog/best-brokers/tastytrade_review_banner.webp"
 heroImageWidth: 840
 heroImageHeight: 560

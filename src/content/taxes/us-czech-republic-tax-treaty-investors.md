@@ -42,7 +42,7 @@ schema:
      Recommended: Responsive AdSense display unit or broker affiliate banner ([IBKR](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/))
      Replace this comment block with your AdSense tag or affiliate banner HTML -->
 
-If you are a Czech resident holding US stocks and you have never filed Form [W-8BEN](/taxes/w8ben-form-non-us-investors/), every dividend you have received has been taxed at 30% - double the treaty rate you are entitled to. On a €40,000 US equity position yielding 2%, that is roughly €240 per year disappearing unnecessarily - and if you're moving CZK or EUR to USD to fund the position, our [multi-currency accounts guide](/us-investing/multi-currency-investment-accounts/) covers ways to cut conversion costs too. The fix is a single form filed with your broker. But the bigger opportunity for Czech investors is something most do not think about until they have already missed it: the 3-year capital gains exemption that makes long-term US equity investing nearly free of Czech tax.
+If you are a Czech resident holding US stocks and you have never filed Form [W-8BEN](/taxes/w8ben-form-non-us-investors/), every dividend you have received has been taxed at 30% - double the treaty rate you are entitled to. On a ג‚¬40,000 US equity position yielding 2%, that is roughly ג‚¬240 per year disappearing unnecessarily - and if you're moving CZK or EUR to USD to fund the position, our [multi-currency accounts guide](/us-investing/multi-currency-investment-accounts/) covers ways to cut conversion costs too. The fix is a single form filed with your broker. But the bigger opportunity for Czech investors is something most do not think about until they have already missed it: the 3-year capital gains exemption that makes long-term US equity investing nearly free of Czech tax.
 
 That combination - a 15% treaty rate on dividends plus a 0% rate on capital gains after three years - puts Czech residents in an unusually favorable position compared to investors in many other EU countries. Getting both right requires understanding where each rule applies, what forms are needed, and how Czech and US tax law interact in practice.
 
@@ -74,7 +74,7 @@ These two rules together - 15% US withholding on dividends, 0% Czech tax on gain
 | W-8BEN on file, held under 3 years | 15% US withholding | Taxable in Czech Republic at 15% or 23% |
 | W-8BEN on file, held 3+ years | 15% US withholding | **0% Czech tax (full exemption)** |
 
-For Martin, the cost of selling six months early was not negligible. On a €30,000 gain, Czech tax at 15% would have been €4,500 - money he could have kept by waiting until the three-year holding period was satisfied. For allocation frameworks at this kind of portfolio size, our [step-by-step $100K guide](/us-investing/how-to-invest-100k-step-by-step-guide/) walks through the tradeoffs.
+For Martin, the cost of selling six months early was not negligible. On a ג‚¬30,000 gain, Czech tax at 15% would have been ג‚¬4,500 - money he could have kept by waiting until the three-year holding period was satisfied. For allocation frameworks at this kind of portfolio size, our [step-by-step $100K guide](/us-investing/how-to-invest-100k-step-by-step-guide/) walks through the tradeoffs.
 
 ---
 
@@ -137,7 +137,7 @@ Czech resident individuals are taxed on worldwide income. The progressive person
 | Up to CZK 1,762,812 | **15%** |
 | Above CZK 1,762,812 | **23%** |
 
-The CZK 1,762,812 threshold equals 36 times the average annual wage (CZK 48,967 in 2026). For reference, at current exchange rates this is approximately €70,000-72,000 depending on the CZK/EUR rate. Most individual investors fall within the 15% bracket for their investment income.
+The CZK 1,762,812 threshold equals 36 times the average annual wage (CZK 48,967 in 2026). For reference, at current exchange rates this is approximately ג‚¬70,000-72,000 depending on the CZK/EUR rate. Most individual investors fall within the 15% bracket for their investment income.
 
 **Dividends (foreign):** Subject to the 15% flat rate via a separate tax base, shielded from the progressive calculation. The foreign tax credit for US withholding typically eliminates Czech tax owed on this income for investors in the 15% bracket.
 
@@ -195,7 +195,7 @@ For Czech residents opening an account with Interactive Brokers (the most common
 - Line 4: Permanent residence address in the Czech Republic
 - Line 9: Czech Republic (country of tax residency)
 - Line 10: Article 10, rate 15% (for dividends); Article 11, rate 0% (for interest)
-- Line 11: Your Czech tax identification number (rodné číslo or DIČ - see our [glossary](/resources/glossary/) if these terms are unfamiliar)
+- Line 11: Your Czech tax identification number (rodnֳ© ִֳ­slo or DIִ - see our [glossary](/resources/glossary/) if these terms are unfamiliar)
 
 **Interest on US bonds:** The treaty reduces US withholding on interest to 0%. If you hold US Treasuries or a US-domiciled bond ETF and see any withholding deducted on interest payments, this is worth investigating - the treaty rate should eliminate it.
 
@@ -203,12 +203,12 @@ For Czech residents opening an account with Interactive Brokers (the most common
 
 ## Czech Tax Reporting: What Goes on Your Return
 
-Czech tax residents are required to report worldwide income, including all foreign investment income. US dividends and capital gains from US stocks require entries in the Czech personal income tax return (Přiznání k dani z příjmů fyzických osob).
+Czech tax residents are required to report worldwide income, including all foreign investment income. US dividends and capital gains from US stocks require entries in the Czech personal income tax return (Pֵ™iznֳ¡nֳ­ k dani z pֵ™ֳ­jmֵ¯ fyzickֳ½ch osob).
 
 **For US dividends:**
 - Report the gross amount (before US withholding) under the foreign income category
-- Complete the annex for foreign income (příloha č. 3)
-- Claim the foreign tax offset (zápočet daně zaplacené v zahraničí) for the 15% US withholding
+- Complete the annex for foreign income (pֵ™ֳ­loha ִ. 3)
+- Claim the foreign tax offset (zֳ¡poִet danִ› zaplacenֳ© v zahraniִֳ­) for the 15% US withholding
 - Provide evidence of tax withheld - your annual broker tax statement (available from IBKR as a tax document for the relevant calendar year) is the standard documentation
 
 **For capital gains under 3 years:**
@@ -238,7 +238,7 @@ The mechanism that prevents true double taxation for most US citizens in the Cze
 
 **Form 8938 (FATCA):** Required if foreign financial assets exceed the applicable threshold. For US taxpayers living abroad: $200,000 at year-end, or $300,000 at any point during the year (single filers); $400,000 at year-end or $600,000 at any point (married filing jointly). Czech brokerage and bank accounts typically count toward these thresholds.
 
-**Czech pension funds (penzijní spoření / penzijní připojištění):** The US-Czech treaty does not include a broad pension exemption that eliminates US tax on Czech retirement accounts the way some treaties handle pension income. US citizens with Czech pension savings should seek specialist advice on how contributions and earnings are treated for US purposes.
+**Czech pension funds (penzijnֳ­ spoֵ™enֳ­ / penzijnֳ­ pֵ™ipojiֵ¡tִ›nֳ­):** The US-Czech treaty does not include a broad pension exemption that eliminates US tax on Czech retirement accounts the way some treaties handle pension income. US citizens with Czech pension savings should seek specialist advice on how contributions and earnings are treated for US purposes.
 
 **Czech-domiciled funds:** Czech investment funds and ETFs may be classified as Passive Foreign Investment Companies (PFICs) under US tax law. The [PFIC](/taxes/pfic-rules-international-investors/) regime imposes punitive tax rates and requires Form 8621 per fund per year. US citizens living in the Czech Republic who want to invest in collective vehicles are generally better served by US-domiciled ETFs or Ireland-domiciled UCITS funds - although UCITS can also be PFICs, requiring careful advice.
 
@@ -300,7 +300,7 @@ Japan's 10% portfolio dividend rate remains the most favorable in the treaty net
 - [ ] Renew W-8BEN before expiry (valid for three calendar years from signing date)
 - [ ] Track acquisition dates for every position - the 3-year clock starts at purchase
 - [ ] Use FIFO when calculating which lots are sold in partial sales
-- [ ] Report gross US dividends on Czech tax return (příloha č. 3) and claim the 15% US withholding as a foreign tax credit
+- [ ] Report gross US dividends on Czech tax return (pֵ™ֳ­loha ִ. 3) and claim the 15% US withholding as a foreign tax credit
 - [ ] Gains on positions held 3+ years: report as exempt income; no Czech tax owed
 - [ ] Gains on positions held under 3 years: include in taxable income at 15% or 23% depending on total income
 - [ ] Retain annual broker tax statements as documentation for Czech filings

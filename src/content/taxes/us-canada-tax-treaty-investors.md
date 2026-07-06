@@ -1,4 +1,5 @@
 ---
+slug: us-canada-tax-treaty-investors-2026
 title: "US-Canada Tax Treaty for Investors: Dividends, Capital Gains, and the RRSP Advantage (2026)"
 description: "A complete guide to the US-Canada tax treaty for Canadian investors holding US assets. Withholding rates, account-by-account breakdown, RRSP exemption, TFSA trap, and how to keep more of what you earn."
 pubDate: 2026-06-01
@@ -14,7 +15,6 @@ tags:
   - "Canadian investor withholding tax 2026"
   - "US capital gains Canada"
   - "Article X dividends treaty"
-slug: us-canada-tax-treaty-investors-2026
 heroImage: "/images/blog/taxes/us-canada-tax-treaty-2026.webp"
 draft: false
 readingTime: "13 min read"
@@ -25,7 +25,7 @@ seo:
   metaDescription: "Learn how the US-Canada tax treaty affects RRSP, TFSA, and taxable accounts. How to reduce withholding tax to 15% and avoid common IRS tax traps."
   ogTitle: "US-Canada Tax Treaty Guide for Canadian Investors (2026)"
   ogDescription: "Learn how the US-Canada tax treaty affects RRSP, TFSA, and taxable accounts. How to reduce withholding tax to 15% and avoid common IRS tax traps."
-  ogImage: "/images/blog/taxes/us-canada-tax-treaty-investors-2026.webp"
+  ogImage: "/images/blog/taxes/us-canada-tax-treaty-2026.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"

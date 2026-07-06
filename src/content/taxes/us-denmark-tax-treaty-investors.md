@@ -25,7 +25,7 @@ seo:
   metaDescription: "Danish investor guide to the US-Denmark tax treaty. How to reduce dividend withholding tax from 30% to 15% and claim tax credits in Denmark."
   ogTitle: "US-Denmark Tax Treaty Guide for Danish Investors (2026)"
   ogDescription: "Danish investor guide to the US-Denmark tax treaty. How to reduce dividend withholding tax from 30% to 15% and claim tax credits in Denmark."
-  ogImage: "/images/blog/taxes/us-denmark-tax-treaty-investors.webp"
+  ogImage: "/images/blog/taxes/us-denmark-tax-treaty.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"

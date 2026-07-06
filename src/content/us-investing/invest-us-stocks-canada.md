@@ -1,4 +1,5 @@
 ---
+slug: how-to-invest-in-us-stocks-from-canada
 title: "How to Invest in US Stocks from Canada (2026 Guide)"
 description: "How to invest in US stocks from Canada. Broker options, withholding tax under the US-Canada treaty, RRSP treatment of US dividends, and PFIC rules for Canadians."
 pubDate: 2026-05-24
@@ -17,7 +18,6 @@ tags:
   - "wealthsimple us stocks"
   - "interactive brokers canada"
   - "w-8ben canada"
-slug: how-to-invest-in-us-stocks-from-canada
 heroImage: "/images/blog/us-investing/invest-us-stocks-canada.webp"
 heroImageWidth: 840
 heroImageHeight: 560

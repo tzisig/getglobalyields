@@ -16,16 +16,16 @@ tags:
   - "tax treaty us dividends"
   - "reduce us dividend tax"
 heroImage: "/images/blog/taxes/w-8ben-form-guide.webp"
-canonicalURL: "https://getglobalyields.com/w8ben-form-non-us-investors"
 draft: false
 readingTime: "12 min read"
 featured: false
+canonicalURL: "https://getglobalyields.com/w8ben-form-non-us-investors"
 seo:
   metaTitle: "W-8BEN Form Explained (2026): Reduce US Withholding Tax"
   metaDescription: "Step-by-step W-8BEN guide for non-US investors. Reduce dividend tax from 30% to treaty rates and avoid costly mistakes."
   ogTitle: "W-8BEN Explained: Save Thousands in US Withholding Tax"
   ogDescription: "Learn how non-US investors reduce US dividend tax using W-8BEN. Step-by-step guide + real examples."
-  ogImage: "/public/images/blog/taxes/w-8ben-form-guide.webp"
+  ogImage: "/images/blog/taxes/w-8ben-form-guide.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"

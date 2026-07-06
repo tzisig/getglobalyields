@@ -1,4 +1,5 @@
 ---
+slug: expat-financial-planning-managing-investments-across-borders
 title: "Expat Financial Planning: US Investing from Abroad (2026)"
 description: "Financial planning for expats investing in US markets. Broker selection, tax treaties, W-8BEN, currency risk, and cross-border account structures explained."
 pubDate: 2026-05-20
@@ -15,7 +16,6 @@ tags:
   - "OBBBA remittance tax"
   - "currency risk investing"
   - "best brokers expats"
-slug: expat-financial-planning-managing-investments-across-borders
 heroImage: "/images/blog/us-investing/expat-financial-planning.webp"
 heroImageWidth: 840
 heroImageHeight: 560

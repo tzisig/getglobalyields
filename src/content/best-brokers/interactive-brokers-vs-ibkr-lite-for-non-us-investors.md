@@ -4,7 +4,7 @@ title: "Interactive Brokers vs IBKR Lite for Non-US Investors (2026)"
 description: "IBKR Pro vs IBKR Lite compared for international investors. Which account type saves more on fees, commissions, and options trading outside the US."
 pubDate: 2026-05-18
 updatedDate: 2026-05-18
-author: "Finance Team"
+author: "Tzion S."
 categories:
   - Broker Reviews
   - Investing
@@ -27,6 +27,8 @@ heroImage: "/images/blog/best-brokers/interactive-brokers-vs-ibkr-lite-2026.webp
 heroImageWidth: 840
 heroImageHeight: 560
 draft: false
+readingTime: "14 min"
+featured: false
 schema:
   type: "Article"
   faq:
@@ -42,8 +44,6 @@ schema:
       answer: "Real shares only. Interactive Brokers does not offer CFD products on its main platform. When you buy a stock through IBKR, you own the actual equity."
     - question: "Is IBKR Lite available outside the US?"
       answer: "No. IBKR Lite is not available outside the United States. All international investors automatically receive IBKR Pro accounts."
-readingTime: "14 min"
-featured: false
 ---
 
 *Updated: May 2026 | Read time: 14 min*

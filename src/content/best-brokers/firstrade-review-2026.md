@@ -1,4 +1,5 @@
 ---
+slug: firstrade-review-2026
 title: "Firstrade Review 2026: Free Options for Non-US Investors"
 description: "Firstrade reviewed for non-US investors. Zero-commission options, no account minimum, and the limitations that matter for international traders."
 pubDate: 2026-05-23
@@ -14,7 +15,6 @@ tags:
   - "firstrade vs ibkr"
   - "firstrade account types"
   - "firstrade non-us"
-slug: firstrade-review-2026
 heroImage: "/images/blog/best-brokers/firstrade_review_banner.webp"
 heroImageWidth: 840
 heroImageHeight: 560

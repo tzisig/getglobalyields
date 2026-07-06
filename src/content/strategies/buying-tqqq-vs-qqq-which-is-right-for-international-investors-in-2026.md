@@ -18,10 +18,10 @@ tags:
 heroImage: "/images/blog/strategies/tqqq_vs_qqq_banner.webp"
 heroImageWidth: 840
 heroImageHeight: 560
-products: ["TQQQ", "QQQ"]
 draft: false
 readingTime: "10 min read"
 featured: false
+products: ["TQQQ", "QQQ"]
 ---
 
 If you're investing in US markets from outside the US, you've probably come across QQQ and TQQQ. They both track the Nasdaq-100. They are not the same investment.

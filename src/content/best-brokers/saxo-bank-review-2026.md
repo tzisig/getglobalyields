@@ -1,4 +1,5 @@
 ---
+slug: saxo-bank-review-2026
 title: "Saxo Bank Review 2026: Premium Broker for Global Investors"
 description: "Saxo Bank reviewed for international investors. High minimums, wide market access, and premium tools - is it worth the cost over IBKR?"
 pubDate: 2026-05-18
@@ -14,7 +15,6 @@ tags:
   - "saxo vs ibkr"
   - "saxo bank account tiers"
   - "saxo bank platinum vip"
-slug: saxo-bank-review-2026
 heroImage: "/images/blog/best-brokers/saxo-bank-review-2026.webp"
 heroImageWidth: 840
 heroImageHeight: 560

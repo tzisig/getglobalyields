@@ -1,4 +1,5 @@
 ---
+slug: xtb-review-2026
 title: "XTB Review 2026: Zero Commission, ETF Plans & Hidden FX Fee"
 description: "XTB reviewed for international investors in 2026. Zero-commission stocks, automated ETF plans, and the FX fee that reduces real returns - full breakdown."
 pubDate: 2026-06-03
@@ -25,7 +26,6 @@ tags:
   - "commission free ETF broker"
   - "XTB IFSC"
   - "XTB Warsaw Stock Exchange"
-slug: xtb-review-2026
 heroImage: "/images/blog/best-brokers/xtb-review-2026.webp"
 heroImageWidth: 840
 heroImageHeight: 560

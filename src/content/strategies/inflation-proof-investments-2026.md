@@ -1,4 +1,5 @@
 ---
+slug: inflation-proof-investments-2026
 title: "Inflation-Proof Investments: What Works in 2026"
 description: "Which assets actually protect against inflation for non-US investors. Gold, TIPS, real estate, dividend growers, and commodities - data-driven analysis for 2026."
 pubDate: 2026-05-26
@@ -15,7 +16,6 @@ tags:
   - "inflation hedge portfolio"
   - "real assets investing"
   - "infrastructure stocks inflation"
-slug: inflation-proof-investments-2026
 heroImage: "/images/blog/strategies/inflation-proof-investments-2026.webp"
 heroImageWidth: 840
 heroImageHeight: 560

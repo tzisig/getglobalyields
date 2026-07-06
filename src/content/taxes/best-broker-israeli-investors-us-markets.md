@@ -26,7 +26,7 @@ seo:
   metaDescription: "Compare the best brokers for Israeli investors trading US markets. Fees, FX conversion rates, tax treatment, and options access compared side-by-side."
   ogTitle: "Best Brokers for Israeli Investors (2026) - IBKR vs Saxo vs eToro"
   ogDescription: "Compare the best brokers for Israeli investors trading US markets. Fees, FX conversion rates, tax treatment, and options access compared side-by-side."
-  ogImage: "/images/blog/taxes/best-broker-israeli-investors-us-markets.webp"
+  ogImage: "/images/blog/taxes/Brokers-for-Israeli-Investors.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"
@@ -53,15 +53,15 @@ Small differences here can easily cost hundreds to thousands of dollars per year
 
 This comparison focuses on three popular platforms among [Israeli](/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026) investors:
 
-- Interactive Brokers IBKR 👉 [**Explore IBKR here**](https://www.interactivebrokers.com/)
+- Interactive Brokers IBKR נ‘‰ [**Explore IBKR here**](https://www.interactivebrokers.com/)
 - [Saxo Bank](/best-brokers/saxo-bank-review-2026/)
 - [eToro](/best-brokers/etoro-review-2026/)
 
-_⚠️ Important Disclaimer: Tax treatment depends on your personal situation and may vary by broker structure and jurisdiction. Always verify details with a qualified tax advisor._
+_ג ן¸ Important Disclaimer: Tax treatment depends on your personal situation and may vary by broker structure and jurisdiction. Always verify details with a qualified tax advisor._
 
 ## **1. Interactive Brokers (IBKR): Best Overall for Israeli Investors**
 
-_Best for: Active investors, options traders, portfolios above ~$10K–$25K_
+_Best for: Active investors, options traders, portfolios above ~$10Kג€“$25K_
 
 ### **Key Advantages**
 
@@ -85,14 +85,14 @@ _If you're using strategies like [covered calls](/options-income/selling-covered
 
 ### **Estate Tax - Important Note**
 
-_⚠️ Non-US investors holding US-domiciled ETFs like [TQQQ](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026) may be exposed to US estate tax on assets above ~$60,000. This is a real risk for long-term holders. The right approach depends on your individual situation - consult a tax advisor before building large positions._
+_ג ן¸ Non-US investors holding US-domiciled ETFs like [TQQQ](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026) may be exposed to US estate tax on assets above ~$60,000. This is a real risk for long-term holders. The right approach depends on your individual situation - consult a tax advisor before building large positions._
 
 ### **Downsides**
 
 - Platform complexity (TWS has steep learning curve)
 - Not ideal for complete beginners
 
-👉 [**Open an IBKR account here**](https://www.interactivebrokers.com/)
+נ‘‰ [**Open an IBKR account here**](https://www.interactivebrokers.com/)
 
 ## **2. Saxo Bank: Premium Alternative**
 
@@ -132,7 +132,7 @@ _Best for: Beginners, small accounts, passive investors_
 
 For Israeli investors, eToro applies [W-8BEN](/taxes/w8ben-form-non-us-investors) treaty rates (typically 25%) on dividends from shares held directly.
 
-_⚠️ Important: eToro offers both real shares and CFDs. If you hold CFDs, you do not own the underlying security - the tax treatment is different and the 25% withholding may not apply in the same way. Always verify which product type you are holding._
+_ג ן¸ Important: eToro offers both real shares and CFDs. If you hold CFDs, you do not own the underlying security - the tax treatment is different and the 25% withholding may not apply in the same way. Always verify which product type you are holding._
 
 _"Zero commission" does not mean free - you pay through spreads and pricing differences. Suitable for getting started, not for advanced strategies._
 
@@ -148,9 +148,9 @@ This is where most investors lose money without noticing.
 
 ### **1. Currency Conversion**
 
-- IBKR → ~0.002% (near interbank)
-- Saxo → ~0.25%
-- eToro → spread-based, often higher
+- IBKR ג†’ ~0.002% (near interbank)
+- Saxo ג†’ ~0.25%
+- eToro ג†’ spread-based, often higher
 
 ### **2. Dividends**
 
@@ -204,7 +204,7 @@ Lowest FX costs, best execution, full strategy support.
 
 Other platforms are valid - but involve trade-offs: higher costs, limited tools, or less flexibility.
 
-👉 [**Start with IBKR here**](https://www.interactivebrokers.com/)
+נ‘‰ [**Start with IBKR here**](https://www.interactivebrokers.com/)
 
 ## **Related Guides**
 

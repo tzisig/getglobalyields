@@ -5,7 +5,7 @@
  * Run with: node test-openrouter.js
  */
 
-import { chat, chatStream, getModel, getApiKeyMasked } from './src/lib/openrouter.ts';
+import { chat, chatStream, getModel, getApiKeyMasked } from './src/lib/openrouter.js';
 
 async function main() {
   console.log('🚀 OpenRouter Integration Test\n');

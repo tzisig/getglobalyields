@@ -320,7 +320,7 @@ const server = http.createServer(async (req, res) => {
   }
 });
 
-const PORT = 5173;
+const PORT = 3456;
 server.listen(PORT, () => {
   console.log('');
   console.log('🌐 OpenRouter Model Status Page');

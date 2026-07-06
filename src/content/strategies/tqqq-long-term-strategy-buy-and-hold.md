@@ -1,4 +1,5 @@
 ---
+slug: tqqq-long-term-strategy-buy-and-hold
 title: "TQQQ Long-Term Strategy: Is Buy and Hold Viable?"
 description: "Can you buy and hold TQQQ long term? Honest analysis of the volatility decay math, historical drawdowns, and the conditions where long-term holding has worked."
 pubDate: 2026-05-29
@@ -14,7 +15,6 @@ tags:
   - "leveraged ETF hold strategy"
   - "TQQQ position sizing"
   - "TQQQ viable strategy 2026"
-slug: tqqq-long-term-strategy-buy-and-hold
 heroImage: "/images/blog/strategies/tqqq-long-term-strategy-buy-and-hold.webp"
 heroImageWidth: 840
 heroImageHeight: 560
