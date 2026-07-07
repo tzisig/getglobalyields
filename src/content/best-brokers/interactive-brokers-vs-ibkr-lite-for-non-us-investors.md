@@ -153,11 +153,11 @@ For US residents, choosing between the two involves a real trade-off. For everyo
 
 This is one of the most searched questions about Interactive Brokers, and it trips up investors constantly. Here's why:
 
-IBKR Lite is built on **payment for order flow (PFOF)** - a practice where market makers pay brokers to route customer orders to them. PFOF is legal in the US but is **banned or heavily restricted** in the EU, [UK](/us-investing/invest-us-stocks-uk), [Canada](/us-investing/invest-us-stocks-canada), [Australia](/us-investing/invest-us-stocks-australia), and many other jurisdictions. Israel, while not explicitly banning PFOF by name, falls under the category of markets where IBKR chooses not to implement it.
+IBKR Lite is built on **payment for order flow (PFOF)** - a practice where market makers pay brokers to route customer orders to them. PFOF is legal in the US but is **banned or heavily restricted** in the EU, [UK](/us-investing/invest-us-stocks-uk), [Canada](/us-investing/how-to-invest-in-us-stocks-from-canada), [Australia](/us-investing/how-to-invest-in-us-stocks-from-australia), and many other jurisdictions. Israel, while not explicitly banning PFOF by name, falls under the category of markets where IBKR chooses not to implement it.
 
 Interactive Brokers is regulated by more than 10 financial authorities worldwide, and maintaining compliance across all of them means IBKR Lite's business model simply can't be applied globally.
 
-The result: if you're in Israel, [Germany](/us-investing/invest-us-stocks-germany), the UK, Canada, Singapore, Australia - or anywhere outside the US - you are an IBKR Pro customer from day one. The commission-free headlines you may have seen don't apply to you.
+The result: if you're in Israel, [Germany](/us-investing/how-to-invest-in-us-stocks-from-germany), the UK, Canada, Singapore, Australia - or anywhere outside the US - you are an IBKR Pro customer from day one. The commission-free headlines you may have seen don't apply to you.
 
 **Is this a problem?** Not necessarily. Read on to see why IBKR Pro is a genuinely strong product for international investors.
 
@@ -633,6 +633,8 @@ But if you're an Israeli investor who takes their portfolio seriously, wants rea
 > **[Open Your Interactive Brokers Account](https://www.interactivebrokers.com)** - No minimum deposit. Available in Israel and 200+ countries. Real shares, competitive commissions, and interest on your cash balance.
 
 ---
+
+For a full comparison of all major international brokers, see our [Best Brokers for International Investors](/best-brokers/best-brokers-international-investors-2026) guide. Use the [Broker Finder](/broker-finder/) to find the right broker for your country.
 
 ## Related Articles {#related-articles}
 

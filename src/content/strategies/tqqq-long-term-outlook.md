@@ -27,10 +27,11 @@ rating: 4.9
 
 <!-- RELATED POSTS: "QQQ 225-Day Moving Average Strategy", "Leveraged ETF Rebalancing: How to Reduce Decay", "TQQQ Covered Calls and Cash-Secured Puts" -->
 
-This article covers TQQQ's verified historical performance and the forward-looking bull and bear case. If you already hold TQQQ and want a framework for managing the position, see [TQQQ Long-Term Strategy: Buy and Hold.](/strategies/tqqq-long-term-strategy-buy-and-hold)
+This article covers TQQQ's verified historical performance and the forward-looking bull and bear case. If you already hold TQQQ and want a framework for managing the position, see [TQQQ Long-Term Strategy: Buy and Hold.](/strategies/tqqq-long-term-strategy-buy-and-hold) Also see our [Dollar-Cost Averaging TQQQ Guide](/strategies/dollar-cost-averaging-tqqq), [Compounding Returns with TQQQ](/strategies/compounding-returns-tqqq), and [QQQ 225-Day MA Strategy](/strategies/tqqq-qqq-225-day-moving-average-strategy).
 
 > **Important:** TQQQ is a 3x leveraged ETF designed to deliver three times the daily return of the Nasdaq-100. It has lost more than 79% of its value in a single calendar year. This article is educational and does not constitute financial advice. Read the risk sections fully before drawing any conclusions.
 
+Use the [Broker Finder](/broker-finder/) and [Broker Calculator](/broker-calculator/) to find the right broker and understand total costs.
 ---
 
 Marcus is 39, works in technology, and has held TQQQ since 2019. He bought in at an average cost of approximately $28 per share. With TQQQ trading near $75 as of late May 2026, his position has appreciated approximately 168% - before accounting for the -79% drawdown in 2022 that he held through without selling. He is now asking a question that every serious TQQQ holder eventually asks: not whether the past returns were real, but whether the conditions that produced them are still in place.
@@ -162,7 +163,7 @@ From MyPlanIQ (February 2010 - May 2026):
 - **Worst 5-year rolling return: +8.55% annualized.** Even the worst 5-year entry point produced positive returns - but barely above what cash earns in 2026, with 61.5% annualized volatility along the way.
 - **Best 3-year rolling return:** Dramatically higher, exceeding 100% annualized in some windows.
 
-What this distribution tells you: TQQQ is not a consistent compounder. It is a feast-or-famine instrument whose long-term average is extraordinary because of a handful of exceptional years, not because every year is good. Investors who need consistent, predictable growth - for retirement income, for a defined financial goal within 5 years - should not [hold TQQQ](/strategies/tqqq-long-term-strategy-buy-and-hold). The worst 5-year rolling return of 8.55% may be acceptable in retrospect but is genuinely difficult to live through when it arrives.
+What this distribution tells you: TQQQ is not a consistent compounder. It is a feast-or-famine instrument whose long-term average is extraordinary because of a handful of exceptional years, not because every year is good. Investors who need consistent, predictable growth - for retirement income, for a defined financial goal within 5 years - should not hold TQQQ. The worst 5-year rolling return of 8.55% may be acceptable in retrospect but is genuinely difficult to live through when it arrives.
 
 Investors with a 10+ year horizon, genuine financial resilience to survive an 80% drawdown without selling, and no near-term need for the capital are in a different position. For them, the historical rolling return distribution suggests that time in the market has been the primary driver of outcome - not entry timing.
 
@@ -258,7 +259,10 @@ There is no universal answer, but a useful framework: TQQQ should represent no m
 
 - [TQQQ Long-Term Strategy: Buy and Hold Analysis](/strategies/tqqq-long-term-strategy-buy-and-hold)
 - [TQQQ vs QQQ: Which Is Right for International Investors?](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026)
-- [TQQQ vs SOXL vs UPRO: Which Leveraged ETF Wins?](/strategies/tqqq-vs-soxl-vs-upro)
-- [Risk Management for Leveraged ETF Investors](/strategies/risk-management-leveraged-etf)
+- [TQQQ vs SOXL vs UPRO: Which Leveraged ETF Wins?](/strategies/tqqq-vs-soxl-vs-upro-best-leveraged-etf-2026)
+- [Risk Management for Leveraged ETF Investors](/strategies/risk-management-leveraged-etf-investors-2026)
+- [Analyzing the Long-Term Outlook on Holding TQQQ](/strategies/analyzing-long-term-outlook-holding-tqqq)
+- [Dollar-Cost Averaging TQQQ](/strategies/dollar-cost-averaging-tqqq)
+- [Compounding Returns with TQQQ](/strategies/compounding-returns-tqqq)
 - [How to Hedge TQQQ](/strategies/how-to-hedge-tqqq)
 - [Selling Covered Calls on TQQQ](/options-income/selling-covered-calls-tqqq)

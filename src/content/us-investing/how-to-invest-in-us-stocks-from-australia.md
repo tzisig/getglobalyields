@@ -20,7 +20,7 @@ tags:
   - "CGT discount 2027 australia"
   - "superhero broker australia"
   - "SMSF us stocks"
-heroImage: "/images/blog/us-investing/invest-us-stocks-australia.webp"
+heroImage: "/images/blog/us-investing/how-to-invest-in-us-stocks-from-australia.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: false
@@ -51,7 +51,7 @@ Here is how to set it up properly - and how to make sure you are not the one lea
 The setup is simpler than most people expect:
 
 - An ASIC-regulated brokerage account with US market access
-- Standard identity verification - [Australian](/us-investing/invest-us-stocks-australia) passport or driver's licence
+- Standard identity verification - [Australian](/us-investing/how-to-invest-in-us-stocks-from-australia) passport or driver's licence
 - A completed [W-8BEN](/taxes/w8ben-form-non-us-investors) form (your broker handles this electronically during signup)
 
 No US address. No US bank account. No US tax file number. Account opening is fully online for every platform in this guide, and most approvals come through within one to two business days.
@@ -60,7 +60,7 @@ No US address. No US bank account. No US tax file number. Account opening is ful
 
 ## The W-8BEN Form: Do Not Overlook This
 
-The W-8BEN is an IRS form that certifies you are not a US taxpayer. Without it, the US withholds 30% of every dividend paid to you. With it - because Australia has a tax treaty with the US - that drops to 15%.
+The W-8BEN is an IRS form that certifies you are not a US taxpayer. Without it, the US withholds 30% of every dividend paid to you. With it - because [Australia has a tax treaty with the US](/taxes/us-australia-tax-treaty-investors) - that drops to 15%.
 
 On a $100,000 portfolio yielding 2% annually, that is $300 per year sitting with the IRS instead of you, for nothing more than an uncompleted form.
 
@@ -90,7 +90,7 @@ The trading commission is USD $0.005 per share, minimum USD $1 per order. The Tr
 
 ### CMC Invest
 
-CMC Invest charges $0 commission on all US, [UK](/us-investing/invest-us-stocks-uk), [Canadian](/us-investing/invest-us-stocks-canada) and Japanese stocks and ETFs - no conditions, no minimum trade count. The only cost is an FX spread of approximately 0.6% when you deposit AUD. You pay that once per deposit, then trade as many times as you want for free.
+CMC Invest charges $0 commission on all US, [UK](/us-investing/invest-us-stocks-uk), [Canadian](/us-investing/how-to-invest-in-us-stocks-from-canada) and Japanese stocks and ETFs - no conditions, no minimum trade count. The only cost is an FX spread of approximately 0.6% when you deposit AUD. You pay that once per deposit, then trade as many times as you want for free.
 
 For active investors who make multiple trades per month from a single deposit, this structure is genuinely hard to beat. The minimum international order size is AUD $1,000, though a selection of popular US stocks are available below that threshold. International securities are held in custody with BNP Paribas. ASX shares are CHESS-sponsored.
 
@@ -158,7 +158,7 @@ What you actually pay to get money invested - one deposit, one trade.
 
 Australian residents pay tax on worldwide income. US stocks are not exempt. Here is how it actually works.
 
-**Dividends.** With a valid W-8BEN, the US withholds 15% at source. You declare the full gross dividend on your Australian tax return and claim a Foreign Income Tax Offset (FITO) for the 15% already paid. If your Australian marginal rate is above 15%, you pay the difference to the ATO. The FITO prevents double taxation - you are not paying 15% to the US and then the full Australian rate on top of it.
+**Dividends.** With a valid W-8BEN, the US withholds 15% (see [US Dividend Withholding for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors)) at source. You declare the full gross dividend on your Australian tax return and claim a Foreign Income Tax Offset (FITO) for the 15% already paid. If your Australian marginal rate is above 15%, you pay the difference to the ATO. The FITO prevents double taxation - you are not paying 15% to the US and then the full Australian rate on top of it.
 
 **Capital gains.** Profits from selling US shares are subject to Australian CGT, not US tax. You do not need to file a US tax return. If you have held the shares for more than 12 months, the 50% CGT discount currently applies - only half the gain is added to your assessable income.
 
@@ -200,7 +200,9 @@ If you are contributing $500 per month and want to set it and forget it, the $50
 
 If you are contributing $2,000 per month or more - or moving a lump sum above $30,000 - the numbers in Sarah's example above are your numbers. At that level, learning IBKR's manual FX conversion process once is worth several thousand dollars over a few years. It is not complicated. It just requires twenty minutes the first time.
 
-Every dollar saved on FX and commissions is a dollar that compounds in your portfolio instead. Over a decade, that distinction is the difference between a good outcome and a great one.
+Every dollar saved on FX and commissions is a dollar that compounds in your portfolio instead.
+
+Use our [Broker Finder](/broker-finder/) to compare brokers that serve Australian investors. Over a decade, that distinction is the difference between a good outcome and a great one.
 
 ---
 

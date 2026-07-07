@@ -18,7 +18,7 @@ tags:
   - "wealthsimple us stocks"
   - "interactive brokers canada"
   - "w-8ben canada"
-heroImage: "/images/blog/us-investing/invest-us-stocks-canada.webp"
+heroImage: "/images/blog/us-investing/how-to-invest-in-us-stocks-from-canada.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: false
@@ -29,7 +29,7 @@ featured: false
 <!-- PAGE: Add to /investing-guides/ or /canada/ -->
 <!-- INTERNAL LINKS: Link from broker comparison pages, TFSA guide, RRSP guide -->
 
-A [Canadian](/us-investing/invest-us-stocks-canada) investor who put $50,000 into the S&P 500 ten years ago and let it sit - doing nothing - ended up with roughly $185,000 today. The same $50,000 in the TSX composite grew to about $100,000 over the same period. Same country, same investor, one decision: which market to be in.
+A [Canadian](/us-investing/how-to-invest-in-us-stocks-from-canada) investor who put $50,000 into the S&P 500 ten years ago and let it sit - doing nothing - ended up with roughly $185,000 today. The same $50,000 in the TSX composite grew to about $100,000 over the same period. Same country, same investor, one decision: which market to be in.
 
 The process of buying US stocks from Canada is not complicated. What is complicated - and what quietly costs investors thousands of dollars a year - are three specific details: which account to use, whether your [W-8BEN](/taxes/w8ben-form-non-us-investors) form is on file, and how you convert CAD to USD. Get those right and the rest is straightforward.
 
@@ -51,7 +51,7 @@ Most Canadian investors open a TFSA, dump US dividend stocks into it, and never 
 
 ### RRSP - The Right Home for US Dividend Stocks
 
-The RRSP gets a specific exemption under the Canada-US Tax Treaty. US dividends earned inside an RRSP are exempt from the standard 15% US [withholding tax](/taxes/taxes-us-dividends-foreign-investors). That exemption is real money - on $100,000 in US dividend-paying stocks with a 3% yield, it is $450 per year that you keep instead of losing to withholding.
+The RRSP gets a specific exemption under the [Canada-US Tax Treaty](/taxes/us-canada-tax-treaty-investors-2026). US dividends earned inside an RRSP are exempt from the standard 15% US [withholding tax](/taxes/taxes-us-dividends-foreign-investors). That exemption is real money - on $100,000 in US dividend-paying stocks with a 3% yield, it is $450 per year that you keep instead of losing to withholding.
 
 One critical detail most guides miss: this exemption applies only to **direct US securities** and **US-listed ETFs**. If you hold a Canadian-listed ETF like ZSP or XUS inside your RRSP instead of buying VTI directly on the NYSE, the withholding tax is still applied at the fund level before distributions reach you. The treaty benefit disappears.
 
@@ -241,6 +241,8 @@ Stop overthinking the stock selection and get the structure right first. Three d
 **Account:** Put US dividend-paying stocks in your RRSP using direct US securities or US-listed ETFs - not Canadian-listed wrappers. Use your TFSA for growth-oriented US positions. Use the foreign tax credit in non-registered accounts.
 
 **W-8BEN:** File it. Renew it every three years. Do it today if you are not sure it is on file.
+
+**Broker:** Use our [Broker Finder](/broker-finder/) to find the right Canadian broker for your needs. For FX optimization, read our [Multi-Currency Investment Accounts](/us-investing/multi-currency-investment-accounts) guide.
 
 **Currency:** For under $20,000 in US stocks, the FX fee is a minor cost of doing business. Above that, Norbert's Gambit at Questrade or a switch to Interactive Brokers saves real money every year.
 

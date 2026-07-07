@@ -333,7 +333,7 @@ Consult a tax advisor familiar with both Israeli and US securities taxation befo
 ## Frequently Asked Questions
 
 **Is selling puts during a crash the same as trying to catch a falling knife?**
-It can be, if you sell too early and without proper sizing. The strategy works when you wait for stabilization signals, sell further out of the money than normal, and use conservative position sizing. Selling at the first VIX spike of a correction is often too early.
+It can be, if you sell too early and without proper sizing. The strategy works when you wait for stabilization signals, sell further out of the money than normal, and use conservative position sizing. Selling at the first VIX spike of a correction is often too early. For a full guide on the mechanics of put selling, see [Cash-Secured Puts in High IV Environments](/options-income/cash-secured-puts-high-iv).
 
 **What is the ideal VIX level to start selling puts?**
 Most experienced put sellers become more active above VIX 25-30, where premiums are meaningfully elevated relative to normal. Above VIX 40, premiums are exceptional but require proportionally more caution on sizing and strike selection.
@@ -375,7 +375,8 @@ The next crash will come. The traders who prepared in advance - who practiced in
 
 - [Selling Covered Calls on TQQQ: Step-by-Step Guide](/options-income/selling-covered-calls-tqqq)
 - [The Wheel Strategy on TQQQ](/options-income/wheel-strategy-tqqq)
-- [TQQQ vs QQQ: Which Is Right for International Investors?](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026)
-- [Best Options Brokers for International Investors](/best-brokers/best-options-brokers-international-2026)
-- [TQQQ Tax Guide for International Investors](/taxes/tqqq-tax-international-investors)
-- [Interactive Brokers Review 2026](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors)
+- [Cash-Secured Puts in High IV Environments](/options-income/cash-secured-puts-high-iv)
+- [TQQQ Implied Volatility Strategies](/options-income/tqqq-implied-volatility-strategies)
+- [TQQQ Recovery Case Study](/case-study/from-minus-70-to-plus-492k-real-tqqq-recovery-case-study)
+- [Risk Management for Leveraged ETF Investors](/strategies/risk-management-leveraged-etf-investors-2026)
+- [Broker Fee Calculator](/broker-calculator)

@@ -216,4 +216,4 @@ Other platforms are valid - but involve trade-offs: higher costs, limited tools,
 - [TQQQ Tax Guide for International Investors](/taxes/tqqq-tax-international-investors)
 - [US-Germany Tax Treaty for Investors](/taxes/us-germany-tax-treaty-investors)
 - [US-UK Tax Treaty for Investors](/taxes/us-uk-tax-treaty-investors)
-- [US-Canada Tax Treaty for Investors](/taxes/us-canada-tax-treaty-investors-2026)
+- [US-Canada Tax Treaty for Investors]( /taxes/us-canada-tax-treaty-investors-2026 /)

@@ -16,7 +16,7 @@ tags:
   - "drawdown protection leveraged ETF"
   - "leveraged ETF stop loss"
   - "TQQQ 2022 risk"
-heroImage: "/images/blog/strategies/risk-management-leveraged-etf.webp"
+heroImage: "/images/blog/strategies/risk-management-leveraged-etf-investors-2026.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: false
@@ -36,7 +36,7 @@ In 2022, an investor who held 100% of a $300,000 portfolio in TQQQ watched it fa
 
 This guide is for investors who hold or are considering leveraged ETFs and want a structured, research-backed approach to managing the risk - not eliminating it, which is impossible with 3x leverage, but sizing it so that the worst historical scenarios do not produce outcomes that cannot be recovered from.
 
-If you are new to leveraged ETFs, read the TQQQ fundamentals guide first. Risk management decisions only make sense once you understand what daily leverage reset and volatility decay do to a position over time.
+If you are new to leveraged ETFs, read the [TQQQ vs QQQ guide](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026) first. Risk management decisions only make sense once you understand what daily leverage reset and volatility decay do to a position over time.
 
 ---
 
@@ -213,6 +213,8 @@ For most investors, position sizing and the SMA exit rule provide more cost-effe
 
 SQQQ (3x inverse Nasdaq-100) is a short-term instrument not suitable as a long-term hedge for TQQQ. Volatility decay affects inverse leveraged ETFs at the same mathematical rate as long leveraged ETFs. A long TQQQ / long SQQQ position does not cancel out - it compounds decay in both directions simultaneously. SQQQ as a tactical hedge for periods measured in days or weeks is coherent. As a portfolio hedge measured in months or years, it destroys value in both legs.
 
+For the complete case study of how risk management saved a 70% drawdown, read [From -70% to +250%](/case-study/from-minus-70-to-plus-492k-real-tqqq-recovery-case-study).
+
 ---
 
 ## For Non-US Investors: Risk Management Considerations
@@ -308,7 +310,7 @@ The three-layer framework - quarter-Kelly position sizing, 200-day SMA exit rule
 
 Return to the investor from the opening of this guide: $300,000 in TQQQ fell to $55,500 in 2022. With quarter-Kelly sizing, the TQQQ position would have been $75,000 of a $300,000 portfolio - and fallen to $13,875, leaving $243,000 intact. With the SMA exit rule applied in January 2022, the exit at approximately $62 per share preserved approximately 70% of the TQQQ position's value before the catastrophic phase. With both applied together, the 2022 experience was painful but survivable. Without either, it was devastating.
 
-Write the rules before you invest. The moment you are watching a position fall 40% is not when sound risk frameworks are designed.
+Write the rules before you invest. The moment you are watching a position fall 40% is not when sound risk frameworks are designed. For the long-term outlook, see [TQQQ Long-Term Outlook](/strategies/tqqq-long-term-outlook). Compare leveraged ETF options in [TQQQ vs SOXL vs UPRO](/strategies/tqqq-vs-soxl-vs-upro-best-leveraged-etf-2026). Use the [Broker Finder](/broker-finder/) and [Broker Calculator](/broker-calculator/) to optimize your setup.
 
 ---
 

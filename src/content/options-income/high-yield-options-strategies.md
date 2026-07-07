@@ -163,7 +163,7 @@ Options income is not all equal from a tax perspective - and this section looks 
 
 **The universal rule.** Regardless of jurisdiction, the tax treatment of options income affects your real return significantly. A strategy generating 15% gross yield in a 30% tax environment nets 10.5%. The same strategy in a 25% environment nets 11.25%. Over ten years of compounding, that 75 basis point difference on a $100,000 account is over $15,000. Get the tax structure right before optimizing the strategy itself.
 
-JEPI and JEPQ use equity-linked notes rather than direct options. A portion of their distributions is classified as return of capital, which defers tax rather than eliminating it. QYLD's distributions are largely ordinary income in the US - check how your local jurisdiction treats distributions from US-domiciled ETFs, as this varies.
+JEPI and JEPQ use equity-linked notes rather than direct options. A portion of their distributions is classified as return of capital, which defers tax rather than eliminating it. QYLD's distributions are largely ordinary income in the US - check how your local jurisdiction treats distributions from US-domiciled ETFs, as this varies. For brokers that support active options strategies for non-US investors, see our [Interactive Brokers review](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors) and [tastytrade review](/best-brokers/tastytrade-review-2026).
 
 ---
 
@@ -179,7 +179,7 @@ JEPI and JEPQ use equity-linked notes rather than direct options. A portion of t
 
 **You want monthly income with zero management, and you are in or near retirement.** JEPI or JEPQ. Accept the expense ratio and the capped upside. Reinvest a portion of distributions if you do not need the full income immediately, to partially offset NAV drift.
 
-**You want the highest possible yield and do not care about total return.** QYLD. Understand that the 11-13% yield comes from systematically selling all upside in the Nasdaq-100. In years when QQQ returns 25%, QYLD will return 10-11%. That is the trade you are making.
+**You want the highest possible yield and do not care about total return.** QYLD. Understand that the 11-13% yield comes from systematically selling all upside in the Nasdaq-100. In years when QQQ returns 25%, QYLD will return 10-11%. That is the trade you are making. For a side-by-side comparison of covered call ETFs, read [JEPI vs SCHD vs QYLD](/strategies/jepi-vs-schd-vs-qyld).
 
 ---
 
@@ -211,7 +211,9 @@ The investors who generate genuine long-term income from options are not the one
 
 - [Selling Covered Calls on TQQQ: Step-by-Step Guide](/options-income/selling-covered-calls-tqqq)
 - [The Wheel Strategy on TQQQ](/options-income/wheel-strategy-tqqq)
-- [TQQQ vs QQQ: Which Is Right for International Investors?](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026)
-- [Best Options Brokers for International Investors](/best-brokers/best-options-brokers-international-2026)
+- [Cash-Secured Puts in High IV Environments](/options-income/cash-secured-puts-high-iv)
+- [TQQQ Implied Volatility Strategies](/options-income/tqqq-implied-volatility-strategies)
+- [TQQQ Recovery Case Study](/case-study/from-minus-70-to-plus-492k-real-tqqq-recovery-case-study)
+- [Risk Management for Leveraged ETF Investors](/strategies/risk-management-leveraged-etf-investors-2026)
 - [TQQQ Tax Guide for International Investors](/taxes/tqqq-tax-international-investors)
-- [Interactive Brokers Review 2026](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors)
+- [Broker Fee Calculator](/broker-calculator)

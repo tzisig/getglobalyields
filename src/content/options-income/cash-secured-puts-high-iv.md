@@ -232,7 +232,9 @@ Premium selling is not exciting. The Tesla trade from the opening of this guide 
 
 - [Selling Covered Calls on TQQQ: Step-by-Step Guide](/options-income/selling-covered-calls-tqqq)
 - [The Wheel Strategy on TQQQ](/options-income/wheel-strategy-tqqq)
-- [TQQQ vs QQQ: Which Is Right for International Investors?](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026)
-- [Best Options Brokers for International Investors](/best-brokers/best-options-brokers-international-2026)
+- [TQQQ Implied Volatility Strategies](/options-income/tqqq-implied-volatility-strategies)
+- [TQQQ Options Chain Analysis](/options-income/tqqq-options-chain-analysis)
+- [TQQQ Recovery Case Study](/case-study/from-minus-70-to-plus-492k-real-tqqq-recovery-case-study)
+- [Risk Management for Leveraged ETF Investors](/strategies/risk-management-leveraged-etf-investors-2026)
 - [TQQQ Tax Guide for International Investors](/taxes/tqqq-tax-international-investors)
-- [Interactive Brokers Review 2026](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors)
+- [Broker Fee Calculator](/broker-calculator)

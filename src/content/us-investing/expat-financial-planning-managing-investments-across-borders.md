@@ -16,7 +16,7 @@ tags:
   - "OBBBA remittance tax"
   - "currency risk investing"
   - "best brokers expats"
-heroImage: "/images/blog/us-investing/expat-financial-planning.webp"
+heroImage: "/images/blog/us-investing/expat-financial-planning-managing-investments-across-borders.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: false
@@ -25,25 +25,6 @@ featured: false
 rating: 4.6
 ---
 
-<!--
-PAGE PLACEMENT INSTRUCTIONS
-────────────────────────────
-Directory:  src/content/blog/
-File name:  expat-financial-planning-managing-investments-across-borders.md
-URL:        /blog/expat-financial-planning-managing-investments-across-borders/
-
-Hero image: World map with financial overlay, or a professional at a laptop
-            with a city skyline. Neutral, professional tone.
-            Save as: /public/images/blog/expat-financial-planning.webp
-            Dimensions: 1200x630px, under 100KB
-
-Internal links TO add:
-  - From your [IBKR](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors) review → link to this article (anchor: "managing investments as an expat")
-  - From your [Saxo Bank](/best-brokers/saxo-bank-review-2026) review → link to this article (anchor: "expat broker selection")
-  - From this article → link to your IBKR review and Saxo review (already placed below)
-
-Schema: Article (already covered by your global schema setup)
--->
 
 There is a version of financial advice that works well - if you earn in one currency, save in one country, and plan to retire where you already live. For everyone else, it quietly fails.
 
@@ -107,7 +88,7 @@ That rule applies strictly to US persons. For the rest of the world - the majori
 
 ## For Non-US Expats: The Irish UCITS Advantage
 
-Non-US expats in most of the world sit in the opposite position from US persons - and Irish UCITS ETFs are among the most tax-efficient structures available to them. When a US company pays a dividend, it first hits [withholding tax](/taxes/taxes-us-dividends-foreign-investors) at the source country level (the US), then potentially at the fund domicile level, then at the investor level.
+Non-US expats in most of the world sit in the opposite position from US persons - and Irish UCITS ETFs are among the most tax-efficient structures available to them. When a US company pays a dividend, it first hits [withholding tax](/taxes/taxes-us-dividends-foreign-investors) at the source country level (the US), then potentially at the fund domicile level, then at the investor level (see our [W-8BEN Guide](/taxes/w8ben-form-non-us-investors) for how to claim reduced rates).
 
 For an investor in a country without a US tax treaty using a US-domiciled ETF: the dividend faces 30% US withholding at the fund level. For the same investor using an Irish-domiciled UCITS ETF: the US-Ireland tax treaty reduces that first layer to 15%. Ireland then charges 0% withholding on distributions to non-Irish residents. The difference is 15 percentage points of every dividend, every year, automatically - before the investor's home country tax treatment even enters the picture.
 
@@ -250,7 +231,7 @@ Cross-border investing is not categorically more difficult than single-jurisdict
 
 The investors who lose money on the cross-border complexity are almost never the ones who tried to understand it. They are the ones who assumed their domestic financial framework still applied, or who invested based on local advice without checking what that meant in their home country's tax code, or who stayed with a convenient broker rather than one built for international mobility.
 
-Get the compliance right first. Choose structures that travel. Manage currency exposure with a plan rather than with hope. Use platforms that are actually designed for the way you live.
+Get the compliance right first. Use our [Broker Finder](/broker-finder/) to find a broker that supports your jurisdiction, and review our [Multi-Currency Investment Accounts](/us-investing/multi-currency-investment-accounts) guide for cross-border FX management. Choose structures that travel. Manage currency exposure with a plan rather than with hope. Use platforms that are actually designed for the way you live.
 
 Everything else - asset allocation, return optimization, yield maximization - works better on that foundation. The expats who build serious wealth across borders are not smarter or luckier than those who don't. They built the right infrastructure early, avoided the structural mistakes, and then let compounding do its job undisturbed.
 

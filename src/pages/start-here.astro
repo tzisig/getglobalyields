@@ -105,13 +105,34 @@ const startInvesting = [
               imageLight={post.data.heroImage?.replace('/images/blog/', '/images/blog/light/')}
             />
           ))}
+          <a href="/broker-finder" class="group p-8 bg-primary-900 rounded-xl border border-primary-600 hover:border-accent-500 transition-all duration-300 shadow-lg flex flex-col justify-center">
+            <h3 class="text-2xl font-bold text-slate-100 group-hover:text-accent-500 transition-colors mb-2">Find Your Broker by Country</h3>
+            <p class="text-slate-400">See which brokers operate in your country with a single click.</p>
+          </a>
         </div>
       </div>
 
-      <!-- Section 3: Start Investing -->
-      <div>
+      <!-- Investor Profiles -->
+      <div class="mb-20">
         <div class="flex items-center mb-8">
           <div class="flex items-center justify-center w-12 h-12 rounded-full bg-accent-500 text-primary-900 font-bold text-xl mr-4 shadow-lg shadow-accent-500/20">3</div>
+          <div>
+            <h2 class="text-2xl md:text-3xl font-bold text-slate-100">Investor Profiles</h2>
+            <p class="text-slate-400 mt-1">See how international investors like you approach US markets.</p>
+          </div>
+        </div>
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-8 pl-0 md:pl-16">
+          <a href="/investor-profiles" class="group p-8 bg-primary-900 rounded-xl border border-primary-600 hover:border-accent-500 transition-all duration-300 shadow-lg flex flex-col justify-center">
+            <h3 class="text-2xl font-bold text-slate-100 group-hover:text-accent-500 transition-colors mb-2">Real Investor Profiles</h3>
+            <p class="text-slate-400">Browse anonymized profiles matching real investors to appropriate strategies and brokers.</p>
+          </a>
+        </div>
+      </div>
+
+      <!-- Section 4: Start Investing -->
+      <div>
+        <div class="flex items-center mb-8">
+          <div class="flex items-center justify-center w-12 h-12 rounded-full bg-accent-500 text-primary-900 font-bold text-xl mr-4 shadow-lg shadow-accent-500/20">4</div>
           <div>
             <h2 class="text-2xl md:text-3xl font-bold text-slate-100">Deploy Capital & Generate Yield</h2>
             <p class="text-slate-400 mt-1">Implement proven investment strategies and capitalize on US markets.</p>

@@ -106,7 +106,7 @@ The last piece - the one people skip until it becomes a problem - is reporting. 
 
 ## Which Broker Should Indian Investors Use?
 
-### [Interactive Brokers](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors) (IBKR)
+### Interactive Brokers (IBKR)
 
 The best option for investors who want the full range of US markets, the lowest costs, and professional-grade tools. IBKR accepts Indian residents, handles W-8BEN correctly, provides Form 1042-S for tax reporting, and offers near-interbank FX rates at 0.002% - which matters when you are converting rupees to dollars.
 
@@ -171,7 +171,7 @@ If your US portfolio is likely to stay below $60,000, this is not an immediate c
 
 ### Dividends
 
-US companies withhold 25% on dividends paid to Indian investors - reduced from the default 30% under the India-US DTAA, provided you have filed the W-8BEN correctly with your broker. You receive 75% of the gross dividend.
+US companies withhold 25% on dividends paid to Indian investors (see [US Dividend Withholding for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors)) - reduced from the default 30% under the India-US DTAA, provided you have filed the W-8BEN correctly with your broker. You receive 75% of the gross dividend.
 
 In India, the gross dividend (before the 25% withholding) is added to your income and taxed at your applicable income tax slab rate. However, you can claim a Foreign Tax Credit (FTC) for the 25% already withheld by the US - filed via Form 67 and Schedule TR in your ITR. In most cases, this eliminates or significantly reduces the Indian tax on the same dividend.
 
@@ -254,7 +254,7 @@ Yes - but the LRS limit applies per individual, and both account holders' remitt
 
 Investing in US stocks from India is genuinely accessible in 2026. The LRS framework is well-established, the platforms have improved significantly, and the tax treatment - while more complex than domestic investing - is manageable with basic planning.
 
-The main things to get right: use the correct remittance process through an Authorised Dealer bank, file your W-8BEN before dividends start, report foreign assets every year in Schedule FA, and understand the TCS mechanism so you are not surprised by the cash flow impact of large remittances.
+The main things to get right: use the correct remittance process through an Authorised Dealer bank, file your W-8BEN before dividends start, use our [Broker Finder](/broker-finder/) to compare India-friendly brokers, and review each broker's [multi-currency account](/us-investing/multi-currency-investment-accounts) capabilities, report foreign assets every year in Schedule FA, and understand the TCS mechanism so you are not surprised by the cash flow impact of large remittances.
 
 The US estate tax point is the one that most guides skip and most investors overlook. If you are planning to build a substantial long-term position in US stocks, take time to understand this risk and consider whether the structure of your investments should account for it.
 

@@ -65,7 +65,7 @@ Under IRS rules, a foreign corporation is classified as a PFIC if it meets eithe
 
 **Asset test:** At least 50% of the company's assets produce passive income or are held to produce passive income.
 
-Most foreign mutual funds, ETFs, and unit trusts automatically meet one or both of these tests. That means if you're an Israeli investor who owns a Tel Aviv-listed index fund, an [Australian](/us-investing/invest-us-stocks-australia) who holds a local managed fund, or a [Canadian](/us-investing/invest-us-stocks-canada) with shares in a non-US ETF - there's a real chance you're holding a PFIC.
+Most foreign mutual funds, ETFs, and unit trusts automatically meet one or both of these tests. That means if you're an Israeli investor who owns a Tel Aviv-listed index fund, an [Australian](/us-investing/how-to-invest-in-us-stocks-from-australia) who holds a local managed fund, or a [Canadian](/us-investing/how-to-invest-in-us-stocks-from-canada) with shares in a non-US ETF - there's a real chance you're holding a PFIC.
 
 ## נ’¸ֲ  Why PFIC Tax Treatment Is So Painful
 
@@ -111,7 +111,7 @@ Israelis who hold Keren Hishtalmut funds, [Israeli](/taxes/us-israel-tax-treaty-
 
 ### Canadian Investors
 
-Canadian mutual funds and [Canadian](/taxes/us-canada-tax-treaty-investors-2026) ETFs are PFICs for US persons living in Canada or with US tax obligations. This catches a lot of people - especially dual citizens who thought their TFSA or RRSP accounts were protected. (Spoiler: some of them aren't, depending on treaty elections.)
+Canadian mutual funds and [Canadian]( /taxes/us-canada-tax-treaty-investors-2026 /) ETFs are PFICs for US persons living in Canada or with US tax obligations. This catches a lot of people - especially dual citizens who thought their TFSA or RRSP accounts were protected. (Spoiler: some of them aren't, depending on treaty elections.)
 
 ### Australian Investors
 
@@ -119,7 +119,7 @@ Australian managed funds and some ASX-listed ETFs can qualify as PFICs. The ATO'
 
 ### European Investors
 
-European UCITS funds - the standard investment vehicle across the EU - are almost universally PFICs. This is one of the main reasons US persons living in Europe have so much trouble with basic investing. The local options are all PFICs. US-listed alternatives require using a broker that accepts international clients (like IBKR).
+European UCITS funds - the standard investment vehicle across the EU - are almost universally PFICs. This is one of the main reasons US persons living in Europe have so much trouble with basic investing. The local options are all PFICs. US-listed alternatives require using a broker that accepts international clients (like IBKR). For country-specific guidance, see the [US-UK](/taxes/us-uk-tax-treaty-investors), [US-Germany](/taxes/us-germany-tax-treaty-investors), and other European treaty guides.
 
 <!-- ADSENSE-RECTANGLE-300x250 -->
 
@@ -129,7 +129,7 @@ The simplest way to avoid PFIC problems is to invest in US-listed funds instead 
 
 ### 1. Use US-Listed ETFs Through IBKR
 
-[Interactive Brokers](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors) accepts investors from 200+ countries and gives international clients access to the same US-listed ETFs available to American investors. Buying VTI, VOO, or QQQ through IBKR instead of a local equivalent eliminates the PFIC issue entirely. These are US-domiciled funds - not foreign corporations - so the PFIC rules don't apply.
+[Interactive Brokers](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors) accepts investors from 200+ countries and gives international clients access to the same US-listed ETFs available to American investors. Buying VTI, VOO, or QQQ through IBKR instead of a local equivalent eliminates the PFIC issue entirely. These are US-domiciled funds - not foreign corporations - so the PFIC rules don't apply. For a full comparison of brokers that support international investors, see the [Best Brokers for International Investors](/best-brokers/best-brokers-international-investors-2026) guide.
 
 ### 2. Avoid Foreign Mutual Funds and ETFs
 
@@ -212,7 +212,7 @@ If you are reviewing your fund holdings or considering switching to US-listed al
 
 PFIC rules exist specifically to discourage US persons from investing in foreign passive vehicles. The tax treatment is punitive by design.
 
-The cleanest solution for most international investors: open an account with a broker that accepts non-US clients (Interactive Brokers is the standard choice), and invest in US-listed ETFs instead of local alternatives.
+The cleanest solution for most international investors: open an account with a broker that accepts non-US clients (Interactive Brokers is the standard choice), and invest in US-listed ETFs instead of local alternatives. For a comparison of the top options, see our [Best Brokers for International Investors](/best-brokers/best-brokers-international-investors-2026) guide and use the [Broker Fee Calculator](/broker-calculator/) to compare real costs.
 
 If you already hold PFICs, get professional advice before exiting - the right sequence matters. And file Form 8621 for every year you held them, going back to the first year of ownership.
 
@@ -238,5 +238,5 @@ If you already hold PFICs, get professional advice before exiting - the right se
 
 ג†’ [US-UK Tax Treaty for Investors](/taxes/us-uk-tax-treaty-investors)
 
-ג†’ [US-Canada Tax Treaty for Investors](/taxes/us-canada-tax-treaty-investors-2026)
+ג†’ [US-Canada Tax Treaty for Investors]( /taxes/us-canada-tax-treaty-investors-2026 /)
 

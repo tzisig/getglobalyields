@@ -1,4 +1,4 @@
----
+﻿---
 slug: us-bulgaria-tax-treaty-investors
 title: "US-Bulgaria Tax Treaty for Investors: The Complete 2026 Guide"
 description: "US-Bulgaria tax treaty guide for individual investors. Withholding rates on dividends, interest, and capital gains, W-8BEN filing, Art. 13 ZDDFL exemption, and the full picture for Bulgarian residents investing in US stocks."
@@ -45,14 +45,14 @@ schema:
 
 <!-- ADSENSE / AFFILIATE PLACEHOLDER
      Position: Top of article, before content
-     Recommended: Responsive AdSense display unit or broker affiliate banner ([IBKR](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/) or [Saxo Bank](/best-brokers/saxo-bank-review-2026/))
+     Recommended: Responsive AdSense display unit or broker affiliate banner  or [Saxo Bank](/best-brokers/saxo-bank-review-2026/))
      Replace this comment block with your AdSense tag or affiliate banner HTML -->
 
 If you are a Bulgarian tax resident investing in US stocks and you have never filed Form [W-8BEN](/taxes/w8ben-form-non-us-investors/) with your broker, the IRS has been withholding 30% on every dividend you have received. The treaty between the US and Bulgaria caps that withholding at 10% for portfolio investors - meaning you have been paying three times the treaty rate, indefinitely, on every dividend since you opened the account.
 
 On a $40,000 US equity position yielding 2%, the difference between 30% and 10% withholding is $160 per year. Compounded over a decade of regular investing, that is real money - and it disappears permanently because Bulgaria's foreign tax credit mechanism only gives you credit for taxes you were actually obligated to pay under the treaty, not for excess withholding you failed to prevent.
 
-The fix is straightforward: file W-8BEN with your broker and claim the treaty rate. But there is more to the Bulgaria picture than the form. The Art. 13(1)(3) ZDDFL exemption on capital gains, the 5% Bulgarian dividend tax on US-source dividends, and the interaction between US withholding and Bulgaria's foreign tax credit all shape what you actually keep - and a few of the Bulgaria-specific terms below (ZDDFL, EOOD, prֳ©compte-style withholding logic) are worth a quick look in our [glossary](/resources/glossary/) if they're unfamiliar. This guide works through each of them.
+The fix is straightforward: file W-8BEN with your broker and claim the treaty rate. But there is more to the Bulgaria picture than the form. The Art. 13(1)(3) ZDDFL exemption on capital gains, the 5% Bulgarian dividend tax on US-source dividends, and the interaction between US withholding and Bulgaria's foreign tax credit all shape what you actually keep - and a few of the Bulgaria-specific terms below (ZDDFL, EOOD, prײ³ֲ©compte-style withholding logic) are worth a quick look in our [glossary](/resources/glossary/) if they're unfamiliar. This guide works through each of them.
 
 ---
 
@@ -181,11 +181,11 @@ Where the exemption does apply for investors with mixed portfolios: disposals of
 
 **Worked example - two disposals, same year:**
 
-Elena realizes two capital gains in 2026: a $10,000 gain selling a NASDAQ-listed tech stock she has held for four years, and a ג‚¬10,000 gain selling shares in an Euronext-listed ETF she has held for three years.
+Elena realizes two capital gains in 2026: a $10,000 gain selling a NASDAQ-listed tech stock she has held for four years, and a ׳’ג€ֲ¬10,000 gain selling shares in an Euronext-listed ETF she has held for three years.
 
 | | NASDAQ disposal | Euronext disposal |
 |---|---|---|
-| Gross gain | $10,000 | ג‚¬10,000 |
+| Gross gain | $10,000 | ׳’ג€ֲ¬10,000 |
 | Market type | US exchange | EU-regulated market |
 | Holding period | 4 years | 3 years (over 24 months) |
 | Conservative treatment | Taxable | Exempt under Art. 13(1)(3) |
@@ -194,7 +194,7 @@ Elena realizes two capital gains in 2026: a $10,000 gain selling a NASDAQ-listed
 | Bulgarian tax at 10% | $900 | $0 |
 | Effective rate on gross gain | 9% | 0% |
 
-On the conservative reading used throughout this guide, the NASDAQ gain costs Elena $900 in Bulgarian tax (effectively 9% of the gross gain), while the Euronext gain - held past the 24-month mark on an EU-regulated market - is fully exempt under Art. 13(1)(3), regardless of size. The entire ג‚¬10,000 is hers. For a real-world look at how multi-year holding periods play out for US-listed positions, see our [TQQQ recovery case study](/case-study/from-minus-70-to-plus-492k-real-tqqq-recovery-case-study/).
+On the conservative reading used throughout this guide, the NASDAQ gain costs Elena $900 in Bulgarian tax (effectively 9% of the gross gain), while the Euronext gain - held past the 24-month mark on an EU-regulated market - is fully exempt under Art. 13(1)(3), regardless of size. The entire ׳’ג€ֲ¬10,000 is hers. For a real-world look at how multi-year holding periods play out for US-listed positions, see our [TQQQ recovery case study](/case-study/from-minus-70-to-plus-492k-real-tqqq-recovery-case-study/).
 
 If a Bulgarian tax advisor confirms that the third-country equivalence extension does apply to Elena's NASDAQ disposal, the $900 would not be owed either. Until that is confirmed for her specific situation, planning around the $900 liability is the safer assumption.
 
@@ -264,6 +264,7 @@ The Art. 13(1)(3) ZDDFL exemption applies only to individuals under PITA. An EOO
 | [Australia](/taxes/us-australia-tax-treaty-investors/) | 15% | 10% | Residence only |
 | [Austria](/taxes/us-austria-tax-treaty-investors/) | 15% | 0% | Residence only |
 | [Czech Republic](/taxes/us-czech-republic-tax-treaty-investors/) | 15% | 0% | Residence only |
+| [Denmark](/taxes/us-denmark-tax-treaty-investors/) | 15% | 0% | Residence only |
 | [China](/taxes/us-china-tax-treaty-investors/) | 10% | 10% | Residence only |
 | [United Kingdom](/taxes/us-uk-tax-treaty-investors/) | 15% | 0% | Residence only |
 | Japan | 10% | 0% | Residence only |
@@ -329,7 +330,7 @@ The combination of the 10% US withholding and Bulgaria's 5% flat domestic divide
 
 <!-- ADSENSE / AFFILIATE PLACEHOLDER
      Position: Before conclusion
-     Recommended: Broker affiliate banner ([IBKR](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/), Saxo) or responsive AdSense unit
+     Recommended: Broker affiliate banner  or responsive AdSense unit
      Replace this comment block with your AdSense tag or affiliate banner HTML -->
 
 ---
@@ -371,7 +372,7 @@ Most international brokers (IBKR, Saxo, Firstrade) include W-8BEN in the account
 Yes significantly. An EOOD pays 10% corporate income tax on profits. Dividends distributed to the owner then face an additional 5% withholding - for a combined 15% effective rate. The EOOD must file W-8BEN-E (not W-8BEN) with the US broker. The Art. 13(1)(3) capital gains exemption is not available to EOODs.
 
 **Do I need to worry about FBAR or FATCA if I am not a US citizen?**
-No. FBAR (FinCEN Form 114) and Form 8938 (FATCA reporting) are US filing obligations that apply to US citizens, Green Card holders, and certain other US persons - not to a Bulgarian citizen who simply holds a US brokerage account. If you are a Bulgarian tax resident with no US citizenship or Green Card, these filings do not apply to you regardless of your account balance. They become relevant only for US citizens or Green Card holders living in Bulgaria, covered separately in this guide's checklist - our [expat financial planning guide](/us-investing/expat-financial-planning-managing-investments-across-borders/) covers the broader cross-border picture for that group.
+No. FBAR (FinCEN Form 114) and Form 8938 (FATCA reporting) are US filing obligations that apply to US citizens, Green Card holders, and certain other US persons - not to a Bulgarian citizen who simply holds a US brokerage account. If you are a Bulgarian tax resident with no US citizenship or Green Card, these filings do not apply to you regardless of your account balance. They become relevant only for US citizens or Green Card holders living in Bulgaria, covered separately in this guide's checklist - our [expat financial planning guide](/us-investing/expat-financial-planning-managing-investments-across-borders) covers the broader cross-border picture for that group.
 
 ## Related Guides
 

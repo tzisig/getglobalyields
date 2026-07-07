@@ -32,6 +32,8 @@ rating: 4.8
 
 Imagine two investors who both bought TQQQ. The first bought in February 2010, the month it launched, and held for 16 years. By late May 2026, their $10,000 had grown to over $3.95 million - a nominal total return of +39,526%, compounding at 44.38% per year. The second investor bought in January 2000, a year before TQQQ existed - but had they been able to, based on what the Nasdaq did from that peak, their position would still be deeply underwater today. The Nasdaq fell 83% over 30 months following the dot-com peak. A simulated 3x leveraged version of that crash would have approached a total wipeout, and the recovery path from that entry point has never fully closed the gap with an unlevered QQQ position.
 
+For the buy-and-hold framework, see [TQQQ Long-Term Strategy: Buy and Hold](/strategies/tqqq-long-term-strategy-buy-and-hold). Also see [TQQQ Long-Term Outlook](/strategies/tqqq-long-term-outlook), [Dollar-Cost Averaging TQQQ](/strategies/dollar-cost-averaging-tqqq), and [Compounding Returns with TQQQ](/strategies/compounding-returns-tqqq).
+
 Same product. Two entry points separated by a decade. Radically different outcomes - not because of anything the investor did, but because of when they started.
 
 That is the central tension in holding TQQQ for the long term. The product has an extraordinary verified track record since inception. It also has a structural fragility that does not appear in that track record, because the fund has never traded through a sustained bear market that matches the severity and duration of 2000-2002. Understanding both realities - not just the one that shows up in the headline CAGR - is the prerequisite for any serious decision about whether, how much, and for how long to hold it.
@@ -151,6 +153,8 @@ For a product that compounds at 44% per year, a position of any meaningful start
 
 There is no Irish UCITS equivalent for 3x leveraged Nasdaq ETFs. EU UCITS regulations cap leverage at 2x for retail-eligible products, meaning the 3x exposure that drives TQQQ's extraordinary return profile is simply not available in a non-US domiciled format. Non-US investors who want TQQQ-level leverage either accept the estate tax exposure or do without the 3x product. That trade-off belongs in any honest analysis of long-term TQQQ holding for internationally mobile investors.
 
+For the [Wheel Strategy on TQQQ](/options-income/wheel-strategy-tqqq) and [Selling Covered Calls on TQQQ](/options-income/selling-covered-calls-tqqq), see options strategies. For the full recovery case study, read [From -70% to +250%](/case-study/from-minus-70-to-plus-492k-real-tqqq-recovery-case-study).
+
 ---
 
 ## Who Should Hold TQQQ Long-Term
@@ -204,6 +208,13 @@ Holding TQQQ long-term is not irrational. Holding it without understanding what 
 ## Related Articles
 
 - [TQQQ vs QQQ: Which Is Right for International Investors?](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026)
+- [TQQQ Long-Term Strategy: Buy and Hold](/strategies/tqqq-long-term-strategy-buy-and-hold)
+- [TQQQ Long-Term Outlook](/strategies/tqqq-long-term-outlook)
+- [Dollar-Cost Averaging TQQQ](/strategies/dollar-cost-averaging-tqqq)
+- [Compounding Returns with TQQQ](/strategies/compounding-returns-tqqq)
+- [TQQQ vs SOXL vs UPRO](/strategies/tqqq-vs-soxl-vs-upro-best-leveraged-etf-2026)
+- [QQQ 225-Day Moving Average Strategy](/strategies/tqqq-qqq-225-day-moving-average-strategy)
+- [How to Hedge TQQQ](/strategies/how-to-hedge-tqqq)
 - [Risk Management for Leveraged ETF Investors](/strategies/risk-management-leveraged-etf)
 - [Selling Covered Calls on TQQQ for Monthly Income](/options-income/selling-covered-calls-tqqq)
 - [TQQQ Tax Guide for International Investors](/taxes/tqqq-tax-international-investors)

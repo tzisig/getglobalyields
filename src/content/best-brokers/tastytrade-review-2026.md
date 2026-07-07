@@ -56,7 +56,7 @@ tastytrade was founded in 2017 by Tom Sosnoff and Scott Sheridan - the same team
 
 In 2021, [UK](/us-investing/invest-us-stocks-uk)-listed fintech firm IG Group acquired tastytrade for $1 billion. tastytrade continues to operate as its own brand under its founding management team, with the same platform and fee structure. IG Group's involvement adds institutional stability and a global support infrastructure - relevant for international clients who want to know there is a well-capitalized parent company behind the platform.
 
-tastytrade is registered with FINRA and the SEC, and is headquartered in Chicago. [Australian](/us-investing/invest-us-stocks-australia) residents are handled through a separate ASIC-regulated entity.
+tastytrade is registered with FINRA and the SEC, and is headquartered in Chicago. [Australian](/us-investing/how-to-invest-in-us-stocks-from-australia) residents are handled through a separate ASIC-regulated entity.
 
 ---
 
@@ -150,7 +150,7 @@ This does not make tastytrade an unstable platform in day-to-day use. It is a re
 
 ## tastytrade vs Interactive Brokers
 
-These two are the most common comparison for active international options traders - see our full [best options brokers for international investors](/best-brokers/best-options-brokers-international-2026) guide for a broader comparison.
+These two are the most common comparison for active international options traders - see our full [best options brokers for international investors](/best-brokers/best-options-brokers-international-traders-2026) guide for a broader comparison.
 
 | | tastytrade | Interactive Brokers |
 |---|---|---|
@@ -166,6 +166,8 @@ These two are the most common comparison for active international options trader
 | Education | tastylive - excellent | Broad library, more formal |
 
 The practical summary: tastytrade wins on options commissions and platform experience for derivatives-focused traders. IBKR wins on idle cash yield, margin rates, and global market access. For an options trader who stays fully deployed, focuses on US markets, and trades enough volume to benefit from the cap - tastytrade is the more cost-effective, purpose-built choice. For anyone who needs non-US market access, holds significant cash, or runs margin-intensive strategies, IBKR holds the advantage.
+
+For options traders, also see our [Best Options Brokers for International Traders](/best-brokers/best-options-brokers-international-traders-2026) guide and [Broker Finder](/broker-finder/).
 
 ---
 
@@ -204,6 +206,13 @@ For international investors, the case is real but conditional. Wire-only USD fun
 The platform stability history is the one thing to take seriously. It has not been frequent enough to be disqualifying, but it is real enough to prepare for.
 
 **Rating: 4.1 / 5** - Best-in-class options tooling and pricing for active traders. Loses points for near-zero cash yield, above-market margin rates, international account limitations, and periodic platform reliability issues.
+
+---
+
+### Related Articles
+
+- [Firstrade Review 2026](/best-brokers/firstrade-review-2026)
+- [XTB Review 2026](/best-brokers/xtb-review-2026)
 
 ---
 

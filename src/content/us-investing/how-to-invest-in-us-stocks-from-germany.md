@@ -18,7 +18,7 @@ tags:
   - "UCITS ETF Germany"
   - "Sparerpauschbetrag 2026"
   - "Teilfreistellung"
-heroImage: "/images/blog/us-investing/invest-us-stocks-germany.webp"
+heroImage: "/images/blog/us-investing/how-to-invest-in-us-stocks-from-germany.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: false
@@ -29,7 +29,7 @@ rating: 4.9
 
 <!--
 PAGE PLACEMENT INSTRUCTIONS
-- File location: src/content/blog/how-to-invest-in-us-stocks-from-[germany](/us-investing/invest-us-stocks-germany).md
+- File location: src/content/blog/how-to-invest-in-us-stocks-from-[germany](/us-investing/how-to-invest-in-us-stocks-from-germany).md
 - Hero image: /public/images/blog/invest-us-stocks-germany.webp
 - Feature on: Country Guides category page, Investing Guides category page
 - Internal links embedded in body: Best Brokers for International Investors, [IBKR](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors) Review, [Saxo Bank](/best-brokers/saxo-bank-review-2026) Review
@@ -41,7 +41,9 @@ Most people who move to Germany with a plan to invest discover the same thing: t
 
 This guide exists to fix that. Germany is actually one of the better countries in Europe to be a long-term investor - flat tax rate, competitive brokers, strong access to global markets. But you need to know the rules before you start.
 
-Everything here is verified from official sources for 2026. The tax figures are accurate. The ETF recommendations are available to you. The broker comparison reflects the current market.
+Everything here is verified from official sources for 2026.
+
+For a complete portfolio framework at this investment level, see our [How to Invest  Guide](/us-investing/how-to-invest-100k-step-by-step-guide). The tax figures are accurate. The ETF recommendations are available to you. The broker comparison reflects the current market.
 
 ---
 

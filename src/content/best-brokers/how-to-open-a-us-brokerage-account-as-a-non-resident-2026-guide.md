@@ -178,6 +178,8 @@ Opening a US brokerage account as a non-resident is completely achievable. The p
 
 For most international investors, Interactive Brokers is the default choice due to its global reach and competitive pricing. If you are primarily interested in options trading, Tastytrade deserves serious consideration. And if you are just starting out, Firstrade offers a clean, simple experience with zero commissions.
 
+For a full comparison of brokers available to you, see our [Best Brokers for International Investors](/best-brokers/best-brokers-international-investors-2026) guide and [Broker Finder](/broker-finder/) tool.
+
 **Financial Disclaimer**
 
 _The content on GetGlobalYields.com is for informational and educational purposes only and does not constitute financial, investment, or tax advice. Always consult a licensed financial advisor and tax professional before making investment decisions. Tax laws vary by country and individual circumstances._

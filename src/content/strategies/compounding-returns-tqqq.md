@@ -1,4 +1,4 @@
----
+﻿---
 slug: compounding-returns-tqqq
 title: "Compounding Returns with TQQQ: Math vs Reality (2026)"
 description: "How compounding works with TQQQ. The math behind 3x leverage compounding, volatility drag impact, and realistic long-term scenarios for non-US investors."
@@ -66,7 +66,7 @@ The core issue is asymmetric compounding. When a fund drops 10% and then rises 1
 - QQQ falls 5%: TQQQ falls 15%
 - QQQ rises 5% the next day: TQQQ rises 15%
 - QQQ is back to roughly where it started
-- TQQQ: $100 → $85 → $97.75
+- TQQQ: $100 ג†’ $85 ג†’ $97.75
 
 One round trip in a flat market and TQQQ is down 2.25% while QQQ is approximately flat. Repeat that pattern across hundreds of trading days in a choppy year and the damage compounds into a meaningful drag.
 
@@ -194,7 +194,7 @@ There is no "correct" allocation. The right size is the one you can hold through
 
 ## For Non-US Investors: TQQQ Through IBKR
 
-TQQQ is available to international investors through Interactive Brokers (IBKR), which is the standard platform for non-US traders accessing US-listed ETFs. The product trades on NASDAQ and is fully accessible to [Israeli](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026) and other international investors with a standard IBKR account.
+TQQQ is available to international investors through Interactive Brokers (IBKR), which is the standard platform for non-US traders accessing US-listed ETFs. For the long-term outlook, see [TQQQ Long-Term Outlook](/strategies/tqqq-long-term-outlook) and [TQQQ Long-Term Strategy: Buy and Hold](/strategies/tqqq-long-term-strategy-buy-and-hold). Compare leveraged ETF options in [TQQQ vs SOXL vs UPRO](/strategies/tqqq-vs-soxl-vs-upro-best-leveraged-etf-2026). The product trades on NASDAQ and is fully accessible to [Israeli](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026) and other international investors with a standard IBKR account.
 
 ### The Currency Layer
 
@@ -218,7 +218,7 @@ Non-US investors in some jurisdictions have access to UCITS-compliant leveraged 
 
 ## Who Should Hold TQQQ
 
-**TQQQ may make sense as a satellite position if:**
+**TQQQ may make sense as a satellite position if:** Use the [Broker Finder](/broker-finder/) and [Broker Calculator](/broker-calculator/) to find a broker that supports your country and trading needs.
 - You understand the daily rebalancing mechanics and volatility decay deeply - not just conceptually
 - You can genuinely hold through an 80% drawdown without selling
 - The position is sized so that a near-total loss would not threaten your financial plan
@@ -276,6 +276,12 @@ Size it accordingly. Understand what you own. The math does not care which inves
 
 - [TQQQ vs QQQ: Which Is Right for International Investors?](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026)
 - [Risk Management for Leveraged ETF Investors](/strategies/risk-management-leveraged-etf)
+- [Dollar-Cost Averaging TQQQ](/strategies/dollar-cost-averaging-tqqq)
+- [TQQQ Long-Term Outlook](/strategies/tqqq-long-term-outlook)
+- [TQQQ vs SOXL vs UPRO](/strategies/tqqq-vs-soxl-vs-upro-best-leveraged-etf-2026)
+- [How to Hedge TQQQ](/strategies/how-to-hedge-tqqq)
+- [QQQ 225-Day Moving Average Strategy](/strategies/tqqq-qqq-225-day-moving-average-strategy)
+- [Analyzing the Long-Term Outlook on Holding TQQQ](/strategies/analyzing-long-term-outlook-holding-tqqq)
 - [Selling Covered Calls on TQQQ for Monthly Income](/options-income/selling-covered-calls-tqqq)
 - [TQQQ Tax Guide for International Investors](/taxes/tqqq-tax-international-investors)
 - [Best Brokers for International Investors 2026](/best-brokers/best-brokers-international-investors-2026)

@@ -1,4 +1,4 @@
----
+﻿---
 slug: how-to-hedge-tqqq
 title: "How to Hedge a TQQQ Position: A Realistic Guide"
 description: "The real cost of hedging TQQQ - protective puts, collars, SQQQ, and position sizing. What works, what doesn't, and the math most guides skip."
@@ -27,6 +27,8 @@ featured: false
 
 Imagine you bought TQQQ near $85 in late 2021, watched it fall to $16 by December 2022, and held through the recovery to the current $73 range. Now you're sitting on a meaningful gain from your recovery entry - or still underwater from the original - and you want protection. You've heard about hedging. You want to know what it actually costs.
 
+For the fundamental TQQQ comparison, see [TQQQ vs QQQ](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026). For the long-term outlook, see [TQQQ Long-Term Outlook](/strategies/tqqq-long-term-outlook) and [TQQQ Long-Term Strategy: Buy and Hold](/strategies/tqqq-long-term-strategy-buy-and-hold).
+
 That's the honest starting point for this guide: not "how to hedge TQQQ" in the abstract, but what hedging a leveraged ETF position costs in practice, when those costs make sense, and when they don't.
 
 The short answer, before you read further: hedging TQQQ is expensive. The high implied volatility that makes TQQQ options exciting for premium sellers makes them brutal for premium buyers. That doesn't mean hedging is wrong - it means the decision requires honest math, not just a strategy name.
@@ -48,6 +50,8 @@ This is not a reason to never hedge TQQQ. It is a reason to be precise about why
 ---
 
 ## The Four Approaches - With Real Numbers
+
+Also see [Dollar-Cost Averaging TQQQ](/strategies/dollar-cost-averaging-tqqq), [Compounding Returns with TQQQ](/strategies/compounding-returns-tqqq), and [TQQQ vs SOXL vs UPRO](/strategies/tqqq-vs-soxl-vs-upro-best-leveraged-etf-2026) for related strategies.
 
 ### 1. Protective Put
 
@@ -96,6 +100,8 @@ She sets up a 45-day collar:
 
 Her outcome range is now defined: if TQQQ falls to $55 by late December, she sells at $66 - her gain drops from $9,300 to $7,200, but doesn't collapse entirely. If TQQQ rallies to $90, she sells at $82 - she captures $12,000 in gains instead of $14,400. She gave up $2,400 of upside to protect $2,100 of downside. For a 45-day window around a specific risk period, that trade made sense for her.
 
+For the full case study of how options strategies helped recover a 70% drawdown, read [From -70% to +250%](/case-study/from-minus-70-to-plus-492k-real-tqqq-recovery-case-study).
+
 What it isn't: a permanent solution. Sarah rolls this collar every 45 days and the economics deteriorate quickly. The first collar cost $60. A second in January, with renewed uncertainty, might cost $150. By spring, the recurring premium cost has meaningfully eroded her returns. The collar is a defined-period instrument, not ongoing insurance.
 
 ---
@@ -131,7 +137,7 @@ The approach: instead of hedging a 100% TQQQ position, size the position so that
 If you can tolerate a 20% portfolio drawdown in the worst case, and TQQQ can lose 81%, then TQQQ should represent no more than 20/81 = 24.7% of your portfolio. The rest sits in cash, bonds, or non-correlated assets.
 
 A portfolio of 25% TQQQ / 75% cash or short-term Treasuries:
-- In a 2022-style drawdown: loses approximately 20% (25% × 81%)
+- In a 2022-style drawdown: loses approximately 20% (25% ֳ— 81%)
 - In a 2023-style recovery: TQQQ returned approximately 240%, contributing 60% portfolio return
 - Cash/Treasuries earning 4-5% in 2023-2024: add another 3-4%
 - Total portfolio return in a strong TQQQ year: approximately 63-64%
@@ -156,6 +162,8 @@ The 33% TQQQ / 67% cash structure is the one most commonly discussed in leverage
 | SQQQ (50/50) | Compounding decay on both sides | Short-term only | Significant drag | Short-term tactical bearish trades only |
 | Position Sizing (25/75) | $0 | Structural (portfolio level) | Full on TQQQ allocation | Long-term holders who can size correctly |
 
+For the [Wheel Strategy on TQQQ](/options-income/wheel-strategy-tqqq), see how put and call combinations work in practice.
+
 ---
 
 ## The Honest Verdict on Each Approach
@@ -167,6 +175,8 @@ The 33% TQQQ / 67% cash structure is the one most commonly discussed in leverage
 **SQQQ:** Not a hedge. A short-term directional instrument being used in the wrong context. The long-run data is unambiguous: SQQQ decays to near zero in any sustained bull market. Using it as a permanent hedge guarantees gradual capital destruction on the hedge leg.
 
 **Position sizing:** The most underrated risk management tool for TQQQ. It costs nothing, requires no options knowledge, and structurally limits your worst-case outcome. The tradeoff is that it requires accepting you're not going to "hedge" your way to holding 100% TQQQ safely - because there is no cost-effective way to do that.
+
+Use the [Broker Finder](/broker-finder/) and [Broker Calculator](/broker-calculator/) to compare brokers that support options trading for non-US residents.
 
 ---
 
@@ -192,7 +202,7 @@ Two costs that US-based guides typically omit.
 
 **FX on option premiums:** If you're funding a [US brokerage account](/best-brokers/how-to-open-a-us-brokerage-account-as-a-non-resident-2026-guide) from a non-USD bank account, every option premium you pay involves a currency conversion. At a broker like [IBKR](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors) the conversion cost is minimal (0.03 basis points). At a USD-only broker that charges a 1-1.5% FX spread, a $300 monthly put premium carries an additional $3-$4.50 in hidden FX cost - small individually, meaningful over a year of rolling hedges.
 
-**Tax treatment of option gains and losses:** Options on TQQQ held in a US brokerage account by a non-US person are generally exempt from US capital gains tax under the same [W-8BEN](/taxes/w8ben-form-non-us-investors) framework that covers stock gains. However, your home country may tax option premiums and gains differently from equity gains - some jurisdictions treat short-term option income as ordinary income rather than capital gains. This is a question for a local tax advisor in your jurisdiction, not something to assume matches US treatment.
+**Tax treatment of option gains and losses:** Options on TQQQ held in a US brokerage account by a non-US person are generally exempt from US capital gains tax under the same [W-8BEN](/taxes/w8ben-form-non-us-investors) framework that covers stock gains. Also see our [TQQQ Tax Guide for International Investors](/taxes/tqqq-tax-international-investors) for specific tax treatment. However, your home country may tax option premiums and gains differently from equity gains - some jurisdictions treat short-term option income as ordinary income rather than capital gains. This is a question for a local tax advisor in your jurisdiction, not something to assume matches US treatment.
 
 ---
 

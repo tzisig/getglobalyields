@@ -100,7 +100,7 @@ One structural point worth knowing: UK index-linked gilts are indexed to RPI (Re
 
 ### German Inflation-Linked Bonds (Bundesanleihen)
 
-For euro-area investors and expats with EUR liabilities, [German](/us-investing/invest-us-stocks-germany) inflation-linked federal bonds are the sovereign equivalent of TIPS within the eurozone. Both the principal and coupon are indexed to the eurozone HICP (Harmonised Index of Consumer Prices, excluding tobacco), calculated by Eurostat.
+For euro-area investors and expats with EUR liabilities, [German](/us-investing/how-to-invest-in-us-stocks-from-germany) inflation-linked federal bonds are the sovereign equivalent of TIPS within the eurozone. Both the principal and coupon are indexed to the eurozone HICP (Harmonised Index of Consumer Prices, excluding tobacco), calculated by Eurostat.
 
 Four inflation-linked German federal bonds remain in issue, with a total outstanding volume of €47.05 billion. Individual bond real yields as of early May 2026 are not publicly available due to very thin trading volume - the German ILB market traded only €58 billion in 2024, falling to just 1% of total federal securities turnover. The best available proxy for EUR inflation-linked real yields is the ECB's eurozone aggregate: as of February 10, 2026, the 10-year eurozone real yield stood at 0.74% and the 10-year eurozone breakeven at 2.06%.
 
@@ -295,6 +295,9 @@ Inflation eventually comes down. Real-return discipline, built into a portfolio 
 - [JEPI vs SCHD vs QYLD: Full Comparison](/strategies/jepi-vs-schd-vs-qyld)
 - [Best High-Yield ETFs for Income Investors in 2026](/strategies/best-high-yield-etfs-2026)
 - [TQQQ vs QQQ: Which Is Right for International Investors?](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026)
+- [Selling Covered Calls on TQQQ for Monthly Income](/options-income/selling-covered-calls-tqqq)
 - [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors)
 - [W-8BEN Form: Complete Guide](/taxes/w8ben-form-non-us-investors)
 - [Best Brokers for International Investors 2026](/best-brokers/best-brokers-international-investors-2026)
+- [Interactive Brokers Review 2026](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors)
+- [Tax Map - International Investor Tax Guide](/tax-map)

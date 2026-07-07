@@ -1,4 +1,4 @@
----
+﻿---
 slug: us-australia-tax-treaty-investors
 title: "US-Australia Tax Treaty for Investors: The Complete 2026 Guide"
 description: "US-Australia tax treaty guide for individual investors. Withholding rates on dividends, superannuation treatment, W-8BEN filing, and how Australian account types interact with US tax rules explained."
@@ -190,10 +190,10 @@ When US dividends land in a taxable account, they are assessable income in Austr
 
 | Taxable Income | Marginal Rate |
 |---|---|
-| $0 ג€“ $18,200 | 0% |
-| $18,201 ג€“ $45,000 | 16% |
-| $45,001 ג€“ $135,000 | 30% |
-| $135,001 ג€“ $190,000 | 37% |
+| $0 ׳’ג‚¬ג€ $18,200 | 0% |
+| $18,201 ׳’ג‚¬ג€ $45,000 | 16% |
+| $45,001 ׳’ג‚¬ג€ $135,000 | 30% |
+| $135,001 ׳’ג‚¬ג€ $190,000 | 37% |
 | $190,001+ | 45% |
 
 Medicare levy of 2% applies in addition to these rates for most taxpayers, bringing the effective top combined rate to 47%.
@@ -213,7 +213,7 @@ The foreign tax offset is capped at the Australian tax that would have been paya
 
 ## US Citizens in Australia: The Short Version
 
-This section applies to a smaller slice of readers - US citizens and Green Card holders living in Australia - but the compliance stakes are high enough that it earns its place. For the broader picture of managing investments across borders as an expat, see our [expat financial planning guide](/us-investing/expat-financial-planning-managing-investments-across-borders/).
+This section applies to a smaller slice of readers - US citizens and Green Card holders living in Australia - but the compliance stakes are high enough that it earns its place. For the broader picture of managing investments across borders as an expat, see our [expat financial planning guide](/us-investing/expat-financial-planning-managing-investments-across-borders).
 
 Article 1 of the treaty (the "saving clause") preserves each country's right to tax its own citizens as if the treaty did not exist. In practice: a US citizen in Australia must still file Form 1040 annually, reporting worldwide income - Australian dividends, capital gains, bank interest, and super contributions. Australian residency does not exempt a US citizen from this regardless of how long they have lived abroad.
 
@@ -243,6 +243,7 @@ Beyond these, the standard reporting applies: FBAR (FinCEN 114) if aggregate Aus
 | Australia | 15% | **10%** | Residence only | 15% (no full exemption) |
 | United Kingdom | 15% | 0% | Residence only | 0% in qualifying SIPP |
 | [Germany](/taxes/us-germany-tax-treaty-investors/) | 15% | 0% | Residence only | Pension exemption exists |
+| [Canada](/taxes/us-canada-tax-treaty-investors-2026/) | 15% | 15% | Residence only | 0% (RRSP) |
 | Japan | **10%** | 0% | Residence only | Yes |
 | New Zealand | 15% | **10%*** | Residence only | 15% |
 

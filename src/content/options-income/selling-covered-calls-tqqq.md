@@ -30,7 +30,7 @@ rating: 4.8
 
 Selling covered calls on TQQQ generates some of the highest option premiums available in the ETF universe. That is not an accident. TQQQ's implied volatility consistently runs at roughly three times that of QQQ, which means option sellers collect far more premium than they would from any non-leveraged equivalent. On paper, it looks like an income machine.
 
-The reality is more complicated. TQQQ is already a complex instrument before a single option enters the picture. Its 3x daily leverage, daily rebalancing mechanism, and well-documented [volatility decay](/strategies/risk-management-leveraged-etf) mean that the underlying asset behaves differently from any stock or standard ETF you might typically write calls against. The high premium you collect reflects real risk. This guide explains both sides of that equation clearly.
+The reality is more complicated. TQQQ is already a complex instrument before a single option enters the picture. Its 3x daily leverage, daily rebalancing mechanism, and well-documented [volatility decay](/strategies/risk-management-leveraged-etf-investors-2026) mean that the underlying asset behaves differently from any stock or standard ETF you might typically write calls against. The high premium you collect reflects real risk. This guide explains both sides of that equation clearly.
 
 ---
 
@@ -77,7 +77,7 @@ Three outcomes are possible at expiration:
 
 **TQQQ rises above $80:** Your shares are called away at $80. Your total proceeds are $8,000 (shares) + $250 (premium) = $8,250 on an original $7,500 investment - a 10% gain. The downside: if TQQQ rose to $90, you do not participate in that additional $10 of upside per share.
 
-**TQQQ falls significantly:** The option expires worthless (you keep the premium), but your shares are worth substantially less. A $250 premium provides very limited protection against TQQQ's potential drawdowns.
+**TQQQ falls significantly:** The option expires worthless (you keep the premium), but your shares are worth substantially less. A $250 premium provides very limited protection against TQQQ's potential drawdowns. See [Risk Management for Leveraged ETFs](/strategies/risk-management-leveraged-etf-investors-2026) for position sizing and stop-loss frameworks.
 
 ---
 
@@ -85,7 +85,7 @@ Three outcomes are possible at expiration:
 
 The Greeks measure how an option's price responds to changes in the underlying, time, and volatility. On a leveraged ETF like TQQQ, they behave with more intensity than on standard underlyings.
 
-**Delta** measures how much the option price changes for every $1 move in TQQQ. An at-the-money (ATM) call on TQQQ has a delta of approximately 0.50. A 5% OTM call might have a delta of 0.30-0.35. Because TQQQ itself moves roughly 3x the Nasdaq-100, a 2% move in QQQ translates to approximately 6% in TQQQ - and your delta exposure moves significantly during those swings. This makes position management more urgent than on a standard ETF.
+**Delta** measures how much the option price changes for every $1 move in TQQQ. An at-the-money (ATM) call on TQQQ has a delta of approximately 0.50. A 5% OTM call might have a delta of 0.30-0.35. Because TQQQ itself moves roughly 3x the Nasdaq-100, a 2% move in QQQ translates to approximately 6% in TQQQ - and your delta exposure moves significantly during those swings. This makes position management more urgent than on a standard ETF. For a deeper breakdown of how Greeks behave on TQQQ, see the [TQQQ Options Chain Analysis](/options-income/tqqq-options-chain-analysis).
 
 **Theta** (time decay) works in your favor as a seller. Options lose value as expiration approaches, and you keep that decay as income. TQQQ's high implied volatility means theta is larger in absolute dollar terms than on a comparable non-leveraged position. A 30-day ATM option on TQQQ decays faster in dollar terms than the same-delta option on QQQ.
 
@@ -196,7 +196,7 @@ TQQQ's implied volatility is not stable. It can jump from 50% to 90%+ during mar
 | Premium as buffer vs. drawdown | Very limited | Limited | Limited |
 | Complexity of management | High | Moderate | Low |
 
-The higher premium on TQQQ is compensation for higher risk, not a free lunch. QQQ and SPY covered calls generate less income but on a far more stable underlying. For most investors, covered calls on QQQ or SPY provide a cleaner income profile with substantially less downside exposure.
+The higher premium on TQQQ is compensation for higher risk, not a free lunch. QQQ and SPY covered calls generate less income but on a far more stable underlying. For most investors, covered calls on QQQ or SPY provide a cleaner income profile with substantially less downside exposure. For selecting a broker that supports this strategy, see our [Interactive Brokers review](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors) or [tastytrade review](/best-brokers/tastytrade-review-2026).
 
 ---
 
@@ -293,7 +293,8 @@ Covered calls are permitted in IRAs at most major brokers. The tax treatment dif
 
 - [The Wheel Strategy on TQQQ](/options-income/wheel-strategy-tqqq)
 - [Cash-Secured Puts in High IV Environments](/options-income/cash-secured-puts-high-iv)
-- [Best Options Brokers for International Investors](/best-brokers/best-options-brokers-international-2026)
-- [TQQQ vs QQQ: Which Is Right for International Investors?](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026)
+- [Passive Income from TQQQ Options](/options-income/passive-income-tqqq-options)
+- [TQQQ Recovery Case Study](/case-study/from-minus-70-to-plus-492k-real-tqqq-recovery-case-study)
+- [Risk Management for Leveraged ETF Investors](/strategies/risk-management-leveraged-etf-investors-2026)
 - [TQQQ Tax Guide for International Investors](/taxes/tqqq-tax-international-investors)
-- [How to Open a US Brokerage Account as a Non-Resident](/best-brokers/how-to-open-a-us-brokerage-account-as-a-non-resident-2026-guide)
+- [Broker Fee Calculator](/broker-calculator)

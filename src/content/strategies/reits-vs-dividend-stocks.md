@@ -353,4 +353,19 @@ Know your account. Know your tax status. Run the full numbers - not just the yie
 
 ---
 
-*This article is for informational and educational purposes only. It does not constitute financial, tax, or investment advice. The 10-year case study uses historical total return CAGRs (Realty Income 5.93% per FinanceCharts May 2026; Coca-Cola 9.17% per AverageAnnualReturn.com through April 2026) that may not repeat. Yields cited reflect publicly available data as of May 2026. REIT distribution breakdowns are based on NAREIT 2024 industry data and vary by REIT and year. Tax treatment reflects general principles under the US-Israel tax treaty and Israeli tax law as of May 2026; individual circumstances vary. FIRPTA rules are complex and fact-specific. Consult a qualified US and Israeli tax advisor before making investment decisions involving US REITs.*
+*This article is for informational and educational purposes only. It does not constitute financial, tax, or investment advice. The 10-year case study uses historical total return CAGRs (Realty Income 5.93% per FinanceCharts May 2026; Coca-Cola 9.17% per AverageAnnualReturn.com through April 2026) that may not repeat. Yields cited reflect publicly available data as of May 2026. REIT distribution breakdowns are based on NAREIT 2024 industry data and vary by REIT and year. Tax treatment reflects general principles under the US-Israel tax treaty and Israeli tax law as of May 2026; individual circumstances vary. FIRPTA rules are complex and fact-specific. Consult a qualified US and Israeli tax advisor before making investment decisions involving US REITs.
+
+---
+
+## Related Articles
+
+- [Best High-Yield ETFs for Income Investors in 2026](/strategies/best-high-yield-etfs-2026)
+- [JEPI vs SCHD vs QYLD: Complete Comparison](/strategies/jepi-vs-schd-vs-qyld)
+- [High-Yield Investment Strategies for 2026](/strategies/high-yield-investment-strategies-2026)
+- [TQQQ vs QQQ: Which Is Right for International Investors?](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026)
+- [Selling Covered Calls on TQQQ for Monthly Income](/options-income/selling-covered-calls-tqqq)
+- [W-8BEN Form: Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors)
+- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors)
+- [Best Brokers for International Investors 2026](/best-brokers/best-brokers-international-investors-2026)
+- [Interactive Brokers Review 2026](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors)
+- [Tax Map - International Investor Tax Guide](/tax-map)*

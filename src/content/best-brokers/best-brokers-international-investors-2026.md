@@ -27,6 +27,8 @@ Choosing the right brokerage is one of the most consequential decisions an inter
 
 Ultimately, the broker you choose determines your access, your costs, and your long-term returns. This guide covers the best brokers for international investors in 2026, with a focus on those offering meaningful access to US markets, competitive fee structures for non-US residents, multi-currency accounts, and the compliance infrastructure to serve clients across multiple jurisdictions. We also highlight what to watch out for-including [withholding tax](/taxes/taxes-us-dividends-foreign-investors) pitfalls, [PFIC](/taxes/pfic-rules-international-investors) exposure, and platforms that quietly restrict international account holders.
 
+Use our [Broker Finder](/broker-finder/) tool to find the right broker for your country and investment style.
+
 <div class="not-prose mb-12 mt-8">
   <div class="mb-4">
     <h2 class="text-2xl font-bold text-slate-100 mb-2">Editor's Top Pick</h2>
@@ -225,7 +227,7 @@ From my experience, Interactive Brokers remains the gold standard for internatio
 | US stock commission | $0 on IBKR Lite; $0.0005/share (min $1) on IBKR Pro |
 | Currency accounts | 25+ currencies with best-in-class FX conversion at near-interbank rates |
 | W-8BEN support | Yes - full treaty documentation and withholding management |
-| Regulation | SEC/FINRA (US), FCA (UK), IIROC ([Canada](/us-investing/invest-us-stocks-canada)), MAS (Singapore), and more |
+| Regulation | SEC/FINRA (US), FCA (UK), IIROC ([Canada](/us-investing/how-to-invest-in-us-stocks-from-canada)), MAS (Singapore), and more |
 | Minimum deposit | $0 (no minimum for IBKR Lite) |
 
 **Why it stands out for international investors:**
@@ -255,7 +257,7 @@ eToro has grown into one of the most accessible platforms for non-US internation
 - **Commission-free** stock and ETF trading (spreads apply on CFDs).
 - **Available in 100+ countries** including Israel, EU member states, and the UK.
 - **Copy trading:** automatically mirror portfolios of verified top traders.
-- **Regulated** by FCA (UK), CySEC (EU), and ASIC ([Australia](/us-investing/invest-us-stocks-australia)).
+- **Regulated** by FCA (UK), CySEC (EU), and ASIC ([Australia](/us-investing/how-to-invest-in-us-stocks-from-australia)).
 - **USD-denominated account** with FX conversion on deposit/withdrawal.
 
 **Key consideration:** eToro's "commission-free" model is funded partly through FX conversion spreads (typically 150 bps on non-USD deposits) and CFD spreads. For investors making large or frequent transactions, these implicit costs can exceed what a traditional commission broker would charge. Additionally, experienced traders should note that eToro often lacks access to leveraged US ETFs like TQQQ in many jurisdictions due to MiFID II restrictions-investors seeking those products should use IBKR instead.
@@ -297,7 +299,9 @@ Saxo Bank is a Danish investment bank and broker with a strong foothold across E
 
 For international investors, the brokerage platform itself is only part of the equation. Tax and compliance factors often determine which broker is truly suitable for your situation:
 
-**W-8BEN Form and Withholding Tax**
+**Account Opening and W-8BEN Form**
+
+For a complete walkthrough of opening a US brokerage account from abroad, see our [How to Open a US Brokerage Account as a Non-Resident](/best-brokers/how-to-open-a-us-brokerage-account-as-a-non-resident-2026-guide) guide.
 
 Any broker holding US-listed securities for a non-US person must collect a W-8BEN form to establish non-resident alien status. This form allows investors from treaty countries to claim a reduced [withholding tax rate](/tax-map) on US-source dividends - typically 15% or 25% instead of the default 30%. The best brokers for international investors handle W-8BEN documentation electronically and apply treaty rates automatically. Confirm this process before opening an account.
 

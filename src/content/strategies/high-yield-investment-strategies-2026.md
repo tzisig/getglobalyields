@@ -150,7 +150,7 @@ A concrete example using Pfizer (PFE) as of May 2026. PFE carries a dividend yie
 
 The more important principle: only sell covered calls on stocks you would be equally comfortable holding without writing calls. The option income is additive, not the reason to own the position.
 
-**A note on tax treatment by jurisdiction.** Option premium income is taxed differently depending on where you live. US investors pay short-term capital gains rates on premium collected from expired or closed calls. European investors vary widely: in [Germany](/us-investing/invest-us-stocks-germany), premiums fall under Abgeltungsteuer at 26.375%; in the [UK](/us-investing/invest-us-stocks-uk), under CGT rules. Before implementing this strategy at scale, confirm the tax classification with a local advisor.
+**A note on tax treatment by jurisdiction.** Option premium income is taxed differently depending on where you live. US investors pay short-term capital gains rates on premium collected from expired or closed calls. European investors vary widely: in [Germany](/us-investing/how-to-invest-in-us-stocks-from-germany), premiums fall under Abgeltungsteuer at 26.375%; in the [UK](/us-investing/invest-us-stocks-uk), under CGT rules. Before implementing this strategy at scale, confirm the tax classification with a local advisor.
 
 **Sofia's allocation:** She selects three quality dividend-paying stocks she already holds and begins selling monthly covered calls 8-10% OTM against each. She targets approximately 1% per month in additional call premium. Combined income target: approximately 8% on this allocation. On €60,000, that is approximately €4,800 annually.
 
@@ -266,7 +266,11 @@ It raises the hurdle significantly. When cash paid 0.5% in 2020, a 4% REIT yield
 
 - [Best High-Yield ETFs for Income Investors in 2026](/strategies/best-high-yield-etfs-2026)
 - [JEPI vs SCHD vs QYLD: Full Comparison](/strategies/jepi-vs-schd-vs-qyld)
+- [Build $10K/Month Passive Income Portfolio](/strategies/build-10k-month-passive-income)
+- [TQQQ vs QQQ: Which Is Right for International Investors?](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026)
 - [Selling Covered Calls on TQQQ for Monthly Income](/options-income/selling-covered-calls-tqqq)
 - [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors)
 - [W-8BEN Form: Complete Guide](/taxes/w8ben-form-non-us-investors)
 - [Best Brokers for International Investors 2026](/best-brokers/best-brokers-international-investors-2026)
+- [Interactive Brokers Review 2026](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors)
+- [Tax Map - International Investor Tax Guide](/tax-map)

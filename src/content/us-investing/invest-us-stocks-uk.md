@@ -62,7 +62,7 @@ Before choosing a broker, decide where you are going to hold your US stocks. The
 
 The ISA is the default account for most UK retail investors - and for good reason. Gains are completely free from UK CGT. Dividends are free from UK income tax. The annual allowance is £20,000 for 2026/27.
 
-For UK stocks, an ISA is as good as it gets. For US stocks, there is one caveat that matters: the US withholds 15% on dividends before the money enters your ISA. This withholding cannot be reclaimed. If you are building a dividend-focused US portfolio inside an ISA, you are permanently losing 15% of every dividend to US withholding - and you receive no UK tax relief on it because the ISA already gives you zero UK tax.
+For UK stocks, an ISA is as good as it gets. For US stocks, there is one caveat that matters: the US withholds 15% on dividends before the money enters your ISA. This withholding cannot be reclaimed. If you are building a dividend-focused US portfolio inside an ISA, you are permanently losing 15% of every dividend to [US withholding tax](/taxes/taxes-us-dividends-foreign-investors) to US withholding - and you receive no UK tax relief on it because the ISA already gives you zero UK tax.
 
 For growth-focused US positions where dividends are minimal - think QQQ, individual tech stocks, or accumulating ETFs - an ISA is excellent. For high-dividend US positions like SCHD or JEPI, the 15% withholding drag is a real cost to factor in.
 
@@ -245,7 +245,7 @@ Non-US residents holding US-domiciled assets above approximately $60,000 are sub
 
 UK investors are genuinely well-positioned to own US stocks. The ISA and SIPP wrappers eliminate UK tax on investments held within them, the US-UK treaty cuts withholding to 15% in an ISA and 0% in a SIPP, and the broker options are competitive and well-regulated.
 
-The main things to get right: file your W-8BEN, think carefully about which account type suits each type of US position, use your annual ISA and CGT allowances actively, and understand the US estate tax risk before you build a large position.
+The main things to get right: file your W-8BEN, use our [Broker Finder](/broker-finder/) to compare UK-accessible brokers, and review our [Multi-Currency Investment Accounts](/us-investing/multi-currency-investment-accounts) guide for FX optimization, think carefully about which account type suits each type of US position, use your annual ISA and CGT allowances actively, and understand the US estate tax risk before you build a large position.
 
 For most UK investors, a combination of ISA for growth-focused US positions and SIPP for income-focused ones - with IBKR for serious long-term investing or Trading 212 for simpler needs - covers the full picture efficiently.
 

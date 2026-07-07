@@ -1,4 +1,4 @@
----
+﻿---
 slug: us-denmark-tax-treaty-investors
 title: "US-Denmark Tax Treaty for Investors: The Complete 2026 Guide"
 description: "US-Denmark tax treaty guide for individual investors. Withholding rates on dividends, the aktiesparekonto PFIC trap for US citizens, the 0% pension fund rate, W-8BEN filing, and how Danish aktieindkomst tax interacts with US rules."
@@ -40,7 +40,7 @@ schema:
 
 <!-- ADSENSE / AFFILIATE PLACEHOLDER
      Position: Top of article, before content
-     Recommended: Responsive AdSense display unit or broker affiliate banner ([Saxo Bank](/best-brokers/saxo-bank-review-2026/) or [IBKR](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/))
+     Recommended: Responsive AdSense display unit or broker affiliate banner 
      Replace this comment block with your AdSense tag or affiliate banner HTML -->
 
 If you are a Danish tax resident holding US stocks and have never filed Form [W-8BEN](/taxes/w8ben-form-non-us-investors/) with your broker, every dividend you have received has been [cut by 30% instead of the 15%](/taxes/taxes-us-dividends-foreign-investors/) the treaty actually allows. On a DKK 300,000 US equity position yielding 2%, that is roughly DKK 900 per year sitting with the IRS instead of in your account - indefinitely, until the form is filed.
@@ -242,6 +242,8 @@ For a full side-by-side view across every US treaty country, our [tax map](/tax-
 | Denmark | 15% | **0%** | Residence only | **0%** |
 | [Austria](/taxes/us-austria-tax-treaty-investors/) | 15% | 0% | Residence only | 0% (Pensionskassen) |
 | [Belgium](/taxes/us-belgium-tax-treaty-investors/) | 15% | 0% | Residence only | 0% |
+| [Bulgaria](/taxes/us-bulgaria-tax-treaty-investors/) | **10%** | 5% | Residence only | 0% |
+| [Czech Republic](/taxes/us-czech-republic-tax-treaty-investors/) | 15% | **0%** | Residence only | 0% |
 | United Kingdom | 15% | 0% | Residence only | 0% in qualifying SIPP |
 | [Australia](/taxes/us-australia-tax-treaty-investors/) | 15% | 10% | Residence only | 15% (no full exemption) |
 | Japan | **10%** | 0% | Residence only | Yes |
@@ -279,7 +281,7 @@ Where Denmark does not stand out is the portfolio dividend rate itself: 15% is t
 
 <!-- ADSENSE / AFFILIATE PLACEHOLDER
      Position: Before conclusion
-     Recommended: Broker affiliate banner (Saxo, [IBKR](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/)) or responsive AdSense unit
+     Recommended: Broker affiliate banner or responsive AdSense unit
      Replace this comment block with your AdSense tag or affiliate banner HTML -->
 
 ---

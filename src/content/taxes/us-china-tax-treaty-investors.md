@@ -1,4 +1,4 @@
----
+﻿---
 slug: us-china-tax-treaty-investors
 title: "US-China Tax Treaty for Investors: The Complete 2026 Guide"
 description: "US-China tax treaty guide for individual investors. Withholding rates on dividends, the broker access problem for mainland residents, the Hong Kong distinction, W-8BEN filing, and the FATCA gap explained."
@@ -40,7 +40,7 @@ schema:
 
 <!-- ADSENSE / AFFILIATE PLACEHOLDER
      Position: Top of article, before content
-     Recommended: Responsive AdSense display unit or broker affiliate banner ([IBKR](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/) or [Saxo Bank](/best-brokers/saxo-bank-review-2026/))
+     Recommended: Responsive AdSense display unit or broker affiliate banner 
      Replace this comment block with your AdSense tag or affiliate banner HTML -->
 
 For most investors covered in this treaty series, the first question is how much tax gets withheld. For a mainland Chinese investor, that is the second question. The first is whether you can legally open a US brokerage account at all - and as of 2026, the honest answer is: it depends on documents you may not have.
@@ -217,6 +217,7 @@ For a full side-by-side comparison across every US treaty country, our [tax map]
 | [Czech Republic](/taxes/us-czech-republic-tax-treaty-investors/) | 15% | 0% | Residence only | 5% (10%+ ownership) | No |
 | [Austria](/taxes/us-austria-tax-treaty-investors/) | 15% | 0% | Residence only | 5% (10%+ ownership) | Yes |
 | [Belgium](/taxes/us-belgium-tax-treaty-investors/) | 15% | 0% | Residence only | 0% (80%+ ownership) | Yes |
+| [Israel](/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026/) | 25% | 10% | Residence only | 12.5% (10%+ ownership) | No |
 | Japan | 10% | 0% | Residence only | 0% (qualifying parent) | Yes |
 
 China's flat 10% dividend rate is among the lowest of any major US treaty partner, tied with Japan and meaningfully below the UK, Czech Republic, Austria, Belgium, or Australia's 15%. Where China's treaty is comparatively weaker is interest income (10%, versus 0% for the UK, Czech Republic, Austria, Belgium, and Japan) and the absence of a totalization agreement, which all of these countries except the Czech Republic have.
@@ -272,7 +273,7 @@ The rate comparison, however, is the smaller part of the China story. The access
 
 <!-- ADSENSE / AFFILIATE PLACEHOLDER
      Position: Before conclusion
-     Recommended: Broker affiliate banner ([IBKR](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/), Saxo) or responsive AdSense unit
+     Recommended: Broker affiliate banner  or responsive AdSense unit
      Replace this comment block with your AdSense tag or affiliate banner HTML -->
 
 ---

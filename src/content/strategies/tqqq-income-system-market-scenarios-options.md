@@ -10,11 +10,13 @@ heroImage: "/images/blog/strategies/tqqq-system-architecture.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: false
-heroImageLight: "/images/blog/light/tqqq-system-architecture.webp"
-heroImageDark: "/images/blog/tqqq-system-architecture.webp"
+heroImageLight: "/images/blog/light/strategies/tqqq-system-architecture.webp"
+heroImageDark: "/images/blog/strategies/tqqq-system-architecture.webp"
 ---
 
 ## System Overview
+
+This system requires a broker with options approval. [Interactive Brokers](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors) and [tastytrade](/best-brokers/tastytrade-review-2026) both support the structures described here for non-US investors.
 
 **Long TQQQ position + options income overlay** = diversified return streams
 
@@ -81,6 +83,8 @@ The system transitions to **accumulation mode**. You're buying the dip with put 
 
 [IMAGE_2: Market cycle diagram]
 
+For a real-world example of this system in action during the 2022 crash and subsequent recovery, see the [TQQQ Recovery Case Study](/case-study/from-minus-70-to-plus-492k-real-tqqq-recovery-case-study).
+
 ## Core Risk: It's About Time, Not Volatility
 
 Most traders think options income strategies fail because of "volatility risk." Wrong.
@@ -97,7 +101,7 @@ The genius of this system: **it doesn't require you to be right about the market
 - Bear market? Accumulation happens at discounts.
 - Sideways? Time decay is harvested.
 
-Risk is managed through position sizing, strike selection, and cash buffers - not through guessing what the Fed will do next.
+Risk is managed through position sizing, strike selection, and cash buffers - not through guessing what the Fed will do next. For a broader treatment of drawdown protection, see [Risk Management for Leveraged ETF Investors](/strategies/risk-management-leveraged-etf-investors-2026).
 
 ---
 
@@ -108,6 +112,10 @@ Risk is managed through position sizing, strike selection, and cash buffers - no
 - [Selling Covered Calls on TQQQ: Step-by-Step Guide](/options-income/selling-covered-calls-tqqq)
 - [The Wheel Strategy on TQQQ](/options-income/wheel-strategy-tqqq)
 - [Cash-Secured Puts in High IV Environments](/options-income/cash-secured-puts-high-iv)
-- [TQQQ vs QQQ: Which Is Right for International Investors?](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026)
-- [Best Options Brokers for International Investors](/best-brokers/best-options-brokers-international-2026)
+- [Passive Income from TQQQ Options](/options-income/passive-income-tqqq-options)
+- [TQQQ Options Chain Analysis](/options-income/tqqq-options-chain-analysis)
+- [TQQQ Implied Volatility Strategies](/options-income/tqqq-implied-volatility-strategies)
+- [TQQQ Recovery Case Study](/case-study/from-minus-70-to-plus-492k-real-tqqq-recovery-case-study)
+- [Risk Management for Leveraged ETF Investors](/strategies/risk-management-leveraged-etf-investors-2026)
 - [TQQQ Tax Guide for International Investors](/taxes/tqqq-tax-international-investors)
+- [Broker Fee Calculator](/broker-calculator)

@@ -120,7 +120,7 @@ This is why long-term holding of TQQQ in unstable markets can fail - even if the
 
 The default [US withholding rate](/taxes/taxes-us-dividends-foreign-investors) is 30% - but most countries have a tax treaty that reduces this.
 
-Check your country's rate:- <a href="https://www.irs.gov/individuals/international-taxpayers/tax-treaty-tables" target="_blank" rel="noopener noreferrer">IRS Tax Treaty Tables</a>
+Check your country's rate:- <a href="https://www.irs.gov/individuals/international-taxpayers/tax-treaty-tables" target="_blank" rel="noopener noreferrer">IRS Tax Treaty Tables</a>. For a full breakdown of TQQQ-specific tax rules, see our [TQQQ Tax Guide for International Investors](/taxes/tqqq-tax-international-investors). Also see our [Wheel Strategy on TQQQ](/options-income/wheel-strategy-tqqq) for options-based approaches.
 
 ### **Capital Gains**
 
@@ -200,6 +200,8 @@ Before investing, you need the right broker. Key requirements:
 - Low fees
 - Reliable execution
 - Options support
+
+For managing leveraged ETF risk, read our [Risk Management Guide](/strategies/risk-management-leveraged-etf-investors-2026). For the long-term outlook, see [TQQQ Long-Term Outlook](/strategies/tqqq-long-term-outlook). Use the [Broker Finder](/broker-finder/) and [Broker Calculator](/broker-calculator/) to compare costs.
 
 We recommend IBKR for most non-US investors [here's our full review.](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/)
 

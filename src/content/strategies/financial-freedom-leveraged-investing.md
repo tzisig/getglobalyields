@@ -395,8 +395,8 @@ Non-U.S. investors are subject to U.S. [withholding tax](/taxes/taxes-us-dividen
 
 - **[Israel](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026):** 25% flat rate on capital gains from securities (verified, PwC Tax Summaries 2026)
 - **[UK](/us-investing/invest-us-stocks-uk):** 18-24% depending on income level
-- **[Germany](/us-investing/invest-us-stocks-germany):** 25% (Abgeltungsteuer) plus solidarity surcharge
-- **[Australia](/us-investing/invest-us-stocks-australia):** 50% discount after 12 months, marginal rate applied to the remainder
+- **[Germany](/us-investing/how-to-invest-in-us-stocks-from-germany):** 25% (Abgeltungsteuer) plus solidarity surcharge
+- **[Australia](/us-investing/how-to-invest-in-us-stocks-from-australia):** 50% discount after 12 months, marginal rate applied to the remainder
 
 For Israeli investors specifically: gains from TQQQ or UPRO are taxed at 25% in the year of realization. There is no equivalent of the U.S. Roth IRA structure in Israel that would shelter leveraged ETF gains from tax. Capital losses can be carried forward indefinitely under [Israeli tax](/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026) law.
 
@@ -432,5 +432,18 @@ Leverage is a tool. Like all tools, its value depends entirely on whether it is 
 
 ---
 
-*All ETF performance data verified through May 2026. IBKR margin rates verified as of May 7, 2026. Past performance does not guarantee future results. Leveraged ETFs are complex financial instruments that may not be suitable for all investors. This article is for informational and educational purposes only and does not constitute investment advice. Consult a qualified financial advisor before implementing any leveraged investment strategy.*
+*All ETF performance data verified through May 2026. IBKR margin rates verified as of May 7, 2026. Past performance does not guarantee future results. Leveraged ETFs are complex financial instruments that may not be suitable for all investors. This article is for informational and educational purposes only and does not constitute investment advice. Consult a qualified financial advisor before implementing any leveraged investment strategy.
+
+---
+
+## Related Articles
+
+- [Compounding Returns with TQQQ](/strategies/compounding-returns-tqqq)
+- [Dollar Cost Averaging TQQQ Strategy](/strategies/dollar-cost-averaging-tqqq)
+- [TQQQ vs QQQ: Which Is Right for International Investors?](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026)
+- [Selling Covered Calls on TQQQ for Monthly Income](/options-income/selling-covered-calls-tqqq)
+- [W-8BEN Form: Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors)
+- [Best Brokers for International Investors 2026](/best-brokers/best-brokers-international-investors-2026)
+- [Interactive Brokers Review 2026](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors)
+- [Tax Map - International Investor Tax Guide](/tax-map)*
 

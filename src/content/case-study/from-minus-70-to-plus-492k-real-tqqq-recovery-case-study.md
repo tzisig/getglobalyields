@@ -230,5 +230,5 @@ The biggest risk is not volatility. It’s applying this in the wrong market env
 - [TQQQ vs QQQ: Which Is Right for International Investors?](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026)
 - [TQQQ Long-Term Strategy: Buy and Hold Analysis](/strategies/tqqq-long-term-strategy-buy-and-hold)
 - [Selling Covered Calls on TQQQ for Monthly Income](/options-income/selling-covered-calls-tqqq)
-- [Risk Management for Leveraged ETF Investors](/strategies/risk-management-leveraged-etf)
+- [Risk Management for Leveraged ETF Investors](/strategies/risk-management-leveraged-etf-investors-2026)
 - [Dollar-Cost Averaging TQQQ](/strategies/dollar-cost-averaging-tqqq)

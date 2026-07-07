@@ -1,4 +1,4 @@
----
+﻿---
 slug: us-austria-tax-treaty-investors
 title: "US-Austria Tax Treaty: Complete Guide for Investors (2026)"
 description: "How the US-Austria tax treaty (1996) affects investors resident in Austria. Verified withholding rates on dividends, interest, capital gains, REIT treatment, Pensionskasse benefits, W-8BEN filing, and the Austrian KESt credit system."
@@ -61,18 +61,18 @@ For individual investors holding less than 10% of a US company's voting stock - 
 
 This applies to dividends from US corporations including dividend-paying stocks and ETFs that hold US equities. The 15% rate is achieved by filing a valid W-8BEN form with your broker. Most major brokers operating in Austria - [Interactive Brokers](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/), Trading 212, Lightyear, and others - apply the treaty rate automatically when a W-8BEN is on file. If you haven't opened a US-accessible account yet, see our guide to [opening a US brokerage account as a non-resident](/best-brokers/how-to-open-a-us-brokerage-account-as-a-non-resident-2026-guide/), or compare platforms in our [best brokers for international investors](/best-brokers/best-brokers-international-investors-2026/) roundup.
 
-Without a W-8BEN: 30% withheld. With a valid W-8BEN: 15% withheld. The difference on a ג‚¬10,000 annual dividend is ג‚¬1,500 per year - money that is yours under the treaty but that you forfeit without the form. On top of withholding, converting between EUR and USD adds its own cost layer; see our [multi-currency accounts guide](/us-investing/multi-currency-investment-accounts/) for how to minimize it.
+Without a W-8BEN: 30% withheld. With a valid W-8BEN: 15% withheld. The difference on a ׳’ג€ֲ¬10,000 annual dividend is ׳’ג€ֲ¬1,500 per year - money that is yours under the treaty but that you forfeit without the form. On top of withholding, converting between EUR and USD adds its own cost layer; see our [multi-currency accounts guide](/us-investing/multi-currency-investment-accounts/) for how to minimize it.
 
 **What happens to the 15% in Austria?**
 
 Austria taxes investment income under the Kapitalertragsteuer (KESt) at a flat rate of **27.5%** on dividends and capital gains from securities. When you receive a US dividend with 15% already withheld, the Austrian tax system allows you to credit that 15% against your Austrian KESt liability.
 
-The practical calculation on a ג‚¬100 gross US dividend:
-- US withholding (15%): ג‚¬15 withheld at source
-- Net received in account: ג‚¬85
-- Austrian KESt due (27.5% of ג‚¬100 gross): ג‚¬27.50
-- Foreign tax credit (15%): -ג‚¬15.00
-- Net Austrian KeSt to pay at filing: **ג‚¬12.50**
+The practical calculation on a ׳’ג€ֲ¬100 gross US dividend:
+- US withholding (15%): ׳’ג€ֲ¬15 withheld at source
+- Net received in account: ׳’ג€ֲ¬85
+- Austrian KESt due (27.5% of ׳’ג€ֲ¬100 gross): ׳’ג€ֲ¬27.50
+- Foreign tax credit (15%): -׳’ג€ֲ¬15.00
+- Net Austrian KeSt to pay at filing: **׳’ג€ֲ¬12.50**
 - Combined effective tax rate on the dividend: **27.5%**
 
 The credit eliminates double taxation on the 15% US withholding. The remaining 12.5% difference between 27.5% (Austrian rate) and 15% (US treaty rate) is paid in Austria. Total tax: 27.5% - exactly what you would pay on domestic Austrian dividends.
@@ -134,12 +134,12 @@ For retail investors - holding a few hundred or thousand shares of Realty Income
 
 **What this means in practice:**
 
-A ג‚¬100 gross REIT dividend for an Austrian retail investor:
-- US withholding (15%): ג‚¬15
-- Net received: ג‚¬85
-- Austrian KeSt (27.5%): ג‚¬27.50
-- Foreign tax credit: -ג‚¬15.00
-- Net Austrian tax to pay: ג‚¬12.50
+A ׳’ג€ֲ¬100 gross REIT dividend for an Austrian retail investor:
+- US withholding (15%): ׳’ג€ֲ¬15
+- Net received: ׳’ג€ֲ¬85
+- Austrian KeSt (27.5%): ׳’ג€ֲ¬27.50
+- Foreign tax credit: -׳’ג€ֲ¬15.00
+- Net Austrian tax to pay: ׳’ג€ֲ¬12.50
 - Combined effective rate: **27.5%**
 
 The REIT dividend is taxed at the same effective Austrian rate as any other dividend. The difference from many other non-US investors is the REIT-specific provision: some treaties negotiated before the US added REIT clauses provide even lower rates on REIT dividends, while others negotiated later apply the full 30%. Austria sits in the middle - 15% for retail investors, 30% for significant holders.
@@ -218,13 +218,13 @@ The key conditions are:
 - You are not a US citizen or Green Card holder (US persons have separate rules under US domestic law)
 - You are the beneficial owner of the income (not an intermediary)
 
-An Austrian tax residency certificate (Ansֳ₪ssigkeitsbescheinigung), available from the Austrian tax authority (Finanzamt), is the documentation used to prove Austrian residency to a US broker if requested beyond the W-8BEN.
+An Austrian tax residency certificate (Ansײ³ג‚×ssigkeitsbescheinigung), available from the Austrian tax authority (Finanzamt), is the documentation used to prove Austrian residency to a US broker if requested beyond the W-8BEN.
 
 **What does not work:**
 
 An Austrian citizen who has moved to Germany and become a German tax resident cannot claim the US-Austria treaty. They are now a German tax resident and should use the US-Germany treaty instead. The treaty follows current residence, not the passport you carry.
 
-**A note for US citizens living in Austria:** the treaty's saving clause preserves the IRS's right to tax US citizens on worldwide income regardless of Austrian residency, and Austrian-domiciled funds can trigger [PFIC](/taxes/pfic-rules-international-investors/) reporting requirements that Austrian nationals do not face. If this applies to you, our [expat financial planning guide](/us-investing/expat-financial-planning-managing-investments-across-borders/) covers the broader cross-border picture.
+**A note for US citizens living in Austria:** the treaty's saving clause preserves the IRS's right to tax US citizens on worldwide income regardless of Austrian residency, and Austrian-domiciled funds can trigger [PFIC](/taxes/pfic-rules-international-investors/) reporting requirements that Austrian nationals do not face. If this applies to you, our [expat financial planning guide](/us-investing/expat-financial-planning-managing-investments-across-borders) covers the broader cross-border picture.
 
 ---
 
@@ -295,7 +295,7 @@ If you invest in US markets through Irish-domiciled UCITS ETFs (e.g., iShares Co
 According to PWC's Austria Tax Summary (2026), the treaty is currently under revision negotiations. Changes could affect withholding rates and provisions in future years. Consult a current source or tax advisor before making significant decisions based on the current treaty rates.
 
 **How does Austria's treaty compare to other major US treaties?**
-Austria's 15% portfolio dividend rate and 0% interest rate match the [US-UK treaty](/taxes/us-uk-tax-treaty-investors/) and are more favorable than the [US-Australia treaty](/taxes/us-australia-tax-treaty-investors/)'s 10% interest withholding. It is less favorable than the [US-China treaty](/taxes/us-china-tax-treaty-investors/), which offers a flat 10% dividend rate, but Austria's KESt credit system and Pensionskasse exemption give it structural advantages China's domestic tax treatment does not match. For a similar Central European comparison, the [US-Canada treaty](/taxes/us-canada-tax-treaty-investors-2026/) and its RRSP provisions take a different approach entirely.
+Austria's 15% portfolio dividend rate and 0% interest rate match the [US-UK treaty](/taxes/us-uk-tax-treaty-investors/) and are more favorable than the [US-Australia treaty](/taxes/us-australia-tax-treaty-investors/)'s 10% interest withholding. It is less favorable than the [US-China treaty](/taxes/us-china-tax-treaty-investors/), which offers a flat 10% dividend rate, but Austria's KESt credit system and Pensionskasse exemption give it structural advantages China's domestic tax treatment does not match. For a similar Central European comparison, the [US-Canada treaty]( /taxes/us-canada-tax-treaty-investors-2026 /) and its RRSP provisions take a different approach entirely.
 
 ---
 
@@ -316,6 +316,10 @@ The treaty ensures Austrian tax residents pay no more on US investment income th
 
 *This article is for informational and educational purposes only. It does not constitute tax or legal advice. Treaty provisions and Austrian domestic tax law are subject to change. Verify current rules with the Austrian Finanzamt or a qualified tax advisor before making investment decisions. The US-Austria treaty text is publicly available at irs.gov/pub/irs-trty/austria.pdf. Information verified as of May 2026.*
 
+### How the US-Austria Treaty Compares
+
+For a full side-by-side view across every US treaty country, our [tax map](/tax-map/) tool visualizes all the rates. Austria's 15% portfolio dividend rate matches most Western European treaties including the [US-UK](/taxes/us-uk-tax-treaty-investors/), [US-Germany](/taxes/us-germany-tax-treaty-investors/), and [US-Belgium](/taxes/us-belgium-tax-treaty-investors/) agreements. The 0% interest rate and 0% pension fund rate put it among the more favorable treaties in the network.
+
 ## Related Guides
 
 - [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
@@ -323,5 +327,5 @@ The treaty ensures Austrian tax residents pay no more on US investment income th
 - [PFIC Rules for International Investors](/taxes/pfic-rules-international-investors/)
 - [US-Germany Tax Treaty for Investors](/taxes/us-germany-tax-treaty-investors/)
 - [US-UK Tax Treaty for Investors](/taxes/us-uk-tax-treaty-investors/)
-- [US-Canada Tax Treaty for Investors](/taxes/us-canada-tax-treaty-investors-2026/)
+- [US-Canada Tax Treaty for Investors]( /taxes/us-canada-tax-treaty-investors-2026 /)
 - [Best Brokers for International Investors](/best-brokers/best-brokers-international-investors-2026/)

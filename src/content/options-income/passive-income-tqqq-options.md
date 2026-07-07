@@ -77,7 +77,7 @@ In a flat month, you keep $220 on $5,500 - a 4% return in 30 days. Do that twelv
 
 If TQQQ rallies 15% in a month, your shares get called at $59. You made $620 on the cycle but missed $825 of additional upside. The covered call capped your gain in exactly the scenario where TQQQ does what it was designed to do.
 
-If TQQQ falls 20% in a month - which has happened repeatedly given its leverage - your $5,500 position is now worth approximately $4,400. The $220 in premium reduces your loss from $1,100 to $880. You lost 16% of your position in a single month despite successfully "generating income." The premium collected was not income in any meaningful sense. It was partial compensation for a large capital loss.
+If TQQQ falls 20% in a month - which has happened repeatedly given its leverage - your $5,500 position is now worth approximately $4,400. The $220 in premium reduces your loss from $1,100 to $880. You lost 16% of your position in a single month despite successfully "generating income." The premium collected was not income in any meaningful sense. It was partial compensation for a large capital loss. Proper [risk management](/strategies/risk-management-leveraged-etf-investors-2026) is essential before committing capital to any TQQQ options strategy.
 
 A comprehensive Seeking Alpha analysis of long-run covered call strategies on TQQQ confirmed that the strategy does not produce better total returns than simply holding TQQQ - and is more expensive and complex to manage. The extreme downside moves overwhelm the premium collected; the extreme upside moves are capped by the short call.
 
@@ -188,7 +188,8 @@ If covered call income on standard quality equities or index ETFs generates 12-1
 
 - [Selling Covered Calls on TQQQ: Step-by-Step Guide](/options-income/selling-covered-calls-tqqq)
 - [The Wheel Strategy on TQQQ](/options-income/wheel-strategy-tqqq)
-- [TQQQ vs QQQ: Which Is Right for International Investors?](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026)
-- [Best Options Brokers for International Investors](/best-brokers/best-options-brokers-international-2026)
+- [Cash-Secured Puts in High IV Environments](/options-income/cash-secured-puts-high-iv)
+- [TQQQ Recovery Case Study](/case-study/from-minus-70-to-plus-492k-real-tqqq-recovery-case-study)
+- [Risk Management for Leveraged ETF Investors](/strategies/risk-management-leveraged-etf-investors-2026)
 - [TQQQ Tax Guide for International Investors](/taxes/tqqq-tax-international-investors)
-- [Interactive Brokers Review 2026](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors)
+- [Broker Fee Calculator](/broker-calculator)

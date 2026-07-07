@@ -96,7 +96,7 @@ All figures sourced from IRS Notice 2025-67 (November 13, 2025) and IRS Revenue 
 
 Marco does not have a 401(k). But the principle is identical: find your local tax-advantaged account, fill it before investing in taxable accounts, then deploy the rest.
 
-In the [UK](/us-investing/invest-us-stocks-uk), that is the ISA - up to £20,000 annually, completely tax-free on growth and withdrawals. In [Canada](/us-investing/invest-us-stocks-canada), the TFSA and RRSP. In [Australia](/us-investing/invest-us-stocks-australia), the superannuation system. In [Germany](/us-investing/invest-us-stocks-germany), the Sparerpauschbetrag exemption (€1,000 per year tax-free on investment income) is modest, but the broker-held depot offers some structural advantages. In the Netherlands, Marco uses Box 3 optimization - structuring holdings to minimize the deemed return calculation. Every jurisdiction is different. The question to ask is always the same: what is the most tax-sheltered place this money can live?
+In the [UK](/us-investing/invest-us-stocks-uk), that is the ISA - up to £20,000 annually, completely tax-free on growth and withdrawals. In [Canada](/us-investing/how-to-invest-in-us-stocks-from-canada), the TFSA and RRSP. In [Australia](/us-investing/how-to-invest-in-us-stocks-from-australia), the superannuation system. In [Germany](/us-investing/how-to-invest-in-us-stocks-from-germany), the Sparerpauschbetrag exemption (€1,000 per year tax-free on investment income) is modest, but the broker-held depot offers some structural advantages. In the Netherlands, Marco uses Box 3 optimization - structuring holdings to minimize the deemed return calculation. Every jurisdiction is different. The question to ask is always the same: what is the most tax-sheltered place this money can live?
 
 For self-employed investors outside the US in particular, this step often gets skipped because there is no payroll-based account forcing the behavior. Do not skip it.
 
@@ -151,7 +151,7 @@ On $100,000, the blended expense ratio of this portfolio costs roughly $40 per y
 
 ### For International Investors: Irish-Domiciled UCITS ETFs
 
-This is where the guide diverges most sharply. US-listed ETFs like VTI are subject to a 30% US [withholding tax](/taxes/taxes-us-dividends-foreign-investors) on dividends for non-US investors. Irish-domiciled UCITS ETFs solve this problem - they are structured to benefit from the US-Ireland tax treaty, which reduces US dividend withholding to 15%.
+This is where the guide diverges most sharply. US-listed ETFs like VTI are subject to a 30% US [withholding tax](/taxes/taxes-us-dividends-foreign-investors) on dividends for non-US investors (reduced to 15% with a valid [W-8BEN](/taxes/w8ben-form-non-us-investors)). Irish-domiciled UCITS ETFs solve this problem - they are structured to benefit from the US-Ireland tax treaty, which reduces US dividend withholding to 15%.
 
 | Fund | Ticker | Coverage | Expense Ratio |
 |---|---|---|---|

@@ -1,4 +1,4 @@
----
+﻿---
 slug: us-germany-tax-treaty-investors
 title: "US-Germany Tax Treaty for Investors: The Complete 2026 Guide"
 description: "US-Germany tax treaty for investors. Dividend withholding rates, W-8BEN filing, Abgeltungsteuer interaction, and UCITS vs US ETF tax treatment explained."
@@ -64,7 +64,7 @@ The 2006 Protocol introduced the current rate structure - including the eliminat
 
 To benefit from the treaty, you must be a resident of one or both contracting states as defined in Article 4 of the convention, and satisfy the Limitation on Benefits provisions in Article 28.
 
-**German tax residency** applies if you maintain a dwelling in Germany you intend to use (ֲ§ 8 AO), or if your continuous stay in Germany exceeds six months, triggering unlimited tax liability on worldwide income.
+**German tax residency** applies if you maintain a dwelling in Germany you intend to use (ײ²ֲ§ 8 AO), or if your continuous stay in Germany exceeds six months, triggering unlimited tax liability on worldwide income.
 
 **US tax residency** applies to US citizens (regardless of where they live), green card holders, and individuals who pass the substantial presence test.
 
@@ -114,7 +114,9 @@ These rates are standard across comparable US treaties. The [US-UK](/taxes/us-uk
 | Country | US Dividends (Portfolio) | US Dividends (Corporate 10%+) | Interest | Royalties |
 |---|---|---|---|---|
 | Germany | 15% | 5% | 0% | 0% |
-| United Kingdom | 15% | 5% | 0% | 0% |
+| [United Kingdom](/taxes/us-uk-tax-treaty-investors) | 15% | 5% | 0% | 0% |
+| [Belgium](/taxes/us-belgium-tax-treaty-investors) | 15% | 5% | 0% | 0% |
+| [Austria](/taxes/us-austria-tax-treaty-investors) | 15% | 5% | 0% | 0% |
 | Ireland | 15% | 5% | 0% | 0% |
 | Netherlands | 15% | 5% | 0% | 0% |
 | France | 15% | 5% | 0% | 0% |
@@ -195,7 +197,7 @@ For German residents receiving US-source income, **Form [W-8BEN](/taxes/w8ben-fo
 - If you hold US stocks through a German broker (*Depot*), the German broker often handles W-8BEN as part of account opening. Confirm this with your broker. If you're still comparing platforms, our [best brokers for international investors](/best-brokers/best-brokers-international-investors-2026/) roundup and guide to [opening a US brokerage account as a non-resident](/best-brokers/how-to-open-a-us-brokerage-account-as-a-non-resident-2026-guide/) cover the setup process.
 - On Line 9, specify **Article 10** of the US-Germany treaty and the 15% rate when claiming reduced withholding on dividends.
 
-On a ג‚¬100,000 portfolio yielding 2%, not having a valid W-8BEN on file costs you approximately ג‚¬300 per year in excess withholding. Over a decade, compounded, this is real money - and it takes minutes to prevent. For allocation frameworks at this portfolio size, see our [step-by-step $100K guide](/us-investing/how-to-invest-100k-step-by-step-guide/); if you're converting EUR to USD to fund the position, our [multi-currency accounts guide](/us-investing/multi-currency-investment-accounts/) covers ways to cut conversion costs.
+On a ׳’ג€ֲ¬100,000 portfolio yielding 2%, not having a valid W-8BEN on file costs you approximately ׳’ג€ֲ¬300 per year in excess withholding. Over a decade, compounded, this is real money - and it takes minutes to prevent. For allocation frameworks at this portfolio size, see our [step-by-step $100K guide](/us-investing/how-to-invest-100k-step-by-step-guide/); if you're converting EUR to USD to fund the position, our [multi-currency accounts guide](/us-investing/multi-currency-investment-accounts/) covers ways to cut conversion costs.
 
 ---
 
@@ -205,7 +207,7 @@ Understanding the treaty in isolation is not enough. Here is what German domesti
 
 **Abgeltungsteuer:** Germany's flat capital gains tax of 25%, plus 5.5% solidarity surcharge, equals 26.375%. Church tax members add 8-9%, raising the rate to approximately 27.99-28.49%. This applies to dividends, interest, realized capital gains from securities, and ETF distributions.
 
-**Sparerpauschbetrag (annual tax-free allowance):** ג‚¬1,000 for single investors, ג‚¬2,000 for married couples. Submit a *Freistellungsauftrag* to your German broker to apply it - it is not automatic. You can split the allowance across multiple German brokers, but the total cannot exceed ג‚¬1,000.
+**Sparerpauschbetrag (annual tax-free allowance):** ׳’ג€ֲ¬1,000 for single investors, ׳’ג€ֲ¬2,000 for married couples. Submit a *Freistellungsauftrag* to your German broker to apply it - it is not automatic. You can split the allowance across multiple German brokers, but the total cannot exceed ׳’ג€ֲ¬1,000.
 
 **Teilfreistellung (equity ETF partial exemption):** 30% of gains and distributions from equity ETFs are exempt from German tax under the 2018 Investment Tax Reform. This reduces the effective rate on equity ETF gains from 26.375% to approximately 18.46%.
 
@@ -269,7 +271,7 @@ FBAR and Form 8938 are independent requirements with different thresholds. You m
 
 Article 28 is the treaty's anti-abuse provision, designed to prevent treaty shopping. For individual investors who are genuine German or US tax residents, it creates no complications - you qualify automatically.
 
-However, in December 2025, the German Federal Central Tax Office (Bundeszentralamt fֳ¼r Steuern, BZSt) took the position that US-owned German entities classified as *disregarded entities* (partnerships treated as transparent for US tax purposes) are no longer eligible for reduced withholding under the treaty. The basis is Article 1, Paragraph 7 of the treaty, which requires that a payment qualify as income at the level of the US recipient.
+However, in December 2025, the German Federal Central Tax Office (Bundeszentralamt fײ³ֲ¼r Steuern, BZSt) took the position that US-owned German entities classified as *disregarded entities* (partnerships treated as transparent for US tax purposes) are no longer eligible for reduced withholding under the treaty. The basis is Article 1, Paragraph 7 of the treaty, which requires that a payment qualify as income at the level of the US recipient.
 
 This position is primarily relevant to corporate structures - US companies holding German subsidiaries structured as partnerships. Individual investors are not affected. But the development is a signal that German tax authorities are scrutinizing the boundary conditions of treaty eligibility more closely than in prior years. Existing exemption certificates are not retroactively affected, but corporate investors should review their structures and seek specialist advice.
 
@@ -285,7 +287,7 @@ This position is primarily relevant to corporate structures - US companies holdi
 
 **Assuming the treaty eliminates US filing obligations for US citizens.** The saving clause ensures this never happens.
 
-**Overlooking the Sparerpauschbetrag.** The ג‚¬1,000 annual tax-free allowance is not applied automatically. You must submit a *Freistellungsauftrag* to your German broker. Splitting it across multiple brokers is allowed, but the total cannot exceed ג‚¬1,000.
+**Overlooking the Sparerpauschbetrag.** The ׳’ג€ֲ¬1,000 annual tax-free allowance is not applied automatically. You must submit a *Freistellungsauftrag* to your German broker. Splitting it across multiple brokers is allowed, but the total cannot exceed ׳’ג€ֲ¬1,000.
 
 **Buying German-domiciled ETFs as a US citizen without understanding PFIC rules.** This is the single most expensive mistake US citizens in Germany make. The default PFIC tax treatment can turn profitable long-term investments into unexpectedly large tax liabilities.
 
@@ -298,8 +300,8 @@ This position is primarily relevant to corporate structures - US companies holdi
 **German resident investing in US markets:**
 - [ ] File W-8BEN with your US or German broker citing Article 10 (15% dividend rate)
 - [ ] Renew W-8BEN before December 31 of the third year from signing
-- [ ] Submit *Freistellungsauftrag* to your German broker for the ג‚¬1,000 annual allowance
-- [ ] Report US dividends in your *Steuererklֳ₪rung* (Anlage KAP) and claim the US withholding credit
+- [ ] Submit *Freistellungsauftrag* to your German broker for the ׳’ג€ֲ¬1,000 annual allowance
+- [ ] Report US dividends in your *Steuererklײ³ג‚×rung* (Anlage KAP) and claim the US withholding credit
 - [ ] Confirm REIT distribution categorization with your broker if holding US REITs
 
 **US citizen living in Germany:**
@@ -350,4 +352,4 @@ The area to watch in 2026 is the BZSt's evolving position on disregarded entitie
 - [PFIC Rules for International Investors](/taxes/pfic-rules-international-investors/)
 - [TQQQ Tax Guide for International Investors](/taxes/tqqq-tax-international-investors/)
 - [US-UK Tax Treaty for Investors](/taxes/us-uk-tax-treaty-investors/)
-- [US-Canada Tax Treaty for Investors](/taxes/us-canada-tax-treaty-investors-2026/)
+- [US-Canada Tax Treaty for Investors]( /taxes/us-canada-tax-treaty-investors-2026 /)

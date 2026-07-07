@@ -37,22 +37,22 @@ best-broker-israeli-investors-us-markets.md:219: /taxes/pfic-rules-international
 best-broker-israeli-investors-us-markets.md:220: /taxes/tqqq-tax-international-investors --> missing local file C:\Users\tzisi\Dev\getglobalyields\taxes\tqqq-tax-international-investors
 best-broker-israeli-investors-us-markets.md:221: /taxes/us-germany-tax-treaty-investors --> missing local file C:\Users\tzisi\Dev\getglobalyields\taxes\us-germany-tax-treaty-investors
 best-broker-israeli-investors-us-markets.md:222: /taxes/us-uk-tax-treaty-investors --> missing local file C:\Users\tzisi\Dev\getglobalyields\taxes\us-uk-tax-treaty-investors
-best-broker-israeli-investors-us-markets.md:223: /taxes/us-canada-tax-treaty-investors-2026 --> missing local file C:\Users\tzisi\Dev\getglobalyields\taxes\us-canada-tax-treaty-investors-2026
+best-broker-israeli-investors-us-markets.md:223:  /taxes/us-canada-tax-treaty-investors-2026  --> missing local file C:\Users\tzisi\Dev\getglobalyields\taxes\us-canada-tax-treaty-investors-2026
 pfic-rules-international-investors.md:68: /taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026 --> missing local file C:\Users\tzisi\Dev\getglobalyields\taxes\us-israel-tax-treaty-explained-capital-gains-dividends-2026
 pfic-rules-international-investors.md:68: /us-investing/invest-us-stocks-australia --> missing local file C:\Users\tzisi\Dev\getglobalyields\us-investing\invest-us-stocks-australia
 pfic-rules-international-investors.md:68: /us-investing/invest-us-stocks-canada --> missing local file C:\Users\tzisi\Dev\getglobalyields\us-investing\invest-us-stocks-canada
 pfic-rules-international-investors.md:102: /best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors --> missing local file C:\Users\tzisi\Dev\getglobalyields\best-brokers\interactive-brokers-review-2026-the-best-broker-for-international-investors
 pfic-rules-international-investors.md:110: /taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026 --> missing local file C:\Users\tzisi\Dev\getglobalyields\taxes\us-israel-tax-treaty-explained-capital-gains-dividends-2026
 pfic-rules-international-investors.md:110: /taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026 --> missing local file C:\Users\tzisi\Dev\getglobalyields\taxes\us-israel-tax-treaty-explained-capital-gains-dividends-2026
-pfic-rules-international-investors.md:114: /taxes/us-canada-tax-treaty-investors-2026 --> missing local file C:\Users\tzisi\Dev\getglobalyields\taxes\us-canada-tax-treaty-investors-2026
-pfic-rules-international-investors.md:114: /taxes/us-canada-tax-treaty-investors-2026 --> missing local file C:\Users\tzisi\Dev\getglobalyields\taxes\us-canada-tax-treaty-investors-2026
-pfic-rules-international-investors.md:114: /taxes/us-canada-tax-treaty-investors-2026 --> missing local file C:\Users\tzisi\Dev\getglobalyields\taxes\us-canada-tax-treaty-investors-2026
+pfic-rules-international-investors.md:114:  /taxes/us-canada-tax-treaty-investors-2026  --> missing local file C:\Users\tzisi\Dev\getglobalyields\taxes\us-canada-tax-treaty-investors-2026
+pfic-rules-international-investors.md:114:  /taxes/us-canada-tax-treaty-investors-2026  --> missing local file C:\Users\tzisi\Dev\getglobalyields\taxes\us-canada-tax-treaty-investors-2026
+pfic-rules-international-investors.md:114:  /taxes/us-canada-tax-treaty-investors-2026  --> missing local file C:\Users\tzisi\Dev\getglobalyields\taxes\us-canada-tax-treaty-investors-2026
 pfic-rules-international-investors.md:118: /taxes/us-australia-tax-treaty-investors --> missing local file C:\Users\tzisi\Dev\getglobalyields\taxes\us-australia-tax-treaty-investors
 pfic-rules-international-investors.md:118: /taxes/us-australia-tax-treaty-investors --> missing local file C:\Users\tzisi\Dev\getglobalyields\taxes\us-australia-tax-treaty-investors
 pfic-rules-international-investors.md:122: /best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors --> missing local file C:\Users\tzisi\Dev\getglobalyields\best-brokers\interactive-brokers-review-2026-the-best-broker-for-international-investors
 pfic-rules-international-investors.md:132: /best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors --> missing local file C:\Users\tzisi\Dev\getglobalyields\best-brokers\interactive-brokers-review-2026-the-best-broker-for-international-investors
 pfic-rules-international-investors.md:132: /best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors --> missing local file C:\Users\tzisi\Dev\getglobalyields\best-brokers\interactive-brokers-review-2026-the-best-broker-for-international-investors
-pfic-rules-international-investors.md:187: /taxes/us-canada-tax-treaty-investors-2026 --> missing local file C:\Users\tzisi\Dev\getglobalyields\taxes\us-canada-tax-treaty-investors-2026
+pfic-rules-international-investors.md:187:  /taxes/us-canada-tax-treaty-investors-2026  --> missing local file C:\Users\tzisi\Dev\getglobalyields\taxes\us-canada-tax-treaty-investors-2026
 pfic-rules-international-investors.md:187: /taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026 --> missing local file C:\Users\tzisi\Dev\getglobalyields\taxes\us-israel-tax-treaty-explained-capital-gains-dividends-2026
 pfic-rules-international-investors.md:205: /tax-map/ --> missing local file C:\Users\tzisi\Dev\getglobalyields\tax-map
 pfic-rules-international-investors.md:206: /broker-finder/ --> missing local file C:\Users\tzisi\Dev\getglobalyields\broker-finder
@@ -70,7 +70,7 @@ pfic-rules-international-investors.md:241: /taxes/best-broker-israeli-investors-
 pfic-rules-international-investors.md:242: /taxes/tqqq-tax-international-investors --> missing local file C:\Users\tzisi\Dev\getglobalyields\taxes\tqqq-tax-international-investors
 pfic-rules-international-investors.md:243: /taxes/us-germany-tax-treaty-investors --> missing local file C:\Users\tzisi\Dev\getglobalyields\taxes\us-germany-tax-treaty-investors
 pfic-rules-international-investors.md:244: /taxes/us-uk-tax-treaty-investors --> missing local file C:\Users\tzisi\Dev\getglobalyields\taxes\us-uk-tax-treaty-investors
-pfic-rules-international-investors.md:245: /taxes/us-canada-tax-treaty-investors-2026 --> missing local file C:\Users\tzisi\Dev\getglobalyields\taxes\us-canada-tax-treaty-investors-2026
+pfic-rules-international-investors.md:245:  /taxes/us-canada-tax-treaty-investors-2026  --> missing local file C:\Users\tzisi\Dev\getglobalyields\taxes\us-canada-tax-treaty-investors-2026
 taxes-us-dividends-foreign-investors.md:61: /us-investing/invest-us-stocks-germany --> missing local file C:\Users\tzisi\Dev\getglobalyields\us-investing\invest-us-stocks-germany
 taxes-us-dividends-foreign-investors.md:61: /us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026 --> missing local file C:\Users\tzisi\Dev\getglobalyields\us-investing\how-to-invest-in-us-stocks-from-israel-step-by-step-2026
 taxes-us-dividends-foreign-investors.md:61: /us-investing/invest-us-stocks-canada --> missing local file C:\Users\tzisi\Dev\getglobalyields\us-investing\invest-us-stocks-canada
@@ -81,7 +81,7 @@ taxes-us-dividends-foreign-investors.md:145: /taxes/us-israel-tax-treaty-explain
 taxes-us-dividends-foreign-investors.md:145: /taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026 --> missing local file C:\Users\tzisi\Dev\getglobalyields\taxes\us-israel-tax-treaty-explained-capital-gains-dividends-2026
 taxes-us-dividends-foreign-investors.md:145: /taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026 --> missing local file C:\Users\tzisi\Dev\getglobalyields\taxes\us-israel-tax-treaty-explained-capital-gains-dividends-2026
 taxes-us-dividends-foreign-investors.md:145: /taxes/us-germany-tax-treaty-investors --> missing local file C:\Users\tzisi\Dev\getglobalyields\taxes\us-germany-tax-treaty-investors
-taxes-us-dividends-foreign-investors.md:145: /taxes/us-canada-tax-treaty-investors-2026 --> missing local file C:\Users\tzisi\Dev\getglobalyields\taxes\us-canada-tax-treaty-investors-2026
+taxes-us-dividends-foreign-investors.md:145:  /taxes/us-canada-tax-treaty-investors-2026  --> missing local file C:\Users\tzisi\Dev\getglobalyields\taxes\us-canada-tax-treaty-investors-2026
 taxes-us-dividends-foreign-investors.md:145: /taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026 --> missing local file C:\Users\tzisi\Dev\getglobalyields\taxes\us-israel-tax-treaty-explained-capital-gains-dividends-2026
 taxes-us-dividends-foreign-investors.md:156: /taxes/w8ben-form-non-us-investors --> missing local file C:\Users\tzisi\Dev\getglobalyields\taxes\w8ben-form-non-us-investors
 taxes-us-dividends-foreign-investors.md:158: /taxes/w8ben-form-non-us-investors --> missing local file C:\Users\tzisi\Dev\getglobalyields\taxes\w8ben-form-non-us-investors
@@ -104,7 +104,7 @@ taxes-us-dividends-foreign-investors.md:350: /taxes/pfic-rules-international-inv
 taxes-us-dividends-foreign-investors.md:351: /taxes/tqqq-tax-international-investors --> missing local file C:\Users\tzisi\Dev\getglobalyields\taxes\tqqq-tax-international-investors
 taxes-us-dividends-foreign-investors.md:352: /taxes/us-germany-tax-treaty-investors --> missing local file C:\Users\tzisi\Dev\getglobalyields\taxes\us-germany-tax-treaty-investors
 taxes-us-dividends-foreign-investors.md:353: /taxes/us-uk-tax-treaty-investors --> missing local file C:\Users\tzisi\Dev\getglobalyields\taxes\us-uk-tax-treaty-investors
-taxes-us-dividends-foreign-investors.md:354: /taxes/us-canada-tax-treaty-investors-2026 --> missing local file C:\Users\tzisi\Dev\getglobalyields\taxes\us-canada-tax-treaty-investors-2026
+taxes-us-dividends-foreign-investors.md:354:  /taxes/us-canada-tax-treaty-investors-2026  --> missing local file C:\Users\tzisi\Dev\getglobalyields\taxes\us-canada-tax-treaty-investors-2026
 tqqq-tax-international-investors.md:66: /taxes/taxes-us-dividends-foreign-investors --> missing local file C:\Users\tzisi\Dev\getglobalyields\taxes\taxes-us-dividends-foreign-investors
 tqqq-tax-international-investors.md:82: /taxes/taxes-us-dividends-foreign-investors --> missing local file C:\Users\tzisi\Dev\getglobalyields\taxes\taxes-us-dividends-foreign-investors
 tqqq-tax-international-investors.md:84: /taxes/w8ben-form-non-us-investors --> missing local file C:\Users\tzisi\Dev\getglobalyields\taxes\w8ben-form-non-us-investors
@@ -129,7 +129,7 @@ tqqq-tax-international-investors.md:241: /taxes/best-broker-israeli-investors-us
 tqqq-tax-international-investors.md:242: /taxes/pfic-rules-international-investors --> missing local file C:\Users\tzisi\Dev\getglobalyields\taxes\pfic-rules-international-investors
 tqqq-tax-international-investors.md:243: /taxes/us-germany-tax-treaty-investors --> missing local file C:\Users\tzisi\Dev\getglobalyields\taxes\us-germany-tax-treaty-investors
 tqqq-tax-international-investors.md:244: /taxes/us-uk-tax-treaty-investors --> missing local file C:\Users\tzisi\Dev\getglobalyields\taxes\us-uk-tax-treaty-investors
-tqqq-tax-international-investors.md:245: /taxes/us-canada-tax-treaty-investors-2026 --> missing local file C:\Users\tzisi\Dev\getglobalyields\taxes\us-canada-tax-treaty-investors-2026
+tqqq-tax-international-investors.md:245:  /taxes/us-canada-tax-treaty-investors-2026  --> missing local file C:\Users\tzisi\Dev\getglobalyields\taxes\us-canada-tax-treaty-investors-2026
 us-australia-tax-treaty-investors.md:43: /best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors --> missing local file C:\Users\tzisi\Dev\getglobalyields\best-brokers\interactive-brokers-review-2026-the-best-broker-for-international-investors
 us-australia-tax-treaty-investors.md:50: /taxes/w8ben-form-non-us-investors --> missing local file C:\Users\tzisi\Dev\getglobalyields\taxes\w8ben-form-non-us-investors
 us-australia-tax-treaty-investors.md:124: /taxes/us-uk-tax-treaty-investors --> missing local file C:\Users\tzisi\Dev\getglobalyields\taxes\us-uk-tax-treaty-investors
@@ -376,7 +376,7 @@ us-germany-tax-treaty-investors.md:349: /taxes/best-broker-israeli-investors-us-
 us-germany-tax-treaty-investors.md:350: /taxes/pfic-rules-international-investors --> missing local file C:\Users\tzisi\Dev\getglobalyields\taxes\pfic-rules-international-investors
 us-germany-tax-treaty-investors.md:351: /taxes/tqqq-tax-international-investors --> missing local file C:\Users\tzisi\Dev\getglobalyields\taxes\tqqq-tax-international-investors
 us-germany-tax-treaty-investors.md:352: /taxes/us-uk-tax-treaty-investors --> missing local file C:\Users\tzisi\Dev\getglobalyields\taxes\us-uk-tax-treaty-investors
-us-germany-tax-treaty-investors.md:353: /taxes/us-canada-tax-treaty-investors-2026 --> missing local file C:\Users\tzisi\Dev\getglobalyields\taxes\us-canada-tax-treaty-investors-2026
+us-germany-tax-treaty-investors.md:353:  /taxes/us-canada-tax-treaty-investors-2026  --> missing local file C:\Users\tzisi\Dev\getglobalyields\taxes\us-canada-tax-treaty-investors-2026
 us-israel-tax-treaty-explained-capital-gains-dividends-2026.md:45: /taxes/w8ben-form-non-us-investors --> missing local file C:\Users\tzisi\Dev\getglobalyields\taxes\w8ben-form-non-us-investors
 us-israel-tax-treaty-explained-capital-gains-dividends-2026.md:87: /taxes/w8ben-form-non-us-investors --> missing local file C:\Users\tzisi\Dev\getglobalyields\taxes\w8ben-form-non-us-investors
 us-israel-tax-treaty-explained-capital-gains-dividends-2026.md:89: /taxes/w8ben-form-non-us-investors --> missing local file C:\Users\tzisi\Dev\getglobalyields\taxes\w8ben-form-non-us-investors
@@ -440,7 +440,7 @@ us-uk-tax-treaty-investors.md:350: /taxes/best-broker-israeli-investors-us-marke
 us-uk-tax-treaty-investors.md:351: /taxes/pfic-rules-international-investors --> missing local file C:\Users\tzisi\Dev\getglobalyields\taxes\pfic-rules-international-investors
 us-uk-tax-treaty-investors.md:352: /taxes/tqqq-tax-international-investors --> missing local file C:\Users\tzisi\Dev\getglobalyields\taxes\tqqq-tax-international-investors
 us-uk-tax-treaty-investors.md:353: /taxes/us-germany-tax-treaty-investors --> missing local file C:\Users\tzisi\Dev\getglobalyields\taxes\us-germany-tax-treaty-investors
-us-uk-tax-treaty-investors.md:354: /taxes/us-canada-tax-treaty-investors-2026 --> missing local file C:\Users\tzisi\Dev\getglobalyields\taxes\us-canada-tax-treaty-investors-2026
+us-uk-tax-treaty-investors.md:354:  /taxes/us-canada-tax-treaty-investors-2026  --> missing local file C:\Users\tzisi\Dev\getglobalyields\taxes\us-canada-tax-treaty-investors-2026
 w8ben-form-non-us-investors.md:58: /us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026 --> missing local file C:\Users\tzisi\Dev\getglobalyields\us-investing\how-to-invest-in-us-stocks-from-israel-step-by-step-2026
 w8ben-form-non-us-investors.md:72: /taxes/taxes-us-dividends-foreign-investors --> missing local file C:\Users\tzisi\Dev\getglobalyields\taxes\taxes-us-dividends-foreign-investors
 w8ben-form-non-us-investors.md:95: /us-investing/invest-us-stocks-uk --> missing local file C:\Users\tzisi\Dev\getglobalyields\us-investing\invest-us-stocks-uk
@@ -471,6 +471,6 @@ w8ben-form-non-us-investors.md:290: /taxes/pfic-rules-international-investors --
 w8ben-form-non-us-investors.md:291: /taxes/tqqq-tax-international-investors --> missing local file C:\Users\tzisi\Dev\getglobalyields\taxes\tqqq-tax-international-investors
 w8ben-form-non-us-investors.md:292: /taxes/us-germany-tax-treaty-investors --> missing local file C:\Users\tzisi\Dev\getglobalyields\taxes\us-germany-tax-treaty-investors
 w8ben-form-non-us-investors.md:293: /taxes/us-uk-tax-treaty-investors --> missing local file C:\Users\tzisi\Dev\getglobalyields\taxes\us-uk-tax-treaty-investors
-w8ben-form-non-us-investors.md:294: /taxes/us-canada-tax-treaty-investors-2026 --> missing local file C:\Users\tzisi\Dev\getglobalyields\taxes\us-canada-tax-treaty-investors-2026
+w8ben-form-non-us-investors.md:294:  /taxes/us-canada-tax-treaty-investors-2026  --> missing local file C:\Users\tzisi\Dev\getglobalyields\taxes\us-canada-tax-treaty-investors-2026
 
 TOTAL 474 broken links

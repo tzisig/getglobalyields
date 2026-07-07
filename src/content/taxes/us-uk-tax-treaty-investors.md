@@ -103,7 +103,7 @@ The verified rates from the treaty text and HMRC's Double Taxation Relief Manual
 
 **Source:** US-UK Income Tax Convention (July 24, 2001), Protocols (2002, 2003); HMRC DT19852; Congress.gov Treaty Document 107-19.
 
-These rates are standard across comparable US treaties. The US-[Germany](/us-investing/invest-us-stocks-germany), US-Ireland, and US-Netherlands treaties all deliver the same 15%/5%/0% dividend structure and 0% on interest and royalties. The US-UK treaty is not more favorable than its European peers at the headline level - its distinction lies in the pension provisions and in how it interacts with UK-specific wrappers.
+These rates are standard across comparable US treaties. The US-[Germany](/us-investing/how-to-invest-in-us-stocks-from-germany), US-Ireland, and US-Netherlands treaties all deliver the same 15%/5%/0% dividend structure and 0% on interest and royalties. The US-UK treaty is not more favorable than its European peers at the headline level - its distinction lies in the pension provisions and in how it interacts with UK-specific wrappers.
 
 ### The 0% Dividend Rate for Corporates: Narrower Than It Sounds
 
@@ -266,6 +266,8 @@ For high-net-worth investors arriving in the UK: US dividends, gains from sellin
 |---|---|---|---|---|
 | United Kingdom | 15% | 0% | Residence only | Yes - 0% in qualifying pension |
 | Germany | 15% | 0% | Residence only | Yes - pension exemption exists |
+| [Belgium](/taxes/us-belgium-tax-treaty-investors) | 15% | 0% | Residence only | Yes |
+| [Austria](/taxes/us-austria-tax-treaty-investors) | 15% | 0% | Residence only | Yes |
 | Ireland | 15% | 0% | Residence only | Yes |
 | Netherlands | 15% | 0% | Residence only | Yes |
 | Japan | **10%** | 0% | Residence only | Yes |
@@ -356,4 +358,4 @@ The March 2025 HMRC ruling on US pension lump sums is the most significant treat
 - [PFIC Rules for International Investors](/taxes/pfic-rules-international-investors)
 - [TQQQ Tax Guide for International Investors](/taxes/tqqq-tax-international-investors)
 - [US-Germany Tax Treaty for Investors](/taxes/us-germany-tax-treaty-investors)
-- [US-Canada Tax Treaty for Investors](/taxes/us-canada-tax-treaty-investors-2026)
+- [US-Canada Tax Treaty for Investors]( /taxes/us-canada-tax-treaty-investors-2026 /)

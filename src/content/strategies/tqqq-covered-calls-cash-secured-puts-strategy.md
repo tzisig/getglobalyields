@@ -319,13 +319,13 @@ Option premium income from expired or closed covered calls and cash-secured puts
 
 The three-line treatment in most guides is inadequate for a strategy that generates regular income. Here is what actually varies by jurisdiction.
 
-**[Germany](/us-investing/invest-us-stocks-germany):** Premium income from covered calls and cash-secured puts falls under Abgeltungsteuer at 26.375% effective rate. The Teilfreistellung (30% partial exemption) that applies to equity ETF gains does not apply to options premium - options income is taxed in full at 26.375%. Active options trading may be classified as trading income (Gewerbebetrieb) rather than capital income if frequency and systematic nature suggest a commercial activity - this triggers higher marginal rates and social contributions. German options traders running monthly programs should confirm their classification with a Steuerberater.
+**[Germany](/us-investing/how-to-invest-in-us-stocks-from-germany):** Premium income from covered calls and cash-secured puts falls under Abgeltungsteuer at 26.375% effective rate. The Teilfreistellung (30% partial exemption) that applies to equity ETF gains does not apply to options premium - options income is taxed in full at 26.375%. Active options trading may be classified as trading income (Gewerbebetrieb) rather than capital income if frequency and systematic nature suggest a commercial activity - this triggers higher marginal rates and social contributions. German options traders running monthly programs should confirm their classification with a Steuerberater.
 
 **[UK](/us-investing/invest-us-stocks-uk):** Options premium is taxed under Capital Gains Tax rules. The annual CGT exemption (£3,000 for 2026/27) can shelter modest premium income. Above the exemption, standard CGT rates apply: 18% for basic rate taxpayers, 24% for higher rate taxpayers on investment gains. High-frequency options activity may be reclassified as trading income by HMRC and taxed at income tax rates.
 
-**[Australia](/us-investing/invest-us-stocks-australia):** Options premium is generally treated as assessable income in the year received, not capital gain, unless specifically meeting CGT asset criteria. This means it is taxed at marginal income tax rates (up to 47% including Medicare levy) rather than the discounted CGT rate available on assets held over 12 months. The 50% CGT discount does not apply to options premium.
+**[Australia](/us-investing/how-to-invest-in-us-stocks-from-australia):** Options premium is generally treated as assessable income in the year received, not capital gain, unless specifically meeting CGT asset criteria. This means it is taxed at marginal income tax rates (up to 47% including Medicare levy) rather than the discounted CGT rate available on assets held over 12 months. The 50% CGT discount does not apply to options premium.
 
-**[Canada](/us-investing/invest-us-stocks-canada):** Options premiums are generally treated as income from a business rather than capital gains when the strategy is systematic and frequent - as a monthly Wheel Strategy would be. This means full marginal tax rates apply (up to 53.5% in high-tax provinces) rather than the 50% capital gains inclusion rate.
+**[Canada](/us-investing/how-to-invest-in-us-stocks-from-canada):** Options premiums are generally treated as income from a business rather than capital gains when the strategy is systematic and frequent - as a monthly Wheel Strategy would be. This means full marginal tax rates apply (up to 53.5% in high-tax provinces) rather than the 50% capital gains inclusion rate.
 
 **The universal principle:** Before running a systematic monthly options strategy on TQQQ, confirm with a qualified tax advisor in your jurisdiction how premium income will be classified. The difference between capital gains treatment and income treatment can be 10-20 percentage points of effective tax rate - a meaningful drag on net returns.
 
@@ -368,7 +368,22 @@ The strategy worked. Not because he picked perfect strikes. Because he understoo
 
 ---
 
-*This article is for educational purposes only and does not constitute financial, investment, or tax advice. Options trading involves significant risk of loss and is not suitable for all investors. TQQQ price data from Yahoo Finance (May 2026). IV data from Option Samurai (April 2026). Premiums calculated using Black-Scholes model with S=$75, IV=60%, r=4.5%, 30 DTE, validated against published options chain data. Tax treatment based on IRS Publication 550 (US), HMRC guidance (UK), ATO guidance (Australia), and CRA guidance (Canada), current as of May 2026. Consult a qualified financial advisor and tax professional before implementing any options strategy.*
+*This article is for educational purposes only and does not constitute financial, investment, or tax advice. Options trading involves significant risk of loss and is not suitable for all investors. TQQQ price data from Yahoo Finance (May 2026). IV data from Option Samurai (April 2026). Premiums calculated using Black-Scholes model with S=$75, IV=60%, r=4.5%, 30 DTE, validated against published options chain data. Tax treatment based on IRS Publication 550 (US), HMRC guidance (UK), ATO guidance (Australia), and CRA guidance (Canada), current as of May 2026. Consult a qualified financial advisor and tax professional before implementing any options strategy.
+
+---
+
+## Related Articles
+
+- [Selling Covered Calls on TQQQ: Step-by-Step Guide](/options-income/selling-covered-calls-tqqq)
+- [The Wheel Strategy on TQQQ](/options-income/wheel-strategy-tqqq)
+- [Cash-Secured Puts in High IV Environments](/options-income/cash-secured-puts-high-iv)
+- [TQQQ Implied Volatility Strategies](/options-income/tqqq-implied-volatility-strategies)
+- [TQQQ Options Chain Analysis](/options-income/tqqq-options-chain-analysis)
+- [Passive Income from TQQQ Options](/options-income/passive-income-tqqq-options)
+- [TQQQ Recovery Case Study](/case-study/from-minus-70-to-plus-492k-real-tqqq-recovery-case-study)
+- [Risk Management for Leveraged ETF Investors](/strategies/risk-management-leveraged-etf-investors-2026)
+- [TQQQ Tax Guide for International Investors](/taxes/tqqq-tax-international-investors)
+- [Broker Fee Calculator](/broker-calculator)*
 
 ---
 
@@ -383,7 +398,7 @@ The strategy worked. Not because he picked perfect strikes. Because he understoo
 ## Frequently Asked Questions
 
 **What is the difference between selling covered calls and cash-secured puts on TQQQ?**
-A covered call is sold against shares you already own - you collect premium in exchange for capping your upside to the strike price. A cash-secured put is sold against cash you hold - you collect premium in exchange for agreeing to buy 100 shares at the strike price if TQQQ falls below it. Both generate income from TQQQ's elevated implied volatility. The Wheel Strategy connects both into a continuous cycle: sell puts, accept assignment, sell covered calls, get called away, sell puts again.
+A covered call is sold against shares you already own - you collect premium in exchange for capping your upside to the strike price. A cash-secured put is sold against cash you hold - you collect premium in exchange for agreeing to buy 100 shares at the strike price if TQQQ falls below it. Both generate income from TQQQ's elevated implied volatility. The Wheel Strategy connects both into a continuous cycle: sell puts, accept assignment, sell covered calls, get called away, sell puts again. See the [Wheel Strategy guide](/options-income/wheel-strategy-tqqq) for a full walkthrough.
 
 **Why is TQQQ's implied volatility so much higher than QQQ's?**
 Because TQQQ delivers 3x the daily return of QQQ, its realized volatility is approximately three times QQQ's. Options markets price implied volatility to reflect expected realized volatility. TQQQ's 30-day IV runs 55-60% versus 18-22% for QQQ - roughly a 3x ratio. This is why covered calls and puts on TQQQ generate approximately three times the premium of equivalent options on QQQ. The higher premium is compensation for higher risk, not a market inefficiency.

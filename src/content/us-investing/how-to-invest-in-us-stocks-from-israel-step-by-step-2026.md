@@ -63,6 +63,8 @@ The first decision is which US broker to use. As an Israeli investor, your optio
 
 **[Firstrade](/best-brokers/firstrade-review-2026):** A good starting point for beginners. Zero commissions across the board and a simpler interface.
 
+Use our [Broker Finder](/broker-finder/) to compare brokers that accept Israeli clients.
+
 For most Israeli investors, Interactive Brokers is the default recommendation due to its ILS-to-USD conversion rates, which are significantly better than any Israeli bank.
 
 ## **Step 2: Gather Your Documents**
@@ -191,7 +193,9 @@ Tip: Call your bank before initiating your first international wire to confirm t
 -   Open IBKR account online (20 to 40 minutes)
 -   Upload passport and proof of address - Complete W-8BEN form (enter Teudat Zehut number, select Israel, 25% rate)
 -   Wait for account approval (1 to 3 business days)
--   Initiate wire transfer from Israeli bank to IBKR - Convert ILS to USD inside IBKR at interbank rate - Download IBKR Mobile app - Place first trade using a Limit Order - Save IBKR annual statement and 1042-S for Israeli tax return
+-   Initiate wire transfer from Israeli bank to IBKR - Convert ILS to USD inside IBKR at interbank rate - Download IBKR Mobile app
+- Set up a [multi-currency account](/us-investing/multi-currency-investment-accounts) to minimize FX costs
+- Place first trade using a Limit Order - Save IBKR annual statement and 1042-S for Israeli tax return
 
 **Financial Disclaimer**
 

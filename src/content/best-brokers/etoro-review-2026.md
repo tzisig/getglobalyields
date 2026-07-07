@@ -53,7 +53,7 @@ rating: 3.8
 
 Most eToro reviews talk about how great the copy trading feature is. Fine. But they skip the part that matters most if you live outside the US: what does it actually cost you to use this platform?
 
-This review is written for investors in [Israel](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026), [Australia](/us-investing/invest-us-stocks-australia), [Canada](/us-investing/invest-us-stocks-canada), Europe, and other countries who want to invest in US stocks and ETFs. We'll cover the real numbers - conversion fees, withdrawal fees, and what you're actually paying even when eToro says "zero commission."
+This review is written for investors in [Israel](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026), [Australia](/us-investing/how-to-invest-in-us-stocks-from-australia), [Canada](/us-investing/how-to-invest-in-us-stocks-from-canada), Europe, and other countries who want to invest in US stocks and ETFs. We'll cover the real numbers - conversion fees, withdrawal fees, and what you're actually paying even when eToro says "zero commission."
 
 ---
 
@@ -252,7 +252,7 @@ eToro is fully available in Israel and is one of the more popular platforms amon
 |---|---|---|---|
 | Israel | 30% | 15% | US-Israel tax treaty |
 | UK | 30% | 15% | US-[UK tax](/taxes/us-uk-tax-treaty-investors) treaty |
-| [Germany](/us-investing/invest-us-stocks-germany) | 30% | 15% | US-[Germany tax](/taxes/us-germany-tax-treaty-investors) treaty |
+| [Germany](/us-investing/how-to-invest-in-us-stocks-from-germany) | 30% | 15% | US-[Germany tax](/taxes/us-germany-tax-treaty-investors) treaty |
 | Australia | 30% | 15% | US-Australia tax treaty |
 | Canada | 30% | 15% | US-Canada tax treaty |
 
@@ -287,6 +287,8 @@ eToro is available in Canada but with some restrictions. Options and CFDs may no
 | Hebrew support | Yes | No | No | No |
 | Platform complexity | Very easy | Complex | Easy | Moderate |
 | Best for | Beginners, copy trading | All-around, FX | Beginners | Options traders |
+
+For a full comparison, see our [Best Brokers for International Investors](/best-brokers/best-brokers-international-investors-2026) guide and [Broker Finder](/broker-finder/) tool.
 
 <!-- ADSENSE-LEADERBOARD-728x90-2 -->
 
@@ -412,6 +414,8 @@ Many investors keep both - eToro for copy trading with a smaller allocation, IBK
 ### Related Articles
 
 - [Interactive Brokers Review 2026: The Best Broker for International Investors](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors)
+- [Saxo Bank Review 2026](/best-brokers/saxo-bank-review-2026)
+- [Firstrade Review 2026](/best-brokers/firstrade-review-2026)
 - [Best Brokers for Israeli Investors in US Markets (2026)](/taxes/best-broker-israeli-investors-us-markets)
 - [How to Open a US Brokerage Account as a Non-Resident](/best-brokers/how-to-open-a-us-brokerage-account-as-a-non-resident-2026-guide)
 - [PFIC Rules: What International Investors Must Know](/taxes/pfic-rules-international-investors)

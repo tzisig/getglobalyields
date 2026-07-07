@@ -39,7 +39,7 @@ schema:
 
 This comprehensive guide on **US-Uganda Tax Rules for Investors** is currently under development and will be published soon.
 
-Note that **the United States and Uganda do not currently have a double tax treaty in place**. Without a treaty, Ugandan tax residents don't get the reduced dividend rates that investors in treaty countries like [Germany](/taxes/us-germany-tax-treaty-investors), the [UK](/taxes/us-uk-tax-treaty-investors), [Canada](/taxes/us-canada-tax-treaty-investors-2026), [Israel](/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026), or [Australia](/taxes/us-australia-tax-treaty-investors) benefit from - the default 30% withholding applies instead of a treaty-reduced rate.
+Note that **the United States and Uganda do not currently have a double tax treaty in place**. Without a treaty, Ugandan tax residents don't get the reduced dividend rates that investors in treaty countries like [Germany](/taxes/us-germany-tax-treaty-investors), the [UK](/taxes/us-uk-tax-treaty-investors), [Canada]( /taxes/us-canada-tax-treaty-investors-2026 /), [Israel](/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026), or [Australia](/taxes/us-australia-tax-treaty-investors) benefit from - the default 30% withholding applies instead of a treaty-reduced rate.
 
 In this upcoming guide, we will explore:
 - **Default Withholding Rates**: Why Ugandan tax residents face the standard 30% US [withholding tax](/taxes/taxes-us-dividends-foreign-investors) on dividends due to the lack of a tax treaty.

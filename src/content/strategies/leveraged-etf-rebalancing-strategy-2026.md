@@ -244,7 +244,7 @@ This is exactly why the contribution-first rule matters more for Israeli investo
 
 ### EU Investors (UCITS Leveraged ETFs)
 
-EU investors holding 2x UCITS leveraged ETFs rather than 3x US products face the same rebalancing framework with narrower threshold bands appropriate to the lower volatility profile of 2x leverage. [German](/us-investing/invest-us-stocks-germany) investors at 25% Abgeltungsteuer and [UK](/us-investing/invest-us-stocks-uk) investors at 18-24% CGT face similar contribution-first logic: direct new capital to underweight positions before triggering sales.
+EU investors holding 2x UCITS leveraged ETFs rather than 3x US products face the same rebalancing framework with narrower threshold bands appropriate to the lower volatility profile of 2x leverage. [German](/us-investing/how-to-invest-in-us-stocks-from-germany) investors at 25% Abgeltungsteuer and [UK](/us-investing/invest-us-stocks-uk) investors at 18-24% CGT face similar contribution-first logic: direct new capital to underweight positions before triggering sales.
 
 ### IBKR Tools for Non-US Investors
 
@@ -296,6 +296,21 @@ The investors who managed leveraged ETF allocations successfully through 2022 - 
 Write the rule before you need it. Follow it when you do.
 
 *For a deeper understanding of why volatility decay occurs mathematically - and four strategies that address it at the product and portfolio level - see our companion guide: [Volatility Decay in Leveraged ETFs: The Math, the Myth, and Four Strategies That Actually Work](/strategies/leveraged-etf-rebalancing-reduce-decay).*
+
+---
+
+## Related Articles
+
+- [Volatility Decay in Leveraged ETFs: The Math and Strategies](/strategies/leveraged-etf-rebalancing-reduce-decay)
+- [TQQQ vs QQQ: Which Is Right for International Investors?](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026)
+- [Risk Management for Leveraged ETF Investors](/strategies/risk-management-leveraged-etf-investors-2026)
+- [Portfolio Diversification with Leveraged Funds](/strategies/portfolio-diversification-leveraged-funds)
+- [Selling Covered Calls on TQQQ for Monthly Income](/options-income/selling-covered-calls-tqqq)
+- [W-8BEN Form: Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors)
+- [TQQQ Tax Guide for International Investors](/taxes/tqqq-tax-international-investors)
+- [Best Brokers for International Investors 2026](/best-brokers/best-brokers-international-investors-2026)
+- [Interactive Brokers Review 2026](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors)
+- [Tax Map - International Investor Tax Guide](/tax-map)
 
 ---
 

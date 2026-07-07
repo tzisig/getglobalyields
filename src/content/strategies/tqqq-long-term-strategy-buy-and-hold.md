@@ -100,6 +100,8 @@ The prerequisite for pure buy-and-hold is not conviction about the Nasdaq. It is
 
 The most important structural modification is not exotic. It is allocating a defined percentage and rebalancing systematically to maintain it.
 
+For a comparison of TQQQ against other leveraged ETFs, see [TQQQ vs SOXL vs UPRO](/strategies/tqqq-vs-soxl-vs-upro-best-leveraged-etf-2026). Also see [TQQQ vs QQQ](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026) for the fundamental choice.
+
 The position sizing principle: allocate only the amount where a complete loss does not materially affect the financial plan. For most investors, that sits between 3% and 15% of total investable assets. An investor with $500,000 who holds $50,000 (10%) in TQQQ can absorb an 82% drawdown as a **4.1% total portfolio hit**. That is painful but holdable. The same investor with $200,000 (40%) in TQQQ absorbs the same drawdown as a **33% total portfolio loss**. That is the version that generates panic selling near lows.
 
 The rebalancing rule is equally important - and more frequently neglected. Using the 2019-2021 example above: a 10% TQQQ allocation that grew to 21% through appreciation needed to be trimmed back before 2022 arrived, not after. The rebalancing is not market timing. It is maintaining the risk level that was assessed as holdable when the position was first sized.
@@ -130,7 +132,7 @@ The core mechanism: investing a fixed amount at regular intervals regardless of 
 
 The evidence on lump sum versus DCA is clear for standard equity markets: Vanguard's study of global markets from 1976 to 2022 found lump sum investing beat DCA 68% of the time after one year, because markets rise more than they fall. This applies to TQQQ in trending bull markets - a lump sum entry at the start of a rally captures more of the compounding. But TQQQ has a specific feature that tilts the comparison: the magnitude of drawdowns is so large that a mistimed lump sum entry is more damaging than for standard equity. A lump sum entry at TQQQ's late 2021 peak required holding through a 79% decline before recovering. A DCA entry starting in late 2021 and continuing through 2022 would have accumulated shares throughout the decline and recovered much faster.
 
-The practical application: use lump sum for the initial position entry when valuations are reasonable and you have conviction about the near-term environment. Use DCA for all subsequent capital additions - particularly at elevated valuations. The Nasdaq 100 PE of 36.49 (GuruFocus, May 27, 2026) sits at the 99.2nd percentile of the past decade. At that level, spreading new TQQQ contributions over 12-18 months is straightforward [risk management](/strategies/risk-management-leveraged-etf), not market timing.
+The practical application: use lump sum for the initial position entry when valuations are reasonable and you have conviction about the near-term environment. Use DCA for all subsequent capital additions - particularly at elevated valuations. The Nasdaq 100 PE of 36.49 (GuruFocus, May 27, 2026) sits at the 99.2nd percentile of the past decade. At that level, spreading new TQQQ contributions over 12-18 months is straightforward [risk management](/strategies/risk-management-leveraged-etf-investors-2026), not market timing.
 
 DCA also has a behavioral benefit that the data does not fully capture. An investor making regular monthly purchases has a different psychological relationship to a falling market than one who made a single large commitment. The monthly buyer experiences a drawdown as an opportunity to accumulate at lower prices. The lump sum buyer experiences the same drawdown as a loss. Same market, same asset, different emotional reality - and a different probability of holding through to the recovery.
 
@@ -159,7 +161,7 @@ Position sizing is the foundation. The other two work better on a correctly size
 
 TQQQ is a US-domiciled ETF and a US-situs asset for estate tax purposes. Non-US persons hold TQQQ subject to potential US estate tax on the full value above a $60,000 threshold, at rates up to 40%, unless a bilateral tax treaty provides higher protection.
 
-At 28.91% annualized - the worst 10-year rolling return in TQQQ's history (MyPlanIQ, May 2026) - a $50,000 position reaches approximately $676,000 after 10 years. There is no Irish UCITS equivalent for 3x leveraged Nasdaq ETFs - UCITS regulations cap leverage at 2x for retail-eligible products. Non-US investors holding TQQQ for the long term accept an estate tax exposure that has no clean structural solution. For investors from countries without a US estate tax treaty, this belongs in position sizing calculations from the start.
+At 28.91% annualized - the worst 10-year rolling return in TQQQ's history (MyPlanIQ, May 2026) - a $50,000 position reaches approximately $676,000 after 10 years. There is no Irish UCITS equivalent for 3x leveraged Nasdaq ETFs - UCITS regulations cap leverage at 2x for retail-eligible products. Non-US investors holding TQQQ for the long term accept an estate tax exposure that has no clean structural solution. For investors from countries without a US estate tax treaty, this belongs in position sizing calculations from the start. For options strategies on TQQQ, see [Selling Covered Calls on TQQQ](/options-income/selling-covered-calls-tqqq) and the [Wheel Strategy on TQQQ](/options-income/wheel-strategy-tqqq). For the full recovery example, read our [Case Study](/case-study/from-minus-70-to-plus-492k-real-tqqq-recovery-case-study).
 
 ---
 
@@ -169,7 +171,7 @@ The $10.85 billion that left TQQQ in a year when it returned 131% is not evidenc
 
 The investors who compounded wealth with TQQQ over 16 years are not categorically different from the ones who sold at the bottom of 2025. Most of them had the same long-term view of Nasdaq technology. What separated them was structure: a position sized to withstand complete loss, a rebalancing rule that prevented drift from turning a 10% allocation into a 30% one, and a pre-defined response to sustained declines that did not require making rational decisions in irrational conditions.
 
-That structure is not complicated to build. It is just necessary to build before the drawdown that will eventually test it - not during.
+That structure is not complicated to build. It is just necessary to build before the drawdown that will eventually test it - not during. Use the [Broker Finder](/broker-finder/) to find a broker that supports TQQQ trading and the [Broker Calculator](/broker-calculator/) to compare costs.
 
 For a deeper look at the underlying performance data and long-term return history, see our [TQQQ long-term outlook analysis](/strategies/tqqq-long-term-outlook). For the mechanics of volatility decay and portfolio-level rebalancing strategies, see our [leveraged ETF rebalancing guide](/strategies/leveraged-etf-rebalancing-reduce-decay).
 

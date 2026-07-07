@@ -392,15 +392,15 @@ import BaseLayout from '../layouts/BaseLayout.astro';
   <script is:inline>
     (function() {
       const treatyData = {
-        AUS: { name: "Australia", flag: "🇦🇺", status: "full", rate: "15%", estateTax: "No", w8ben: "Yes", guide: "/taxes/australia" },
-        AUT: { name: "Austria", flag: "🇦🇹", status: "full", rate: "15%", estateTax: "No", w8ben: "Yes", guide: "/taxes/austria" },
-        BEL: { name: "Belgium", flag: "🇧🇪", status: "full", rate: "15%", estateTax: "No", w8ben: "Yes", guide: "/taxes/belgium" },
-        BGR: { name: "Bulgaria", flag: "🇧🇬", status: "full", rate: "10%", estateTax: "No", w8ben: "Yes", guide: "/taxes/bulgaria" },
-        CAN: { name: "Canada", flag: "🇨🇦", status: "full", rate: "15%", estateTax: "No", w8ben: "Yes", guide: "/taxes/canada" },
-        CHN: { name: "China", flag: "🇨🇳", status: "full", rate: "10%", estateTax: "No", w8ben: "Yes", guide: "/taxes/china" },
-        CZE: { name: "Czech Republic", flag: "🇨🇿", status: "full", rate: "15%", estateTax: "No", w8ben: "Yes", guide: "/taxes/czech-republic" },
-        DNK: { name: "Denmark", flag: "🇩🇰", status: "full", rate: "15%", estateTax: "No", w8ben: "Yes", guide: "/taxes/denmark" },
-        EGY: { name: "Egypt", flag: "🇪🇬", status: "full", rate: "15%", estateTax: "No", w8ben: "Yes", guide: "/taxes/egypt" },
+        AUS: { name: "Australia", flag: "🇦🇺", status: "full", rate: "15%", estateTax: "No", w8ben: "Yes", guide: "/taxes/us-australia-tax-treaty-investors" },
+        AUT: { name: "Austria", flag: "🇦🇹", status: "full", rate: "15%", estateTax: "No", w8ben: "Yes", guide: "/taxes/us-austria-tax-treaty-investors" },
+        BEL: { name: "Belgium", flag: "🇧🇪", status: "full", rate: "15%", estateTax: "No", w8ben: "Yes", guide: "/taxes/us-belgium-tax-treaty-investors" },
+        BGR: { name: "Bulgaria", flag: "🇧🇬", status: "full", rate: "10%", estateTax: "No", w8ben: "Yes", guide: "/taxes/us-bulgaria-tax-treaty-investors" },
+        CAN: { name: "Canada", flag: "🇨🇦", status: "full", rate: "15%", estateTax: "No", w8ben: "Yes", guide: "/taxes/us-canada-tax-treaty-investors-2026" },
+        CHN: { name: "China", flag: "🇨🇳", status: "full", rate: "10%", estateTax: "No", w8ben: "Yes", guide: "/taxes/us-china-tax-treaty-investors" },
+        CZE: { name: "Czech Republic", flag: "🇨🇿", status: "full", rate: "15%", estateTax: "No", w8ben: "Yes", guide: "/taxes/us-czech-republic-tax-treaty-investors" },
+        DNK: { name: "Denmark", flag: "🇩🇰", status: "full", rate: "15%", estateTax: "No", w8ben: "Yes", guide: "/taxes/us-denmark-tax-treaty-investors" },
+        EGY: { name: "Egypt", flag: "🇪🇬", status: "full", rate: "15%", estateTax: "No", w8ben: "Yes", guide: "/taxes/us-egypt-tax-treaty-investors" },
         EST: { name: "Estonia", flag: "🇪🇪", status: "full", rate: "15%", estateTax: "No", w8ben: "Yes", guide: "/taxes/estonia" },
         FIN: { name: "Finland", flag: "🇫🇮", status: "full", rate: "15%", estateTax: "No", w8ben: "Yes", guide: "/taxes/finland" },
         FRA: { name: "France", flag: "🇫🇷", status: "full", rate: "15%", estateTax: "No", w8ben: "Yes", guide: "/taxes/france" },
@@ -478,7 +478,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
         LKA: { name: "Sri Lanka", flag: "🇱🇰", status: "none", rate: "30%", estateTax: "Yes", w8ben: "Yes", guide: "/taxes/sri-lanka" },
         TZA: { name: "Tanzania", flag: "🇹🇿", status: "none", rate: "30%", estateTax: "Yes", w8ben: "Yes", guide: "/taxes/tanzania" },
         TUN: { name: "Tunisia", flag: "🇹🇳", status: "none", rate: "30%", estateTax: "Yes", w8ben: "Yes", guide: "/taxes/tunisia" },
-        UGA: { name: "Uganda", flag: "🇺🇬", status: "none", rate: "30%", estateTax: "Yes", w8ben: "Yes", guide: "/taxes/uganda" },
+        UGA: { name: "Uganda", flag: "🇺🇬", status: "none", rate: "30%", estateTax: "Yes", w8ben: "Yes", guide: "/taxes/us-uganda-tax-treaty-investors" },
         URY: { name: "Uruguay", flag: "🇺🇾", status: "none", rate: "30%", estateTax: "Yes", w8ben: "Yes", guide: "/taxes/uruguay" },
         VNM: { name: "Vietnam", flag: "🇻🇳", status: "none", rate: "30%", estateTax: "Yes", w8ben: "Yes", guide: "/taxes/vietnam" },
         ZMB: { name: "Zambia", flag: "🇿🇲", status: "none", rate: "30%", estateTax: "Yes", w8ben: "Yes", guide: "/taxes/zambia" },
@@ -549,7 +549,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
             <span class="info-label">W-8BEN Required</span>
             <span class="badge ${data.w8ben === 'Yes' ? 'yes' : 'no'}">${data.w8ben}</span>
           </div>
-          <a href="${['ISR','DEU','GBR'].includes(iso3) ? data.guide : '#'}" class="btn-guide" ${['AUS','AUT','BEL','GBR','CAN','CHUN','CZE','DNK','DEU','ISR','UGA','GBR'].includes(iso3) ? '' : 'onclick="return false;" style="opacity:0.4;cursor:default;"'}>Read Full Guide →</a>
+          <a href="${['AUS','AUT','BEL','BGR','CAN','CHN','CZE','DNK','DEU','EGY','GBR','ISR','UGA'].includes(iso3) ? data.guide : '#'}" class="btn-guide" ${['AUS','AUT','BEL','BGR','CAN','CHN','CZE','DNK','DEU','EGY','GBR','ISR','UGA'].includes(iso3) ? '' : 'onclick="return false;" style="opacity:0.4;cursor:default;"'}>Read Full Guide →</a>
         `;
       }
 

@@ -244,4 +244,6 @@ A widely used combination: **SCHD (40%) + JEPI (40%) + QYLD (20%)** - balancing 
 - [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors)
 - [W-8BEN Form: Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors)
 - [Best Brokers for International Investors 2026](/best-brokers/best-brokers-international-investors-2026)
+- [Interactive Brokers Review 2026](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors)
 - [TQQQ vs QQQ: Which Is Right for International Investors?](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026)
+- [Tax Map - International Investor Tax Guide](/tax-map)

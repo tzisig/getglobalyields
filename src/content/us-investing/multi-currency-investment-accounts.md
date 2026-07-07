@@ -23,7 +23,7 @@ readingTime: "11 min read"
 featured: false
 ---
 
-Take a [German](/us-investing/invest-us-stocks-germany) investor building a long-term portfolio in US ETFs. She opens an account with a USD-only broker, spends weeks comparing commissions, picks the zero-commission option, and feels good about the decision. What she doesn't notice: every time she wires euros into her account, her broker converts at a rate 1.5% below the interbank mid-market. Four deposits a year. €5,000 each. That's €300 disappearing quietly every year - not as a fee, not as a line item, just as a slightly worse exchange rate. Over ten years, with compounding, that's closer to €4,000 gone.
+Take a [German](/us-investing/how-to-invest-in-us-stocks-from-germany) investor building a long-term portfolio in US ETFs. She opens an account with a USD-only broker, spends weeks comparing commissions, picks the zero-commission option, and feels good about the decision. What she doesn't notice: every time she wires euros into her account, her broker converts at a rate 1.5% below the interbank mid-market. Four deposits a year. €5,000 each. That's €300 disappearing quietly every year - not as a fee, not as a line item, just as a slightly worse exchange rate. Over ten years, with compounding, that's closer to €4,000 gone.
 
 The broker she almost chose instead charged $0.03 per $100 converted. The same four deposits would have cost her about $12 per year total.
 
@@ -59,7 +59,7 @@ Currency conversion at IBKR costs 0.03 basis points (0.0003%) with a minimum com
 
 The account supports funding in 29 currencies. You can hold balances in multiple currencies simultaneously without forced conversion - euros and USD and GBP can coexist in the same account, each earning their respective interest rates, and you convert only when you choose to. That "convert on purpose" approach is one of IBKR's most underrated features. If your trading currency and funding currency match, you skip the conversion entirely.
 
-IBKR also integrates directly with Wise. Clients can fund their IBKR account using Wise Balance at the true mid-market rate, with a fixed transfer fee of around $0.39. That combination - Wise for the currency move, IBKR for the investment - is close to the theoretical minimum for FX drag on a cross-currency investing workflow.
+IBKR also integrates directly with Wise. Make sure your [W-8BEN](/taxes/w8ben-form-non-us-investors) is on file to benefit from reduced dividend withholding rates - see our [US Dividend Withholding Guide](/taxes/taxes-us-dividends-foreign-investors). Clients can fund their IBKR account using Wise Balance at the true mid-market rate, with a fixed transfer fee of around $0.39. That combination - Wise for the currency move, IBKR for the investment - is close to the theoretical minimum for FX drag on a cross-currency investing workflow.
 
 Beyond the FX side: 150+ global markets across 33 countries, margin rates around 5-6% for most balances, competitive cash yields (up to 3.14% on USD balances above $100k as of May 2026), and SIPC protection plus supplemental Lloyd's of London coverage. The platform is genuinely complex - Trader Workstation is not something you open for the first time and immediately understand - but the GlobalTrader mobile app offers a more accessible entry point.
 

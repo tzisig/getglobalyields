@@ -64,7 +64,7 @@ Hero image alt text: Saxo Bank review 2026 for international investors
 
 Most Saxo Bank reviews are written for European traders looking at CFDs and forex spreads. This review is different.
 
-It is written for international investors - in [Israel](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026), [Australia](/us-investing/invest-us-stocks-australia), [Canada](/us-investing/invest-us-stocks-canada), and beyond - who are evaluating Saxo as a serious long-term platform for stocks, ETFs, options, and multi-asset portfolios. We focus on what actually matters: real fees, account tiers, FX costs, and whether Saxo is worth it compared to IBKR.
+It is written for international investors - in [Israel](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026), [Australia](/us-investing/how-to-invest-in-us-stocks-from-australia), [Canada](/us-investing/how-to-invest-in-us-stocks-from-canada), and beyond - who are evaluating Saxo as a serious long-term platform for stocks, ETFs, options, and multi-asset portfolios. We focus on what actually matters: real fees, account tiers, FX costs, and whether Saxo is worth it compared to IBKR.
 
 ---
 
@@ -257,7 +257,7 @@ Saxo provides detailed tax reporting, but the specifics depend on which Saxo ent
 |---|---|---|---|
 | Israel | 30% | 25% | US-[Israel tax](/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026) treaty |
 | UK | 30% | 15% | US-[UK tax](/taxes/us-uk-tax-treaty-investors) treaty |
-| [Germany](/us-investing/invest-us-stocks-germany) | 30% | 15% | US-[Germany tax](/taxes/us-germany-tax-treaty-investors) treaty |
+| [Germany](/us-investing/how-to-invest-in-us-stocks-from-germany) | 30% | 15% | US-[Germany tax](/taxes/us-germany-tax-treaty-investors) treaty |
 | Australia | 30% | 15% | US-Australia tax treaty |
 | Canada | 30% | 15% | US-Canada tax treaty |
 
@@ -278,18 +278,18 @@ Saxo is available in 180+ countries. A few points relevant to international inve
 
 ## Saxo vs The Competition
 
-| Feature | Saxo (Classic) | Saxo (Platinum) | IBKR | eToro |
-|---|---|---|---|---|
-| Min. deposit | $0 | $200,000 | $0 | $50-200 |
-| US stock commission | $1 min | Lower | $0.35 min | $0 |
-| Custody fee | 0.15%/year | 0.12%/year | None | None |
-| FX conversion | ~0.25% | ~0.25% | 0.002% | 1.5% (ILS) |
-| Options trading | Yes | Yes | Yes | No |
-| Bonds | Yes | Yes | Yes | No |
-| Instruments | 70,000+ | 70,000+ | 100+ markets | Limited |
-| Research quality | Excellent | Institutional | Good | Basic |
-| Platform quality | Excellent | Professional | Advanced | Simple |
-| Best for | Multi-asset | Large portfolios | Cost efficiency | Beginners |
+| Feature | Saxo (Classic) | Saxo (Platinum) | IBKR | eToro | [XTB](/best-brokers/xtb-review-2026) | [Firstrade](/best-brokers/firstrade-review-2026) |
+|---|---|---|---|---|---|---|
+| Min. deposit | $0 | $200,000 | $0 | $50-200 | $0 | $0 |
+| US stock commission | $1 min | Lower | $0.35 min | $0 | $0 (up to €100k/month) | $0 |
+| Custody fee | 0.15%/year | 0.12%/year | None | None | None | None |
+| FX conversion | ~0.25% | ~0.25% | 0.002% | 1.5% (ILS) | 0.5% | USD only |
+| Options trading | Yes | Yes | Yes | No | Limited | Yes |
+| Bonds | Yes | Yes | Yes | No | No | Yes |
+| Instruments | 70,000+ | 70,000+ | 100+ markets | Limited | 11,000+ | US markets |
+| Research quality | Excellent | Institutional | Good | Basic | Good | Above average |
+| Platform quality | Excellent | Professional | Advanced | Simple | Advanced | Moderate |
+| Best for | Multi-asset | Large portfolios | Cost efficiency | Beginners | European ETF investors | Cost-conscious |
 
 <!-- ADSENSE-LEADERBOARD-728x90-2 -->
 
@@ -430,6 +430,8 @@ The cost picture is honest: Classic accounts carry a custody fee and higher FX c
 
 Many serious investors use both - IBKR for cost-sensitive trading and Saxo for research, bond access, and the professional platform environment.
 
+For a full comparison of the top international brokers, see our [Best Brokers for International Investors](/best-brokers/best-brokers-international-investors-2026) guide and use the [Broker Finder](/broker-finder/) tool to match brokers to your country.
+
 **Rating: 4.2 / 5 - Institutional quality at a premium price. Excellent at Platinum tier.**
 
 <!-- AFFILIATE-CTA-FINAL -->
@@ -442,6 +444,7 @@ Many serious investors use both - IBKR for cost-sensitive trading and Saxo for r
 
 - [Interactive Brokers Review 2026: The Best Broker for International Investors](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors)
 - [eToro Review 2026: Is It Worth It for International Investors?](/best-brokers/etoro-review-2026)
+- [XTB Review 2026](/best-brokers/xtb-review-2026)
 - [Best Brokers for Israeli Investors in US Markets (2026)](/taxes/best-broker-israeli-investors-us-markets)
 - [How to Open a US Brokerage Account as a Non-Resident](/best-brokers/how-to-open-a-us-brokerage-account-as-a-non-resident-2026-guide)
 - [W-8BEN Form: Complete Guide for Non-US Investors](/taxes/w8ben-form-non-us-investors)

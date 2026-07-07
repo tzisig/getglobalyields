@@ -50,7 +50,7 @@ The difference between a protection structure that holds and one that collapses 
 
 Four forces have converged to make global asset protection a mainstream concern rather than an exclusive one.
 
-**Litigation risk.** Entrepreneurs, real estate investors, and business owners across the [UK](/us-investing/invest-us-stocks-uk), EU, [Australia](/us-investing/invest-us-stocks-australia), and [Canada](/us-investing/invest-us-stocks-canada) face civil liability exposure that has nothing to do with wrongdoing. A lawsuit in a plaintiff-friendly jurisdiction can threaten assets built over decades.
+**Litigation risk.** Entrepreneurs, real estate investors, and business owners across the [UK](/us-investing/invest-us-stocks-uk), EU, [Australia](/us-investing/how-to-invest-in-us-stocks-from-australia), and [Canada](/us-investing/how-to-invest-in-us-stocks-from-canada) face civil liability exposure that has nothing to do with wrongdoing. A lawsuit in a plaintiff-friendly jurisdiction can threaten assets built over decades.
 
 **Political and regulatory risk.** Investors with significant exposure to single countries face the risk of sudden policy changes - capital controls, asset freezes, currency devaluations, or retroactive tax legislation. The capital controls imposed in Cyprus in 2013 and Greece in 2015 are recent examples: both governments froze bank accounts and restricted transfers with little warning. Diversifying assets across stable jurisdictions reduces exposure to any single government's decisions.
 
@@ -149,7 +149,7 @@ All jurisdictions listed are CRS compliant. "Not recognized" for foreign judgmen
 
 This is the section most offshore guides skip entirely. Every CRS country has its own reporting framework. Here is what it actually looks like for the most common non-US investor jurisdictions.
 
-**A note on coverage:** The disclosure requirements below cover the five jurisdictions most commonly represented among non-US investors using offshore structures: UK, [Germany](/us-investing/invest-us-stocks-germany), France, Australia, and Canada. Investors based in Singapore, UAE, Japan, Hong Kong, and other jurisdictions face materially different reporting obligations - covered in our [companion guide on disclosure requirements by country](#). The structural principles in this guide apply universally; the compliance detail is jurisdiction-specific.
+**A note on coverage:** The disclosure requirements below cover the five jurisdictions most commonly represented among non-US investors using offshore structures: UK, [Germany](/us-investing/how-to-invest-in-us-stocks-from-germany), France, Australia, and Canada. Investors based in Singapore, UAE, Japan, Hong Kong, and other jurisdictions face materially different reporting obligations - covered in our [companion guide on disclosure requirements by country](#). The structural principles in this guide apply universally; the compliance detail is jurisdiction-specific.
 
 **A note on coverage:** The disclosure requirements below cover the five jurisdictions most commonly represented among non-US investors using offshore structures: UK, Germany, France, Australia, and Canada. Investors based in Singapore, UAE, Japan, Hong Kong, and other jurisdictions face materially different reporting obligations - covered in our [companion guide on disclosure requirements by country](#). The structural principles in this guide apply universally; the compliance detail is jurisdiction-specific.
 
@@ -318,5 +318,18 @@ For investors evaluating broker options that support complex ownership structure
 
 ---
 
-*This article is for informational and educational purposes only and does not constitute legal, tax, or financial advice. Asset protection involves complex legal and regulatory considerations specific to your jurisdiction and circumstances. Consult qualified legal and tax advisors before implementing any asset protection structure.*
+*This article is for informational and educational purposes only and does not constitute legal, tax, or financial advice. Asset protection involves complex legal and regulatory considerations specific to your jurisdiction and circumstances. Consult qualified legal and tax advisors before implementing any asset protection structure.
+
+---
+
+## Related Articles
+
+- [Leveraged ETF Rebalancing Strategy 2026](/strategies/leveraged-etf-rebalancing-strategy-2026)
+- [Financial Freedom Through Leveraged Investing](/strategies/financial-freedom-leveraged-investing)
+- [TQQQ vs QQQ: Which Is Right for International Investors?](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026)
+- [Selling Covered Calls on TQQQ for Monthly Income](/options-income/selling-covered-calls-tqqq)
+- [W-8BEN Form: Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors)
+- [Best Brokers for International Investors 2026](/best-brokers/best-brokers-international-investors-2026)
+- [Interactive Brokers Review 2026](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors)
+- [Tax Map - International Investor Tax Guide](/tax-map)*
 

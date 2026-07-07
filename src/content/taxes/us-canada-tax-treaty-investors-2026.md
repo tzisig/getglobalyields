@@ -1,4 +1,4 @@
----
+﻿---
 slug: us-canada-tax-treaty-investors-2026
 title: "US-Canada Tax Treaty for Investors: Dividends, Capital Gains, and the RRSP Advantage (2026)"
 description: "A complete guide to the US-Canada tax treaty for Canadian investors holding US assets. Withholding rates, account-by-account breakdown, RRSP exemption, TFSA trap, and how to keep more of what you earn."
@@ -34,8 +34,8 @@ schema:
   author: "Tzion S."
   datePublished: "2026-06-01"
   dateModified: "2026-06-30"
-  image: "/images/blog/taxes/us-canada-tax-treaty-investors-2026.webp"
-  mainEntityOfPage: "https://getglobalyields.com/taxes/us-canada-tax-treaty-investors-2026"
+  image: "/images/blog /taxes/us-canada-tax-treaty-investors-2026 .webp"
+  mainEntityOfPage: "https://getglobalyields.com /taxes/us-canada-tax-treaty-investors-2026 "
 ---
 
 ---
@@ -58,7 +58,7 @@ Canada and the United States have maintained a comprehensive tax treaty since 19
 
 For Canadian investors holding US assets, the treaty does three things:
 
-First, it reduces US [withholding tax](/taxes/taxes-us-dividends-foreign-investors) on dividends from the domestic 30% default to 15% for most investors (Article X). Second, it caps US withholding on interest income at 15%, with full exemptions for certain categories (Article XI). Third, it eliminates US withholding entirely on capital gains from selling US securities - with narrow but important exceptions involving US real property (Article XIII).
+First, it reduces US withholding tax on dividends from the domestic 30% default to 15% for most investors (Article X). Second, it caps US withholding on interest income at 15%, with full exemptions for certain categories (Article XI). Third, it eliminates US withholding entirely on capital gains from selling US securities - with narrow but important exceptions involving US real property (Article XIII).
 
 The treaty also contains a provision that most investment articles miss: a full exemption from US dividend withholding for income earned inside an RRSP. That exemption is the single most actionable planning tool available to Canadian investors in US assets.
 
@@ -76,9 +76,9 @@ The US applies withholding at source before income reaches a foreign investor. W
 
 Under Article X of the treaty, US withholding on dividends paid to individual Canadian investors is reduced from 30% to **15%**. This applies to dividends from US corporations - Apple, Microsoft, Johnson & Johnson, and similar companies.
 
-The 15% rate requires one condition: you must submit Form [W-8BEN](/taxes/w8ben-form-non-us-investors) to your broker certifying your Canadian residency. Without it, the full 30% default applies. The [W-8BEN](/taxes/w8ben-form-non-us-investors) is valid for three years and must be renewed when it expires.
+The 15% rate requires one condition: you must submit Form [W-8BEN](/taxes/w8ben-form-non-us-investors) to your broker certifying your Canadian residency. Without it, the full 30% default applies. The W-8BEN is valid for three years and must be renewed when it expires.
 
-For Canadians investing in US stocks through a Canadian broker (TD Direct, RBC Direct, Questrade), the broker typically files [W-8BEN](/taxes/w8ben-form-non-us-investors) on your behalf as part of account setup. Verify this is in place, especially if your account is more than three years old.
+For Canadians investing in US stocks through a Canadian broker (TD Direct, RBC Direct, Questrade), the broker typically files W-8BEN on your behalf as part of account setup. Verify this is in place, especially if your account is more than three years old.
 
 **Interest income from US sources**
 
@@ -106,7 +106,7 @@ This is where the treaty becomes genuinely complex - and where most guides stop 
 
 ### RRSP: The Best Account for US Dividends
 
-Article XXI(7) of the treaty - added by the Fifth Protocol in 2007 - provides that pension funds and retirement arrangements recognized by the other country are generally exempt from [withholding tax](/taxes/taxes-us-dividends-foreign-investors) on dividends and interest. The Canada Revenue Agency and IRS have confirmed that RRSPs, RRIFs, and RPPs qualify as recognized pension arrangements under this provision.
+Article XXI(7) of the treaty - added by the Fifth Protocol in 2007 - provides that pension funds and retirement arrangements recognized by the other country are generally exempt from withholding tax on dividends and interest. The Canada Revenue Agency and IRS have confirmed that RRSPs, RRIFs, and RPPs qualify as recognized pension arrangements under this provision.
 
 The result: US dividends earned inside an RRSP are exempt from US withholding entirely. Where a non-registered account pays 15% withholding on every US dividend, the RRSP receives the gross amount.
 
@@ -271,6 +271,10 @@ Canadian equities, growth stocks with minimal income, and tax-efficient assets c
 Non-registered accounts are the last resort for US dividend payers - the foreign tax credit prevents double taxation, but current-year tax on distributions is significant.
 
 File W-8BEN with your broker. Renew it before it expires. Hold US dividend assets inside RRSP room. These three steps, applied consistently, add up to a material advantage over an investing lifetime.
+
+---
+
+For a side-by-side comparison of rates across major US treaties, see our [tax map](/tax-map/) or compare the [US-Australia](/taxes/us-australia-tax-treaty-investors/) and Canada treaties directly. While both Commonwealth countries enjoy US capital gains tax exemption (residence-only taxation) and similar 15% dividend rates, Canada's RRSP exemption (0% withholding) and 15% interest rate differ from Australia's super treatment (15% floor) and 10% interest rate.
 
 ---
 

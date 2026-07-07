@@ -43,7 +43,7 @@ This guide is about that gap - what every number in TQQQ's options chain actuall
 
 Before looking at any specific Greek, one structural fact shapes everything: TQQQ resets its leverage daily.
 
-Every trading day, ProShares rebalances TQQQ to maintain 3x exposure to the Nasdaq-100's daily return. That rebalancing creates [volatility decay](/strategies/risk-management-leveraged-etf) (also called beta slippage) - the gradual erosion of value in choppy markets that occurs independent of the Nasdaq-100's direction. On a day when the Nasdaq falls 5% and rises 5.26% the next, the index is flat. TQQQ is not. The daily reset means TQQQ ends slightly below where it started.
+Every trading day, ProShares rebalances TQQQ to maintain 3x exposure to the Nasdaq-100's daily return. That rebalancing creates [volatility decay](/strategies/risk-management-leveraged-etf-investors-2026) (also called beta slippage) - the gradual erosion of value in choppy markets that occurs independent of the Nasdaq-100's direction. On a day when the Nasdaq falls 5% and rises 5.26% the next, the index is flat. TQQQ is not. The daily reset means TQQQ ends slightly below where it started.
 
 This matters for options analysis because:
 
@@ -192,7 +192,7 @@ An inverted term structure on TQQQ should slow down, not speed up, the impulse t
 
 The most common misread on TQQQ's chain: treating a high premium yield in dollar terms as equivalent to high premium yield on a percentage basis relative to risk.
 
-A 30-day [cash-secured put](/options-income/cash-secured-puts-high-iv) at the 0.30 delta strike on TQQQ might yield $250-350 per contract on a $6,700 cash commitment. That's 3.7-5.2% in 30 days. It looks exceptional.
+A 30-day [cash-secured put](/options-income/cash-secured-puts-high-iv) at the 0.30 delta strike on TQQQ might yield $250-350 per contract on a $6,700 cash commitment. That's 3.7-5.2% in 30 days. It looks exceptional. Understanding [implied volatility strategies](/options-income/tqqq-implied-volatility-strategies) is essential for reading the chain correctly.
 
 What that number doesn't show: the tail risk. TQQQ's 2022 maximum drawdown was 81.66%. The premium yield of 4% per month doesn't compensate for an 80% drawdown risk in a bad macro year - it takes 20 consecutive months of full premium capture just to break even on a single 2022-style drawdown from that strike. The market knows this. The fat premium is the market correctly pricing that risk, not a mispricing you've found.
 
@@ -227,7 +227,9 @@ For historical backtesting of TQQQ options performance under different IV regime
 
 - [Selling Covered Calls on TQQQ: Step-by-Step Guide](/options-income/selling-covered-calls-tqqq)
 - [The Wheel Strategy on TQQQ](/options-income/wheel-strategy-tqqq)
-- [TQQQ vs QQQ: Which Is Right for International Investors?](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026)
-- [Best Options Brokers for International Investors](/best-brokers/best-options-brokers-international-2026)
+- [TQQQ Implied Volatility Strategies](/options-income/tqqq-implied-volatility-strategies)
+- [Cash-Secured Puts in High IV Environments](/options-income/cash-secured-puts-high-iv)
+- [TQQQ Recovery Case Study](/case-study/from-minus-70-to-plus-492k-real-tqqq-recovery-case-study)
+- [Risk Management for Leveraged ETF Investors](/strategies/risk-management-leveraged-etf-investors-2026)
 - [TQQQ Tax Guide for International Investors](/taxes/tqqq-tax-international-investors)
-- [Interactive Brokers Review 2026](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors)
+- [Broker Fee Calculator](/broker-calculator)

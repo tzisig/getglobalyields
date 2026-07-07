@@ -314,7 +314,7 @@ What each instrument actually does in a severe downturn:
 
 **ARCC** - fell approximately 50% in the March 2020 COVID crash before recovering within 6 months. Dividend was maintained. In a prolonged credit deterioration (2008 scenario), NAV would decline and dividend coverage could become stressed.
 
-**The behavioral risk:** The most common failure in income portfolios is not that the investments perform poorly - it is that investors sell during drawdowns. Building a 6-12 month cash reserve in SGOV before starting this portfolio is not optional. See also our [risk management guide for leveraged ETF investors](/strategies/risk-management-leveraged-etf). - it is the difference between staying invested and panic-selling at the bottom.
+**The behavioral risk:** The most common failure in income portfolios is not that the investments perform poorly - it is that investors sell during drawdowns. Building a 6-12 month cash reserve in SGOV before starting this portfolio is not optional. See also our [risk management guide for leveraged ETF investors](/strategies/risk-management-leveraged-etf-investors-2026). - it is the difference between staying invested and panic-selling at the bottom.
 
 ---
 
@@ -367,5 +367,20 @@ $10,000 a month gross is a yield calculation. $10,000 a month after taxes, in re
 
 ---
 
-*All yield, price, and fund data verified as of May 2026. Portfolio models are illustrative and do not constitute personalized investment advice. Tax treatment varies by jurisdiction and individual circumstances. Consult a qualified financial and tax advisor before implementing any income strategy. Past distributions do not guarantee future payments.*
+*All yield, price, and fund data verified as of May 2026. Portfolio models are illustrative and do not constitute personalized investment advice. Tax treatment varies by jurisdiction and individual circumstances. Consult a qualified financial and tax advisor before implementing any income strategy. Past distributions do not guarantee future payments.
+
+---
+
+## Related Articles
+
+- [Best High-Yield ETFs for Income Investors in 2026](/strategies/best-high-yield-etfs-2026)
+- [JEPI vs SCHD vs QYLD: Complete Comparison](/strategies/jepi-vs-schd-vs-qyld)
+- [High-Yield Investment Strategies for 2026](/strategies/high-yield-investment-strategies-2026)
+- [TQQQ vs QQQ: Which Is Right for International Investors?](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026)
+- [Selling Covered Calls on TQQQ for Monthly Income](/options-income/selling-covered-calls-tqqq)
+- [W-8BEN Form: Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors)
+- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors)
+- [Best Brokers for International Investors 2026](/best-brokers/best-brokers-international-investors-2026)
+- [Interactive Brokers Review 2026](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors)
+- [Tax Map - International Investor Tax Guide](/tax-map)*
 
