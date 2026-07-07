@@ -66,7 +66,8 @@ const { title, description, image, type, keywords, seo, pubDate, updatedDate, au
       setTimeout(loadGtag, 10000);
     })();
   </script>
-  <body>
+  <body class="dark">
+    <script is:inline>document.body.className=document.documentElement.className</script>
     <Header />
     <main class="flex-grow w-full">
       <slot />
