@@ -43,27 +43,28 @@ const { title, description, image, type, keywords, seo, pubDate, updatedDate, au
     })();
   </script>
   
-  <!-- Defer Google Analytics: set up dataLayer immediately, load gtag.js after idle -->
+  <!-- Defer Google Analytics: set up dataLayer immediately, load gtag.js on first interaction or after timeout -->
   <script is:inline>
     window.dataLayer = window.dataLayer || [];
     function gtag(){dataLayer.push(arguments);}
     gtag('js', new Date());
     gtag('config', 'G-358H9G2F4C', { send_page_view: false });
-    window.addEventListener('load', function() {
-      if ('requestIdleCallback' in window) {
-        requestIdleCallback(function() {
-          var s = document.createElement('script');
-          s.async = true; s.src = 'https://www.googletagmanager.com/gtag/js?id=G-358H9G2F4C';
-          document.head.appendChild(s);
-          gtag('config', 'G-358H9G2F4C', { send_page_view: true });
-        });
-      } else {
+    (function() {
+      var loaded = false;
+      function loadGtag() {
+        if (loaded) return;
+        loaded = true;
         var s = document.createElement('script');
         s.async = true; s.src = 'https://www.googletagmanager.com/gtag/js?id=G-358H9G2F4C';
         document.head.appendChild(s);
         gtag('config', 'G-358H9G2F4C', { send_page_view: true });
       }
-    });
+      document.addEventListener('click', loadGtag, { once: true });
+      document.addEventListener('touchstart', loadGtag, { once: true });
+      document.addEventListener('scroll', loadGtag, { once: true, passive: true });
+      document.addEventListener('keydown', loadGtag, { once: true });
+      setTimeout(loadGtag, 10000);
+    })();
   </script>
   <body>
     <Header />
