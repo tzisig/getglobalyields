@@ -32,7 +32,7 @@ const currentPath = Astro.url.pathname;
       <!-- Logo -->
       <div class="flex-shrink-0">
         <a href="/" class="flex items-center gap-2">
-          <img src="/logo.webp" alt="Get Global Yields" width="118" height="40" class="h-16 lg:h-20 w-auto object-contain py-1" />
+          <img src="/logo.webp" alt="Get Global Yields" width="118" height="40" class="h-16 lg:h-20 w-auto" />
         </a>
       </div>
 
@@ -266,17 +266,17 @@ const currentPath = Astro.url.pathname;
 
 <script>
   // ─── Theme Toggle ────────────────────────────────────────
-  function applyTheme(theme: string) {
-    // Apply to both body and html (html class set by inline script in BaseLayout)
+  var _themeApplied = false;
+  function applyTheme(theme: string, force: boolean) {
+    if (!force && _themeApplied && document.body.classList.contains(theme)) return;
     document.body.classList.remove('light', 'dark');
     document.body.classList.add(theme);
     document.documentElement.classList.remove('light', 'dark');
     document.documentElement.classList.add(theme);
     localStorage.setItem('theme', theme);
+    _themeApplied = true;
 
     const isDark = theme === 'dark';
-    // Sun = shown in dark mode (click to go light)
-    // Moon = shown in light mode (click to go dark)
     document.getElementById('icon-sun')?.classList.toggle('hidden', !isDark);
     document.getElementById('icon-moon')?.classList.toggle('hidden', isDark);
     document.getElementById('icon-sun-mobile')?.classList.toggle('hidden', !isDark);
@@ -284,12 +284,12 @@ const currentPath = Astro.url.pathname;
   }
 
   function setupTheme() {
-    const saved = localStorage.getItem('theme') || 'dark';
-    applyTheme(saved);
+    var saved = localStorage.getItem('theme') || 'dark';
+    applyTheme(saved, false);
 
     const handleToggle = () => {
       const next = document.body.classList.contains('dark') ? 'light' : 'dark';
-      applyTheme(next);
+      applyTheme(next, true);
     };
 
     // Always clone to remove stale listeners before re-attaching
