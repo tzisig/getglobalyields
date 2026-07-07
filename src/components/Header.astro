@@ -267,7 +267,7 @@ const currentPath = Astro.url.pathname;
 <script>
   // ─── Theme Toggle ────────────────────────────────────────
   function applyTheme(theme: string, force: boolean) {
-    if (!force && document.body.classList.contains(theme)) return;
+    if (!force && document.documentElement.classList.contains(theme)) return;
     document.body.classList.remove('light', 'dark');
     document.body.classList.add(theme);
     document.documentElement.classList.remove('light', 'dark');
@@ -286,7 +286,7 @@ const currentPath = Astro.url.pathname;
     applyTheme(saved, false);
 
     const handleToggle = () => {
-      const next = document.body.classList.contains('dark') ? 'light' : 'dark';
+      const next = document.documentElement.classList.contains('dark') ? 'light' : 'dark';
       applyTheme(next, true);
     };
 

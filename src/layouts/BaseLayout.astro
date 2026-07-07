@@ -31,13 +31,15 @@ const { title, description, image, type, keywords, seo, pubDate, updatedDate, au
 ---
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="dark">
   <SEOHead title={title} description={description} image={image} type={type} keywords={keywords} seo={seo} pubDate={pubDate} updatedDate={updatedDate} author={author} faq={faq} />
-  <!-- Prevent flash: apply saved theme BEFORE paint -->
+  <!-- Prevent flash: switch to light only if saved preference says so -->
   <script is:inline>
     (function() {
-      var t = localStorage.getItem('theme') || 'dark';
-      document.documentElement.className = t;
+      var t = localStorage.getItem('theme');
+      if (t === 'light') {
+        document.documentElement.className = 'light';
+      }
     })();
   </script>
   
@@ -64,8 +66,6 @@ const { title, description, image, type, keywords, seo, pubDate, updatedDate, au
     });
   </script>
   <body>
-    <script is:inline>document.body.className=localStorage.getItem('theme')||'dark'</script>
-    
     <Header />
     <main class="flex-grow w-full">
       <slot />
