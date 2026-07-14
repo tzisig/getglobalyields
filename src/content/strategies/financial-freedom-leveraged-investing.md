@@ -43,7 +43,7 @@ The term covers several distinct approaches with different risk profiles:
 
 **Leveraged ETFs** (TQQQ, UPRO, SPXL) use derivatives - swaps and futures contracts - to deliver a multiple of the daily return of an underlying index. TQQQ targets 3x the daily return of the Nasdaq-100. UPRO targets 3x the daily return of the S&P 500. The leverage resets every trading day.
 
-**Margin loans** allow investors to borrow against existing portfolio assets to buy additional securities. At [Interactive Brokers](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors) Pro, the current USD margin rate is 5.12% for balances up to $100,000, 4.62% for $100,000-$1,000,000, and 4.37% for $1,000,000-$50,000,000 (as of May 2026).
+**Margin loans** allow investors to borrow against existing portfolio assets to buy additional securities. At [Interactive Brokers](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/) Pro, the current USD margin rate is 5.12% for balances up to $100,000, 4.62% for $100,000-$1,000,000, and 4.37% for $1,000,000-$50,000,000 (as of May 2026).
 
 **Options** provide leveraged exposure through call and put contracts. This article focuses on leveraged ETFs and margin loans - the most accessible forms for individual investors building toward financial freedom.
 
@@ -389,16 +389,16 @@ The USD weakened approximately 8-10% against major currencies in 2023. An invest
 
 ### 2. Withholding tax on distributions
 
-Non-U.S. investors are subject to U.S. [withholding tax](/taxes/taxes-us-dividends-foreign-investors) - 30% by default, reduced to 15% under most tax treaties for investors who file a [W-8BEN](/taxes/w8ben-form-non-us-investors) with their broker. Given the small distribution yield (0.63-0.78%), the withholding tax on distributions is a minor drag. The primary tax event is the gain or loss on the position itself, which is not subject to U.S. withholding.
+Non-U.S. investors are subject to U.S. [withholding tax](/taxes/taxes-us-dividends-foreign-investors/) - 30% by default, reduced to 15% under most tax treaties for investors who file a [W-8BEN](/taxes/w8ben-form-non-us-investors/) with their broker. Given the small distribution yield (0.63-0.78%), the withholding tax on distributions is a minor drag. The primary tax event is the gain or loss on the position itself, which is not subject to U.S. withholding.
 
 ### 3. Local capital gains tax
 
-- **[Israel](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026):** 25% flat rate on capital gains from securities (verified, PwC Tax Summaries 2026)
-- **[UK](/us-investing/invest-us-stocks-uk):** 18-24% depending on income level
-- **[Germany](/us-investing/how-to-invest-in-us-stocks-from-germany):** 25% (Abgeltungsteuer) plus solidarity surcharge
-- **[Australia](/us-investing/how-to-invest-in-us-stocks-from-australia):** 50% discount after 12 months, marginal rate applied to the remainder
+- **[Israel](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026/):** 25% flat rate on capital gains from securities (verified, PwC Tax Summaries 2026)
+- **[UK](/us-investing/invest-us-stocks-uk/):** 18-24% depending on income level
+- **[Germany](/us-investing/how-to-invest-in-us-stocks-from-germany/):** 25% (Abgeltungsteuer) plus solidarity surcharge
+- **[Australia](/us-investing/how-to-invest-in-us-stocks-from-australia/):** 50% discount after 12 months, marginal rate applied to the remainder
 
-For Israeli investors specifically: gains from TQQQ or UPRO are taxed at 25% in the year of realization. There is no equivalent of the U.S. Roth IRA structure in Israel that would shelter leveraged ETF gains from tax. Capital losses can be carried forward indefinitely under [Israeli tax](/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026) law.
+For Israeli investors specifically: gains from TQQQ or UPRO are taxed at 25% in the year of realization. There is no equivalent of the U.S. Roth IRA structure in Israel that would shelter leveraged ETF gains from tax. Capital losses can be carried forward indefinitely under [Israeli tax](/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026/) law.
 
 ### 4. UCITS alternatives - limited leverage, different structure
 
@@ -435,15 +435,4 @@ Leverage is a tool. Like all tools, its value depends entirely on whether it is 
 *All ETF performance data verified through May 2026. IBKR margin rates verified as of May 7, 2026. Past performance does not guarantee future results. Leveraged ETFs are complex financial instruments that may not be suitable for all investors. This article is for informational and educational purposes only and does not constitute investment advice. Consult a qualified financial advisor before implementing any leveraged investment strategy.
 
 ---
-
-## Related Articles
-
-- [Compounding Returns with TQQQ](/strategies/compounding-returns-tqqq)
-- [Dollar Cost Averaging TQQQ Strategy](/strategies/dollar-cost-averaging-tqqq)
-- [TQQQ vs QQQ: Which Is Right for International Investors?](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026)
-- [Selling Covered Calls on TQQQ for Monthly Income](/options-income/selling-covered-calls-tqqq)
-- [W-8BEN Form: Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors)
-- [Best Brokers for International Investors 2026](/best-brokers/best-brokers-international-investors-2026)
-- [Interactive Brokers Review 2026](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors)
-- [Tax Map - International Investor Tax Guide](/tax-map)*
 

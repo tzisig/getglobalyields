@@ -66,7 +66,7 @@ Use IV Rank (IVR) and IV Percentile (IVP) together. IVR tells you where current 
 | IV Regime | IVR Range | Typical IV Level | Preferred Strategies |
 |---|---|---|---|
 | Low | 0 - 30 | Below 50% | Long straddles, Long calls, LEAPS |
-| Normal | 30 - 50 | 50% - 70% | CSPs, [Covered calls](/options-income/selling-covered-calls-tqqq), PMCC |
+| Normal | 30 - 50 | 50% - 70% | CSPs, [Covered calls](/options-income/selling-covered-calls-tqqq/), PMCC |
 | Elevated | 50 - 75 | 70% - 100% | Iron condors, Short strangles, Wide CSPs |
 | Extreme | Above 75 | 100%+ | Defined-risk credit spreads only - no naked positions |
 
@@ -115,7 +115,7 @@ According to Option Samurai data from April 2026, TQQQ covered call opportunitie
 
 ## Strategy 2: Covered Calls (IVR Above 40, Neutral to Mildly Bullish)
 
-If you already [hold TQQQ](/strategies/tqqq-long-term-strategy-buy-and-hold) shares, selling covered calls extracts income from the elevated IV while creating a modest downside cushion.
+If you already [hold TQQQ](/strategies/tqqq-long-term-strategy-buy-and-hold/) shares, selling covered calls extracts income from the elevated IV while creating a modest downside cushion.
 
 **Strike selection:** Use the 0.20-0.25 delta range for 30-45 DTE. This balances premium collection against the cost of capping TQQQ's upside - which, in a strong trending period, can be substantial.
 
@@ -135,7 +135,7 @@ Rolling works when you believe the trend will continue but may pause. If you bel
 
 An iron condor sells both an OTM put spread and an OTM call spread simultaneously, collecting credit from both sides while defining the maximum loss on each wing. It profits when TQQQ stays within a set price range through expiration.
 
-**The realistic win rate data:** Iron condors using 15-20 delta short strikes with 30-45 DTE show a theoretical win rate of 65-70%. [Tastytrade](/best-brokers/tastytrade-review-2026) research across 4,872 trades from 2005 to 2019 found that closing positions at 50% of maximum profit - rather than holding to expiration - improved the win rate to 78-83% with substantially lower variance. The 50% management rule is not optional on TQQQ; it is a core part of making this strategy viable on a leveraged instrument.
+**The realistic win rate data:** Iron condors using 15-20 delta short strikes with 30-45 DTE show a theoretical win rate of 65-70%. [Tastytrade](/best-brokers/tastytrade-review-2026/) research across 4,872 trades from 2005 to 2019 found that closing positions at 50% of maximum profit - rather than holding to expiration - improved the win rate to 78-83% with substantially lower variance. The 50% management rule is not optional on TQQQ; it is a core part of making this strategy viable on a leveraged instrument.
 
 **Strike selection for TQQQ condors:**
 
@@ -239,7 +239,7 @@ From its November 2021 peak to the trough on December 28, 2022, TQQQ fell 81.66%
 
 For context: QQQ itself fell 32.7% over the same period. TQQQ's 3x leverage amplified the index loss by roughly 2.5x, not exactly 3x, because volatility decay compounded the losses on top of the leveraged index decline.
 
-**For [cash-secured put](/options-income/cash-secured-puts-high-iv) sellers in 2022:** Traders selling 30-delta puts at the start of the year collected 4-6% monthly in premium. When TQQQ began falling in January 2022, puts were assigned. The "effective cost basis" from assignment was already 15-20% below market. By March, TQQQ had declined another 30%+ from those assignment levels. Traders who were reinvesting premium into new puts - which looked logical given the high premium available - were compounding their exposure into a worsening drawdown. By year-end, even traders with "responsible" position sizing had suffered significant losses.
+**For [cash-secured put](/options-income/cash-secured-puts-high-iv/) sellers in 2022:** Traders selling 30-delta puts at the start of the year collected 4-6% monthly in premium. When TQQQ began falling in January 2022, puts were assigned. The "effective cost basis" from assignment was already 15-20% below market. By March, TQQQ had declined another 30%+ from those assignment levels. Traders who were reinvesting premium into new puts - which looked logical given the high premium available - were compounding their exposure into a worsening drawdown. By year-end, even traders with "responsible" position sizing had suffered significant losses.
 
 **For iron condor traders:** The put side of nearly every condor was breached consistently throughout 2022. Because TQQQ's moves exceeded even wide short strikes repeatedly, condors that work beautifully on SPY or QQQ produced maximum losses month after month.
 
@@ -316,13 +316,3 @@ Trade the structural edge. Size positions to survive the tail. Never mistake a h
 
 ---
 
-## Related Articles
-
-- [Selling Covered Calls on TQQQ: Step-by-Step Guide](/options-income/selling-covered-calls-tqqq)
-- [The Wheel Strategy on TQQQ](/options-income/wheel-strategy-tqqq)
-- [TQQQ Options Chain Analysis](/options-income/tqqq-options-chain-analysis)
-- [Cash-Secured Puts in High IV Environments](/options-income/cash-secured-puts-high-iv)
-- [TQQQ Recovery Case Study](/case-study/from-minus-70-to-plus-492k-real-tqqq-recovery-case-study)
-- [Risk Management for Leveraged ETF Investors](/strategies/risk-management-leveraged-etf-investors-2026)
-- [TQQQ Tax Guide for International Investors](/taxes/tqqq-tax-international-investors)
-- [Broker Fee Calculator](/broker-calculator)

@@ -28,7 +28,7 @@ Most income investors start in the same place: dividend stocks yielding 3-4%, bo
 
 Some of those numbers are real. Some are marketing. Most are real under specific conditions that the headline conveniently omits.
 
-This guide covers the five options income strategies that have a genuine statistical foundation - covered calls, cash-secured puts, [the wheel](/options-income/wheel-strategy-tqqq), the Poor Man's [Covered Call](/options-income/selling-covered-calls-tqqq), and covered call ETFs. For each one, you will see how it works, what it actually pays, what it costs you in exchange, and how it fits into a real portfolio. The guide closes with a direct comparison of what each strategy generates on a $50,000 account so you can evaluate them side by side.
+This guide covers the five options income strategies that have a genuine statistical foundation - covered calls, cash-secured puts, [the wheel](/options-income/wheel-strategy-tqqq/), the Poor Man's [Covered Call](/options-income/selling-covered-calls-tqqq/), and covered call ETFs. For each one, you will see how it works, what it actually pays, what it costs you in exchange, and how it fits into a real portfolio. The guide closes with a direct comparison of what each strategy generates on a $50,000 account so you can evaluate them side by side.
 
 There is no single best strategy here. There is a best strategy for your specific situation - and that depends on how much capital you have, how much time you want to spend managing positions, and what you are willing to give up in exchange for income.
 
@@ -59,7 +59,7 @@ If the stock stays below the strike at expiration, the option expires worthless 
 
 Instead of selling calls against shares you own, you sell the right to force you to buy shares at a specific price. You collect premium for accepting that obligation and hold cash equal to the full purchase cost as collateral.
 
-The mechanics are covered in detail in our [dedicated cash-secured puts guide](/options-income/cash-secured-puts-high-iv). The key point here is the strategic positioning: cash-secured puts are what you run when you do not yet own the stock but want to acquire it at a target price while getting paid to wait. If you would genuinely be happy buying Apple at $200 when it is trading at $215, selling the $200 put collects income and gives you your entry point if the stock pulls back.
+The mechanics are covered in detail in our [dedicated cash-secured puts guide](/options-income/cash-secured-puts-high-iv/). The key point here is the strategic positioning: cash-secured puts are what you run when you do not yet own the stock but want to acquire it at a target price while getting paid to wait. If you would genuinely be happy buying Apple at $200 when it is trading at $215, selling the $200 put collects income and gives you your entry point if the stock pulls back.
 
 **What it pays.** Similar to covered calls on the same underlying - typically 1-2% per month on the capital held as collateral at a 0.25 delta strike. Because puts often carry slightly higher implied volatility than equivalent calls (a phenomenon called put skew), cash-secured puts sometimes collect marginally more premium than covered calls at the same delta.
 
@@ -155,15 +155,15 @@ Options income is not all equal from a tax perspective - and this section looks 
 
 **US investors.** Premium income from covered calls and cash-secured puts on individual stocks is taxed as short-term capital gains - ordinary income rates regardless of holding period. If your marginal rate is 32%, a 15% gross yield becomes a 10.2% after-tax yield. SPX-based strategies qualify for Section 1256 treatment: 60% of gains taxed at long-term capital gains rates and 40% at short-term rates, regardless of holding period. For a 32% bracket investor, this reduces the effective rate to approximately 23.2%. The after-tax difference on $10,000 in annual premium is nearly $900. Running any of these strategies inside a Roth IRA eliminates tax drag entirely - the most compelling and underutilized advantage available to US options sellers.
 
-**Israeli investors.** Capital gains on financial assets - including options premium - are taxed at a flat 25% for individual investors (30% for holders of 10%+ in a company). This applies to both realized gains and premium income. There is no equivalent of the US Roth IRA or Section 1256 preferential treatment for index options. However, the 25% flat rate is meaningfully lower than the top marginal income tax rate of up to 50% in [Israel](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026) - which means options income structured as capital gains is relatively tax-efficient by local standards. Israeli investors running these strategies in foreign brokerage accounts must report income to the [Israeli Tax](/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026) Authority and may be subject to withholding at source depending on the broker's jurisdiction. Consult a licensed Israeli tax adviser before starting.
+**Israeli investors.** Capital gains on financial assets - including options premium - are taxed at a flat 25% for individual investors (30% for holders of 10%+ in a company). This applies to both realized gains and premium income. There is no equivalent of the US Roth IRA or Section 1256 preferential treatment for index options. However, the 25% flat rate is meaningfully lower than the top marginal income tax rate of up to 50% in [Israel](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026/) - which means options income structured as capital gains is relatively tax-efficient by local standards. Israeli investors running these strategies in foreign brokerage accounts must report income to the [Israeli Tax](/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026/) Authority and may be subject to withholding at source depending on the broker's jurisdiction. Consult a licensed Israeli tax adviser before starting.
 
-**[UK](/us-investing/invest-us-stocks-uk) investors.** Options premium income falls under Capital Gains Tax in the UK. The annual CGT exemption is £3,000 for 2026/27. Above that, basic rate taxpayers pay 18% on gains from financial assets, higher rate taxpayers pay 24%. The Stocks and Shares ISA - with a £20,000 annual allowance for 2026/27 - shelters investment returns from both CGT and income tax. However, most UK ISA providers do not currently support options selling strategies such as covered calls or cash-secured puts directly. UK investors who want the tax shelter of an ISA for options income strategies typically need to use covered call ETFs like JEPI or QYLD, which can be held inside a Stocks and Shares ISA without restriction.
+**[UK](/us-investing/invest-us-stocks-uk/) investors.** Options premium income falls under Capital Gains Tax in the UK. The annual CGT exemption is £3,000 for 2026/27. Above that, basic rate taxpayers pay 18% on gains from financial assets, higher rate taxpayers pay 24%. The Stocks and Shares ISA - with a £20,000 annual allowance for 2026/27 - shelters investment returns from both CGT and income tax. However, most UK ISA providers do not currently support options selling strategies such as covered calls or cash-secured puts directly. UK investors who want the tax shelter of an ISA for options income strategies typically need to use covered call ETFs like JEPI or QYLD, which can be held inside a Stocks and Shares ISA without restriction.
 
 **European investors (general).** Tax treatment varies significantly by country. Most European jurisdictions tax financial gains as either capital gains or investment income, typically at rates between 15% and 30%. There is generally no equivalent of the US Roth IRA or Section 1256 preferential treatment. Covered call ETFs like JEPI and QYLD are widely accessible through European brokers, but active options selling strategies may require margin accounts or specific broker approvals that vary by country. Check your local tax authority's guidance on derivative income before starting.
 
 **The universal rule.** Regardless of jurisdiction, the tax treatment of options income affects your real return significantly. A strategy generating 15% gross yield in a 30% tax environment nets 10.5%. The same strategy in a 25% environment nets 11.25%. Over ten years of compounding, that 75 basis point difference on a $100,000 account is over $15,000. Get the tax structure right before optimizing the strategy itself.
 
-JEPI and JEPQ use equity-linked notes rather than direct options. A portion of their distributions is classified as return of capital, which defers tax rather than eliminating it. QYLD's distributions are largely ordinary income in the US - check how your local jurisdiction treats distributions from US-domiciled ETFs, as this varies. For brokers that support active options strategies for non-US investors, see our [Interactive Brokers review](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors) and [tastytrade review](/best-brokers/tastytrade-review-2026).
+JEPI and JEPQ use equity-linked notes rather than direct options. A portion of their distributions is classified as return of capital, which defers tax rather than eliminating it. QYLD's distributions are largely ordinary income in the US - check how your local jurisdiction treats distributions from US-domiciled ETFs, as this varies. For brokers that support active options strategies for non-US investors, see our [Interactive Brokers review](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/) and [tastytrade review](/best-brokers/tastytrade-review-2026/).
 
 ---
 
@@ -179,7 +179,7 @@ JEPI and JEPQ use equity-linked notes rather than direct options. A portion of t
 
 **You want monthly income with zero management, and you are in or near retirement.** JEPI or JEPQ. Accept the expense ratio and the capped upside. Reinvest a portion of distributions if you do not need the full income immediately, to partially offset NAV drift.
 
-**You want the highest possible yield and do not care about total return.** QYLD. Understand that the 11-13% yield comes from systematically selling all upside in the Nasdaq-100. In years when QQQ returns 25%, QYLD will return 10-11%. That is the trade you are making. For a side-by-side comparison of covered call ETFs, read [JEPI vs SCHD vs QYLD](/strategies/jepi-vs-schd-vs-qyld).
+**You want the highest possible yield and do not care about total return.** QYLD. Understand that the 11-13% yield comes from systematically selling all upside in the Nasdaq-100. In years when QQQ returns 25%, QYLD will return 10-11%. That is the trade you are making. For a side-by-side comparison of covered call ETFs, read [JEPI vs SCHD vs QYLD](/strategies/jepi-vs-schd-vs-qyld/).
 
 ---
 
@@ -207,13 +207,3 @@ The investors who generate genuine long-term income from options are not the one
 
 ---
 
-## Related Articles
-
-- [Selling Covered Calls on TQQQ: Step-by-Step Guide](/options-income/selling-covered-calls-tqqq)
-- [The Wheel Strategy on TQQQ](/options-income/wheel-strategy-tqqq)
-- [Cash-Secured Puts in High IV Environments](/options-income/cash-secured-puts-high-iv)
-- [TQQQ Implied Volatility Strategies](/options-income/tqqq-implied-volatility-strategies)
-- [TQQQ Recovery Case Study](/case-study/from-minus-70-to-plus-492k-real-tqqq-recovery-case-study)
-- [Risk Management for Leveraged ETF Investors](/strategies/risk-management-leveraged-etf-investors-2026)
-- [TQQQ Tax Guide for International Investors](/taxes/tqqq-tax-international-investors)
-- [Broker Fee Calculator](/broker-calculator)

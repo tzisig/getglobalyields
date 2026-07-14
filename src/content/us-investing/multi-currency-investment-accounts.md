@@ -23,13 +23,13 @@ readingTime: "11 min read"
 featured: false
 ---
 
-Take a [German](/us-investing/how-to-invest-in-us-stocks-from-germany) investor building a long-term portfolio in US ETFs. She opens an account with a USD-only broker, spends weeks comparing commissions, picks the zero-commission option, and feels good about the decision. What she doesn't notice: every time she wires euros into her account, her broker converts at a rate 1.5% below the interbank mid-market. Four deposits a year. €5,000 each. That's €300 disappearing quietly every year - not as a fee, not as a line item, just as a slightly worse exchange rate. Over ten years, with compounding, that's closer to €4,000 gone.
+Take a [German](/us-investing/how-to-invest-in-us-stocks-from-germany/) investor building a long-term portfolio in US ETFs. She opens an account with a USD-only broker, spends weeks comparing commissions, picks the zero-commission option, and feels good about the decision. What she doesn't notice: every time she wires euros into her account, her broker converts at a rate 1.5% below the interbank mid-market. Four deposits a year. €5,000 each. That's €300 disappearing quietly every year - not as a fee, not as a line item, just as a slightly worse exchange rate. Over ten years, with compounding, that's closer to €4,000 gone.
 
 The broker she almost chose instead charged $0.03 per $100 converted. The same four deposits would have cost her about $12 per year total.
 
 That gap - between a lazy FX setup and a deliberate one - is what this guide is about. Not which broker has the prettiest app. Which one handles your money across currencies without bleeding you at the exchange rate.
 
-The numbers above aren't hypothetical. On a $100,000 portfolio with four deposits a year, a 1.5% FX markup costs roughly $6,000 over ten years. The [best brokers](/best-brokers/best-brokers-international-investors-2026) charge 0.03 basis points - the same deposits cost about $120. The difference is $5,880, and most reviews don't mention it at all.
+The numbers above aren't hypothetical. On a $100,000 portfolio with four deposits a year, a 1.5% FX markup costs roughly $6,000 over ten years. The [best brokers](/best-brokers/best-brokers-international-investors-2026/) charge 0.03 basis points - the same deposits cost about $120. The difference is $5,880, and most reviews don't mention it at all.
 
 Here are the accounts that get this right.
 
@@ -51,15 +51,15 @@ The brokers in this guide are the ones that actually show you what FX costs, cha
 
 ## The Top Options
 
-### 1. [Interactive Brokers](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors) - The Best Overall
+### 1. [Interactive Brokers](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/) - The Best Overall
 
-[IBKR](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors) is the default answer for most serious international investors, and the FX workflow is the main reason why.
+[IBKR](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/) is the default answer for most serious international investors, and the FX workflow is the main reason why.
 
-Currency conversion at IBKR costs 0.03 basis points (0.0003%) with a minimum commission of $2. The numbers are worth making concrete: an [Israeli](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026) investor converting ₪20,000 (roughly $5,500) to USD pays $2 at IBKR. The same conversion at a typical Israeli bank with a 1.2% spread costs around $66. Do that eight times a year and IBKR saves you over $500 annually on funding costs alone - before a single trade.
+Currency conversion at IBKR costs 0.03 basis points (0.0003%) with a minimum commission of $2. The numbers are worth making concrete: an [Israeli](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026/) investor converting ₪20,000 (roughly $5,500) to USD pays $2 at IBKR. The same conversion at a typical Israeli bank with a 1.2% spread costs around $66. Do that eight times a year and IBKR saves you over $500 annually on funding costs alone - before a single trade.
 
 The account supports funding in 29 currencies. You can hold balances in multiple currencies simultaneously without forced conversion - euros and USD and GBP can coexist in the same account, each earning their respective interest rates, and you convert only when you choose to. That "convert on purpose" approach is one of IBKR's most underrated features. If your trading currency and funding currency match, you skip the conversion entirely.
 
-IBKR also integrates directly with Wise. Make sure your [W-8BEN](/taxes/w8ben-form-non-us-investors) is on file to benefit from reduced dividend withholding rates - see our [US Dividend Withholding Guide](/taxes/taxes-us-dividends-foreign-investors). Clients can fund their IBKR account using Wise Balance at the true mid-market rate, with a fixed transfer fee of around $0.39. That combination - Wise for the currency move, IBKR for the investment - is close to the theoretical minimum for FX drag on a cross-currency investing workflow.
+IBKR also integrates directly with Wise. Make sure your [W-8BEN](/taxes/w8ben-form-non-us-investors/) is on file to benefit from reduced dividend withholding rates - see our [US Dividend Withholding Guide](/taxes/taxes-us-dividends-foreign-investors/). Clients can fund their IBKR account using Wise Balance at the true mid-market rate, with a fixed transfer fee of around $0.39. That combination - Wise for the currency move, IBKR for the investment - is close to the theoretical minimum for FX drag on a cross-currency investing workflow.
 
 Beyond the FX side: 150+ global markets across 33 countries, margin rates around 5-6% for most balances, competitive cash yields (up to 3.14% on USD balances above $100k as of May 2026), and SIPC protection plus supplemental Lloyd's of London coverage. The platform is genuinely complex - Trader Workstation is not something you open for the first time and immediately understand - but the GlobalTrader mobile app offers a more accessible entry point.
 
@@ -71,7 +71,7 @@ Beyond the FX side: 150+ global markets across 33 countries, margin rates around
 
 ### 2. Saxo Bank - The Premium Multi-Asset Option
 
-[Saxo](/best-brokers/saxo-bank-review-2026) is a Danish investment bank with a different positioning than IBKR - closer to a private bank experience, with 70,000+ instruments across every major asset class and a platform quality that consistently wins industry awards. For multi-currency specifically, it supports account funding in 21 currencies and allows sub-currency accounts to manage FX exposure separately within a single account structure.
+[Saxo](/best-brokers/saxo-bank-review-2026/) is a Danish investment bank with a different positioning than IBKR - closer to a private bank experience, with 70,000+ instruments across every major asset class and a platform quality that consistently wins industry awards. For multi-currency specifically, it supports account funding in 21 currencies and allows sub-currency accounts to manage FX exposure separately within a single account structure.
 
 The FX story at Saxo is more complicated than at IBKR, and it depends heavily on which account tier you're on.
 
@@ -95,7 +95,7 @@ The setup: you hold your home currency in Wise (which supports 40+ currencies), 
 
 The practical effect is that you bypass your local bank's FX markup entirely. For investors in countries where local bank wire fees and FX spreads are high - which covers most of the world - this combination can save hundreds of dollars per year on funding costs alone.
 
-Wise itself is regulated by the FCA in the [UK](/us-investing/invest-us-stocks-uk) and multiple other jurisdictions, holds client funds in segregated accounts, and has processed over $100 billion in transfers. It's a legitimate, well-regulated piece of infrastructure, not a workaround.
+Wise itself is regulated by the FCA in the [UK](/us-investing/invest-us-stocks-uk/) and multiple other jurisdictions, holds client funds in segregated accounts, and has processed over $100 billion in transfers. It's a legitimate, well-regulated piece of infrastructure, not a workaround.
 
 **FX cost at funding stage:** Wise's transparent percentage fee (varies by currency pair, typically 0.4-1.0%) + $0.39 transfer to IBKR
 **Best for:** Investors in countries with expensive local bank FX or wire fees

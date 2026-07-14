@@ -143,7 +143,7 @@ This is not a flaw in the strategy - it is the intended mechanism. Buying more T
 
 ## Tax Treatment: The Variable That Changes Everything
 
-Rebalancing a leveraged ETF position in a taxable account creates taxable events. This is not a minor consideration - it is often the primary factor determining the practical [rebalancing strategy](/strategies/leveraged-etf-rebalancing-reduce-decay).
+Rebalancing a leveraged ETF position in a taxable account creates taxable events. This is not a minor consideration - it is often the primary factor determining the practical [rebalancing strategy](/strategies/leveraged-etf-rebalancing-reduce-decay/).
 
 ### In a taxable account (US investors)
 
@@ -230,7 +230,7 @@ The rebalancing framework applies globally. What changes is the tax treatment of
 
 ### Israeli Investors
 
-[Israeli](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026) residents pay 25% capital gains tax on the real (inflation-adjusted) gain from the sale of securities, per the Income Tax Ordinance. As of 2025, investors whose annual capital income exceeds NIS 721,560 face an additional 2% surtax on top of the existing 3% general income surtax - bringing the effective rate on high-income capital gains to 30% above that threshold. Capital losses can be offset against capital gains, dividend income, and interest from other securities (provided the income was not taxed above 25%), and can be carried forward indefinitely.
+[Israeli](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026/) residents pay 25% capital gains tax on the real (inflation-adjusted) gain from the sale of securities, per the Income Tax Ordinance. As of 2025, investors whose annual capital income exceeds NIS 721,560 face an additional 2% surtax on top of the existing 3% general income surtax - bringing the effective rate on high-income capital gains to 30% above that threshold. Capital losses can be offset against capital gains, dividend income, and interest from other securities (provided the income was not taxed above 25%), and can be carried forward indefinitely.
 
 **What this means in practice for a TQQQ portfolio:**
 
@@ -238,17 +238,17 @@ Consider an Israeli investor with a $300,000 portfolio, 20% TQQQ ($60,000), who 
 
 This is exactly why the contribution-first rule matters more for Israeli investors than for US investors in tax-advantaged accounts. Every NIS 100 of rebalancing gain avoided through contribution redirection saves NIS 25 in tax. For portfolios with regular contributions, most drift can be corrected without any sale.
 
-**Tax-loss harvesting in Israel:** When TQQQ falls and triggers the lower threshold, Israeli investors face the same opportunity as US investors: sell to realize the loss, hold a different instrument for 31 days to avoid the wash-sale equivalent concern under [Israeli tax](/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026) practice (the Israeli Tax Authority has not issued a formal wash-sale rule identical to the US one, but best practice is to maintain a different instrument for 30+ days), then return to TQQQ. Realized losses carry forward indefinitely and offset future capital gains at the 25% rate.
+**Tax-loss harvesting in Israel:** When TQQQ falls and triggers the lower threshold, Israeli investors face the same opportunity as US investors: sell to realize the loss, hold a different instrument for 31 days to avoid the wash-sale equivalent concern under [Israeli tax](/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026/) practice (the Israeli Tax Authority has not issued a formal wash-sale rule identical to the US one, but best practice is to maintain a different instrument for 30+ days), then return to TQQQ. Realized losses carry forward indefinitely and offset future capital gains at the 25% rate.
 
 **New immigrant (oleh) exemption:** Israeli residents who qualify as new immigrants (olim hadashim) are exempt from Israeli tax on foreign-source capital gains for 10 years from the date of aliyah. For an oleh investing in US-listed leveraged ETFs through an overseas broker, rebalancing transactions during the exemption period generate zero Israeli tax liability. This is a significant practical advantage - rebalancing can follow the optimal threshold framework without any tax friction during the exemption window.
 
 ### EU Investors (UCITS Leveraged ETFs)
 
-EU investors holding 2x UCITS leveraged ETFs rather than 3x US products face the same rebalancing framework with narrower threshold bands appropriate to the lower volatility profile of 2x leverage. [German](/us-investing/how-to-invest-in-us-stocks-from-germany) investors at 25% Abgeltungsteuer and [UK](/us-investing/invest-us-stocks-uk) investors at 18-24% CGT face similar contribution-first logic: direct new capital to underweight positions before triggering sales.
+EU investors holding 2x UCITS leveraged ETFs rather than 3x US products face the same rebalancing framework with narrower threshold bands appropriate to the lower volatility profile of 2x leverage. [German](/us-investing/how-to-invest-in-us-stocks-from-germany/) investors at 25% Abgeltungsteuer and [UK](/us-investing/invest-us-stocks-uk/) investors at 18-24% CGT face similar contribution-first logic: direct new capital to underweight positions before triggering sales.
 
 ### IBKR Tools for Non-US Investors
 
-[Interactive Brokers](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors)' portfolio analyst tools allow threshold monitoring across accounts. Non-US investors using IBKR can set allocation alerts that trigger when positions breach defined bands - automating the monthly check step without requiring manual calculation.
+[Interactive Brokers](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/)' portfolio analyst tools allow threshold monitoring across accounts. Non-US investors using IBKR can set allocation alerts that trigger when positions breach defined bands - automating the monthly check step without requiring manual calculation.
 
 ---
 
@@ -295,22 +295,9 @@ The investors who managed leveraged ETF allocations successfully through 2022 - 
 
 Write the rule before you need it. Follow it when you do.
 
-*For a deeper understanding of why volatility decay occurs mathematically - and four strategies that address it at the product and portfolio level - see our companion guide: [Volatility Decay in Leveraged ETFs: The Math, the Myth, and Four Strategies That Actually Work](/strategies/leveraged-etf-rebalancing-reduce-decay).*
+*For a deeper understanding of why volatility decay occurs mathematically - and four strategies that address it at the product and portfolio level - see our companion guide: [Volatility Decay in Leveraged ETFs: The Math, the Myth, and Four Strategies That Actually Work](/strategies/leveraged-etf-rebalancing-reduce-decay/).*
 
 ---
-
-## Related Articles
-
-- [Volatility Decay in Leveraged ETFs: The Math and Strategies](/strategies/leveraged-etf-rebalancing-reduce-decay)
-- [TQQQ vs QQQ: Which Is Right for International Investors?](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026)
-- [Risk Management for Leveraged ETF Investors](/strategies/risk-management-leveraged-etf-investors-2026)
-- [Portfolio Diversification with Leveraged Funds](/strategies/portfolio-diversification-leveraged-funds)
-- [Selling Covered Calls on TQQQ for Monthly Income](/options-income/selling-covered-calls-tqqq)
-- [W-8BEN Form: Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors)
-- [TQQQ Tax Guide for International Investors](/taxes/tqqq-tax-international-investors)
-- [Best Brokers for International Investors 2026](/best-brokers/best-brokers-international-investors-2026)
-- [Interactive Brokers Review 2026](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors)
-- [Tax Map - International Investor Tax Guide](/tax-map)
 
 ---
 

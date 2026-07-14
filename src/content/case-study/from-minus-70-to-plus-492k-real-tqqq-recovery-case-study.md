@@ -26,7 +26,7 @@ products: ["TQQQ", "Options"]
 > **Key Stats:**
 > * **Asset:** TQQQ (ProShares UltraPro QQQ)
 > * **Duration:** Jan 2022 - April 2026 (Ongoing)
-> * **Strategy Type:** [Wheel Strategy](/options-income/wheel-strategy-tqqq) / Leveraged Long-Term Holding
+> * **Strategy Type:** [Wheel Strategy](/options-income/wheel-strategy-tqqq/) / Leveraged Long-Term Holding
 
 > [!IMPORTANT]
 > **The Short Version**
@@ -36,7 +36,7 @@ products: ["TQQQ", "Options"]
 > *   **Added collateral:** $40,000 (Feb 2023)
 > *   **Total invested:** $140,000
 > *   **Current value:** $492,000 (over +250%) - April 2026
-> *   **Method:** TQQQ + [Covered Calls](/options-income/selling-covered-calls-tqqq) + Short Puts
+> *   **Method:** TQQQ + [Covered Calls](/options-income/selling-covered-calls-tqqq/) + Short Puts
 > 
 > *This is not a success story. It's a reconstruction after a near wipeout.*
 
@@ -74,7 +74,7 @@ At the bottom, I stopped trading and started thinking.
 
 ### Core position:
 *   Bought ~2,000 shares of TQQQ at ~$25
-*   Added $40,000 as cash collateral to support [selling puts](/options-income/cash-secured-puts-high-iv) without broker margin
+*   Added $40,000 as cash collateral to support [selling puts](/options-income/cash-secured-puts-high-iv/) without broker margin
 
 ### Layer 1: Covered Calls
 Sold calls continuously against shares.
@@ -115,7 +115,7 @@ Not one thing. A combination:
 **The Leverage Factor:**
 While a standard investment in QQQ would have recovered significantly during this period, it wouldn't have provided the same fuel for the options engine. The 3x leverage of TQQQ is what allowed for such a dramatic recovery but it came with 3x the heartaches in 2022.
 
-🔗 Read the full breakdown: [TQQQ vs. QQQ: Which is Right for International Investors?](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026) - Explore the math behind the decay risk and why I chose the leveraged path.
+🔗 Read the full breakdown: [TQQQ vs. QQQ: Which is Right for International Investors?](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026/) - Explore the math behind the decay risk and why I chose the leveraged path.
 
 ## 5. What Did NOT Go Smoothly
 **Drawdowns during recovery:**
@@ -225,10 +225,3 @@ The biggest risk is not volatility. It’s applying this in the wrong market env
 
 ---
 
-## Related Articles
-
-- [TQQQ vs QQQ: Which Is Right for International Investors?](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026)
-- [TQQQ Long-Term Strategy: Buy and Hold Analysis](/strategies/tqqq-long-term-strategy-buy-and-hold)
-- [Selling Covered Calls on TQQQ for Monthly Income](/options-income/selling-covered-calls-tqqq)
-- [Risk Management for Leveraged ETF Investors](/strategies/risk-management-leveraged-etf-investors-2026)
-- [Dollar-Cost Averaging TQQQ](/strategies/dollar-cost-averaging-tqqq)

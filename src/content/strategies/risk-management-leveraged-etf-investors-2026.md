@@ -36,7 +36,7 @@ In 2022, an investor who held 100% of a $300,000 portfolio in TQQQ watched it fa
 
 This guide is for investors who hold or are considering leveraged ETFs and want a structured, research-backed approach to managing the risk - not eliminating it, which is impossible with 3x leverage, but sizing it so that the worst historical scenarios do not produce outcomes that cannot be recovered from.
 
-If you are new to leveraged ETFs, read the [TQQQ vs QQQ guide](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026) first. Risk management decisions only make sense once you understand what daily leverage reset and volatility decay do to a position over time.
+If you are new to leveraged ETFs, read the [TQQQ vs QQQ guide](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026/) first. Risk management decisions only make sense once you understand what daily leverage reset and volatility decay do to a position over time.
 
 ---
 
@@ -168,9 +168,9 @@ When TQQQ allocation drifts above the target by more than ±5 percentage points 
 
 This applies symmetrically: when TQQQ falls and the allocation drifts below target (e.g., from 25% to 18%), the portfolio carries less leveraged exposure than intended. Rebalancing by buying TQQQ at depressed prices restores the allocation and, in practice, buys into the position at lower prices after a drawdown.
 
-**Tax consideration for [Israeli](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026) investors:** Rebalancing upward (selling appreciated TQQQ) triggers a 25% CGT event on the gain. Before selling any TQQQ, direct new contributions to the unleveraged component first. If you contribute $2,000 per month and TQQQ has drifted from 25% to 31%, several months of contributions directed entirely to SPY or bonds can correct part of the drift without triggering any taxable event. This contribution-first approach delays the tax event and achieves partial rebalancing at zero tax cost - only the remaining drift that contributions cannot correct requires an actual sale.
+**Tax consideration for [Israeli](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026/) investors:** Rebalancing upward (selling appreciated TQQQ) triggers a 25% CGT event on the gain. Before selling any TQQQ, direct new contributions to the unleveraged component first. If you contribute $2,000 per month and TQQQ has drifted from 25% to 31%, several months of contributions directed entirely to SPY or bonds can correct part of the drift without triggering any taxable event. This contribution-first approach delays the tax event and achieves partial rebalancing at zero tax cost - only the remaining drift that contributions cannot correct requires an actual sale.
 
-For the full rebalancing framework including threshold bands and frequency, see the Comprehensive Guide to Leveraged ETF [Rebalancing Strategy](/strategies/leveraged-etf-rebalancing-reduce-decay). This section addresses only the risk management dimension: drift beyond ±5 percentage points from the target allocation represents a material change in the portfolio's risk profile that warrants correction.
+For the full rebalancing framework including threshold bands and frequency, see the Comprehensive Guide to Leveraged ETF [Rebalancing Strategy](/strategies/leveraged-etf-rebalancing-reduce-decay/). This section addresses only the risk management dimension: drift beyond ±5 percentage points from the target allocation represents a material change in the portfolio's risk profile that warrants correction.
 
 ---
 
@@ -199,7 +199,7 @@ The drawdown limit is written down before the position is opened. It is not reco
 
 ## Hedging: What Works and What Costs Too Much
 
-Some investors attempt to [hedge leveraged](/strategies/how-to-hedge-tqqq) ETF positions using put options or inverse ETFs. Alternatively, some investors generate income on their leveraged positions using [covered calls](/options-income/selling-covered-calls-tqqq). The mechanics are correct - a long put on TQQQ or a position in SQQQ (3x inverse Nasdaq-100) gains value when TQQQ falls. The practical challenge is cost.
+Some investors attempt to [hedge leveraged](/strategies/how-to-hedge-tqqq/) ETF positions using put options or inverse ETFs. Alternatively, some investors generate income on their leveraged positions using [covered calls](/options-income/selling-covered-calls-tqqq/). The mechanics are correct - a long put on TQQQ or a position in SQQQ (3x inverse Nasdaq-100) gains value when TQQQ falls. The practical challenge is cost.
 
 ### Put options as a hedge
 
@@ -213,7 +213,7 @@ For most investors, position sizing and the SMA exit rule provide more cost-effe
 
 SQQQ (3x inverse Nasdaq-100) is a short-term instrument not suitable as a long-term hedge for TQQQ. Volatility decay affects inverse leveraged ETFs at the same mathematical rate as long leveraged ETFs. A long TQQQ / long SQQQ position does not cancel out - it compounds decay in both directions simultaneously. SQQQ as a tactical hedge for periods measured in days or weeks is coherent. As a portfolio hedge measured in months or years, it destroys value in both legs.
 
-For the complete case study of how risk management saved a 70% drawdown, read [From -70% to +250%](/case-study/from-minus-70-to-plus-492k-real-tqqq-recovery-case-study).
+For the complete case study of how risk management saved a 70% drawdown, read [From -70% to +250%](/case-study/from-minus-70-to-plus-492k-real-tqqq-recovery-case-study/).
 
 ---
 
@@ -235,13 +235,13 @@ For Israeli investors, every risk management action that requires selling a TQQQ
 
 **3. Full exit with tax planning.** If the SMA crossover occurs late in the calendar year (November-December), consider deferring the exit to January to push the tax liability into the next tax year, gaining 12 months of tax deferral on the payment. If the SMA crossover occurs earlier in the year, crystallize the loss on any other position in the portfolio to offset the TQQQ gain partially.
 
-Under [Israeli tax](/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026) law, capital losses on securities can offset capital gains from other securities in the same tax year, and unused losses carry forward indefinitely. An investor who simultaneously harvests losses elsewhere in the portfolio when the TQQQ SMA exit triggers can reduce or eliminate the net tax liability from the exit.
+Under [Israeli tax](/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026/) law, capital losses on securities can offset capital gains from other securities in the same tax year, and unused losses carry forward indefinitely. An investor who simultaneously harvests losses elsewhere in the portfolio when the TQQQ SMA exit triggers can reduce or eliminate the net tax liability from the exit.
 
 **The re-entry question:** When the S&P 500 crosses back above its 200-day SMA and the investor re-enters TQQQ, the new cost basis resets at the re-entry price. If TQQQ fell significantly between exit and re-entry (as in 2022, where the exit was near $62 and the re-entry opportunity was near $20-25), the investor re-establishes a low-cost-basis position with significant embedded gain potential in the subsequent recovery.
 
 ### IBKR Tools for International Investors
 
-[Interactive Brokers](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors) provides portfolio VaR (Value at Risk) calculations, stress test scenarios, and allocation alerts. Non-US investors using IBKR can set a price alert on the S&P 500 index level equal to its current 200-day SMA - receiving a notification when the crossover occurs without manual daily monitoring. The 200-day SMA level is available directly in IBKR's charting tools (TWS and the web platform).
+[Interactive Brokers](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/) provides portfolio VaR (Value at Risk) calculations, stress test scenarios, and allocation alerts. Non-US investors using IBKR can set a price alert on the S&P 500 index level equal to its current 200-day SMA - receiving a notification when the crossover occurs without manual daily monitoring. The 200-day SMA level is available directly in IBKR's charting tools (TWS and the web platform).
 
 ### UCITS Investors
 
@@ -298,7 +298,7 @@ No. In choppy sideways markets, it generates false signals - exit and re-entry s
 Check the S&P 500's closing price relative to its 200-day SMA weekly. Free tools (StockCharts, TradingView) display this visually. When the S&P 500 closes below the 200-day SMA, reduce or exit the leveraged position. Define the re-entry condition (close back above 200-day SMA for two consecutive weeks, for example) before executing the exit.
 
 **What if I cannot monitor the SMA weekly?**
-Set a price alert on your [broker platform](/best-brokers/best-brokers-international-investors-2026) or a free service like TradingView. The 200-day SMA moves slowly - it rarely changes by more than a few points per day. A weekly check is sufficient. Monthly monitoring creates the risk of missing the crossover signal during a fast-moving market decline.
+Set a price alert on your [broker platform](/best-brokers/best-brokers-international-investors-2026/) or a free service like TradingView. The 200-day SMA moves slowly - it rarely changes by more than a few points per day. A weekly check is sufficient. Monthly monitoring creates the risk of missing the crossover signal during a fast-moving market decline.
 
 ---
 
@@ -310,7 +310,7 @@ The three-layer framework - quarter-Kelly position sizing, 200-day SMA exit rule
 
 Return to the investor from the opening of this guide: $300,000 in TQQQ fell to $55,500 in 2022. With quarter-Kelly sizing, the TQQQ position would have been $75,000 of a $300,000 portfolio - and fallen to $13,875, leaving $243,000 intact. With the SMA exit rule applied in January 2022, the exit at approximately $62 per share preserved approximately 70% of the TQQQ position's value before the catastrophic phase. With both applied together, the 2022 experience was painful but survivable. Without either, it was devastating.
 
-Write the rules before you invest. The moment you are watching a position fall 40% is not when sound risk frameworks are designed. For the long-term outlook, see [TQQQ Long-Term Outlook](/strategies/tqqq-long-term-outlook). Compare leveraged ETF options in [TQQQ vs SOXL vs UPRO](/strategies/tqqq-vs-soxl-vs-upro-best-leveraged-etf-2026). Use the [Broker Finder](/broker-finder/) and [Broker Calculator](/broker-calculator/) to optimize your setup.
+Write the rules before you invest. The moment you are watching a position fall 40% is not when sound risk frameworks are designed. For the long-term outlook, see [TQQQ Long-Term Outlook](/strategies/tqqq-long-term-outlook/). Compare leveraged ETF options in [TQQQ vs SOXL vs UPRO](/strategies/tqqq-vs-soxl-vs-upro-best-leveraged-etf-2026/). Use the [Broker Finder](/broker-finder/) and [Broker Calculator](/broker-calculator/) to optimize your setup.
 
 ---
 

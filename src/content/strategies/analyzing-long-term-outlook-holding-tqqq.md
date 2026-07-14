@@ -27,12 +27,12 @@ rating: 4.8
 
 <!-- ADSENSE / AFFILIATE PLACEHOLDER
      Position: Top of article, before content
-     Recommended: Responsive AdSense display unit or broker affiliate banner ([IBKR](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors), [Saxo](/best-brokers/saxo-bank-review-2026))
+     Recommended: Responsive AdSense display unit or broker affiliate banner ([IBKR](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/), [Saxo](/best-brokers/saxo-bank-review-2026/))
      Replace this comment block with your AdSense tag or affiliate banner HTML -->
 
 Imagine two investors who both bought TQQQ. The first bought in February 2010, the month it launched, and held for 16 years. By late May 2026, their $10,000 had grown to over $3.95 million - a nominal total return of +39,526%, compounding at 44.38% per year. The second investor bought in January 2000, a year before TQQQ existed - but had they been able to, based on what the Nasdaq did from that peak, their position would still be deeply underwater today. The Nasdaq fell 83% over 30 months following the dot-com peak. A simulated 3x leveraged version of that crash would have approached a total wipeout, and the recovery path from that entry point has never fully closed the gap with an unlevered QQQ position.
 
-For the buy-and-hold framework, see [TQQQ Long-Term Strategy: Buy and Hold](/strategies/tqqq-long-term-strategy-buy-and-hold). Also see [TQQQ Long-Term Outlook](/strategies/tqqq-long-term-outlook), [Dollar-Cost Averaging TQQQ](/strategies/dollar-cost-averaging-tqqq), and [Compounding Returns with TQQQ](/strategies/compounding-returns-tqqq).
+For the buy-and-hold framework, see [TQQQ Long-Term Strategy: Buy and Hold](/strategies/tqqq-long-term-strategy-buy-and-hold/). Also see [TQQQ Long-Term Outlook](/strategies/tqqq-long-term-outlook/), [Dollar-Cost Averaging TQQQ](/strategies/dollar-cost-averaging-tqqq/), and [Compounding Returns with TQQQ](/strategies/compounding-returns-tqqq/).
 
 Same product. Two entry points separated by a decade. Radically different outcomes - not because of anything the investor did, but because of when they started.
 
@@ -153,7 +153,7 @@ For a product that compounds at 44% per year, a position of any meaningful start
 
 There is no Irish UCITS equivalent for 3x leveraged Nasdaq ETFs. EU UCITS regulations cap leverage at 2x for retail-eligible products, meaning the 3x exposure that drives TQQQ's extraordinary return profile is simply not available in a non-US domiciled format. Non-US investors who want TQQQ-level leverage either accept the estate tax exposure or do without the 3x product. That trade-off belongs in any honest analysis of long-term TQQQ holding for internationally mobile investors.
 
-For the [Wheel Strategy on TQQQ](/options-income/wheel-strategy-tqqq) and [Selling Covered Calls on TQQQ](/options-income/selling-covered-calls-tqqq), see options strategies. For the full recovery case study, read [From -70% to +250%](/case-study/from-minus-70-to-plus-492k-real-tqqq-recovery-case-study).
+For the [Wheel Strategy on TQQQ](/options-income/wheel-strategy-tqqq/) and [Selling Covered Calls on TQQQ](/options-income/selling-covered-calls-tqqq/), see options strategies. For the full recovery case study, read [From -70% to +250%](/case-study/from-minus-70-to-plus-492k-real-tqqq-recovery-case-study/).
 
 ---
 
@@ -177,7 +177,7 @@ One of the most common questions about TQQQ - and the most honest one - is wheth
 
 The more useful question is whether today's Nasdaq 100 is priced to deliver the kind of long-term returns that TQQQ's compounding mechanism requires to generate positive real outcomes over a full decade. With the Nasdaq 100 trailing PE ratio at 36.49 (GuruFocus, May 27, 2026) - sitting at the 99.2th percentile of the past decade's valuation range - AI spending expected to exceed global military spending by 2027, and the Magnificent Seven still commanding over 50% of the index weight, the index is priced for a scenario where AI monetization proceeds at scale. That scenario is achievable. It is not guaranteed.
 
-Dollar-cost averaging into TQQQ - spreading entries over 12-24 months rather than committing a lump sum - reduces the timing risk associated with entering at or near a valuation peak. Combined with a clear rebalancing rule (as covered in our [leveraged ETF rebalancing guide](/strategies/leveraged-etf-rebalancing-reduce-decay)), it is the most straightforward way to build a long-term TQQQ position without betting everything on a single entry date.
+Dollar-cost averaging into TQQQ - spreading entries over 12-24 months rather than committing a lump sum - reduces the timing risk associated with entering at or near a valuation peak. Combined with a clear rebalancing rule (as covered in our [leveraged ETF rebalancing guide](/strategies/leveraged-etf-rebalancing-reduce-decay/)), it is the most straightforward way to build a long-term TQQQ position without betting everything on a single entry date.
 
 ---
 
@@ -205,17 +205,3 @@ Holding TQQQ long-term is not irrational. Holding it without understanding what 
 
 ---
 
-## Related Articles
-
-- [TQQQ vs QQQ: Which Is Right for International Investors?](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026)
-- [TQQQ Long-Term Strategy: Buy and Hold](/strategies/tqqq-long-term-strategy-buy-and-hold)
-- [TQQQ Long-Term Outlook](/strategies/tqqq-long-term-outlook)
-- [Dollar-Cost Averaging TQQQ](/strategies/dollar-cost-averaging-tqqq)
-- [Compounding Returns with TQQQ](/strategies/compounding-returns-tqqq)
-- [TQQQ vs SOXL vs UPRO](/strategies/tqqq-vs-soxl-vs-upro-best-leveraged-etf-2026)
-- [QQQ 225-Day Moving Average Strategy](/strategies/tqqq-qqq-225-day-moving-average-strategy)
-- [How to Hedge TQQQ](/strategies/how-to-hedge-tqqq)
-- [Risk Management for Leveraged ETF Investors](/strategies/risk-management-leveraged-etf)
-- [Selling Covered Calls on TQQQ for Monthly Income](/options-income/selling-covered-calls-tqqq)
-- [TQQQ Tax Guide for International Investors](/taxes/tqqq-tax-international-investors)
-- [Best Brokers for International Investors 2026](/best-brokers/best-brokers-international-investors-2026)

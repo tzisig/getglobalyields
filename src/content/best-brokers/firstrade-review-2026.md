@@ -27,7 +27,7 @@ cons: ["Fewer advanced tools than IBKR", "Limited multi-currency features", "FX 
 productName: "Firstrade"
 ---
 
-Here's a scenario that comes up more than you'd think. Someone outside the US - let's say an investor in [Germany](/us-investing/how-to-invest-in-us-stocks-from-germany) or Singapore - decides they want exposure to US stocks and ETFs. They open a brokerage account with a local provider, only to find the selection is limited, the fees are higher than they expected, and options trading either doesn't exist or costs a fortune per contract. They start looking at US brokers. One by one, those brokers turn them away - "we don't accept international clients at this time." Then they find Firstrade.
+Here's a scenario that comes up more than you'd think. Someone outside the US - let's say an investor in [Germany](/us-investing/how-to-invest-in-us-stocks-from-germany/) or Singapore - decides they want exposure to US stocks and ETFs. They open a brokerage account with a local provider, only to find the selection is limited, the fees are higher than they expected, and options trading either doesn't exist or costs a fortune per contract. They start looking at US brokers. One by one, those brokers turn them away - "we don't accept international clients at this time." Then they find Firstrade.
 
 Firstrade isn't the most sophisticated broker on this list. It won't win any design awards. But it does two things that matter a lot for international investors: it charges $0 on virtually everything, and it actually accepts clients from 28 countries outside the US when most of its peers stopped bothering years ago.
 
@@ -72,7 +72,7 @@ One detail worth flagging: through Apex Clearing, Firstrade clients benefit from
 
 Most US brokers stopped accepting new international clients years ago - quietly, without announcement, usually buried in a FAQ. Firstrade didn't. That's not marketing copy; it's a genuine operational difference that makes Firstrade relevant to a global audience other platforms have written off.
 
-The **International Account** is open to non-US citizens without a Social Security Number, provided your country of residence is on Firstrade's approved list. That list currently includes 28 countries: Germany, the [UK](/us-investing/invest-us-stocks-uk), China, Singapore, Hong Kong, Taiwan, and others across Asia and Europe. The full list lives at firstrade.com/accounts/international - check it before you start an application, because it does change.
+The **International Account** is open to non-US citizens without a Social Security Number, provided your country of residence is on Firstrade's approved list. That list currently includes 28 countries: Germany, the [UK](/us-investing/invest-us-stocks-uk/), China, Singapore, Hong Kong, Taiwan, and others across Asia and Europe. The full list lives at firstrade.com/accounts/international - check it before you start an application, because it does change.
 
 Account opening is entirely online, takes around 15 minutes, and requires a passport upload for identity verification. Approval typically takes 1-2 business days. No minimum deposit is required. International deposits come via wire transfer and are available for trading as soon as they post, typically within 1-2 business days of sending.
 
@@ -116,7 +116,7 @@ Directly from Firstrade's pricing page, with a base rate of 11.00% as of Decembe
 | $500,000 - $999,999 | 8.60% |
 | $1,000,000+ | 8.00% |
 
-[Interactive Brokers](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors) charges around 5-6% on similar balances. On a $50,000 margin position, the difference between 11.25% and 5.5% costs roughly $2,875 per year. Firstrade is simply not the right tool for investors who use leverage.
+[Interactive Brokers](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/) charges around 5-6% on similar balances. On a $50,000 margin position, the difference between 11.25% and 5.5% costs roughly $2,875 per year. Firstrade is simply not the right tool for investors who use leverage.
 
 One more number worth knowing: cash balances earn a flat 0.15% across all tiers. Money market rates in 2026 are meaningfully higher than that. If you're holding significant uninvested cash, you're leaving real yield on the table.
 
@@ -132,7 +132,7 @@ This section is the one most international investors don't read carefully enough
 
 ### The W-8BEN Form
 
-Every non-US investor at Firstrade must file a **Form [W-8BEN](/taxes/w8ben-form-non-us-investors)**. It does two things: it certifies your non-US status, which in most cases exempts you from US capital gains tax on stock sales; and it allows you to claim a reduced dividend withholding rate under your home country's tax treaty with the US.
+Every non-US investor at Firstrade must file a **Form [W-8BEN](/taxes/w8ben-form-non-us-investors/)**. It does two things: it certifies your non-US status, which in most cases exempts you from US capital gains tax on stock sales; and it allows you to claim a reduced dividend withholding rate under your home country's tax treaty with the US.
 
 The form is valid for three calendar years from the date signed. If it lapses without renewal, Firstrade will withhold **30% on dividends and interest** and **24% on sale proceeds**. Firstrade sends renewal reminders, but it's your responsibility to act on them. Missing the renewal is an expensive mistake that's entirely avoidable.
 
@@ -208,7 +208,7 @@ The honest framing: if you're a buy-and-hold investor who logs in occasionally a
 
 ## Firstrade vs Interactive Brokers
 
-For international investors, this is the comparison that matters most - for a broader look at all options brokers for non-US traders, see our [best options brokers for international investors](/best-brokers/best-options-brokers-international-traders-2026) guide.
+For international investors, this is the comparison that matters most - for a broader look at all options brokers for non-US traders, see our [best options brokers for international investors](/best-brokers/best-options-brokers-international-traders-2026/) guide.
 
 | | Firstrade | Interactive Brokers |
 |---|---|---|
@@ -230,7 +230,7 @@ Firstrade wins on options costs and simplicity. IBKR wins on almost everything e
 
 ## Who This Is For
 
-Think about an investor like David, based in Singapore, building a passive portfolio of US index ETFs and occasionally trading options on individual US stocks. He doesn't need access to Asian exchanges through his US broker - he uses a local broker for that. He moves money once or twice a year, so the $25 wire fee is an annoyance rather than a meaningful cost. He occasionally runs [covered calls](/options-income/selling-covered-calls-tqqq) on his ETF positions for extra income. He doesn't use margin. He's not going to call customer service; he set his account up once and mostly leaves it alone.
+Think about an investor like David, based in Singapore, building a passive portfolio of US index ETFs and occasionally trading options on individual US stocks. He doesn't need access to Asian exchanges through his US broker - he uses a local broker for that. He moves money once or twice a year, so the $25 wire fee is an annoyance rather than a meaningful cost. He occasionally runs [covered calls](/options-income/selling-covered-calls-tqqq/) on his ETF positions for extra income. He doesn't use margin. He's not going to call customer service; he set his account up once and mostly leaves it alone.
 
 For David, Firstrade is close to ideal. Zero commissions on every ETF purchase, zero per-contract fees on options, solid research tools, and $500,000 in SIPC protection plus the Lloyd's supplemental. He's not paying for features he doesn't use.
 
@@ -240,7 +240,7 @@ Now think about someone building a more complex portfolio - global equities, act
 
 ## How to Open an International Account
 
-> For a general guide on opening any US brokerage account from abroad, see our [complete non-resident walkthrough](/best-brokers/how-to-open-a-us-brokerage-account-as-a-non-resident-2026-guide).
+> For a general guide on opening any US brokerage account from abroad, see our [complete non-resident walkthrough](/best-brokers/how-to-open-a-us-brokerage-account-as-a-non-resident-2026-guide/).
 
 1. Go to **firstrade.com/accounts/international** and verify your country is on the current approved list before doing anything else
 2. Start the online application and select International Account
@@ -259,16 +259,11 @@ Firstrade is a broker that does a narrow set of things very well. Zero-commissio
 
 The limits are just as real. A USD-only account, a $25 fee on every withdrawal, margin rates that make borrowing expensive, cash that earns almost nothing, and customer service that multiple independent reviewers consistently rate as slow. For the right investor - passive, US-focused, low-activity, no leverage - none of those limits bite hard. For anyone else, they compound.
 
-The honest summary: Firstrade is a specialist tool. For a full side-by-side of all brokers available to international investors, see our [best brokers for international investors 2026](/best-brokers/best-brokers-international-investors-2026) guide and use the [Broker Finder](/broker-finder/) tool. Used for what it's good at, it's excellent value. Used as a general-purpose broker for an international investor with complex needs, it will frustrate you.
+The honest summary: Firstrade is a specialist tool. For a full side-by-side of all brokers available to international investors, see our [best brokers for international investors 2026](/best-brokers/best-brokers-international-investors-2026/) guide and use the [Broker Finder](/broker-finder/) tool. Used for what it's good at, it's excellent value. Used as a general-purpose broker for an international investor with complex needs, it will frustrate you.
 
 **Rating: 4.0 / 5**
 
 ---
-
-### Related Articles
-
-- [Saxo Bank Review 2026](/best-brokers/saxo-bank-review-2026)
-- [XTB Review 2026](/best-brokers/xtb-review-2026)
 
 *This review is for informational purposes only and does not constitute financial or investment advice. Fee data is sourced directly from Firstrade's official pricing pages, verified against third-party reviews from StockBrokers.com and BrokerChooser. Rates, supported countries, and account terms are subject to change - verify current conditions at firstrade.com before applying. Tax treatment varies by jurisdiction; consult a qualified local tax advisor for your specific situation.*
 
@@ -292,7 +287,7 @@ Before publishing:
 Internal linking:
 - Link "Interactive Brokers" in the comparison table to your IBKR review
 - Link from your "best brokers for international investors" roundup
-- Link from any W-8BEN or US [withholding tax](/taxes/taxes-us-dividends-foreign-investors) explainer articles
+- Link from any W-8BEN or US [withholding tax](/taxes/taxes-us-dividends-foreign-investors/) explainer articles
 - Link from options trading guides
 
 SEO:

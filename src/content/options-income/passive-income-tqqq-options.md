@@ -24,7 +24,7 @@ readingTime: "12 min read"
 featured: false
 ---
 
-The pitch sounds compelling. TQQQ's implied volatility regularly sits between 55% and 75%. That means [covered call](/options-income/selling-covered-calls-tqqq) premiums can run 3-5% per month on the position size. Annualized, the numbers look extraordinary - 40%, 50%, sometimes more.
+The pitch sounds compelling. TQQQ's implied volatility regularly sits between 55% and 75%. That means [covered call](/options-income/selling-covered-calls-tqqq/) premiums can run 3-5% per month on the position size. Annualized, the numbers look extraordinary - 40%, 50%, sometimes more.
 
 What the pitch leaves out: in 2022, TQQQ fell 81.7%. The maximum drawdown took 486 trading days to recover. No amount of covered call premium collected during that period offset the capital destruction. A trader who entered at the January 2022 high and sold covered calls every week for the next year still lost the majority of their investment.
 
@@ -77,7 +77,7 @@ In a flat month, you keep $220 on $5,500 - a 4% return in 30 days. Do that twelv
 
 If TQQQ rallies 15% in a month, your shares get called at $59. You made $620 on the cycle but missed $825 of additional upside. The covered call capped your gain in exactly the scenario where TQQQ does what it was designed to do.
 
-If TQQQ falls 20% in a month - which has happened repeatedly given its leverage - your $5,500 position is now worth approximately $4,400. The $220 in premium reduces your loss from $1,100 to $880. You lost 16% of your position in a single month despite successfully "generating income." The premium collected was not income in any meaningful sense. It was partial compensation for a large capital loss. Proper [risk management](/strategies/risk-management-leveraged-etf-investors-2026) is essential before committing capital to any TQQQ options strategy.
+If TQQQ falls 20% in a month - which has happened repeatedly given its leverage - your $5,500 position is now worth approximately $4,400. The $220 in premium reduces your loss from $1,100 to $880. You lost 16% of your position in a single month despite successfully "generating income." The premium collected was not income in any meaningful sense. It was partial compensation for a large capital loss. Proper [risk management](/strategies/risk-management-leveraged-etf-investors-2026/) is essential before committing capital to any TQQQ options strategy.
 
 A comprehensive Seeking Alpha analysis of long-run covered call strategies on TQQQ confirmed that the strategy does not produce better total returns than simply holding TQQQ - and is more expensive and complex to manage. The extreme downside moves overwhelm the premium collected; the extreme upside moves are capped by the short call.
 
@@ -89,9 +89,9 @@ Selling cash-secured puts on TQQQ means accepting the obligation to buy 100 shar
 
 The income is real. The risk is also real, and it is different in character from a covered call on a quality stock.
 
-The fundamental problem: a [cash-secured put](/options-income/cash-secured-puts-high-iv) strategy on TQQQ only makes sense if you are genuinely comfortable owning TQQQ at the strike price. With a normal equity, this is a reasonable proposition - buying a quality company at a 10% discount to current price is often an acceptable outcome.
+The fundamental problem: a [cash-secured put](/options-income/cash-secured-puts-high-iv/) strategy on TQQQ only makes sense if you are genuinely comfortable owning TQQQ at the strike price. With a normal equity, this is a reasonable proposition - buying a quality company at a 10% discount to current price is often an acceptable outcome.
 
-With TQQQ, the question is more complicated. If TQQQ falls 30% and you are assigned at $38.50 on a share currently at $55, you now own a 3x leveraged instrument at the beginning of what might be a sustained downturn. The next 20% decline in QQQ becomes a 60% decline in your assigned position. The [Wheel strategy](/options-income/wheel-strategy-tqqq) - selling covered calls against the assigned shares - does not rescue you. At $27 per share, the covered call premiums are much smaller in dollar terms, and the underlying continues to decay faster than premium covers it.
+With TQQQ, the question is more complicated. If TQQQ falls 30% and you are assigned at $38.50 on a share currently at $55, you now own a 3x leveraged instrument at the beginning of what might be a sustained downturn. The next 20% decline in QQQ becomes a 60% decline in your assigned position. The [Wheel strategy](/options-income/wheel-strategy-tqqq/) - selling covered calls against the assigned shares - does not rescue you. At $27 per share, the covered call premiums are much smaller in dollar terms, and the underlying continues to decay faster than premium covers it.
 
 This is what the Seeking Alpha analysis described as "collecting pennies in front of a steamroller." The metaphor is accurate. The premium is not commensurate with the tail risk.
 
@@ -150,9 +150,9 @@ Both structures share the essential advantage: your maximum loss is known at ent
 
 Most TQQQ content is written for US investors with US brokerage accounts. A few notes for those outside the US.
 
-TQQQ is listed on Nasdaq and is accessible through most international brokers that offer US market access, including [Interactive Brokers](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors), Moomoo, and similar platforms. Options on TQQQ are American-style and settle in USD.
+TQQQ is listed on Nasdaq and is accessible through most international brokers that offer US market access, including [Interactive Brokers](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/), Moomoo, and similar platforms. Options on TQQQ are American-style and settle in USD.
 
-Tax treatment of options premium from TQQQ varies by jurisdiction. In [Israel](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026), the 25% flat capital gains rate applies. In the [UK](/us-investing/invest-us-stocks-uk), TQQQ options premium falls under CGT at 18%/24% depending on your rate. European investors should check local treatment of derivative income.
+Tax treatment of options premium from TQQQ varies by jurisdiction. In [Israel](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026/), the 25% flat capital gains rate applies. In the [UK](/us-investing/invest-us-stocks-uk/), TQQQ options premium falls under CGT at 18%/24% depending on your rate. European investors should check local treatment of derivative income.
 
 One additional consideration for non-US investors: TQQQ involves embedded currency risk. If you fund your account in AUD, GBP, or ILS and hold a leveraged USD position, an adverse currency move compounds the already significant volatility of the underlying. A 20% decline in TQQQ combined with a 5% adverse currency move is a 25% effective loss in your home currency before fees.
 
@@ -184,12 +184,3 @@ If covered call income on standard quality equities or index ETFs generates 12-1
 
 ---
 
-## Related Articles
-
-- [Selling Covered Calls on TQQQ: Step-by-Step Guide](/options-income/selling-covered-calls-tqqq)
-- [The Wheel Strategy on TQQQ](/options-income/wheel-strategy-tqqq)
-- [Cash-Secured Puts in High IV Environments](/options-income/cash-secured-puts-high-iv)
-- [TQQQ Recovery Case Study](/case-study/from-minus-70-to-plus-492k-real-tqqq-recovery-case-study)
-- [Risk Management for Leveraged ETF Investors](/strategies/risk-management-leveraged-etf-investors-2026)
-- [TQQQ Tax Guide for International Investors](/taxes/tqqq-tax-international-investors)
-- [Broker Fee Calculator](/broker-calculator)

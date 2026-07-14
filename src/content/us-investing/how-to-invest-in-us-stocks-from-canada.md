@@ -29,9 +29,9 @@ featured: false
 <!-- PAGE: Add to /investing-guides/ or /canada/ -->
 <!-- INTERNAL LINKS: Link from broker comparison pages, TFSA guide, RRSP guide -->
 
-A [Canadian](/us-investing/how-to-invest-in-us-stocks-from-canada) investor who put $50,000 into the S&P 500 ten years ago and let it sit - doing nothing - ended up with roughly $185,000 today. The same $50,000 in the TSX composite grew to about $100,000 over the same period. Same country, same investor, one decision: which market to be in.
+A [Canadian](/us-investing/how-to-invest-in-us-stocks-from-canada/) investor who put $50,000 into the S&P 500 ten years ago and let it sit - doing nothing - ended up with roughly $185,000 today. The same $50,000 in the TSX composite grew to about $100,000 over the same period. Same country, same investor, one decision: which market to be in.
 
-The process of buying US stocks from Canada is not complicated. What is complicated - and what quietly costs investors thousands of dollars a year - are three specific details: which account to use, whether your [W-8BEN](/taxes/w8ben-form-non-us-investors) form is on file, and how you convert CAD to USD. Get those right and the rest is straightforward.
+The process of buying US stocks from Canada is not complicated. What is complicated - and what quietly costs investors thousands of dollars a year - are three specific details: which account to use, whether your [W-8BEN](/taxes/w8ben-form-non-us-investors/) form is on file, and how you convert CAD to USD. Get those right and the rest is straightforward.
 
 ---
 
@@ -51,7 +51,7 @@ Most Canadian investors open a TFSA, dump US dividend stocks into it, and never 
 
 ### RRSP - The Right Home for US Dividend Stocks
 
-The RRSP gets a specific exemption under the [Canada-US Tax Treaty](/taxes/us-canada-tax-treaty-investors-2026). US dividends earned inside an RRSP are exempt from the standard 15% US [withholding tax](/taxes/taxes-us-dividends-foreign-investors). That exemption is real money - on $100,000 in US dividend-paying stocks with a 3% yield, it is $450 per year that you keep instead of losing to withholding.
+The RRSP gets a specific exemption under the [Canada-US Tax Treaty](/taxes/us-canada-tax-treaty-investors-2026/). US dividends earned inside an RRSP are exempt from the standard 15% US [withholding tax](/taxes/taxes-us-dividends-foreign-investors/). That exemption is real money - on $100,000 in US dividend-paying stocks with a 3% yield, it is $450 per year that you keep instead of losing to withholding.
 
 One critical detail most guides miss: this exemption applies only to **direct US securities** and **US-listed ETFs**. If you hold a Canadian-listed ETF like ZSP or XUS inside your RRSP instead of buying VTI directly on the NYSE, the withholding tax is still applied at the fund level before distributions reach you. The treaty benefit disappears.
 
@@ -106,7 +106,7 @@ Every time you buy a US-listed stock with CAD, your broker converts the currency
 |---|---|
 | Wealthsimple | 1.5% (waived with Premium at $3/month or Generation at $500K+) |
 | Questrade | ~1.75-2% unless using Norbert's Gambit |
-| [Interactive Brokers](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors) | ~0.002% (effectively spot rate) |
+| [Interactive Brokers](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/) | ~0.002% (effectively spot rate) |
 | Bank brokerages | 1.5-2.5% |
 
 A 1.5% FX fee on a $50,000 US stock purchase costs $750 before the investment even begins working. That $750 needs to be earned back before you are at breakeven.
@@ -242,7 +242,7 @@ Stop overthinking the stock selection and get the structure right first. Three d
 
 **W-8BEN:** File it. Renew it every three years. Do it today if you are not sure it is on file.
 
-**Broker:** Use our [Broker Finder](/broker-finder/) to find the right Canadian broker for your needs. For FX optimization, read our [Multi-Currency Investment Accounts](/us-investing/multi-currency-investment-accounts) guide.
+**Broker:** Use our [Broker Finder](/broker-finder/) to find the right Canadian broker for your needs. For FX optimization, read our [Multi-Currency Investment Accounts](/us-investing/multi-currency-investment-accounts/) guide.
 
 **Currency:** For under $20,000 in US stocks, the FX fee is a minor cost of doing business. Above that, Norbert's Gambit at Questrade or a switch to Interactive Brokers saves real money every year.
 
@@ -262,10 +262,3 @@ Set up the structure once. Then let time do the work.
 
 ---
 
-## Related Articles
-
-- [How to Open a US Brokerage Account as a Non-Resident](/best-brokers/how-to-open-a-us-brokerage-account-as-a-non-resident-2026-guide)
-- [Interactive Brokers Review 2026](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors)
-- [W-8BEN Form: Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors)
-- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors)
-- [Best Brokers for International Investors 2026](/best-brokers/best-brokers-international-investors-2026)

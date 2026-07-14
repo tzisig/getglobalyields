@@ -55,7 +55,7 @@ schema:
 ---
 If you invest in US stocks or ETFs as a non-US resident, one form directly determines how much of your returns you actually keep: the W-8BEN.
 
-Without it, the IRS withholds 30% of your dividends and certain types of interest. With it, and with the correct tax treaty applied, that rate drops to 15% for most countries and 25% for [Israeli](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026) investors.
+Without it, the IRS withholds 30% of your dividends and certain types of interest. With it, and with the correct tax treaty applied, that rate drops to 15% for most countries and 25% for [Israeli](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026/) investors.
 
 Over time, that difference compounds into thousands of dollars.
 
@@ -69,7 +69,7 @@ The W-8BEN (Certificate of Foreign Status of Beneficial Owner for United States 
 
 - Confirm they are not US persons
 - Claim tax treaty benefits
-- Reduce US [withholding tax](/taxes/taxes-us-dividends-foreign-investors) on dividends and interest
+- Reduce US [withholding tax](/taxes/taxes-us-dividends-foreign-investors/) on dividends and interest
 
 You do not send this form to the IRS. You submit it directly to your broker, and the broker applies the correct withholding rate automatically.
 
@@ -92,12 +92,12 @@ Assume:
 | --- | --- | --- | --- |
 | No W-8BEN | 30% | $1,200 | $2,800 |
 | Israel (treaty) | 25% | $1,000 | $3,000 |
-| [UK](/us-investing/invest-us-stocks-uk) / EU | 15% | $600 | $3,400 |
+| [UK](/us-investing/invest-us-stocks-uk/) / EU | 15% | $600 | $3,400 |
 
 Difference vs no form:
 
-- [Israel](/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026): +$200/year
-- [UK](/taxes/us-uk-tax-treaty-investors)/EU: +$600/year
+- [Israel](/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026/): +$200/year
+- [UK](/taxes/us-uk-tax-treaty-investors/)/EU: +$600/year
 
 Over 10+ years, this becomes a meaningful drag on performance.
 
@@ -109,7 +109,7 @@ You need this form if:
 - You invest in US stocks, ETFs, or bonds
 - You receive (or expect to receive) dividends or interest
 
-This applies to almost all international investors using brokers like [Interactive Brokers](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors), [tastytrade](/best-brokers/tastytrade-review-2026), [Firstrade](/best-brokers/firstrade-review-2026), and Schwab International.
+This applies to almost all international investors using brokers like [Interactive Brokers](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/), [tastytrade](/best-brokers/tastytrade-review-2026/), [Firstrade](/best-brokers/firstrade-review-2026/), and Schwab International.
 
 Who does not need it:
 
@@ -122,19 +122,19 @@ Who does not need it:
 | Country | Default | Treaty Rate |
 | --- | --- | --- |
 | Israel | 30% | 25% |
-| [Canada](/us-investing/how-to-invest-in-us-stocks-from-canada) | 30% | 15% |
+| [Canada](/us-investing/how-to-invest-in-us-stocks-from-canada/) | 30% | 15% |
 | UK | 30% | 15% |
-| [Germany](/us-investing/how-to-invest-in-us-stocks-from-germany) | 30% | 15% |
+| [Germany](/us-investing/how-to-invest-in-us-stocks-from-germany/) | 30% | 15% |
 | France | 30% | 15% |
-| [Australia](/us-investing/how-to-invest-in-us-stocks-from-australia) | 30% | 15% |
+| [Australia](/us-investing/how-to-invest-in-us-stocks-from-australia/) | 30% | 15% |
 | Japan | 30% | 10% |
-| [India](/us-investing/invest-us-stocks-india) | 30% | 25% |
+| [India](/us-investing/invest-us-stocks-india/) | 30% | 25% |
 | Brazil | 30% | 30% (no treaty) |
 | Singapore | 30% | 30% (no treaty) |
 
 Always verify current treaty rates because they can change.
 
-For a full breakdown of each country's treaty with the US, see our detailed guides for [Austria](/taxes/us-austria-tax-treaty-investors), [Belgium](/taxes/us-belgium-tax-treaty-investors), [Bulgaria](/taxes/us-bulgaria-tax-treaty-investors), [China](/taxes/us-china-tax-treaty-investors), [Czech Republic](/taxes/us-czech-republic-tax-treaty-investors), [Denmark](/taxes/us-denmark-tax-treaty-investors), and other jurisdictions with active treaty agreements.
+For a full breakdown of each country's treaty with the US, see our detailed guides for [Austria](/taxes/us-austria-tax-treaty-investors/), [Belgium](/taxes/us-belgium-tax-treaty-investors/), [Bulgaria](/taxes/us-bulgaria-tax-treaty-investors/), [China](/taxes/us-china-tax-treaty-investors/), [Czech Republic](/taxes/us-czech-republic-tax-treaty-investors/), [Denmark](/taxes/us-denmark-tax-treaty-investors/), and other jurisdictions with active treaty agreements.
 
 ## How to Fill Out the W-8BEN
 
@@ -190,7 +190,7 @@ Does not cover:
 - Capital gains
 - Your local taxes
 
-For most non-US investors, US capital gains tax is generally 0% and tax is paid in the home country. One important exception is [PFIC rules](/taxes/pfic-rules-international-investors), which can apply to non-US mutual funds and certain foreign ETFs held by US taxpayers — less common for non-US residents investing directly in US securities, but worth knowing about if you hold both US and local funds.
+For most non-US investors, US capital gains tax is generally 0% and tax is paid in the home country. One important exception is [PFIC rules](/taxes/pfic-rules-international-investors/), which can apply to non-US mutual funds and certain foreign ETFs held by US taxpayers — less common for non-US residents investing directly in US securities, but worth knowing about if you hold both US and local funds.
 
 ## Estate Tax Risk
 
@@ -208,17 +208,17 @@ High dividend strategies:
 
 - Direct yearly tax drag from withholding
 
-Growth strategies (for example, QQQ / [TQQQ](/taxes/tqqq-tax-international-investors)):
+Growth strategies (for example, QQQ / [TQQQ](/taxes/tqqq-tax-international-investors/)):
 
 - Lower dividend impact
 - More return from capital appreciation
-- Compare the full picture in [TQQQ vs QQQ: Which Is Right for You](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026)
+- Compare the full picture in [TQQQ vs QQQ: Which Is Right for You](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026/)
 
 Options strategies:
 
 - Premium income is often not subject to US withholding
 - Usually taxed locally based on your tax residency
-- See [selling covered calls on TQQQ](/options-income/selling-covered-calls-tqqq) for a practical example of tax-efficient options income
+- See [selling covered calls on TQQQ](/options-income/selling-covered-calls-tqqq/) for a practical example of tax-efficient options income
 
 ## Choosing the Right Broker
 
@@ -231,7 +231,7 @@ What to look for:
 - Accurate Form 1042-S reporting
 - Proper income classification
 
-Many international investors prefer Interactive Brokers because the W-8BEN flow is integrated end-to-end. Other brokers popular with international investors include [Saxo Bank](/best-brokers/saxo-bank-review-2026), [eToro](/best-brokers/etoro-review-2026), and [XTB](/best-brokers/xtb-review-2026) — check how each handles treaty documentation before committing.
+Many international investors prefer Interactive Brokers because the W-8BEN flow is integrated end-to-end. Other brokers popular with international investors include [Saxo Bank](/best-brokers/saxo-bank-review-2026/), [eToro](/best-brokers/etoro-review-2026/), and [XTB](/best-brokers/xtb-review-2026/) — check how each handles treaty documentation before committing.
 
 Also read:
 
@@ -280,14 +280,6 @@ If you invest in US markets and do not have this form correctly filed, you may b
 
 Next steps:
 
-- Start here: [Best Brokers for Israeli Investors in US Markets](/taxes/best-broker-israeli-investors-us-markets)
+- Start here: [Best Brokers for Israeli Investors in US Markets](/taxes/best-broker-israeli-investors-us-markets/)
 
-## Related Guides
-
-- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors)
-- [Best Brokers for Israeli Investors in US Markets](/taxes/best-broker-israeli-investors-us-markets)
-- [PFIC Rules for International Investors](/taxes/pfic-rules-international-investors)
-- [TQQQ Tax Guide for International Investors](/taxes/tqqq-tax-international-investors)
-- [US-Germany Tax Treaty for Investors](/taxes/us-germany-tax-treaty-investors)
-- [US-UK Tax Treaty for Investors](/taxes/us-uk-tax-treaty-investors)
 - [US-Canada Tax Treaty for Investors]( /taxes/us-canada-tax-treaty-investors-2026 /)

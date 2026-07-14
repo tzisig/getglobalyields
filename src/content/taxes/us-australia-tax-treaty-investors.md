@@ -213,7 +213,7 @@ The foreign tax offset is capped at the Australian tax that would have been paya
 
 ## US Citizens in Australia: The Short Version
 
-This section applies to a smaller slice of readers - US citizens and Green Card holders living in Australia - but the compliance stakes are high enough that it earns its place. For the broader picture of managing investments across borders as an expat, see our [expat financial planning guide](/us-investing/expat-financial-planning-managing-investments-across-borders).
+This section applies to a smaller slice of readers - US citizens and Green Card holders living in Australia - but the compliance stakes are high enough that it earns its place. For the broader picture of managing investments across borders as an expat, see our [expat financial planning guide](/us-investing/expat-financial-planning-managing-investments-across-borders/).
 
 Article 1 of the treaty (the "saving clause") preserves each country's right to tax its own citizens as if the treaty did not exist. In practice: a US citizen in Australia must still file Form 1040 annually, reporting worldwide income - Australian dividends, capital gains, bank interest, and super contributions. Australian residency does not exempt a US citizen from this regardless of how long they have lived abroad.
 
@@ -305,7 +305,7 @@ Japan's 10% portfolio dividend rate remains the most favorable among major US tr
 
 <!-- ADSENSE / AFFILIATE PLACEHOLDER
      Position: Before conclusion
-     Recommended: Broker affiliate banner ([IBKR](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors), Saxo) or responsive AdSense unit
+     Recommended: Broker affiliate banner ([IBKR](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/), Saxo) or responsive AdSense unit
      Replace this comment block with your AdSense tag or affiliate banner HTML -->
 
 ---
@@ -328,12 +328,4 @@ For US citizens in Australia, the compliance picture is complex. Superannuation'
 
 *Sources: US-Australia Income Tax Convention (August 6, 1982) and Protocol (September 27, 2001); ATO Double Taxation Agreement guidance; IRS Publication 515 (2026); ATO Individual income tax rates 2025/26 (Stage 3); ATO Foreign income tax offset rules; ATO CGT discount provisions; IRS PFIC rules (Section 1291-1298); FinCEN FBAR guidance (2025); IRS Form 8938 FATCA thresholds (2025 tax year).*
 
-## Related Guides
-
-- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
-- [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)
-- [Best Brokers for Israeli Investors in US Markets](/taxes/best-broker-israeli-investors-us-markets/)
-- [PFIC Rules for International Investors](/taxes/pfic-rules-international-investors/)
-- [TQQQ Tax Guide for International Investors](/taxes/tqqq-tax-international-investors/)
-- [US-Germany Tax Treaty for Investors](/taxes/us-germany-tax-treaty-investors/)
 - [US-UK Tax Treaty for Investors](/taxes/us-uk-tax-treaty-investors/)

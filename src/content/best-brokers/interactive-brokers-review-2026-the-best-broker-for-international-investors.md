@@ -66,7 +66,7 @@ This review is written specifically for non-US investors - Israelis, Canadians, 
 | --- | --- |
 | Founded | 1978 |
 | Headquarters | Greenwich, Connecticut, USA |
-| Regulation | SEC, FINRA, FCA ([UK](/us-investing/invest-us-stocks-uk)), and 10+ other regulators |
+| Regulation | SEC, FINRA, FCA ([UK](/us-investing/invest-us-stocks-uk/)), and 10+ other regulators |
 | Countries accepted | 200+ |
 | Minimum deposit | $0 |
 | Stock/ETF commissions (Lite) | $0 (US residents only) |
@@ -77,7 +77,7 @@ This review is written specifically for non-US investors - Israelis, Canadians, 
 | Available products | Stocks, ETFs, options, futures, forex, bonds |
 ## **Why International Investors Choose IBKR**
 
-**1\. It actually accepts you:** Most US brokers - Robinhood, Fidelity, Webull, E\*TRADE - do not accept clients from outside the US. IBKR accepts clients from 200+ countries including [Israel](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026), [Canada](/us-investing/how-to-invest-in-us-stocks-from-canada), [Australia](/us-investing/how-to-invest-in-us-stocks-from-australia), and most of Europe.
+**1\. It actually accepts you:** Most US brokers - Robinhood, Fidelity, Webull, E\*TRADE - do not accept clients from outside the US. IBKR accepts clients from 200+ countries including [Israel](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026/), [Canada](/us-investing/how-to-invest-in-us-stocks-from-canada/), [Australia](/us-investing/how-to-invest-in-us-stocks-from-australia/), and most of Europe.
 
 **2\. Currency conversion at interbank rates:** When you convert ILS, EUR, CAD, or AUD to USD at IBKR using the Ideal Pro marketplace, you pay approximately 0.002% - a fraction of what banks or other brokers charge. On a $20,000 conversion, that is $0.40 versus potentially $200+ at a bank.
 
@@ -110,7 +110,7 @@ This review is written specifically for non-US investors - Israelis, Canadians, 
 
 ## **Options Trading at IBKR**
 
-For investors interested in options income strategies - [covered calls](/options-income/selling-covered-calls-tqqq), [cash-secured puts](/options-income/cash-secured-puts-high-iv), [the Wheel](/options-income/wheel-strategy-tqqq) - IBKR is one of the strongest platforms available to international investors.
+For investors interested in options income strategies - [covered calls](/options-income/selling-covered-calls-tqqq/), [cash-secured puts](/options-income/cash-secured-puts-high-iv/), [the Wheel](/options-income/wheel-strategy-tqqq/) - IBKR is one of the strongest platforms available to international investors.
 
 **What works well:**
 
@@ -120,7 +120,7 @@ For investors interested in options income strategies - [covered calls](/options
 *   Real-time Greeks on all options positions
 *   Paper trading to practice strategies without real money
 
-The verdict: IBKR is a fully capable options platform. Many investors maintain both IBKR (for long-term holdings and currency management) and [tastytrade](/best-brokers/tastytrade-review-2026) (for active options trading).
+The verdict: IBKR is a fully capable options platform. Many investors maintain both IBKR (for long-term holdings and currency management) and [tastytrade](/best-brokers/tastytrade-review-2026/) (for active options trading).
 
 ## **Account Opening Process**
 
@@ -128,7 +128,7 @@ Opening an IBKR account as an international investor takes approximately 20 to 4
 
 *   Create an account at ibkr.com and select your country of residence
 *   Complete identity verification (passport + proof of address)
-*   Fill in the [W-8BEN](/taxes/w8ben-form-non-us-investors) form (embedded in the application)
+*   Fill in the [W-8BEN](/taxes/w8ben-form-non-us-investors/) form (embedded in the application)
 *   Answer financial profile questions (income, net worth, investment experience)
 *   Sign the account agreement digitally
 *   Receive approval - typically within 1 to 3 business days
@@ -178,7 +178,7 @@ Opening an IBKR account as an international investor takes approximately 20 to 4
 
 **IBKR may not be the best choice for:**
 
-*   Complete beginners who want the simplest possible experience (consider [Firstrade](/best-brokers/firstrade-review-2026))
+*   Complete beginners who want the simplest possible experience (consider [Firstrade](/best-brokers/firstrade-review-2026/))
 *   Investors whose sole focus is options income and want the best options UI (consider tastytrade alongside IBKR)
 *   Investors with very small portfolios under $5,000 where the inactivity fee is proportionally significant
 
@@ -193,7 +193,7 @@ Opening an IBKR account as an international investor takes approximately 20 to 4
 | FX conversion | 0.002% | USD only | USD only | Bank rates |
 | Best for | All-around | Options | Beginners | Large portfolios |
 
-For a full landscape of international brokers, see our [Best Brokers for International Investors](/best-brokers/best-brokers-international-investors-2026) guide and use the [Broker Finder](/broker-finder/) to match brokers to your country.
+For a full landscape of international brokers, see our [Best Brokers for International Investors](/best-brokers/best-brokers-international-investors-2026/) guide and use the [Broker Finder](/broker-finder/) to match brokers to your country.
 
 ## **Frequently Asked Questions**
 
@@ -224,13 +224,6 @@ Interactive Brokers earns its reputation as the best broker for international in
 The trade-offs - a complex platform, slow customer support, and the inactivity fee for smaller accounts - are real but manageable. For serious investors building meaningful portfolios, these are minor inconveniences compared to the structural advantages IBKR provides.
 
 **Rating: 4.8 / 5 - Highly Recommended for International Investors**
-
-### Related Articles
-
-- [Saxo Bank Review 2026](/best-brokers/saxo-bank-review-2026)
-- [eToro Review 2026](/best-brokers/etoro-review-2026)
-- [tastytrade Review 2026](/best-brokers/tastytrade-review-2026)
-- [XTB Review 2026](/best-brokers/xtb-review-2026)
 
 **Affiliate Disclosure**
 

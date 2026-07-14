@@ -372,15 +372,6 @@ Most international brokers (IBKR, Saxo, Firstrade) include W-8BEN in the account
 Yes significantly. An EOOD pays 10% corporate income tax on profits. Dividends distributed to the owner then face an additional 5% withholding - for a combined 15% effective rate. The EOOD must file W-8BEN-E (not W-8BEN) with the US broker. The Art. 13(1)(3) capital gains exemption is not available to EOODs.
 
 **Do I need to worry about FBAR or FATCA if I am not a US citizen?**
-No. FBAR (FinCEN Form 114) and Form 8938 (FATCA reporting) are US filing obligations that apply to US citizens, Green Card holders, and certain other US persons - not to a Bulgarian citizen who simply holds a US brokerage account. If you are a Bulgarian tax resident with no US citizenship or Green Card, these filings do not apply to you regardless of your account balance. They become relevant only for US citizens or Green Card holders living in Bulgaria, covered separately in this guide's checklist - our [expat financial planning guide](/us-investing/expat-financial-planning-managing-investments-across-borders) covers the broader cross-border picture for that group.
+No. FBAR (FinCEN Form 114) and Form 8938 (FATCA reporting) are US filing obligations that apply to US citizens, Green Card holders, and certain other US persons - not to a Bulgarian citizen who simply holds a US brokerage account. If you are a Bulgarian tax resident with no US citizenship or Green Card, these filings do not apply to you regardless of your account balance. They become relevant only for US citizens or Green Card holders living in Bulgaria, covered separately in this guide's checklist - our [expat financial planning guide](/us-investing/expat-financial-planning-managing-investments-across-borders/) covers the broader cross-border picture for that group.
 
-## Related Guides
-
-- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
-- [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)
-- [Best Brokers for Israeli Investors in US Markets](/taxes/best-broker-israeli-investors-us-markets/)
-- [PFIC Rules for International Investors](/taxes/pfic-rules-international-investors/)
-- [TQQQ Tax Guide for International Investors](/taxes/tqqq-tax-international-investors/)
-- [US-Germany Tax Treaty for Investors](/taxes/us-germany-tax-treaty-investors/)
-- [US-UK Tax Treaty for Investors](/taxes/us-uk-tax-treaty-investors/)
 - [Weekly Market Update](/weekly-update/)

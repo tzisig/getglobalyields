@@ -294,12 +294,4 @@ For Chinese tax residents, the absence of preferential treatment for foreign sec
 
 *Sources: United States-The People's Republic of China Income Tax Convention (April 30, 1984), IRS treaty text; PwC China Tax Summaries - Individual and Corporate Withholding Taxes (as of December 31, 2025); TaxesForExpats US-China tax guide (2026); KPMG China Tax Alert 1407-21 and 1411-23 (FATCA agreements in substance); Lexology and Yicai Global reporting on Interactive Brokers and other broker policy changes for mainland China accounts (2025-2026); SAFE personal foreign exchange quota guidance; State Taxation Administration individual income tax rules on investment income; IRS Form 8938 FATCA thresholds (2025 tax year); IRS FBAR guidance (FinCEN Form 114).*
 
-## Related Guides
-
-- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
-- [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)
-- [Best Brokers for Israeli Investors in US Markets](/taxes/best-broker-israeli-investors-us-markets/)
-- [PFIC Rules for International Investors](/taxes/pfic-rules-international-investors/)
-- [TQQQ Tax Guide for International Investors](/taxes/tqqq-tax-international-investors/)
-- [US-Germany Tax Treaty for Investors](/taxes/us-germany-tax-treaty-investors/)
 - [US-UK Tax Treaty for Investors](/taxes/us-uk-tax-treaty-investors/)

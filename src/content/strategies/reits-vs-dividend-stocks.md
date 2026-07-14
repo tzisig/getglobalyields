@@ -34,7 +34,7 @@ rating: 4.5
 
 The surface comparison is easy: REITs yield more. Average REIT yield sits above 4% in early 2026 - roughly triple the S&P 500's yield of approximately 1%, and above the Dividend Aristocrats' average of around 2.8%. If passive income is the goal, case closed.
 
-Not quite. For international investors, the yield figure on a screen is not the yield you receive. US [withholding tax](/taxes/taxes-us-dividends-foreign-investors)es, FIRPTA exposure on share sales, and the fact that a typical REIT distribution contains three different income types - each taxed differently - can shift the after-tax picture significantly enough to reverse the apparent REIT advantage.
+Not quite. For international investors, the yield figure on a screen is not the yield you receive. US [withholding tax](/taxes/taxes-us-dividends-foreign-investors/)es, FIRPTA exposure on share sales, and the fact that a typical REIT distribution contains three different income types - each taxed differently - can shift the after-tax picture significantly enough to reverse the apparent REIT advantage.
 
 Most investors who arrive at this comparison have already decided they want REITs. The yield number convinced them. This guide is written for that investor specifically - the one who is about to commit capital to Realty Income or a REIT ETF and has not yet done the full tax math. The numbers may change the conclusion. They changed it for the case study at the end of this article.
 
@@ -44,7 +44,7 @@ This guide works through both sides with verified 2026 data and ends with a conc
 
 ## Bottom Line Up Front
 
-For most international investors in a taxable account, **high-quality dividend stocks from US corporations are more tax-efficient than US REITs**. REIT distributions attract 25% US withholding under the US-[Israel](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026) treaty (vs. 15% on qualified corporate dividends), REIT share sales trigger FIRPTA withholding that standard equity sales do not, and the return-of-capital portion of REIT distributions - while not immediately taxable - reduces cost basis and creates a deferred tax liability at exit.
+For most international investors in a taxable account, **high-quality dividend stocks from US corporations are more tax-efficient than US REITs**. REIT distributions attract 25% US withholding under the US-[Israel](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026/) treaty (vs. 15% on qualified corporate dividends), REIT share sales trigger FIRPTA withholding that standard equity sales do not, and the return-of-capital portion of REIT distributions - while not immediately taxable - reduces cost basis and creates a deferred tax liability at exit.
 
 The calculation flips in two specific situations: investors holding inside a tax-advantaged account (Roth IRA or equivalent), and Israeli olim hadashim during their 10-year tax exemption window. In both cases, the REIT yield advantage is compelling because the tax drag is eliminated or substantially reduced.
 
@@ -115,17 +115,17 @@ For international investors, the headline yield is meaningless without adjusting
 
 ### Charge 1: Withholding on Ordinary Distributions
 
-The US default withholding rate on dividends paid to foreign investors is 30%. Filing a [W-8BEN](/taxes/w8ben-form-non-us-investors) form with your broker applies treaty rates.
+The US default withholding rate on dividends paid to foreign investors is 30%. Filing a [W-8BEN](/taxes/w8ben-form-non-us-investors/) form with your broker applies treaty rates.
 
 **Critical distinction - what W-8BEN actually does for Israeli investors:**
 
-- On **qualified dividends from US corporations**: W-8BEN reduces withholding from 30% to **15%** under the [US-Israel](/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026) treaty (Article 12)
+- On **qualified dividends from US corporations**: W-8BEN reduces withholding from 30% to **15%** under the [US-Israel](/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026/) treaty (Article 12)
 - On **REIT ordinary dividends**: W-8BEN reduces withholding from 30% to **25%** - the treaty cap for ordinary income under Article 12. Not 15%.
 - On **US interest income**: the treaty caps withholding at **17.5%** under Article 13 - the Interest article of the convention. Article 13 reduces the rate to 10% for certain banks, savings institutions, and insurance companies, and to 0% for government-backed debt. Verified from the IRS treaty technical explanation (irs.gov/pub/irs-trty/israel.pdf) and confirmed by taxesforexpats.com (April 2026).
 
 This distinction is the source of most confusion among Israeli REIT investors. Filing a W-8BEN does not produce a 15% rate on REIT income. The 15% rate applies to qualified corporate dividends - income that REITs structurally cannot produce because their distributions are ordinary rental income, not qualified dividends.
 
-Always verify the withholding rate your broker applies to each position. [IBKR](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors) displays this in the tax detail of each security's dividend history.
+Always verify the withholding rate your broker applies to each position. [IBKR](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/) displays this in the tax detail of each security's dividend history.
 
 ### Charge 2: FIRPTA on Share Sales
 
@@ -357,15 +357,3 @@ Know your account. Know your tax status. Run the full numbers - not just the yie
 
 ---
 
-## Related Articles
-
-- [Best High-Yield ETFs for Income Investors in 2026](/strategies/best-high-yield-etfs-2026)
-- [JEPI vs SCHD vs QYLD: Complete Comparison](/strategies/jepi-vs-schd-vs-qyld)
-- [High-Yield Investment Strategies for 2026](/strategies/high-yield-investment-strategies-2026)
-- [TQQQ vs QQQ: Which Is Right for International Investors?](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026)
-- [Selling Covered Calls on TQQQ for Monthly Income](/options-income/selling-covered-calls-tqqq)
-- [W-8BEN Form: Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors)
-- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors)
-- [Best Brokers for International Investors 2026](/best-brokers/best-brokers-international-investors-2026)
-- [Interactive Brokers Review 2026](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors)
-- [Tax Map - International Investor Tax Guide](/tax-map)*

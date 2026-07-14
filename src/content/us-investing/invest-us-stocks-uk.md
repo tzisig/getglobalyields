@@ -26,7 +26,7 @@ featured: false
 <!--
 SEO CHECKLIST
 Title tag (52 chars): How to Invest in US Stocks from the UK (2026)
-Meta description (155 chars): Complete guide for UK investors: ISA vs SIPP vs GIA for US stocks, [withholding tax](/taxes/taxes-us-dividends-foreign-investors), CGT rates, best brokers, and the mistake most investors make with their ISA.
+Meta description (155 chars): Complete guide for UK investors: ISA vs SIPP vs GIA for US stocks, [withholding tax](/taxes/taxes-us-dividends-foreign-investors/), CGT rates, best brokers, and the mistake most investors make with their ISA.
 Focus keyword: how to invest in us stocks from the uk
 Slug: how-to-invest-in-us-stocks-from-uk
 Schema type: Article, FAQPage, HowTo
@@ -34,7 +34,7 @@ Schema type: Article, FAQPage, HowTo
 
 *Updated: May 2026 - GetGlobalYields.com - Read time: ~12 min*
 
-UK investors have some of the best tools in the world for owning US stocks tax-efficiently. The ISA and SIPP wrappers, combined with the US-[UK tax](/taxes/us-uk-tax-treaty-investors) treaty, create a structure that most other countries genuinely envy. But there is a common misunderstanding that costs UK investors real money every year - and almost no guide explains it clearly.
+UK investors have some of the best tools in the world for owning US stocks tax-efficiently. The ISA and SIPP wrappers, combined with the US-[UK tax](/taxes/us-uk-tax-treaty-investors/) treaty, create a structure that most other countries genuinely envy. But there is a common misunderstanding that costs UK investors real money every year - and almost no guide explains it clearly.
 
 The misunderstanding: your ISA does not protect you from US withholding tax on US dividends.
 
@@ -62,7 +62,7 @@ Before choosing a broker, decide where you are going to hold your US stocks. The
 
 The ISA is the default account for most UK retail investors - and for good reason. Gains are completely free from UK CGT. Dividends are free from UK income tax. The annual allowance is £20,000 for 2026/27.
 
-For UK stocks, an ISA is as good as it gets. For US stocks, there is one caveat that matters: the US withholds 15% on dividends before the money enters your ISA. This withholding cannot be reclaimed. If you are building a dividend-focused US portfolio inside an ISA, you are permanently losing 15% of every dividend to [US withholding tax](/taxes/taxes-us-dividends-foreign-investors) to US withholding - and you receive no UK tax relief on it because the ISA already gives you zero UK tax.
+For UK stocks, an ISA is as good as it gets. For US stocks, there is one caveat that matters: the US withholds 15% on dividends before the money enters your ISA. This withholding cannot be reclaimed. If you are building a dividend-focused US portfolio inside an ISA, you are permanently losing 15% of every dividend to [US withholding tax](/taxes/taxes-us-dividends-foreign-investors/) to US withholding - and you receive no UK tax relief on it because the ISA already gives you zero UK tax.
 
 For growth-focused US positions where dividends are minimal - think QQQ, individual tech stocks, or accumulating ETFs - an ISA is excellent. For high-dividend US positions like SCHD or JEPI, the 15% withholding drag is a real cost to factor in.
 
@@ -130,7 +130,7 @@ IBKR offers an ISA in the UK with a £3 monthly fee (waived if you pay at least 
 
 For options trading, bonds, and anything beyond basic stocks and ETFs, IBKR has no serious competition in the UK market.
 
-[See our full IBKR review](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors)
+[See our full IBKR review](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/)
 
 ### Trading 212
 
@@ -245,18 +245,11 @@ Non-US residents holding US-domiciled assets above approximately $60,000 are sub
 
 UK investors are genuinely well-positioned to own US stocks. The ISA and SIPP wrappers eliminate UK tax on investments held within them, the US-UK treaty cuts withholding to 15% in an ISA and 0% in a SIPP, and the broker options are competitive and well-regulated.
 
-The main things to get right: file your W-8BEN, use our [Broker Finder](/broker-finder/) to compare UK-accessible brokers, and review our [Multi-Currency Investment Accounts](/us-investing/multi-currency-investment-accounts) guide for FX optimization, think carefully about which account type suits each type of US position, use your annual ISA and CGT allowances actively, and understand the US estate tax risk before you build a large position.
+The main things to get right: file your W-8BEN, use our [Broker Finder](/broker-finder/) to compare UK-accessible brokers, and review our [Multi-Currency Investment Accounts](/us-investing/multi-currency-investment-accounts/) guide for FX optimization, think carefully about which account type suits each type of US position, use your annual ISA and CGT allowances actively, and understand the US estate tax risk before you build a large position.
 
 For most UK investors, a combination of ISA for growth-focused US positions and SIPP for income-focused ones - with IBKR for serious long-term investing or Trading 212 for simpler needs - covers the full picture efficiently.
 
 ---
-
-### Related Articles
-
-- [Interactive Brokers Review 2026: The Best Broker for International Investors](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors)
-- [W-8BEN Form: Complete Guide for Non-US Investors](/taxes/w8ben-form-non-us-investors)
-- [Saxo Bank Review 2026: Pro Features for High Net Worth Investors](/best-brokers/saxo-bank-review-2026)
-- [[TQQQ](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026) Tax Implications for International Investors](/taxes/tqqq-tax-international-investors)
 
 ---
 

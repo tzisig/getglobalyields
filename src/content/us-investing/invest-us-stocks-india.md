@@ -112,7 +112,7 @@ The best option for investors who want the full range of US markets, the lowest 
 
 The platform is complex. It is not designed for beginners. But for investors who are serious about US market access and want stocks, ETFs, options, and bonds in one place, IBKR is the benchmark.
 
-[See our full IBKR review](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors)
+[See our full IBKR review](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/)
 
 ### Vested Finance
 
@@ -126,7 +126,7 @@ Another India-focused platform with a strong mobile app and an integrated approa
 
 ### Winvesta
 
-[UK](/us-investing/invest-us-stocks-uk)-regulated platform that has built a significant Indian user base. Strong on compliance and reporting, reasonable fees, and a decent mobile experience.
+[UK](/us-investing/invest-us-stocks-uk/)-regulated platform that has built a significant Indian user base. Strong on compliance and reporting, reasonable fees, and a decent mobile experience.
 
 **The honest comparison:**
 
@@ -171,7 +171,7 @@ If your US portfolio is likely to stay below $60,000, this is not an immediate c
 
 ### Dividends
 
-US companies withhold 25% on dividends paid to Indian investors (see [US Dividend Withholding for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors)) - reduced from the default 30% under the India-US DTAA, provided you have filed the W-8BEN correctly with your broker. You receive 75% of the gross dividend.
+US companies withhold 25% on dividends paid to Indian investors (see [US Dividend Withholding for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)) - reduced from the default 30% under the India-US DTAA, provided you have filed the W-8BEN correctly with your broker. You receive 75% of the gross dividend.
 
 In India, the gross dividend (before the 25% withholding) is added to your income and taxed at your applicable income tax slab rate. However, you can claim a Foreign Tax Credit (FTC) for the 25% already withheld by the US - filed via Form 67 and Schedule TR in your ITR. In most cases, this eliminates or significantly reduces the Indian tax on the same dividend.
 
@@ -254,7 +254,7 @@ Yes - but the LRS limit applies per individual, and both account holders' remitt
 
 Investing in US stocks from India is genuinely accessible in 2026. The LRS framework is well-established, the platforms have improved significantly, and the tax treatment - while more complex than domestic investing - is manageable with basic planning.
 
-The main things to get right: use the correct remittance process through an Authorised Dealer bank, file your W-8BEN before dividends start, use our [Broker Finder](/broker-finder/) to compare India-friendly brokers, and review each broker's [multi-currency account](/us-investing/multi-currency-investment-accounts) capabilities, report foreign assets every year in Schedule FA, and understand the TCS mechanism so you are not surprised by the cash flow impact of large remittances.
+The main things to get right: use the correct remittance process through an Authorised Dealer bank, file your W-8BEN before dividends start, use our [Broker Finder](/broker-finder/) to compare India-friendly brokers, and review each broker's [multi-currency account](/us-investing/multi-currency-investment-accounts/) capabilities, report foreign assets every year in Schedule FA, and understand the TCS mechanism so you are not surprised by the cash flow impact of large remittances.
 
 The US estate tax point is the one that most guides skip and most investors overlook. If you are planning to build a substantial long-term position in US stocks, take time to understand this risk and consider whether the structure of your investments should account for it.
 
@@ -275,13 +275,6 @@ If you are ready to start, here are four concrete steps - in order:
 **4. Talk to your CA before your first remittance above Rs. 10 lakh.** Not because the rules are complicated, but because understanding TCS timing and Schedule FA before you start saves you from scrambling at tax filing time. One conversation upfront is worth it.
 
 ---
-
-### Related Articles
-
-- [Interactive Brokers Review 2026: The Best Broker for International Investors](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors)
-- [W-8BEN Form: Complete Guide for Non-US Investors](/taxes/w8ben-form-non-us-investors)
-- [[TQQQ](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026) Tax Implications for International Investors](/taxes/tqqq-tax-international-investors)
-- [Best Brokers for Non-US Investors in US Markets (2026)](/taxes/best-broker-israeli-investors-us-markets)
 
 ---
 

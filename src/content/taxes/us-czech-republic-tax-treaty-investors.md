@@ -348,12 +348,4 @@ For US citizens in the Czech Republic, the treaty provides useful withholding ra
 
 *Sources: US-Czech Republic Income Tax Convention (September 16, 1993); IRS Tax Treaty Tables; PwC Czech Republic Individual Tax Summary (2026); ARROWS Law Firm - Czech Taxation of Shares and ETFs in 2026 (April 7, 2026); CLA Czech Republic - Tax and Accounting Updates for 2026 (December 19, 2025); Interactive Brokers - Tax Information and Reporting for Non-US Persons; IRS Form W-8BEN instructions (2024 revision); IRS Publication 515 (2026); FinCEN FBAR guidance (2025); IRS Form 8938 FATCA thresholds.*
 
-## Related Guides
-
-- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
-- [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)
-- [Best Brokers for Israeli Investors in US Markets](/taxes/best-broker-israeli-investors-us-markets/)
-- [PFIC Rules for International Investors](/taxes/pfic-rules-international-investors/)
-- [TQQQ Tax Guide for International Investors](/taxes/tqqq-tax-international-investors/)
-- [US-Germany Tax Treaty for Investors](/taxes/us-germany-tax-treaty-investors/)
 - [US-UK Tax Treaty for Investors](/taxes/us-uk-tax-treaty-investors/)

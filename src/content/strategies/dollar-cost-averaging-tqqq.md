@@ -48,7 +48,7 @@ Because TQQQ resets its 3x leverage daily, it does not simply deliver 3x the ind
 
 This matters for both DCA and lump sum investors. In a strongly trending bull market, volatility decay is minimal and leverage compounds powerfully. In a choppy, sideways market, it works against you regardless of how you invest. The four scenarios below play out against this backdrop - some start periods are trending, some are choppy, and that distinction shapes every outcome.
 
-For a deeper explanation of volatility decay and its long-term impact, see our companion article on [TQQQ compounding returns](/strategies/compounding-returns-tqqq).
+For a deeper explanation of volatility decay and its long-term impact, see our companion article on [TQQQ compounding returns](/strategies/compounding-returns-tqqq/).
 
 ---
 
@@ -292,7 +292,7 @@ What DCA reliably delivers is a smaller initial position at risk and a lower ave
 
 ## A Note for Non-US Investors
 
-TQQQ is a US-listed ETF accessible to international investors through brokers such as [Interactive Brokers](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors) and [Saxo Bank](/best-brokers/saxo-bank-review-2026). Israeli investors should note that capital gains on TQQQ are subject to 25% tax in [Israel](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026), which reduces - but does not eliminate - the lump sum advantage shown above. US-listed securities also carry US estate tax exposure above $60,000 for non-US residents, a meaningful consideration given the position sizes this strategy can produce over time. For a full breakdown, see our [TQQQ Tax Guide for International Investors](/taxes/tqqq-tax-international-investors). Also see the [Wheel Strategy on TQQQ](/options-income/wheel-strategy-tqqq) for options-based approaches..
+TQQQ is a US-listed ETF accessible to international investors through brokers such as [Interactive Brokers](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/) and [Saxo Bank](/best-brokers/saxo-bank-review-2026/). Israeli investors should note that capital gains on TQQQ are subject to 25% tax in [Israel](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026/), which reduces - but does not eliminate - the lump sum advantage shown above. US-listed securities also carry US estate tax exposure above $60,000 for non-US residents, a meaningful consideration given the position sizes this strategy can produce over time. For a full breakdown, see our [TQQQ Tax Guide for International Investors](/taxes/tqqq-tax-international-investors/). Also see the [Wheel Strategy on TQQQ](/options-income/wheel-strategy-tqqq/) for options-based approaches..
 
 ---
 
@@ -311,15 +311,3 @@ All figures in this article are available for independent verification in our <a
 
 ---
 
-## Related Articles
-
-- [TQQQ vs QQQ: Which Is Right for International Investors?](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026)
-- [Risk Management for Leveraged ETF Investors](/strategies/risk-management-leveraged-etf)
-- [TQQQ Long-Term Strategy: Buy and Hold](/strategies/tqqq-long-term-strategy-buy-and-hold)
-- [TQQQ Long-Term Outlook](/strategies/tqqq-long-term-outlook)
-- [TQQQ vs SOXL vs UPRO](/strategies/tqqq-vs-soxl-vs-upro-best-leveraged-etf-2026)
-- [How to Hedge TQQQ](/strategies/how-to-hedge-tqqq)
-- [QQQ 225-Day Moving Average Strategy](/strategies/tqqq-qqq-225-day-moving-average-strategy)
-- [Selling Covered Calls on TQQQ for Monthly Income](/options-income/selling-covered-calls-tqqq)
-- [TQQQ Tax Guide for International Investors](/taxes/tqqq-tax-international-investors)
-- [Best Brokers for International Investors 2026](/best-brokers/best-brokers-international-investors-2026)

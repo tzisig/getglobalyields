@@ -320,12 +320,4 @@ For US citizens in Belgium, the compliance picture is complex but manageable: Be
 
 *Sources: US-Belgium Income Tax Convention (November 27, 2006); US Senate Executive Report 110-2; IRS Publication 515 (2026); FPS Finance Belgium - Tax Rates 2026; Belgian Capital Gains Tax legislation (adopted April 2, 2026, retroactive January 1, 2026) - Loyens & Loeff, Lexgo, EY Belgium; Belgian prײ³ֲ©compte mobilier rules - FPS Finance; FinCEN FBAR guidance (2025); IRS Form 8938 FATCA thresholds (2025 tax year).*
 
-## Related Guides
-
-- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
-- [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)
-- [Best Brokers for Israeli Investors in US Markets](/taxes/best-broker-israeli-investors-us-markets/)
-- [PFIC Rules for International Investors](/taxes/pfic-rules-international-investors/)
-- [TQQQ Tax Guide for International Investors](/taxes/tqqq-tax-international-investors/)
-- [US-Germany Tax Treaty for Investors](/taxes/us-germany-tax-treaty-investors/)
 - [US-UK Tax Treaty for Investors](/taxes/us-uk-tax-treaty-investors/)

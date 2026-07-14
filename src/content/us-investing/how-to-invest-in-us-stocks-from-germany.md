@@ -29,10 +29,10 @@ rating: 4.9
 
 <!--
 PAGE PLACEMENT INSTRUCTIONS
-- File location: src/content/blog/how-to-invest-in-us-stocks-from-[germany](/us-investing/how-to-invest-in-us-stocks-from-germany).md
+- File location: src/content/blog/how-to-invest-in-us-stocks-from-[germany](/us-investing/how-to-invest-in-us-stocks-from-germany/).md
 - Hero image: /public/images/blog/invest-us-stocks-germany.webp
 - Feature on: Country Guides category page, Investing Guides category page
-- Internal links embedded in body: Best Brokers for International Investors, [IBKR](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors) Review, [Saxo Bank](/best-brokers/saxo-bank-review-2026) Review
+- Internal links embedded in body: Best Brokers for International Investors, [IBKR](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/) Review, [Saxo Bank](/best-brokers/saxo-bank-review-2026/) Review
 - Add JSON-LD FAQ schema using the Q&A block at the bottom of this file
 - Related posts widget: "How to Invest $100K", "Best ETFs for European Investors", "IBKR Review 2026"
 -->
@@ -43,7 +43,7 @@ This guide exists to fix that. Germany is actually one of the better countries i
 
 Everything here is verified from official sources for 2026.
 
-For a complete portfolio framework at this investment level, see our [How to Invest  Guide](/us-investing/how-to-invest-100k-step-by-step-guide). The tax figures are accurate. The ETF recommendations are available to you. The broker comparison reflects the current market.
+For a complete portfolio framework at this investment level, see our [How to Invest  Guide](/us-investing/how-to-invest-100k-step-by-step-guide/). The tax figures are accurate. The ETF recommendations are available to you. The broker comparison reflects the current market.
 
 ---
 
@@ -159,7 +159,7 @@ If he wants specifically US equity and will manage international allocation sepa
 
 Lukas decides: CSPX for his US core, VWCE for his monthly savings plan. Simple, globally diversified, fully accumulating.
 
-**A note on synthetic ETFs.** Some funds - notably Xtrackers' XDWD - use swap-based replication rather than physically holding the underlying stocks. Synthetic ETFs can be marginally more tax-efficient because they avoid [withholding tax](/taxes/taxes-us-dividends-foreign-investors) on dividends at the fund level. The trade-off is counterparty risk, though UCITS rules cap swap exposure at 10% of NAV. Both structures are legitimate. Most long-term investors use physical ETFs for simplicity.
+**A note on synthetic ETFs.** Some funds - notably Xtrackers' XDWD - use swap-based replication rather than physically holding the underlying stocks. Synthetic ETFs can be marginally more tax-efficient because they avoid [withholding tax](/taxes/taxes-us-dividends-foreign-investors/) on dividends at the fund level. The trade-off is counterparty risk, though UCITS rules cap swap exposure at 10% of NAV. Both structures are legitimate. Most long-term investors use physical ETFs for simplicity.
 
 ---
 
@@ -167,7 +167,7 @@ Lukas decides: CSPX for his US core, VWCE for his monthly savings plan. Simple, 
 
 ### The Main Options in Germany
 
-**Interactive Brokers (IBKR)** is the benchmark for serious investors with larger portfolios. Commission rates are among the lowest available globally, the platform offers access to virtually every market worldwide, and the German-registered entity handles Abgeltungsteuer, Vorabpauschale, and Freistellungsauftrag automatically. The interface rewards patience to learn. At portfolio sizes above €50,000, the cost advantages are meaningful. [See our full IBKR review →](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors)
+**Interactive Brokers (IBKR)** is the benchmark for serious investors with larger portfolios. Commission rates are among the lowest available globally, the platform offers access to virtually every market worldwide, and the German-registered entity handles Abgeltungsteuer, Vorabpauschale, and Freistellungsauftrag automatically. The interface rewards patience to learn. At portfolio sizes above €50,000, the cost advantages are meaningful. [See our full IBKR review →](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/)
 
 **Trade Republic** has become Germany's most popular retail broker for a reason. Commission-free ETF savings plans, clean mobile interface, fully automatic tax handling, and a fast onboarding process. The limitation: fewer order types, no margin lending, and limited access to non-European exchanges for individual stocks. For long-term ETF investors with monthly savings plans, it is hard to beat.
 
@@ -198,7 +198,7 @@ Lukas opens two accounts: Trade Republic for his monthly €500 VWCE savings pla
 
 ## Step 5: The W-8BEN Form - Do Not Skip This
 
-If you buy US individual stocks - not UCITS ETFs, but direct shares in Apple, Microsoft, or any US company - dividends are subject to a 30% US withholding tax by default. The US-[Germany tax](/taxes/us-germany-tax-treaty-investors) treaty reduces this to **15%**, but only if you have certified your non-US status by submitting a [W-8BEN](/taxes/w8ben-form-non-us-investors) form to your broker.
+If you buy US individual stocks - not UCITS ETFs, but direct shares in Apple, Microsoft, or any US company - dividends are subject to a 30% US withholding tax by default. The US-[Germany tax](/taxes/us-germany-tax-treaty-investors/) treaty reduces this to **15%**, but only if you have certified your non-US status by submitting a [W-8BEN](/taxes/w8ben-form-non-us-investors/) form to your broker.
 
 Without the form: 30% withheld on every dividend. With it: 15%. On a €3,000 annual dividend from a US stock portfolio, that is €450 in unnecessary annual tax. The form takes five minutes.
 

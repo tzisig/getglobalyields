@@ -43,7 +43,7 @@ schema:
 <!-- ADSENSE PLACEHOLDER - TOP OF ARTICLE -->
 <!-- [ADSENSE_TOP] -->
 
-Most [UK](/us-investing/invest-us-stocks-uk) investors holding US stocks are overpaying their US tax bill. Not by a little - by 15 percentage points on every dividend payment. The fix takes one form and a few minutes. But the more interesting question is whether you are using the right account type to begin with - because the difference between holding US stocks in an ISA versus a SIPP can be the difference between paying 15% US withholding forever and paying zero.
+Most [UK](/us-investing/invest-us-stocks-uk/) investors holding US stocks are overpaying their US tax bill. Not by a little - by 15 percentage points on every dividend payment. The fix takes one form and a few minutes. But the more interesting question is whether you are using the right account type to begin with - because the difference between holding US stocks in an ISA versus a SIPP can be the difference between paying 15% US withholding forever and paying zero.
 
 That is the most actionable part of the US-UK tax treaty for most UK investors, and this guide starts there rather than burying it in article numbers and treaty history.
 
@@ -53,7 +53,7 @@ That is the most actionable part of the US-UK tax treaty for most UK investors, 
 
 The US-UK tax treaty caps dividend withholding at 15% for portfolio investors. That is the rate you pay on US dividends in a standard taxable account and inside an ISA. What most UK investors do not know is that qualifying UK pension schemes - including SIPPs - receive a further exemption, dropping the rate to zero.
 
-This is confirmed in Article 10(3) of the treaty, which exempts pension schemes from withholding. [AJ Bell](/best-brokers/best-brokers-international-investors-2026), the UK's major self-invested pension provider, states this explicitly: "A form is not required to buy and sell US investments in your AJ Bell SIPP, or to benefit from the 0% [withholding tax](/taxes/taxes-us-dividends-foreign-investors) rate for qualifying pension schemes... US investments are automatically exempt from withholding tax."
+This is confirmed in Article 10(3) of the treaty, which exempts pension schemes from withholding. [AJ Bell](/best-brokers/best-brokers-international-investors-2026/), the UK's major self-invested pension provider, states this explicitly: "A form is not required to buy and sell US investments in your AJ Bell SIPP, or to benefit from the 0% [withholding tax](/taxes/taxes-us-dividends-foreign-investors/) rate for qualifying pension schemes... US investments are automatically exempt from withholding tax."
 
 Hargreaves Lansdown operates the same way. A qualifying SIPP with either provider receives US dividends on individual US stocks with no US withholding deducted at source.
 
@@ -68,7 +68,7 @@ A UK investor holding $100,000 in US dividend stocks yielding 2% annually:
 
 That is $300 per year on a $100,000 portfolio - purely from account choice, not investment selection. On a ֲ£500,000 portfolio, it is ֲ£1,500 per year that either stays in the pension or goes to the IRS. Compounded over a 20-year accumulation period, the difference is substantial.
 
-**The critical caveat on ETFs:** The 0% pension exemption applies to direct individual US stock holdings where the SIPP is the registered beneficial owner on record with the IRS. It does not flow through to ETFs. If you hold an [Irish-domiciled ETF](/strategies/best-high-yield-etfs-2026) (CSPX, VUSA) inside a SIPP, the fund itself pays 15% US withholding at the fund level before the dividends ever reach you - and the pension wrapper provides no benefit at that layer. The 0% rate only works with individual US stocks held directly.
+**The critical caveat on ETFs:** The 0% pension exemption applies to direct individual US stock holdings where the SIPP is the registered beneficial owner on record with the IRS. It does not flow through to ETFs. If you hold an [Irish-domiciled ETF](/strategies/best-high-yield-etfs-2026/) (CSPX, VUSA) inside a SIPP, the fund itself pays 15% US withholding at the fund level before the dividends ever reach you - and the pension wrapper provides no benefit at that layer. The 0% rate only works with individual US stocks held directly.
 
 **Not all SIPP providers deliver the 0% rate.** The pension exemption requires the provider to have registered their SIPP with the IRS as a qualifying pension scheme and to have set up the correct withholding arrangements. AJ Bell and Hargreaves Lansdown both confirm they do this. InvestEngine's community forum shows investors asking whether InvestEngine handles US withholding reclaim for their SIPP - the answer from the platform was not a clear confirmation. Before opening a SIPP specifically to hold US individual stocks, verify in writing whether your provider delivers 0% withholding on US dividends.
 
@@ -103,7 +103,7 @@ The verified rates from the treaty text and HMRC's Double Taxation Relief Manual
 
 **Source:** US-UK Income Tax Convention (July 24, 2001), Protocols (2002, 2003); HMRC DT19852; Congress.gov Treaty Document 107-19.
 
-These rates are standard across comparable US treaties. The US-[Germany](/us-investing/how-to-invest-in-us-stocks-from-germany), US-Ireland, and US-Netherlands treaties all deliver the same 15%/5%/0% dividend structure and 0% on interest and royalties. The US-UK treaty is not more favorable than its European peers at the headline level - its distinction lies in the pension provisions and in how it interacts with UK-specific wrappers.
+These rates are standard across comparable US treaties. The US-[Germany](/us-investing/how-to-invest-in-us-stocks-from-germany/), US-Ireland, and US-Netherlands treaties all deliver the same 15%/5%/0% dividend structure and 0% on interest and royalties. The US-UK treaty is not more favorable than its European peers at the headline level - its distinction lies in the pension provisions and in how it interacts with UK-specific wrappers.
 
 ### The 0% Dividend Rate for Corporates: Narrower Than It Sounds
 
@@ -115,7 +115,7 @@ For individual investors this rate is not available. For most corporate investor
 
 ## How to Claim the 15% Treaty Rate: Form W-8BEN
 
-For UK residents holding US stocks in a taxable account or ISA, the mechanism for claiming the reduced 15% rate is Form [W-8BEN](/taxes/w8ben-form-non-us-investors) - filed with your broker, not the IRS.
+For UK residents holding US stocks in a taxable account or ISA, the mechanism for claiming the reduced 15% rate is Form [W-8BEN](/taxes/w8ben-form-non-us-investors/) - filed with your broker, not the IRS.
 
 Most major UK platforms handle this at account opening:
 
@@ -208,7 +208,7 @@ The saving clause was historically applied only by the US. In March 2025, HMRC i
 
 **Foreign Tax Credit (Form 1116):** Credits UK income tax against US tax liability. Because UK rates (20-45%) generally exceed US federal rates for equivalent income, US citizens in the UK typically eliminate additional US tax through the FTC.
 
-**ISA funds as PFICs:** UK-domiciled investment funds held within an ISA (unit trusts, OEICs, investment trusts) are classified as Passive Foreign Investment Companies under US tax law. [PFIC](/taxes/pfic-rules-international-investors) taxation is punitive - gains taxed at the highest ordinary income rate plus an interest charge - and requires Form 8621 for each fund each year. Individual UK-listed shares held in an ISA are not PFICs. US-domiciled ETFs are not PFICs but are largely inaccessible at UK platforms due to EU PRIIPs regulations.
+**ISA funds as PFICs:** UK-domiciled investment funds held within an ISA (unit trusts, OEICs, investment trusts) are classified as Passive Foreign Investment Companies under US tax law. [PFIC](/taxes/pfic-rules-international-investors/) taxation is punitive - gains taxed at the highest ordinary income rate plus an interest charge - and requires Form 8621 for each fund each year. Individual UK-listed shares held in an ISA are not PFICs. US-domiciled ETFs are not PFICs but are largely inaccessible at UK platforms due to EU PRIIPs regulations.
 
 **SIPP for US citizens:** Articles 17 and 18 of the treaty provide that contributions to and growth within a qualifying UK pension scheme are generally deferred for US tax purposes, matching UK treatment. This is a specific carve-out from the saving clause. However, the IRS has historically treated some SIPP structures as foreign grantor trusts requiring Form 3520 and 3520-A filings. Specialist advice is essential before contributing to or withdrawing from a SIPP as a US person.
 
@@ -266,8 +266,8 @@ For high-net-worth investors arriving in the UK: US dividends, gains from sellin
 |---|---|---|---|---|
 | United Kingdom | 15% | 0% | Residence only | Yes - 0% in qualifying pension |
 | Germany | 15% | 0% | Residence only | Yes - pension exemption exists |
-| [Belgium](/taxes/us-belgium-tax-treaty-investors) | 15% | 0% | Residence only | Yes |
-| [Austria](/taxes/us-austria-tax-treaty-investors) | 15% | 0% | Residence only | Yes |
+| [Belgium](/taxes/us-belgium-tax-treaty-investors/) | 15% | 0% | Residence only | Yes |
+| [Austria](/taxes/us-austria-tax-treaty-investors/) | 15% | 0% | Residence only | Yes |
 | Ireland | 15% | 0% | Residence only | Yes |
 | Netherlands | 15% | 0% | Residence only | Yes |
 | Japan | **10%** | 0% | Residence only | Yes |
@@ -327,7 +327,7 @@ Getting the treaty rate right is only the first step. These tools help you optim
 
 - **[Tax Map](/tax-map/)** - Compare the US-UK treaty rates against other countries and income types at a glance.
 - **[Broker Finder](/broker-finder/)** - Find UK-compatible brokers that handle W-8BEN correctly, including SIPP providers that deliver the 0% rate.
-- **[Broker Fee Calculator](/broker-calculator/)** - See how Halifax, AJ Bell, Hargreaves Lansdown, and [IBKR](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors) compare on total cost for US stock investors.
+- **[Broker Fee Calculator](/broker-calculator/)** - See how Halifax, AJ Bell, Hargreaves Lansdown, and [IBKR](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/) compare on total cost for US stock investors.
 - **[Investment Calculators](/resources/calculators/)** - Model the long-term impact of the ISA vs SIPP withholding difference on your own portfolio.
 - **[Investor Profiles](/investor-profiles/)** - See how other UK-based investors structure their US holdings across ISAs, SIPPs, and taxable accounts.
 - **[Weekly Update](/weekly-update/)** - Stay current on treaty, HMRC, and broker rule changes affecting UK investors.
@@ -338,7 +338,7 @@ Getting the treaty rate right is only the first step. These tools help you optim
 
 ## Key Takeaways
 
-The US-UK treaty delivers the same headline rates as comparable US treaties with [Germany](/taxes/us-germany-tax-treaty-investors), Ireland, and the Netherlands: 15% on portfolio dividends, 0% on interest and royalties, and residence-country-only taxation for capital gains. Its genuine advantage for UK investors is the pension exemption - a qualifying SIPP with the right provider receives US dividends on individual stocks at 0% withholding instead of 15%.
+The US-UK treaty delivers the same headline rates as comparable US treaties with [Germany](/taxes/us-germany-tax-treaty-investors/), Ireland, and the Netherlands: 15% on portfolio dividends, 0% on interest and royalties, and residence-country-only taxation for capital gains. Its genuine advantage for UK investors is the pension exemption - a qualifying SIPP with the right provider receives US dividends on individual stocks at 0% withholding instead of 15%.
 
 For a UK investor holding US dividend stocks, the most consequential decision is not which stocks to buy - it is where to hold them. The difference between an ISA (15% US withholding, permanent) and a qualifying SIPP (0% on individual stocks) is a guaranteed 15% improvement in net dividend income per pound invested in US stocks, for every year those stocks are held.
 
@@ -350,12 +350,4 @@ The March 2025 HMRC ruling on US pension lump sums is the most significant treat
 
 *Sources: US-UK Income Tax Convention (July 24, 2001) and Protocols; HMRC Double Taxation Relief Manual DT19852; Congress.gov Treaty Document 107-19; AJ Bell official guidance on US withholding and W-8BEN (ajbell.co.uk); HMRC updated pension lump sum guidance (March 12, 2025) as reported by USTAXFS, Blick Rothenberg, and ICAEW; UK FIG regime guidance (HMRC, April 2025); UK CGT rates confirmed via HMRC and Gov.uk (October 2024 Budget); UK dividend tax rates 2025/26 and 2026/27 confirmed via HMRC; IRS Publication 515 (2026).*
 
-## Related Guides
-
-- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors)
-- [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors)
-- [Best Brokers for Israeli Investors in US Markets](/taxes/best-broker-israeli-investors-us-markets)
-- [PFIC Rules for International Investors](/taxes/pfic-rules-international-investors)
-- [TQQQ Tax Guide for International Investors](/taxes/tqqq-tax-international-investors)
-- [US-Germany Tax Treaty for Investors](/taxes/us-germany-tax-treaty-investors)
 - [US-Canada Tax Treaty for Investors]( /taxes/us-canada-tax-treaty-investors-2026 /)

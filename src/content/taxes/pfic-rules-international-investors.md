@@ -65,7 +65,7 @@ Under IRS rules, a foreign corporation is classified as a PFIC if it meets eithe
 
 **Asset test:** At least 50% of the company's assets produce passive income or are held to produce passive income.
 
-Most foreign mutual funds, ETFs, and unit trusts automatically meet one or both of these tests. That means if you're an Israeli investor who owns a Tel Aviv-listed index fund, an [Australian](/us-investing/how-to-invest-in-us-stocks-from-australia) who holds a local managed fund, or a [Canadian](/us-investing/how-to-invest-in-us-stocks-from-canada) with shares in a non-US ETF - there's a real chance you're holding a PFIC.
+Most foreign mutual funds, ETFs, and unit trusts automatically meet one or both of these tests. That means if you're an Israeli investor who owns a Tel Aviv-listed index fund, an [Australian](/us-investing/how-to-invest-in-us-stocks-from-australia/) who holds a local managed fund, or a [Canadian](/us-investing/how-to-invest-in-us-stocks-from-canada/) with shares in a non-US ETF - there's a real chance you're holding a PFIC.
 
 ## נ’¸ֲ  Why PFIC Tax Treatment Is So Painful
 
@@ -107,7 +107,7 @@ The honest answer: mostly people who didn't know the rules existed. Here are the
 
 ### Israeli Investors
 
-Israelis who hold Keren Hishtalmut funds, [Israeli](/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026) mutual funds (׳§׳¨׳ ׳•׳× ׳ ׳׳׳ ׳•׳×), or local ETFs are almost certainly holding PFICs if they're US persons - meaning US citizens, green card holders, or certain long-term residents. Israel's investment vehicles are foreign corporations that invest passively. They qualify as PFICs almost automatically.
+Israelis who hold Keren Hishtalmut funds, [Israeli](/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026/) mutual funds (׳§׳¨׳ ׳•׳× ׳ ׳׳׳ ׳•׳×), or local ETFs are almost certainly holding PFICs if they're US persons - meaning US citizens, green card holders, or certain long-term residents. Israel's investment vehicles are foreign corporations that invest passively. They qualify as PFICs almost automatically.
 
 ### Canadian Investors
 
@@ -115,11 +115,11 @@ Canadian mutual funds and [Canadian]( /taxes/us-canada-tax-treaty-investors-2026
 
 ### Australian Investors
 
-Australian managed funds and some ASX-listed ETFs can qualify as PFICs. The ATO's structure for managed investment trusts doesn't align neatly with US classifications, which creates ongoing confusion for [Australian](/taxes/us-australia-tax-treaty-investors)-resident US persons.
+Australian managed funds and some ASX-listed ETFs can qualify as PFICs. The ATO's structure for managed investment trusts doesn't align neatly with US classifications, which creates ongoing confusion for [Australian](/taxes/us-australia-tax-treaty-investors/)-resident US persons.
 
 ### European Investors
 
-European UCITS funds - the standard investment vehicle across the EU - are almost universally PFICs. This is one of the main reasons US persons living in Europe have so much trouble with basic investing. The local options are all PFICs. US-listed alternatives require using a broker that accepts international clients (like IBKR). For country-specific guidance, see the [US-UK](/taxes/us-uk-tax-treaty-investors), [US-Germany](/taxes/us-germany-tax-treaty-investors), and other European treaty guides.
+European UCITS funds - the standard investment vehicle across the EU - are almost universally PFICs. This is one of the main reasons US persons living in Europe have so much trouble with basic investing. The local options are all PFICs. US-listed alternatives require using a broker that accepts international clients (like IBKR). For country-specific guidance, see the [US-UK](/taxes/us-uk-tax-treaty-investors/), [US-Germany](/taxes/us-germany-tax-treaty-investors/), and other European treaty guides.
 
 <!-- ADSENSE-RECTANGLE-300x250 -->
 
@@ -129,7 +129,7 @@ The simplest way to avoid PFIC problems is to invest in US-listed funds instead 
 
 ### 1. Use US-Listed ETFs Through IBKR
 
-[Interactive Brokers](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors) accepts investors from 200+ countries and gives international clients access to the same US-listed ETFs available to American investors. Buying VTI, VOO, or QQQ through IBKR instead of a local equivalent eliminates the PFIC issue entirely. These are US-domiciled funds - not foreign corporations - so the PFIC rules don't apply. For a full comparison of brokers that support international investors, see the [Best Brokers for International Investors](/best-brokers/best-brokers-international-investors-2026) guide.
+[Interactive Brokers](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/) accepts investors from 200+ countries and gives international clients access to the same US-listed ETFs available to American investors. Buying VTI, VOO, or QQQ through IBKR instead of a local equivalent eliminates the PFIC issue entirely. These are US-domiciled funds - not foreign corporations - so the PFIC rules don't apply. For a full comparison of brokers that support international investors, see the [Best Brokers for International Investors](/best-brokers/best-brokers-international-investors-2026/) guide.
 
 ### 2. Avoid Foreign Mutual Funds and ETFs
 
@@ -212,31 +212,29 @@ If you are reviewing your fund holdings or considering switching to US-listed al
 
 PFIC rules exist specifically to discourage US persons from investing in foreign passive vehicles. The tax treatment is punitive by design.
 
-The cleanest solution for most international investors: open an account with a broker that accepts non-US clients (Interactive Brokers is the standard choice), and invest in US-listed ETFs instead of local alternatives. For a comparison of the top options, see our [Best Brokers for International Investors](/best-brokers/best-brokers-international-investors-2026) guide and use the [Broker Fee Calculator](/broker-calculator/) to compare real costs.
+The cleanest solution for most international investors: open an account with a broker that accepts non-US clients (Interactive Brokers is the standard choice), and invest in US-listed ETFs instead of local alternatives. For a comparison of the top options, see our [Best Brokers for International Investors](/best-brokers/best-brokers-international-investors-2026/) guide and use the [Broker Fee Calculator](/broker-calculator/) to compare real costs.
 
 If you already hold PFICs, get professional advice before exiting - the right sequence matters. And file Form 8621 for every year you held them, going back to the first year of ownership.
 
 <!-- AFFILIATE-CTA-FINAL -->
 
-## Related Guides
+ג†’ [Interactive Brokers 2026 Review: The Best Broker for International Investors](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/)
 
-ג†’ [Interactive Brokers 2026 Review: The Best Broker for International Investors](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors)
+ג†’ [W-8BEN Form: Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)
 
-ג†’ [W-8BEN Form: Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors)
+ג†’ [How to Convert ILS to USD at Interbank Rates Using IBKR](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026/)
 
-ג†’ [How to Convert ILS to USD at Interbank Rates Using IBKR](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026)
+ג†’ [The Wheel Strategy on TQQQ: A Step-by-Step Guide](/options-income/wheel-strategy-tqqq/)
 
-ג†’ [The Wheel Strategy on TQQQ: A Step-by-Step Guide](/options-income/wheel-strategy-tqqq)
+ג†’ [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
 
-ג†’ [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors)
+ג†’ [Best Brokers for Israeli Investors in US Markets](/taxes/best-broker-israeli-investors-us-markets/)
 
-ג†’ [Best Brokers for Israeli Investors in US Markets](/taxes/best-broker-israeli-investors-us-markets)
+ג†’ [TQQQ Tax Guide for International Investors](/taxes/tqqq-tax-international-investors/)
 
-ג†’ [TQQQ Tax Guide for International Investors](/taxes/tqqq-tax-international-investors)
+ג†’ [US-Germany Tax Treaty for Investors](/taxes/us-germany-tax-treaty-investors/)
 
-ג†’ [US-Germany Tax Treaty for Investors](/taxes/us-germany-tax-treaty-investors)
-
-ג†’ [US-UK Tax Treaty for Investors](/taxes/us-uk-tax-treaty-investors)
+ג†’ [US-UK Tax Treaty for Investors](/taxes/us-uk-tax-treaty-investors/)
 
 ג†’ [US-Canada Tax Treaty for Investors]( /taxes/us-canada-tax-treaty-investors-2026 /)
 

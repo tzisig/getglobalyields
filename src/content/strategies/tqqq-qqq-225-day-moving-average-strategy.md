@@ -34,14 +34,14 @@ rating: 4.6
 
 <!-- ADSENSE / AFFILIATE PLACEHOLDER
      Position: Top of article, before content
-     Recommended: Responsive AdSense display unit or broker affiliate banner ([IBKR](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors), [Saxo](/best-brokers/saxo-bank-review-2026))
+     Recommended: Responsive AdSense display unit or broker affiliate banner ([IBKR](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/), [Saxo](/best-brokers/saxo-bank-review-2026/))
      Replace this comment block with your AdSense tag or affiliate banner HTML -->
 
 ## Who This Article Is For
 
-David, an [Israeli](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026) investor with $80,000 in TQQQ, found the 225-day SMA strategy in early 2022 - right after QQQ crossed below the line in January. He moved to cash. He avoided the 79% drawdown. He re-entered in late November 2022 when QQQ crossed back above. He captured the full 198% 2023 rally. On paper, the strategy worked exactly as advertised. For the fundamental choice between TQQQ and QQQ, see [TQQQ vs QQQ](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026). Also see [TQQQ Long-Term Outlook](/strategies/tqqq-long-term-outlook), [Dollar-Cost Averaging TQQQ](/strategies/dollar-cost-averaging-tqqq), and [Compounding Returns with TQQQ](/strategies/compounding-returns-tqqq).
+David, an [Israeli](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026/) investor with $80,000 in TQQQ, found the 225-day SMA strategy in early 2022 - right after QQQ crossed below the line in January. He moved to cash. He avoided the 79% drawdown. He re-entered in late November 2022 when QQQ crossed back above. He captured the full 198% 2023 rally. On paper, the strategy worked exactly as advertised. For the fundamental choice between TQQQ and QQQ, see [TQQQ vs QQQ](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026/). Also see [TQQQ Long-Term Outlook](/strategies/tqqq-long-term-outlook/), [Dollar-Cost Averaging TQQQ](/strategies/dollar-cost-averaging-tqqq/), and [Compounding Returns with TQQQ](/strategies/compounding-returns-tqqq/).
 
-If you [hold TQQQ](/strategies/tqqq-long-term-strategy-buy-and-hold) and have encountered this strategy - or are considering it - this article presents what it actually delivers, verified, for both QQQ and TQQQ, and what you should do with it instead.
+If you [hold TQQQ](/strategies/tqqq-long-term-strategy-buy-and-hold/) and have encountered this strategy - or are considering it - this article presents what it actually delivers, verified, for both QQQ and TQQQ, and what you should do with it instead.
 
 ---
 
@@ -116,7 +116,7 @@ Every exit from TQQQ to cash is a taxable event. Because most TQQQ exit signals 
 
 For a US investor in the 32% federal bracket, a strategy that generates 20% of pre-tax gains annually but crystallizes them as short-term gains retains approximately 13.6% after tax. Buy-and-hold TQQQ, with the same 20% pre-tax return, retains approximately 16% after tax (20% long-term capital gains rate after one year). The tax cost of active trading erodes a significant portion of the strategy's theoretical pre-tax advantage.
 
-For non-US investors, each QQQ crossing below the 225-day line that triggers a TQQQ sale crystallizes a gain taxed at the full domestic rate - 25% in [Germany](/us-investing/invest-us-stocks-germany) (Abgeltungsteuer), 18-24% in the [UK](/us-investing/invest-us-stocks-uk), 25% in Israel. Multiple whipsaw signals in a sideways year each trigger a separate taxable event.
+For non-US investors, each QQQ crossing below the 225-day line that triggers a TQQQ sale crystallizes a gain taxed at the full domestic rate - 25% in [Germany](/us-investing/invest-us-stocks-germany/) (Abgeltungsteuer), 18-24% in the [UK](/us-investing/invest-us-stocks-uk/), 25% in Israel. Multiple whipsaw signals in a sideways year each trigger a separate taxable event.
 
 ### Reason 3: Whipsaw trades in volatile markets
 
@@ -180,7 +180,7 @@ The practical cost is complexity: you need to monitor multiple indicators simult
 
 **Step 3:** Write down the rule and the tax cost. If you are in a taxable account, calculate what a TQQQ sale at current prices would cost in CGT before you commit to the strategy. If the tax cost of one exit exceeds 18 months of SGOV income on that capital, factor that into whether the strategy makes sense for your specific situation.
 
-For David: his $80,000 TQQQ position at current prices would generate a significant taxable gain if he exits on the next SMA signal. See our [TQQQ Tax Guide for International Investors](/taxes/tqqq-tax-international-investors) for country-specific rates. The right answer for him is not "always exit" or "never exit" - it is knowing the exact tax cost in advance and having the rule written before the signal fires.
+For David: his $80,000 TQQQ position at current prices would generate a significant taxable gain if he exits on the next SMA signal. See our [TQQQ Tax Guide for International Investors](/taxes/tqqq-tax-international-investors/) for country-specific rates. The right answer for him is not "always exit" or "never exit" - it is knowing the exact tax cost in advance and having the rule written before the signal fires.
 
 ---
 
@@ -241,7 +241,7 @@ The strategy's greatest value for TQQQ investors is not finding the optimal entr
 
 David's 2022 experience was real and the strategy worked for him that year. The question is not whether it worked once - it is whether it works better than buy-and-hold over the full decade, after taxes, accounting for the compounding he missed at the bottom of every recovery. That calculation, done honestly, is what determines whether this strategy belongs in his portfolio or just in his research folder.
 
-For the [Wheel Strategy on TQQQ](/options-income/wheel-strategy-tqqq) and [Selling Covered Calls on TQQQ](/options-income/selling-covered-calls-tqqq), see how options can supplement timing strategies.
+For the [Wheel Strategy on TQQQ](/options-income/wheel-strategy-tqqq/) and [Selling Covered Calls on TQQQ](/options-income/selling-covered-calls-tqqq/), see how options can supplement timing strategies.
 
 Use the [Broker Finder](/broker-finder/) and [Broker Calculator](/broker-calculator/) to find the right broker for implementing this strategy.
 

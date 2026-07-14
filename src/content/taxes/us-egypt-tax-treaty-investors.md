@@ -11,7 +11,7 @@ tags:
   - "egyptian investor us stocks"
   - "W-8BEN Egypt"
   - "withholding tax dividends"
-draft: false
+draft: true
 readingTime: "1 min read"
 featured: false
 seo:
@@ -32,7 +32,7 @@ This guide is currently under development and will be published soon.
 
 In the meantime, here are some resources that may be helpful for Egyptian residents investing in US markets:
 
-- [W-8BEN Form Guide for Non-US Investors](/taxes/w8ben-form-non-us-investors)
-- [US Dividend Taxes for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors)
-- [Best Brokers for International Investors](/best-brokers/best-brokers-international-investors-2026)
-- [Tax Map: US Tax Treaties Worldwide](/tax-map)
+- [W-8BEN Form Guide for Non-US Investors](/taxes/w8ben-form-non-us-investors/)
+- [US Dividend Taxes for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
+- [Best Brokers for International Investors](/best-brokers/best-brokers-international-investors-2026/)
+- [Tax Map: US Tax Treaties Worldwide](/tax-map/)

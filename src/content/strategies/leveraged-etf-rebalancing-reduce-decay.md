@@ -27,7 +27,7 @@ rating: 4.7
 
 <!-- ADSENSE / AFFILIATE PLACEHOLDER
      Position: Top of article, before content
-     Recommended: Responsive AdSense display unit or broker affiliate banner ([IBKR](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors), [Saxo](/best-brokers/saxo-bank-review-2026))
+     Recommended: Responsive AdSense display unit or broker affiliate banner ([IBKR](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/), [Saxo](/best-brokers/saxo-bank-review-2026/))
      Replace this comment block with your AdSense tag or affiliate banner HTML -->
 
 Consider an investor who put $100,000 into TQQQ at the start of 2022. By year-end they had $20,920 - a loss of $79,080. They had not made a single wrong decision about the long-term direction of technology stocks. They understood the Nasdaq would be higher in five years. They simply held a daily-reset leveraged product through a volatile year, and the math of daily compounding did the rest.
@@ -119,7 +119,7 @@ In practice, this means setting price alerts or portfolio monitoring rules. If y
 
 The advantage over calendar rebalancing: you rebalance when the portfolio actually needs it rather than on an arbitrary schedule. The disadvantage: in fast-moving markets, the allocation can drift through multiple thresholds quickly, requiring frequent intervention at precisely the moment the market is most stressful.
 
-For the TQQQ/TMF variant rather than UPRO/TMF, bi-monthly rebalancing (every two months) has shown stronger historical performance than quarterly in extended backtests, according to research summarized at 7circles.[uk](/us-investing/invest-us-stocks-uk). The higher volatility of TQQQ versus UPRO means the allocation drifts faster, making more frequent rebalancing beneficial.
+For the TQQQ/TMF variant rather than UPRO/TMF, bi-monthly rebalancing (every two months) has shown stronger historical performance than quarterly in extended backtests, according to research summarized at 7circles.[uk](/us-investing/invest-us-stocks-uk/). The higher volatility of TQQQ versus UPRO means the allocation drifts faster, making more frequent rebalancing beneficial.
 
 ---
 
@@ -242,7 +242,7 @@ The strategies that reduce it - HFEA-style pairing with an uncorrelated hedge, t
 
 TQQQ's 10-year CAGR of 44% is real. So is the -79% it delivered in 2022. The investors who captured the long-term return are the ones who had a framework going in - not just a conviction about the direction of the Nasdaq.
 
-*For the practical execution side - when to rebalance, how to set threshold bands, and how to avoid the tax trap in a taxable account - see our companion guide: [TQQQ Rebalancing Strategy: When to Rebalance and How to Avoid the Tax Trap](/strategies/leveraged-etf-rebalancing-strategy-2026).*
+*For the practical execution side - when to rebalance, how to set threshold bands, and how to avoid the tax trap in a taxable account - see our companion guide: [TQQQ Rebalancing Strategy: When to Rebalance and How to Avoid the Tax Trap](/strategies/leveraged-etf-rebalancing-strategy-2026/).*
 
 ---
 
@@ -250,16 +250,3 @@ TQQQ's 10-year CAGR of 44% is real. So is the -79% it delivered in 2022. The inv
 
 ---
 
-## Related Articles
-
-- [TQQQ Rebalancing Strategy: When to Rebalance and Avoid Tax Traps](/strategies/leveraged-etf-rebalancing-strategy-2026)
-- [TQQQ vs QQQ: Which Is Right for International Investors?](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026)
-- [Risk Management for Leveraged ETF Investors](/strategies/risk-management-leveraged-etf-investors-2026)
-- [Portfolio Diversification with Leveraged Funds](/strategies/portfolio-diversification-leveraged-funds)
-- [Selling Covered Calls on TQQQ for Monthly Income](/options-income/selling-covered-calls-tqqq)
-- [The Wheel Strategy on TQQQ](/options-income/wheel-strategy-tqqq)
-- [W-8BEN Form: Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors)
-- [TQQQ Tax Guide for International Investors](/taxes/tqqq-tax-international-investors)
-- [Best Brokers for International Investors 2026](/best-brokers/best-brokers-international-investors-2026)
-- [Interactive Brokers Review 2026](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors)
-- [Tax Map - International Investor Tax Guide](/tax-map)

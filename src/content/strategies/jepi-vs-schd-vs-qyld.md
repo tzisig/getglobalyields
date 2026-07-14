@@ -27,7 +27,7 @@ featured: false
 <!-- ADSENSE PLACEHOLDER - TOP OF ARTICLE -->
 <!-- [ADSENSE_TOP] -->
 
-**The bottom line up front:** SCHD builds wealth over time. JEPI delivers stable monthly income with lower volatility. QYLD maximizes current cash flow at the cost of capital growth. The right choice depends on your time horizon - but for non-US investors, [withholding tax](/taxes/taxes-us-dividends-foreign-investors) changes the math significantly for all three.
+**The bottom line up front:** SCHD builds wealth over time. JEPI delivers stable monthly income with lower volatility. QYLD maximizes current cash flow at the cost of capital growth. The right choice depends on your time horizon - but for non-US investors, [withholding tax](/taxes/taxes-us-dividends-foreign-investors/) changes the math significantly for all three.
 
 ---
 
@@ -45,7 +45,7 @@ These three funds are among the most widely held dividend ETFs in the world - bu
 | **AUM** | $45.61B | $95.23B | $8.33B |
 | **Expense Ratio** | 0.35% | **0.06%** | 0.60% |
 | **Management** | Active | Passive (index) | Passive (index) |
-| **Strategy** | [Covered calls](/options-income/selling-covered-calls-tqqq) on S&P 500 stocks | Dividend-growth equities | Covered calls on Nasdaq-100 |
+| **Strategy** | [Covered calls](/options-income/selling-covered-calls-tqqq/) on S&P 500 stocks | Dividend-growth equities | Covered calls on Nasdaq-100 |
 
 *Sources: JPMorgan Fact Sheet 30/4/2026; Schwab Asset Management; Yahoo Finance, May 2026.*
 
@@ -237,13 +237,3 @@ A widely used combination: **SCHD (40%) + JEPI (40%) + QYLD (20%)** - balancing 
 
 ---
 
-## Related Articles
-
-- [Best High-Yield ETFs for Income Investors in 2026](/strategies/best-high-yield-etfs-2026)
-- [Selling Covered Calls on TQQQ](/options-income/selling-covered-calls-tqqq)
-- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors)
-- [W-8BEN Form: Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors)
-- [Best Brokers for International Investors 2026](/best-brokers/best-brokers-international-investors-2026)
-- [Interactive Brokers Review 2026](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors)
-- [TQQQ vs QQQ: Which Is Right for International Investors?](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026)
-- [Tax Map - International Investor Tax Guide](/tax-map)

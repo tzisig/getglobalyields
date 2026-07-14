@@ -63,7 +63,7 @@ TQQQ produces three types of income:
 
 - Paid quarterly
 - Very low yield (typically under 1%)
-- Subject to US [withholding tax](/taxes/taxes-us-dividends-foreign-investors)
+- Subject to US [withholding tax](/taxes/taxes-us-dividends-foreign-investors/)
 
 ### **2. Capital Gains Distributions**
 
@@ -81,11 +81,11 @@ TQQQ produces three types of income:
 
 TQQQ dividends are subject to US withholding tax.
 
-Typical rates with a [valid W-8BEN form](/taxes/w8ben-form-non-us-investors):
+Typical rates with a [valid W-8BEN form](/taxes/w8ben-form-non-us-investors/):
 
-<table><thead><tr><th><p><strong>Country</strong></p></th><th><p><strong>Withholding Rate</strong></p></th></tr></thead><tbody><tr><td><p>[Israel](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026)</p></td><td><p><em>25% (treaty rate - not a large reduction vs default)</em></p></td></tr><tr><td><p>[UK](/us-investing/invest-us-stocks-uk) / [Germany](/us-investing/how-to-invest-in-us-stocks-from-germany) / France</p></td><td><p>15%</p></td></tr><tr><td><p>[Australia](/us-investing/how-to-invest-in-us-stocks-from-australia)</p></td><td><p>15%</p></td></tr><tr><td><p>No treaty</p></td><td><p>30%</p></td></tr></tbody></table>
+<table><thead><tr><th><p><strong>Country</strong></p></th><th><p><strong>Withholding Rate</strong></p></th></tr></thead><tbody><tr><td><p>[Israel](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026/)</p></td><td><p><em>25% (treaty rate - not a large reduction vs default)</em></p></td></tr><tr><td><p>[UK](/us-investing/invest-us-stocks-uk/) / [Germany](/us-investing/how-to-invest-in-us-stocks-from-germany/) / France</p></td><td><p>15%</p></td></tr><tr><td><p>[Australia](/us-investing/how-to-invest-in-us-stocks-from-australia/)</p></td><td><p>15%</p></td></tr><tr><td><p>No treaty</p></td><td><p>30%</p></td></tr></tbody></table>
 
-For the full breakdown of each country's treaty rates, see the [US-UK](/taxes/us-uk-tax-treaty-investors), [US-Germany](/taxes/us-germany-tax-treaty-investors), [US-Canada](/taxes/us-canada-tax-treaty-investors-2026), and other individual treaty guides.
+For the full breakdown of each country's treaty rates, see the [US-UK](/taxes/us-uk-tax-treaty-investors/), [US-Germany](/taxes/us-germany-tax-treaty-investors/), [US-Canada](/taxes/us-canada-tax-treaty-investors-2026/), and other individual treaty guides.
 
 _Because TQQQ's yield is low, the actual dollar impact is small even at 25%._
 
@@ -123,7 +123,7 @@ Example:
 
 - 50% of gains are included in taxable income at your marginal rate
 
-_ג ן¸ Effective rate varies widely by income bracket - consult a [Canadian](/us-investing/how-to-invest-in-us-stocks-from-canada) tax advisor for your specific situation._
+_ג ן¸ Effective rate varies widely by income bracket - consult a [Canadian](/us-investing/how-to-invest-in-us-stocks-from-canada/) tax advisor for your specific situation._
 
 ### **Australia**
 
@@ -154,11 +154,11 @@ TQQQ has one major advantage: low dividend yield = low withholding drag.
 
 <!-- CHART PLACEHOLDER: Add dividend drag comparison chart component here when available. -->
 
-_Conclusion: Growth-focused ETFs like TQQQ are more tax-efficient than income ETFs for non-US investors._ For a detailed comparison of TQQQ vs the underlying index and other leveraged ETFs, see [TQQQ vs QQQ: Which Is Right for You](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026) and the [TQQQ risk management guide](/strategies/risk-management-leveraged-etf-investors-2026).
+_Conclusion: Growth-focused ETFs like TQQQ are more tax-efficient than income ETFs for non-US investors._ For a detailed comparison of TQQQ vs the underlying index and other leveraged ETFs, see [TQQQ vs QQQ: Which Is Right for You](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026/) and the [TQQQ risk management guide](/strategies/risk-management-leveraged-etf-investors-2026/).
 
 ## **Options Income: Advanced but Efficient**
 
-If you use strategies like [covered calls](/options-income/selling-covered-calls-tqqq), [cash-secured puts](/options-income/cash-secured-puts-high-iv), or the [wheel strategy](/options-income/wheel-strategy-tqqq), you generate premium income.
+If you use strategies like [covered calls](/options-income/selling-covered-calls-tqqq/), [cash-secured puts](/options-income/cash-secured-puts-high-iv/), or the [wheel strategy](/options-income/wheel-strategy-tqqq/), you generate premium income.
 
 In many jurisdictions:
 
@@ -205,9 +205,9 @@ Execution matters more than most people think. You need:
 - Low fees
 - Reliable tax documents
 
-**נ‘‰ We recommend [IBKR](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors) for most non-US investors -** here's our full review.
+**נ‘‰ We recommend [IBKR](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/) for most non-US investors -** here's our full review.
 
-IBKR offers global access, strong reporting tools, and supports advanced strategies like options. For dedicated options traders, [tastytrade](/best-brokers/tastytrade-review-2026) is also an excellent choice with competitive pricing on multi-leg option strategies.
+IBKR offers global access, strong reporting tools, and supports advanced strategies like options. For dedicated options traders, [tastytrade](/best-brokers/tastytrade-review-2026/) is also an excellent choice with competitive pricing on multi-leg option strategies.
 
 ## **Useful Tools**
 
@@ -229,14 +229,4 @@ From a tax perspective, TQQQ is relatively efficient for non-US investors.
 
 **נ‘‰ Tax doesn't disappear - it shifts. You're not avoiding tax. You're moving the obligation from the US to your home country. Used correctly, this is efficient. Used blindly, it creates problems.**
 
-## Related Guides
-
-- [TQQQ vs QQQ: Which ETF is better for non-US investors](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026)
-- [Full recovery case study: From -70% to +$492K](/case-study/from-minus-70-to-plus-492k-real-tqqq-recovery-case-study/)
-- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors)
-- [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors)
-- [Best Brokers for Israeli Investors in US Markets](/taxes/best-broker-israeli-investors-us-markets)
-- [PFIC Rules for International Investors](/taxes/pfic-rules-international-investors)
-- [US-Germany Tax Treaty for Investors](/taxes/us-germany-tax-treaty-investors)
-- [US-UK Tax Treaty for Investors](/taxes/us-uk-tax-treaty-investors)
 - [US-Canada Tax Treaty for Investors]( /taxes/us-canada-tax-treaty-investors-2026 /)

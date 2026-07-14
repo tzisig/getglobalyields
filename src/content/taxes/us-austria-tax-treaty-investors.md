@@ -224,7 +224,7 @@ An Austrian tax residency certificate (Ansײ³ג‚×ssigkeitsbescheinigung), av
 
 An Austrian citizen who has moved to Germany and become a German tax resident cannot claim the US-Austria treaty. They are now a German tax resident and should use the US-Germany treaty instead. The treaty follows current residence, not the passport you carry.
 
-**A note for US citizens living in Austria:** the treaty's saving clause preserves the IRS's right to tax US citizens on worldwide income regardless of Austrian residency, and Austrian-domiciled funds can trigger [PFIC](/taxes/pfic-rules-international-investors/) reporting requirements that Austrian nationals do not face. If this applies to you, our [expat financial planning guide](/us-investing/expat-financial-planning-managing-investments-across-borders) covers the broader cross-border picture.
+**A note for US citizens living in Austria:** the treaty's saving clause preserves the IRS's right to tax US citizens on worldwide income regardless of Austrian residency, and Austrian-domiciled funds can trigger [PFIC](/taxes/pfic-rules-international-investors/) reporting requirements that Austrian nationals do not face. If this applies to you, our [expat financial planning guide](/us-investing/expat-financial-planning-managing-investments-across-borders/) covers the broader cross-border picture.
 
 ---
 
@@ -320,12 +320,4 @@ The treaty ensures Austrian tax residents pay no more on US investment income th
 
 For a full side-by-side view across every US treaty country, our [tax map](/tax-map/) tool visualizes all the rates. Austria's 15% portfolio dividend rate matches most Western European treaties including the [US-UK](/taxes/us-uk-tax-treaty-investors/), [US-Germany](/taxes/us-germany-tax-treaty-investors/), and [US-Belgium](/taxes/us-belgium-tax-treaty-investors/) agreements. The 0% interest rate and 0% pension fund rate put it among the more favorable treaties in the network.
 
-## Related Guides
-
-- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
-- [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)
-- [PFIC Rules for International Investors](/taxes/pfic-rules-international-investors/)
-- [US-Germany Tax Treaty for Investors](/taxes/us-germany-tax-treaty-investors/)
-- [US-UK Tax Treaty for Investors](/taxes/us-uk-tax-treaty-investors/)
-- [US-Canada Tax Treaty for Investors]( /taxes/us-canada-tax-treaty-investors-2026 /)
 - [Best Brokers for International Investors](/best-brokers/best-brokers-international-investors-2026/)

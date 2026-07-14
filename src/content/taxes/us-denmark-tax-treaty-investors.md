@@ -300,12 +300,4 @@ The practical priorities are: confirm W-8BEN is current and claiming the 15% rat
 
 *Sources: US-Denmark Income Tax Convention (August 19, 1999) and Protocol (May 2, 2006, in force December 28, 2007); Senate Executive Report 110-3; IRS Technical Explanation of the Convention and Protocol; US-Denmark Competent Authority Arrangement on pension funds (March 25, 2025); PwC Tax Summaries Denmark - Individual Significant Developments and Taxes on Personal Income (2026); SKAT - Buying and Selling Shares and Securities (2026); Expat Finance Denmark - Aktiesparekonto Guide and PFIC analysis (2026); Saxo Bank Aktiesparekonto FAQ (2026); IRS Publication 515 (2026); FinCEN FBAR guidance (2025).*
 
-## Related Guides
-
-- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
-- [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)
-- [Best Brokers for Israeli Investors in US Markets](/taxes/best-broker-israeli-investors-us-markets/)
-- [PFIC Rules for International Investors](/taxes/pfic-rules-international-investors/)
-- [TQQQ Tax Guide for International Investors](/taxes/tqqq-tax-international-investors/)
-- [US-Germany Tax Treaty for Investors](/taxes/us-germany-tax-treaty-investors/)
 - [US-UK Tax Treaty for Investors](/taxes/us-uk-tax-treaty-investors/)

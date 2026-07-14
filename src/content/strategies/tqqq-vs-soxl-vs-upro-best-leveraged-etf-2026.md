@@ -53,7 +53,7 @@ Before the data, three investors whose situations will anchor the comparison.
 
 **Wei** is 29, works in the semiconductor industry, has strong conviction in the chip cycle, and is considering SOXL based on its 2026 performance. He has never held a leveraged ETF through a significant drawdown.
 
-For the long-term outlook on each fund, see [TQQQ Long-Term Outlook](/strategies/tqqq-long-term-outlook), [Dollar-Cost Averaging TQQQ](/strategies/dollar-cost-averaging-tqqq), and [Compounding Returns with TQQQ](/strategies/compounding-returns-tqqq).
+For the long-term outlook on each fund, see [TQQQ Long-Term Outlook](/strategies/tqqq-long-term-outlook/), [Dollar-Cost Averaging TQQQ](/strategies/dollar-cost-averaging-tqqq/), and [Compounding Returns with TQQQ](/strategies/compounding-returns-tqqq/).
 
 ---
 
@@ -184,7 +184,7 @@ The practical implication: holding two or three leveraged ETFs does not build a 
 
 ---
 
-Also see our [QQQ 225-Day Moving Average Strategy](/strategies/tqqq-qqq-225-day-moving-average-strategy) for timing entries, [How to Hedge TQQQ](/strategies/how-to-hedge-tqqq) for protection strategies, and [Analyzing the Long-Term Outlook](/strategies/analyzing-long-term-outlook-holding-tqqq) for deeper analysis.
+Also see our [QQQ 225-Day Moving Average Strategy](/strategies/tqqq-qqq-225-day-moving-average-strategy/) for timing entries, [How to Hedge TQQQ](/strategies/how-to-hedge-tqqq/) for protection strategies, and [Analyzing the Long-Term Outlook](/strategies/analyzing-long-term-outlook-holding-tqqq/) for deeper analysis.
 
 ## Who Each Fund Is Actually For
 
@@ -208,7 +208,7 @@ For UPRO: **202 trading sessions** from its worst drawdown. The fastest recovery
 
 The right question is not which fund returned the most over the past 10 years. It is which recovery period you could genuinely hold through without selling. Answer that honestly, then size accordingly.
 
-For options strategies, see [Selling Covered Calls on TQQQ](/options-income/selling-covered-calls-tqqq) and the [Wheel Strategy on TQQQ](/options-income/wheel-strategy-tqqq). For a real recovery example, read our [Case Study](/case-study/from-minus-70-to-plus-492k-real-tqqq-recovery-case-study).
+For options strategies, see [Selling Covered Calls on TQQQ](/options-income/selling-covered-calls-tqqq/) and the [Wheel Strategy on TQQQ](/options-income/wheel-strategy-tqqq/). For a real recovery example, read our [Case Study](/case-study/from-minus-70-to-plus-492k-real-tqqq-recovery-case-study/).
 
 ---
 
@@ -231,7 +231,7 @@ Because they track completely different indices. SOXL tracks a pure semiconducto
 **Is SOXL safe to buy after its 2026 gains?**
 "Safe" is not the right frame for any 3x leveraged ETF. The relevant question is whether the semiconductor cycle that drove SOXL's 353% YTD gain will continue, plateau, or reverse - and whether the investor has a defined exit strategy if the answer is the third option. Entering SOXL at +353% YTD means entering after most of the 2026 semiconductor trend has already materialized. The 2024 investor who bought SOXL after a strong 2023 (+227%) ended that year down 12.31%.
 
-**Can I [hold TQQQ](/strategies/tqqq-long-term-strategy-buy-and-hold), SOXL, and UPRO together for diversification?**
+**Can I [hold TQQQ](/strategies/tqqq-long-term-strategy-buy-and-hold/), SOXL, and UPRO together for diversification?**
 The diversification benefit is limited. TQQQ and UPRO carry a 0.90-0.95 correlation. TQQQ and SOXL carry a 0.83-0.86 correlation that converges toward 1.0 during market stress. Holding all three does not meaningfully reduce risk. Choose the fund whose underlying index best matches your thesis and size it appropriately within a broader diversified portfolio.
 
 **What happened to SOXL holders who bought in 2021?**
@@ -242,15 +242,3 @@ Because they track different underlying indices. The Nasdaq-100 has outperformed
 
 ---
 
-## Related Articles
-
-- [TQQQ vs QQQ: Which Is Right for International Investors?](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026)
-- [TQQQ Long-Term Outlook](/strategies/tqqq-long-term-outlook)
-- [Dollar-Cost Averaging TQQQ](/strategies/dollar-cost-averaging-tqqq)
-- [QQQ 225-Day Moving Average Strategy](/strategies/tqqq-qqq-225-day-moving-average-strategy)
-- [Analyzing the Long-Term Outlook on Holding TQQQ](/strategies/analyzing-long-term-outlook-holding-tqqq)
-- [TQQQ Long-Term Strategy: Buy and Hold Analysis](/strategies/tqqq-long-term-strategy-buy-and-hold)
-- [Risk Management for Leveraged ETF Investors](/strategies/risk-management-leveraged-etf)
-- [How to Hedge TQQQ](/strategies/how-to-hedge-tqqq)
-- [TQQQ Tax Guide for International Investors](/taxes/tqqq-tax-international-investors)
-- [Best Brokers for International Investors 2026](/best-brokers/best-brokers-international-investors-2026)

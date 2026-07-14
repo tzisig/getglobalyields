@@ -44,7 +44,7 @@ schema:
 
 ---
 
-A Canadian investor bought $20,000 of a US dividend ETF in her TFSA. She expected the 3% annual dividend - $600 per year. What arrived was $510. The missing $90 was US [withholding tax](/taxes/taxes-us-dividends-foreign-investors) deducted before the dividend ever reached her account. Unlike in her RRSP, she could not recover it.
+A Canadian investor bought $20,000 of a US dividend ETF in her TFSA. She expected the 3% annual dividend - $600 per year. What arrived was $510. The missing $90 was US [withholding tax](/taxes/taxes-us-dividends-foreign-investors/) deducted before the dividend ever reached her account. Unlike in her RRSP, she could not recover it.
 
 That $90 is not a mistake. It is the predictable, documented result of how the US-Canada tax treaty interacts with different account types. Understanding that interaction - and choosing the right account for each asset type - is worth more than most investment decisions a Canadian investor makes.
 
@@ -76,7 +76,7 @@ The US applies withholding at source before income reaches a foreign investor. W
 
 Under Article X of the treaty, US withholding on dividends paid to individual Canadian investors is reduced from 30% to **15%**. This applies to dividends from US corporations - Apple, Microsoft, Johnson & Johnson, and similar companies.
 
-The 15% rate requires one condition: you must submit Form [W-8BEN](/taxes/w8ben-form-non-us-investors) to your broker certifying your Canadian residency. Without it, the full 30% default applies. The W-8BEN is valid for three years and must be renewed when it expires.
+The 15% rate requires one condition: you must submit Form [W-8BEN](/taxes/w8ben-form-non-us-investors/) to your broker certifying your Canadian residency. Without it, the full 30% default applies. The W-8BEN is valid for three years and must be renewed when it expires.
 
 For Canadians investing in US stocks through a Canadian broker (TD Direct, RBC Direct, Questrade), the broker typically files W-8BEN on your behalf as part of account setup. Verify this is in place, especially if your account is more than three years old.
 
@@ -181,7 +181,7 @@ What W-8BEN does not do:
 - It does not protect TFSA, RESP, or FHSA income from withholding. Those accounts are not exempt under the treaty regardless of the form filed.
 - It does not affect capital gains treatment. Capital gains from US securities are exempt from US withholding by treaty (Article XIII) for any Canadian resident, W-8BEN or not.
 
-The W-8BEN must be renewed every three years. If it expires, your broker reverts to the 30% default rate. Most major Canadian brokers (Questrade, RBC Direct, TD Direct Investing, [IBKR](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors) Canada) prompt renewal automatically - but it is worth verifying the status of the form in your account if you have been holding US securities for more than three years.
+The W-8BEN must be renewed every three years. If it expires, your broker reverts to the 30% default rate. Most major Canadian brokers (Questrade, RBC Direct, TD Direct Investing, [IBKR](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/) Canada) prompt renewal automatically - but it is worth verifying the status of the form in your account if you have been holding US securities for more than three years.
 
 ---
 
@@ -280,12 +280,4 @@ For a side-by-side comparison of rates across major US treaties, see our [tax ma
 
 *This article is for informational and educational purposes only. It does not constitute tax or financial advice. Treaty rates are based on the United States-Canada Income Tax Convention (1980) and its five Protocols, verified from the IRS official treaty text. Canadian tax rates are from the CRA and KPMG 2026 federal and provincial tax tables. The capital gains inclusion rate confirmation reflects the March 2025 cancellation of the proposed increase. Individual tax outcomes depend on personal circumstances, province of residence, account structure, and annual income. Consult a qualified Canadian tax advisor before making investment decisions based on treaty provisions.*
 
-## Related Guides
-
-- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors)
-- [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors)
-- [Best Brokers for Israeli Investors in US Markets](/taxes/best-broker-israeli-investors-us-markets)
-- [PFIC Rules for International Investors](/taxes/pfic-rules-international-investors)
-- [TQQQ Tax Guide for International Investors](/taxes/tqqq-tax-international-investors)
-- [US-Germany Tax Treaty for Investors](/taxes/us-germany-tax-treaty-investors)
-- [US-UK Tax Treaty for Investors](/taxes/us-uk-tax-treaty-investors)
+- [US-UK Tax Treaty for Investors](/taxes/us-uk-tax-treaty-investors/)

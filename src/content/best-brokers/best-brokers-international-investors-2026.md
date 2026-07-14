@@ -23,9 +23,9 @@ readingTime: "20 min read"
 featured: false
 ---
 
-Choosing the right brokerage is one of the most consequential decisions an international investor can make-and in 2026, the landscape has never been more complex. Having navigated this process myself after moving back to [Israel](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026) from the US, I know that the "hidden" details like tax treaties and transfer fees often matter more than the trading app itself. Whether you are an expat managing a US equity portfolio from Tel Aviv, a non-resident alien seeking access to Nasdaq-listed ETFs, or a globally mobile professional, the stakes are high.
+Choosing the right brokerage is one of the most consequential decisions an international investor can make-and in 2026, the landscape has never been more complex. Having navigated this process myself after moving back to [Israel](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026/) from the US, I know that the "hidden" details like tax treaties and transfer fees often matter more than the trading app itself. Whether you are an expat managing a US equity portfolio from Tel Aviv, a non-resident alien seeking access to Nasdaq-listed ETFs, or a globally mobile professional, the stakes are high.
 
-Ultimately, the broker you choose determines your access, your costs, and your long-term returns. This guide covers the best brokers for international investors in 2026, with a focus on those offering meaningful access to US markets, competitive fee structures for non-US residents, multi-currency accounts, and the compliance infrastructure to serve clients across multiple jurisdictions. We also highlight what to watch out for-including [withholding tax](/taxes/taxes-us-dividends-foreign-investors) pitfalls, [PFIC](/taxes/pfic-rules-international-investors) exposure, and platforms that quietly restrict international account holders.
+Ultimately, the broker you choose determines your access, your costs, and your long-term returns. This guide covers the best brokers for international investors in 2026, with a focus on those offering meaningful access to US markets, competitive fee structures for non-US residents, multi-currency accounts, and the compliance infrastructure to serve clients across multiple jurisdictions. We also highlight what to watch out for-including [withholding tax](/taxes/taxes-us-dividends-foreign-investors/) pitfalls, [PFIC](/taxes/pfic-rules-international-investors/) exposure, and platforms that quietly restrict international account holders.
 
 Use our [Broker Finder](/broker-finder/) tool to find the right broker for your country and investment style.
 
@@ -35,7 +35,7 @@ Use our [Broker Finder](/broker-finder/) tool to find the right broker for your 
     <div class="h-0.5 w-12 bg-accent-500 rounded"></div>
   </div>
   <a
-    href="/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors"
+    href="/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/"
     class="group relative flex flex-col sm:flex-row items-start gap-6 rounded-2xl border border-primary-600 hover:border-accent-500 bg-primary-800 hover:shadow-xl hover:shadow-accent-500/10 p-7 transition-all duration-200 hover:-translate-y-0.5 no-underline block"
   >
     <div class="absolute left-0 top-0 bottom-0 w-1 rounded-l-2xl bg-accent-500"></div>
@@ -85,8 +85,8 @@ Before ranking specific platforms, it is important to define what separates a tr
 - **Multi-jurisdiction account opening:** The ability to open and maintain accounts for residents of a wide range of countries, including those with US tax treaty status.
 - **Access to US-listed securities:** Full access to NYSE and Nasdaq-listed stocks, ETFs (including leveraged instruments like TQQQ), options, and bonds.
 - **Multi-currency accounts:** The ability to hold, convert, and transact in multiple currencies-reducing unnecessary FX conversion costs on every trade.
-- **[W-8BEN](/taxes/w8ben-form-non-us-investors) and tax treaty support:** Streamlined handling of the IRS W-8BEN form to establish non-resident alien status and claim reduced withholding tax rates.
-- **Regulatory credibility:** Regulation by Tier-1 authorities such as the SEC, FINRA, FCA ([UK](/us-investing/invest-us-stocks-uk)), CySEC (EU), or MAS (Singapore).
+- **[W-8BEN](/taxes/w8ben-form-non-us-investors/) and tax treaty support:** Streamlined handling of the IRS W-8BEN form to establish non-resident alien status and claim reduced withholding tax rates.
+- **Regulatory credibility:** Regulation by Tier-1 authorities such as the SEC, FINRA, FCA ([UK](/us-investing/invest-us-stocks-uk/)), CySEC (EU), or MAS (Singapore).
 - **Transparent fee structure:** Low or zero commissions on US equities, competitive margin rates, and no hidden FX spread markups.
 - **Customer support across time zones:** From my experience trading from Israel, the support is highly responsive during all market hours. Since the trading day ends at 11:00 PM (23:00) Israel time, I’ve always found a professional representative available to provide a full and satisfactory answer to any question.
 
@@ -97,7 +97,7 @@ Before ranking specific platforms, it is important to define what separates a tr
   </div>
   <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
     <!-- IBKR -->
-    <a href="/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors" class="group flex flex-col rounded-xl border border-primary-700 hover:border-accent-500 bg-primary-800 hover:shadow-lg hover:shadow-accent-500/10 p-5 transition-all duration-200 hover:-translate-y-0.5 no-underline">
+    <a href="/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/" class="group flex flex-col rounded-xl border border-primary-700 hover:border-accent-500 bg-primary-800 hover:shadow-lg hover:shadow-accent-500/10 p-5 transition-all duration-200 hover:-translate-y-0.5 no-underline">
       <div class="flex items-center gap-3 mb-3">
         <div class="flex h-10 w-10 shrink-0 items-center justify-center rounded-lg border border-primary-600 bg-primary-900 text-sm font-bold text-accent-500">
           IB
@@ -118,7 +118,7 @@ Before ranking specific platforms, it is important to define what separates a tr
       </span>
     </a>
     <!-- eToro -->
-    <a href="/best-brokers/etoro-review-2026" class="group flex flex-col rounded-xl border border-primary-700 hover:border-accent-500 bg-primary-800 hover:shadow-lg hover:shadow-accent-500/10 p-5 transition-all duration-200 hover:-translate-y-0.5 no-underline">
+    <a href="/best-brokers/etoro-review-2026/" class="group flex flex-col rounded-xl border border-primary-700 hover:border-accent-500 bg-primary-800 hover:shadow-lg hover:shadow-accent-500/10 p-5 transition-all duration-200 hover:-translate-y-0.5 no-underline">
       <div class="flex items-center gap-3 mb-3">
         <div class="flex h-10 w-10 shrink-0 items-center justify-center rounded-lg border border-primary-600 bg-primary-900 text-sm font-bold text-accent-500">
           eT
@@ -139,7 +139,7 @@ Before ranking specific platforms, it is important to define what separates a tr
       </span>
     </a>
     <!-- Saxo Bank -->
-    <a href="/best-brokers/saxo-bank-review-2026" class="group flex flex-col rounded-xl border border-primary-700 hover:border-accent-500 bg-primary-800 hover:shadow-lg hover:shadow-accent-500/10 p-5 transition-all duration-200 hover:-translate-y-0.5 no-underline">
+    <a href="/best-brokers/saxo-bank-review-2026/" class="group flex flex-col rounded-xl border border-primary-700 hover:border-accent-500 bg-primary-800 hover:shadow-lg hover:shadow-accent-500/10 p-5 transition-all duration-200 hover:-translate-y-0.5 no-underline">
       <div class="flex items-center gap-3 mb-3">
         <div class="flex h-10 w-10 shrink-0 items-center justify-center rounded-lg border border-primary-600 bg-primary-900 text-sm font-bold text-accent-500">
           SB
@@ -160,7 +160,7 @@ Before ranking specific platforms, it is important to define what separates a tr
       </span>
     </a>
     <!-- IBKR Lite coming -->
-    <a href="/best-brokers/interactive-brokers-vs-ibkr-lite-for-non-us-investors" class="group flex flex-col rounded-xl border border-primary-700 hover:border-accent-500 bg-primary-800 hover:shadow-lg hover:shadow-accent-500/10 p-5 transition-all duration-200 hover:-translate-y-0.5 no-underline">
+    <a href="/best-brokers/interactive-brokers-vs-ibkr-lite-for-non-us-investors/" class="group flex flex-col rounded-xl border border-primary-700 hover:border-accent-500 bg-primary-800 hover:shadow-lg hover:shadow-accent-500/10 p-5 transition-all duration-200 hover:-translate-y-0.5 no-underline">
       <div class="flex items-center gap-3 mb-3">
         <div class="flex h-10 w-10 shrink-0 items-center justify-center rounded-lg border border-primary-600 bg-primary-900 text-accent-500">
           <svg class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6v6m0 0v6m0-6h6m-6 0H6" /></svg>
@@ -177,7 +177,7 @@ Before ranking specific platforms, it is important to define what separates a tr
       </span>
     </a>
     <!-- tastytrade coming -->
-    <a href="/best-brokers/tastytrade-review-2026" class="group flex flex-col rounded-xl border border-primary-700 hover:border-accent-500 bg-primary-800 hover:shadow-lg hover:shadow-accent-500/10 p-5 transition-all duration-200 hover:-translate-y-0.5 no-underline">
+    <a href="/best-brokers/tastytrade-review-2026/" class="group flex flex-col rounded-xl border border-primary-700 hover:border-accent-500 bg-primary-800 hover:shadow-lg hover:shadow-accent-500/10 p-5 transition-all duration-200 hover:-translate-y-0.5 no-underline">
       <div class="flex items-center gap-3 mb-3">
         <div class="flex h-10 w-10 shrink-0 items-center justify-center rounded-lg border border-primary-600 bg-primary-900 text-accent-500">
           <svg class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6v6m0 0v6m0-6h6m-6 0H6" /></svg>
@@ -194,7 +194,7 @@ Before ranking specific platforms, it is important to define what separates a tr
       </span>
     </a>
     <!-- firstrade coming -->
-    <a href="/best-brokers/firstrade-review-2026" class="group flex flex-col rounded-xl border border-primary-700 hover:border-accent-500 bg-primary-800 hover:shadow-lg hover:shadow-accent-500/10 p-5 transition-all duration-200 hover:-translate-y-0.5 no-underline">
+    <a href="/best-brokers/firstrade-review-2026/" class="group flex flex-col rounded-xl border border-primary-700 hover:border-accent-500 bg-primary-800 hover:shadow-lg hover:shadow-accent-500/10 p-5 transition-all duration-200 hover:-translate-y-0.5 no-underline">
       <div class="flex items-center gap-3 mb-3">
         <div class="flex h-10 w-10 shrink-0 items-center justify-center rounded-lg border border-primary-600 bg-primary-900 text-accent-500">
           <svg class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6v6m0 0v6m0-6h6m-6 0H6" /></svg>
@@ -227,7 +227,7 @@ From my experience, Interactive Brokers remains the gold standard for internatio
 | US stock commission | $0 on IBKR Lite; $0.0005/share (min $1) on IBKR Pro |
 | Currency accounts | 25+ currencies with best-in-class FX conversion at near-interbank rates |
 | W-8BEN support | Yes - full treaty documentation and withholding management |
-| Regulation | SEC/FINRA (US), FCA (UK), IIROC ([Canada](/us-investing/how-to-invest-in-us-stocks-from-canada)), MAS (Singapore), and more |
+| Regulation | SEC/FINRA (US), FCA (UK), IIROC ([Canada](/us-investing/how-to-invest-in-us-stocks-from-canada/)), MAS (Singapore), and more |
 | Minimum deposit | $0 (no minimum for IBKR Lite) |
 
 **Why it stands out for international investors:**
@@ -257,7 +257,7 @@ eToro has grown into one of the most accessible platforms for non-US internation
 - **Commission-free** stock and ETF trading (spreads apply on CFDs).
 - **Available in 100+ countries** including Israel, EU member states, and the UK.
 - **Copy trading:** automatically mirror portfolios of verified top traders.
-- **Regulated** by FCA (UK), CySEC (EU), and ASIC ([Australia](/us-investing/how-to-invest-in-us-stocks-from-australia)).
+- **Regulated** by FCA (UK), CySEC (EU), and ASIC ([Australia](/us-investing/how-to-invest-in-us-stocks-from-australia/)).
 - **USD-denominated account** with FX conversion on deposit/withdrawal.
 
 **Key consideration:** eToro's "commission-free" model is funded partly through FX conversion spreads (typically 150 bps on non-USD deposits) and CFD spreads. For investors making large or frequent transactions, these implicit costs can exceed what a traditional commission broker would charge. Additionally, experienced traders should note that eToro often lacks access to leveraged US ETFs like TQQQ in many jurisdictions due to MiFID II restrictions-investors seeking those products should use IBKR instead.
@@ -286,12 +286,12 @@ Saxo Bank is a Danish investment bank and broker with a strong foothold across E
 
 | **Broker** | **Best For** | **Options** | **Fees** | **Min. Deposit** | **FX Cost** | **Countries** | **US ETF Access** | **Review** |
 |---|---|:---:|---|---|---|---|---|:---:|
-| **Interactive Brokers**<br>IBKR | Overall best | <span class="text-green-500 font-bold">✓</span> | Very Low | $0 | Excellent | 200+ | Full (incl. TQQQ) | <a href="/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors" class="inline-block rounded bg-accent-500 px-3 py-1 text-xs font-semibold !text-primary-900 transition-colors hover:bg-accent-400 no-underline whitespace-nowrap mt-1">Review</a> |
+| **Interactive Brokers**<br>IBKR | Overall best | <span class="text-green-500 font-bold">✓</span> | Very Low | $0 | Excellent | 200+ | Full (incl. TQQQ) | <a href="/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/" class="inline-block rounded bg-accent-500 px-3 py-1 text-xs font-semibold !text-primary-900 transition-colors hover:bg-accent-400 no-underline whitespace-nowrap mt-1">Review</a> |
 | **Schwab Intl.**<br>US expats | US expats | <span class="text-green-500 font-bold">✓</span> | $0 | $0 | Bank rates | US persons abroad | Full | <a href="https://schwab.com" target="_blank" rel="noopener noreferrer" class="inline-block rounded bg-accent-500 px-3 py-1 text-xs font-semibold !text-primary-900 transition-colors hover:bg-accent-400 no-underline whitespace-nowrap mt-1">Details</a> |
-| **eToro**<br>EU / UK entity | Beginners | <span class="text-red-500 font-bold">✗</span> | Medium | $50–$200 | 0.5% | 100+ | Limited (MiFID II) | <a href="/best-brokers/etoro-review-2026" class="inline-block rounded bg-accent-500 px-3 py-1 text-xs font-semibold !text-primary-900 transition-colors hover:bg-accent-400 no-underline whitespace-nowrap mt-1">Review</a> |
-| **Firstrade**<br>NRAs | Cost-conscious NRAs | <span class="text-green-500 font-bold">✓</span> | $0 | $0 | USD only | Selected countries | Full | <a href="/best-brokers/firstrade-review-2026" class="inline-block rounded bg-accent-500 px-3 py-1 text-xs font-semibold !text-primary-900 transition-colors hover:bg-accent-400 no-underline whitespace-nowrap mt-1">Review</a> |
-| **tastytrade**<br>Options traders | Options/Derivatives | <span class="text-green-500 font-bold">✓</span> | Low | $0 | USD only | Selected countries | Full | <a href="/best-brokers/tastytrade-review-2026" class="inline-block rounded bg-accent-500 px-3 py-1 text-xs font-semibold !text-primary-900 transition-colors hover:bg-accent-400 no-underline whitespace-nowrap mt-1">Review</a> |
-| **Saxo Bank**<br>Multi-entity | EU/MENA investors | <span class="text-green-500 font-bold">✓</span> | High → Low* | $2,000+ | Good | EU, MENA, APAC | Broad | <a href="/best-brokers/saxo-bank-review-2026" class="inline-block rounded bg-accent-500 px-3 py-1 text-xs font-semibold !text-primary-900 transition-colors hover:bg-accent-400 no-underline whitespace-nowrap mt-1">Review</a> |
+| **eToro**<br>EU / UK entity | Beginners | <span class="text-red-500 font-bold">✗</span> | Medium | $50–$200 | 0.5% | 100+ | Limited (MiFID II) | <a href="/best-brokers/etoro-review-2026/" class="inline-block rounded bg-accent-500 px-3 py-1 text-xs font-semibold !text-primary-900 transition-colors hover:bg-accent-400 no-underline whitespace-nowrap mt-1">Review</a> |
+| **Firstrade**<br>NRAs | Cost-conscious NRAs | <span class="text-green-500 font-bold">✓</span> | $0 | $0 | USD only | Selected countries | Full | <a href="/best-brokers/firstrade-review-2026/" class="inline-block rounded bg-accent-500 px-3 py-1 text-xs font-semibold !text-primary-900 transition-colors hover:bg-accent-400 no-underline whitespace-nowrap mt-1">Review</a> |
+| **tastytrade**<br>Options traders | Options/Derivatives | <span class="text-green-500 font-bold">✓</span> | Low | $0 | USD only | Selected countries | Full | <a href="/best-brokers/tastytrade-review-2026/" class="inline-block rounded bg-accent-500 px-3 py-1 text-xs font-semibold !text-primary-900 transition-colors hover:bg-accent-400 no-underline whitespace-nowrap mt-1">Review</a> |
+| **Saxo Bank**<br>Multi-entity | EU/MENA investors | <span class="text-green-500 font-bold">✓</span> | High → Low* | $2,000+ | Good | EU, MENA, APAC | Broad | <a href="/best-brokers/saxo-bank-review-2026/" class="inline-block rounded bg-accent-500 px-3 py-1 text-xs font-semibold !text-primary-900 transition-colors hover:bg-accent-400 no-underline whitespace-nowrap mt-1">Review</a> |
 
 * Saxo Bank fees decrease at Platinum ($200k+) and VIP ($1M+) tiers.
 
@@ -301,9 +301,9 @@ For international investors, the brokerage platform itself is only part of the e
 
 **Account Opening and W-8BEN Form**
 
-For a complete walkthrough of opening a US brokerage account from abroad, see our [How to Open a US Brokerage Account as a Non-Resident](/best-brokers/how-to-open-a-us-brokerage-account-as-a-non-resident-2026-guide) guide.
+For a complete walkthrough of opening a US brokerage account from abroad, see our [How to Open a US Brokerage Account as a Non-Resident](/best-brokers/how-to-open-a-us-brokerage-account-as-a-non-resident-2026-guide/) guide.
 
-Any broker holding US-listed securities for a non-US person must collect a W-8BEN form to establish non-resident alien status. This form allows investors from treaty countries to claim a reduced [withholding tax rate](/tax-map) on US-source dividends - typically 15% or 25% instead of the default 30%. The best brokers for international investors handle W-8BEN documentation electronically and apply treaty rates automatically. Confirm this process before opening an account.
+Any broker holding US-listed securities for a non-US person must collect a W-8BEN form to establish non-resident alien status. This form allows investors from treaty countries to claim a reduced [withholding tax rate](/tax-map/) on US-source dividends - typically 15% or 25% instead of the default 30%. The best brokers for international investors handle W-8BEN documentation electronically and apply treaty rates automatically. Confirm this process before opening an account.
 
 **FATCA Reporting**
 
@@ -346,7 +346,7 @@ US expats are best served by Charles Schwab International, while beginner invest
   </div>
   <ul class="space-y-3 m-0 p-0 list-none">
     <li>
-      <a href="/best-brokers/how-to-open-a-us-brokerage-account-as-a-non-resident-2026-guide" class="group flex items-center gap-4 rounded-xl border border-primary-700 hover:border-accent-500 bg-primary-800 hover:shadow-lg hover:shadow-accent-500/10 px-5 py-4 transition-all duration-200 no-underline">
+      <a href="/best-brokers/how-to-open-a-us-brokerage-account-as-a-non-resident-2026-guide/" class="group flex items-center gap-4 rounded-xl border border-primary-700 hover:border-accent-500 bg-primary-800 hover:shadow-lg hover:shadow-accent-500/10 px-5 py-4 transition-all duration-200 no-underline">
         <span class="flex h-9 w-9 shrink-0 items-center justify-center rounded-lg border border-primary-600 bg-primary-900 text-accent-500">
           <svg class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
@@ -362,7 +362,7 @@ US expats are best served by Charles Schwab International, while beginner invest
       </a>
     </li>
     <li>
-      <a href="/best-brokers/best-brokers-international-investors-2026" class="group flex items-center gap-4 rounded-xl border border-primary-700 hover:border-accent-500 bg-primary-800 hover:shadow-lg hover:shadow-accent-500/10 px-5 py-4 transition-all duration-200 no-underline">
+      <a href="/best-brokers/best-brokers-international-investors-2026/" class="group flex items-center gap-4 rounded-xl border border-primary-700 hover:border-accent-500 bg-primary-800 hover:shadow-lg hover:shadow-accent-500/10 px-5 py-4 transition-all duration-200 no-underline">
         <span class="flex h-9 w-9 shrink-0 items-center justify-center rounded-lg border border-primary-600 bg-primary-900 text-accent-500">
           <svg class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />

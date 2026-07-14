@@ -58,7 +58,7 @@ US tax law does not care about your citizenship or passport. It cares about your
 
 A nonresident alien (NRA) is any individual who is not a US citizen, does not hold a green card, and does not meet the substantial presence test - which requires being physically present in the United States for at least 31 days in the current year and 183 days over the current and prior two years (using a weighted formula).
 
-If you live in [Germany](/us-investing/how-to-invest-in-us-stocks-from-germany), [Israel](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026), [Canada](/us-investing/how-to-invest-in-us-stocks-from-canada), Japan, or anywhere else outside the US, hold US stocks through a foreign or US brokerage, and do not have a green card or meet the substantial presence test - you are an NRA for US tax purposes.
+If you live in [Germany](/us-investing/how-to-invest-in-us-stocks-from-germany/), [Israel](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026/), [Canada](/us-investing/how-to-invest-in-us-stocks-from-canada/), Japan, or anywhere else outside the US, hold US stocks through a foreign or US brokerage, and do not have a green card or meet the substantial presence test - you are an NRA for US tax purposes.
 
 NRAs are taxed by the US only on US-source income. Worldwide income is off the table. But US-source dividends from US corporations are very much on it.
 
@@ -128,25 +128,25 @@ The table below shows verified rates for major countries based on the IRS treaty
 | Country | Portfolio Rate | Direct Corporate Rate | Qualifying Stake |
 |---|---|---|---|
 | Germany | 15% | 5% | 10% voting |
-| [United Kingdom](/us-investing/invest-us-stocks-uk) | 15% | 5% | 10% voting |
+| [United Kingdom](/us-investing/invest-us-stocks-uk/) | 15% | 5% | 10% voting |
 | Ireland | 15% | 5% | 10% voting |
 | Netherlands | 15% | 5% | 10% voting |
 | France | 15% | 5% | 10% voting |
 | Canada | 15% | 5% | 10% voting |
-| [Australia](/us-investing/how-to-invest-in-us-stocks-from-australia) | 15% | 5% | 10% voting |
+| [Australia](/us-investing/how-to-invest-in-us-stocks-from-australia/) | 15% | 5% | 10% voting |
 | Japan | 10% | 5% | 10% voting |
 | Israel | 25% | 12.5% | 10% or more |
-| [India](/us-investing/invest-us-stocks-india) | 25% | 15% | 10% voting |
+| [India](/us-investing/invest-us-stocks-india/) | 25% | 15% | 10% voting |
 | China | 10% | 10% | - |
 | No treaty | 30% | 30% | n/a |
 
 Countries without a US income tax treaty include Brazil, Singapore, UAE, Saudi Arabia, Hong Kong, and Argentina. Investors from these countries pay the full 30% default on US dividends. There is no mechanism to reduce this short of restructuring through a treaty-country entity, which raises its own anti-abuse questions.
 
-**A note on [Israel](/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026):** The US-Israel tax treaty (signed 1975, updated multiple times) is notably less favorable than the treaties with European partners. Portfolio investors receive no reduction from Israel's domestic 25% withholding rate on dividends. Only corporate investors holding 10% or more receive a meaningful reduction to 12.5%. This contrasts sharply with the 15% treaty rate that [German](/taxes/us-germany-tax-treaty-investors), British, or [Canadian]( /taxes/us-canada-tax-treaty-investors-2026 /) investors enjoy. Israeli investors holding US stocks face the full 30% US withholding unless they can claim treaty benefits - and even then, the treaty is limited compared to Europe.
+**A note on [Israel](/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026/):** The US-Israel tax treaty (signed 1975, updated multiple times) is notably less favorable than the treaties with European partners. Portfolio investors receive no reduction from Israel's domestic 25% withholding rate on dividends. Only corporate investors holding 10% or more receive a meaningful reduction to 12.5%. This contrasts sharply with the 15% treaty rate that [German](/taxes/us-germany-tax-treaty-investors/), British, or [Canadian]( /taxes/us-canada-tax-treaty-investors-2026 /) investors enjoy. Israeli investors holding US stocks face the full 30% US withholding unless they can claim treaty benefits - and even then, the treaty is limited compared to Europe.
 
 **Japan is the notable positive exception** in the table - the 2003 treaty, updated by a 2019 Protocol, delivers a 10% portfolio rate instead of the usual 15%, and a 0% rate on interest. This makes Japan one of the more favorable US treaty partners for investors.
 
-For the full details on how each treaty applies, see our country-specific guides for [Austria](/taxes/us-austria-tax-treaty-investors), [Belgium](/taxes/us-belgium-tax-treaty-investors), [Bulgaria](/taxes/us-bulgaria-tax-treaty-investors), [China](/taxes/us-china-tax-treaty-investors), [Czech Republic](/taxes/us-czech-republic-tax-treaty-investors), and [Denmark](/taxes/us-denmark-tax-treaty-investors).
+For the full details on how each treaty applies, see our country-specific guides for [Austria](/taxes/us-austria-tax-treaty-investors/), [Belgium](/taxes/us-belgium-tax-treaty-investors/), [Bulgaria](/taxes/us-bulgaria-tax-treaty-investors/), [China](/taxes/us-china-tax-treaty-investors/), [Czech Republic](/taxes/us-czech-republic-tax-treaty-investors/), and [Denmark](/taxes/us-denmark-tax-treaty-investors/).
 
 ---
 
@@ -157,7 +157,7 @@ For the full details on how each treaty applies, see our country-specific guides
 
 ## How to Claim the Treaty Rate: Form W-8BEN
 
-To receive the reduced treaty rate, you must provide your broker or withholding agent with a completed Form [W-8BEN](/taxes/w8ben-form-non-us-investors) (Certificate of Foreign Status of Beneficial Owner for United States Tax Withholding and Reporting - Individuals). Entities use the related Form W-8BEN-E.
+To receive the reduced treaty rate, you must provide your broker or withholding agent with a completed Form [W-8BEN](/taxes/w8ben-form-non-us-investors/) (Certificate of Foreign Status of Beneficial Owner for United States Tax Withholding and Reporting - Individuals). Entities use the related Form W-8BEN-E.
 
 The form is not filed with the IRS. It is held by the withholding agent as documentation for applying the correct rate.
 
@@ -175,7 +175,7 @@ For most investors from treaty countries claiming a 15% rate on US dividends, Li
 - The form is valid for three calendar years from the year of signing. A form signed in 2024 expires December 31, 2027. When it expires, the broker reverts to 30% automatically.
 - Renew before expiry. Set a calendar reminder.
 - If your circumstances change - you move countries, change tax residency - update the form promptly.
-- If you hold US stocks through a non-US broker (a German, Israeli, or [UK](/taxes/us-uk-tax-treaty-investors) broker), confirm whether the broker handles W-8BEN submission on your behalf as part of account opening. Many do. Some do not.
+- If you hold US stocks through a non-US broker (a German, Israeli, or [UK](/taxes/us-uk-tax-treaty-investors/) broker), confirm whether the broker handles W-8BEN submission on your behalf as part of account opening. Many do. Some do not.
 
 **What happens without W-8BEN:** The broker withholds 30% on every dividend. You are entitled to reclaim the overpaid amount by filing Form 1040-NR with the IRS, but this involves filing a US tax return, takes months, and is best avoided by simply keeping a valid W-8BEN on file.
 
@@ -223,7 +223,7 @@ Foreign investors choosing between US-domiciled and foreign-domiciled (typically
 
 The net result for most European investors: An Irish-domiciled ETF typically delivers a better after-tax outcome than a US-domiciled ETF, because the treaty-level 15% US withholding becomes the final US tax layer, and no additional withholding is applied at distribution. With a US-domiciled ETF, the 15% treaty rate is also achievable via W-8BEN - but there is an extra documentation step and a risk of the broker applying 30% if the form is not on file.
 
-**For Israeli investors:** because the US-Israel treaty does not reduce the portfolio dividend rate below 25%, Israeli investors face a higher embedded US withholding cost in US-domiciled ETFs regardless of W-8BEN. An Irish-domiciled ETF benefits from the US-Ireland 15% treaty rate at the fund level, which is better than the 25% the investor would face directly. This makes Irish-domiciled ETFs generally more efficient for Israeli investors holding US equity exposure. For leveraged ETF investors, also see the [TQQQ tax guide](/taxes/tqqq-tax-international-investors) for fund-level withholding specifics.
+**For Israeli investors:** because the US-Israel treaty does not reduce the portfolio dividend rate below 25%, Israeli investors face a higher embedded US withholding cost in US-domiciled ETFs regardless of W-8BEN. An Irish-domiciled ETF benefits from the US-Ireland 15% treaty rate at the fund level, which is better than the 25% the investor would face directly. This makes Irish-domiciled ETFs generally more efficient for Israeli investors holding US equity exposure. For leveraged ETF investors, also see the [TQQQ tax guide](/taxes/tqqq-tax-international-investors/) for fund-level withholding specifics.
 
 ---
 
@@ -288,9 +288,9 @@ For publicly traded US REITs, the FIRPTA exemption for domestically controlled e
 **Before your first dividend payment:**
 - [ ] Confirm your NRA status (not a US citizen, green card holder, or substantial presence test passer)
 - [ ] Check whether your country has a US tax treaty and what the dividend rate is — use the [Tax Map](/tax-map/) for a quick overview
-- [ ] Complete Form [W-8BEN](/taxes/w8ben-form-non-us-investors) and submit it to your broker
+- [ ] Complete Form [W-8BEN](/taxes/w8ben-form-non-us-investors/) and submit it to your broker
 - [ ] On Line 9, cite the correct treaty article and reduced rate (for most European investors: 15%, Article 10 of the relevant treaty)
-- [ ] Choose a [broker that handles treaty documentation correctly](/best-brokers/best-brokers-international-investors-2026) for your country
+- [ ] Choose a [broker that handles treaty documentation correctly](/best-brokers/best-brokers-international-investors-2026/) for your country
 
 **Annually:**
 - [ ] Review Form 1042-S received from your broker by March 15
@@ -346,12 +346,4 @@ Before you invest, it helps to know exactly where you stand:
 
 *Sources: IRC ֲ§871(a), ֲ§871(k)(1), ֲ§871(k)(2), ֲ§897 (FIRPTA); IRS Publication 515 (2026); IRS Publication 519 (2025); IRS Tax Treaty Tables (IRS.gov, February 2026); PWC Tax Summaries - United States Corporate Withholding Taxes (March 2026); US-Israel Tax Treaty (IRS.gov/pub/irs-trty/israel.pdf); US-Japan Income Tax Convention and 2019 Protocol.*
 
-## Related Guides
-
-- [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors)
-- [Best Brokers for Israeli Investors in US Markets](/taxes/best-broker-israeli-investors-us-markets)
-- [PFIC Rules for International Investors](/taxes/pfic-rules-international-investors)
-- [TQQQ Tax Guide for International Investors](/taxes/tqqq-tax-international-investors)
-- [US-Germany Tax Treaty for Investors](/taxes/us-germany-tax-treaty-investors)
-- [US-UK Tax Treaty for Investors](/taxes/us-uk-tax-treaty-investors)
 - [US-Canada Tax Treaty for Investors]( /taxes/us-canada-tax-treaty-investors-2026 /)

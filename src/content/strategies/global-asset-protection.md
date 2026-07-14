@@ -50,11 +50,11 @@ The difference between a protection structure that holds and one that collapses 
 
 Four forces have converged to make global asset protection a mainstream concern rather than an exclusive one.
 
-**Litigation risk.** Entrepreneurs, real estate investors, and business owners across the [UK](/us-investing/invest-us-stocks-uk), EU, [Australia](/us-investing/how-to-invest-in-us-stocks-from-australia), and [Canada](/us-investing/how-to-invest-in-us-stocks-from-canada) face civil liability exposure that has nothing to do with wrongdoing. A lawsuit in a plaintiff-friendly jurisdiction can threaten assets built over decades.
+**Litigation risk.** Entrepreneurs, real estate investors, and business owners across the [UK](/us-investing/invest-us-stocks-uk/), EU, [Australia](/us-investing/how-to-invest-in-us-stocks-from-australia/), and [Canada](/us-investing/how-to-invest-in-us-stocks-from-canada/) face civil liability exposure that has nothing to do with wrongdoing. A lawsuit in a plaintiff-friendly jurisdiction can threaten assets built over decades.
 
 **Political and regulatory risk.** Investors with significant exposure to single countries face the risk of sudden policy changes - capital controls, asset freezes, currency devaluations, or retroactive tax legislation. The capital controls imposed in Cyprus in 2013 and Greece in 2015 are recent examples: both governments froze bank accounts and restricted transfers with little warning. Diversifying assets across stable jurisdictions reduces exposure to any single government's decisions.
 
-**Currency concentration.** Holding all assets in one currency is itself a form of concentration risk. Investors whose expenses will eventually be in multiple currencies benefit from holding assets in those currencies directly, rather than converting at whatever rate prevails at withdrawal. See our guide on [multi-currency investment accounts](/us-investing/multi-currency-investment-accounts) for practical options.
+**Currency concentration.** Holding all assets in one currency is itself a form of concentration risk. Investors whose expenses will eventually be in multiple currencies benefit from holding assets in those currencies directly, rather than converting at whatever rate prevails at withdrawal. See our guide on [multi-currency investment accounts](/us-investing/multi-currency-investment-accounts/) for practical options.
 
 **Estate planning complexity.** For families with members in multiple countries, domestic estate planning instruments often fail at the border. An offshore trust or foundation with proper governing law can transfer wealth across generations without the legal conflicts that arise when domestic instruments encounter foreign jurisdictions.
 
@@ -149,7 +149,7 @@ All jurisdictions listed are CRS compliant. "Not recognized" for foreign judgmen
 
 This is the section most offshore guides skip entirely. Every CRS country has its own reporting framework. Here is what it actually looks like for the most common non-US investor jurisdictions.
 
-**A note on coverage:** The disclosure requirements below cover the five jurisdictions most commonly represented among non-US investors using offshore structures: UK, [Germany](/us-investing/how-to-invest-in-us-stocks-from-germany), France, Australia, and Canada. Investors based in Singapore, UAE, Japan, Hong Kong, and other jurisdictions face materially different reporting obligations - covered in our [companion guide on disclosure requirements by country](#). The structural principles in this guide apply universally; the compliance detail is jurisdiction-specific.
+**A note on coverage:** The disclosure requirements below cover the five jurisdictions most commonly represented among non-US investors using offshore structures: UK, [Germany](/us-investing/how-to-invest-in-us-stocks-from-germany/), France, Australia, and Canada. Investors based in Singapore, UAE, Japan, Hong Kong, and other jurisdictions face materially different reporting obligations - covered in our [companion guide on disclosure requirements by country](#). The structural principles in this guide apply universally; the compliance detail is jurisdiction-specific.
 
 **A note on coverage:** The disclosure requirements below cover the five jurisdictions most commonly represented among non-US investors using offshore structures: UK, Germany, France, Australia, and Canada. Investors based in Singapore, UAE, Japan, Hong Kong, and other jurisdictions face materially different reporting obligations - covered in our [companion guide on disclosure requirements by country](#). The structural principles in this guide apply universally; the compliance detail is jurisdiction-specific.
 
@@ -157,13 +157,13 @@ This is the section most offshore guides skip entirely. Every CRS country has it
 
 UK residents must report all foreign income and gains on their Self Assessment tax return (SA100/SA106). There is no separate form equivalent to FBAR - foreign assets are reported within the standard return. However, trustees of UK-resident trusts with offshore assets must register with HMRC's Trust Registration Service (TRS). Under CRS 2.0 (effective January 2026), the reporting perimeter expanded to include e-money accounts and a broader range of trust structures. Penalties for non-disclosure start at £300 and scale with the amount of unpaid tax, with a surcharge for offshore non-compliance of up to 200% of the unpaid liability in the most serious cases.
 
-**CFC rules:** UK residents who own or control a foreign company may be subject to the UK's Controlled Foreign Company (CFC) rules, which attribute the company's profits to the UK resident shareholder for [UK tax](/taxes/us-uk-tax-treaty-investors) purposes. A BVI holding company owned by a UK resident does not eliminate UK tax liability on the income it holds - it restructures legal ownership only.
+**CFC rules:** UK residents who own or control a foreign company may be subject to the UK's Controlled Foreign Company (CFC) rules, which attribute the company's profits to the UK resident shareholder for [UK tax](/taxes/us-uk-tax-treaty-investors/) purposes. A BVI holding company owned by a UK resident does not eliminate UK tax liability on the income it holds - it restructures legal ownership only.
 
 ### Germany
 
 German residents must report all worldwide income in their annual Einkommensteuererklärung. Germany's Außensteuergesetz (Foreign Tax Act, AStG) contains strict CFC rules - if a German resident controls a foreign company and that company earns passive income at a tax rate below 25%, the income is attributed to the German resident as if they had earned it directly. This makes low-tax holding companies in BVI or Cayman largely ineffective for German residents from a tax perspective, even though they retain their asset protection function.
 
-Foreign trusts are a complex area under German law. Germany does not have a domestic trust concept; offshore trusts are typically analyzed as either foreign foundations (Stiftungen) or transparent partnerships for [German tax](/taxes/us-germany-tax-treaty-investors) purposes. Legal advice specific to German tax law is essential before establishing any offshore structure.
+Foreign trusts are a complex area under German law. Germany does not have a domestic trust concept; offshore trusts are typically analyzed as either foreign foundations (Stiftungen) or transparent partnerships for [German tax](/taxes/us-germany-tax-treaty-investors/) purposes. Legal advice specific to German tax law is essential before establishing any offshore structure.
 
 ### France
 
@@ -227,7 +227,7 @@ For investors who prefer to stay in their own name without a holding company, UC
 
 EQQB (accumulating) reinvests dividends - generally more tax-efficient for investors in jurisdictions that tax distributions. QQQ3 and QQQS are UCITS-eligible ETPs structured as debt securities, passported across AT, BE, DE, DK, ES, FI, FR, GB, IE, IT, LU, NL, NO, PL, SE.
 
-**The CNDX tax advantage:** The iShares CNDX is domiciled in Ireland and benefits from the US-Ireland tax treaty, reducing US [dividend withholding tax](/taxes/taxes-us-dividends-foreign-investors) from 30% to 15% - a meaningful advantage for investors in countries without a direct US treaty at that rate.
+**The CNDX tax advantage:** The iShares CNDX is domiciled in Ireland and benefits from the US-Ireland tax treaty, reducing US [dividend withholding tax](/taxes/taxes-us-dividends-foreign-investors/) from 30% to 15% - a meaningful advantage for investors in countries without a direct US treaty at that rate.
 
 For UK investors post-Brexit, FCA rules have diverged from EU PRIIPs in some areas, giving broader platform access to US ETFs - though this varies by broker.
 
@@ -312,7 +312,7 @@ Global asset protection done right is methodical: the right structure, the right
 
 For non-US investors, the key additional discipline is understanding your home country's CFC rules and trust disclosure requirements before establishing any offshore structure. The protection is real. The tax savings, in most cases, are not.
 
-For investors evaluating broker options that support complex ownership structures, our [best brokers for international investors](/best-brokers/best-brokers-international-investors-2026) comparison covers which platforms accept corporate and trust accounts.
+For investors evaluating broker options that support complex ownership structures, our [best brokers for international investors](/best-brokers/best-brokers-international-investors-2026/) comparison covers which platforms accept corporate and trust accounts.
 
 **How to find the right advisor:** Asset protection requires two separate advisors - a lawyer in the offshore jurisdiction (Cook Islands, BVI, or Cayman) who drafts the structure, and a tax advisor in your home country who handles compliance. The offshore lawyer should specialize exclusively in asset protection, not general corporate law. The home country advisor should have direct experience with offshore trust reporting in your specific jurisdiction - not just general international tax knowledge. Before engaging either, ask for specific examples of structures they have set up for residents of your country and how they handled the corresponding disclosure filings. Advisors who cannot answer that question specifically are the wrong advisors.
 
@@ -321,15 +321,4 @@ For investors evaluating broker options that support complex ownership structure
 *This article is for informational and educational purposes only and does not constitute legal, tax, or financial advice. Asset protection involves complex legal and regulatory considerations specific to your jurisdiction and circumstances. Consult qualified legal and tax advisors before implementing any asset protection structure.
 
 ---
-
-## Related Articles
-
-- [Leveraged ETF Rebalancing Strategy 2026](/strategies/leveraged-etf-rebalancing-strategy-2026)
-- [Financial Freedom Through Leveraged Investing](/strategies/financial-freedom-leveraged-investing)
-- [TQQQ vs QQQ: Which Is Right for International Investors?](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026)
-- [Selling Covered Calls on TQQQ for Monthly Income](/options-income/selling-covered-calls-tqqq)
-- [W-8BEN Form: Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors)
-- [Best Brokers for International Investors 2026](/best-brokers/best-brokers-international-investors-2026)
-- [Interactive Brokers Review 2026](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors)
-- [Tax Map - International Investor Tax Guide](/tax-map)*
 

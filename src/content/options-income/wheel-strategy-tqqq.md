@@ -6,14 +6,14 @@ pubDate: 2026-05-24
 updatedDate: 2026-05-24
 author: "Tzion S."
 categories: ["Options Income"]
-keywords: "Wheel Strategy TQQQ, Cash Secured Puts TQQQ, Covered Calls TQQQ, TQQQ Options, Wheel Strategy Leveraged ETF, [TQQQ Vs QQQ](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026) Wheel, Options Income Strategy 2026, Options Income, The Wheel Strategy on TQQQ Step-by-Step Guide 2026, The Wheel Strategy on TQQQ, Step Guide (2026), TQQQ"
+keywords: "Wheel Strategy TQQQ, Cash Secured Puts TQQQ, Covered Calls TQQQ, TQQQ Options, Wheel Strategy Leveraged ETF, [TQQQ Vs QQQ](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026/) Wheel, Options Income Strategy 2026, Options Income, The Wheel Strategy on TQQQ Step-by-Step Guide 2026, The Wheel Strategy on TQQQ, Step Guide (2026), TQQQ"
 tags:
   - "wheel strategy TQQQ"
   - "cash secured puts TQQQ"
   - "covered calls TQQQ"
   - "TQQQ options"
   - "wheel strategy leveraged ETF"
-  - "[TQQQ vs QQQ](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026) wheel"
+  - "[TQQQ vs QQQ](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026/) wheel"
   - "options income strategy 2026"
 heroImage: "/images/blog/options-income/wheel-strategy-tqqq.webp"
 heroImageWidth: 840
@@ -39,7 +39,7 @@ This guide walks through the mechanics honestly - how the strategy works, what t
 
 ## What Is the Wheel Strategy?
 
-The wheel is a systematic options income strategy built on two positions that most options traders know: the [cash-secured put](/options-income/cash-secured-puts-high-iv) and the [covered call](/options-income/selling-covered-calls-tqqq). The "wheel" refers to the cycle between them.
+The wheel is a systematic options income strategy built on two positions that most options traders know: the [cash-secured put](/options-income/cash-secured-puts-high-iv/) and the [covered call](/options-income/selling-covered-calls-tqqq/). The "wheel" refers to the cycle between them.
 
 ### Phase 1 - Sell a Cash-Secured Put
 
@@ -121,7 +121,7 @@ In a trending bull market, this decay is small and the 3x leverage more than com
 
 ### Problem 2: The 2022 Scenario
 
-This isn't theoretical. In 2022, TQQQ fell from approximately $91 in January to a low of around $16.47 in December - a maximum drawdown of 81.66%. Recovery to previous highs took 486 trading sessions. For a real-world account of recovering from this drawdown using options, see the [TQQQ Recovery Case Study](/case-study/from-minus-70-to-plus-492k-real-tqqq-recovery-case-study).
+This isn't theoretical. In 2022, TQQQ fell from approximately $91 in January to a low of around $16.47 in December - a maximum drawdown of 81.66%. Recovery to previous highs took 486 trading sessions. For a real-world account of recovering from this drawdown using options, see the [TQQQ Recovery Case Study](/case-study/from-minus-70-to-plus-492k-real-tqqq-recovery-case-study/).
 
 Run the math on a wheel trader who got assigned during that decline at, say, $70 with a $65.50 effective cost basis. They're now running covered calls on a position that, at the December 2022 low, was worth $16.47. Their total premium collected across 11 months of covered calls - realistically $1,500-2,000 at shrinking premiums on a declining underlying - did not come close to offsetting the $4,903 paper loss per 100 shares.
 
@@ -170,7 +170,7 @@ Here's how the three compare as wheel candidates:
 
 The premium difference between TQQQ and QQQ is real - roughly 2x-3x. The drawdown difference is also real: 81.66% versus 32.6%. The premium compensates for exactly the risk that makes holding through assignment dangerous.
 
-QQQ offers a middle path: better premiums than SPY, lower volatility than TQQQ, and an underlying you can rationally hold through a bear market. The Nasdaq-100 has recovered from every drawdown in its history. TQQQ has too - but the path back is far steeper due to compounding. For options-friendly brokers that support the Wheel, compare [tastytrade](/best-brokers/tastytrade-review-2026) and [Interactive Brokers](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors).
+QQQ offers a middle path: better premiums than SPY, lower volatility than TQQQ, and an underlying you can rationally hold through a bear market. The Nasdaq-100 has recovered from every drawdown in its history. TQQQ has too - but the path back is far steeper due to compounding. For options-friendly brokers that support the Wheel, compare [tastytrade](/best-brokers/tastytrade-review-2026/) and [Interactive Brokers](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/).
 
 ---
 
@@ -180,7 +180,7 @@ There is one narrow scenario where TQQQ has a role: using a very small position 
 
 Some traders run what amounts to a TQQQ put-selling program with no intention of accepting assignment - they roll aggressively to avoid taking shares, treating it purely as a premium-collection vehicle with a hard exit rule. If TQQQ drops past a defined threshold, they close the position at a loss rather than take assignment.
 
-This is not the wheel strategy as commonly described. It's short volatility trading using TQQQ's options with tight [risk management](/strategies/risk-management-leveraged-etf-investors-2026). If that distinction makes sense to you, you probably already know whether it fits your approach. If it doesn't - this is not the entry point.
+This is not the wheel strategy as commonly described. It's short volatility trading using TQQQ's options with tight [risk management](/strategies/risk-management-leveraged-etf-investors-2026/). If that distinction makes sense to you, you probably already know whether it fits your approach. If it doesn't - this is not the entry point.
 
 The broader point: TQQQ can be a reasonable tool for experienced options traders with defined risk parameters. It is a poor vehicle for the classic wheel strategy as typically described to retail investors.
 
@@ -223,12 +223,3 @@ For most investors: QQQ gives you the Nasdaq-100 exposure, meaningful option pre
 
 ---
 
-## Related Articles
-
-- [Selling Covered Calls on TQQQ: Step-by-Step Guide](/options-income/selling-covered-calls-tqqq)
-- [Cash-Secured Puts in High IV Environments](/options-income/cash-secured-puts-high-iv)
-- [TQQQ Implied Volatility Strategies](/options-income/tqqq-implied-volatility-strategies)
-- [TQQQ Recovery Case Study](/case-study/from-minus-70-to-plus-492k-real-tqqq-recovery-case-study)
-- [Risk Management for Leveraged ETF Investors](/strategies/risk-management-leveraged-etf-investors-2026)
-- [TQQQ Tax Guide for International Investors](/taxes/tqqq-tax-international-investors)
-- [Broker Fee Calculator](/broker-calculator)

@@ -38,20 +38,20 @@ schema:
   image: "/images/blog/taxes/best-broker-israeli-investors-us-markets.webp"
   mainEntityOfPage: "https://getglobalyields.com/taxes/best-broker-israeli-investors-us-markets"
 ---
-When looking for the [best broker in Israel for US stocks](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026) , ETFs, or options strategies, your biggest cost isn't commissions.
+When looking for the [best broker in Israel for US stocks](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026/) , ETFs, or options strategies, your biggest cost isn't commissions.
 
 It's what I call "Hidden Tax Drag."
 
 This includes:
 
-- [Dividend Withholding](/taxes/taxes-us-dividends-foreign-investors)
+- [Dividend Withholding](/taxes/taxes-us-dividends-foreign-investors/)
 - Currency conversion costs
 - Spreads
 - How your broker handles cash and interest
 
 Small differences here can easily cost hundreds to thousands of dollars per year.
 
-This comparison focuses on three popular platforms among [Israeli](/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026) investors:
+This comparison focuses on three popular platforms among [Israeli](/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026/) investors:
 
 - Interactive Brokers IBKR נ‘‰ [**Explore IBKR here**](https://www.interactivebrokers.com/)
 - [Saxo Bank](/best-brokers/saxo-bank-review-2026/)
@@ -81,11 +81,11 @@ _Best for: Active investors, options traders, portfolios above ~$10Kג€“$25K
 - Real-time Greeks
 - Low commissions
 
-_If you're using strategies like [covered calls](/options-income/selling-covered-calls-tqqq/), [tqqq](/taxes/tqqq-tax-international-investors) or cash-secured puts, this matters significantly._
+_If you're using strategies like [covered calls](/options-income/selling-covered-calls-tqqq/), [tqqq](/taxes/tqqq-tax-international-investors/) or cash-secured puts, this matters significantly._
 
 ### **Estate Tax - Important Note**
 
-_ג ן¸ Non-US investors holding US-domiciled ETFs like [TQQQ](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026) may be exposed to US estate tax on assets above ~$60,000. This is a real risk for long-term holders. The right approach depends on your individual situation - consult a tax advisor before building large positions._
+_ג ן¸ Non-US investors holding US-domiciled ETFs like [TQQQ](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026/) may be exposed to US estate tax on assets above ~$60,000. This is a real risk for long-term holders. The right approach depends on your individual situation - consult a tax advisor before building large positions._
 
 ### **Downsides**
 
@@ -100,7 +100,7 @@ _Best for: Large portfolios, investors prioritizing stability and institutional 
 
 ### **Strengths**
 
-- Regulated European bank ([Denmark](/taxes/us-denmark-tax-treaty-investors))
+- Regulated European bank ([Denmark](/taxes/us-denmark-tax-treaty-investors/))
 - Strong custody and infrastructure
 - Access to global markets - US, Europe, Asia
 
@@ -130,7 +130,7 @@ _Best for: Beginners, small accounts, passive investors_
 
 ### **Tax Handling - Important Nuance**
 
-For Israeli investors, eToro applies [W-8BEN](/taxes/w8ben-form-non-us-investors) treaty rates (typically 25%) on dividends from shares held directly.
+For Israeli investors, eToro applies [W-8BEN](/taxes/w8ben-form-non-us-investors/) treaty rates (typically 25%) on dividends from shares held directly.
 
 _ג ן¸ Important: eToro offers both real shares and CFDs. If you hold CFDs, you do not own the underlying security - the tax treatment is different and the 25% withholding may not apply in the same way. Always verify which product type you are holding._
 
@@ -155,7 +155,7 @@ This is where most investors lose money without noticing.
 ### **2. Dividends**
 
 - 25% US withholding for Israeli investors (via W-8BEN treaty)
-- Unavoidable on dividend-paying ETFs - but more impactful on [high-yield ETF](/strategies/best-high-yield-etfs-2026)s than on TQQQ
+- Unavoidable on dividend-paying ETFs - but more impactful on [high-yield ETF](/strategies/best-high-yield-etfs-2026/)s than on TQQQ
 
 ### **3. Spreads**
 
@@ -198,7 +198,7 @@ These tools help you validate your decision before opening an account:
 
 ## **Final Verdict**
 
-**For Israeli investors trading TQQQ or using options strategies: [Interactive Brokers](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors) is the most cost-efficient and capable platform overall.**
+**For Israeli investors trading TQQQ or using options strategies: [Interactive Brokers](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/) is the most cost-efficient and capable platform overall.**
 
 Lowest FX costs, best execution, full strategy support.
 
@@ -206,14 +206,4 @@ Other platforms are valid - but involve trade-offs: higher costs, limited tools,
 
 נ‘‰ [**Start with IBKR here**](https://www.interactivebrokers.com/)
 
-## **Related Guides**
-
-- [TQQQ vs QQQ - Strategy Breakdown](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026)
-- [Full Case Study: From -70% to +$492K](/case-study/from-minus-70-to-plus-492k-real-tqqq-recovery-case-study/)
-- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors)
-- [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors)
-- [PFIC Rules for International Investors](/taxes/pfic-rules-international-investors)
-- [TQQQ Tax Guide for International Investors](/taxes/tqqq-tax-international-investors)
-- [US-Germany Tax Treaty for Investors](/taxes/us-germany-tax-treaty-investors)
-- [US-UK Tax Treaty for Investors](/taxes/us-uk-tax-treaty-investors)
 - [US-Canada Tax Treaty for Investors]( /taxes/us-canada-tax-treaty-investors-2026 /)

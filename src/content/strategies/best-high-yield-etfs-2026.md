@@ -42,7 +42,7 @@ This article covers eight ETFs across three structural categories. The data is v
 
 Understanding the mechanics before comparing yields is not optional - it changes every conclusion.
 
-**[Covered call](/options-income/selling-covered-calls-tqqq) ETFs** hold equities and sell call options against those positions. The premiums received are paid out as monthly distributions. The structural tradeoff is capped upside: when the market rallies strongly, call sellers forgo gains above the strike price. In flat, moderately rising, or declining markets, the premium income provides meaningful return advantage. In strong bull markets, these funds consistently lag a plain index fund on total return.
+**[Covered call](/options-income/selling-covered-calls-tqqq/) ETFs** hold equities and sell call options against those positions. The premiums received are paid out as monthly distributions. The structural tradeoff is capped upside: when the market rallies strongly, call sellers forgo gains above the strike price. In flat, moderately rising, or declining markets, the premium income provides meaningful return advantage. In strong bull markets, these funds consistently lag a plain index fund on total return.
 
 **Dividend equity ETFs** own stocks with a history of paying and growing dividends. The current yield is lower - typically 2-4% - but the distributions come from real corporate earnings rather than option premiums or capital. NAV tends to grow alongside the underlying businesses. Dividend growth compounds the yield-on-cost over time.
 
@@ -269,7 +269,7 @@ Vanguard has announced a competing high-yield corporate bond ETF (VCHY) for laun
 
 Non-U.S. investors face a specific cost that materially affects net yield calculations.
 
-The U.S. default [withholding tax](/taxes/taxes-us-dividends-foreign-investors) on dividends and distributions paid to foreign investors is 30%. Under a bilateral tax treaty, this rate is typically reduced to 15% for eligible countries. The treaty rate applies only if the investor files a [W-8BEN](/taxes/w8ben-form-non-us-investors) form with their broker. Without it, the full 30% applies by default.
+The U.S. default [withholding tax](/taxes/taxes-us-dividends-foreign-investors/) on dividends and distributions paid to foreign investors is 30%. Under a bilateral tax treaty, this rate is typically reduced to 15% for eligible countries. The treaty rate applies only if the investor files a [W-8BEN](/taxes/w8ben-form-non-us-investors/) form with their broker. Without it, the full 30% applies by default.
 
 **The ELN complication:** JEPI and JEPQ distributions are classified as ordinary income from debt instruments rather than as qualified dividends. The treaty rate reduction may apply differently depending on the investor's jurisdiction and the specific treaty language. This is not a theoretical concern - in some treaty structures, interest income receives different treatment than dividend income. Confirm this specific point with a local tax advisor before assuming the 15% treaty rate applies to JEPI/JEPQ in full.
 
@@ -340,19 +340,6 @@ The goal is not the highest number in the yield column. It is the most durable i
 ---
 
 ---
-
-## Related Articles
-
-- [JEPI vs SCHD vs QYLD: Complete Comparison for International Investors](/strategies/jepi-vs-schd-vs-qyld)
-- [Build $10K/Month Passive Income Portfolio](/strategies/build-10k-month-passive-income)
-- [TQQQ vs QQQ: Which Is Right for International Investors?](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026)
-- [Selling Covered Calls on TQQQ for Monthly Income](/options-income/selling-covered-calls-tqqq)
-- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors)
-- [W-8BEN Form: Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors)
-- [Best Brokers for International Investors 2026](/best-brokers/best-brokers-international-investors-2026)
-- [Interactive Brokers Review 2026](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors)
-- [Tax Map - International Investor Tax Guide](/tax-map)
-
 
 *All yield, AUM, and expense ratio data verified as of May 2026. Past performance does not guarantee future results. This article is for informational and educational purposes only and does not constitute investment advice. Consult a qualified financial or tax advisor before making investment decisions.*
 

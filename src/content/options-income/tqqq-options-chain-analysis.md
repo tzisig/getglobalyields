@@ -25,7 +25,7 @@ featured: false
 
 > **Before you continue:** This article assumes you already understand what options are, how calls and puts work, and what implied volatility and the Greeks mean at a basic level. If those concepts are new to you, start there before reading this. Options trading involves the risk of significant loss of capital.
 
-A trader - let's call him Marcus - had been running the [wheel strategy](/options-income/wheel-strategy-tqqq) on individual stocks for two years. Solid, consistent. He decided to try TQQQ. He opened the chain, saw 65% IV, recognized it as "elevated" from his experience with stocks, and sold a 30-day put at the 0.30 delta strike. He collected $280 in premium and felt good about it.
+A trader - let's call him Marcus - had been running the [wheel strategy](/options-income/wheel-strategy-tqqq/) on individual stocks for two years. Solid, consistent. He decided to try TQQQ. He opened the chain, saw 65% IV, recognized it as "elevated" from his experience with stocks, and sold a 30-day put at the 0.30 delta strike. He collected $280 in premium and felt good about it.
 
 Three weeks later the Nasdaq sold off 6% in two days. TQQQ fell 18%. His put went deep in the money. He tried to roll it but the spread had blown out - closing the position cost $640 more than he'd collected. His total loss: $360 on a trade he thought was low-risk because "IV was high."
 
@@ -43,7 +43,7 @@ This guide is about that gap - what every number in TQQQ's options chain actuall
 
 Before looking at any specific Greek, one structural fact shapes everything: TQQQ resets its leverage daily.
 
-Every trading day, ProShares rebalances TQQQ to maintain 3x exposure to the Nasdaq-100's daily return. That rebalancing creates [volatility decay](/strategies/risk-management-leveraged-etf-investors-2026) (also called beta slippage) - the gradual erosion of value in choppy markets that occurs independent of the Nasdaq-100's direction. On a day when the Nasdaq falls 5% and rises 5.26% the next, the index is flat. TQQQ is not. The daily reset means TQQQ ends slightly below where it started.
+Every trading day, ProShares rebalances TQQQ to maintain 3x exposure to the Nasdaq-100's daily return. That rebalancing creates [volatility decay](/strategies/risk-management-leveraged-etf-investors-2026/) (also called beta slippage) - the gradual erosion of value in choppy markets that occurs independent of the Nasdaq-100's direction. On a day when the Nasdaq falls 5% and rises 5.26% the next, the index is flat. TQQQ is not. The daily reset means TQQQ ends slightly below where it started.
 
 This matters for options analysis because:
 
@@ -192,7 +192,7 @@ An inverted term structure on TQQQ should slow down, not speed up, the impulse t
 
 The most common misread on TQQQ's chain: treating a high premium yield in dollar terms as equivalent to high premium yield on a percentage basis relative to risk.
 
-A 30-day [cash-secured put](/options-income/cash-secured-puts-high-iv) at the 0.30 delta strike on TQQQ might yield $250-350 per contract on a $6,700 cash commitment. That's 3.7-5.2% in 30 days. It looks exceptional. Understanding [implied volatility strategies](/options-income/tqqq-implied-volatility-strategies) is essential for reading the chain correctly.
+A 30-day [cash-secured put](/options-income/cash-secured-puts-high-iv/) at the 0.30 delta strike on TQQQ might yield $250-350 per contract on a $6,700 cash commitment. That's 3.7-5.2% in 30 days. It looks exceptional. Understanding [implied volatility strategies](/options-income/tqqq-implied-volatility-strategies/) is essential for reading the chain correctly.
 
 What that number doesn't show: the tail risk. TQQQ's 2022 maximum drawdown was 81.66%. The premium yield of 4% per month doesn't compensate for an 80% drawdown risk in a bad macro year - it takes 20 consecutive months of full premium capture just to break even on a single 2022-style drawdown from that strike. The market knows this. The fat premium is the market correctly pricing that risk, not a mispricing you've found.
 
@@ -204,7 +204,7 @@ Reading TQQQ's chain correctly means understanding that every number - IV, delta
 
 For free, daily data: **Barchart.com** gives you a volatility and Greeks table by expiration without an account. **Market Chameleon** goes deeper - IV history, IV percentile by strike, and historical IV comparisons that let you see how today's pricing compares to the same strike 6 months ago.
 
-For more analytical depth: **ApexVol** covers IV rank, GEX levels, and a full volatility lab. The free tier is limited but useful for orientation; the paid tier is worth it if you're trading TQQQ options with any regularity. If you're already an [IBKR](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors) client, Trader Workstation has term structure visualization and Greeks analytics built in - no additional subscription needed.
+For more analytical depth: **ApexVol** covers IV rank, GEX levels, and a full volatility lab. The free tier is limited but useful for orientation; the paid tier is worth it if you're trading TQQQ options with any regularity. If you're already an [IBKR](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/) client, Trader Workstation has term structure visualization and Greeks analytics built in - no additional subscription needed.
 
 For historical backtesting of TQQQ options performance under different IV regimes, ORATS and OptionMetrics have the most complete datasets. Both are institutional-grade subscriptions - worth it for systematic traders, overkill for most retail accounts.
 
@@ -223,13 +223,3 @@ For historical backtesting of TQQQ options performance under different IV regime
 
 ---
 
-## Related Articles
-
-- [Selling Covered Calls on TQQQ: Step-by-Step Guide](/options-income/selling-covered-calls-tqqq)
-- [The Wheel Strategy on TQQQ](/options-income/wheel-strategy-tqqq)
-- [TQQQ Implied Volatility Strategies](/options-income/tqqq-implied-volatility-strategies)
-- [Cash-Secured Puts in High IV Environments](/options-income/cash-secured-puts-high-iv)
-- [TQQQ Recovery Case Study](/case-study/from-minus-70-to-plus-492k-real-tqqq-recovery-case-study)
-- [Risk Management for Leveraged ETF Investors](/strategies/risk-management-leveraged-etf-investors-2026)
-- [TQQQ Tax Guide for International Investors](/taxes/tqqq-tax-international-investors)
-- [Broker Fee Calculator](/broker-calculator)

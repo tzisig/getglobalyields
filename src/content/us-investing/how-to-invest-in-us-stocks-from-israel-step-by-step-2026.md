@@ -41,27 +41,27 @@ schema:
 
 ## **Introduction**
 
-Investing in US stocks from Israel has never been more accessible. With the right broker and a basic understanding of the process, an Israeli investor can have a fully funded [US brokerage account](/best-brokers/how-to-open-a-us-brokerage-account-as-a-non-resident-2026-guide) and place their first trade within a week.
+Investing in US stocks from Israel has never been more accessible. With the right broker and a basic understanding of the process, an Israeli investor can have a fully funded [US brokerage account](/best-brokers/how-to-open-a-us-brokerage-account-as-a-non-resident-2026-guide/) and place their first trade within a week.
 
 Yet many Israelis are put off by the perceived complexity - foreign brokers, unfamiliar tax forms, currency conversion, and concerns about whether it is even legal. This guide answers all of those questions and walks you through the entire process from start to finish.
 
 ## **Is It Legal for Israelis to Invest in US Stocks?**
 
-Yes, completely. Israeli residents are legally permitted to hold foreign investment accounts and invest in US stocks, ETFs, and other securities. There is no restriction on the amount you can invest abroad, provided you report your foreign income and assets to the [Israeli Tax](/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026) Authority (ITA) as required.
+Yes, completely. Israeli residents are legally permitted to hold foreign investment accounts and invest in US stocks, ETFs, and other securities. There is no restriction on the amount you can invest abroad, provided you report your foreign income and assets to the [Israeli Tax](/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026/) Authority (ITA) as required.
 
 Key legal points:
 
--   You must report foreign investment accounts to the ITA if your holdings exceed certain thresholds - Dividends and capital gains from foreign investments are taxable in Israel - The US-Israel tax treaty governs how US [withholding tax](/taxes/taxes-us-dividends-foreign-investors) interacts with your Israeli tax obligations - There is no requirement to use an Israeli broker - you can open an account directly with a US broker
+-   You must report foreign investment accounts to the ITA if your holdings exceed certain thresholds - Dividends and capital gains from foreign investments are taxable in Israel - The US-Israel tax treaty governs how US [withholding tax](/taxes/taxes-us-dividends-foreign-investors/) interacts with your Israeli tax obligations - There is no requirement to use an Israeli broker - you can open an account directly with a US broker
 
 ## **Step 1: Choose Your Broker**
 
 The first decision is which US broker to use. As an Israeli investor, your options are more limited than for US residents - many popular brokers like Robinhood, Fidelity, and Webull do not accept Israeli clients.
 
-**[Interactive Brokers](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors) (IBKR) - Recommended:** The top choice for most Israeli investors. Accepts Israeli clients, offers excellent ILS-to-USD conversion rates, and provides access to stocks, ETFs, options, and more.
+**[Interactive Brokers](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/) (IBKR) - Recommended:** The top choice for most Israeli investors. Accepts Israeli clients, offers excellent ILS-to-USD conversion rates, and provides access to stocks, ETFs, options, and more.
 
-**[Tastytrade](/best-brokers/tastytrade-review-2026):** Best if your focus is options trading - [covered calls](/options-income/selling-covered-calls-tqqq), cash-secured puts, the [Wheel strategy](/options-income/wheel-strategy-tqqq). Check current availability for Israeli clients on their website.
+**[Tastytrade](/best-brokers/tastytrade-review-2026/):** Best if your focus is options trading - [covered calls](/options-income/selling-covered-calls-tqqq/), cash-secured puts, the [Wheel strategy](/options-income/wheel-strategy-tqqq/). Check current availability for Israeli clients on their website.
 
-**[Firstrade](/best-brokers/firstrade-review-2026):** A good starting point for beginners. Zero commissions across the board and a simpler interface.
+**[Firstrade](/best-brokers/firstrade-review-2026/):** A good starting point for beginners. Zero commissions across the board and a simpler interface.
 
 Use our [Broker Finder](/broker-finder/) to compare brokers that accept Israeli clients.
 
@@ -73,7 +73,7 @@ Before starting the application, prepare the following:
 
 **Required for all brokers:**
 
--   Israeli passport (preferred) or Teudat Zehut - Proof of address: utility bill, bank statement, or official government letter dated within 90 days - Teudat Zehut number - your foreign tax identification number for the [W-8BEN](/taxes/w8ben-form-non-us-investors) form - Israeli bank account details for funding and withdrawals
+-   Israeli passport (preferred) or Teudat Zehut - Proof of address: utility bill, bank statement, or official government letter dated within 90 days - Teudat Zehut number - your foreign tax identification number for the [W-8BEN](/taxes/w8ben-form-non-us-investors/) form - Israeli bank account details for funding and withdrawals
 
 **Good to have ready:**
 
@@ -194,7 +194,7 @@ Tip: Call your bank before initiating your first international wire to confirm t
 -   Upload passport and proof of address - Complete W-8BEN form (enter Teudat Zehut number, select Israel, 25% rate)
 -   Wait for account approval (1 to 3 business days)
 -   Initiate wire transfer from Israeli bank to IBKR - Convert ILS to USD inside IBKR at interbank rate - Download IBKR Mobile app
-- Set up a [multi-currency account](/us-investing/multi-currency-investment-accounts) to minimize FX costs
+- Set up a [multi-currency account](/us-investing/multi-currency-investment-accounts/) to minimize FX costs
 - Place first trade using a Limit Order - Save IBKR annual statement and 1042-S for Israeli tax return
 
 **Financial Disclaimer**

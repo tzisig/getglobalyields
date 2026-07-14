@@ -53,7 +53,7 @@ rating: 3.8
 
 Most eToro reviews talk about how great the copy trading feature is. Fine. But they skip the part that matters most if you live outside the US: what does it actually cost you to use this platform?
 
-This review is written for investors in [Israel](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026), [Australia](/us-investing/how-to-invest-in-us-stocks-from-australia), [Canada](/us-investing/how-to-invest-in-us-stocks-from-canada), Europe, and other countries who want to invest in US stocks and ETFs. We'll cover the real numbers - conversion fees, withdrawal fees, and what you're actually paying even when eToro says "zero commission."
+This review is written for investors in [Israel](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026/), [Australia](/us-investing/how-to-invest-in-us-stocks-from-australia/), [Canada](/us-investing/how-to-invest-in-us-stocks-from-canada/), Europe, and other countries who want to invest in US stocks and ETFs. We'll cover the real numbers - conversion fees, withdrawal fees, and what you're actually paying even when eToro says "zero commission."
 
 ---
 
@@ -122,7 +122,7 @@ This is what the numbers actually look like for an Israeli investor depositing $
 | Broker | Annual conversion cost | 10-year cumulative cost |
 |---|---|---|
 | eToro (ILS) | $750 (1.5%) | ~$7,500 |
-| Wise + [Firstrade](/best-brokers/firstrade-review-2026) | $175-250 (0.35-0.5%) | ~$2,000 |
+| Wise + [Firstrade](/best-brokers/firstrade-review-2026/) | $175-250 (0.35-0.5%) | ~$2,000 |
 | Interactive Brokers | ~$2 (minimum FX commission) | ~$20 |
 
 Over a decade, the conversion fee alone costs an eToro/ILS investor ~$7,500 more than IBKR. That's real money.
@@ -242,7 +242,7 @@ eToro is fully available in Israel and is one of the more popular platforms amon
 - **Minimum deposit: $10,000** - significantly higher than most other markets. This is a real barrier for new investors
 - **Currency conversion: ~1.5%** on NIS deposits - one of the highest in the industry for this currency pair
 - **Real shares** - Israeli clients receive actual share ownership, not CFDs
-- **Israeli tax:** Capital gains tax of 25% applies. Dividend withholding is typically 15% with a valid W-8BEN form (reduced from 30% under the US-[Israel tax](/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026) treaty). eToro provides annual statements but you file your own tax report in Israel
+- **Israeli tax:** Capital gains tax of 25% applies. Dividend withholding is typically 15% with a valid W-8BEN form (reduced from 30% under the US-[Israel tax](/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026/) treaty). eToro provides annual statements but you file your own tax report in Israel
 
 **Bottom line for Israelis:** The Hebrew interface and support are genuine advantages. The $10,000 minimum and 1.5% conversion fee are real disadvantages. For investors who have $10,000+ and want a simple Hebrew-language experience, eToro works. For everyone else, IBKR is more cost-effective.
 
@@ -251,8 +251,8 @@ eToro is fully available in Israel and is one of the more popular platforms amon
 | Investor Country | Default withholding | With W-8BEN | Notes |
 |---|---|---|---|
 | Israel | 30% | 15% | US-Israel tax treaty |
-| UK | 30% | 15% | US-[UK tax](/taxes/us-uk-tax-treaty-investors) treaty |
-| [Germany](/us-investing/how-to-invest-in-us-stocks-from-germany) | 30% | 15% | US-[Germany tax](/taxes/us-germany-tax-treaty-investors) treaty |
+| UK | 30% | 15% | US-[UK tax](/taxes/us-uk-tax-treaty-investors/) treaty |
+| [Germany](/us-investing/how-to-invest-in-us-stocks-from-germany/) | 30% | 15% | US-[Germany tax](/taxes/us-germany-tax-treaty-investors/) treaty |
 | Australia | 30% | 15% | US-Australia tax treaty |
 | Canada | 30% | 15% | US-Canada tax treaty |
 
@@ -288,7 +288,7 @@ eToro is available in Canada but with some restrictions. Options and CFDs may no
 | Platform complexity | Very easy | Complex | Easy | Moderate |
 | Best for | Beginners, copy trading | All-around, FX | Beginners | Options traders |
 
-For a full comparison, see our [Best Brokers for International Investors](/best-brokers/best-brokers-international-investors-2026) guide and [Broker Finder](/broker-finder/) tool.
+For a full comparison, see our [Best Brokers for International Investors](/best-brokers/best-brokers-international-investors-2026/) guide and [Broker Finder](/broker-finder/) tool.
 
 <!-- ADSENSE-LEADERBOARD-728x90-2 -->
 
@@ -411,21 +411,11 @@ Many investors keep both - eToro for copy trading with a smaller allocation, IBK
 
 ---
 
-### Related Articles
-
-- [Interactive Brokers Review 2026: The Best Broker for International Investors](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors)
-- [Saxo Bank Review 2026](/best-brokers/saxo-bank-review-2026)
-- [Firstrade Review 2026](/best-brokers/firstrade-review-2026)
-- [Best Brokers for Israeli Investors in US Markets (2026)](/taxes/best-broker-israeli-investors-us-markets)
-- [How to Open a US Brokerage Account as a Non-Resident](/best-brokers/how-to-open-a-us-brokerage-account-as-a-non-resident-2026-guide)
-- [PFIC Rules: What International Investors Must Know](/taxes/pfic-rules-international-investors)
-- [W-8BEN Form: Complete Guide for Non-US Investors](/taxes/w8ben-form-non-us-investors)
-
 ---
 
 *⚠️ CFD Risk Warning: CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. Availability of CFD products varies by region.*
 
-*⚠️ Affiliate Disclosure: This review contains affiliate links. GetGlobalYields.com may earn a commission if you open an account through links on this page. This never affects our ratings or editorial independence - we only recommend brokers we have independently researched and tested. See our [full disclosure policy](/disclaimer).*
+*⚠️ Affiliate Disclosure: This review contains affiliate links. GetGlobalYields.com may earn a commission if you open an account through links on this page. This never affects our ratings or editorial independence - we only recommend brokers we have independently researched and tested. See our [full disclosure policy](/disclaimer/).*
 
 *⚠️ Financial Disclaimer: This review is for informational purposes only and does not constitute financial advice. Tax treatment varies by country. Always consult a qualified tax advisor and conduct your own research before opening a brokerage account.*
 

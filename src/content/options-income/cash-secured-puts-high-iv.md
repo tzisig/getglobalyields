@@ -95,7 +95,7 @@ The best cash-secured put candidates share five characteristics. Run any screeni
 
 Going deeper OTM (0.15-0.20 delta) reduces premium but also reduces assignment risk. Going closer to at-the-money (0.30-0.35 delta) collects more premium but increases the frequency of assignment. Neither is wrong - the right choice depends on whether you are optimizing for income or for acquiring shares at the lowest possible cost.
 
-**DTE.** The optimal window for cash-secured puts is 30-45 days to expiration. This range captures theta decay at its most efficient - time value erodes fastest in the final 30-45 days of an option's life, which is exactly what you want as a seller. Research from [tastytrade](/best-brokers/tastytrade-review-2026) across thousands of trades found that taking profits at 50% of maximum premium with at least 21 days remaining optimized risk-adjusted returns for premium sellers. Going shorter than 20 DTE increases gamma risk as the position becomes more sensitive to small price moves. Going longer than 60 DTE ties up capital for too long relative to the premium earned.
+**DTE.** The optimal window for cash-secured puts is 30-45 days to expiration. This range captures theta decay at its most efficient - time value erodes fastest in the final 30-45 days of an option's life, which is exactly what you want as a seller. Research from [tastytrade](/best-brokers/tastytrade-review-2026/) across thousands of trades found that taking profits at 50% of maximum premium with at least 21 days remaining optimized risk-adjusted returns for premium sellers. Going shorter than 20 DTE increases gamma risk as the position becomes more sensitive to small price moves. Going longer than 60 DTE ties up capital for too long relative to the premium earned.
 
 ---
 
@@ -115,9 +115,9 @@ Three scenarios play out from here.
 
 **Scenario C - AMD falls to $132 at expiration.** You are assigned 100 shares at $138. Your actual cost basis is $134.05. AMD is trading at $132 - you are sitting on an unrealized loss of $2.05 per share, or $205 on the position. Now the decision point arrives: what do you do next?
 
-The wrong move: panic-selling the shares at $132, crystallizing a loss, and walking away from a stock that dropped on a temporary sector rotation rather than a fundamental breakdown. The right move: since you already determined you were comfortable owning AMD at $138, you now begin selling [covered calls](/options-income/selling-covered-calls-tqqq) against your 100 shares - collecting additional premium and further reducing your effective cost basis with each cycle. If AMD recovers to $145 within six weeks and your covered calls are exercised, you exit the position at a net profit across the entire trade despite getting assigned at $138 on a stock that temporarily traded at $132.
+The wrong move: panic-selling the shares at $132, crystallizing a loss, and walking away from a stock that dropped on a temporary sector rotation rather than a fundamental breakdown. The right move: since you already determined you were comfortable owning AMD at $138, you now begin selling [covered calls](/options-income/selling-covered-calls-tqqq/) against your 100 shares - collecting additional premium and further reducing your effective cost basis with each cycle. If AMD recovers to $145 within six weeks and your covered calls are exercised, you exit the position at a net profit across the entire trade despite getting assigned at $138 on a stock that temporarily traded at $132.
 
-This cycle - selling puts, getting assigned, selling covered calls, getting called away, starting again - is what practitioners call the [Wheel Strategy](/options-income/wheel-strategy-tqqq). It is not a separate strategy. It is the natural continuation of cash-secured puts when assignment occurs.
+This cycle - selling puts, getting assigned, selling covered calls, getting called away, starting again - is what practitioners call the [Wheel Strategy](/options-income/wheel-strategy-tqqq/). It is not a separate strategy. It is the natural continuation of cash-secured puts when assignment occurs.
 
 ---
 
@@ -228,13 +228,3 @@ Premium selling is not exciting. The Tesla trade from the opening of this guide 
 
 ---
 
-## Related Articles
-
-- [Selling Covered Calls on TQQQ: Step-by-Step Guide](/options-income/selling-covered-calls-tqqq)
-- [The Wheel Strategy on TQQQ](/options-income/wheel-strategy-tqqq)
-- [TQQQ Implied Volatility Strategies](/options-income/tqqq-implied-volatility-strategies)
-- [TQQQ Options Chain Analysis](/options-income/tqqq-options-chain-analysis)
-- [TQQQ Recovery Case Study](/case-study/from-minus-70-to-plus-492k-real-tqqq-recovery-case-study)
-- [Risk Management for Leveraged ETF Investors](/strategies/risk-management-leveraged-etf-investors-2026)
-- [TQQQ Tax Guide for International Investors](/taxes/tqqq-tax-international-investors)
-- [Broker Fee Calculator](/broker-calculator)

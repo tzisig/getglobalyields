@@ -114,9 +114,9 @@ These rates are standard across comparable US treaties. The [US-UK](/taxes/us-uk
 | Country | US Dividends (Portfolio) | US Dividends (Corporate 10%+) | Interest | Royalties |
 |---|---|---|---|---|
 | Germany | 15% | 5% | 0% | 0% |
-| [United Kingdom](/taxes/us-uk-tax-treaty-investors) | 15% | 5% | 0% | 0% |
-| [Belgium](/taxes/us-belgium-tax-treaty-investors) | 15% | 5% | 0% | 0% |
-| [Austria](/taxes/us-austria-tax-treaty-investors) | 15% | 5% | 0% | 0% |
+| [United Kingdom](/taxes/us-uk-tax-treaty-investors/) | 15% | 5% | 0% | 0% |
+| [Belgium](/taxes/us-belgium-tax-treaty-investors/) | 15% | 5% | 0% | 0% |
+| [Austria](/taxes/us-austria-tax-treaty-investors/) | 15% | 5% | 0% | 0% |
 | Ireland | 15% | 5% | 0% | 0% |
 | Netherlands | 15% | 5% | 0% | 0% |
 | France | 15% | 5% | 0% | 0% |
@@ -344,12 +344,4 @@ The area to watch in 2026 is the BZSt's evolving position on disregarded entitie
 
 *Sources: US-Germany Income Tax Convention (1989), Protocol (June 1, 2006), IRS Treaty Documentation and Publication (IRS.gov), KPMG Germany Tax News Flash (December 2025), Grant Thornton Germany (January 2026), German Federal Central Tax Office (BZSt) guidance, IRS Form W-8BEN Instructions (Rev. October 2021), IRS FATCA Information for Individuals, FinCEN FBAR guidance, Tax Foundation European Dividend Tax Rates 2026.*
 
-## Related Guides
-
-- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
-- [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)
-- [Best Brokers for Israeli Investors in US Markets](/taxes/best-broker-israeli-investors-us-markets/)
-- [PFIC Rules for International Investors](/taxes/pfic-rules-international-investors/)
-- [TQQQ Tax Guide for International Investors](/taxes/tqqq-tax-international-investors/)
-- [US-UK Tax Treaty for Investors](/taxes/us-uk-tax-treaty-investors/)
 - [US-Canada Tax Treaty for Investors]( /taxes/us-canada-tax-treaty-investors-2026 /)

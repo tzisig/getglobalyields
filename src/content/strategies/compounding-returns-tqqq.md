@@ -30,7 +30,7 @@ featured: false
 
 This guide is for investors who understand what TQQQ is and want an honest, numbers-first look at what long-term holding actually delivers - versus what the 3x promise implies on paper. If you are new to leveraged ETFs, read a QQQ primer first.
 
-This is also relevant for non-US investors, including Israelis trading TQQQ through [IBKR](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors), where currency exposure and local tax treatment add layers the standard coverage misses.
+This is also relevant for non-US investors, including Israelis trading TQQQ through [IBKR](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/), where currency exposure and local tax treatment add layers the standard coverage misses.
 
 ---
 
@@ -194,7 +194,7 @@ There is no "correct" allocation. The right size is the one you can hold through
 
 ## For Non-US Investors: TQQQ Through IBKR
 
-TQQQ is available to international investors through Interactive Brokers (IBKR), which is the standard platform for non-US traders accessing US-listed ETFs. For the long-term outlook, see [TQQQ Long-Term Outlook](/strategies/tqqq-long-term-outlook) and [TQQQ Long-Term Strategy: Buy and Hold](/strategies/tqqq-long-term-strategy-buy-and-hold). Compare leveraged ETF options in [TQQQ vs SOXL vs UPRO](/strategies/tqqq-vs-soxl-vs-upro-best-leveraged-etf-2026). The product trades on NASDAQ and is fully accessible to [Israeli](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026) and other international investors with a standard IBKR account.
+TQQQ is available to international investors through Interactive Brokers (IBKR), which is the standard platform for non-US traders accessing US-listed ETFs. For the long-term outlook, see [TQQQ Long-Term Outlook](/strategies/tqqq-long-term-outlook/) and [TQQQ Long-Term Strategy: Buy and Hold](/strategies/tqqq-long-term-strategy-buy-and-hold/). Compare leveraged ETF options in [TQQQ vs SOXL vs UPRO](/strategies/tqqq-vs-soxl-vs-upro-best-leveraged-etf-2026/). The product trades on NASDAQ and is fully accessible to [Israeli](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026/) and other international investors with a standard IBKR account.
 
 ### The Currency Layer
 
@@ -206,7 +206,7 @@ This does not make TQQQ unsuitable for Israeli investors. It means the currency 
 
 ### Israeli Tax Treatment
 
-Capital gains from TQQQ - whether from selling the ETF at a profit or from distributions - are subject to Israeli capital gains tax at 25% for Israeli resident individuals. This applies to gains realized through international brokers including IBKR. Losses can offset gains within the same tax year. There is no US [withholding tax](/taxes/taxes-us-dividends-foreign-investors) on capital gains for non-US investors under the Israel-US tax treaty, but Israeli reporting and payment obligations apply in full.
+Capital gains from TQQQ - whether from selling the ETF at a profit or from distributions - are subject to Israeli capital gains tax at 25% for Israeli resident individuals. This applies to gains realized through international brokers including IBKR. Losses can offset gains within the same tax year. There is no US [withholding tax](/taxes/taxes-us-dividends-foreign-investors/) on capital gains for non-US investors under the Israel-US tax treaty, but Israeli reporting and payment obligations apply in full.
 
 TQQQ pays a very small dividend yield (approximately 0.4%), which may be subject to a 15% US withholding rate under the treaty rather than 30%. Consult a tax advisor familiar with both Israeli securities law and US ETF taxation before taking a significant position.
 
@@ -272,16 +272,3 @@ Size it accordingly. Understand what you own. The math does not care which inves
 
 ---
 
-## Related Articles
-
-- [TQQQ vs QQQ: Which Is Right for International Investors?](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026)
-- [Risk Management for Leveraged ETF Investors](/strategies/risk-management-leveraged-etf)
-- [Dollar-Cost Averaging TQQQ](/strategies/dollar-cost-averaging-tqqq)
-- [TQQQ Long-Term Outlook](/strategies/tqqq-long-term-outlook)
-- [TQQQ vs SOXL vs UPRO](/strategies/tqqq-vs-soxl-vs-upro-best-leveraged-etf-2026)
-- [How to Hedge TQQQ](/strategies/how-to-hedge-tqqq)
-- [QQQ 225-Day Moving Average Strategy](/strategies/tqqq-qqq-225-day-moving-average-strategy)
-- [Analyzing the Long-Term Outlook on Holding TQQQ](/strategies/analyzing-long-term-outlook-holding-tqqq)
-- [Selling Covered Calls on TQQQ for Monthly Income](/options-income/selling-covered-calls-tqqq)
-- [TQQQ Tax Guide for International Investors](/taxes/tqqq-tax-international-investors)
-- [Best Brokers for International Investors 2026](/best-brokers/best-brokers-international-investors-2026)

@@ -32,7 +32,7 @@ productName: "tastytrade"
      - File name: tastytrade-review-2026.md
      - Hero image: place the file at public/images/blog/tastytrade-review-2026.webp
      - Add to the "Best-Brokers" category index
-     - Internal links FROM this article: link to your [IBKR](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors) review, your options trading guide, and your broker comparison roundup
+     - Internal links FROM this article: link to your [IBKR](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/) review, your options trading guide, and your broker comparison roundup
      - Internal links TO this article: link from any page mentioning options brokers, derivatives trading, or international brokerage accounts
      - Schema: BrokerReview / FinancialProduct markup recommended
      - After publishing, submit URL to Google Search Console
@@ -54,9 +54,9 @@ Short answer: yes, it can work - but with conditions worth understanding before 
 
 tastytrade was founded in 2017 by Tom Sosnoff and Scott Sheridan - the same team behind thinkorswim, which became the gold standard for retail options platforms before TD Ameritrade acquired it. That history is not just a marketing footnote. The tastytrade platform carries the same DNA: options-chain-first design, probability-based analysis baked into every screen, and a baseline assumption that you understand what a delta is before you log in.
 
-In 2021, [UK](/us-investing/invest-us-stocks-uk)-listed fintech firm IG Group acquired tastytrade for $1 billion. tastytrade continues to operate as its own brand under its founding management team, with the same platform and fee structure. IG Group's involvement adds institutional stability and a global support infrastructure - relevant for international clients who want to know there is a well-capitalized parent company behind the platform.
+In 2021, [UK](/us-investing/invest-us-stocks-uk/)-listed fintech firm IG Group acquired tastytrade for $1 billion. tastytrade continues to operate as its own brand under its founding management team, with the same platform and fee structure. IG Group's involvement adds institutional stability and a global support infrastructure - relevant for international clients who want to know there is a well-capitalized parent company behind the platform.
 
-tastytrade is registered with FINRA and the SEC, and is headquartered in Chicago. [Australian](/us-investing/how-to-invest-in-us-stocks-from-australia) residents are handled through a separate ASIC-regulated entity.
+tastytrade is registered with FINRA and the SEC, and is headquartered in Chicago. [Australian](/us-investing/how-to-invest-in-us-stocks-from-australia/) residents are handled through a separate ASIC-regulated entity.
 
 ---
 
@@ -72,7 +72,7 @@ To put it in concrete terms: a trader running 30 contracts per leg on a strangle
 
 Index options follow the same structure. Futures run $0.75 per contract each way. Micro futures are also $0.75. Crypto carries no stated commission but a 0.50%-0.75% spread applies at execution.
 
-Exercise and assignment fees are $5 per leg, flat - regardless of how many shares are involved. Worth factoring in if you run strategies like [covered calls](/options-income/selling-covered-calls-tqqq) or [the Wheel](/options-income/wheel-strategy-tqqq) where assignment is a real possibility.
+Exercise and assignment fees are $5 per leg, flat - regardless of how many shares are involved. Worth factoring in if you run strategies like [covered calls](/options-income/selling-covered-calls-tqqq/) or [the Wheel](/options-income/wheel-strategy-tqqq/) where assignment is a real possibility.
 
 No account fee, no inactivity fee, no custody fee, no deposit fee for incoming wires. That last point matters specifically for international clients.
 
@@ -116,7 +116,7 @@ In 2024, FINRA fined tastytrade $30,000 for failing to properly supervise employ
 
 ## International Accounts: The Honest Picture
 
-tastytrade does offer international accounts to clients in eligible countries. For a broader guide on opening any US brokerage account from abroad, see our [complete non-resident guide](/best-brokers/how-to-open-a-us-brokerage-account-as-a-non-resident-2026-guide). The accounts open as cash accounts by default and can be upgraded to include margin, options, and futures based on account size and financial profile. The highest permission tier - called "The Works" - unlocks everything at once, and applying for it from the start is the most straightforward path.
+tastytrade does offer international accounts to clients in eligible countries. For a broader guide on opening any US brokerage account from abroad, see our [complete non-resident guide](/best-brokers/how-to-open-a-us-brokerage-account-as-a-non-resident-2026-guide/). The accounts open as cash accounts by default and can be upgraded to include margin, options, and futures based on account size and financial profile. The highest permission tier - called "The Works" - unlocks everything at once, and applying for it from the start is the most straightforward path.
 
 International clients trade on the same fee schedule as US clients. The practical differences come down to a few things.
 
@@ -128,7 +128,7 @@ Entity accounts (corporations, trusts) are not currently supported for internati
 
 Not all countries are eligible. tastytrade does not maintain a fully public list, so you need to check their international accounts page or contact accounts@tastytrade.com to confirm availability in your country before going further.
 
-The practical reality for an international options trader - say, someone based in [Israel](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026), the Netherlands, or Singapore trading 20-30 contracts per strategy - is that tastytrade's commission structure can still produce meaningful savings even after the $45 withdrawal fee. The wire friction is a one-time-per-withdrawal cost, not a per-trade cost. For an active trader, it is a manageable inconvenience rather than a dealbreaker.
+The practical reality for an international options trader - say, someone based in [Israel](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026/), the Netherlands, or Singapore trading 20-30 contracts per strategy - is that tastytrade's commission structure can still produce meaningful savings even after the $45 withdrawal fee. The wire friction is a one-time-per-withdrawal cost, not a per-trade cost. For an active trader, it is a manageable inconvenience rather than a dealbreaker.
 
 ---
 
@@ -150,7 +150,7 @@ This does not make tastytrade an unstable platform in day-to-day use. It is a re
 
 ## tastytrade vs Interactive Brokers
 
-These two are the most common comparison for active international options traders - see our full [best options brokers for international investors](/best-brokers/best-options-brokers-international-traders-2026) guide for a broader comparison.
+These two are the most common comparison for active international options traders - see our full [best options brokers for international investors](/best-brokers/best-options-brokers-international-traders-2026/) guide for a broader comparison.
 
 | | tastytrade | Interactive Brokers |
 |---|---|---|
@@ -167,7 +167,7 @@ These two are the most common comparison for active international options trader
 
 The practical summary: tastytrade wins on options commissions and platform experience for derivatives-focused traders. IBKR wins on idle cash yield, margin rates, and global market access. For an options trader who stays fully deployed, focuses on US markets, and trades enough volume to benefit from the cap - tastytrade is the more cost-effective, purpose-built choice. For anyone who needs non-US market access, holds significant cash, or runs margin-intensive strategies, IBKR holds the advantage.
 
-For options traders, also see our [Best Options Brokers for International Traders](/best-brokers/best-options-brokers-international-traders-2026) guide and [Broker Finder](/broker-finder/).
+For options traders, also see our [Best Options Brokers for International Traders](/best-brokers/best-options-brokers-international-traders-2026/) guide and [Broker Finder](/broker-finder/).
 
 ---
 
@@ -208,11 +208,6 @@ The platform stability history is the one thing to take seriously. It has not be
 **Rating: 4.1 / 5** - Best-in-class options tooling and pricing for active traders. Loses points for near-zero cash yield, above-market margin rates, international account limitations, and periodic platform reliability issues.
 
 ---
-
-### Related Articles
-
-- [Firstrade Review 2026](/best-brokers/firstrade-review-2026)
-- [XTB Review 2026](/best-brokers/xtb-review-2026)
 
 ---
 

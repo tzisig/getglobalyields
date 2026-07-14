@@ -16,13 +16,13 @@ heroImageDark: "/images/blog/strategies/tqqq-system-architecture.webp"
 
 ## System Overview
 
-This system requires a broker with options approval. [Interactive Brokers](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors) and [tastytrade](/best-brokers/tastytrade-review-2026) both support the structures described here for non-US investors.
+This system requires a broker with options approval. [Interactive Brokers](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/) and [tastytrade](/best-brokers/tastytrade-review-2026/) both support the structures described here for non-US investors.
 
 **Long TQQQ position + options income overlay** = diversified return streams
 
 Instead of betting everything on price appreciation, the system generates:
 - Capital gains from TQQQ ownership
-- Premium income from [covered calls](/options-income/selling-covered-calls-tqqq)
+- Premium income from [covered calls](/options-income/selling-covered-calls-tqqq/)
 - Put premium from cash reserves
 
 [IMAGE_1: System architecture diagram]
@@ -83,7 +83,7 @@ The system transitions to **accumulation mode**. You're buying the dip with put 
 
 [IMAGE_2: Market cycle diagram]
 
-For a real-world example of this system in action during the 2022 crash and subsequent recovery, see the [TQQQ Recovery Case Study](/case-study/from-minus-70-to-plus-492k-real-tqqq-recovery-case-study).
+For a real-world example of this system in action during the 2022 crash and subsequent recovery, see the [TQQQ Recovery Case Study](/case-study/from-minus-70-to-plus-492k-real-tqqq-recovery-case-study/).
 
 ## Core Risk: It's About Time, Not Volatility
 
@@ -101,21 +101,9 @@ The genius of this system: **it doesn't require you to be right about the market
 - Bear market? Accumulation happens at discounts.
 - Sideways? Time decay is harvested.
 
-Risk is managed through position sizing, strike selection, and cash buffers - not through guessing what the Fed will do next. For a broader treatment of drawdown protection, see [Risk Management for Leveraged ETF Investors](/strategies/risk-management-leveraged-etf-investors-2026).
+Risk is managed through position sizing, strike selection, and cash buffers - not through guessing what the Fed will do next. For a broader treatment of drawdown protection, see [Risk Management for Leveraged ETF Investors](/strategies/risk-management-leveraged-etf-investors-2026/).
 
 ---
 
 ---
 
-## Related Articles
-
-- [Selling Covered Calls on TQQQ: Step-by-Step Guide](/options-income/selling-covered-calls-tqqq)
-- [The Wheel Strategy on TQQQ](/options-income/wheel-strategy-tqqq)
-- [Cash-Secured Puts in High IV Environments](/options-income/cash-secured-puts-high-iv)
-- [Passive Income from TQQQ Options](/options-income/passive-income-tqqq-options)
-- [TQQQ Options Chain Analysis](/options-income/tqqq-options-chain-analysis)
-- [TQQQ Implied Volatility Strategies](/options-income/tqqq-implied-volatility-strategies)
-- [TQQQ Recovery Case Study](/case-study/from-minus-70-to-plus-492k-real-tqqq-recovery-case-study)
-- [Risk Management for Leveraged ETF Investors](/strategies/risk-management-leveraged-etf-investors-2026)
-- [TQQQ Tax Guide for International Investors](/taxes/tqqq-tax-international-investors)
-- [Broker Fee Calculator](/broker-calculator)

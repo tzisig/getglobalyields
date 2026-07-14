@@ -115,12 +115,12 @@ This is why long-term holding of TQQQ in unstable markets can fail - even if the
 ### **Dividend Withholding**
 
 - Typically 30% for non-US investors
-- Reduced via tax treaties (e.g., [Israel](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026), EU)
-- Requires [W-8BEN](/taxes/w8ben-form-non-us-investors)
+- Reduced via tax treaties (e.g., [Israel](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026/), EU)
+- Requires [W-8BEN](/taxes/w8ben-form-non-us-investors/)
 
-The default [US withholding rate](/taxes/taxes-us-dividends-foreign-investors) is 30% - but most countries have a tax treaty that reduces this.
+The default [US withholding rate](/taxes/taxes-us-dividends-foreign-investors/) is 30% - but most countries have a tax treaty that reduces this.
 
-Check your country's rate:- <a href="https://www.irs.gov/individuals/international-taxpayers/tax-treaty-tables" target="_blank" rel="noopener noreferrer">IRS Tax Treaty Tables</a>. For a full breakdown of TQQQ-specific tax rules, see our [TQQQ Tax Guide for International Investors](/taxes/tqqq-tax-international-investors). Also see our [Wheel Strategy on TQQQ](/options-income/wheel-strategy-tqqq) for options-based approaches.
+Check your country's rate:- <a href="https://www.irs.gov/individuals/international-taxpayers/tax-treaty-tables" target="_blank" rel="noopener noreferrer">IRS Tax Treaty Tables</a>. For a full breakdown of TQQQ-specific tax rules, see our [TQQQ Tax Guide for International Investors](/taxes/tqqq-tax-international-investors/). Also see our [Wheel Strategy on TQQQ](/options-income/wheel-strategy-tqqq/) for options-based approaches.
 
 ### **Capital Gains**
 
@@ -159,7 +159,7 @@ TQQQ works only under specific conditions:
 
 *It should always be a small part of your portfolio.*
 
-In my own case, combining TQQQ with an [options strategy](/options-income/selling-covered-calls-tqqq) during a recovery phase turned this structural risk into a significant advantage - [you can read the full breakdown in the case study.](/case-study/from-minus-70-to-plus-492k-real-tqqq-recovery-case-study)
+In my own case, combining TQQQ with an [options strategy](/options-income/selling-covered-calls-tqqq/) during a recovery phase turned this structural risk into a significant advantage - [you can read the full breakdown in the case study.](/case-study/from-minus-70-to-plus-492k-real-tqqq-recovery-case-study/)
 
 ## **When to Avoid TQQQ**
 
@@ -201,7 +201,7 @@ Before investing, you need the right broker. Key requirements:
 - Reliable execution
 - Options support
 
-For managing leveraged ETF risk, read our [Risk Management Guide](/strategies/risk-management-leveraged-etf-investors-2026). For the long-term outlook, see [TQQQ Long-Term Outlook](/strategies/tqqq-long-term-outlook). Use the [Broker Finder](/broker-finder/) and [Broker Calculator](/broker-calculator/) to compare costs.
+For managing leveraged ETF risk, read our [Risk Management Guide](/strategies/risk-management-leveraged-etf-investors-2026/). For the long-term outlook, see [TQQQ Long-Term Outlook](/strategies/tqqq-long-term-outlook/). Use the [Broker Finder](/broker-finder/) and [Broker Calculator](/broker-calculator/) to compare costs.
 
 We recommend IBKR for most non-US investors [here's our full review.](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/)
 
