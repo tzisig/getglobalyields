@@ -147,7 +147,7 @@ If you're already in a foreign fund and can't exit cleanly, talk to a cross-bord
 
 <!-- AFFILIATE-CTA-2: IBKR primary CTA -->
 
-## ⚠️What Happens If You Already Own PFICs?
+## What Happens If You Already Own PFICs?
 
 First: don't panic. But do take it seriously.
 

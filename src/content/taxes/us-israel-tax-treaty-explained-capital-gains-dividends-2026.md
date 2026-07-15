@@ -46,7 +46,7 @@ But you need to file a [W-8BEN](/taxes/w8ben-form-non-us-investors/) form with y
 
 <!-- ADSENSE-LEADERBOARD-728x90 -->
 
-## 📌  Why the US-Israel Tax Treaty Matters
+## Why the US-Israel Tax Treaty Matters
 
 If you're an Israeli investor buying US stocks or ETFs, the default US tax treatment is harsh:
 
@@ -70,7 +70,7 @@ Most Israeli investors overpay US tax because they either don't know about the t
 
 **Key takeaway:** The biggest benefit for most investors is the dividend rate reduction from 30% to 15%. That's a 50% tax cut on your US dividend income.
 
-## 🔍  Capital Gains: The Zero-Rate Rule
+## Capital Gains: The Zero-Rate Rule
 
 Article 13 of the US-Israel tax treaty states that capital gains from the sale of US stocks by an Israeli resident are **only taxable in Israel**, not in the United States.
 
@@ -82,7 +82,7 @@ This means:
 
 **Important exception:** The zero-rate doesn't apply if you're considered a US resident for tax purposes (green card holder, substantial presence test). In that case, you're taxed as a US person regardless of the treaty.
 
-## 📝  How to Claim Treaty Benefits: The W-8BEN Form
+## How to Claim Treaty Benefits: The W-8BEN Form
 
 To get the reduced 15% dividend rate (instead of 30%), you must file Form W-8BEN with your US broker.
 
@@ -103,7 +103,7 @@ The form is valid for three years. After that, you need to renew it. If you don'
 
 <!-- AFFILIATE-CTA-1:  open account -->
 
-## 🇮🇱  Israeli Tax Treatment of US Income
+## Israeli Tax Treatment of US Income
 
 While the US-Israel treaty reduces US taxes, Israel still taxes the same income. Here's how it works:
 
@@ -130,7 +130,7 @@ Example: If your Israeli marginal rate is 30%, you pay 15% to the US and 15% to 
 
 <!-- ADSENSE-RECTANGLE-300x250 -->
 
-## ⚠️  Common Mistakes Israeli Investors Make
+## Common Mistakes Israeli Investors Make
 
 ### 1. Not Filing W-8BEN
 
@@ -152,7 +152,7 @@ The form expires every three years. Mark your calendar to renew it, or you'll su
 
 You must report all foreign income (including US dividends and capital gains) on your Israeli tax return, even if the US already taxed it.
 
-## 📋  Step-by-Step: Setting Up Your Account for Treaty Rates
+## Step-by-Step: Setting Up Your Account for Treaty Rates
 
 1. **Open an account** with a broker that accepts Israeli residents (IBKR, eToro, Firstrade, etc.)
 2. **Complete identity verification** (Teudat Zehut, proof of address)
@@ -169,7 +169,7 @@ Most brokers process W-8BEN forms within 1-3 business days. You'll see the reduc
 
 <!-- AFFILIATE-CTA-2:  primary CTA -->
 
-## 🏦  Which Brokers Accept W-8BEN from Israeli Residents?
+## Which Brokers Accept W-8BEN from Israeli Residents?
 
 | Broker | Accepts Israelis | W-8BEN Support | Notes |
 |--------|------------------|----------------|-------|
@@ -214,7 +214,7 @@ Before you finalize your setup, these tools can save you time and money:
 
 ---
 
-## 🏁  Action Steps for Israeli Investors
+## Action Steps for Israeli Investors
 
 1. **Check your current withholding rate** on your broker's tax documents
 2. **If it's 30%, file a W-8BEN immediately** to reduce it to 15%
@@ -226,7 +226,7 @@ The US-Israel tax treaty is one of the most investor-friendly agreements Israel 
 
 <!-- AFFILIATE-CTA-FINAL -->
 
-> ⚠️ **Affiliate Disclosure:** GetGlobalYields.com may earn a commission if you open an account through links on this page. This does not affect our editorial independence.
+> **Affiliate Disclosure:** GetGlobalYields.com may earn a commission if you open an account through links on this page. This does not affect our editorial independence.
 > 
 > ⚠️ **Tax Disclaimer:** This article is for informational purposes only and does not constitute tax or financial advice. Tax treaties are complex and subject to change. Consult a qualified cross-border tax professional for guidance specific to your situation.
 

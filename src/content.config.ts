@@ -9,7 +9,7 @@ const commonSchema = z.object({
   heroImage: z.string().optional(),
   heroImageLight: z.string().optional(),
   heroImageDark: z.string().optional(),
-  author: z.string().default('Get Global Yields Team'),
+  author: z.string().default('Tzion S.'),
   categories: z.array(z.string()).default([]),
   tags: z.array(z.string()).optional(),
   canonicalURL: z.string().url().optional(),

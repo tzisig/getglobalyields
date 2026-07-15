@@ -415,7 +415,7 @@ Many investors keep both - eToro for copy trading with a smaller allocation, IBK
 
 *⚠️ CFD Risk Warning: CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. Availability of CFD products varies by region.*
 
-*⚠️ Affiliate Disclosure: This review contains affiliate links. GetGlobalYields.com may earn a commission if you open an account through links on this page. This never affects our ratings or editorial independence - we only recommend brokers we have independently researched and tested. See our [full disclosure policy](/disclaimer/).*
+*Affiliate Disclosure: This review contains affiliate links. GetGlobalYields.com may earn a commission if you open an account through links on this page. This never affects our ratings or editorial independence - we only recommend brokers we have independently researched and tested. See our [full disclosure policy](/disclaimer/).*
 
-*⚠️ Financial Disclaimer: This review is for informational purposes only and does not constitute financial advice. Tax treatment varies by country. Always consult a qualified tax advisor and conduct your own research before opening a brokerage account.*
+*Financial Disclaimer: This review is for informational purposes only and does not constitute financial advice. Tax treatment varies by country. Always consult a qualified tax advisor and conduct your own research before opening a brokerage account.*
 

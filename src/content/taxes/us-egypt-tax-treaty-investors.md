@@ -3,7 +3,7 @@ slug: "us-egypt-tax-treaty-investors"
 title: "US-Egypt Tax Treaty Guide for Investors — Coming Soon"
 description: "Detailed guide to the US-Egypt tax treaty for investors: dividend withholding rates, capital gains treatment, W-8BEN filing for Egyptian residents."
 pubDate: 2026-07-07
-author: "Global Yields Team"
+author: "Tzion S."
 categories: ["Taxes"]
 keywords: "US-Egypt tax treaty, Egyptian investor US stocks, W-8BEN Egypt, double taxation Egypt, withholding tax dividends"
 tags:
@@ -24,7 +24,7 @@ schema:
   type: "article"
   headline: "US-Egypt Tax Treaty Guide for Egyptian Investors (Coming Soon)"
   description: "Coming soon: Complete guide to the US-Egypt tax treaty, dividend withholding rates, capital gains tax, and W-8BEN filing for Egyptian residents investing in US markets."
-  author: "Global Yields Team"
+  author: "Tzion S."
   datePublished: "2026-07-07"
 ---
 

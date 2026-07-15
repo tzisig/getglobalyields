@@ -52,7 +52,7 @@ const articleSchema = type === "article" ? {
   "image": ogImageUrl.toString(),
   "datePublished": pubDate,
   "dateModified": updatedDate || pubDate,
-  "author": { "@type": "Organization", "name": author || "Get Global Yields" },
+  "author": { "@type": "Organization", "name": author || "Tzion S." },
   "publisher": {
     "@type": "Organization",
     "name": "Get Global Yields",
@@ -71,6 +71,26 @@ const faqSchema = faq.length > 0 ? {
       "text": item.answer
     }
   }))
+} : null;
+
+const homepageSchema = Astro.url.pathname === "/" ? {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://getglobalyields.com/#organization",
+      "name": "Get Global Yields",
+      "url": "https://getglobalyields.com/",
+      "logo": "https://getglobalyields.com/logo.webp"
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://getglobalyields.com/#website",
+      "name": "Get Global Yields",
+      "url": "https://getglobalyields.com/",
+      "publisher": { "@id": "https://getglobalyields.com/#organization" }
+    }
+  ]
 } : null;
 ---
 
@@ -112,6 +132,9 @@ const faqSchema = faq.length > 0 ? {
   )}
   {faqSchema && (
     <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+  )}
+  {homepageSchema && (
+    <script type="application/ld+json" set:html={JSON.stringify(homepageSchema)} />
   )}
   <meta name="p:domain_verify" content="55e6f8ad1a23e33deb0edc8cc395f68a"/>
 </head>

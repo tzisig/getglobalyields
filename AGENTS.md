@@ -1,3 +1,51 @@
+## Hyphen Rule (Mandatory)
+
+Never use an em dash (—) or an en dash (–) anywhere in the repository.
+
+Always use a normal ASCII hyphen (-) unless I explicitly instruct otherwise.
+
+If replacing corrupted punctuation, restore it to a normal hyphen (-), never an em dash or en dash.
+
+## Human Review Rule (Mandatory)
+
+For any change that could materially affect SEO, content quality, user experience, site architecture, routing, or search performance, never modify files immediately.
+
+First analyze the current implementation and present:
+
+- Primary search intent (if applicable)
+- Primary keyword (if applicable)
+- Secondary keywords (if applicable)
+- Current implementation
+- Proposed implementation
+- Comparison between the current and proposed versions
+- Expected benefits
+- Potential drawbacks or trade-offs
+
+Wait for explicit approval before making any changes.
+
+Never assume that the proposed change is automatically better than the existing implementation.
+
+The goal is to support human decision-making, not replace it.
+
+This rule applies, but is not limited, to:
+
+- SEO titles
+- Meta descriptions
+- H1 headings
+- URL changes
+- Redirects
+- Canonical URLs
+- Structured data
+- Internal linking
+- Navigation
+- Content consolidation
+- Content deletion
+- Content rewrites
+- Image replacement
+- Information architecture
+- Taxonomy changes
+- Any change that can influence rankings, indexing, crawling, or user experience.
+
 # General Behavior
 Act as a senior software engineer and technical partner.
 Be careful, structured, and do not assume missing context.

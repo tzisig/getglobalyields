@@ -52,6 +52,54 @@ import Sidebar from '../../components/Sidebar.astro';
           <h2 class="text-2xl font-bold text-slate-100 mb-3 group-hover:text-green-400 transition-colors relative z-10">Useful Links</h2>
           <p class="text-slate-400 relative z-10">Curated external resources, tax authority pages, and critical investment tools.</p>
         </a>
+
+        <!-- Broker Finder Card -->
+        <a href="/resources/broker-finder/" class="group flex flex-col items-center p-8 bg-primary-800 rounded-2xl border border-primary-700 hover:border-accent-500 transition-all shadow-lg hover:shadow-accent-500/10 text-center relative overflow-hidden">
+          <div class="absolute inset-0 bg-gradient-to-b from-purple-500/0 to-purple-500/5 group-hover:to-purple-500/10 transition-colors"></div>
+          <div class="w-16 h-16 bg-primary-900 rounded-full flex items-center justify-center mb-6 text-purple-400 border border-primary-700 group-hover:scale-110 transition-transform">
+            <svg class="w-8 h-8" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M12 21a9 9 0 100-18 9 9 0 000 18zm0 0c2.485 0 4.5-4.03 4.5-9S14.485 3 12 3s-4.5 4.03-4.5 9 2.015 9 4.5 9zM3.6 9h16.8M3.6 15h16.8" />
+            </svg>
+          </div>
+          <h2 class="text-2xl font-bold text-slate-100 mb-3 group-hover:text-purple-400 transition-colors relative z-10">Broker Finder</h2>
+          <p class="text-slate-400 relative z-10">Find brokers that accept investors in your country and compare available platforms side by side.</p>
+        </a>
+
+        <!-- Broker Calculator Card -->
+        <a href="/resources/broker-calculator/" class="group flex flex-col items-center p-8 bg-primary-800 rounded-2xl border border-primary-700 hover:border-accent-500 transition-all shadow-lg hover:shadow-accent-500/10 text-center relative overflow-hidden">
+          <div class="absolute inset-0 bg-gradient-to-b from-red-500/0 to-red-500/5 group-hover:to-red-500/10 transition-colors"></div>
+          <div class="w-16 h-16 bg-primary-900 rounded-full flex items-center justify-center mb-6 text-red-400 border border-primary-700 group-hover:scale-110 transition-transform">
+            <svg class="w-8 h-8" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M9 7h6m0 10v-3m-3 3h.01M9 17h.01M9 14h.01M12 14h.01M15 11h.01M12 11h.01M9 11h.01M7 21h10a2 2 0 002-2V5a2 2 0 00-2-2H7a2 2 0 00-2 2v14a2 2 0 002 2z" />
+            </svg>
+          </div>
+          <h2 class="text-2xl font-bold text-slate-100 mb-3 group-hover:text-red-400 transition-colors relative z-10">Broker Calculator</h2>
+          <p class="text-slate-400 relative z-10">Compare broker fee rates and estimate how much switching providers could save over time.</p>
+        </a>
+
+        <!-- Tax Map Card -->
+        <a href="/resources/tax-map/" class="group flex flex-col items-center p-8 bg-primary-800 rounded-2xl border border-primary-700 hover:border-accent-500 transition-all shadow-lg hover:shadow-accent-500/10 text-center relative overflow-hidden">
+          <div class="absolute inset-0 bg-gradient-to-b from-cyan-500/0 to-cyan-500/5 group-hover:to-cyan-500/10 transition-colors"></div>
+          <div class="w-16 h-16 bg-primary-900 rounded-full flex items-center justify-center mb-6 text-cyan-400 border border-primary-700 group-hover:scale-110 transition-transform">
+            <svg class="w-8 h-8" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M9 20l-5.447-2.724A1 1 0 013 16.382V5.618a1 1 0 011.447-.894L9 7m0 13l6-3m-6 3V7m6 10l4.553 2.276A1 1 0 0021 18.382V7.618a1 1 0 00-.553-.894L15 4m0 13V4m0 0L9 7" />
+            </svg>
+          </div>
+          <h2 class="text-2xl font-bold text-slate-100 mb-3 group-hover:text-cyan-400 transition-colors relative z-10">Tax Map</h2>
+          <p class="text-slate-400 relative z-10">Explore US tax treaty status, withholding rates, and W-8BEN requirements by country.</p>
+        </a>
+
+        <!-- Investor Profiles Card -->
+        <a href="/resources/investor-profiles/" class="group flex flex-col items-center p-8 bg-primary-800 rounded-2xl border border-primary-700 hover:border-accent-500 transition-all shadow-lg hover:shadow-accent-500/10 text-center relative overflow-hidden">
+          <div class="absolute inset-0 bg-gradient-to-b from-orange-500/0 to-orange-500/5 group-hover:to-orange-500/10 transition-colors"></div>
+          <div class="w-16 h-16 bg-primary-900 rounded-full flex items-center justify-center mb-6 text-orange-400 border border-primary-700 group-hover:scale-110 transition-transform">
+            <svg class="w-8 h-8" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0a5.002 5.002 0 019.288 0M15 7a3 3 0 11-6 0 3 3 0 016 0zm6 3a2 2 0 11-4 0 2 2 0 014 0zM7 10a2 2 0 11-4 0 2 2 0 014 0z" />
+            </svg>
+          </div>
+          <h2 class="text-2xl font-bold text-slate-100 mb-3 group-hover:text-orange-400 transition-colors relative z-10">Investor Profiles</h2>
+          <p class="text-slate-400 relative z-10">See how international investors from different countries access US markets and build portfolios.</p>
+        </a>
       </div>
     </div>
   </div>

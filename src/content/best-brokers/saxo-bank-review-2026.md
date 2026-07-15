@@ -442,6 +442,6 @@ For a full comparison of the top international brokers, see our [Best Brokers fo
 
 ---
 
-*⚠️ Affiliate Disclosure: This review may contain affiliate links. GetGlobalYields.com may earn a commission if you open an account through links on this page. This never affects our ratings or editorial independence - we only recommend brokers we have independently researched. See our [full disclosure policy](/disclaimer/).*
+*Affiliate Disclosure: This review may contain affiliate links. GetGlobalYields.com may earn a commission if you open an account through links on this page. This never affects our ratings or editorial independence - we only recommend brokers we have independently researched. See our [full disclosure policy](/disclaimer/).*
 
 *⚠️ Financial Disclaimer: This review is for informational purposes only and does not constitute financial advice. Tax treatment varies by country and individual circumstances. Always consult a qualified tax advisor before opening a brokerage account.*
