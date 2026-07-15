@@ -8,6 +8,7 @@ import AffiliateDisclaimer from '../../components/AffiliateDisclaimer.astro';
 import FinancialDisclaimer from '../../components/FinancialDisclaimer.astro';
 import AuthorBio from '../../components/AuthorBio.astro';
 import TableOfContents from '../../components/TableOfContents.astro';
+import ThemeHeroImage from '../../components/ThemeHeroImage.astro';
 
 export async function getStaticPaths() {
   const posts = await getCollection('best-brokers').catch(() => []);
@@ -89,22 +90,14 @@ const cons = post.data.cons ?? [];
           </header>
 
           {post.data.heroImage && (
-            <>
-              <img
-                src={heroImageLight}
-                alt={post.data.title}
-                width={post.data.heroImageWidth ?? 840}
-                height={post.data.heroImageHeight ?? 560}
-                class="w-full h-auto rounded-xl mb-12 shadow-2xl border border-primary-700 theme-light-only"
-              />
-              <img
-                src={heroImageDark}
-                alt={post.data.title}
-                width={post.data.heroImageWidth ?? 840}
-                height={post.data.heroImageHeight ?? 560}
-                class="w-full h-auto rounded-xl mb-12 shadow-2xl border border-primary-700 theme-dark-only"
-              />
-            </>
+            <ThemeHeroImage
+              darkSrc={heroImageDark}
+              lightSrc={heroImageLight}
+              alt={post.data.title}
+              width={post.data.heroImageWidth ?? 840}
+              height={post.data.heroImageHeight ?? 560}
+              class="w-full h-auto rounded-xl mb-12 shadow-2xl border border-primary-700"
+            />
           )}
 
           {isReview && pros.length > 0 && (

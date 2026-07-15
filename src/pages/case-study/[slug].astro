@@ -8,6 +8,7 @@ import InlineNewsletterAfterThirdParagraph from '../../components/InlineNewslett
 import AffiliateDisclaimer from '../../components/AffiliateDisclaimer.astro';
 import FinancialDisclaimer from '../../components/FinancialDisclaimer.astro';
 import TableOfContents from '../../components/TableOfContents.astro';
+import ThemeHeroImage from '../../components/ThemeHeroImage.astro';
 
 export async function getStaticPaths() {
   const posts = await getCollection('case-study').catch(() => []);
@@ -22,6 +23,7 @@ if (!post) return Astro.redirect('/404');
 const { Content, headings } = await render(post);
 const heroImageLight = post.data.heroImageLight ?? post.data.heroImage;
 const heroImageDark = post.data.heroImageDark ?? post.data.heroImage;
+const fallbackHeroImage = heroImageDark ?? heroImageLight;
 const resolvedSlug = post.data.slug ?? post.id;
 const isRecoveryChartPost =
   resolvedSlug === 'from-minus-70-to-plus-492k-real-tqqq-recovery-case-study' ||
@@ -119,27 +121,15 @@ const recoveryCandles = isRecoveryChartPost ? await getRecoveryCandles() : [];
               </div>
             </div>
           ) : (
-            (heroImageLight || heroImageDark) && (
-              <>
-                {heroImageLight && (
-                  <img
-                    src={heroImageLight}
-                    alt={post.data.title}
-                    width={post.data.heroImageWidth ?? 840}
-                    height={post.data.heroImageHeight ?? 560}
-                    class="w-full h-auto rounded-xl mb-12 shadow-2xl border border-primary-700 theme-light-only"
-                  />
-                )}
-                {heroImageDark && (
-                  <img
-                    src={heroImageDark}
-                    alt={post.data.title}
-                    width={post.data.heroImageWidth ?? 840}
-                    height={post.data.heroImageHeight ?? 560}
-                    class="w-full h-auto rounded-xl mb-12 shadow-2xl border border-primary-700 theme-dark-only"
-                  />
-                )}
-              </>
+            fallbackHeroImage && (
+              <ThemeHeroImage
+                darkSrc={heroImageDark ?? fallbackHeroImage}
+                lightSrc={heroImageLight ?? fallbackHeroImage}
+                alt={post.data.title}
+                width={post.data.heroImageWidth ?? 840}
+                height={post.data.heroImageHeight ?? 560}
+                class="w-full h-auto rounded-xl mb-12 shadow-2xl border border-primary-700"
+              />
             )
           )}
 

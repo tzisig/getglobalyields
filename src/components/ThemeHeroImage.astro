@@ -1,0 +1,74 @@
+---
+export interface Props {
+  darkSrc: string;
+  lightSrc: string;
+  alt: string;
+  width: number;
+  height: number;
+  class?: string;
+}
+
+const {
+  darkSrc,
+  lightSrc,
+  alt,
+  width,
+  height,
+  class: className = '',
+} = Astro.props;
+---
+
+<span
+  data-theme-hero-slot
+  data-dark-src={darkSrc}
+  data-light-src={lightSrc}
+  data-alt={alt}
+  data-width={width}
+  data-height={height}
+  data-class={className}
+></span>
+<script is:inline>
+  (function () {
+    var script = document.currentScript;
+    var slot = script && script.previousElementSibling;
+    if (!(slot instanceof HTMLElement) || !slot.hasAttribute('data-theme-hero-slot')) return;
+
+    var image = document.createElement('img');
+    image.alt = slot.dataset.alt || '';
+    image.width = Number(slot.dataset.width);
+    image.height = Number(slot.dataset.height);
+    image.className = slot.dataset.class || '';
+    image.loading = 'eager';
+    image.fetchPriority = 'high';
+
+    function activeSource() {
+      return document.documentElement.classList.contains('light')
+        ? slot.dataset.lightSrc
+        : slot.dataset.darkSrc;
+    }
+
+    function updateSource() {
+      var source = activeSource();
+      if (source && image.getAttribute('src') !== source) image.src = source;
+    }
+
+    updateSource();
+    slot.replaceWith(image);
+
+    new MutationObserver(updateSource).observe(document.documentElement, {
+      attributes: true,
+      attributeFilter: ['class'],
+    });
+  })();
+</script>
+<noscript>
+  <img
+    src={darkSrc}
+    alt={alt}
+    width={width}
+    height={height}
+    class={className}
+    loading="eager"
+    fetchpriority="high"
+  />
+</noscript>
