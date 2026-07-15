@@ -16,7 +16,7 @@ tags:
   - "3x ETF comparison"
   - "SOXL drawdown"
   - "leveraged ETF risk"
-heroImage: "/images/blog/strategies/tqqq-vs-soxl-vs-upro.webp"
+heroImage: "/images/blog/strategies/tqqq-vs-soxl-vs-upro-best-leveraged-etf-2026.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: false
