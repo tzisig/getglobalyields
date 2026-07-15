@@ -8,6 +8,7 @@ export interface Props {
   class?: string;
   loading?: 'eager' | 'lazy';
   fetchpriority?: 'high' | 'low' | 'auto' | null;
+  decoding?: 'sync' | 'async' | 'auto';
 }
 
 const {
@@ -19,6 +20,7 @@ const {
   class: className = '',
   loading = 'eager',
   fetchpriority = 'high',
+  decoding,
 } = Astro.props;
 ---
 
@@ -32,6 +34,9 @@ const {
   data-class={className}
   data-loading={loading}
   data-fetchpriority={fetchpriority ?? undefined}
+  data-decoding={decoding}
+  class={className}
+  style={`display: block; aspect-ratio: ${width} / ${height};`}
 ></span>
 <script is:inline>
   (function () {
@@ -46,28 +51,68 @@ const {
     image.className = slot.dataset.class || '';
     image.loading = slot.dataset.loading || 'eager';
     if (slot.dataset.fetchpriority) image.fetchPriority = slot.dataset.fetchpriority;
+    if (slot.dataset.decoding) image.decoding = slot.dataset.decoding;
 
-    function activeSource() {
-      return document.documentElement.classList.contains('light')
-        ? slot.dataset.lightSrc
-        : slot.dataset.darkSrc;
-    }
-
-    function updateSource() {
-      var source = activeSource();
-      if (source && image.getAttribute('src') !== source) image.src = source;
-    }
-
-    updateSource();
     slot.replaceWith(image);
 
-    new MutationObserver(updateSource).observe(document.documentElement, {
-      attributes: true,
-      attributeFilter: ['class'],
+    var coordinator = window.__ggyThemeHeroCoordinator;
+    if (!coordinator) {
+      var registrations = new Set();
+
+      function updateRegistration(registration) {
+        var source = document.documentElement.classList.contains('light')
+          ? registration.lightSrc
+          : registration.darkSrc;
+        if (source && registration.image.getAttribute('src') !== source) {
+          registration.image.src = source;
+        }
+      }
+
+      function updateAll() {
+        registrations.forEach(function (registration) {
+          if (!registration.image.isConnected) {
+            registrations.delete(registration);
+            return;
+          }
+          updateRegistration(registration);
+        });
+      }
+
+      var observer = new MutationObserver(updateAll);
+      observer.observe(document.documentElement, {
+        attributes: true,
+        attributeFilter: ['class'],
+      });
+
+      coordinator = {
+        observer: observer,
+        registrations: registrations,
+        register: function (registration) {
+          registrations.add(registration);
+          updateRegistration(registration);
+        },
+        destroy: function () {
+          observer.disconnect();
+          registrations.clear();
+          if (window.__ggyThemeHeroCoordinator === coordinator) {
+            delete window.__ggyThemeHeroCoordinator;
+          }
+        },
+      };
+
+      window.__ggyThemeHeroCoordinator = coordinator;
+      document.addEventListener('astro:before-swap', coordinator.destroy, { once: true });
+    }
+
+    coordinator.register({
+      image: image,
+      darkSrc: slot.dataset.darkSrc,
+      lightSrc: slot.dataset.lightSrc,
     });
   })();
 </script>
 <noscript>
+  <style>[data-theme-hero-slot] { display: none !important; }</style>
   <img
     src={darkSrc}
     alt={alt}
@@ -76,5 +121,6 @@ const {
     class={className}
     loading={loading}
     fetchpriority={fetchpriority ?? undefined}
+    decoding={decoding}
   />
 </noscript>

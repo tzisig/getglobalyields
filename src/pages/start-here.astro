@@ -72,8 +72,10 @@ const startInvesting = [
               href={post.url}
               date={post.data.pubDate}
               categoryName={post.type}
-              imageDark={post.data.heroImage}
-              imageLight={post.data.heroImage?.replace('/images/blog/', '/images/blog/light/')}
+                imageDark={post.data.heroImage}
+                imageLight={post.data.heroImage?.replace('/images/blog/', '/images/blog/light/')}
+                imageWidth={post.data.heroImageWidth ?? 840}
+                imageHeight={post.data.heroImageHeight ?? 560}
             />
           ))}
         </div>
@@ -101,8 +103,10 @@ const startInvesting = [
               href={post.url}
               date={post.data.pubDate}
               categoryName={post.type}
-              imageDark={post.data.heroImage}
-              imageLight={post.data.heroImage?.replace('/images/blog/', '/images/blog/light/')}
+                imageDark={post.data.heroImage}
+                imageLight={post.data.heroImage?.replace('/images/blog/', '/images/blog/light/')}
+                imageWidth={post.data.heroImageWidth ?? 840}
+                imageHeight={post.data.heroImageHeight ?? 560}
             />
           ))}
           <a href="/resources/broker-finder/" class="group p-8 bg-primary-900 rounded-xl border border-primary-600 hover:border-accent-500 transition-all duration-300 shadow-lg flex flex-col justify-center">
@@ -146,8 +150,10 @@ const startInvesting = [
               href={post.url}
               date={post.data.pubDate}
               categoryName={post.type}
-              imageDark={post.data.heroImage}
-              imageLight={post.data.heroImage?.replace('/images/blog/', '/images/blog/light/')}
+                imageDark={post.data.heroImage}
+                imageLight={post.data.heroImage?.replace('/images/blog/', '/images/blog/light/')}
+                imageWidth={post.data.heroImageWidth ?? 840}
+                imageHeight={post.data.heroImageHeight ?? 560}
             />
           ))}
         </div>

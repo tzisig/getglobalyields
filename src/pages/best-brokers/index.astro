@@ -2,6 +2,7 @@
 import BaseLayout from '../../layouts/BaseLayout.astro';
 import { BEST_BROKERS_HUB } from '../../data/bestBrokersHub';
 import { getCollection } from 'astro:content';
+import ThemeHeroImage from '../../components/ThemeHeroImage.astro';
 
 const allBrokerPosts = await getCollection('best-brokers');
 
@@ -90,8 +91,17 @@ const guideIcons: Record<string, string> = {
                   class="group flex flex-col bg-primary-800 border border-primary-700 rounded-2xl p-6 hover:border-accent-500/50 hover:shadow-lg hover:shadow-accent-500/10 transition-all duration-200"
                 >
                   <div class="w-full h-48 bg-primary-700/50 rounded-xl mb-6 overflow-hidden shrink-0">
-                    <img src={heroImageLight} alt={altText} class="w-full h-full object-cover theme-light-only" />
-                    <img src={heroImage} alt={altText} class="w-full h-full object-cover theme-dark-only" />
+                    <ThemeHeroImage
+                      darkSrc={heroImage}
+                      lightSrc={heroImageLight}
+                      alt={altText}
+                      width={post?.data?.heroImageWidth ?? 840}
+                      height={post?.data?.heroImageHeight ?? 560}
+                      class="w-full h-full object-cover"
+                      loading="lazy"
+                      fetchpriority={null}
+                      decoding="async"
+                    />
                   </div>
                   <div class="flex items-center gap-4 mb-4">
                     <div class="w-12 h-12 rounded-xl bg-accent-500/10 border border-accent-500/20 flex items-center justify-center text-accent-500 font-bold text-lg shrink-0">
@@ -146,8 +156,17 @@ const guideIcons: Record<string, string> = {
               class="group flex flex-col bg-primary-800 border border-primary-700 rounded-2xl p-5 hover:border-accent-500/50 hover:shadow-lg hover:shadow-accent-500/10 transition-all duration-200"
             >
               <div class="w-full h-32 bg-primary-700/50 rounded-xl mb-4 overflow-hidden shrink-0">
-                <img src={heroImageLight} alt={title} class="w-full h-full object-cover theme-light-only" />
-                <img src={heroImage} alt={title} class="w-full h-full object-cover theme-dark-only" />
+                <ThemeHeroImage
+                  darkSrc={heroImage}
+                  lightSrc={heroImageLight}
+                  alt={title}
+                  width={post.data.heroImageWidth ?? 840}
+                  height={post.data.heroImageHeight ?? 560}
+                  class="w-full h-full object-cover"
+                  loading="lazy"
+                  fetchpriority={null}
+                  decoding="async"
+                />
               </div>
               <h3 class="text-base font-bold text-slate-100 leading-tight group-hover:text-accent-500 transition-colors mb-2">
                 {title}

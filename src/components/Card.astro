@@ -9,28 +9,34 @@ export interface Props {
   imageLight?: string;
   imageDark?: string;
   isFeatured?: boolean;
+  imageWidth?: number;
+  imageHeight?: number;
+  priority?: boolean;
 }
 
-const { title, description, href, date, categoryName, image, imageLight, imageDark, isFeatured = false } = Astro.props;
-const hasThemeImages = Boolean(imageLight || imageDark);
+import ThemeHeroImage from './ThemeHeroImage.astro';
+
+const { title, description, href, date, categoryName, image, imageLight, imageDark, isFeatured = false, imageWidth = 840, imageHeight = 560, priority = false } = Astro.props;
 const lightImage = imageLight ?? image;
 const darkImage = imageDark ?? image;
+const fallbackImage = darkImage ?? lightImage;
 ---
 
 <a href={href} class={`group block h-full ${isFeatured ? 'md:col-span-2 lg:col-span-3' : ''}`}>
   <article class={`flex flex-col h-full bg-primary-800 rounded-xl overflow-hidden transition-all duration-300 hover:shadow-2xl hover:-translate-y-1 ${isFeatured ? 'border border-accent-500/30 hover:border-accent-400 shadow-xl shadow-accent-500/5' : 'border border-primary-700 hover:border-accent-500 hover:shadow-accent-500/10'}`}>
     <div class={`relative overflow-hidden flex items-center justify-center bg-primary-800 ${isFeatured ? 'h-[400px] w-full' : 'h-48'}`}>
-      {hasThemeImages ? (
-        <>
-          {lightImage && (
-            <img src={lightImage} alt={title} loading="lazy" decoding="async" class={`w-full transition-transform duration-700 group-hover:scale-105 theme-light-only ${isFeatured ? 'h-auto block' : 'h-full object-cover'}`} />
-          )}
-          {darkImage && (
-            <img src={darkImage} alt={title} loading="lazy" decoding="async" class={`w-full transition-transform duration-700 group-hover:scale-105 theme-dark-only ${isFeatured ? 'h-auto block' : 'h-full object-cover'}`} />
-          )}
-        </>
-      ) : image ? (
-        <img src={image} alt={title} loading="lazy" decoding="async" class={`w-full transition-transform duration-700 group-hover:scale-105 ${isFeatured ? 'h-auto block' : 'h-full object-cover'}`} />
+      {fallbackImage ? (
+        <ThemeHeroImage
+          darkSrc={darkImage ?? fallbackImage}
+          lightSrc={lightImage ?? fallbackImage}
+          alt={title}
+          width={imageWidth}
+          height={imageHeight}
+          class={`w-full transition-transform duration-700 group-hover:scale-105 ${isFeatured ? 'h-auto block' : 'h-full object-cover'}`}
+          loading={priority ? 'eager' : 'lazy'}
+          fetchpriority={priority ? 'high' : null}
+          decoding="async"
+        />
       ) : (
         <div class="w-full h-full flex items-center justify-center text-primary-600 bg-primary-900 border-b border-primary-700">
           <svg class="w-12 h-12 opacity-50" fill="none" viewBox="0 0 24 24" stroke="currentColor">
