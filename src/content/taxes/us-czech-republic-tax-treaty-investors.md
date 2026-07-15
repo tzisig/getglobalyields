@@ -42,7 +42,7 @@ schema:
      Recommended: Responsive AdSense display unit or broker affiliate banner ([IBKR](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/))
      Replace this comment block with your AdSense tag or affiliate banner HTML -->
 
-If you are a Czech resident holding US stocks and you have never filed Form [W-8BEN](/taxes/w8ben-form-non-us-investors/), every dividend you have received has been taxed at 30% - double the treaty rate you are entitled to. On a ׳’ג€ֲ¬40,000 US equity position yielding 2%, that is roughly ׳’ג€ֲ¬240 per year disappearing unnecessarily - and if you're moving CZK or EUR to USD to fund the position, our [multi-currency accounts guide](/us-investing/multi-currency-investment-accounts/) covers ways to cut conversion costs too. The fix is a single form filed with your broker. But the bigger opportunity for Czech investors is something most do not think about until they have already missed it: the 3-year capital gains exemption that makes long-term US equity investing nearly free of Czech tax.
+If you are a Czech resident holding US stocks and you have never filed Form [W-8BEN](/taxes/w8ben-form-non-us-investors/), every dividend you have received has been taxed at 30% - double the treaty rate you are entitled to. On a €40,000 US equity position yielding 2%, that is roughly €240 per year disappearing unnecessarily - and if you're moving CZK or EUR to USD to fund the position, our [multi-currency accounts guide](/us-investing/multi-currency-investment-accounts/) covers ways to cut conversion costs too. The fix is a single form filed with your broker. But the bigger opportunity for Czech investors is something most do not think about until they have already missed it: the 3-year capital gains exemption that makes long-term US equity investing nearly free of Czech tax.
 
 That combination - a 15% treaty rate on dividends plus a 0% rate on capital gains after three years - puts Czech residents in an unusually favorable position compared to investors in many other EU countries. Getting both right requires understanding where each rule applies, what forms are needed, and how Czech and US tax law interact in practice.
 
@@ -52,7 +52,7 @@ That is where this guide starts.
 
 **Meet Martin Novak.** Martin is 44, a software architect in Brno, and he has been investing in US equities since 2021 through an [Interactive Brokers](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/) account. He holds a mix of individual US technology stocks and an Ireland-domiciled ETF tracking the S&P 500. He filed W-8BEN at account opening - his dividend statements confirm 15% US withholding, not 30%. But when he sold a position in late 2024 that he had held for two and a half years, he reported the gain as taxable income. What he did not realize was that waiting six more months would have made that gain entirely exempt under Czech law - 0% tax, no limit on the gain amount from 2026 onwards.
 
-Martin's missed exemption is where this guide picks up. If you want to see how your own situation compares, our [investor profiles](/investor-profiles/) tool walks through similar scenarios by country and account type.
+Martin's missed exemption is where this guide picks up. If you want to see how your own situation compares, our [investor profiles](/resources/investor-profiles/) tool walks through similar scenarios by country and account type.
 
 ---
 
@@ -74,7 +74,7 @@ These two rules together - 15% US withholding on dividends, 0% Czech tax on gain
 | W-8BEN on file, held under 3 years | 15% US withholding | Taxable in Czech Republic at 15% or 23% |
 | W-8BEN on file, held 3+ years | 15% US withholding | **0% Czech tax (full exemption)** |
 
-For Martin, the cost of selling six months early was not negligible. On a ׳’ג€ֲ¬30,000 gain, Czech tax at 15% would have been ׳’ג€ֲ¬4,500 - money he could have kept by waiting until the three-year holding period was satisfied. For allocation frameworks at this kind of portfolio size, our [step-by-step $100K guide](/us-investing/how-to-invest-100k-step-by-step-guide/) walks through the tradeoffs.
+For Martin, the cost of selling six months early was not negligible. On a €30,000 gain, Czech tax at 15% would have been €4,500 - money he could have kept by waiting until the three-year holding period was satisfied. For allocation frameworks at this kind of portfolio size, our [step-by-step $100K guide](/us-investing/how-to-invest-100k-step-by-step-guide/) walks through the tradeoffs.
 
 ---
 
@@ -137,7 +137,7 @@ Czech resident individuals are taxed on worldwide income. The progressive person
 | Up to CZK 1,762,812 | **15%** |
 | Above CZK 1,762,812 | **23%** |
 
-The CZK 1,762,812 threshold equals 36 times the average annual wage (CZK 48,967 in 2026). For reference, at current exchange rates this is approximately ׳’ג€ֲ¬70,000-72,000 depending on the CZK/EUR rate. Most individual investors fall within the 15% bracket for their investment income.
+The CZK 1,762,812 threshold equals 36 times the average annual wage (CZK 48,967 in 2026). For reference, at current exchange rates this is approximately €70,000-72,000 depending on the CZK/EUR rate. Most individual investors fall within the 15% bracket for their investment income.
 
 **Dividends (foreign):** Subject to the 15% flat rate via a separate tax base, shielded from the progressive calculation. The foreign tax credit for US withholding typically eliminates Czech tax owed on this income for investors in the 15% bracket.
 
@@ -183,7 +183,7 @@ The 3-year exemption does not apply to cryptocurrencies from 2025 onwards (these
 
 Claiming the reduced 15% withholding rate on US dividends requires Form W-8BEN - filed with your broker or custodian, not with the IRS directly.
 
-For Czech residents opening an account with Interactive Brokers (the most commonly used broker for US equities in the Czech Republic), W-8BEN is collected at account opening. During the application, you confirm Czech tax residency in the "Contract Benefits Qualifications" section. IBKR applies the treaty rate to dividends from that point forward. If you're still comparing platforms, our [broker finder](/broker-finder/) tool and guide to [opening a US brokerage account as a non-resident](/best-brokers/how-to-open-a-us-brokerage-account-as-a-non-resident-2026-guide/) cover the setup process.
+For Czech residents opening an account with Interactive Brokers (the most commonly used broker for US equities in the Czech Republic), W-8BEN is collected at account opening. During the application, you confirm Czech tax residency in the "Contract Benefits Qualifications" section. IBKR applies the treaty rate to dividends from that point forward. If you're still comparing platforms, our [broker finder](/resources/broker-finder/) tool and guide to [opening a US brokerage account as a non-resident](/best-brokers/how-to-open-a-us-brokerage-account-as-a-non-resident-2026-guide/) cover the setup process.
 
 **How to verify it is working:** Check your dividend statements. A 15% deduction confirms the treaty rate is in effect. A 30% deduction means no treaty rate is being applied - either the form is missing or it has expired.
 
@@ -248,7 +248,7 @@ The mechanism that prevents true double taxation for most US citizens in the Cze
 
 ## How the US-Czech Treaty Compares to Other Major US Treaties
 
-For a full side-by-side view across every US treaty country, our [tax map](/tax-map/) tool visualizes the rates below.
+For a full side-by-side view across every US treaty country, our [tax map](/resources/tax-map/) tool visualizes the rates below.
 
 | Country | US Dividends (Portfolio) | Interest | Capital Gains | 3-Year Securities Exemption |
 |---|---|---|---|---|

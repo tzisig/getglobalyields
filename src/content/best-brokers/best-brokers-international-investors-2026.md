@@ -27,7 +27,7 @@ Choosing the right brokerage is one of the most consequential decisions an inter
 
 Ultimately, the broker you choose determines your access, your costs, and your long-term returns. This guide covers the best brokers for international investors in 2026, with a focus on those offering meaningful access to US markets, competitive fee structures for non-US residents, multi-currency accounts, and the compliance infrastructure to serve clients across multiple jurisdictions. We also highlight what to watch out for-including [withholding tax](/taxes/taxes-us-dividends-foreign-investors/) pitfalls, [PFIC](/taxes/pfic-rules-international-investors/) exposure, and platforms that quietly restrict international account holders.
 
-Use our [Broker Finder](/broker-finder/) tool to find the right broker for your country and investment style.
+Use our [Broker Finder](/resources/broker-finder/) tool to find the right broker for your country and investment style.
 
 <div class="not-prose mb-12 mt-8">
   <div class="mb-4">
@@ -303,7 +303,7 @@ For international investors, the brokerage platform itself is only part of the e
 
 For a complete walkthrough of opening a US brokerage account from abroad, see our [How to Open a US Brokerage Account as a Non-Resident](/best-brokers/how-to-open-a-us-brokerage-account-as-a-non-resident-2026-guide/) guide.
 
-Any broker holding US-listed securities for a non-US person must collect a W-8BEN form to establish non-resident alien status. This form allows investors from treaty countries to claim a reduced [withholding tax rate](/tax-map/) on US-source dividends - typically 15% or 25% instead of the default 30%. The best brokers for international investors handle W-8BEN documentation electronically and apply treaty rates automatically. Confirm this process before opening an account.
+Any broker holding US-listed securities for a non-US person must collect a W-8BEN form to establish non-resident alien status. This form allows investors from treaty countries to claim a reduced [withholding tax rate](/resources/tax-map/) on US-source dividends - typically 15% or 25% instead of the default 30%. The best brokers for international investors handle W-8BEN documentation electronically and apply treaty rates automatically. Confirm this process before opening an account.
 
 **FATCA Reporting**
 

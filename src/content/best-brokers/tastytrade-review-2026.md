@@ -167,7 +167,7 @@ These two are the most common comparison for active international options trader
 
 The practical summary: tastytrade wins on options commissions and platform experience for derivatives-focused traders. IBKR wins on idle cash yield, margin rates, and global market access. For an options trader who stays fully deployed, focuses on US markets, and trades enough volume to benefit from the cap - tastytrade is the more cost-effective, purpose-built choice. For anyone who needs non-US market access, holds significant cash, or runs margin-intensive strategies, IBKR holds the advantage.
 
-For options traders, also see our [Best Options Brokers for International Traders](/best-brokers/best-options-brokers-international-traders-2026/) guide and [Broker Finder](/broker-finder/).
+For options traders, also see our [Best Options Brokers for International Traders](/best-brokers/best-options-brokers-international-traders-2026/) guide and [Broker Finder](/resources/broker-finder/).
 
 ---
 

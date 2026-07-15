@@ -61,6 +61,8 @@ We will follow Ryan through every decision in this guide.
 
 Before touching the mechanics of any specific trade, you need to understand implied volatility - because on TQQQ, IV is not just a pricing input. It is the primary reason the strategy generates the income it does.
 
+TQQQ targets three times the Nasdaq-100's **daily** return and resets that leverage every trading day. In a sustained trend, daily compounding can amplify gains; in a choppy market, the same reset creates volatility decay. If QQQ rises 10% and then falls 10%, it finishes down 1%, while an approximate 3x sequence leaves TQQQ down about 9%. Covered-call and cash-secured-put income sits on top of that path-dependent underlying behavior.
+
 ### What Implied Volatility Actually Measures
 
 Implied volatility (IV) is the market's expectation of how much an asset will move over a given period, expressed as an annualized percentage. It is derived mathematically from current option prices - working backwards from what the market is paying for options to infer the volatility those prices imply.
@@ -156,13 +158,19 @@ Three outcomes at expiration:
 
 **TQQQ rises above $82:** His 100 shares are called at $82. Total proceeds: $8,200 (shares) + $400 (premium) = $8,600 on a $7,500 investment - a 14.7% gain in 30 days. He misses any move above $82 on those 100 shares. His uncovered 100 shares fully participate in the rally.
 
-**TQQQ falls significantly:** The call expires worthless (Ryan keeps the $400), but his shares are worth less. A $400 premium on a $7,500 position provides a 5.3% buffer against a loss that could be 20-30%+ in a bad month for TQQQ.
+**TQQQ falls significantly:** The call expires worthless (Ryan keeps the $400), but his shares are worth less. If TQQQ falls 20%, the covered shares decline from $7,500 to $6,000. The premium reduces the $1,500 underlying loss to $1,100, but Ryan still loses 14.7% on the covered position despite completing a profitable option trade. Premium is a buffer, not protection against a leveraged drawdown.
 
 ### The Upside Cap Problem - Why Ryan Only Covers Half
 
 TQQQ is held precisely because of its potential for explosive returns. On April 9, 2025, TQQQ gained 35.2% in a single day. An investor who had covered 100% of their position that day would have captured only the premium plus appreciation to their strike - potentially missing 25-30% of that day's move.
 
 Systematically selling covered calls on 100% of a TQQQ position means systematically selling the outcome that makes holding TQQQ worthwhile. Ryan's solution: cover half, leave half unencumbered. The covered half generates monthly income. The uncovered half participates fully in any large moves.
+
+### A Realistic Monthly Income Scenario
+
+The same covered-call position produces very different results across market regimes. In a calm, moderately bullish month, Ryan may keep the full $400 premium while his shares appreciate below the strike. In a volatile but flat month, higher IV can increase the premium while the shares finish near their starting value. In a bad month, a 20-25% TQQQ decline can overwhelm several months of collected premium at once.
+
+This is why Ryan evaluates income against total position return rather than counting premium in isolation. A successful expiration does not make the month profitable if the underlying loss is larger, and the covered-call allocation must be small enough that one leveraged drawdown does not damage the broader account.
 
 ---
 
@@ -327,6 +335,8 @@ The three-line treatment in most guides is inadequate for a strategy that genera
 
 **[Canada](/us-investing/how-to-invest-in-us-stocks-from-canada/):** Options premiums are generally treated as income from a business rather than capital gains when the strategy is systematic and frequent - as a monthly Wheel Strategy would be. This means full marginal tax rates apply (up to 53.5% in high-tax provinces) rather than the 50% capital gains inclusion rate.
 
+**Currency risk:** TQQQ and its options settle in US dollars. An investor funding the account in AUD, GBP, ILS, or another currency experiences both the leveraged TQQQ move and the exchange-rate move. A 20% decline in TQQQ combined with a 5% adverse currency move produces an approximate 24% loss in home-currency terms before option premium, fees, and tax.
+
 **The universal principle:** Before running a systematic monthly options strategy on TQQQ, confirm with a qualified tax advisor in your jurisdiction how premium income will be classified. The difference between capital gains treatment and income treatment can be 10-20 percentage points of effective tax rate - a meaningful drag on net returns.
 
 Ryan runs a simple tracker: gross premium collected, estimated tax at 24%, net after-tax income. He does not mentally spend the gross premium.
@@ -334,6 +344,8 @@ Ryan runs a simple tracker: gross premium collected, estimated tax at 24%, net a
 ---
 
 ## When This Works and When It Fails
+
+The traders most likely to use this strategy successfully are tactical rather than automatic. They wait for IV to be elevated relative to its recent range, keep the TQQQ options allocation to roughly 5-10% of the total account, manage challenged positions actively, and treat the strategy as speculative income rather than a core passive-income holding. Anyone unable to monitor positions during US market hours should size even more conservatively or avoid the strategy.
 
 In sideways markets with elevated volatility, this strategy is genuinely powerful. TQQQ moves without large directional trends, IV stays elevated, premiums are rich, and options expire worthless consistently. The Wheel generates income at every phase and rarely requires difficult management decisions.
 

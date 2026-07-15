@@ -208,9 +208,9 @@ Yes, but there's a process. You need to file Form 1040-NR and Form 1040-C to cla
 
 Before you finalize your setup, these tools can save you time and money:
 
-- **[Tax Map](/tax-map/)** - Compare Israel's treaty rates against other countries side by side.
-- **[Broker Finder](/broker-finder/)** - Find brokers that accept Israeli residents and support W-8BEN filing.
-- **[Broker Fee Calculator](/broker-calculator/)** - Calculate the real cost difference between IBKR, eToro, Saxo, and others - including FX conversion drag.
+- **[Tax Map](/resources/tax-map/)** - Compare Israel's treaty rates against other countries side by side.
+- **[Broker Finder](/resources/broker-finder/)** - Find brokers that accept Israeli residents and support W-8BEN filing.
+- **[Broker Fee Calculator](/resources/broker-calculator/)** - Calculate the real cost difference between IBKR, eToro, Saxo, and others - including FX conversion drag.
 
 ---
 

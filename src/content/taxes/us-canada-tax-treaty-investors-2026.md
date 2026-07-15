@@ -274,7 +274,7 @@ File W-8BEN with your broker. Renew it before it expires. Hold US dividend asset
 
 ---
 
-For a side-by-side comparison of rates across major US treaties, see our [tax map](/tax-map/) or compare the [US-Australia](/taxes/us-australia-tax-treaty-investors/) and Canada treaties directly. While both Commonwealth countries enjoy US capital gains tax exemption (residence-only taxation) and similar 15% dividend rates, Canada's RRSP exemption (0% withholding) and 15% interest rate differ from Australia's super treatment (15% floor) and 10% interest rate.
+For a side-by-side comparison of rates across major US treaties, see our [tax map](/resources/tax-map/) or compare the [US-Australia](/taxes/us-australia-tax-treaty-investors/) and Canada treaties directly. While both Commonwealth countries enjoy US capital gains tax exemption (residence-only taxation) and similar 15% dividend rates, Canada's RRSP exemption (0% withholding) and 15% interest rate differ from Australia's super treatment (15% floor) and 10% interest rate.
 
 ---
 

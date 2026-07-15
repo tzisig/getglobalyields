@@ -137,7 +137,7 @@ The approach: instead of hedging a 100% TQQQ position, size the position so that
 If you can tolerate a 20% portfolio drawdown in the worst case, and TQQQ can lose 81%, then TQQQ should represent no more than 20/81 = 24.7% of your portfolio. The rest sits in cash, bonds, or non-correlated assets.
 
 A portfolio of 25% TQQQ / 75% cash or short-term Treasuries:
-- In a 2022-style drawdown: loses approximately 20% (25% ֳ— 81%)
+- In a 2022-style drawdown: loses approximately 20% (25% × 81%)
 - In a 2023-style recovery: TQQQ returned approximately 240%, contributing 60% portfolio return
 - Cash/Treasuries earning 4-5% in 2023-2024: add another 3-4%
 - Total portfolio return in a strong TQQQ year: approximately 63-64%
@@ -176,7 +176,7 @@ For the [Wheel Strategy on TQQQ](/options-income/wheel-strategy-tqqq/), see how 
 
 **Position sizing:** The most underrated risk management tool for TQQQ. It costs nothing, requires no options knowledge, and structurally limits your worst-case outcome. The tradeoff is that it requires accepting you're not going to "hedge" your way to holding 100% TQQQ safely - because there is no cost-effective way to do that.
 
-Use the [Broker Finder](/broker-finder/) and [Broker Calculator](/broker-calculator/) to compare brokers that support options trading for non-US residents.
+Use the [Broker Finder](/resources/broker-finder/) and [Broker Calculator](/resources/broker-calculator/) to compare brokers that support options trading for non-US residents.
 
 ---
 

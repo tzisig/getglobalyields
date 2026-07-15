@@ -242,7 +242,7 @@ Stop overthinking the stock selection and get the structure right first. Three d
 
 **W-8BEN:** File it. Renew it every three years. Do it today if you are not sure it is on file.
 
-**Broker:** Use our [Broker Finder](/broker-finder/) to find the right Canadian broker for your needs. For FX optimization, read our [Multi-Currency Investment Accounts](/us-investing/multi-currency-investment-accounts/) guide.
+**Broker:** Use our [Broker Finder](/resources/broker-finder/) to find the right Canadian broker for your needs. For FX optimization, read our [Multi-Currency Investment Accounts](/us-investing/multi-currency-investment-accounts/) guide.
 
 **Currency:** For under $20,000 in US stocks, the FX fee is a minor cost of doing business. Above that, Norbert's Gambit at Questrade or a switch to Interactive Brokers saves real money every year.
 

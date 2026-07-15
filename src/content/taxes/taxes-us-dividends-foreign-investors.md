@@ -95,7 +95,7 @@ The withholding agent - your broker, the dividend-paying company, or the fund ad
 
 This is where most guides get incomplete. Under US domestic law - with no treaty required - three categories of distributions from US Regulated Investment Companies (RICs, which includes most US-domiciled ETFs and mutual funds) are exempt from withholding when paid to NRAs.
 
-### 1. Interest-Related Dividends (IRC ֲ§871(k)(1))
+### 1. Interest-Related Dividends (IRC §871(k)(1))
 
 A US ETF or mutual fund that holds bonds passes through its interest income to investors as dividends. Under IRC Section 871(k)(1), those dividends - to the extent they represent interest income that would itself be exempt if paid directly to the NRA - are not subject to the 30% withholding.
 
@@ -103,11 +103,11 @@ In practice: if you hold a US bond ETF such as a Treasury or aggregate bond fund
 
 Important caveat: Brokers do not always apply this exemption correctly. Some withhold 30% on the entire distribution and leave it to the investor to file for a refund. If you hold US bond ETFs, check your Form 1042-S to see whether withholding was applied to interest-related dividends. If it was, you may be entitled to a refund via Form 1040-NR.
 
-### 2. Short-Term Capital Gain Dividends (IRC ֲ§871(k)(2))
+### 2. Short-Term Capital Gain Dividends (IRC §871(k)(2))
 
 When a US ETF or mutual fund realizes net short-term capital gains and distributes them to shareholders, those distributions are designated as short-term capital gain dividends. Under IRC Section 871(k)(2), these are also exempt from NRA withholding - because the underlying income (short-term capital gains) would itself be exempt from US tax if the NRA had realized it directly.
 
-Note: This exemption does not apply to NRAs who are present in the US for 183 days or more in the tax year (a separate, narrower substantial presence rule under IRC ֲ§871(a)(2)).
+Note: This exemption does not apply to NRAs who are present in the US for 183 days or more in the tax year (a separate, narrower substantial presence rule under IRC §871(a)(2)).
 
 ### 3. Long-Term Capital Gain Distributions from RICs
 
@@ -193,7 +193,7 @@ The regular quarterly distributions that most REITs pay - representing their ren
 
 When a REIT sells a property at a gain and distributes that gain to shareholders, those distributions are classified as capital gain distributions. For NRAs, these are not simple capital gains - they trigger FIRPTA (Foreign Investment in Real Property Tax Act).
 
-Under FIRPTA (IRC ֲ§897), gains from the disposition of US real property interests are treated as Effectively Connected Income (ECI) for foreign investors, subject to US net-basis taxation at graduated rates - not the flat 30% FDAP rate. The REIT (or the broker) is required to withhold 21% of the gain recognized on the distribution.
+Under FIRPTA (IRC §897), gains from the disposition of US real property interests are treated as Effectively Connected Income (ECI) for foreign investors, subject to US net-basis taxation at graduated rates - not the flat 30% FDAP rate. The REIT (or the broker) is required to withhold 21% of the gain recognized on the distribution.
 
 This withholding rate is different from the 30% FDAP rate and is not reducible by a standard tax treaty. The investor must file a US tax return (Form 1040-NR) to reconcile the final tax owed.
 
@@ -259,7 +259,7 @@ One of the most investor-friendly features of the US tax system for NRAs is the 
 
 If you are a foreign investor who buys and sells US stocks through a brokerage account, the gains you realize are generally not subject to US tax. There is no withholding on sale proceeds (beyond the normal dividend withholding on distributions received while you held the stock), and you do not need to file a US return just because you sold US shares at a profit.
 
-This exemption applies as long as you are not trading as a US trade or business, and as long as you are not present in the US for 183 or more days in the tax year (which would make capital gains taxable under IRC ֲ§871(a)(2)).
+This exemption applies as long as you are not trading as a US trade or business, and as long as you are not present in the US for 183 or more days in the tax year (which would make capital gains taxable under IRC §871(a)(2)).
 
 **The major exception: FIRPTA.** If you sell US real estate, or shares in a corporation where more than 50% of the fair market value of assets consists of US real property (a US Real Property Holding Corporation), the gain is treated as ECI and subject to US tax. The buyer is required to withhold 15% of the gross sale price (not 15% of the gain - 15% of the full price), which is then reconciled against the actual tax owed when the investor files Form 1040-NR.
 
@@ -275,7 +275,7 @@ For publicly traded US REITs, the FIRPTA exemption for domestically controlled e
 
 **Assuming the treaty rate covers all REIT distributions.** It covers ordinary dividends. Capital gain distributions from REITs are subject to FIRPTA rules, not the standard dividend withholding framework.
 
-**Missing the interest-related dividend exemption.** If you hold US bond ETFs, a portion of your distributions may be exempt from withholding under IRC ֲ§871(k). Some brokers do not apply this correctly. Check your Form 1042-S against what was withheld.
+**Missing the interest-related dividend exemption.** If you hold US bond ETFs, a portion of your distributions may be exempt from withholding under IRC §871(k). Some brokers do not apply this correctly. Check your Form 1042-S against what was withheld.
 
 **Not filing Form 1040-NR to reclaim excess withholding.** If you have been receiving 30% withholding on income that should have been taxed at 15% or 0%, you can reclaim the overpaid amount - but only for the most recent three years. Investors who do not file lose this money permanently.
 
@@ -287,7 +287,7 @@ For publicly traded US REITs, the FIRPTA exemption for domestically controlled e
 
 **Before your first dividend payment:**
 - [ ] Confirm your NRA status (not a US citizen, green card holder, or substantial presence test passer)
-- [ ] Check whether your country has a US tax treaty and what the dividend rate is — use the [Tax Map](/tax-map/) for a quick overview
+- [ ] Check whether your country has a US tax treaty and what the dividend rate is — use the [Tax Map](/resources/tax-map/) for a quick overview
 - [ ] Complete Form [W-8BEN](/taxes/w8ben-form-non-us-investors/) and submit it to your broker
 - [ ] On Line 9, cite the correct treaty article and reduced rate (for most European investors: 15%, Article 10 of the relevant treaty)
 - [ ] Choose a [broker that handles treaty documentation correctly](/best-brokers/best-brokers-international-investors-2026/) for your country
@@ -320,8 +320,8 @@ For publicly traded US REITs, the FIRPTA exemption for domestically controlled e
 | Japan | 10% |
 | Israel | 25% (portfolio) / 12.5% (10%+ corporate) |
 | India | 25% (portfolio) / 15% (direct corporate) |
-| Interest-related dividends from US ETFs/funds (IRC ֲ§871(k)(1)) | 0% |
-| Short-term capital gain dividends from US ETFs/funds (IRC ֲ§871(k)(2)) | 0% |
+| Interest-related dividends from US ETFs/funds (IRC §871(k)(1)) | 0% |
+| Short-term capital gain dividends from US ETFs/funds (IRC §871(k)(2)) | 0% |
 | Long-term capital gain distributions from US ETFs/funds | 0% |
 | Capital gains from selling US stocks (non-real estate) | 0% |
 | Ordinary REIT dividends | 30% or treaty rate |
@@ -336,14 +336,14 @@ The 30% default is a starting point, not a ceiling and not always a floor. Under
 
 Before you invest, it helps to know exactly where you stand:
 
-- **[Tax Map](/tax-map/)** - See your country's treaty rate, dividend withholding, and capital gains treatment at a glance.
-- **[Broker Finder](/broker-finder/)** - Find the right broker for your country and investment style.
-- **[Broker Fee Calculator](/broker-calculator/)** - Compare the real cost of different brokers, including FX conversion and custody fees.
+- **[Tax Map](/resources/tax-map/)** - See your country's treaty rate, dividend withholding, and capital gains treatment at a glance.
+- **[Broker Finder](/resources/broker-finder/)** - Find the right broker for your country and investment style.
+- **[Broker Fee Calculator](/resources/broker-calculator/)** - Compare the real cost of different brokers, including FX conversion and custody fees.
 
 ---
 
 *This article is informational only and does not constitute tax or legal advice. Rates and rules are based on IRC Section 871, IRS Publication 515 (2026 edition), IRS Treaty Tables (updated February 23, 2026), and individual treaty texts as published by the US Treasury and IRS. Tax rules change. Consult a qualified cross-border tax professional for advice specific to your situation.*
 
-*Sources: IRC ֲ§871(a), ֲ§871(k)(1), ֲ§871(k)(2), ֲ§897 (FIRPTA); IRS Publication 515 (2026); IRS Publication 519 (2025); IRS Tax Treaty Tables (IRS.gov, February 2026); PWC Tax Summaries - United States Corporate Withholding Taxes (March 2026); US-Israel Tax Treaty (IRS.gov/pub/irs-trty/israel.pdf); US-Japan Income Tax Convention and 2019 Protocol.*
+*Sources: IRC §871(a), §871(k)(1), §871(k)(2), §897 (FIRPTA); IRS Publication 515 (2026); IRS Publication 519 (2025); IRS Tax Treaty Tables (IRS.gov, February 2026); PWC Tax Summaries - United States Corporate Withholding Taxes (March 2026); US-Israel Tax Treaty (IRS.gov/pub/irs-trty/israel.pdf); US-Japan Income Tax Convention and 2019 Protocol.*
 
 - [US-Canada Tax Treaty for Investors]( /taxes/us-canada-tax-treaty-investors-2026 /)

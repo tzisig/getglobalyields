@@ -154,7 +154,7 @@ MEXEM is an introducing broker built on top of Interactive Brokers' infrastructu
 
 For most serious international options traders, Interactive Brokers remains the strongest all-around choice in 2026 - the market access, fee structure under tiered pricing, and platform depth are hard to match from abroad. tastytrade is the better tool if you're based in an eligible country and options are your primary focus. Saxo Bank earns a genuine recommendation for European and Middle East-based traders who want a well-regulated, non-US-domiciled broker with institutional-quality research.
 
-For standard international brokers, see our [Best Brokers for International Investors](/best-brokers/best-brokers-international-investors-2026/) guide and use the [Broker Finder](/broker-finder/) to find the right match.
+For standard international brokers, see our [Best Brokers for International Investors](/best-brokers/best-brokers-international-investors-2026/) guide and use the [Broker Finder](/resources/broker-finder/) to find the right match.
 
 The right answer depends on where you live, how actively you trade, and which markets you need access to. No single broker wins across all three dimensions simultaneously.
 

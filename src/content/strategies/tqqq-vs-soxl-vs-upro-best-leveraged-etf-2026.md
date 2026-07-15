@@ -184,7 +184,7 @@ The practical implication: holding two or three leveraged ETFs does not build a 
 
 ---
 
-Also see our [QQQ 225-Day Moving Average Strategy](/strategies/tqqq-qqq-225-day-moving-average-strategy/) for timing entries, [How to Hedge TQQQ](/strategies/how-to-hedge-tqqq/) for protection strategies, and [Analyzing the Long-Term Outlook](/strategies/analyzing-long-term-outlook-holding-tqqq/) for deeper analysis.
+Also see our [QQQ 225-Day Moving Average Strategy](/strategies/tqqq-qqq-225-day-moving-average-strategy/) for timing entries, [How to Hedge TQQQ](/strategies/how-to-hedge-tqqq/) for protection strategies, and [Analyzing the Long-Term Outlook](/strategies/tqqq-long-term-outlook/) for deeper analysis.
 
 ## Who Each Fund Is Actually For
 

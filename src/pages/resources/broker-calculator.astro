@@ -1,8 +1,8 @@
 ﻿---
-import BaseLayout from '../layouts/BaseLayout.astro';
+import BaseLayout from '../../layouts/BaseLayout.astro';
 ---
 
-<BaseLayout title="The Wrong Broker Cost Calculator � Get Global Yields">
+<BaseLayout title="The Wrong Broker Cost Calculator — Get Global Yields" description="Estimate how much broker fees may reduce your invested capital over time, compare two fee rates, and see the potential savings from switching providers.">
   <section class="w-full px-4 pt-10 pb-14 sm:px-6 sm:pt-12 sm:pb-16 lg:px-8 lg:pt-14 lg:pb-20">
     <div class="broker-calculator-container">
       <div class="header">
@@ -12,7 +12,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
           </svg>
         </div>
         <h1>The <span>Wrong Broker</span> Cost Calculator</h1>
-        <p>See how much hidden fees are really costing you � and what you could save by switching to a better broker.</p>
+        <p>See how much hidden fees are really costing you — and what you could save by switching to a better broker.</p>
       </div>
 
       <div class="form-grid" id="form-grid">
@@ -185,7 +185,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
                 tension: 0.1,
               },
               {
-                label: 'Balance � Better Broker',
+                label: 'Balance — Better Broker',
                 data: betterData,
                 borderColor: '#22c55e',
                 backgroundColor: 'rgba(34, 197, 94, 0.08)',
@@ -198,7 +198,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
                 tension: 0.2,
               },
               {
-                label: 'Balance � Current Broker',
+                label: 'Balance — Current Broker',
                 data: currentData,
                 borderColor: '#ef4444',
                 backgroundColor: 'rgba(239, 68, 68, 0.06)',

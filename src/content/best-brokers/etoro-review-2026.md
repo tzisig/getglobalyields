@@ -288,7 +288,7 @@ eToro is available in Canada but with some restrictions. Options and CFDs may no
 | Platform complexity | Very easy | Complex | Easy | Moderate |
 | Best for | Beginners, copy trading | All-around, FX | Beginners | Options traders |
 
-For a full comparison, see our [Best Brokers for International Investors](/best-brokers/best-brokers-international-investors-2026/) guide and [Broker Finder](/broker-finder/) tool.
+For a full comparison, see our [Best Brokers for International Investors](/best-brokers/best-brokers-international-investors-2026/) guide and [Broker Finder](/resources/broker-finder/) tool.
 
 <!-- ADSENSE-LEADERBOARD-728x90-2 -->
 

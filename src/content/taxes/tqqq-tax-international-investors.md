@@ -44,7 +44,7 @@ TQQQ is widely discussed for its high returns potential. But most tax guides are
 
 For international investors, the tax picture is different - and in some ways, more efficient.
 
-**נ‘‰ I personally used TQQQ (with options) during a recovery after a 70% drawdown.** [Full case study here.](/case-study/from-minus-70-to-plus-492k-real-tqqq-recovery-case-study/)
+**  I personally used TQQQ (with options) during a recovery after a 70% drawdown.** [Full case study here.](/case-study/from-minus-70-to-plus-492k-real-tqqq-recovery-case-study/)
 
 This guide breaks down exactly how TQQQ is taxed for non-US investors:
 
@@ -53,7 +53,7 @@ This guide breaks down exactly how TQQQ is taxed for non-US investors:
 - Options income
 - Hidden risks most people ignore
 
-_ג ן¸ Important Disclaimer: Tax rules vary by country and individual circumstances. This guide is for educational purposes only - always verify with a qualified tax advisor in your jurisdiction._
+_⚠️ Important Disclaimer: Tax rules vary by country and individual circumstances. This guide is for educational purposes only - always verify with a qualified tax advisor in your jurisdiction._
 
 ## **What Kind of Income Does TQQQ Generate?**
 
@@ -92,8 +92,8 @@ _Because TQQQ's yield is low, the actual dollar impact is small even at 25%._
 Example:
 
 - $50,000 position
-- 0.5% yield ג†’ $250 income
-- 25% tax ג†’ $62.50 withheld
+- 0.5% yield → $250 income
+- 25% tax → $62.50 withheld
 
 ### **Capital Gains: No US Withholding**
 
@@ -115,7 +115,7 @@ _You are responsible for taxes in your home country._
 
 Example:
 
-- Buy at $40 ג†’ sell at $100
+- Buy at $40 → sell at $100
 - Gain: $60 per share
 - Tax: $15 | Net: $45
 
@@ -123,7 +123,7 @@ Example:
 
 - 50% of gains are included in taxable income at your marginal rate
 
-_ג ן¸ Effective rate varies widely by income bracket - consult a [Canadian](/taxes/us-canada-tax-treaty-investors-2026/) tax advisor for your specific situation._
+_⚠️ Effective rate varies widely by income bracket - consult a [Canadian](/taxes/us-canada-tax-treaty-investors-2026/) tax advisor for your specific situation._
 
 ### **Australia**
 
@@ -142,7 +142,7 @@ Key points:
 - Tax rates: up to 40%
 - Applies upon death - not on trading
 
-_ג ן¸ Verify the current threshold - this is subject to change based on US tax legislation._
+_⚠️ Verify the current threshold - this is subject to change based on US tax legislation._
 
 This does not affect trading - but it matters for long-term holders. If you plan to hold large US positions long-term, this risk should not be ignored.
 
@@ -170,7 +170,7 @@ However:
 - Tax treatment varies by country
 - Frequent trading increases taxable events locally
 
-_נ‘‰ Bottom line: Efficient structure - but requires tracking and discipline._
+_  Bottom line: Efficient structure - but requires tracking and discipline._
 
 ## **Practical Tax Reporting**
 
@@ -178,8 +178,8 @@ If you use a US broker, you'll typically receive:
 
 ### **Key Documents**
 
-- Form 1042-S ג†’ US income + tax withheld
-- Annual statement ג†’ all activity
+- Form 1042-S → US income + tax withheld
+- Annual statement → all activity
 - Trade confirmations
 
 ### **What You Report**
@@ -190,11 +190,11 @@ If you use a US broker, you'll typically receive:
 
 ## **Common Mistakes to Avoid**
 
-- Not submitting W-8BEN ג†’ 30% withholding instead of treaty rate
+- Not submitting W-8BEN → 30% withholding instead of treaty rate
 - Ignoring cost basis tracking
 - Missing capital gain distributions
 - Assuming all tax rules are identical across countries
-- Overtrading ג†’ increases local tax burden
+- Overtrading → increases local tax burden
 
 ## **Choosing the Right Broker**
 
@@ -205,7 +205,7 @@ Execution matters more than most people think. You need:
 - Low fees
 - Reliable tax documents
 
-**נ‘‰ We recommend [IBKR](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/) for most non-US investors -** here's our full review.
+**  We recommend [IBKR](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/) for most non-US investors -** here's our full review.
 
 IBKR offers global access, strong reporting tools, and supports advanced strategies like options. For dedicated options traders, [tastytrade](/best-brokers/tastytrade-review-2026/) is also an excellent choice with competitive pricing on multi-leg option strategies.
 
@@ -213,9 +213,9 @@ IBKR offers global access, strong reporting tools, and supports advanced strateg
 
 Before you scale your TQQQ position, make sure your tax and broker setup is optimized:
 
-- **[Tax Map](/tax-map/)** - See how your country taxes US ETF dividends and capital gains, including the rates that apply to leveraged ETFs like TQQQ.
-- **[Broker Finder](/broker-finder/)** - Find brokers that accept investors from your country and give access to US-listed ETFs.
-- **[Broker Fee Calculator](/broker-calculator/)** - Compare the real cost of holding TQQQ through IBKR vs other platforms - FX, commissions, and cash interest included.
+- **[Tax Map](/resources/tax-map/)** - See how your country taxes US ETF dividends and capital gains, including the rates that apply to leveraged ETFs like TQQQ.
+- **[Broker Finder](/resources/broker-finder/)** - Find brokers that accept investors from your country and give access to US-listed ETFs.
+- **[Broker Fee Calculator](/resources/broker-calculator/)** - Compare the real cost of holding TQQQ through IBKR vs other platforms - FX, commissions, and cash interest included.
 
 ---
 
@@ -223,10 +223,10 @@ Before you scale your TQQQ position, make sure your tax and broker setup is opti
 
 From a tax perspective, TQQQ is relatively efficient for non-US investors.
 
-**Low dividend yield** ג†’ minimal withholding
+**Low dividend yield** → minimal withholding
 
-**No US capital gains tax** ג†’ profits taxed locally
+**No US capital gains tax** → profits taxed locally
 
-**נ‘‰ Tax doesn't disappear - it shifts. You're not avoiding tax. You're moving the obligation from the US to your home country. Used correctly, this is efficient. Used blindly, it creates problems.**
+**  Tax doesn't disappear - it shifts. You're not avoiding tax. You're moving the obligation from the US to your home country. Used correctly, this is efficient. Used blindly, it creates problems.**
 
 - [US-Canada Tax Treaty for Investors]( /taxes/us-canada-tax-treaty-investors-2026 /)

@@ -63,7 +63,7 @@ This is the section that does not exist in equivalent guides for UK, Australian,
 
 - **QDII funds (Qualified Domestic Institutional Investor):** Mainland-regulated funds that invest in overseas markets on behalf of domestic investors. These operate under an institutional FX quota separate from the personal $50,000 limit, and are the primary legal channel for most mainland residents seeking US market exposure without an offshore account.
 - **Hong Kong-listed ETFs and ADRs:** Indirect exposure to US and global equities through instruments listed on the Hong Kong Stock Exchange, typically accessible via Stock Connect or a Hong Kong brokerage relationship.
-- **An offshore account opened before the relationship existed, or via demonstrated overseas residency or employment:** For mainland residents who have lived, worked, or studied abroad, the documentation requirement is often satisfiable. Brokers such as Interactive Brokers and [Saxo Bank](/best-brokers/saxo-bank-review-2026/) are the two most commonly used by investors who qualify for direct access. Our [broker finder](/broker-finder/) tool can help identify which platforms currently accept applications matching your situation.
+- **An offshore account opened before the relationship existed, or via demonstrated overseas residency or employment:** For mainland residents who have lived, worked, or studied abroad, the documentation requirement is often satisfiable. Brokers such as Interactive Brokers and [Saxo Bank](/best-brokers/saxo-bank-review-2026/) are the two most commonly used by investors who qualify for direct access. Our [broker finder](/resources/broker-finder/) tool can help identify which platforms currently accept applications matching your situation.
 
 None of these pathways carry the same tax treatment as a direct US brokerage account, and the rest of this guide applies most directly to investors using direct access - whether through an existing account, demonstrated overseas ties, or a Hong Kong intermediary holding US-listed securities on their behalf. Where the pathway changes the tax answer, it is noted explicitly below.
 
@@ -207,7 +207,7 @@ Article 1 of the treaty preserves the saving clause: each country retains the ri
 
 ## How the US-China Treaty Compares to Other Major US Treaties
 
-For a full side-by-side comparison across every US treaty country, our [tax map](/tax-map/) tool visualizes all the rates below. The verified figures for this article's comparison set:
+For a full side-by-side comparison across every US treaty country, our [tax map](/resources/tax-map/) tool visualizes all the rates below. The verified figures for this article's comparison set:
 
 | Country | US Dividends (Portfolio) | Interest | Capital Gains | Direct Corporate Rate | Totalization Agreement |
 |---|---|---|---|---|---|

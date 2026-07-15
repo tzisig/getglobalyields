@@ -259,9 +259,9 @@ No.
 
 Once your W-8BEN is filed, the next step is making sure the rest of your setup is optimized:
 
-- **[Tax Map](/tax-map/)** - See how your country's treaty rate compares to others, and what rates apply across income types.
-- **[Broker Finder](/broker-finder/)** - Find which brokers handle W-8BEN correctly for your country of residence.
-- **[Broker Fee Calculator](/broker-calculator/)** - Run a side-by-side comparison of the real total cost across brokers - commissions, FX, and custody.
+- **[Tax Map](/resources/tax-map/)** - See how your country's treaty rate compares to others, and what rates apply across income types.
+- **[Broker Finder](/resources/broker-finder/)** - Find which brokers handle W-8BEN correctly for your country of residence.
+- **[Broker Fee Calculator](/resources/broker-calculator/)** - Run a side-by-side comparison of the real total cost across brokers - commissions, FX, and custody.
 
 ---
 

@@ -231,7 +231,7 @@ Cross-border investing is not categorically more difficult than single-jurisdict
 
 The investors who lose money on the cross-border complexity are almost never the ones who tried to understand it. They are the ones who assumed their domestic financial framework still applied, or who invested based on local advice without checking what that meant in their home country's tax code, or who stayed with a convenient broker rather than one built for international mobility.
 
-Get the compliance right first. Use our [Broker Finder](/broker-finder/) to find a broker that supports your jurisdiction, and review our [Multi-Currency Investment Accounts](/us-investing/multi-currency-investment-accounts/) guide for cross-border FX management. Choose structures that travel. Manage currency exposure with a plan rather than with hope. Use platforms that are actually designed for the way you live.
+Get the compliance right first. Use our [Broker Finder](/resources/broker-finder/) to find a broker that supports your jurisdiction, and review our [Multi-Currency Investment Accounts](/us-investing/multi-currency-investment-accounts/) guide for cross-border FX management. Choose structures that travel. Manage currency exposure with a plan rather than with hope. Use platforms that are actually designed for the way you live.
 
 Everything else - asset allocation, return optimization, yield maximization - works better on that foundation. The expats who build serious wealth across borders are not smarter or luckier than those who don't. They built the right infrastructure early, avoided the structural mistakes, and then let compounding do its job undisturbed.
 

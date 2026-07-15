@@ -259,7 +259,7 @@ Firstrade is a broker that does a narrow set of things very well. Zero-commissio
 
 The limits are just as real. A USD-only account, a $25 fee on every withdrawal, margin rates that make borrowing expensive, cash that earns almost nothing, and customer service that multiple independent reviewers consistently rate as slow. For the right investor - passive, US-focused, low-activity, no leverage - none of those limits bite hard. For anyone else, they compound.
 
-The honest summary: Firstrade is a specialist tool. For a full side-by-side of all brokers available to international investors, see our [best brokers for international investors 2026](/best-brokers/best-brokers-international-investors-2026/) guide and use the [Broker Finder](/broker-finder/) tool. Used for what it's good at, it's excellent value. Used as a general-purpose broker for an international investor with complex needs, it will frustrate you.
+The honest summary: Firstrade is a specialist tool. For a full side-by-side of all brokers available to international investors, see our [best brokers for international investors 2026](/best-brokers/best-brokers-international-investors-2026/) guide and use the [Broker Finder](/resources/broker-finder/) tool. Used for what it's good at, it's excellent value. Used as a general-purpose broker for an international investor with complex needs, it will frustrate you.
 
 **Rating: 4.0 / 5**
 

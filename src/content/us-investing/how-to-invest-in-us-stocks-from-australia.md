@@ -202,7 +202,7 @@ If you are contributing $2,000 per month or more - or moving a lump sum above $3
 
 Every dollar saved on FX and commissions is a dollar that compounds in your portfolio instead.
 
-Use our [Broker Finder](/broker-finder/) to compare brokers that serve Australian investors. Over a decade, that distinction is the difference between a good outcome and a great one.
+Use our [Broker Finder](/resources/broker-finder/) to compare brokers that serve Australian investors. Over a decade, that distinction is the difference between a good outcome and a great one.
 
 ---
 

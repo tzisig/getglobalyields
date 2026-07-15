@@ -66,7 +66,7 @@ The core issue is asymmetric compounding. When a fund drops 10% and then rises 1
 - QQQ falls 5%: TQQQ falls 15%
 - QQQ rises 5% the next day: TQQQ rises 15%
 - QQQ is back to roughly where it started
-- TQQQ: $100 ג†’ $85 ג†’ $97.75
+- TQQQ: $100 → $85 → $97.75
 
 One round trip in a flat market and TQQQ is down 2.25% while QQQ is approximately flat. Repeat that pattern across hundreds of trading days in a choppy year and the damage compounds into a meaningful drag.
 
@@ -218,7 +218,7 @@ Non-US investors in some jurisdictions have access to UCITS-compliant leveraged 
 
 ## Who Should Hold TQQQ
 
-**TQQQ may make sense as a satellite position if:** Use the [Broker Finder](/broker-finder/) and [Broker Calculator](/broker-calculator/) to find a broker that supports your country and trading needs.
+**TQQQ may make sense as a satellite position if:** Use the [Broker Finder](/resources/broker-finder/) and [Broker Calculator](/resources/broker-calculator/) to find a broker that supports your country and trading needs.
 - You understand the daily rebalancing mechanics and volatility decay deeply - not just conceptually
 - You can genuinely hold through an 80% drawdown without selling
 - The position is sized so that a near-total loss would not threaten your financial plan

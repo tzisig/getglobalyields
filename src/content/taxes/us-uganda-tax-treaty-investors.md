@@ -50,9 +50,9 @@ In this upcoming guide, we will explore:
 - **Broker Access**: Which brokers accept Ugandan residents and provide reliable US market access - our [Interactive Brokers review](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/) covers the platform most non-treaty-country investors end up using, alongside broker options we cover for [Israeli investors](/taxes/best-broker-israeli-investors-us-markets/) facing similar cross-border considerations.
 
 **In the meantime, these tools can help you plan:**
-- **[Tax Map](/tax-map/)** - see exactly how your country of residence taxes US dividends and capital gains.
-- **[Broker Finder](/broker-finder/)** - find brokers that accept investors from Uganda and provide US market access.
-- **[Broker Fee Calculator](/broker-calculator/)** - compare real costs (FX, commissions, cash interest) across platforms before you commit.
+- **[Tax Map](/resources/tax-map/)** - see exactly how your country of residence taxes US dividends and capital gains.
+- **[Broker Finder](/resources/broker-finder/)** - find brokers that accept investors from Uganda and provide US market access.
+- **[Broker Fee Calculator](/resources/broker-calculator/)** - compare real costs (FX, commissions, cash interest) across platforms before you commit.
 
 Stay tuned!
 

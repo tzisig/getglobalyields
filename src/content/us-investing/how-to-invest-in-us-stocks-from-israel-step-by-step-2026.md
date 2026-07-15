@@ -63,7 +63,7 @@ The first decision is which US broker to use. As an Israeli investor, your optio
 
 **[Firstrade](/best-brokers/firstrade-review-2026/):** A good starting point for beginners. Zero commissions across the board and a simpler interface.
 
-Use our [Broker Finder](/broker-finder/) to compare brokers that accept Israeli clients.
+Use our [Broker Finder](/resources/broker-finder/) to compare brokers that accept Israeli clients.
 
 For most Israeli investors, Interactive Brokers is the default recommendation due to its ILS-to-USD conversion rates, which are significantly better than any Israeli bank.
 

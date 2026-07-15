@@ -52,13 +52,13 @@ If you are a Bulgarian tax resident investing in US stocks and you have never fi
 
 On a $40,000 US equity position yielding 2%, the difference between 30% and 10% withholding is $160 per year. Compounded over a decade of regular investing, that is real money - and it disappears permanently because Bulgaria's foreign tax credit mechanism only gives you credit for taxes you were actually obligated to pay under the treaty, not for excess withholding you failed to prevent.
 
-The fix is straightforward: file W-8BEN with your broker and claim the treaty rate. But there is more to the Bulgaria picture than the form. The Art. 13(1)(3) ZDDFL exemption on capital gains, the 5% Bulgarian dividend tax on US-source dividends, and the interaction between US withholding and Bulgaria's foreign tax credit all shape what you actually keep - and a few of the Bulgaria-specific terms below (ZDDFL, EOOD, prײ³ֲ©compte-style withholding logic) are worth a quick look in our [glossary](/resources/glossary/) if they're unfamiliar. This guide works through each of them.
+The fix is straightforward: file W-8BEN with your broker and claim the treaty rate. But there is more to the Bulgaria picture than the form. The Art. 13(1)(3) ZDDFL exemption on capital gains, the 5% Bulgarian dividend tax on US-source dividends, and the interaction between US withholding and Bulgaria's foreign tax credit all shape what you actually keep - and a few of the Bulgaria-specific terms below (ZDDFL, EOOD, précompte-style withholding logic) are worth a quick look in our [glossary](/resources/glossary/) if they're unfamiliar. This guide works through each of them.
 
 ---
 
 **Meet Elena Georgieva.** Elena is 38, a software architect in Sofia, and has been investing in US ETFs and individual tech stocks through an [IBKR](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/) account for three years. She filed W-8BEN when she opened the account - correctly. What she has not done is claim the Art. 13(1)(3) ZDDFL exemption on her capital gains from EU-regulated market disposals. She also does not know whether her US dividends are subject to 5% Bulgarian tax on top of the 10% US withholding - or whether the foreign tax credit covers the full 10%.
 
-Elena's situation covers the most common questions Bulgarian investors have. If you want to see how your own situation compares, our [investor profiles](/investor-profiles/) tool walks through similar scenarios by country and account type. This guide answers them.
+Elena's situation covers the most common questions Bulgarian investors have. If you want to see how your own situation compares, our [investor profiles](/resources/investor-profiles/) tool walks through similar scenarios by country and account type. This guide answers them.
 
 ---
 
@@ -76,7 +76,7 @@ The Convention between the United States of America and the Republic of Bulgaria
 
 *Sources: US-Bulgaria Tax Treaty (February 23, 2007, force December 15, 2008); Innovires Legal 2026; TaxRavens Bulgaria 2026; IRS Technical Explanation of the Bulgaria Convention.*
 
-The treaty's most important feature for individual investors in US stocks is the combination of the 10% US withholding cap on dividends and zero US withholding on capital gains. Bulgaria then taxes both - but the foreign tax credit prevents most double taxation on dividends. For a visual comparison across all US treaty countries, our [tax map](/tax-map/) tool lays out the rates side by side.
+The treaty's most important feature for individual investors in US stocks is the combination of the 10% US withholding cap on dividends and zero US withholding on capital gains. Bulgaria then taxes both - but the foreign tax credit prevents most double taxation on dividends. For a visual comparison across all US treaty countries, our [tax map](/resources/tax-map/) tool lays out the rates side by side.
 
 ---
 
@@ -141,7 +141,7 @@ Form W-8BEN is the IRS's Certificate of Foreign Status for Beneficial Owners. Fi
 
 ### How to file
 
-Most US brokers - IBKR, Firstrade, [Saxo Bank](/best-brokers/saxo-bank-review-2026/) - include W-8BEN completion in the account opening process for non-US clients. If you haven't picked a broker yet, our [broker finder](/broker-finder/) tool can match you to platforms that serve Bulgarian residents, our [broker cost calculator](/broker-calculator/) compares fees across them, and our guide to [opening a US brokerage account as a non-resident](/best-brokers/how-to-open-a-us-brokerage-account-as-a-non-resident-2026-guide/) walks through the process. If you opened an account without completing it, you can file it through the broker's document centre or by contacting support. The form asks for your name, country of residence, tax identification number (Bulgarian personal number - EGN or LNCH), and the treaty article you are claiming.
+Most US brokers - IBKR, Firstrade, [Saxo Bank](/best-brokers/saxo-bank-review-2026/) - include W-8BEN completion in the account opening process for non-US clients. If you haven't picked a broker yet, our [broker finder](/resources/broker-finder/) tool can match you to platforms that serve Bulgarian residents, our [broker cost calculator](/resources/broker-calculator/) compares fees across them, and our guide to [opening a US brokerage account as a non-resident](/best-brokers/how-to-open-a-us-brokerage-account-as-a-non-resident-2026-guide/) walks through the process. If you opened an account without completing it, you can file it through the broker's document centre or by contacting support. The form asks for your name, country of residence, tax identification number (Bulgarian personal number - EGN or LNCH), and the treaty article you are claiming.
 
 For Bulgarian residents claiming the reduced 10% dividend rate, you reference Article 10 of the US-Bulgaria treaty. The current W-8BEN form and instructions are published by the IRS at irs.gov/forms-pubs/about-form-w-8-ben - it is worth checking this directly before filing, since the form is periodically revised and broker-provided versions can lag behind the latest IRS release.
 
@@ -181,11 +181,11 @@ Where the exemption does apply for investors with mixed portfolios: disposals of
 
 **Worked example - two disposals, same year:**
 
-Elena realizes two capital gains in 2026: a $10,000 gain selling a NASDAQ-listed tech stock she has held for four years, and a ׳’ג€ֲ¬10,000 gain selling shares in an Euronext-listed ETF she has held for three years.
+Elena realizes two capital gains in 2026: a $10,000 gain selling a NASDAQ-listed tech stock she has held for four years, and a €10,000 gain selling shares in an Euronext-listed ETF she has held for three years.
 
 | | NASDAQ disposal | Euronext disposal |
 |---|---|---|
-| Gross gain | $10,000 | ׳’ג€ֲ¬10,000 |
+| Gross gain | $10,000 | €10,000 |
 | Market type | US exchange | EU-regulated market |
 | Holding period | 4 years | 3 years (over 24 months) |
 | Conservative treatment | Taxable | Exempt under Art. 13(1)(3) |
@@ -194,7 +194,7 @@ Elena realizes two capital gains in 2026: a $10,000 gain selling a NASDAQ-listed
 | Bulgarian tax at 10% | $900 | $0 |
 | Effective rate on gross gain | 9% | 0% |
 
-On the conservative reading used throughout this guide, the NASDAQ gain costs Elena $900 in Bulgarian tax (effectively 9% of the gross gain), while the Euronext gain - held past the 24-month mark on an EU-regulated market - is fully exempt under Art. 13(1)(3), regardless of size. The entire ׳’ג€ֲ¬10,000 is hers. For a real-world look at how multi-year holding periods play out for US-listed positions, see our [TQQQ recovery case study](/case-study/from-minus-70-to-plus-492k-real-tqqq-recovery-case-study/).
+On the conservative reading used throughout this guide, the NASDAQ gain costs Elena $900 in Bulgarian tax (effectively 9% of the gross gain), while the Euronext gain - held past the 24-month mark on an EU-regulated market - is fully exempt under Art. 13(1)(3), regardless of size. The entire €10,000 is hers. For a real-world look at how multi-year holding periods play out for US-listed positions, see our [TQQQ recovery case study](/case-study/from-minus-70-to-plus-492k-real-tqqq-recovery-case-study/).
 
 If a Bulgarian tax advisor confirms that the third-country equivalence extension does apply to Elena's NASDAQ disposal, the $900 would not be owed either. Until that is confirmed for her specific situation, planning around the $900 liability is the safer assumption.
 

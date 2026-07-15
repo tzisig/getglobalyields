@@ -634,7 +634,7 @@ But if you're an Israeli investor who takes their portfolio seriously, wants rea
 
 ---
 
-For a full comparison of all major international brokers, see our [Best Brokers for International Investors](/best-brokers/best-brokers-international-investors-2026/) guide. Use the [Broker Finder](/broker-finder/) to find the right broker for your country.
+For a full comparison of all major international brokers, see our [Best Brokers for International Investors](/best-brokers/best-brokers-international-investors-2026/) guide. Use the [Broker Finder](/resources/broker-finder/) to find the right broker for your country.
 
 ---
 

@@ -245,7 +245,7 @@ Non-US residents holding US-domiciled assets above approximately $60,000 are sub
 
 UK investors are genuinely well-positioned to own US stocks. The ISA and SIPP wrappers eliminate UK tax on investments held within them, the US-UK treaty cuts withholding to 15% in an ISA and 0% in a SIPP, and the broker options are competitive and well-regulated.
 
-The main things to get right: file your W-8BEN, use our [Broker Finder](/broker-finder/) to compare UK-accessible brokers, and review our [Multi-Currency Investment Accounts](/us-investing/multi-currency-investment-accounts/) guide for FX optimization, think carefully about which account type suits each type of US position, use your annual ISA and CGT allowances actively, and understand the US estate tax risk before you build a large position.
+The main things to get right: file your W-8BEN, use our [Broker Finder](/resources/broker-finder/) to compare UK-accessible brokers, and review our [Multi-Currency Investment Accounts](/us-investing/multi-currency-investment-accounts/) guide for FX optimization, think carefully about which account type suits each type of US position, use your annual ISA and CGT allowances actively, and understand the US estate tax risk before you build a large position.
 
 For most UK investors, a combination of ISA for growth-focused US positions and SIPP for income-focused ones - with IBKR for serious long-term investing or Trading 212 for simpler needs - covers the full picture efficiently.
 

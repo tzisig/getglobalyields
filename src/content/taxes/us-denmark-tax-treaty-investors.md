@@ -53,7 +53,7 @@ This guide works through the treaty mechanics, the W-8BEN process, Denmark's akt
 
 **Meet Kasper Holm.** Kasper is 41, an IT consultant in Aarhus, and has held a [Saxo Bank](/best-brokers/saxo-bank-review-2026/) trading account for five years. He invests in a mix of individual US tech stocks and a Positivliste-approved US equity ETF, split between a regular account (frie midler) and his aktiesparekonto, which he maxed out two years ago. Kasper filed W-8BEN when he opened the account, so his dividends arrive at the 15% treaty rate. What Kasper has not thought through is whether holding the same ETF inside the ASK versus the regular account actually saves him money once dividends and the 27%/42% aktieindkomst brackets are factored in - and what would happen to his tax position if he ever took a US-based contract and became a US tax resident while still holding the ASK.
 
-Kasper's situation is where this guide starts. Our [investor profiles](/investor-profiles/) tool covers similar scenarios if you want to compare your own.
+Kasper's situation is where this guide starts. Our [investor profiles](/resources/investor-profiles/) tool covers similar scenarios if you want to compare your own.
 
 ---
 
@@ -107,7 +107,7 @@ Danish brokers and the international platforms commonly used by Danish investors
 - **[Interactive Brokers](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/):** W-8BEN collected at account opening; generally reliable at applying the correct reduced rate.
 - **Danske Bank / Nordea (brokerage divisions):** W-8BEN required for US equity access; typically handled as part of account setup documentation.
 
-Check your dividend statement to confirm which rate is being applied. A 30% deduction means no valid W-8BEN is on file. A 15% deduction confirms the treaty rate is in effect. If you haven't settled on a broker yet, our [broker finder](/broker-finder/) tool and guide to [opening a US brokerage account as a non-resident](/best-brokers/how-to-open-a-us-brokerage-account-as-a-non-resident-2026-guide/) cover the setup process.
+Check your dividend statement to confirm which rate is being applied. A 30% deduction means no valid W-8BEN is on file. A 15% deduction confirms the treaty rate is in effect. If you haven't settled on a broker yet, our [broker finder](/resources/broker-finder/) tool and guide to [opening a US brokerage account as a non-resident](/best-brokers/how-to-open-a-us-brokerage-account-as-a-non-resident-2026-guide/) cover the setup process.
 
 **W-8BEN expires after three calendar years** from the date of signing. A form signed in 2024 expires at the end of 2027. Brokers revert to 30% withholding automatically on expiry, and not all platforms send reminders. Set a calendar reminder of your own.
 
@@ -235,7 +235,7 @@ Danish tax residents must report worldwide income, including US-source dividends
 
 ## How the US-Denmark Treaty Compares to Other Major US Treaties
 
-For a full side-by-side view across every US treaty country, our [tax map](/tax-map/) tool visualizes the rates below.
+For a full side-by-side view across every US treaty country, our [tax map](/resources/tax-map/) tool visualizes the rates below.
 
 | Country | US Dividends (Portfolio) | Interest | Capital Gains | Pension Fund Rate |
 |---|---|---|---|---|

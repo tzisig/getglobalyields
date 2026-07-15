@@ -1,11 +1,81 @@
 ---
-import BaseLayout from '../layouts/BaseLayout.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import AccessibilityWidget from '../components/AccessibilityWidget.astro';
+import '../styles/global.css';
+
+const title = "Page Not Found | Get Global Yields";
+const description = "The page you are looking for does not exist.";
+const image = new URL('/og-image.jpg', Astro.site || Astro.url);
 ---
 
-<BaseLayout 
-  title="Page Not Found | Get Global Yields" 
-  description="The page you are looking for does not exist."
->
+<!DOCTYPE html>
+<html lang="en" class="dark">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <link rel="icon" type="image/png" href="/favicon.webp?v=3" />
+    <meta name="generator" content={Astro.generator} />
+    <meta name="robots" content="noindex, follow" />
+
+    <title>{title}</title>
+    <meta name="title" content={title} />
+    <meta name="description" content={description} />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content={Astro.url} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:image" content={image} />
+
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:url" content={Astro.url} />
+    <meta property="twitter:title" content={title} />
+    <meta property="twitter:description" content={description} />
+    <meta property="twitter:image" content={image} />
+
+    <link rel="sitemap" href="/sitemap-index.xml" />
+    <link rel="alternate" type="application/rss+xml" title="Get Global Yields - RSS" href="/rss.xml" />
+
+    <meta name='impact-site-verification' value='583bc75e-04c9-4042-a2dc-cdfce51ea9c6'>
+    <meta name='impact-site-verification' value='11671c53-055e-4f0b-a0d1-8d3b07033f6d'>
+    <meta name="p:domain_verify" content="55e6f8ad1a23e33deb0edc8cc395f68a"/>
+  </head>
+  <script is:inline>
+    (function() {
+      var t = localStorage.getItem('theme');
+      if (t === 'light') {
+        document.documentElement.className = 'light';
+      }
+    })();
+  </script>
+
+  <script is:inline>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-358H9G2F4C', { send_page_view: false });
+    (function() {
+      var loaded = false;
+      function loadGtag() {
+        if (loaded) return;
+        loaded = true;
+        var s = document.createElement('script');
+        s.async = true; s.src = 'https://www.googletagmanager.com/gtag/js?id=G-358H9G2F4C';
+        document.head.appendChild(s);
+        gtag('config', 'G-358H9G2F4C', { send_page_view: true });
+      }
+      document.addEventListener('click', loadGtag, { once: true });
+      document.addEventListener('touchstart', loadGtag, { once: true });
+      document.addEventListener('scroll', loadGtag, { once: true, passive: true });
+      document.addEventListener('keydown', loadGtag, { once: true });
+      setTimeout(loadGtag, 10000);
+    })();
+  </script>
+  <body class="dark">
+    <script is:inline>document.body.className=document.documentElement.className</script>
+    <Header />
+    <main class="flex-grow w-full">
   <div class="min-h-[70vh] flex items-center justify-center bg-primary-900 py-16 px-4 sm:px-6 lg:px-8 relative overflow-hidden">
     <!-- Decorative background elements -->
     <div class="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-96 h-96 bg-accent-500/5 rounded-full blur-3xl pointer-events-none"></div>
@@ -37,4 +107,8 @@ import BaseLayout from '../layouts/BaseLayout.astro';
       </main>
     </div>
   </div>
-</BaseLayout>
+    </main>
+    <Footer />
+    <AccessibilityWidget />
+  </body>
+</html>

@@ -36,7 +36,7 @@ The argument against it goes like this: in a bull market, cash sitting on the si
 
 Both arguments are correct. The problem is that each one describes a different market environment - and TQQQ has experienced both. Which strategy wins depends almost entirely on **when you started**, not on which strategy is theoretically superior.
 
-This article works through four real start-date scenarios. Use the [Broker Calculator](/broker-calculator/) to compare costs across brokers for your DCA strategy, and find a broker with the [Broker Finder](/broker-finder/). All figures are calculated from Yahoo Finance monthly adjusted close prices using a consistent methodology: DCA = $500 invested at each month's adj close; lump sum = full capital deployed at the start month's adj close, held to December 2025. No estimates, no ranges.
+This article works through four real start-date scenarios. Use the [Broker Calculator](/resources/broker-calculator/) to compare costs across brokers for your DCA strategy, and find a broker with the [Broker Finder](/resources/broker-finder/). All figures are calculated from Yahoo Finance monthly adjusted close prices using a consistent methodology: DCA = $500 invested at each month's adj close; lump sum = full capital deployed at the start month's adj close, held to December 2025. No estimates, no ranges.
 
 ---
 
@@ -79,11 +79,11 @@ The confirmed annual returns used in this article:
 
 ## Scenario 1: Starting January 2016 - The Bull Run
 
-**The environment:** 2016ג€“2025 was close to the best possible decade for leveraged tech investing. Two corrections (2018, 2022), one severe crash (2022), but sustained upward trends in most years.
+**The environment:** 2016–2025 was close to the best possible decade for leveraged tech investing. Two corrections (2018, 2022), one severe crash (2022), but sustained upward trends in most years.
 
 | Strategy | Total Invested | Ending Value (Dec 2025) | Return |
 |---|---|---|---|
-| DCA $500/month ֳ— 10 years | $60,000 | **$415,549** | **593%** |
+| DCA $500/month × 10 years | $60,000 | **$415,549** | **593%** |
 | Lump sum $60,000 at Jan 2016 | $60,000 | **$1,761,453** | **2,836%** |
 | DCA $500/month into QQQ | $60,000 | $194,139* | 224%* |
 | Lump sum $60,000 into QQQ | $60,000 | $363,354* | 506%* |
@@ -105,9 +105,9 @@ The DCA investor still produced 593% on $60,000 - turning it into $415,549. That
 
 **The environment:** January 2022 was the Nasdaq-100's peak before a brutal bear market driven by rate hikes. TQQQ fell 79% during 2022. Anyone who started investing at or near the peak experienced the harshest possible introduction to leveraged ETF investing.
 
-| Strategy | Total Invested (Jan 2022ג€“Dec 2025) | Ending Value | Return |
+| Strategy | Total Invested (Jan 2022–Dec 2025) | Ending Value | Return |
 |---|---|---|---|
-| DCA $500/month ֳ— 4 years | $24,000 | **$60,093** | **150%** |
+| DCA $500/month × 4 years | $24,000 | **$60,093** | **150%** |
 | Lump sum $24,000 at Jan 2022 | $24,000 | **$42,709** | **78%** |
 
 *Both figures calculated from Yahoo Finance adj close data (Jan 2022: $29.53, Dec 2025: $52.55).*
@@ -122,18 +122,18 @@ The DCA investor still produced 593% on $60,000 - turning it into $415,549. That
 
 ## Scenario 3: Starting January 2019 - Into a Mixed Market
 
-**The environment:** January 2019 started after the Q4 2018 correction. The investor enters during a partial recovery, then experiences a strong 2019, the March 2020 crash and rapid recovery, a strong 2021, the 2022 crash, and the 2023ג€“2024 recovery.
+**The environment:** January 2019 started after the Q4 2018 correction. The investor enters during a partial recovery, then experiences a strong 2019, the March 2020 crash and rapid recovery, a strong 2021, the 2022 crash, and the 2023–2024 recovery.
 
-| Strategy | Total Invested (Jan 2019ג€“Dec 2025) | Ending Value | Return |
+| Strategy | Total Invested (Jan 2019–Dec 2025) | Ending Value | Return |
 |---|---|---|---|
-| DCA $500/month ֳ— 7 years | $42,000 | **$141,777** | **238%** |
+| DCA $500/month × 7 years | $42,000 | **$141,777** | **238%** |
 | Lump sum $42,000 at Jan 2019 | $42,000 | **$393,422** | **837%** |
 
 *Both figures calculated from Yahoo Finance adj close data (Jan 2019: $5.61, Dec 2025: $52.55). DCA computed as $500 at each of 84 monthly adj close prices.*
 
 **What happened:** Lump sum won by $251,645 - nearly six times the total amount invested. This is the scenario that most clearly exposes the limits of DCA's intuitive appeal. Even though 2022 hit midway through and DCA investors continued buying at depressed prices, the advantage of having capital fully deployed through six strong years proved decisive. The DCA investor's 238% return is genuinely solid. But 238% vs 837% on the same capital over the same period is not a close race.
 
-**The key insight:** DCA's advantage from buying cheap in 2022 was real but insufficient to overcome the compounding that lump sum investors enjoyed in 2019, 2020, 2021, 2023, 2024, and 2025. This mixed-market scenario - a crash roughly halfway through - is the one most investors experience over a 5ג€“7 year horizon. Lump sum won it decisively.
+**The key insight:** DCA's advantage from buying cheap in 2022 was real but insufficient to overcome the compounding that lump sum investors enjoyed in 2019, 2020, 2021, 2023, 2024, and 2025. This mixed-market scenario - a crash roughly halfway through - is the one most investors experience over a 5–7 year horizon. Lump sum won it decisively.
 
 ---
 
@@ -141,9 +141,9 @@ The DCA investor still produced 593% on $60,000 - turning it into $415,549. That
 
 **The environment:** January 2023 entered after TQQQ's 79% crash. The investor began at depressed prices and experienced the 198% recovery in 2023, +58% in 2024, and +34% in 2025.
 
-| Strategy | Total Invested (Jan 2023ג€“Dec 2025) | Ending Value | Return |
+| Strategy | Total Invested (Jan 2023–Dec 2025) | Ending Value | Return |
 |---|---|---|---|
-| DCA $500/month ֳ— 3 years | $18,000 | **$37,126** | **106%** |
+| DCA $500/month × 3 years | $18,000 | **$37,126** | **106%** |
 | Lump sum $18,000 at Jan 2023 | $18,000 | **$85,991** | **378%** |
 
 *Both figures calculated from Yahoo Finance adj close data (Jan 2023: $11.00, Dec 2025: $52.55). DCA computed as $500 at each of 36 monthly adj close prices.*
@@ -161,12 +161,12 @@ This scenario illustrates the fundamental asymmetry: DCA is most valuable going 
 
 | Scenario | DCA Result | Lump Sum Result | Winner | Gap |
 |---|---|---|---|---|
-| Jan 2016ג€“Dec 2025 ($60K) | $415,549 (593%) | $1,761,453 (2,836%) | Lump sum | $1,346K |
-| Jan 2022ג€“Dec 2025 ($24K) | $60,093 (150%) | $42,709 (78%) | **DCA** | $17K |
-| Jan 2019ג€“Dec 2025 ($42K) | $141,777 (238%) | $393,422 (837%) | Lump sum | $252K |
-| Jan 2023ג€“Dec 2025 ($18K) | $37,126 (106%) | $85,991 (378%) | Lump sum | $49K |
+| Jan 2016–Dec 2025 ($60K) | $415,549 (593%) | $1,761,453 (2,836%) | Lump sum | $1,346K |
+| Jan 2022–Dec 2025 ($24K) | $60,093 (150%) | $42,709 (78%) | **DCA** | $17K |
+| Jan 2019–Dec 2025 ($42K) | $141,777 (238%) | $393,422 (837%) | Lump sum | $252K |
+| Jan 2023–Dec 2025 ($18K) | $37,126 (106%) | $85,991 (378%) | Lump sum | $49K |
 
-*All figures calculated from Yahoo Finance monthly adj close data (Jan 2016ג€“Dec 2025), downloaded May 2026. Consistent methodology across all four scenarios.*
+*All figures calculated from Yahoo Finance monthly adj close data (Jan 2016–Dec 2025), downloaded May 2026. Consistent methodology across all four scenarios.*
 
 **Lump sum wins in 3 of 4 scenarios** - and in those three, it wins by large to enormous margins. DCA wins in exactly one: when the investor enters just before a severe, sustained bear market and keeps buying throughout.
 
@@ -205,7 +205,7 @@ The 2022 scenario shows DCA winning - but only if contributions continue through
 
 Keeping a $500/month contribution going in April 2022 - when the fund had already fallen 34% and fell another 36% that month alone - requires mechanical discipline that most investors do not have.
 
-Studies on investor behavior during drawdowns consistently find that contribution rates fall sharply as account values decline.ֲ¹ The DCA benefit in 2022 accrued to investors who ran automated contributions and did not check their balances. In practice, that is a minority of retail investors. The DCA advantage in a crash is real in the data. The behavioral assumption it requires is aggressive.
+Studies on investor behavior during drawdowns consistently find that contribution rates fall sharply as account values decline.¹ The DCA benefit in 2022 accrued to investors who ran automated contributions and did not check their balances. In practice, that is a minority of retail investors. The DCA advantage in a crash is real in the data. The behavioral assumption it requires is aggressive.
 
 ---
 
@@ -215,13 +215,13 @@ These are two different things that often get conflated.
 
 **DCA as accumulation:** Most investors do not have $42,000 or $60,000 sitting in cash to deploy. They receive income monthly, save a portion, and invest regularly. For these investors, the DCA vs lump sum debate is largely academic - they are DCAing because that is how their capital arrives, not as a strategic choice. For this investor, the right comparison is TQQQ DCA vs QQQ DCA over time. The data shows TQQQ's DCA return significantly outpaced QQQ's over a decade ($415K vs $194K from the 2016 scenario).
 
-**DCA as risk management:** An investor with a lump sum who chooses to invest gradually over 12ג€“24 months is making an active decision to sacrifice expected return in exchange for reduced timing risk. This is a legitimate trade-off - but now you know approximately what it costs. In Scenario 3, the cost of spreading a $42,000 lump sum over 7 years rather than deploying immediately was $251,645. That is the price of the insurance.
+**DCA as risk management:** An investor with a lump sum who chooses to invest gradually over 12–24 months is making an active decision to sacrifice expected return in exchange for reduced timing risk. This is a legitimate trade-off - but now you know approximately what it costs. In Scenario 3, the cost of spreading a $42,000 lump sum over 7 years rather than deploying immediately was $251,645. That is the price of the insurance.
 
 ---
 
 ## The April 2025 Event: A Recent Real-World Test
 
-Between early April 2025 and mid-April 2025, TQQQ fell approximately 35ג€“40% in days following US tariff announcements - then recorded its best single day ever on April 9 (+35.2%). The fund recovered to all-time highs by May 2026.
+Between early April 2025 and mid-April 2025, TQQQ fell approximately 35–40% in days following US tariff announcements - then recorded its best single day ever on April 9 (+35.2%). The fund recovered to all-time highs by May 2026.
 
 This maps directly onto Scenario 4's logic: sharp drop, strong recovery.
 
@@ -241,14 +241,14 @@ For investors using options strategies during this period, the April 2025 volati
 **DCA makes sense when:**
 
 - Your capital arrives monthly as income and you have no lump sum to invest. This is the most common real-world situation and makes DCA the only viable option regardless of theoretical comparisons.
-- You have a lump sum but genuinely cannot tolerate watching it fall 60ג€“80%. The psychological cost of holding through a severe crash has real financial consequences if it leads to panic selling at the bottom. DCA reduces the initial at-risk amount - but only if it would have otherwise caused you to sell.
+- You have a lump sum but genuinely cannot tolerate watching it fall 60–80%. The psychological cost of holding through a severe crash has real financial consequences if it leads to panic selling at the bottom. DCA reduces the initial at-risk amount - but only if it would have otherwise caused you to sell.
 - You believe you are investing at elevated valuations and want to reduce timing risk. The Nasdaq-100 is currently trading approximately 30% above its 10-year average P/E. An investor who specifically wants to spread timing risk has a rational basis for DCA, even knowing it sacrifices expected return.
-- You are allocating a small portion of your portfolio (5ג€“10%) to TQQQ and are not concerned about optimizing between strategies at that size.
+- You are allocating a small portion of your portfolio (5–10%) to TQQQ and are not concerned about optimizing between strategies at that size.
 
 **DCA does not make sense when:**
 
 - The market has just experienced a significant crash and prices are depressed. Post-crash is the worst time to spread a TQQQ investment. Scenario 4 is unambiguous: DCA from Jan 2023 produced $37,126 vs lump sum's $85,991 on the same $18,000 - a $48,865 difference.
-- You have high conviction about the next 12ג€“24 months being positive for tech. If you are correct, lump sum maximizes your return. If you are wrong, entry method matters less than the loss itself.
+- You have high conviction about the next 12–24 months being positive for tech. If you are correct, lump sum maximizes your return. If you are wrong, entry method matters less than the loss itself.
 - You believe DCA eliminates drawdown risk on your accumulated position. It does not. After five years of DCA into TQQQ, you hold a large TQQQ position subject to exactly the same 80% drawdown risk as any lump sum position. DCA reduces timing risk on entry. It does not reduce ongoing position risk.
 
 ---
@@ -257,7 +257,7 @@ For investors using options strategies during this period, the April 2025 volati
 
 **1. Does your capital arrive monthly or do you have a lump sum?** If monthly, DCA is not a choice. Invest consistently and stop deliberating.
 
-**2. If you have a lump sum, where are we in the market cycle?** After a significant crash with depressed prices: deploy immediately - Scenario 4 shows what waiting costs. At elevated valuations with an extended bull market in progress: reasonable case for spreading entry over 6ג€“12 months, understanding you are paying for timing insurance.
+**2. If you have a lump sum, where are we in the market cycle?** After a significant crash with depressed prices: deploy immediately - Scenario 4 shows what waiting costs. At elevated valuations with an extended bull market in progress: reasonable case for spreading entry over 6–12 months, understanding you are paying for timing insurance.
 
 **3. Can you actually keep buying through a 79% decline?** Be honest. If the answer is probably not, DCA's theoretical advantage in a crash disappears the moment you stop. Smaller position size may be a better solution than DCA.
 
@@ -272,19 +272,19 @@ For investors using options strategies during this period, the April 2025 volati
 
 | Scenario | DCA Result | Lump Sum Result | Winner | Gap |
 |---|---|---|---|---|
-| Jan 2016ג€“Dec 2025 ($60K) | $415,549 (593%) | $1,761,453 (2,836%) | Lump sum | $1,346K |
-| Jan 2022ג€“Dec 2025 ($24K) | $60,093 (150%) | $42,709 (78%) | **DCA** | $17K |
-| Jan 2019ג€“Dec 2025 ($42K) | $141,777 (238%) | $393,422 (837%) | Lump sum | $252K |
-| Jan 2023ג€“Dec 2025 ($18K) | $37,126 (106%) | $85,991 (378%) | Lump sum | $49K |
-| DCA TQQQ vs DCA QQQ (Jan 2016ג€“Dec 2025, $60K) | $415,549 TQQQ | $194,139 QQQ* | TQQQ | $221K |
+| Jan 2016–Dec 2025 ($60K) | $415,549 (593%) | $1,761,453 (2,836%) | Lump sum | $1,346K |
+| Jan 2022–Dec 2025 ($24K) | $60,093 (150%) | $42,709 (78%) | **DCA** | $17K |
+| Jan 2019–Dec 2025 ($42K) | $141,777 (238%) | $393,422 (837%) | Lump sum | $252K |
+| Jan 2023–Dec 2025 ($18K) | $37,126 (106%) | $85,991 (378%) | Lump sum | $49K |
+| DCA TQQQ vs DCA QQQ (Jan 2016–Dec 2025, $60K) | $415,549 TQQQ | $194,139 QQQ* | TQQQ | $221K |
 
-*All TQQQ figures calculated from Yahoo Finance monthly adjusted close prices (Jan 2016ג€“Dec 2025), downloaded May 2026. DCA = $500 at each month's adj close. Lump sum = full capital at start month adj close, held to Dec 2025 ($52.55). QQQ figure: QuantFlowLab backtest (March 2026).*
+*All TQQQ figures calculated from Yahoo Finance monthly adjusted close prices (Jan 2016–Dec 2025), downloaded May 2026. DCA = $500 at each month's adj close. Lump sum = full capital at start month adj close, held to Dec 2025 ($52.55). QQQ figure: QuantFlowLab backtest (March 2026).*
 
-*<a href="https://docs.google.com/spreadsheets/d/1byhijLW0jCuVON8bM549IqpMSQcXQPEA/edit?usp=sharing" target="_blank" rel="noopener noreferrer">ג†’ View full month-by-month calculations</a>*
+*<a href="https://docs.google.com/spreadsheets/d/1byhijLW0jCuVON8bM549IqpMSQcXQPEA/edit?usp=sharing" target="_blank" rel="noopener noreferrer">→ View full month-by-month calculations</a>*
 
 ---
 
-The best DCA scenario for TQQQ is one that has already happened. January 2022 starters who kept buying through the crash and held into 2023ג€“2025 made the strategy work exactly as intended. Those investors deserve credit for their discipline - and for not checking their account balance in September 2022.
+The best DCA scenario for TQQQ is one that has already happened. January 2022 starters who kept buying through the crash and held into 2023–2025 made the strategy work exactly as intended. Those investors deserve credit for their discipline - and for not checking their account balance in September 2022.
 
 The lesson is not that DCA is good or bad. It is that DCA's advantage over lump sum appears precisely when the market falls hard and stays down for a long time - and disappears, often dramatically, when the market rises. Since markets rise more often than they fall, and since TQQQ's bull market returns dwarf its bear market protection across most historical windows, lump sum has had the edge in three of the four scenarios here.
 
@@ -296,17 +296,17 @@ TQQQ is a US-listed ETF accessible to international investors through brokers su
 
 ---
 
-ֲ¹ *Documented patterns of reduced contribution rates during sustained equity drawdowns are discussed in Thaler, R.H. & Benartzi, S. (2004), "Save More Tomorrow: Using Behavioral Economics to Increase Employee Saving," Journal of Political Economy; and Agnew, J., Balduzzi, P. & Sundֳ©n, A. (2003), "Portfolio Choice and Trading in a Large 401(k) Plan," American Economic Review.*
+¹ *Documented patterns of reduced contribution rates during sustained equity drawdowns are discussed in Thaler, R.H. & Benartzi, S. (2004), "Save More Tomorrow: Using Behavioral Economics to Increase Employee Saving," Journal of Political Economy; and Agnew, J., Balduzzi, P. & Sundén, A. (2003), "Portfolio Choice and Trading in a Large 401(k) Plan," American Economic Review.*
 
-ֲ² *Lump sum methodology note: all figures use monthly adjusted close prices from Yahoo Finance to account for splits and dividends. "Jan 2016" adj close = $1.79; "Dec 2025" adj close = $52.55. DCA contributions assumed at the first monthly adj close price. Results will differ slightly from strategies using intra-month execution dates.*
+² *Lump sum methodology note: all figures use monthly adjusted close prices from Yahoo Finance to account for splits and dividends. "Jan 2016" adj close = $1.79; "Dec 2025" adj close = $52.55. DCA contributions assumed at the first monthly adj close price. Results will differ slightly from strategies using intra-month execution dates.*
 
 All figures in this article are available for independent verification in our <a href="https://docs.google.com/spreadsheets/d/1byhijLW0jCuVON8bM549IqpMSQcXQPEA/edit?usp=sharing" target="_blank" rel="noopener noreferrer">open data spreadsheet</a>.
 
 ---
 
-*This article is informational only and does not constitute investment advice. TQQQ involves substantial risk including the possibility of total loss. All TQQQ scenario figures are calculated from Yahoo Finance monthly adjusted close data (Jan 2016ג€“Dec 2025), downloaded May 2026, using a consistent methodology across all four scenarios. QQQ comparison figures use QuantFlowLab backtest data (March 2026). Past performance does not predict future results.*
+*This article is informational only and does not constitute investment advice. TQQQ involves substantial risk including the possibility of total loss. All TQQQ scenario figures are calculated from Yahoo Finance monthly adjusted close data (Jan 2016–Dec 2025), downloaded May 2026, using a consistent methodology across all four scenarios. QQQ comparison figures use QuantFlowLab backtest data (March 2026). Past performance does not predict future results.*
 
-*Sources: ProShares TQQQ official data; Yahoo Finance TQQQ adjusted close history; QuantFlowLab TQQQ/QQQ Backtest (March 2026); PortfoliosLab TQQQ data (May 2026); Raw price data and scenario calculations: <a href="https://docs.google.com/spreadsheets/d/1byhijLW0jCuVON8bM549IqpMSQcXQPEA/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Google Sheets</a> (Yahoo Finance adj close, Jan 2016ג€“Dec 2025).*
+*Sources: ProShares TQQQ official data; Yahoo Finance TQQQ adjusted close history; QuantFlowLab TQQQ/QQQ Backtest (March 2026); PortfoliosLab TQQQ data (May 2026); Raw price data and scenario calculations: <a href="https://docs.google.com/spreadsheets/d/1byhijLW0jCuVON8bM549IqpMSQcXQPEA/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Google Sheets</a> (Yahoo Finance adj close, Jan 2016–Dec 2025).*
 
 
 ---

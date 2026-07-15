@@ -79,7 +79,7 @@ When anticipating a strong, swift upward move, rather than simply holding more s
 
 ## Psychological Implications: Embracing the Drawdown
 
-When considering a [long-term outlook on holding TQQQ](/strategies/analyzing-long-term-outlook-holding-tqqq/), you are essentially holding a concentrated bet on immediate market direction overcoming decay. Are you truly preparing to stomach a 60% drawdown in that segment of your portfolio without blinking? If not, your strategy isn't diversified; it's merely risky. Only clear, documented rules (like the quarterly rebalancing above) can mute the natural human tendency to panic sell. See our [risk management guide for leveraged ETF investors](/strategies/risk-management-leveraged-etf-investors-2026/) for specific rules. when the drawdown hits its steepest point.
+When considering a [long-term outlook on holding TQQQ](/strategies/tqqq-long-term-outlook/), you are essentially holding a concentrated bet on immediate market direction overcoming decay. Are you truly preparing to stomach a 60% drawdown in that segment of your portfolio without blinking? If not, your strategy isn't diversified; it's merely risky. Only clear, documented rules (like the quarterly rebalancing above) can mute the natural human tendency to panic sell. See our [risk management guide for leveraged ETF investors](/strategies/risk-management-leveraged-etf-investors-2026/) for specific rules. when the drawdown hits its steepest point.
 
 ## Final Verdict: Amplification, Not Foundation
 

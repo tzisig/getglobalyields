@@ -254,7 +254,7 @@ Yes - but the LRS limit applies per individual, and both account holders' remitt
 
 Investing in US stocks from India is genuinely accessible in 2026. The LRS framework is well-established, the platforms have improved significantly, and the tax treatment - while more complex than domestic investing - is manageable with basic planning.
 
-The main things to get right: use the correct remittance process through an Authorised Dealer bank, file your W-8BEN before dividends start, use our [Broker Finder](/broker-finder/) to compare India-friendly brokers, and review each broker's [multi-currency account](/us-investing/multi-currency-investment-accounts/) capabilities, report foreign assets every year in Schedule FA, and understand the TCS mechanism so you are not surprised by the cash flow impact of large remittances.
+The main things to get right: use the correct remittance process through an Authorised Dealer bank, file your W-8BEN before dividends start, use our [Broker Finder](/resources/broker-finder/) to compare India-friendly brokers, and review each broker's [multi-currency account](/us-investing/multi-currency-investment-accounts/) capabilities, report foreign assets every year in Schedule FA, and understand the TCS mechanism so you are not surprised by the cash flow impact of large remittances.
 
 The US estate tax point is the one that most guides skip and most investors overlook. If you are planning to build a substantial long-term position in US stocks, take time to understand this risk and consider whether the structure of your investments should account for it.
 

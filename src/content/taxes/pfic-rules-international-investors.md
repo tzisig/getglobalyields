@@ -35,9 +35,9 @@ schema:
   image: "/images/blog/taxes/pfic-rules-international-investors.webp"
   mainEntityOfPage: "https://getglobalyields.com/taxes/pfic-rules-international-investors"
 ---
-Updated: May 2026ֲ  ג€¢ֲ  GetGlobalYields.comֲ  ג€¢ֲ  Read time: ~10 min
+Updated: May 2026 • GetGlobalYields.com • Read time: ~10 min
 
-נ’¡ **Bottom Line**
+ **Bottom Line**
 
 PFIC rules are the most expensive tax trap for international investors who hold foreign mutual funds or ETFs.
 
@@ -47,7 +47,7 @@ This guide covers: what PFIC is, who it affects, how to avoid it, and what to do
 
 <!-- ADSENSE-LEADERBOARD-728x90 -->
 
-## נ“ֲ  What Is a PFIC - and Why Should You Care?
+##  What Is a PFIC - and Why Should You Care?
 
 If you invest in US markets from outside the United States, you've probably heard the term PFIC thrown around in tax forums. Most people scroll past it. That's a mistake.
 
@@ -57,7 +57,7 @@ The short version: own the wrong fund in the wrong account, and you could owe ta
 
 That's not a hypothetical. It happens regularly to international investors who buy local mutual funds or ETFs without realizing the IRS has a problem with them.
 
-## נ”ֲ  The Technical Definition (Plain English Version)
+##  The Technical Definition (Plain English Version)
 
 Under IRS rules, a foreign corporation is classified as a PFIC if it meets either of these two tests:
 
@@ -67,7 +67,7 @@ Under IRS rules, a foreign corporation is classified as a PFIC if it meets eithe
 
 Most foreign mutual funds, ETFs, and unit trusts automatically meet one or both of these tests. That means if you're an Israeli investor who owns a Tel Aviv-listed index fund, an [Australian](/us-investing/how-to-invest-in-us-stocks-from-australia/) who holds a local managed fund, or a [Canadian](/us-investing/how-to-invest-in-us-stocks-from-canada/) with shares in a non-US ETF - there's a real chance you're holding a PFIC.
 
-## נ’¸ֲ  Why PFIC Tax Treatment Is So Painful
+##  Why PFIC Tax Treatment Is So Painful
 
 The US tax code gives PFIC investors three choices for how their holdings are taxed. None of them are great. One of them is genuinely terrible.
 
@@ -101,7 +101,7 @@ MTM is only available for PFICs that trade on a recognized exchange - so it work
 
 <!-- AFFILIATE-CTA-1: IBKR open account -->
 
-## נֲ  Who Actually Gets Caught by PFIC Rules?
+##  Who Actually Gets Caught by PFIC Rules?
 
 The honest answer: mostly people who didn't know the rules existed. Here are the most common scenarios:
 
@@ -123,7 +123,7 @@ European UCITS funds - the standard investment vehicle across the EU - are almos
 
 <!-- ADSENSE-RECTANGLE-300x250 -->
 
-## ג…ֲ  How to Avoid PFIC Issues
+##  How to Avoid PFIC Issues
 
 The simplest way to avoid PFIC problems is to invest in US-listed funds instead of foreign ones. This sounds obvious - but it requires a broker that actually accepts international clients. Most US brokers don't.
 
@@ -147,7 +147,7 @@ If you're already in a foreign fund and can't exit cleanly, talk to a cross-bord
 
 <!-- AFFILIATE-CTA-2: IBKR primary CTA -->
 
-## ג ן¸ֲ  What Happens If You Already Own PFICs?
+## ⚠️What Happens If You Already Own PFICs?
 
 First: don't panic. But do take it seriously.
 
@@ -158,12 +158,12 @@ If you currently hold foreign funds that are PFICs and you haven't made any elec
 3. If the cost of staying in a PFIC outweighs the tax on exiting, it may make sense to sell, pay the tax, and move into US-listed alternatives.
 4. Don't ignore the reporting requirements. Even if you owe no tax, US persons holding PFICs must file Form 8621 for each PFIC. Missing this form triggers significant penalties.
 
-> ג ן¸ **Important**
+> ⚠️ **Important**
 > This article is for informational purposes only. PFIC rules are complex and the right approach depends on your specific tax situation, country of residence, and treaty status.
 > 
 > Always consult a qualified cross-border tax professional before making decisions about PFIC holdings or elections.
 
-## נ“‹ֲ  PFIC Reporting: Form 8621
+##  PFIC Reporting: Form 8621
 
 If you're a US person holding a PFIC, you're required to file Form 8621 with your tax return - one form per PFIC. The form reports:
 
@@ -202,39 +202,21 @@ No. There's no minimum value threshold. Even a small position in a PFIC requires
 
 If you are reviewing your fund holdings or considering switching to US-listed alternatives:
 
-- **[Tax Map](/tax-map/)** - Check how PFIC exposure intersects with your country's capital gains and dividend rules.
-- **[Broker Finder](/broker-finder/)** - Find brokers that give international investors access to US-listed ETFs and avoid the PFIC trap.
-- **[Broker Fee Calculator](/broker-calculator/)** - Compare the total cost of switching to a US-domiciled ETF approach through IBKR vs other platforms.
+- **[Tax Map](/resources/tax-map/)** - Check how PFIC exposure intersects with your country's capital gains and dividend rules.
+- **[Broker Finder](/resources/broker-finder/)** - Find brokers that give international investors access to US-listed ETFs and avoid the PFIC trap.
+- **[Broker Fee Calculator](/resources/broker-calculator/)** - Compare the total cost of switching to a US-domiciled ETF approach through IBKR vs other platforms.
 
 ---
 
-## נ Final Takeaway
+##  Final Takeaway
 
 PFIC rules exist specifically to discourage US persons from investing in foreign passive vehicles. The tax treatment is punitive by design.
 
-The cleanest solution for most international investors: open an account with a broker that accepts non-US clients (Interactive Brokers is the standard choice), and invest in US-listed ETFs instead of local alternatives. For a comparison of the top options, see our [Best Brokers for International Investors](/best-brokers/best-brokers-international-investors-2026/) guide and use the [Broker Fee Calculator](/broker-calculator/) to compare real costs.
+The cleanest solution for most international investors: open an account with a broker that accepts non-US clients (Interactive Brokers is the standard choice), and invest in US-listed ETFs instead of local alternatives. For a comparison of the top options, see our [Best Brokers for International Investors](/best-brokers/best-brokers-international-investors-2026/) guide and use the [Broker Fee Calculator](/resources/broker-calculator/) to compare real costs.
 
 If you already hold PFICs, get professional advice before exiting - the right sequence matters. And file Form 8621 for every year you held them, going back to the first year of ownership.
 
 <!-- AFFILIATE-CTA-FINAL -->
 
-ג†’ [Interactive Brokers 2026 Review: The Best Broker for International Investors](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/)
 
-ג†’ [W-8BEN Form: Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)
-
-ג†’ [How to Convert ILS to USD at Interbank Rates Using IBKR](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026/)
-
-ג†’ [The Wheel Strategy on TQQQ: A Step-by-Step Guide](/options-income/wheel-strategy-tqqq/)
-
-ג†’ [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
-
-ג†’ [Best Brokers for Israeli Investors in US Markets](/taxes/best-broker-israeli-investors-us-markets/)
-
-ג†’ [TQQQ Tax Guide for International Investors](/taxes/tqqq-tax-international-investors/)
-
-ג†’ [US-Germany Tax Treaty for Investors](/taxes/us-germany-tax-treaty-investors/)
-
-ג†’ [US-UK Tax Treaty for Investors](/taxes/us-uk-tax-treaty-investors/)
-
-ג†’ [US-Canada Tax Treaty for Investors]( /taxes/us-canada-tax-treaty-investors-2026 /)
 

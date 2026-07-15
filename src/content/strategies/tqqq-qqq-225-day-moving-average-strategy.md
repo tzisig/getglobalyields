@@ -245,7 +245,7 @@ David's 2022 experience was real and the strategy worked for him that year. The 
 
 For the [Wheel Strategy on TQQQ](/options-income/wheel-strategy-tqqq/) and [Selling Covered Calls on TQQQ](/options-income/selling-covered-calls-tqqq/), see how options can supplement timing strategies.
 
-Use the [Broker Finder](/broker-finder/) and [Broker Calculator](/broker-calculator/) to find the right broker for implementing this strategy.
+Use the [Broker Finder](/resources/broker-finder/) and [Broker Calculator](/resources/broker-calculator/) to find the right broker for implementing this strategy.
 
 ---
 

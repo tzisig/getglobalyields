@@ -31,7 +31,7 @@ This article covers TQQQ's verified historical performance and the forward-looki
 
 > **Important:** TQQQ is a 3x leveraged ETF designed to deliver three times the daily return of the Nasdaq-100. It has lost more than 79% of its value in a single calendar year. This article is educational and does not constitute financial advice. Read the risk sections fully before drawing any conclusions.
 
-Use the [Broker Finder](/broker-finder/) and [Broker Calculator](/broker-calculator/) to find the right broker and understand total costs.
+Use the [Broker Finder](/resources/broker-finder/) and [Broker Calculator](/resources/broker-calculator/) to find the right broker and understand total costs.
 ---
 
 Marcus is 39, works in technology, and has held TQQQ since 2019. He bought in at an average cost of approximately $28 per share. With TQQQ trading near $75 as of late May 2026, his position has appreciated approximately 168% - before accounting for the -79% drawdown in 2022 that he held through without selling. He is now asking a question that every serious TQQQ holder eventually asks: not whether the past returns were real, but whether the conditions that produced them are still in place.
@@ -65,6 +65,7 @@ The other side of that record is equally real:
 - **Annualized standard deviation: 61.5%** (MyPlanIQ)
 - **Worst 3-year rolling return: -7.03% annualized** (MyPlanIQ)
 - **Worst 5-year rolling return: +8.55% annualized** (MyPlanIQ)
+- **Worst 10-year rolling return: +28.91% annualized** (MyPlanIQ)
 - **Best single day: +35.2%** (April 9, 2025, PortfoliosLab)
 - **Worst single day: -34.5%** (March 16, 2020, PortfoliosLab)
 
@@ -133,6 +134,8 @@ The Nasdaq-100, where the Magnificent 7 now account for over 60% of the index, e
 
 The dot-com comparison deserves nuance. The companies trading at elevated multiples in 2026 are generating real, substantial earnings - something that was largely absent in 1999. Microsoft, Apple, and Alphabet are among the most profitable companies in human history. The question is not whether the earnings are real but whether the growth rates embedded in current valuations are achievable for long enough to justify the prices paid. At forward P/E ratios of 60+, the market is pricing in years of continued hypergrowth. Any sustained deceleration - not a collapse, simply a growth rate that disappoints - can produce significant multiple compression even without an earnings decline.
 
+TQQQ did not exist during the 2000-2002 dot-com crash, when QQQ fell approximately 83% and took about 16 years to regain its March 2000 price. Backtests that apply TQQQ's 3x daily-reset structure to QQQ's returns over that period produce a near-total loss and a recovery path that never catches an unleveraged QQQ position started at the same peak. That simulation is not a forecast, but it exposes the market regime missing from TQQQ's verified history: a deep, multi-year Nasdaq decline rather than a sharp drawdown followed by a relatively fast recovery.
+
 For TQQQ at 3x leverage, multiple compression of 30-40% in the Nasdaq-100 translates to a 90-120% potential drawdown. Recovery from a 90% drawdown requires a 900% gain just to break even.
 
 ### Risk 2: Volatility Decay in Extended Choppy Markets
@@ -195,6 +198,8 @@ TQQQ makes sense for investors with a genuine 10+ year horizon, no near-term nee
 
 TQQQ does not make sense for investors with a horizon under five years, anyone who would sell at a 40% drawdown (a realistic annual outcome), or investors in or near retirement who cannot absorb a multi-year recovery period. If TQQQ represents a large percentage of total assets without a defined exit framework, the position is almost certainly too large regardless of conviction.
 
+A 5-15% satellite allocation captures meaningful upside while containing the portfolio-level damage from a severe drawdown. In a $500,000 portfolio, a 10% TQQQ allocation that falls 82% reduces total portfolio value by about 8.2% before considering other holdings; a 60% allocation under the same scenario creates roughly a 49% portfolio loss. Position size should reflect the loss an investor can hold through without being forced to sell, not simply confidence in the Nasdaq-100.
+
 The honest question to ask is not "what has TQQQ returned?" but "what would I do at -50%?" If the answer is anything other than "hold," the position is wrongly sized.
 
 ---
@@ -207,7 +212,17 @@ Position sizing is the second decision. The optimal TQQQ allocation is not the l
 
 The third decision is about frequency of review. The long-term case for TQQQ rests on whether AI capex is translating into earnings growth, whether the semiconductor supercycle is sustaining, and whether the Magnificent 7's earnings justify their valuations. These are annual questions, answered by looking at fundamental data once a year - not daily questions answered by watching price action.
 
+Entry timing matters because TQQQ magnifies both valuation risk and daily volatility. Investors who want long-term exposure but are uncomfortable committing at one price can spread purchases over 12-24 months, reducing the consequence of entering near a valuation peak without pretending that dollar-cost averaging eliminates drawdown risk.
+
 For Marcus specifically: his position is sized correctly, his behavioral track record through 2022 is verified, and his view on AI as a structural driver is informed rather than headline-driven. The three conditions for long-term TQQQ ownership are met in his case. For investors who cannot check all three boxes, the historical return data is real but not automatically replicable in their specific situation.
+
+## US Estate Tax Exposure for International Investors
+
+TQQQ is a US-domiciled ETF and therefore a US-situs asset for estate-tax purposes. Non-US persons can face US estate tax on US-situs assets above the $60,000 filing threshold, at rates up to 40%, unless an applicable estate-tax treaty provides relief.
+
+This becomes relevant quickly for a leveraged fund with strong compounding potential. A $50,000 position growing at TQQQ's worst historical 10-year rolling return of 28.91% annualized would reach roughly $630,000 after a decade, well beyond the filing threshold. The actual liability depends on the investor's country, treaty status, deductions, and total US-situs estate.
+
+European exchanges offer 3x daily Nasdaq-100 ETPs, but those products do not share TQQQ's exact ETF structure and may have different domicile, tax, liquidity, and investor-protection characteristics. International investors should verify the estate-tax treatment of any alternative rather than assume that similar market exposure produces the same legal or tax result. This structural trade-off belongs in the position-sizing decision before the investment grows, not after.
 
 ---
 

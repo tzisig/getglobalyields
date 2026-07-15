@@ -310,7 +310,7 @@ The three-layer framework - quarter-Kelly position sizing, 200-day SMA exit rule
 
 Return to the investor from the opening of this guide: $300,000 in TQQQ fell to $55,500 in 2022. With quarter-Kelly sizing, the TQQQ position would have been $75,000 of a $300,000 portfolio - and fallen to $13,875, leaving $243,000 intact. With the SMA exit rule applied in January 2022, the exit at approximately $62 per share preserved approximately 70% of the TQQQ position's value before the catastrophic phase. With both applied together, the 2022 experience was painful but survivable. Without either, it was devastating.
 
-Write the rules before you invest. The moment you are watching a position fall 40% is not when sound risk frameworks are designed. For the long-term outlook, see [TQQQ Long-Term Outlook](/strategies/tqqq-long-term-outlook/). Compare leveraged ETF options in [TQQQ vs SOXL vs UPRO](/strategies/tqqq-vs-soxl-vs-upro-best-leveraged-etf-2026/). Use the [Broker Finder](/broker-finder/) and [Broker Calculator](/broker-calculator/) to optimize your setup.
+Write the rules before you invest. The moment you are watching a position fall 40% is not when sound risk frameworks are designed. For the long-term outlook, see [TQQQ Long-Term Outlook](/strategies/tqqq-long-term-outlook/). Compare leveraged ETF options in [TQQQ vs SOXL vs UPRO](/strategies/tqqq-vs-soxl-vs-upro-best-leveraged-etf-2026/). Use the [Broker Finder](/resources/broker-finder/) and [Broker Calculator](/resources/broker-calculator/) to optimize your setup.
 
 ---
 

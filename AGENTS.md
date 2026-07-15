@@ -107,3 +107,25 @@ These rules apply to every task without exception.
 
   # links from country names
   Do not create internal links from country names when the country is only describing regulation, domicile, exchange, jurisdiction, or company metadata. Only create a link if the destination directly supports the statement.
+
+  ## Single-Task Rule (Mandatory)
+
+Work on one task only.
+
+Never combine multiple independent tasks, even if they appear related.
+
+Do not start a second task until the current task has been:
+- completed,
+- fully verified,
+- reported,
+- and explicitly approved by the user.
+
+If additional issues are discovered during the current task:
+- report them only,
+- do not fix them,
+- do not begin working on them,
+- wait for explicit approval.
+
+Never expand the scope of an approved task.
+
+Never perform global search-and-replace on URLs. Update only the explicitly approved routes and verify that unrelated URLs remain unchanged.

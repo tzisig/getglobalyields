@@ -201,7 +201,7 @@ Before investing, you need the right broker. Key requirements:
 - Reliable execution
 - Options support
 
-For managing leveraged ETF risk, read our [Risk Management Guide](/strategies/risk-management-leveraged-etf-investors-2026/). For the long-term outlook, see [TQQQ Long-Term Outlook](/strategies/tqqq-long-term-outlook/). Use the [Broker Finder](/broker-finder/) and [Broker Calculator](/broker-calculator/) to compare costs.
+For managing leveraged ETF risk, read our [Risk Management Guide](/strategies/risk-management-leveraged-etf-investors-2026/). For the long-term outlook, see [TQQQ Long-Term Outlook](/strategies/tqqq-long-term-outlook/). Use the [Broker Finder](/resources/broker-finder/) and [Broker Calculator](/resources/broker-calculator/) to compare costs.
 
 We recommend IBKR for most non-US investors [here's our full review.](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/)
 

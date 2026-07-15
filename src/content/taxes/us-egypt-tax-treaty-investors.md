@@ -35,4 +35,4 @@ In the meantime, here are some resources that may be helpful for Egyptian reside
 - [W-8BEN Form Guide for Non-US Investors](/taxes/w8ben-form-non-us-investors/)
 - [US Dividend Taxes for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
 - [Best Brokers for International Investors](/best-brokers/best-brokers-international-investors-2026/)
-- [Tax Map: US Tax Treaties Worldwide](/tax-map/)
+- [Tax Map: US Tax Treaties Worldwide](/resources/tax-map/)

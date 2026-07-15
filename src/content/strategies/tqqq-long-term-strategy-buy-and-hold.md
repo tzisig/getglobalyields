@@ -171,7 +171,7 @@ The $10.85 billion that left TQQQ in a year when it returned 131% is not evidenc
 
 The investors who compounded wealth with TQQQ over 16 years are not categorically different from the ones who sold at the bottom of 2025. Most of them had the same long-term view of Nasdaq technology. What separated them was structure: a position sized to withstand complete loss, a rebalancing rule that prevented drift from turning a 10% allocation into a 30% one, and a pre-defined response to sustained declines that did not require making rational decisions in irrational conditions.
 
-That structure is not complicated to build. It is just necessary to build before the drawdown that will eventually test it - not during. Use the [Broker Finder](/broker-finder/) to find a broker that supports TQQQ trading and the [Broker Calculator](/broker-calculator/) to compare costs.
+That structure is not complicated to build. It is just necessary to build before the drawdown that will eventually test it - not during. Use the [Broker Finder](/resources/broker-finder/) to find a broker that supports TQQQ trading and the [Broker Calculator](/resources/broker-calculator/) to compare costs.
 
 For a deeper look at the underlying performance data and long-term return history, see our [TQQQ long-term outlook analysis](/strategies/tqqq-long-term-outlook/). For the mechanics of volatility decay and portfolio-level rebalancing strategies, see our [leveraged ETF rebalancing guide](/strategies/leveraged-etf-rebalancing-reduce-decay/).
 

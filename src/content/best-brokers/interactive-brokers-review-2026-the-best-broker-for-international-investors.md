@@ -193,7 +193,7 @@ Opening an IBKR account as an international investor takes approximately 20 to 4
 | FX conversion | 0.002% | USD only | USD only | Bank rates |
 | Best for | All-around | Options | Beginners | Large portfolios |
 
-For a full landscape of international brokers, see our [Best Brokers for International Investors](/best-brokers/best-brokers-international-investors-2026/) guide and use the [Broker Finder](/broker-finder/) to match brokers to your country.
+For a full landscape of international brokers, see our [Best Brokers for International Investors](/best-brokers/best-brokers-international-investors-2026/) guide and use the [Broker Finder](/resources/broker-finder/) to match brokers to your country.
 
 ## **Frequently Asked Questions**
 
