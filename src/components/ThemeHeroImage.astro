@@ -6,6 +6,8 @@ export interface Props {
   width: number;
   height: number;
   class?: string;
+  loading?: 'eager' | 'lazy';
+  fetchpriority?: 'high' | 'low' | 'auto' | null;
 }
 
 const {
@@ -15,6 +17,8 @@ const {
   width,
   height,
   class: className = '',
+  loading = 'eager',
+  fetchpriority = 'high',
 } = Astro.props;
 ---
 
@@ -26,6 +30,8 @@ const {
   data-width={width}
   data-height={height}
   data-class={className}
+  data-loading={loading}
+  data-fetchpriority={fetchpriority ?? undefined}
 ></span>
 <script is:inline>
   (function () {
@@ -38,8 +44,8 @@ const {
     image.width = Number(slot.dataset.width);
     image.height = Number(slot.dataset.height);
     image.className = slot.dataset.class || '';
-    image.loading = 'eager';
-    image.fetchPriority = 'high';
+    image.loading = slot.dataset.loading || 'eager';
+    if (slot.dataset.fetchpriority) image.fetchPriority = slot.dataset.fetchpriority;
 
     function activeSource() {
       return document.documentElement.classList.contains('light')
@@ -68,7 +74,7 @@ const {
     width={width}
     height={height}
     class={className}
-    loading="eager"
-    fetchpriority="high"
+    loading={loading}
+    fetchpriority={fetchpriority ?? undefined}
   />
 </noscript>
