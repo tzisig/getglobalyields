@@ -4,6 +4,7 @@ import Card from '../components/Card.astro';
 import { getCollection } from 'astro:content';
 
 const posts = (await getCollection('taxes'))
+  .filter(p => !p.data.draft)
   .map(p => ({ ...p, type: 'taxes', url: `/taxes/${p.id}` }));
 ---
 

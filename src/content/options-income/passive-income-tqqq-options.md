@@ -152,7 +152,7 @@ Most TQQQ content is written for US investors with US brokerage accounts. A few 
 
 TQQQ is listed on Nasdaq and is accessible through most international brokers that offer US market access, including [Interactive Brokers](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/), Moomoo, and similar platforms. Options on TQQQ are American-style and settle in USD.
 
-Tax treatment of options premium from TQQQ varies by jurisdiction. In [Israel](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026/), the 25% flat capital gains rate applies. In the [UK](/us-investing/invest-us-stocks-uk/), TQQQ options premium falls under CGT at 18%/24% depending on your rate. European investors should check local treatment of derivative income.
+Tax treatment of options premium from TQQQ varies by jurisdiction. In [Israel](/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026/), the 25% flat capital gains rate applies. In the [UK](/taxes/us-uk-tax-treaty-investors/), TQQQ options premium falls under CGT at 18%/24% depending on your rate. European investors should check local treatment of derivative income.
 
 One additional consideration for non-US investors: TQQQ involves embedded currency risk. If you fund your account in AUD, GBP, or ILS and hold a leveraged USD position, an adverse currency move compounds the already significant volatility of the underlying. A 20% decline in TQQQ combined with a 5% adverse currency move is a 25% effective loss in your home currency before fees.
 

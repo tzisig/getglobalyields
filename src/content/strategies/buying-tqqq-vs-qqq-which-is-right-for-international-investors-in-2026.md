@@ -115,7 +115,7 @@ This is why long-term holding of TQQQ in unstable markets can fail - even if the
 ### **Dividend Withholding**
 
 - Typically 30% for non-US investors
-- Reduced via tax treaties (e.g., [Israel](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026/), EU)
+- Reduced via tax treaties (e.g., [Israel](/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026/), EU)
 - Requires [W-8BEN](/taxes/w8ben-form-non-us-investors/)
 
 The default [US withholding rate](/taxes/taxes-us-dividends-foreign-investors/) is 30% - but most countries have a tax treaty that reduces this.

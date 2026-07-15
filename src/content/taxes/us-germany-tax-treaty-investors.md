@@ -46,7 +46,7 @@ schema:
 
 The US-[Germany](/us-investing/how-to-invest-in-us-stocks-from-germany/) tax treaty reduces withholding on US dividends from 30% to 15%, eliminates withholding on interest and royalties entirely, and ensures that capital gains are taxed only once - in your country of residence. For investors moving money across one of the world's largest bilateral trading relationships, that is a meaningful set of protections.
 
-But the treaty is not exceptional by global standards. The US has comparable agreements with the [UK](/us-investing/invest-us-stocks-uk/), Ireland, and the Netherlands that deliver the same headline rates. What makes the US-Germany treaty worth understanding in detail is the specific interaction with Germany's domestic tax system - the *Abgeltungsteuer*, the *Teilfreistellung*, the *Vorabpauschale* - and the growing complexity around PFIC rules, FATCA, and the BZSt's evolving administrative positions.
+But the treaty is not exceptional by global standards. The US has comparable agreements with the [UK](/taxes/us-uk-tax-treaty-investors/), Ireland, and the Netherlands that deliver the same headline rates. What makes the US-Germany treaty worth understanding in detail is the specific interaction with Germany's domestic tax system - the *Abgeltungsteuer*, the *Teilfreistellung*, the *Vorabpauschale* - and the growing complexity around PFIC rules, FATCA, and the BZSt's evolving administrative positions.
 
 This guide covers the treaty's mechanics accurately, notes where it is standard rather than unique, and flags the areas where investors - particularly US citizens in Germany - face complications that go well beyond the treaty itself.
 

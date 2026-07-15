@@ -95,7 +95,7 @@ The setup: you hold your home currency in Wise (which supports 40+ currencies), 
 
 The practical effect is that you bypass your local bank's FX markup entirely. For investors in countries where local bank wire fees and FX spreads are high - which covers most of the world - this combination can save hundreds of dollars per year on funding costs alone.
 
-Wise itself is regulated by the FCA in the [UK](/us-investing/invest-us-stocks-uk/) and multiple other jurisdictions, holds client funds in segregated accounts, and has processed over $100 billion in transfers. It's a legitimate, well-regulated piece of infrastructure, not a workaround.
+Wise itself is regulated by the FCA in the UK and multiple other jurisdictions, holds client funds in segregated accounts, and has processed over $100 billion in transfers. It's a legitimate, well-regulated piece of infrastructure, not a workaround.
 
 **FX cost at funding stage:** Wise's transparent percentage fee (varies by currency pair, typically 0.4-1.0%) + $0.39 transfer to IBKR
 **Best for:** Investors in countries with expensive local bank FX or wire fees

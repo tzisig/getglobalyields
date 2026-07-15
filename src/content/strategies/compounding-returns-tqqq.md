@@ -208,7 +208,7 @@ This does not make TQQQ unsuitable for Israeli investors. It means the currency 
 
 Capital gains from TQQQ - whether from selling the ETF at a profit or from distributions - are subject to Israeli capital gains tax at 25% for Israeli resident individuals. This applies to gains realized through international brokers including IBKR. Losses can offset gains within the same tax year. There is no US [withholding tax](/taxes/taxes-us-dividends-foreign-investors/) on capital gains for non-US investors under the Israel-US tax treaty, but Israeli reporting and payment obligations apply in full.
 
-TQQQ pays a very small dividend yield (approximately 0.4%), which may be subject to a 15% US withholding rate under the treaty rather than 30%. Consult a tax advisor familiar with both Israeli securities law and US ETF taxation before taking a significant position.
+TQQQ pays a very small dividend yield (approximately 0.4%), which may be subject to a 25% US withholding rate under the treaty rather than 30%. Consult a tax advisor familiar with both Israeli securities law and US ETF taxation before taking a significant position.
 
 ### Note on UCITS Alternatives
 

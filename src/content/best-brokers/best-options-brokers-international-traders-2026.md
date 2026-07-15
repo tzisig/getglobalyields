@@ -140,7 +140,7 @@ MEXEM is an introducing broker built on top of Interactive Brokers' infrastructu
 
 ## Key Considerations Before You Open an Account
 
-**[Withholding tax](/taxes/taxes-us-dividends-foreign-investors/) on US dividends** - If you're trading options on US stocks and get assigned, you'll hold the underlying. Non-US investors are subject to a 30% withholding tax on US dividends unless your country has a treaty rate. Check this before you trade [[covered calls](/options-income/selling-covered-calls-tqqq/)](/options-income/selling-covered-calls-tqqq/) or cash-secured puts on high-dividend stocks.
+**[Withholding tax](/taxes/taxes-us-dividends-foreign-investors/) on US dividends** - If you're trading options on US stocks and get assigned, you'll hold the underlying. Non-US investors are subject to a 30% withholding tax on US dividends unless your country has a treaty rate. Check this before you trade [covered calls](/options-income/selling-covered-calls-tqqq/) or cash-secured puts on high-dividend stocks.
 
 **Tax documentation** - US brokers accepting international clients require a [W-8BEN](/taxes/w8ben-form-non-us-investors/) form, which certifies your foreign status and applies any applicable tax treaty rates on US-source income. Non-US brokers like Saxo have their own equivalent documentation requirements depending on your jurisdiction. Either way, expect to complete tax residency paperwork before your account is fully activated.
 

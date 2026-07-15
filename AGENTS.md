@@ -80,3 +80,30 @@ unless explicitly requested.
 Be concise and practical.
 Prefer real-world solutions over theoretical ones.
 If multiple solutions exist, briefly compare them and recommend one.
+
+## Mandatory Verification Rules
+
+These rules apply to every task without exception.
+
+- Never infer, synthesize, or invent file paths, URLs, slugs, article names, line numbers, destinations, redirects, or relationships.
+- Every reported issue must be verified against the current repository before being reported.
+- Every source file must exist.
+- Every reported line number must exist in that file.
+- Every destination URL must exist unless the task is specifically about missing pages.
+- Never rely on previous reports if the repository may have changed.
+- Always re-verify the current repository state before proposing or executing any action.
+- If any file, URL, slug, or line cannot be verified, stop immediately, discard that issue, explain why, and continue only with verified issues.
+- Never guess.
+
+- Never continue to the next issue without explicit user approval.
+- Process exactly one issue at a time.
+- After every approved change:
+  - Run a full build.
+  - Verify the affected URL.
+  - Verify the sitemap.
+  - Verify internal links.
+  - Report Git status.
+  - Stop and wait for approval.
+
+  # links from country names
+  Do not create internal links from country names when the country is only describing regulation, domicile, exchange, jurisdiction, or company metadata. Only create a link if the destination directly supports the statement.

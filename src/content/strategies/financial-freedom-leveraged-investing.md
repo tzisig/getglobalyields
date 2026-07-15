@@ -393,7 +393,7 @@ Non-U.S. investors are subject to U.S. [withholding tax](/taxes/taxes-us-dividen
 
 ### 3. Local capital gains tax
 
-- **[Israel](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026/):** 25% flat rate on capital gains from securities (verified, PwC Tax Summaries 2026)
+- **[Israel](/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026/):** 25% flat rate on capital gains from securities (verified, PwC Tax Summaries 2026)
 - **[UK](/us-investing/invest-us-stocks-uk/):** 18-24% depending on income level
 - **[Germany](/us-investing/how-to-invest-in-us-stocks-from-germany/):** 25% (Abgeltungsteuer) plus solidarity surcharge
 - **[Australia](/us-investing/how-to-invest-in-us-stocks-from-australia/):** 50% discount after 12 months, marginal rate applied to the remainder

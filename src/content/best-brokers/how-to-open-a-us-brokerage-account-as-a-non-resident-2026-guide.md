@@ -38,7 +38,7 @@ Yes - with conditions. US law does not prohibit non-residents from investing in 
 The key requirements are:
 
 -   A valid government-issued ID (passport preferred)
--   Proof of address in your country of residence - A completed [W-8BEN](/taxes/w8ben-form-non-us-investors/) form - our [complete W-8BEN guide](/taxes/w8ben-form-non-us-investors/) walks through every field
+-   Proof of address in your country of residence - A completed W-8BEN form - our [complete W-8BEN guide](/taxes/w8ben-form-non-us-investors/) walks through every field
 -   A foreign bank account for funding
 
 Some brokers also require a minimum deposit, and a small number of countries are restricted due to US sanctions or local regulations.
@@ -49,7 +49,7 @@ The W-8BEN is an IRS form that certifies you are a foreign person for US tax pur
 
 **Why it matters:**
 
--   Without a W-8BEN, US brokers are required to withhold 30% tax on your dividends and interest payments - With a W-8BEN, the withholding rate drops to whatever your country's [tax treaty with the US](/taxes/taxes-us-dividends-foreign-investors/) specifies - often 15% or lower - For example, the US-[Israel](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026/) tax treaty reduces dividend withholding to 25% in most cases (and lower on certain income types)
+-   Without a W-8BEN, US brokers are required to withhold 30% tax on your dividends and interest payments - With a W-8BEN, the withholding rate drops to whatever your country's [tax treaty with the US](/taxes/taxes-us-dividends-foreign-investors/) specifies - often 15% or lower - For example, the US-[Israel](/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026/) tax treaty reduces dividend withholding to 25% in most cases (and lower on certain income types)
 
 The W-8BEN is not complicated. It asks for your name, country of citizenship, country of residence, and tax identification number. Most brokers let you fill it out digitally during the account opening process.
 

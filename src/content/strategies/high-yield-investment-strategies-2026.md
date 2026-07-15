@@ -150,7 +150,7 @@ A concrete example using Pfizer (PFE) as of May 2026. PFE carries a dividend yie
 
 The more important principle: only sell covered calls on stocks you would be equally comfortable holding without writing calls. The option income is additive, not the reason to own the position.
 
-**A note on tax treatment by jurisdiction.** Option premium income is taxed differently depending on where you live. US investors pay short-term capital gains rates on premium collected from expired or closed calls. European investors vary widely: in [Germany](/us-investing/how-to-invest-in-us-stocks-from-germany/), premiums fall under Abgeltungsteuer at 26.375%; in the [UK](/us-investing/invest-us-stocks-uk/), under CGT rules. Before implementing this strategy at scale, confirm the tax classification with a local advisor.
+**A note on tax treatment by jurisdiction.** Option premium income is taxed differently depending on where you live. US investors pay short-term capital gains rates on premium collected from expired or closed calls. European investors vary widely: in [Germany](/taxes/us-germany-tax-treaty-investors/), premiums fall under Abgeltungsteuer at 26.375%; in the [UK](/taxes/us-uk-tax-treaty-investors/), under CGT rules. Before implementing this strategy at scale, confirm the tax classification with a local advisor.
 
 **Sofia's allocation:** She selects three quality dividend-paying stocks she already holds and begins selling monthly covered calls 8-10% OTM against each. She targets approximately 1% per month in additional call premium. Combined income target: approximately 8% on this allocation. On €60,000, that is approximately €4,800 annually.
 

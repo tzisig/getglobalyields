@@ -83,9 +83,9 @@ TQQQ dividends are subject to US withholding tax.
 
 Typical rates with a [valid W-8BEN form](/taxes/w8ben-form-non-us-investors/):
 
-<table><thead><tr><th><p><strong>Country</strong></p></th><th><p><strong>Withholding Rate</strong></p></th></tr></thead><tbody><tr><td><p>[Israel](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026/)</p></td><td><p><em>25% (treaty rate - not a large reduction vs default)</em></p></td></tr><tr><td><p>[UK](/us-investing/invest-us-stocks-uk/) / [Germany](/us-investing/how-to-invest-in-us-stocks-from-germany/) / France</p></td><td><p>15%</p></td></tr><tr><td><p>[Australia](/us-investing/how-to-invest-in-us-stocks-from-australia/)</p></td><td><p>15%</p></td></tr><tr><td><p>No treaty</p></td><td><p>30%</p></td></tr></tbody></table>
+<table><thead><tr><th><p><strong>Country</strong></p></th><th><p><strong>Withholding Rate</strong></p></th></tr></thead><tbody><tr><td><p>[Israel](/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026/)</p></td><td><p><em>25% (treaty rate - not a large reduction vs default)</em></p></td></tr><tr><td><p>[UK](/taxes/us-uk-tax-treaty-investors/) / [Germany](/taxes/us-germany-tax-treaty-investors/) / France</p></td><td><p>15%</p></td></tr><tr><td><p>[Australia](/taxes/us-australia-tax-treaty-investors/)</p></td><td><p>15%</p></td></tr><tr><td><p>No treaty</p></td><td><p>30%</p></td></tr></tbody></table>
 
-For the full breakdown of each country's treaty rates, see the [US-UK](/taxes/us-uk-tax-treaty-investors/), [US-Germany](/taxes/us-germany-tax-treaty-investors/), [US-Canada](/taxes/us-canada-tax-treaty-investors-2026/), and other individual treaty guides.
+For the full breakdown of each country's treaty rates, see the [country-specific tax treaty guides.](/taxes/)
 
 _Because TQQQ's yield is low, the actual dollar impact is small even at 25%._
 
@@ -123,7 +123,7 @@ Example:
 
 - 50% of gains are included in taxable income at your marginal rate
 
-_ג ן¸ Effective rate varies widely by income bracket - consult a [Canadian](/us-investing/how-to-invest-in-us-stocks-from-canada/) tax advisor for your specific situation._
+_ג ן¸ Effective rate varies widely by income bracket - consult a [Canadian](/taxes/us-canada-tax-treaty-investors-2026/) tax advisor for your specific situation._
 
 ### **Australia**
 

@@ -44,7 +44,7 @@ This guide works through both sides with verified 2026 data and ends with a conc
 
 ## Bottom Line Up Front
 
-For most international investors in a taxable account, **high-quality dividend stocks from US corporations are more tax-efficient than US REITs**. REIT distributions attract 25% US withholding under the US-[Israel](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026/) treaty (vs. 15% on qualified corporate dividends), REIT share sales trigger FIRPTA withholding that standard equity sales do not, and the return-of-capital portion of REIT distributions - while not immediately taxable - reduces cost basis and creates a deferred tax liability at exit.
+For most international investors in a taxable account, **high-quality dividend stocks from US corporations are more tax-efficient than US REITs**. REIT distributions attract 25% US withholding under the US-[Israel](/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026/) treaty (vs. 15% on qualified corporate dividends), REIT share sales trigger FIRPTA withholding that standard equity sales do not, and the return-of-capital portion of REIT distributions - while not immediately taxable - reduces cost basis and creates a deferred tax liability at exit.
 
 The calculation flips in two specific situations: investors holding inside a tax-advantaged account (Roth IRA or equivalent), and Israeli olim hadashim during their 10-year tax exemption window. In both cases, the REIT yield advantage is compelling because the tax drag is eliminated or substantially reduced.
 

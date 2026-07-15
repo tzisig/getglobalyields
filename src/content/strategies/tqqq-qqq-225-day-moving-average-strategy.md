@@ -41,6 +41,8 @@ rating: 4.6
 
 David, an [Israeli](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026/) investor with $80,000 in TQQQ, found the 225-day SMA strategy in early 2022 - right after QQQ crossed below the line in January. He moved to cash. He avoided the 79% drawdown. He re-entered in late November 2022 when QQQ crossed back above. He captured the full 198% 2023 rally. On paper, the strategy worked exactly as advertised. For the fundamental choice between TQQQ and QQQ, see [TQQQ vs QQQ](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026/). Also see [TQQQ Long-Term Outlook](/strategies/tqqq-long-term-outlook/), [Dollar-Cost Averaging TQQQ](/strategies/dollar-cost-averaging-tqqq/), and [Compounding Returns with TQQQ](/strategies/compounding-returns-tqqq/).
 
+The catch is that one successful exit does not prove long-term superiority. Masonson's research shows lower risk-adjusted returns when the strategy is applied to TQQQ than when TQQQ is simply held, because moving-average exits can miss the rapid recoveries that drive much of its decade-long compounding.
+
 If you [hold TQQQ](/strategies/tqqq-long-term-strategy-buy-and-hold/) and have encountered this strategy - or are considering it - this article presents what it actually delivers, verified, for both QQQ and TQQQ, and what you should do with it instead.
 
 ---
@@ -116,7 +118,7 @@ Every exit from TQQQ to cash is a taxable event. Because most TQQQ exit signals 
 
 For a US investor in the 32% federal bracket, a strategy that generates 20% of pre-tax gains annually but crystallizes them as short-term gains retains approximately 13.6% after tax. Buy-and-hold TQQQ, with the same 20% pre-tax return, retains approximately 16% after tax (20% long-term capital gains rate after one year). The tax cost of active trading erodes a significant portion of the strategy's theoretical pre-tax advantage.
 
-For non-US investors, each QQQ crossing below the 225-day line that triggers a TQQQ sale crystallizes a gain taxed at the full domestic rate - 25% in [Germany](/us-investing/invest-us-stocks-germany/) (Abgeltungsteuer), 18-24% in the [UK](/us-investing/invest-us-stocks-uk/), 25% in Israel. Multiple whipsaw signals in a sideways year each trigger a separate taxable event.
+For non-US investors, each QQQ crossing below the 225-day line that triggers a TQQQ sale crystallizes a gain taxed at the full domestic rate - 25% in [Germany](\taxes\us-germany-tax-treaty-investors/) (Abgeltungsteuer), 18-24% in the [UK](/taxes/us-uk-tax-treaty-investors/), 25% in Israel. Multiple whipsaw signals in a sideways year each trigger a separate taxable event.
 
 ### Reason 3: Whipsaw trades in volatile markets
 

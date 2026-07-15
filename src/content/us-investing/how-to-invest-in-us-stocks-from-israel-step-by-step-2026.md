@@ -47,7 +47,7 @@ Yet many Israelis are put off by the perceived complexity - foreign brokers, unf
 
 ## **Is It Legal for Israelis to Invest in US Stocks?**
 
-Yes, completely. Israeli residents are legally permitted to hold foreign investment accounts and invest in US stocks, ETFs, and other securities. There is no restriction on the amount you can invest abroad, provided you report your foreign income and assets to the [Israeli Tax](/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026/) Authority (ITA) as required.
+Yes, completely. Israeli residents are legally permitted to hold foreign investment accounts and invest in US stocks, ETFs, and other securities. There is no restriction on the amount you can invest abroad, provided you report your foreign income and assets to the Israeli Tax Authority (ITA) as required.
 
 Key legal points:
 

@@ -55,7 +55,7 @@ schema:
 ---
 If you invest in US stocks or ETFs as a non-US resident, one form directly determines how much of your returns you actually keep: the W-8BEN.
 
-Without it, the IRS withholds 30% of your dividends and certain types of interest. With it, and with the correct tax treaty applied, that rate drops to 15% for most countries and 25% for [Israeli](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026/) investors.
+Without it, the IRS withholds 30% of your dividends and certain types of interest. With it, and with the correct tax treaty applied, that rate drops to 15% for most countries and 25% for [Israeli](/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026/) investors.
 
 Over time, that difference compounds into thousands of dollars.
 

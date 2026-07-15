@@ -40,7 +40,7 @@ Updated: May 2026  •  GetGlobalYields.com  •  Read time: ~8 min
 
 💡 **Bottom Line**
 
-The US-Israel tax treaty reduces US withholding on dividends from 30% to 15% for Israeli residents. Capital gains on US stocks are generally tax-free in the US if you're an Israeli resident.
+The US-Israel tax treaty reduces US withholding on dividends from 30% to 25% for Israeli residents. Capital gains on US stocks are generally tax-free in the US if you're an Israeli resident.
 
 But you need to file a [W-8BEN](/taxes/w8ben-form-non-us-investors/) form with your broker to claim these rates. This guide covers the current treaty rates, how to apply them, and what Israeli investors need to know for 2026.
 

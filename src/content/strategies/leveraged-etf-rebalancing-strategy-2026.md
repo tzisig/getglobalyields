@@ -230,7 +230,7 @@ The rebalancing framework applies globally. What changes is the tax treatment of
 
 ### Israeli Investors
 
-[Israeli](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026/) residents pay 25% capital gains tax on the real (inflation-adjusted) gain from the sale of securities, per the Income Tax Ordinance. As of 2025, investors whose annual capital income exceeds NIS 721,560 face an additional 2% surtax on top of the existing 3% general income surtax - bringing the effective rate on high-income capital gains to 30% above that threshold. Capital losses can be offset against capital gains, dividend income, and interest from other securities (provided the income was not taxed above 25%), and can be carried forward indefinitely.
+[Israeli](/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026/) residents pay 25% capital gains tax on the real (inflation-adjusted) gain from the sale of securities, per the Income Tax Ordinance. As of 2025, investors whose annual capital income exceeds NIS 721,560 face an additional 2% surtax on top of the existing 3% general income surtax - bringing the effective rate on high-income capital gains to 30% above that threshold. Capital losses can be offset against capital gains, dividend income, and interest from other securities (provided the income was not taxed above 25%), and can be carried forward indefinitely.
 
 **What this means in practice for a TQQQ portfolio:**
 

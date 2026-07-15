@@ -126,7 +126,7 @@ Another India-focused platform with a strong mobile app and an integrated approa
 
 ### Winvesta
 
-[UK](/us-investing/invest-us-stocks-uk/)-regulated platform that has built a significant Indian user base. Strong on compliance and reporting, reasonable fees, and a decent mobile experience.
+UK-regulated platform that has built a significant Indian user base. Strong on compliance and reporting, reasonable fees, and a decent mobile experience.
 
 **The honest comparison:**
 
