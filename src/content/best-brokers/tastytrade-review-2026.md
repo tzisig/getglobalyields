@@ -126,7 +126,7 @@ SIPC coverage extends to international accounts through the US-regulated entity 
 
 Entity accounts (corporations, trusts) are not currently supported for international clients. Individual and joint accounts only.
 
-Not all countries are eligible. tastytrade does not maintain a fully public list, so you need to check their international accounts page or contact accounts@tastytrade.com to confirm availability in your country before going further.
+Not all countries are eligible. tastytrade does not maintain a fully public list, so you need to check their international accounts page to confirm availability in your country before going further.
 
 The practical reality for an international options trader - say, someone based in [Israel](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026/), the Netherlands, or Singapore trading 20-30 contracts per strategy - is that tastytrade's commission structure can still produce meaningful savings even after the $45 withdrawal fee. The wire friction is a one-time-per-withdrawal cost, not a per-trade cost. For an active trader, it is a manageable inconvenience rather than a dealbreaker.
 

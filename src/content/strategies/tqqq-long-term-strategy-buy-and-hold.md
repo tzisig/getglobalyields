@@ -29,7 +29,7 @@ rating: 4.8
      Recommended: Responsive AdSense display unit or broker affiliate banner ([IBKR](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/), [Saxo](/best-brokers/saxo-bank-review-2026/))
      Replace this comment block with your AdSense tag or affiliate banner HTML -->
 
-This article covers how to structure, size, and hold a TQQQ position through drawdowns. For the historical data and long-term outlook, see [TQQQ Long-Term Outlook.](tqqq-long-term-outlook)
+This article covers how to structure, size, and hold a TQQQ position through drawdowns. For the historical data and long-term outlook, see [TQQQ Long-Term Outlook.](/strategies/tqqq-long-term-outlook/)
 
 ProShares UltraPro QQQ (TQQQ) is a 3x daily-leveraged ETF that tracks the Nasdaq-100. It aims to deliver three times the daily return of the index - meaning a 1% Nasdaq gain becomes a 3% TQQQ gain, and a 1% loss becomes a 3% loss. That daily reset mechanism is what makes it powerful in bull markets and dangerous in sustained declines.
 

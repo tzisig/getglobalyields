@@ -118,7 +118,7 @@ Every exit from TQQQ to cash is a taxable event. Because most TQQQ exit signals 
 
 For a US investor in the 32% federal bracket, a strategy that generates 20% of pre-tax gains annually but crystallizes them as short-term gains retains approximately 13.6% after tax. Buy-and-hold TQQQ, with the same 20% pre-tax return, retains approximately 16% after tax (20% long-term capital gains rate after one year). The tax cost of active trading erodes a significant portion of the strategy's theoretical pre-tax advantage.
 
-For non-US investors, each QQQ crossing below the 225-day line that triggers a TQQQ sale crystallizes a gain taxed at the full domestic rate - 25% in [Germany](\taxes\us-germany-tax-treaty-investors/) (Abgeltungsteuer), 18-24% in the [UK](/taxes/us-uk-tax-treaty-investors/), 25% in Israel. Multiple whipsaw signals in a sideways year each trigger a separate taxable event.
+For non-US investors, each QQQ crossing below the 225-day line that triggers a TQQQ sale crystallizes a gain taxed at the full domestic rate - 25% in [Germany](/taxes/us-germany-tax-treaty-investors/) (Abgeltungsteuer), 18-24% in the [UK](/taxes/us-uk-tax-treaty-investors/), 25% in Israel. Multiple whipsaw signals in a sideways year each trigger a separate taxable event.
 
 ### Reason 3: Whipsaw trades in volatile markets
 
