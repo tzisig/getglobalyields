@@ -463,14 +463,18 @@ const currentPath = Astro.url.pathname;
     var attempts = 0;
     var iv = setInterval(function () {
       attempts++;
-      var frame = document.querySelector('.goog-te-banner-frame');
-      if (frame) {
-        frame.style.setProperty('display', 'none', 'important');
-        frame.style.setProperty('visibility', 'hidden', 'important');
-      }
+      document.querySelectorAll('iframe').forEach(function (f) {
+        var src = f.src || '';
+        if (src.indexOf('translate.google') !== -1) {
+          f.style.setProperty('display', 'none', 'important');
+          f.style.setProperty('height', '0px', 'important');
+          f.style.setProperty('visibility', 'hidden', 'important');
+        }
+      });
       if (document.body.style.top && document.body.style.top !== '0px') {
         document.body.style.setProperty('top', '0px', 'important');
       }
+      document.documentElement.style.setProperty('margin-top', '0px', 'important');
       if (attempts > 40) { clearInterval(iv); }
     }, 150);
   }
