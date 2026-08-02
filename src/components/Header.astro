@@ -599,9 +599,10 @@ const currentPath = Astro.url.pathname;
 </script>
 
 <style>
-  .goog-te-banner-frame { display: none !important; }
-  body { top: 0 !important; }
-  #goog-gt-tt, .goog-te-balloon-frame { display: none !important; }
+  :global(.goog-te-banner-frame) { display: none !important; }
+  :global(body) { top: 0 !important; }
+  :global(#goog-gt-tt), :global(.goog-te-balloon-frame) { display: none !important; }
+  :global(.skiptranslate) iframe { display: none !important; }
 
   .translate-dd {
     position: absolute;
