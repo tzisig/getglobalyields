@@ -464,8 +464,8 @@ const currentPath = Astro.url.pathname;
     var iv = setInterval(function () {
       attempts++;
       document.querySelectorAll('iframe').forEach(function (f) {
-        var src = f.src || '';
-        if (src.indexOf('translate.google') !== -1) {
+        var cls = f.className || '';
+        if (cls.indexOf('skiptranslate') !== -1) {
           f.style.setProperty('display', 'none', 'important');
           f.style.setProperty('height', '0px', 'important');
           f.style.setProperty('visibility', 'hidden', 'important');
@@ -512,6 +512,7 @@ const currentPath = Astro.url.pathname;
   }
 
   function setupTranslate() {
+    suppressGoogleBanner();
     var ddDesktop = document.getElementById('translate-dropdown-desktop');
     var ddMobile  = document.getElementById('translate-dropdown-mobile');
     var btnDesktop = document.getElementById('translate-btn-desktop');
