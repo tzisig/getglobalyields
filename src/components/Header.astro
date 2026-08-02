@@ -459,10 +459,27 @@ const currentPath = Astro.url.pathname;
     document.head.appendChild(s);
   }
 
+  function suppressGoogleBanner() {
+    var attempts = 0;
+    var iv = setInterval(function () {
+      attempts++;
+      var frame = document.querySelector('.goog-te-banner-frame');
+      if (frame) {
+        frame.style.setProperty('display', 'none', 'important');
+        frame.style.setProperty('visibility', 'hidden', 'important');
+      }
+      if (document.body.style.top && document.body.style.top !== '0px') {
+        document.body.style.setProperty('top', '0px', 'important');
+      }
+      if (attempts > 40) { clearInterval(iv); }
+    }, 150);
+  }
+
   function doTranslate(lang) {
     markLangChoiceMade();
     setCookie(lang);
     applyRTL(lang);
+    suppressGoogleBanner();
     loadGoogleTranslate(function() {
       triggerSelect(lang);
     });
@@ -579,6 +596,7 @@ const currentPath = Astro.url.pathname;
         document.querySelectorAll('[id^="translate-flag"]').forEach(function (el) { el.innerHTML = flagImg; });
         document.querySelectorAll('.lang-reset').forEach(function (r) { r.style.display = 'block'; });
         // Load translate engine since a language was previously selected
+        suppressGoogleBanner();
         loadGoogleTranslate(function() { triggerSelect(saved); });
       }
     } else if (!hasLangChoice()) {
