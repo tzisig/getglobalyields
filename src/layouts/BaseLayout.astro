@@ -50,17 +50,10 @@ const { title, description, image, type, keywords, seo, pubDate, updatedDate, au
         }
       }
       if (lang) {
-        ['https://translate.googleapis.com', 'https://translate.google.com', 'https://translate-pa.googleapis.com'].forEach(function (origin) {
-          var link = document.createElement('link');
-          link.rel = 'preconnect';
-          link.href = origin;
-          link.crossOrigin = 'anonymous';
-          document.head.appendChild(link);
-        });
         document.documentElement.style.setProperty('visibility', 'hidden', 'important');
         window.__ggyRevealTimeout = setTimeout(function() {
           document.documentElement.style.removeProperty('visibility');
-        }, 2500);
+        }, 600);
       }
     })();
   </script>
