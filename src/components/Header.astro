@@ -424,6 +424,11 @@ const currentPath = Astro.url.pathname;
     document.documentElement.setAttribute('dir', RTL_LANGS.indexOf(lang) !== -1 ? 'rtl' : 'ltr');
   }
 
+  function revealPage() {
+    if (window.__ggyRevealTimeout) { clearTimeout(window.__ggyRevealTimeout); }
+    document.documentElement.style.removeProperty('visibility');
+  }
+
   function triggerSelect(lang, attempts) {
     attempts = attempts || 0;
     var select = document.querySelector('.goog-te-combo');
@@ -431,6 +436,7 @@ const currentPath = Astro.url.pathname;
       select.value = lang;
       select.dispatchEvent(new Event('change', { bubbles: true }));
       select.dispatchEvent(new Event('input',  { bubbles: true }));
+      setTimeout(revealPage, 500);
       return;
     }
     if (attempts < 25) {
@@ -603,6 +609,8 @@ const currentPath = Astro.url.pathname;
         // Load translate engine since a language was previously selected
         suppressGoogleBanner();
         loadGoogleTranslate(function() { triggerSelect(saved); });
+      } else {
+        revealPage();
       }
     } else if (!hasLangChoice()) {
       // No cookie yet and the user never explicitly picked English/reset either -
@@ -612,7 +620,11 @@ const currentPath = Astro.url.pathname;
       var autoLang = country && COUNTRY_LANG[country];
       if (autoLang) {
         doTranslate(autoLang);
+      } else {
+        revealPage();
       }
+    } else {
+      revealPage();
     }
   }
 
