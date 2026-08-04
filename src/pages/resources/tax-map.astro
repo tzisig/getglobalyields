@@ -1,5 +1,132 @@
 ﻿---
 import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+// Treaty data compiled from country-by-country research (see src/content/taxes/*.md sources).
+// status: "full" = active treaty with a reduced withholding rate; "none" = no treaty in force
+// (includes terminated/suspended treaties and treaties signed but not yet in force), so the
+// US default 30% rate applies. Countries not listed here have no published guide (yet).
+const countries: [string, string, string, 'full' | 'none', string, string, string?][] = [
+  ['AUS','Australia','🇦🇺','full','15%','us-australia-tax-treaty-investors'],
+  ['AUT','Austria','🇦🇹','full','15%','us-austria-tax-treaty-investors'],
+  ['BEL','Belgium','🇧🇪','full','15%','us-belgium-tax-treaty-investors'],
+  ['BGR','Bulgaria','🇧🇬','full','10%','us-bulgaria-tax-treaty-investors'],
+  ['CAN','Canada','🇨🇦','full','15%','us-canada-tax-treaty-investors-2026'],
+  ['CHN','China','🇨🇳','full','10%','us-china-tax-treaty-investors'],
+  ['CZE','Czech Republic','🇨🇿','full','15%','us-czech-republic-tax-treaty-investors'],
+  ['DNK','Denmark','🇩🇰','full','15%','us-denmark-tax-treaty-investors'],
+  ['EGY','Egypt','🇪🇬','full','15%','us-egypt-tax-treaty-investors'],
+  ['EST','Estonia','🇪🇪','full','15%','us-estonia-tax-treaty-investors'],
+  ['FIN','Finland','🇫🇮','full','15%','us-finland-tax-treaty-investors'],
+  ['FRA','France','🇫🇷','full','15%','us-france-tax-treaty-investors'],
+  ['DEU','Germany','🇩🇪','full','15%','us-germany-tax-treaty-investors'],
+  ['GRC','Greece','🇬🇷','full','Disputed*','us-greece-tax-treaty-investors','1950 treaty predates modern dividend provisions; sources disagree on the exact individual rate — confirm directly.'],
+  ['HUN','Hungary','🇭🇺','none','30%','us-hungary-tax-treaty-investors','US Treasury terminated the treaty effective 2024-01-01 — no reduced rate is currently available.'],
+  ['ISL','Iceland','🇮🇸','full','15%','us-iceland-tax-treaty-investors'],
+  ['IND','India','🇮🇳','full','25%','us-india-tax-treaty-investors'],
+  ['IDN','Indonesia','🇮🇩','full','15%','us-indonesia-tax-treaty-investors'],
+  ['IRL','Ireland','🇮🇪','full','15%','us-ireland-tax-treaty-investors'],
+  ['ISR','Israel','🇮🇱','full','25%','us-israel-tax-treaty-explained-capital-gains-dividends-2026'],
+  ['ITA','Italy','🇮🇹','full','15%','us-italy-tax-treaty-investors'],
+  ['JPN','Japan','🇯🇵','full','10%','us-japan-tax-treaty-investors'],
+  ['KOR','South Korea','🇰🇷','full','15%','us-south-korea-tax-treaty-investors'],
+  ['LVA','Latvia','🇱🇻','full','15%','us-latvia-tax-treaty-investors'],
+  ['LTU','Lithuania','🇱🇹','full','15%','us-lithuania-tax-treaty-investors'],
+  ['LUX','Luxembourg','🇱🇺','full','15%','us-luxembourg-tax-treaty-investors'],
+  ['MYS','Malaysia','🇲🇾','full','15%','us-malaysia-tax-treaty-investors'],
+  ['MEX','Mexico','🇲🇽','full','10%','us-mexico-tax-treaty-investors'],
+  ['NLD','Netherlands','🇳🇱','full','15%','us-netherlands-tax-treaty-investors'],
+  ['NZL','New Zealand','🇳🇿','full','15%','us-new-zealand-tax-treaty-investors'],
+  ['NOR','Norway','🇳🇴','full','15%','us-norway-tax-treaty-investors'],
+  ['PHL','Philippines','🇵🇭','full','25%','us-philippines-tax-treaty-investors'],
+  ['POL','Poland','🇵🇱','full','15%','us-poland-tax-treaty-investors'],
+  ['PRT','Portugal','🇵🇹','full','15%','us-portugal-tax-treaty-investors'],
+  ['ROU','Romania','🇷🇴','full','10%','us-romania-tax-treaty-investors'],
+  ['RUS','Russia','🇷🇺','none','30%','us-russia-tax-treaty-investors','Treaty exists but core provisions have been suspended since 2024-08-16.'],
+  ['SVK','Slovakia','🇸🇰','full','15%','us-slovakia-tax-treaty-investors'],
+  ['SVN','Slovenia','🇸🇮','full','15%','us-slovenia-tax-treaty-investors'],
+  ['ZAF','South Africa','🇿🇦','full','15%','us-south-africa-tax-treaty-investors'],
+  ['ESP','Spain','🇪🇸','full','15%','us-spain-tax-treaty-investors'],
+  ['SWE','Sweden','🇸🇪','full','15%','us-sweden-tax-treaty-investors'],
+  ['CHE','Switzerland','🇨🇭','full','15%','us-switzerland-tax-treaty-investors'],
+  ['THA','Thailand','🇹🇭','full','15%','us-thailand-tax-treaty-investors'],
+  ['TUR','Turkey','🇹🇷','full','20%','us-turkey-tax-treaty-investors'],
+  ['UKR','Ukraine','🇺🇦','full','15%','us-ukraine-tax-treaty-investors'],
+  ['GBR','United Kingdom','🇬🇧','full','15%','us-uk-tax-treaty-investors'],
+  ['VEN','Venezuela','🇻🇪','full','15%','us-venezuela-tax-treaty-investors','Treaty is formally active, but targeted US sanctions affect practical broker access — confirm current status.'],
+  ['ARG','Argentina','🇦🇷','none','30%','us-argentina-tax-treaty-investors'],
+  ['BRA','Brazil','🇧🇷','none','30%','us-brazil-tax-treaty-investors'],
+  ['CHL','Chile','🇨🇱','full','15%','us-chile-tax-treaty-investors','New treaty entered into force 2023-12-19 — older sources claiming no treaty are outdated.'],
+  ['COL','Colombia','🇨🇴','none','30%','us-colombia-tax-treaty-investors'],
+  ['CRI','Costa Rica','🇨🇷','none','30%','us-costa-rica-tax-treaty-investors'],
+  ['HRV','Croatia','🇭🇷','none','30%','us-croatia-tax-treaty-investors','A treaty has been signed but is not yet in force — 30% applies until it is.'],
+  ['CYP','Cyprus','🇨🇾','full','15%','us-cyprus-tax-treaty-investors'],
+  ['MAR','Morocco','🇲🇦','full','15%','us-morocco-tax-treaty-investors'],
+  ['PAK','Pakistan','🇵🇰','full','10%','us-pakistan-tax-treaty-investors'],
+  ['PER','Peru','🇵🇪','none','30%','us-peru-tax-treaty-investors'],
+  ['TWN','Taiwan','🇹🇼','none','30%','us-taiwan-tax-treaty-investors','No treaty exists due to lack of formal diplomatic relations — pending US legislation (H.R. 33) would change this.'],
+  ['ARE','United Arab Emirates','🇦🇪','none','30%','us-uae-tax-treaty-investors'],
+  ['BHR','Bahrain','🇧🇭','none','30%','us-bahrain-tax-treaty-investors'],
+  ['BGD','Bangladesh','🇧🇩','full','10%','us-bangladesh-tax-treaty-investors'],
+  ['BOL','Bolivia','🇧🇴','none','30%','us-bolivia-tax-treaty-investors'],
+  ['KHM','Cambodia','🇰🇭','none','30%','us-cambodia-tax-treaty-investors'],
+  ['CMR','Cameroon','🇨🇲','none','30%','us-cameroon-tax-treaty-investors'],
+  ['DOM','Dominican Republic','🇩🇴','none','30%','us-dominican-republic-tax-treaty-investors'],
+  ['ECU','Ecuador','🇪🇨','none','30%','us-ecuador-tax-treaty-investors'],
+  ['ETH','Ethiopia','🇪🇹','none','30%','us-ethiopia-tax-treaty-investors'],
+  ['GHA','Ghana','🇬🇭','none','30%','us-ghana-tax-treaty-investors'],
+  ['GTM','Guatemala','🇬🇹','none','30%','us-guatemala-tax-treaty-investors'],
+  ['IRN','Iran','🇮🇷','none','30%','us-iran-tax-treaty-investors','Under comprehensive US sanctions — US brokers generally cannot legally serve Iran-based clients.'],
+  ['IRQ','Iraq','🇮🇶','none','30%','us-iraq-tax-treaty-investors'],
+  ['JOR','Jordan','🇯🇴','none','30%','us-jordan-tax-treaty-investors'],
+  ['KEN','Kenya','🇰🇪','none','30%','us-kenya-tax-treaty-investors'],
+  ['KWT','Kuwait','🇰🇼','none','30%','us-kuwait-tax-treaty-investors'],
+  ['LBN','Lebanon','🇱🇧','none','30%','us-lebanon-tax-treaty-investors','Lebanon’s banking crisis since 2019 is a bigger practical concern than the tax rate — see the guide.'],
+  ['NGA','Nigeria','🇳🇬','none','30%','us-nigeria-tax-treaty-investors'],
+  ['OMN','Oman','🇴🇲','none','30%','us-oman-tax-treaty-investors','Oman introduces a 5% personal income tax on worldwide income above ~$109,200/yr starting 2028-01-01.'],
+  ['PAN','Panama','🇵🇦','none','30%','us-panama-tax-treaty-investors'],
+  ['PRY','Paraguay','🇵🇾','none','30%','us-paraguay-tax-treaty-investors'],
+  ['QAT','Qatar','🇶🇦','none','30%','us-qatar-tax-treaty-investors'],
+  ['SAU','Saudi Arabia','🇸🇦','none','30%','us-saudi-arabia-tax-treaty-investors'],
+  ['SRB','Serbia','🇷🇸','none','30%','us-serbia-tax-treaty-investors'],
+  ['SGP','Singapore','🇸🇬','none','30%','us-singapore-tax-treaty-investors'],
+  ['LKA','Sri Lanka','🇱🇰','full','15%','us-sri-lanka-tax-treaty-investors'],
+  ['TZA','Tanzania','🇹🇿','none','30%','us-tanzania-tax-treaty-investors'],
+  ['TUN','Tunisia','🇹🇳','full','20%','us-tunisia-tax-treaty-investors','Unusually high portfolio rate — direct 25%+ corporate holders get a lower 14%.'],
+  ['UGA','Uganda','🇺🇬','none','30%','us-uganda-tax-treaty-investors'],
+  ['URY','Uruguay','🇺🇾','none','30%','us-uruguay-tax-treaty-investors'],
+  ['VNM','Vietnam','🇻🇳','none','30%','us-vietnam-tax-treaty-investors'],
+  ['ZMB','Zambia','🇿🇲','none','30%','us-zambia-tax-treaty-investors'],
+  ['ZWE','Zimbabwe','🇿🇼','none','30%','us-zimbabwe-tax-treaty-investors'],
+  ['USA','United States','🇺🇸','full','0%',''],
+];
+
+const iso3ToIso2: Record<string, string> = {
+  AUS:'au',AUT:'at',BEL:'be',BGR:'bg',CAN:'ca',CHN:'cn',CZE:'cz',DNK:'dk',EGY:'eg',EST:'ee',
+  FIN:'fi',FRA:'fr',DEU:'de',GRC:'gr',HUN:'hu',ISL:'is',IND:'in',IDN:'id',IRL:'ie',ISR:'il',
+  ITA:'it',JPN:'jp',KOR:'kr',LVA:'lv',LTU:'lt',LUX:'lu',MYS:'my',MEX:'mx',NLD:'nl',NZL:'nz',
+  NOR:'no',PHL:'ph',POL:'pl',PRT:'pt',ROU:'ro',RUS:'ru',SVK:'sk',SVN:'si',ZAF:'za',ESP:'es',
+  SWE:'se',CHE:'ch',THA:'th',TUR:'tr',UKR:'ua',GBR:'gb',VEN:'ve',ARG:'ar',BRA:'br',CHL:'cl',
+  COL:'co',CRI:'cr',HRV:'hr',CYP:'cy',MAR:'ma',PAK:'pk',PER:'pe',TWN:'tw',ARE:'ae',BHR:'bh',
+  BGD:'bd',BOL:'bo',KHM:'kh',CMR:'cm',DOM:'do',ECU:'ec',ETH:'et',GHA:'gh',GTM:'gt',IRN:'ir',
+  IRQ:'iq',JOR:'jo',KEN:'ke',KWT:'kw',LBN:'lb',NGA:'ng',OMN:'om',PAN:'pa',PRY:'py',QAT:'qa',
+  SAU:'sa',SRB:'rs',SGP:'sg',LKA:'lk',TZA:'tz',TUN:'tn',UGA:'ug',URY:'uy',VNM:'vn',ZMB:'zm',
+  ZWE:'zw',USA:'us',
+};
+
+// Only countries whose article is currently published (draft:false) get a working guide link —
+// this stays correct automatically as the staged rollout publishes new country guides.
+const publishedSlugs = new Set(
+  (await getCollection('taxes')).filter(p => !p.data.draft).map(p => p.id)
+);
+
+const treatyDataEntries = countries.map(([iso3, name, flag, status, rate, slug, note]) => {
+  const hasGuide = Boolean(slug) && publishedSlugs.has(slug);
+  const isScheduled = Boolean(slug) && !publishedSlugs.has(slug);
+  return [iso3, { name, flag, status, rate, guide: hasGuide ? `/taxes/${slug}` : null, scheduled: isScheduled, note: note ?? null }];
+});
+const treatyDataJson = JSON.stringify(Object.fromEntries(treatyDataEntries));
+const iso3ToIso2Json = JSON.stringify(iso3ToIso2);
 ---
 
 <BaseLayout
@@ -365,8 +492,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
           <div class="tooltip-map" id="tooltip-map"></div>
           <svg id="map-svg" viewBox="0 0 960 500"></svg>
           <div class="legend">
-            <div class="legend-item"><span class="legend-dot green"></span> Full Treaty (15%)</div>
-            <div class="legend-item"><span class="legend-dot yellow"></span> Partial / Limited</div>
+            <div class="legend-item"><span class="legend-dot green"></span> Treaty in Force (reduced rate)</div>
             <div class="legend-item"><span class="legend-dot red"></span> No Treaty (30%)</div>
             <div class="legend-item"><span class="legend-dot default"></span> No Data</div>
           </div>
@@ -384,116 +510,15 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
       </div>
 
       <div class="disclaimer">
-        <strong>Disclaimer:</strong> Treaty statuses are based on publicly available IRS data and may change. This map is for educational purposes only. Always consult a qualified tax professional for advice specific to your situation. Last updated: March 2026.
+        <strong>Disclaimer:</strong> Treaty statuses are based on publicly available IRS data and may change. This map is for educational purposes only. Always consult a qualified tax professional for advice specific to your situation. Last updated: August 2026.
       </div>
     </div>
   </div>
 
-  <script is:inline>
+  <script is:inline define:vars={{ treatyDataJson, iso3ToIso2Json }}>
     (function() {
-      const treatyData = {
-        AUS: { name: "Australia", flag: "🇦🇺", status: "full", rate: "15%", estateTax: "No", w8ben: "Yes", guide: "/taxes/us-australia-tax-treaty-investors" },
-        AUT: { name: "Austria", flag: "🇦🇹", status: "full", rate: "15%", estateTax: "No", w8ben: "Yes", guide: "/taxes/us-austria-tax-treaty-investors" },
-        BEL: { name: "Belgium", flag: "🇧🇪", status: "full", rate: "15%", estateTax: "No", w8ben: "Yes", guide: "/taxes/us-belgium-tax-treaty-investors" },
-        BGR: { name: "Bulgaria", flag: "🇧🇬", status: "full", rate: "10%", estateTax: "No", w8ben: "Yes", guide: "/taxes/us-bulgaria-tax-treaty-investors" },
-        CAN: { name: "Canada", flag: "🇨🇦", status: "full", rate: "15%", estateTax: "No", w8ben: "Yes", guide: "/taxes/us-canada-tax-treaty-investors-2026" },
-        CHN: { name: "China", flag: "🇨🇳", status: "full", rate: "10%", estateTax: "No", w8ben: "Yes", guide: "/taxes/us-china-tax-treaty-investors" },
-        CZE: { name: "Czech Republic", flag: "🇨🇿", status: "full", rate: "15%", estateTax: "No", w8ben: "Yes", guide: "/taxes/us-czech-republic-tax-treaty-investors" },
-        DNK: { name: "Denmark", flag: "🇩🇰", status: "full", rate: "15%", estateTax: "No", w8ben: "Yes", guide: "/taxes/us-denmark-tax-treaty-investors" },
-        EGY: { name: "Egypt", flag: "🇪🇬", status: "full", rate: "15%", estateTax: "No", w8ben: "Yes", guide: "/taxes/egypt" },
-        EST: { name: "Estonia", flag: "🇪🇪", status: "full", rate: "15%", estateTax: "No", w8ben: "Yes", guide: "/taxes/estonia" },
-        FIN: { name: "Finland", flag: "🇫🇮", status: "full", rate: "15%", estateTax: "No", w8ben: "Yes", guide: "/taxes/finland" },
-        FRA: { name: "France", flag: "🇫🇷", status: "full", rate: "15%", estateTax: "No", w8ben: "Yes", guide: "/taxes/france" },
-        DEU: { name: "Germany", flag: "🇩🇪", status: "full", rate: "15%", estateTax: "No", w8ben: "Yes", guide: "/taxes/us-germany-tax-treaty-investors" },
-        GRC: { name: "Greece", flag: "🇬🇷", status: "full", rate: "15%", estateTax: "No", w8ben: "Yes", guide: "/taxes/greece" },
-        HUN: { name: "Hungary", flag: "🇭🇺", status: "full", rate: "15%", estateTax: "No", w8ben: "Yes", guide: "/taxes/hungary" },
-        ISL: { name: "Iceland", flag: "🇮🇸", status: "full", rate: "15%", estateTax: "No", w8ben: "Yes", guide: "/taxes/iceland" },
-        IND: { name: "India", flag: "🇮🇳", status: "full", rate: "25%", estateTax: "No", w8ben: "Yes", guide: "/taxes/india" },
-        IDN: { name: "Indonesia", flag: "🇮🇩", status: "full", rate: "15%", estateTax: "No", w8ben: "Yes", guide: "/taxes/indonesia" },
-        IRL: { name: "Ireland", flag: "🇮🇪", status: "full", rate: "15%", estateTax: "No", w8ben: "Yes", guide: "/taxes/ireland" },
-        ISR: { name: "Israel", flag: "🇮🇱", status: "full", rate: "25%", estateTax: "No", w8ben: "Yes", guide: "/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026" },
-        ITA: { name: "Italy", flag: "🇮🇹", status: "full", rate: "15%", estateTax: "No", w8ben: "Yes", guide: "/taxes/italy" },
-        JPN: { name: "Japan", flag: "🇯🇵", status: "full", rate: "10%", estateTax: "No", w8ben: "Yes", guide: "/taxes/japan" },
-        KOR: { name: "South Korea", flag: "🇰🇷", status: "full", rate: "15%", estateTax: "No", w8ben: "Yes", guide: "/taxes/south-korea" },
-        LVA: { name: "Latvia", flag: "🇱🇻", status: "full", rate: "15%", estateTax: "No", w8ben: "Yes", guide: "/taxes/latvia" },
-        LTU: { name: "Lithuania", flag: "🇱🇹", status: "full", rate: "15%", estateTax: "No", w8ben: "Yes", guide: "/taxes/lithuania" },
-        LUX: { name: "Luxembourg", flag: "🇱🇺", status: "full", rate: "15%", estateTax: "No", w8ben: "Yes", guide: "/taxes/luxembourg" },
-        MYS: { name: "Malaysia", flag: "🇲🇾", status: "full", rate: "15%", estateTax: "No", w8ben: "Yes", guide: "/taxes/malaysia" },
-        MEX: { name: "Mexico", flag: "🇲🇽", status: "full", rate: "10%", estateTax: "No", w8ben: "Yes", guide: "/taxes/mexico" },
-        NLD: { name: "Netherlands", flag: "🇳🇱", status: "full", rate: "15%", estateTax: "No", w8ben: "Yes", guide: "/taxes/netherlands" },
-        NZL: { name: "New Zealand", flag: "🇳🇿", status: "full", rate: "15%", estateTax: "No", w8ben: "Yes", guide: "/taxes/new-zealand" },
-        NOR: { name: "Norway", flag: "🇳🇴", status: "full", rate: "15%", estateTax: "No", w8ben: "Yes", guide: "/taxes/norway" },
-        PHL: { name: "Philippines", flag: "🇵🇭", status: "full", rate: "25%", estateTax: "No", w8ben: "Yes", guide: "/taxes/philippines" },
-        POL: { name: "Poland", flag: "🇵🇱", status: "full", rate: "15%", estateTax: "No", w8ben: "Yes", guide: "/taxes/poland" },
-        PRT: { name: "Portugal", flag: "🇵🇹", status: "full", rate: "15%", estateTax: "No", w8ben: "Yes", guide: "/taxes/portugal" },
-        ROU: { name: "Romania", flag: "🇷🇴", status: "full", rate: "10%", estateTax: "No", w8ben: "Yes", guide: "/taxes/romania" },
-        RUS: { name: "Russia", flag: "🇷🇺", status: "full", rate: "10%", estateTax: "No", w8ben: "Yes", guide: "/taxes/russia" },
-        SVK: { name: "Slovakia", flag: "🇸🇰", status: "full", rate: "15%", estateTax: "No", w8ben: "Yes", guide: "/taxes/slovakia" },
-        SVN: { name: "Slovenia", flag: "🇸🇮", status: "full", rate: "15%", estateTax: "No", w8ben: "Yes", guide: "/taxes/slovenia" },
-        ZAF: { name: "South Africa", flag: "🇿🇦", status: "full", rate: "15%", estateTax: "No", w8ben: "Yes", guide: "/taxes/south-africa" },
-        ESP: { name: "Spain", flag: "🇪🇸", status: "full", rate: "15%", estateTax: "No", w8ben: "Yes", guide: "/taxes/spain" },
-        SWE: { name: "Sweden", flag: "🇸🇪", status: "full", rate: "15%", estateTax: "No", w8ben: "Yes", guide: "/taxes/sweden" },
-        CHE: { name: "Switzerland", flag: "🇨🇭", status: "full", rate: "15%", estateTax: "No", w8ben: "Yes", guide: "/taxes/switzerland" },
-        THA: { name: "Thailand", flag: "🇹🇭", status: "full", rate: "15%", estateTax: "No", w8ben: "Yes", guide: "/taxes/thailand" },
-        TUR: { name: "Turkey", flag: "🇹🇷", status: "full", rate: "20%", estateTax: "No", w8ben: "Yes", guide: "/taxes/turkey" },
-        UKR: { name: "Ukraine", flag: "🇺🇦", status: "full", rate: "15%", estateTax: "No", w8ben: "Yes", guide: "/taxes/ukraine" },
-        GBR: { name: "United Kingdom", flag: "🇬🇧", status: "full", rate: "15%", estateTax: "No", w8ben: "Yes", guide: "/taxes/us-uk-tax-treaty-investors" },
-        VEN: { name: "Venezuela", flag: "🇻🇪", status: "full", rate: "10%", estateTax: "No", w8ben: "Yes", guide: "/taxes/venezuela" },
-        ARG: { name: "Argentina", flag: "🇦🇷", status: "partial", rate: "15%", estateTax: "Yes", w8ben: "Yes", guide: "/taxes/argentina" },
-        BRA: { name: "Brazil", flag: "🇧🇷", status: "partial", rate: "30%", estateTax: "Yes", w8ben: "Yes", guide: "/taxes/brazil" },
-        CHL: { name: "Chile", flag: "🇨🇱", status: "partial", rate: "15%", estateTax: "Yes", w8ben: "Yes", guide: "/taxes/chile" },
-        COL: { name: "Colombia", flag: "🇨🇴", status: "partial", rate: "15%", estateTax: "Yes", w8ben: "Yes", guide: "/taxes/colombia" },
-        CRI: { name: "Costa Rica", flag: "🇨🇷", status: "partial", rate: "15%", estateTax: "Yes", w8ben: "Yes", guide: "/taxes/costa-rica" },
-        HRV: { name: "Croatia", flag: "🇭🇷", status: "partial", rate: "15%", estateTax: "Yes", w8ben: "Yes", guide: "/taxes/croatia" },
-        CYP: { name: "Cyprus", flag: "🇨🇾", status: "partial", rate: "15%", estateTax: "Yes", w8ben: "Yes", guide: "/taxes/cyprus" },
-        MAR: { name: "Morocco", flag: "🇲🇦", status: "partial", rate: "15%", estateTax: "Yes", w8ben: "Yes", guide: "/taxes/morocco" },
-        PAK: { name: "Pakistan", flag: "🇵🇰", status: "partial", rate: "30%", estateTax: "Yes", w8ben: "Yes", guide: "/taxes/pakistan" },
-        PER: { name: "Peru", flag: "🇵🇪", status: "partial", rate: "15%", estateTax: "Yes", w8ben: "Yes", guide: "/taxes/peru" },
-        TWN: { name: "Taiwan", flag: "🇹🇼", status: "partial", rate: "15%", estateTax: "Yes", w8ben: "Yes", guide: "/taxes/taiwan" },
-        ARE: { name: "United Arab Emirates", flag: "🇦🇪", status: "none", rate: "30%", estateTax: "Yes", w8ben: "Yes", guide: "/taxes/uae" },
-        BHR: { name: "Bahrain", flag: "🇧🇭", status: "none", rate: "30%", estateTax: "Yes", w8ben: "Yes", guide: "/taxes/bahrain" },
-        BGD: { name: "Bangladesh", flag: "🇧🇩", status: "none", rate: "30%", estateTax: "Yes", w8ben: "Yes", guide: "/taxes/bangladesh" },
-        BOL: { name: "Bolivia", flag: "🇧🇴", status: "none", rate: "30%", estateTax: "Yes", w8ben: "Yes", guide: "/taxes/bolivia" },
-        KHM: { name: "Cambodia", flag: "🇰🇭", status: "none", rate: "30%", estateTax: "Yes", w8ben: "Yes", guide: "/taxes/cambodia" },
-        CMR: { name: "Cameroon", flag: "🇨🇲", status: "none", rate: "30%", estateTax: "Yes", w8ben: "Yes", guide: "/taxes/cameroon" },
-        DOM: { name: "Dominican Republic", flag: "🇩🇴", status: "none", rate: "30%", estateTax: "Yes", w8ben: "Yes", guide: "/taxes/dominican-republic" },
-        ECU: { name: "Ecuador", flag: "🇪🇨", status: "none", rate: "30%", estateTax: "Yes", w8ben: "Yes", guide: "/taxes/ecuador" },
-        ETH: { name: "Ethiopia", flag: "🇪🇹", status: "none", rate: "30%", estateTax: "Yes", w8ben: "Yes", guide: "/taxes/ethiopia" },
-        GHA: { name: "Ghana", flag: "🇬🇭", status: "none", rate: "30%", estateTax: "Yes", w8ben: "Yes", guide: "/taxes/ghana" },
-        GTM: { name: "Guatemala", flag: "🇬🇹", status: "none", rate: "30%", estateTax: "Yes", w8ben: "Yes", guide: "/taxes/guatemala" },
-        IRN: { name: "Iran", flag: "🇮🇷", status: "none", rate: "30%", estateTax: "Yes", w8ben: "Yes", guide: "/taxes/iran" },
-        IRQ: { name: "Iraq", flag: "🇮🇶", status: "none", rate: "30%", estateTax: "Yes", w8ben: "Yes", guide: "/taxes/iraq" },
-        JOR: { name: "Jordan", flag: "🇯🇴", status: "none", rate: "30%", estateTax: "Yes", w8ben: "Yes", guide: "/taxes/jordan" },
-        KEN: { name: "Kenya", flag: "🇰🇪", status: "none", rate: "30%", estateTax: "Yes", w8ben: "Yes", guide: "/taxes/kenya" },
-        KWT: { name: "Kuwait", flag: "🇰🇼", status: "none", rate: "30%", estateTax: "Yes", w8ben: "Yes", guide: "/taxes/kuwait" },
-        LBN: { name: "Lebanon", flag: "🇱🇧", status: "none", rate: "30%", estateTax: "Yes", w8ben: "Yes", guide: "/taxes/lebanon" },
-        NGA: { name: "Nigeria", flag: "🇳🇬", status: "none", rate: "30%", estateTax: "Yes", w8ben: "Yes", guide: "/taxes/nigeria" },
-        OMN: { name: "Oman", flag: "🇴🇲", status: "none", rate: "30%", estateTax: "Yes", w8ben: "Yes", guide: "/taxes/oman" },
-        PAN: { name: "Panama", flag: "🇵🇦", status: "none", rate: "30%", estateTax: "Yes", w8ben: "Yes", guide: "/taxes/panama" },
-        PRY: { name: "Paraguay", flag: "🇵🇾", status: "none", rate: "30%", estateTax: "Yes", w8ben: "Yes", guide: "/taxes/paraguay" },
-        QAT: { name: "Qatar", flag: "🇶🇦", status: "none", rate: "30%", estateTax: "Yes", w8ben: "Yes", guide: "/taxes/qatar" },
-        SAU: { name: "Saudi Arabia", flag: "🇸🇦", status: "none", rate: "30%", estateTax: "Yes", w8ben: "Yes", guide: "/taxes/saudi-arabia" },
-        SRB: { name: "Serbia", flag: "🇷🇸", status: "none", rate: "30%", estateTax: "Yes", w8ben: "Yes", guide: "/taxes/serbia" },
-        SGP: { name: "Singapore", flag: "🇸🇬", status: "none", rate: "30%", estateTax: "Yes", w8ben: "Yes", guide: "/taxes/singapore" },
-        LKA: { name: "Sri Lanka", flag: "🇱🇰", status: "none", rate: "30%", estateTax: "Yes", w8ben: "Yes", guide: "/taxes/sri-lanka" },
-        TZA: { name: "Tanzania", flag: "🇹🇿", status: "none", rate: "30%", estateTax: "Yes", w8ben: "Yes", guide: "/taxes/tanzania" },
-        TUN: { name: "Tunisia", flag: "🇹🇳", status: "none", rate: "30%", estateTax: "Yes", w8ben: "Yes", guide: "/taxes/tunisia" },
-        UGA: { name: "Uganda", flag: "🇺🇬", status: "none", rate: "30%", estateTax: "Yes", w8ben: "Yes", guide: "/taxes/uganda" },
-        URY: { name: "Uruguay", flag: "🇺🇾", status: "none", rate: "30%", estateTax: "Yes", w8ben: "Yes", guide: "/taxes/uruguay" },
-        VNM: { name: "Vietnam", flag: "🇻🇳", status: "none", rate: "30%", estateTax: "Yes", w8ben: "Yes", guide: "/taxes/vietnam" },
-        ZMB: { name: "Zambia", flag: "🇿🇲", status: "none", rate: "30%", estateTax: "Yes", w8ben: "Yes", guide: "/taxes/zambia" },
-        ZWE: { name: "Zimbabwe", flag: "🇿🇼", status: "none", rate: "30%", estateTax: "Yes", w8ben: "Yes", guide: "/taxes/zimbabwe" },
-        USA: { name: "United States", flag: "🇺🇸", status: "full", rate: "0%", estateTax: "No", w8ben: "No", guide: "/taxes/united-states" },
-      };
-      const iso3ToIso2 = {
-        AUS: "au", AUT: "at", BEL: "be", BGR: "bg", CAN: "ca", CHN: "cn", CZE: "cz", DNK: "dk", EGY: "eg", EST: "ee",
-        FIN: "fi", FRA: "fr", DEU: "de", GRC: "gr", HUN: "hu", ISL: "is", IND: "in", IDN: "id", IRL: "ie", ISR: "il",
-        ITA: "it", JPN: "jp", KOR: "kr", LVA: "lv", LTU: "lt", LUX: "lu", MYS: "my", MEX: "mx", NLD: "nl", NZL: "nz",
-        NOR: "no", PHL: "ph", POL: "pl", PRT: "pt", ROU: "ro", RUS: "ru", SVK: "sk", SVN: "si", ZAF: "za", ESP: "es",
-        SWE: "se", CHE: "ch", THA: "th", TUR: "tr", UKR: "ua", GBR: "gb", VEN: "ve", ARG: "ar", BRA: "br", CHL: "cl",
-        COL: "co", ARE: "ae", SGP: "sg", SAU: "sa", NGA: "ng", USA: "us"
-      };
-
+      const treatyData = JSON.parse(treatyDataJson);
+      const iso3ToIso2 = JSON.parse(iso3ToIso2Json);
       const width = 960;
       const height = 500;
       const svg = d3.select('#map-svg');
@@ -517,39 +542,54 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 
       function getStatusColor(status) {
         if (status === 'full') return '#22c55e';
-        if (status === 'partial') return '#eab308';
         if (status === 'none') return '#ef4444';
         return '#334155';
+      }
+
+      function escapeHtml(str) {
+        return String(str).replace(/[&<>"']/g, function(c) {
+          return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
+        });
       }
 
       function updateSidebar(data, iso3) {
         sidebarPlaceholder.style.display = 'none';
         sidebarContent.style.display = 'flex';
-        const rateClass = data.status === 'full' ? 'rate-green' : data.status === 'partial' ? 'rate-yellow' : 'rate-red';
-        const statusLabel = data.status === 'full' ? 'Full Treaty' : data.status === 'partial' ? 'Partial / Limited' : 'No Treaty';
+        const rateClass = data.status === 'full' ? 'rate-green' : 'rate-red';
+        const statusLabel = data.status === 'full' ? 'Treaty in Force' : 'No Treaty';
         const iso2 = iso3ToIso2[iso3] || "un";
+        const noteRow = data.note ? `
+          <div class="info-row" style="display:block;">
+            <span class="info-label">Worth Knowing</span>
+            <p style="margin-top:6px;color:var(--text-secondary);font-size:0.8rem;line-height:1.5;">${escapeHtml(data.note)}</p>
+          </div>` : '';
+        let guideButton;
+        if (data.guide) {
+          guideButton = `<a href="${data.guide}" class="btn-guide">Read Full Guide →</a>`;
+        } else if (data.scheduled) {
+          guideButton = `<span class="btn-guide" style="opacity:0.5;cursor:default;">Guide Publishing Soon</span>`;
+        } else {
+          guideButton = `<span class="btn-guide" style="opacity:0.4;cursor:default;">Guide Not Yet Available</span>`;
+        }
         sidebarContent.innerHTML = `
           <div class="country-header">
             <img src="https://flagcdn.com/32x24/${iso2}.png" style="width:32px;height:24px;border-radius:3px;" alt="flag">
-            <span class="country-name-sidebar">${data.name}</span>
+            <span class="country-name-sidebar">${escapeHtml(data.name)}</span>
           </div>
           <div class="info-row">
             <span class="info-label">Withholding Rate</span>
-            <span class="info-value ${rateClass}">${data.rate}</span>
+            <span class="info-value ${rateClass}">${escapeHtml(data.rate)}</span>
           </div>
           <div class="info-row">
             <span class="info-label">Treaty Status</span>
             <span class="info-value">${statusLabel}</span>
           </div>
           <div class="info-row">
-            <span class="info-label">Estate Tax Exposure</span>
-            <span class="badge ${data.estateTax === 'No' ? 'yes' : 'no'}">${data.estateTax}</span>
-          </div>
-          <div class="info-row">
             <span class="info-label">W-8BEN Required</span>
-            <span class="badge ${data.w8ben === 'Yes' ? 'yes' : 'no'}">${data.w8ben}</span>
+            <span class="badge yes">Yes</span>
           </div>
-          <a href="${['AUS','AUT','BEL','BGR','CAN','CHN','CZE','DNK','DEU','GBR','ISR'].includes(iso3) ? data.guide : '#'}" class="btn-guide" ${['AUS','AUT','BEL','BGR','CAN','CHN','CZE','DNK','DEU','EGY','GBR','ISR','UGA'].includes(iso3) ? '' : 'onclick="return false;" style="opacity:0.4;cursor:default;"'}>Read Full Guide →</a>
+          ${noteRow}
+          ${guideButton}
         `;
       }
 

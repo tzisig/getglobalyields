@@ -1,0 +1,42 @@
+name: Publish Scheduled Taxes Articles
+
+# Runs daily and publishes any src/content/taxes/*.md article whose scheduled
+# pubDate has arrived, by flipping draft: true -> draft: false and pushing to main.
+# Part of a staged rollout (Sun-Thu, ~3 articles/day) so the Taxes category grows
+# gradually instead of appearing all at once.
+
+on:
+  schedule:
+    # 06:11 UTC daily. The publish script itself only acts on Sun-Thu scheduled
+    # dates, so running every day (including Fri/Sat) is harmless - it just finds
+    # nothing due on those days.
+    - cron: '11 6 * * *'
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Publish due articles
+        id: publish
+        run: node scripts/publish-scheduled-taxes.mjs
+
+      - name: Commit and push
+        if: steps.publish.outputs.published != '0'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add src/content/taxes/*.md
+          git commit -m "chore: publish scheduled taxes articles (${{ steps.publish.outputs.published }}) - ${{ steps.publish.outputs.published_list }}"
+          git push
