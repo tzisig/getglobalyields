@@ -1,9 +1,9 @@
-﻿---
+---
 slug: us-australia-tax-treaty-investors
 title: "US-Australia Tax Treaty for Investors: The Complete 2026 Guide"
-description: "US-Australia tax treaty guide for individual investors. Withholding rates on dividends, superannuation treatment, W-8BEN filing, and how Australian account types interact with US tax rules explained."
+description: "US-Australia tax treaty guide for individual investors. Withholding rates on dividends, superannuation treatment in accumulation vs pension phase, W-8BEN filing, and how Australian account types interact with US tax rules explained."
 pubDate: 2026-05-24
-updatedDate: 2026-05-24
+updatedDate: 2026-08-04
 author: "Tzion S."
 categories: ["Taxes"]
 tags:
@@ -17,55 +17,62 @@ tags:
   - "franking credits US stocks"
 heroImage: "/images/blog/taxes/us-australia-tax-treaty-investors.webp"
 draft: false
-readingTime: "16 min read"
+readingTime: "15 min read"
 featured: true
 seo:
   metaTitle: "US-Australia Tax Treaty Guide for Australian Investors (2026)"
-  metaDescription: "How the US-Australia tax treaty reduces withholding tax on dividends for Australian residents. Learn W-8BEN requirements and capital gains rules."
+  metaDescription: "How the US-Australia tax treaty reduces withholding tax on dividends for Australian residents. Super accumulation vs pension phase, W-8BEN, and CGT rules."
   ogTitle: "US-Australia Tax Treaty Guide for Australian Investors (2026)"
-  ogDescription: "How the US-Australia tax treaty reduces withholding tax on dividends for Australian residents. Learn W-8BEN requirements and capital gains rules."
+  ogDescription: "How the US-Australia tax treaty reduces withholding tax on dividends for Australian residents. Super accumulation vs pension phase, W-8BEN, and CGT rules."
   ogImage: "/images/blog/taxes/us-australia-tax-treaty-investors.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"
   headline: "US-Australia Tax Treaty Guide for Australian Investors (2026)"
-  description: "How the US-Australia tax treaty reduces withholding tax on dividends for Australian residents. Learn W-8BEN requirements and capital gains rules."
+  description: "How the US-Australia tax treaty reduces withholding tax on dividends for Australian residents. Super accumulation vs pension phase, W-8BEN, and CGT rules."
   author: "Tzion S."
   datePublished: "2026-05-24"
-  dateModified: "2026-06-30"
+  dateModified: "2026-08-04"
   image: "/images/blog/taxes/us-australia-tax-treaty-investors.webp"
   mainEntityOfPage: "https://getglobalyields.com/taxes/us-australia-tax-treaty-investors"
 ---
-
 
 <!-- ADSENSE / AFFILIATE PLACEHOLDER
      Position: Top of article, before content
      Recommended: Responsive AdSense display unit or broker affiliate banner (IBKR)
      Replace this comment block with your AdSense tag or affiliate banner HTML -->
 
-If you hold US stocks or ETFs and have never filed Form W-8BEN, every dividend you have ever received was [cut by an extra 15%](/taxes/taxes-us-dividends-foreign-investors/) - money the treaty entitles you to keep, sitting with the IRS instead of in your account. On a $50,000 US equity position yielding 2%, that is $150 every year, indefinitely, until the form is filed. It is not a one-time loss. It compounds as a recurring drag for as long as the position is held without the form on file.
+The same 15% US withholding on a superannuation fund's American dividends produces two completely different outcomes depending on one thing: whether the fund is in accumulation or pension phase. In accumulation, the fund pays 15% Australian tax on investment income anyway, so the foreign tax offset absorbs the US withholding almost exactly - the cost is close to zero. In pension phase, the fund pays 0% Australian tax on its earnings, which means there is no Australian tax left for the offset to apply against. The 15% US withholding simply disappears with nothing to show for it.
 
-The fix is a single form filed with your broker. But account structure matters even more than the form: the difference between holding US stocks inside superannuation versus a standard brokerage account can meaningfully change your long-term net return, and not always in the direction most investors assume.
-
-That is where this guide starts - with the practical decisions that affect real money - before working through the treaty mechanics, the [W-8BEN](/taxes/w8ben-form-non-us-investors/) process, and the compliance picture for [Australian residents](/us-investing/how-to-invest-in-us-stocks-from-australia/).
+That asymmetry - not the treaty rate itself, which is a fixed 15% regardless of account or phase - is the thing worth understanding before deciding where to hold US equities. This guide covers it first, then works through the treaty mechanics, W-8BEN, and capital gains treatment.
 
 ---
 
-**Meet David Chen.** David is 61, a retired civil engineer in Brisbane, and the trustee of a self-managed super fund he and his wife Linda set up in 2018. Their SMSF holds a mix of ASX stocks, Australian bonds, and since 2022, a growing allocation to US equities - mostly individual stocks and one US-domiciled ETF held on the ASX. The fund recently transitioned to pension phase.
+## How the US-Australia Treaty Stacks Up
 
-David knows super is tax-free in pension phase. What caught him off guard was his first year of US dividends after the transition: the 15% withholding was still deducted, and unlike the accumulation years where the foreign tax offset absorbed it, there was no Australian tax to offset it against. The withholding was just gone.
+| Country | US Dividends (Portfolio) | Interest | Capital Gains | Pension Exemption |
+|---|---|---|---|---|
+| Australia | 15% | **10%** | Residence only | 15% (no full exemption) |
+| United Kingdom | 15% | 0% | Residence only | 0% in qualifying SIPP |
+| [Germany](/taxes/us-germany-tax-treaty-investors/) | 15% | 0% | Residence only | Pension exemption exists |
+| [Canada](/taxes/us-canada-tax-treaty-investors-2026/) | 15% | 15% | Residence only | 0% (RRSP) |
+| Japan | **10%** | 0% | Residence only | Yes |
+| New Zealand | 15% | 10%* | Residence only | 15% |
 
-David's first year in pension phase is where this guide picks up.
+*New Zealand's rate applies to most recipients; a 0% rate applies specifically to interest paid to financial institutions.
+
+Two things stand out immediately. First, Australia's 10% interest withholding is worse than the 0% available to UK and German investors on the same income - a real cost for anyone holding US Treasuries or bond ETFs directly. Second, and more consequentially: Australian superannuation cannot get below the standard 15% portfolio dividend rate the way a UK investor's qualifying SIPP can reach 0%, or a Canadian's RRSP can reach 0%. The 15% rate is the floor for an Australian investor at every account type, including super - which is exactly why the accumulation-versus-pension-phase distinction above matters as much as it does.
 
 ---
 
-## Super vs Taxable Account: Where to Hold US Stocks
+<!-- ADSENSE / AFFILIATE PLACEHOLDER
+     Position: Mid-article, after comparison section
+     Recommended: Contextual AdSense unit or broker comparison affiliate
+     Replace this comment block with your AdSense tag or affiliate banner HTML -->
 
-The US-Australia tax treaty caps dividend withholding at 15% for portfolio investors. That is the rate that applies in a standard taxable account once you have filed W-8BEN. Superannuation funds are also eligible for the 15% rate under the treaty - and in accumulation phase, super funds pay only 15% tax on investment income anyway, meaning US withholding and Australian fund-level tax arrive at the same rate and the foreign tax offset generally eliminates double taxation almost entirely.
+---
 
-In pension phase (retirement phase), a super fund in a complying income stream pays 0% Australian tax on investment earnings. In that context, the 15% US withholding becomes a real cost with no domestic offset available - because there is no Australian tax to offset it against.
-
-**The comparison by account type:**
+## Super vs Taxable Account, By the Numbers
 
 | Account | Annual US Dividend | US Withholding | Australian Tax | Effective Net |
 |---|---|---|---|---|
@@ -75,41 +82,24 @@ In pension phase (retirement phase), a super fund in a complying income stream p
 
 *At 45%, Australian tax on $2,000 is $900; the $300 US withholding offsets part of that, leaving $600 owed to the ATO.
 
-The numbers converge for super in both phases because the foreign tax offset works in accumulation and the 0% rate means the withholding is simply a flat cost in pension phase. The real comparison is against a high-marginal-rate taxable account, where super's 15% fund tax plus the foreign offset delivers a substantially better outcome.
+The net figures for accumulation-phase and pension-phase super land in the same place, but the mechanism differs in a way that matters once the fund holds a meaningful position. In accumulation, the foreign tax offset does the work - the 15% withholding is absorbed by the fund's own 15% tax rate. In pension phase, there's no Australian tax at all, so the $300 withholding on a $2,000 dividend is simply gone with nothing to net it against.
 
-**Worked example - David's pension-phase SMSF:**
-- SMSF receives $6,000 in US dividends
-- US withholding at 15% = $900 deducted at source
-- Australian fund tax at 0% (pension phase) = $0
-- Foreign tax offset available = $0 (no Australian tax to offset against)
-- Net received: $5,100
-- Effective cost of 15% US withholding: **$900 with no recovery mechanism**
+**Worked example - a pension-phase SMSF holding $280,000 in US equities at roughly 1.8% yield:**
+- Annual US dividend income: ~$5,040
+- US withholding at 15%: ~$756
+- Australian fund tax (pension phase): $0
+- Foreign tax offset available: $0 - no Australian tax exists to offset against
+- Net cost of the 15% withholding: **~$756/year, with no recovery mechanism**
 
-Compare this to accumulation phase for the same $6,000:
-- US withholding = $900
-- Australian fund tax at 15% = $900
-- Foreign tax offset = $900 (offsets the fund tax entirely)
-- Net received: $5,100
-- Effective cost of 15% US withholding: **$0 after offset**
+That's not large enough to override the substantial benefit of pension-phase super being otherwise tax-free on both income and capital gains - but it's a real, permanent leak worth factoring into whether a pension-phase SMSF holds dividend-heavy US positions or growth-oriented ones with minimal current income. For allocation frameworks at comparable portfolio sizes, the [best high-yield ETFs guide](/strategies/best-high-yield-etfs-2026/) and [REITs vs dividend stocks comparison](/strategies/reits-vs-dividend-stocks/) cover the income-versus-growth tradeoff in more depth.
 
-The net number is identical, but the mechanism is different. In accumulation phase, the foreign tax offset absorbs the withholding cost. In pension phase, the $900 is simply gone. For David's SMSF, which now holds $280,000 in US equities with an average [yield of around 1.8%](/strategies/best-high-yield-etfs-2026/), that is roughly $756 per year in unrecoverable withholding - not catastrophic, but worth factoring into whether to hold [dividend-heavy US stocks](/strategies/reits-vs-dividend-stocks/) or growth-oriented ones inside the pension-phase fund.
-
-**The ETF caveat:** Most Australian investors access US markets through ETFs rather than individual stocks. For US-domiciled ETFs (VTS, IVV on ASX, or leveraged funds like [TQQQ](/taxes/tqqq-tax-international-investors/)), the fund itself is a US entity and pays reduced withholding under treaty rules. For Australian-domiciled ETFs that hold US stocks (such as Vanguard Australian ETFs), the fund pays 15% US withholding at the portfolio level, which flows through to unitholders as a foreign tax offset. Either way, the W-8BEN filed by the fund covers the withholding reduction - individual investors do not need to file separately for ETF holdings.
+**The ETF layer:** most Australian investors access US markets through ETFs rather than individual stocks. US-domiciled ETFs (VTS, IVV on ASX, or leveraged funds like [TQQQ](/taxes/tqqq-tax-international-investors/)) are US entities subject to reduced withholding under treaty rules at the fund level. Australian-domiciled ETFs holding US stocks pay the 15% US withholding at the portfolio level, which flows through to unitholders as a foreign tax offset. Either way, the fund's own W-8BEN covers the withholding reduction - an individual investor does not file separately for ETF holdings.
 
 ---
 
-<!-- ADSENSE / AFFILIATE PLACEHOLDER
-     Position: Mid-article, after account comparison section
-     Recommended: Contextual AdSense unit or broker comparison affiliate
-     Replace this comment block with your AdSense tag or affiliate banner HTML -->
+## The Treaty: Rates and What They Cover
 
----
-
-## The Treaty: What It Actually Covers
-
-The formal title is the *Convention Between the Government of Australia and the Government of the United States of America for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with Respect to Taxes on Income*. Signed on August 6, 1982, with a Protocol signed September 27, 2001 that updated dividend withholding rates and other provisions.
-
-The verified rates from the treaty text and the ATO's guidance:
+The formal title is the *Convention Between the Government of Australia and the Government of the United States of America for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with Respect to Taxes on Income*, signed August 6, 1982, updated by a Protocol on September 27, 2001.
 
 | Income Type | Without Treaty | Portfolio Rate | Direct Corporate (10%+) | Super Fund / Pension |
 |---|---|---|---|---|
@@ -121,185 +111,118 @@ The verified rates from the treaty text and the ATO's guidance:
 
 **Source:** US-Australia Income Tax Convention (August 6, 1982), Protocol (September 27, 2001); ATO Tax Treaty guidance; IRS Publication 515 (2026).
 
-A notable difference from the [US-UK treaty](/taxes/us-uk-tax-treaty-investors/): Australia's treaty preserves a 10% withholding rate on interest, while the US-UK treaty reduces it to 0%. For Australian investors holding US Treasuries or bond ETFs directly, that 10% applies. The dividend rates are comparable - 15% portfolio, 5% for qualifying corporates.
-
-### Interest: The 10% Rate and Why It Matters for Bond Investors
-
-Unlike the US-UK treaty, which eliminates US withholding on interest entirely, the US-Australia treaty retains a 10% source-country withholding on interest payments. This affects Australian investors holding US Treasuries directly or US-domiciled bond funds.
-
-The ATO allows a foreign tax offset for the 10% withheld, so it is not a pure loss - but it does mean bond-focused investors should factor withholding into return calculations in a way that UK investors holding the same instruments do not need to.
-
-IRC Section 871(k)(1) provides an exemption for interest-related dividends paid by US-domiciled RICs (mutual funds and ETFs) to foreign investors. If you hold a US bond ETF, the interest component of distributions may arrive without US withholding under this provision - but application varies by fund and broker. Check your annual tax statement against what was actually withheld.
-
----
-
-## How to Claim the 15% Treaty Rate: Form W-8BEN
-
-For Australian residents holding US stocks or ETFs in a taxable account or superannuation fund, claiming the reduced 15% rate requires Form W-8BEN - filed with the broker or custodian, not with the IRS directly.
-
-Australian brokers and platforms vary in how they handle this:
-
-- **CommSec:** Handles W-8BEN for international trading accounts. Submitted through the platform at account setup.
-- **SelfWealth:** Requests W-8BEN at account opening for US equities access.
-- **Stake:** W-8BEN completed as part of onboarding when opening a US account.
-- **[Interactive Brokers](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/) Australia:** W-8BEN collected at account opening; IBKR is generally reliable at applying the correct reduced rate.
-- **Superhero:** W-8BEN handled during account registration.
-
-Haven't opened a US-accessible account yet? Our guide to [opening a US brokerage account as a non-resident](/best-brokers/how-to-open-a-us-brokerage-account-as-a-non-resident-2026-guide/) covers the setup process, and our [best brokers for international investors](/best-brokers/best-brokers-international-investors-2026/) comparison looks beyond these five platforms. Currency conversion between AUD and USD is a separate cost layer worth planning for - see our [multi-currency accounts guide](/us-investing/multi-currency-investment-accounts/).
-
-If you are unsure whether a valid W-8BEN is on file, check your dividend statements. A 30% deduction confirms no treaty rate is being applied. A 15% deduction confirms the treaty rate is in effect.
-
-**W-8BEN expires after three calendar years.** A form signed in 2024 expires December 31, 2027. Brokers revert to 30% withholding on expiry. Most Australian platforms do not proactively remind customers. Set a calendar reminder.
-
-**Superannuation funds:** Self-managed super funds (SMSFs) investing directly in US stocks need to file W-8BEN-E (the entity version) with their broker rather than the individual W-8BEN. Retail and industry super funds holding US assets via pooled investment handle this at the fund level - individual members do not file separately.
-
-This is the form David's SMSF had filed correctly from the start - the broker had the W-8BEN-E on record for the fund as an entity, not an individual form under David's own name. Getting this wrong is common enough that it is worth checking directly: if an SMSF's dividend statements show 30% withholding, the entity form is the first thing to verify.
-
----
-
-## Capital Gains on US Stocks: No US Tax
-
-Under Article 13 of the treaty, gains from selling US securities are taxable only in the country of residence. For Australian residents, that means gains on US stocks are subject to Australian CGT only - no US withholding applies on sale proceeds.
-
-**Australian CGT treatment for 2025/26:**
-
-- Assets held less than 12 months: gain included in assessable income and taxed at marginal rate
-- Assets held 12 months or more: 50% CGT discount applies; net gain taxed at marginal rate
-- CGT annual exempt amount: Australia does not have a fixed annual CGT exemption the way the UK does; all net capital gains above zero are assessable
-- Super fund (accumulation): gains taxed at 10% after the 12-month discount (one-third discount rather than 50%)
-- Super fund (pension phase): gains taxed at 0%
-
-The absence of a CGT-free allowance means Australian investors have less flexibility to realize small gains annually without tax cost compared to UK investors. Tax-loss harvesting against other capital gains is the primary tool for managing CGT liability. For a real example of how holding periods and volatility play out over years, see our [TQQQ recovery case study](/case-study/from-minus-70-to-plus-492k-real-tqqq-recovery-case-study/).
-
-**Inside super:** The CGT advantage of holding US stocks in a pension-phase SMSF is significant - both dividends and capital gains arrive effectively tax-free at the Australian level, with only the 15% US withholding on dividends as an unavoidable cost.
+The 10% interest rate is worth flagging on its own: IRC §871(k)(1) exempts interest-related dividends paid by US-domiciled RICs (mutual funds and ETFs) from withholding for foreign investors, so a portion of a US bond ETF's distribution may arrive with no US withholding at all - but this exemption is not always applied correctly by brokers, so checking the annual tax statement against what was actually withheld is worth doing rather than assuming it's automatic.
 
 ---
 
 <!-- ADSENSE / AFFILIATE PLACEHOLDER
-     Position: Mid-article, after CGT section
+     Position: Mid-article, after treaty rates section
      Recommended: Contextual AdSense unit or broker comparison affiliate
      Replace this comment block with your AdSense tag or affiliate banner HTML -->
 
 ---
 
-## Australian Tax on US Dividends: The 2025/26 Numbers
+## Filing W-8BEN
 
-When US dividends land in a taxable account, they are assessable income in Australia. A foreign tax offset is available for US withholding already deducted, reducing the Australian tax owed.
+Claiming the 15% rate requires Form [W-8BEN](/taxes/w8ben-form-non-us-investors/), filed with the broker - not the IRS.
 
-**Australian resident marginal tax rates 2025/26 (post-Stage 3, unchanged from 2024/25):**
+- **CommSec:** handled for international trading accounts at setup.
+- **SelfWealth:** requested at account opening for US equities access.
+- **Stake:** completed during onboarding for a US account.
+- **[Interactive Brokers](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/) Australia:** collected at account opening; generally reliable at applying the reduced rate.
+- **Superhero:** handled during account registration.
 
-| Taxable Income | Marginal Rate |
-|---|---|
-| $0  –  $18,200 | 0% |
-| $18,201  –  $45,000 | 16% |
-| $45,001  –  $135,000 | 30% |
-| $135,001  –  $190,000 | 37% |
-| $190,001+ | 45% |
+If a broker hasn't been chosen, the [broker finder](/resources/broker-finder/) tool and the guide to [opening a US brokerage account as a non-resident](/best-brokers/how-to-open-a-us-brokerage-account-as-a-non-resident-2026-guide/) cover the setup process; the [multi-currency accounts guide](/us-investing/multi-currency-investment-accounts/) covers AUD/USD conversion costs separately.
 
-Medicare levy of 2% applies in addition to these rates for most taxpayers, bringing the effective top combined rate to 47%.
+**Self-managed super funds (SMSFs)** investing directly in US stocks need **Form W-8BEN-E** - the entity version - not the individual form. Retail and industry super funds holding US assets through pooled investment handle this at the fund level; individual members take no separate action. If an SMSF's dividend statements show 30% withholding rather than 15%, confirming the correct entity form is on file is the first thing to check.
 
-**Worked example - Australian resident at 37% marginal rate:**
-- Receives $6,000 in US dividends
-- US withholding at 15% = $900 deducted at source
-- Australian tax at 37% on $6,000 = $2,220
-- Minus $900 foreign tax offset = $1,320 owed to ATO
-- Total tax: $900 + $1,320 = $2,220 (Australian rate applied once, no double taxation)
-
-The foreign tax offset is capped at the Australian tax that would have been payable on that income. If you are in a lower marginal bracket where Australian tax is less than 15%, the excess US withholding is not refunded.
-
-**US dividends are not franked.** Australian investors are accustomed to the franking credit system that comes with domestic dividend income. US dividends carry no franking credits. The foreign tax offset for the 15% US withholding is the mechanism that prevents double taxation, but it operates differently from the dividend imputation system and does not generate a tax refund if Australian tax is lower than the offset. If you're weighing dividend-focused ETFs for a taxable account, our [JEPI vs SCHD vs QYLD comparison](/strategies/jepi-vs-schd-vs-qyld/) breaks down the tax treatment differences.
+**Verification and renewal:** 15% on a dividend statement confirms the form is active; 30% means it's missing or has lapsed. The form is valid three calendar years from signing and most Australian platforms do not proactively remind clients before expiry.
 
 ---
 
-## US Citizens in Australia: The Short Version
+## Capital Gains: Australian CGT Only
 
-This section applies to a smaller slice of readers - US citizens and Green Card holders living in Australia - but the compliance stakes are high enough that it earns its place. For the broader picture of managing investments across borders as an expat, see our [expat financial planning guide](/us-investing/expat-financial-planning-managing-investments-across-borders/).
+Article 13 gives the country of residence exclusive taxing rights over gains from selling US securities - no US withholding applies to an Australian resident's sale proceeds.
 
-Article 1 of the treaty (the "saving clause") preserves each country's right to tax its own citizens as if the treaty did not exist. In practice: a US citizen in Australia must still file Form 1040 annually, reporting worldwide income - Australian dividends, capital gains, bank interest, and super contributions. Australian residency does not exempt a US citizen from this regardless of how long they have lived abroad.
+**Australian CGT for 2026-27:**
+- Held under 12 months: gain included in assessable income at marginal rate
+- Held 12 months or more: 50% CGT discount applies, net gain taxed at marginal rate
+- No fixed annual CGT-free allowance, unlike the UK's £3,000 exempt amount - all net gains above zero are assessable
+- Super (accumulation): gains taxed at 10% after the discount (one-third rather than 50%)
+- Super (pension phase): gains taxed at 0%
 
-The mechanism that prevents most double taxation is the Foreign Tax Credit (Form 1116). Because Australian marginal rates (up to 47% with the Medicare levy) generally exceed corresponding US federal rates, the FTC typically eliminates additional US tax owed - but filing remains mandatory even when no tax is ultimately due.
+Without a CGT-free threshold, Australian investors rely on tax-loss harvesting against other realized gains as the main lever for managing the liability - there's no small-gain allowance to plan around the way there is elsewhere in this treaty series. Inside pension-phase super, both dividends and capital gains are effectively tax-free at the Australian level, leaving the 15% US withholding on dividends as the only unavoidable cost. For a real example of how holding periods and volatility play out over years, the [TQQQ recovery case study](/case-study/from-minus-70-to-plus-492k-real-tqqq-recovery-case-study/) is a useful reference point.
 
-Two areas create disproportionate compliance risk:
+---
 
-**Superannuation.** The IRS does not recognize super as a tax-deferred pension the way Australia treats a 401(k). For a US citizen who is a trustee or beneficiary of an SMSF, this can trigger foreign grantor trust rules - Form 3520 and 3520-A filings, with penalties for non-compliance running as high as 5% of the trust's value per year. Whether employer super contributions are currently taxable for US purposes is an unsettled area; specialist cross-border advice is not optional here.
+## Australian Tax on US Dividends: The 2026-27 Numbers
 
-**Australian-domiciled funds as PFICs.** Australian unit trusts, ETFs, and managed funds are Passive Foreign Investment Companies under US tax law - punitive tax rates plus annual Form 8621 filing per fund. US citizens in Australia are generally better off in direct stocks or US-domiciled ETFs.
+US dividends in a taxable account are assessable income, with a foreign tax offset available for the US withholding already paid.
 
-Beyond these, the standard reporting applies: FBAR (FinCEN 114) if aggregate Australian account balances exceed $10,000 at any point in the year, and Form 8938 (FATCA) above $200,000/$300,000 (single) or $400,000/$600,000 (joint) for taxpayers living abroad - both thresholds that an SMSF balance alone will often exceed.
+**Marginal tax rates, 2026-27 financial year** (one legislated change from 2025-26: the second bracket drops from 16% to 15%):
+
+| Taxable Income | Marginal Rate |
+|---|---|
+| $0 - $18,200 | 0% |
+| $18,201 - $45,000 | **15%** (down from 16% in 2025-26) |
+| $45,001 - $135,000 | 30% |
+| $135,001 - $190,000 | 37% |
+| $190,001+ | 45% |
+
+*Source: ATO; Fenro and SuperGuide 2026-27 tax bracket coverage.*
+
+A 2% Medicare levy applies on top for most taxpayers, bringing the effective top combined rate to 47%.
+
+**Worked example - Australian resident at the 37% marginal rate:**
+- US dividends received: $5,400
+- US withholding at 15%: $810
+- Australian tax at 37%: $1,998
+- Minus $810 foreign income tax offset: $1,188 owed to the ATO
+- Total tax: $810 + $1,188 = $1,998 (Australian rate applied once, no double taxation)
+
+The offset is capped at the Australian tax otherwise payable on that income - an investor in a bracket below 15% doesn't get the excess US withholding refunded. **US dividends carry no franking credits.** Australian investors accustomed to the domestic imputation system should note the foreign tax offset works differently: it prevents double taxation but doesn't generate a refund the way an over-franked domestic dividend can. The [JEPI vs SCHD vs QYLD comparison](/strategies/jepi-vs-schd-vs-qyld/) breaks down the tax treatment differences for anyone weighing dividend-focused ETFs in a taxable account.
 
 ---
 
 <!-- ADSENSE / AFFILIATE PLACEHOLDER
-     Position: Before comparison table and checklist
+     Position: Before US citizens section
      Recommended: Responsive display ad or financial tools affiliate
      Replace this comment block with your AdSense tag or affiliate banner HTML -->
 
 ---
 
-## How the US-Australia Treaty Compares to Other Major US Treaties
+## US Citizens and Green Card Holders in Australia
 
-| Country | US Dividends (Portfolio) | Interest | Capital Gains | Pension Exemption |
-|---|---|---|---|---|
-| Australia | 15% | **10%** | Residence only | 15% (no full exemption) |
-| United Kingdom | 15% | 0% | Residence only | 0% in qualifying SIPP |
-| [Germany](/taxes/us-germany-tax-treaty-investors/) | 15% | 0% | Residence only | Pension exemption exists |
-| [Canada](/taxes/us-canada-tax-treaty-investors-2026/) | 15% | 15% | Residence only | 0% (RRSP) |
-| Japan | **10%** | 0% | Residence only | Yes |
-| New Zealand | 15% | **10%*** | Residence only | 15% |
+Article 1's saving clause preserves the US right to tax its citizens regardless of residence. A US citizen in Australia files Form 1040 annually, reporting worldwide income - Australian dividends, capital gains, bank interest, and super contributions. The Foreign Tax Credit (Form 1116) generally eliminates additional US tax owed, since Australian marginal rates (up to 47% with the Medicare levy) typically exceed corresponding US federal rates - but filing is mandatory regardless of the resulting liability.
 
-*New Zealand interest rate per the US-NZ Income Tax Convention (1982) and 2008 Protocol, Article 11. A 0% rate applies for interest paid to financial institutions; the 10% rate applies to all other recipients.
+Two areas create disproportionate compliance risk beyond the standard filing:
 
-The US-Australia treaty's main disadvantage relative to the US-UK treaty is the 10% interest withholding (versus 0% for UK residents) and the absence of a pension-level 0% dividend rate. Australian investors in super cannot achieve 0% US withholding on dividends the way a UK investor holding US stocks in a qualifying SIPP can. The 15% rate is the floor for Australian investors, at every account type.
+**Superannuation.** The IRS does not treat super as a tax-deferred pension the way Australia does. For a US citizen who is an SMSF trustee or beneficiary, this can trigger foreign grantor trust rules - Form 3520 and 3520-A, with penalties running as high as 5% of the trust's value per year for non-compliance. Whether employer super contributions are currently taxable for US purposes remains an unsettled area; this is not a place to guess without specialist cross-border advice.
 
-Japan's 10% portfolio dividend rate remains the most favorable among major US treaties for equity investors. For Australian investors, the treaty delivers a standard package that eliminates double taxation effectively through the foreign tax offset system - it does not deliver structural advantages beyond that.
+**Australian-domiciled funds as PFICs.** Australian unit trusts, ETFs, and managed funds are [Passive Foreign Investment Companies](/taxes/pfic-rules-international-investors/) under US tax law - punitive default tax treatment plus a Form 8621 filing requirement per fund, per year. US citizens in Australia are generally better served holding direct stocks or US-domiciled ETFs.
+
+Standard reporting applies on top: FBAR (FinCEN 114) if aggregate Australian account balances exceed $10,000 at any point, and Form 8938 (FATCA) above $200,000/$300,000 (single) or $400,000/$600,000 (joint) for taxpayers abroad - thresholds an SMSF balance alone will often clear. The [expat financial planning guide](/us-investing/expat-financial-planning-managing-investments-across-borders/) covers the broader cross-border picture for this group.
 
 ---
 
-## Common Mistakes That Cost Australian Investors Money
+## Getting This Right
 
-**Not submitting W-8BEN at account opening.** Some Australian platforms prompt for it; some do not. If no form is on file, 30% is withheld. Check dividend statements for the deduction rate.
+**Confirm W-8BEN is on file and showing 15%, not 30%,** on every dividend statement - and for an SMSF specifically, confirm it's the entity form (W-8BEN-E), not an individual's personal W-8BEN, since using the wrong form is common enough to be worth checking directly rather than assuming.
 
-**Letting W-8BEN expire.** Valid for three calendar years. Platforms revert to 30% on expiry without notification. Set a reminder.
+**Don't assume super gets a better US withholding rate than a taxable account.** It doesn't - 15% is the floor at every Australian account type, including super in both phases. What super changes is the Australian-side tax, not the US-side rate.
 
-**Assuming super eliminates US withholding.** Superannuation does not provide a 0% US withholding rate the way a UK qualifying pension does. The 15% treaty rate applies to super funds the same as to taxable accounts. Pension-phase super eliminates Australian tax on investment income, but 15% US withholding on US dividends remains a cost.
+**In pension phase, budget for the 15% US withholding as an unrecoverable cost**, not something the fund's zero Australian tax rate will offset - there's nothing for the offset to apply against once fund tax reaches 0%.
 
-**SMSF trustees not filing W-8BEN-E.** Individual W-8BEN forms are for individuals. An SMSF investing directly in US stocks needs the W-8BEN-E as an entity. Using the wrong form means the broker may not apply the treaty rate.
+**Claim the foreign income tax offset on the Australian return.** The 15% withheld at source is a real credit against Australian tax on the same income; skipping the claim means paying twice.
 
-**Treating US dividends the same as franked Australian dividends.** US dividends carry no franking credits. The foreign tax offset mechanism is different from the imputation credit system and does not generate a refund if the offset exceeds Australian tax.
+**Remember US dividends aren't franked**, and don't expect the offset mechanism to behave like the imputation system - it prevents double taxation, not a refund.
 
-**US citizens in Australia not reporting super to the IRS.** The ATO exemption for super earnings does not apply for US tax purposes. US citizens must report super fund income and contributions annually and may face foreign trust filing requirements for SMSFs.
-
-**Holding Australian-domiciled managed funds as a US person.** Australian unit trusts and ETFs are PFICs under US tax law. The punitive [PFIC](/taxes/pfic-rules-international-investors/) tax regime and annual Form 8621 filing requirement make these structures costly for US citizens to hold.
-
-**Not claiming the foreign tax offset on Australian tax returns.** The 15% US withholding deducted at source is a foreign tax paid. It generates a foreign income tax offset on the Australian return that reduces ATO liability. Failing to claim it means paying tax twice.
-
----
-
-## Practical Checklist
-
-**Australian resident investing in US stocks (taxable account):**
-- [ ] Confirm W-8BEN is on file with your broker - check dividend statements for 15% (not 30%) deduction
-- [ ] Renew W-8BEN before expiry (valid three calendar years from signing)
-- [ ] Include US dividends in Australian assessable income and claim the foreign income tax offset on your tax return
-- [ ] Apply the 50% CGT discount for US stocks held more than 12 months before selling
-- [ ] Capital gains on US stocks: taxable in Australia only; no US withholding on proceeds
-
-**Australian investor using super for US stocks:**
-- [ ] Confirm your SMSF or retail super fund is filing W-8BEN-E (entity form) for direct US equity holdings
-- [ ] Note the 15% US withholding applies regardless of whether the fund is in accumulation or pension phase
-- [ ] In accumulation phase: the foreign tax offset at the fund level largely eliminates double taxation
-- [ ] In pension phase: 15% US withholding is a flat cost with no domestic offset available - factor this into asset allocation decisions
-- [ ] Consider whether individual US stocks or Australian-domiciled ETFs (which handle withholding at the fund level) are more practical for your SMSF structure
-- [ ] For guidance on structuring a larger allocation across accounts, see our [step-by-step $100K allocation guide](/us-investing/how-to-invest-100k-step-by-step-guide/)
-
-**US citizen living in Australia:**
-- [ ] File Form 1040 annually including Australian income, dividends, and capital gains
-- [ ] Claim Foreign Tax Credit (Form 1116) for Australian income tax paid
-- [ ] File FBAR (FinCEN 114) if aggregate Australian account balances exceed $10,000 at any point
-- [ ] File Form 8938 if total foreign financial assets exceed the applicable FATCA threshold
-- [ ] If SMSF trustee: obtain advice on Form 3520 and 3520-A foreign trust filing requirements
-- [ ] Avoid holding Australian-domiciled managed funds or ETFs in accounts where PFIC rules apply; prefer direct stock holdings or US-domiciled ETFs where accessible
-- [ ] Claim foreign tax offset on Australian return for US withholding deducted on US-source income
+**Checklist:**
+- [ ] Confirm W-8BEN (or W-8BEN-E for an SMSF) is on file - verify 15%, not 30%, on dividend statements
+- [ ] Include US dividends in assessable income and claim the foreign income tax offset
+- [ ] Apply the 50% CGT discount for positions held over 12 months
+- [ ] In pension-phase super, factor the unrecoverable 15% withholding into whether to hold dividend-heavy or growth-oriented US positions
+- [ ] US citizens: file Form 1040, claim Form 1116 credit, check FBAR/Form 8938 thresholds, and get specialist advice before treating super or Australian-domiciled funds as default holdings
 
 ---
 
@@ -310,22 +233,23 @@ Japan's 10% portfolio dividend rate remains the most favorable among major US tr
 
 ---
 
-## Key Takeaways
+## The Takeaway
 
-David's $900 in unrecoverable withholding is the treaty's real lesson for pension-phase super investors: the 15% rate is a floor, not a starting point for further reduction. Understanding that - and building a portfolio around it - is more valuable than optimizing any single form.
+The treaty itself is simple and fixed: 15% on dividends with W-8BEN filed, 10% on interest, capital gains reserved to Australia. None of that changes based on which account holds the position.
 
-The US-Australia treaty delivers the standard portfolio dividend rate of 15% - the same as the UK, Germany, Ireland, and the Netherlands. It does not match Japan's 10% rate, and it does not offer a pension-level 0% rate the way the UK treaty does for qualifying SIPPs. The 15% rate is the floor for Australian investors at every account type, including superannuation.
-
-The treaty's most important practical feature is the foreign tax offset mechanism: 15% US withholding paid on US dividends offsets Australian tax on the same income, effectively preventing double taxation for investors in taxable accounts and super in accumulation phase. Pension-phase super investors absorb the 15% as a flat cost.
-
-The 10% interest withholding rate is the treaty's most notable disadvantage relative to comparable US treaties - Australian investors holding US bonds or bond ETFs directly face a withholding cost that UK and German investors do not.
-
-For US citizens in Australia, the compliance picture is complex. Superannuation's unresolved status under US tax law, the PFIC risk from Australian-domiciled managed funds, and the FBAR and FATCA reporting obligations on top of annual 1040 filing make specialist cross-border tax advice a practical necessity rather than a precaution.
+What does change is what happens to that 15% afterward - fully offset in a taxable account or accumulation-phase super, gone with nothing to show for it in pension phase. That single mechanical difference, not the treaty rate, is what should actually drive whether a pension-phase SMSF leans toward dividend-heavy US holdings or growth-oriented ones with less current income to lose to an unrecoverable withholding cost.
 
 ---
 
-*This article is informational only and does not constitute tax or legal advice. Rates are based on the US-Australia Income Tax Convention (1982) and Protocol (2001). Australian income tax brackets reflect the Stage 3 tax cuts effective from 1 July 2024, unchanged for the 2025/26 financial year (ATO). ATO and IRS interpretations change. Always consult a qualified cross-border tax professional for advice specific to your situation.*
+*This article is informational only and does not constitute tax or legal advice. Rates are based on the US-Australia Income Tax Convention (1982) and Protocol (2001). Australian income tax brackets reflect the legislated 2026-27 change (16% to 15% on the second bracket), effective from 1 July 2026. ATO and IRS interpretations change. Always consult a qualified cross-border tax professional for advice specific to your situation.*
 
-*Sources: US-Australia Income Tax Convention (August 6, 1982) and Protocol (September 27, 2001); ATO Double Taxation Agreement guidance; IRS Publication 515 (2026); ATO Individual income tax rates 2025/26 (Stage 3); ATO Foreign income tax offset rules; ATO CGT discount provisions; IRS PFIC rules (Section 1291-1298); FinCEN FBAR guidance (2025); IRS Form 8938 FATCA thresholds (2025 tax year).*
+*Sources: US-Australia Income Tax Convention (August 6, 1982) and Protocol (September 27, 2001); ATO Double Taxation Agreement guidance; IRS Publication 515 (2026); Fenro - ATO Tax Brackets 2026-27; SuperGuide - Australian Income Tax Rates and Brackets (2026-27); austax.tools - ATO Tax Changes 2025-26 vs 2026-27; ATO Foreign Income Tax Offset rules; ATO CGT discount provisions; IRS PFIC rules (Section 1291-1298); FinCEN FBAR guidance (2025); IRS Form 8938 FATCA thresholds (2025 tax year).*
 
+## Related Guides
+
+- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
+- [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)
+- [PFIC Rules for International Investors](/taxes/pfic-rules-international-investors/)
 - [US-UK Tax Treaty for Investors](/taxes/us-uk-tax-treaty-investors/)
+- [REITs vs Dividend Stocks: Which Fits Your Portfolio](/strategies/reits-vs-dividend-stocks/)
+- [Expat Financial Planning: Managing Investments Across Borders](/us-investing/expat-financial-planning-managing-investments-across-borders/)

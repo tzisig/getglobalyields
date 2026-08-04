@@ -3,7 +3,7 @@ slug: taxes-us-dividends-foreign-investors
 title: "US Dividend Withholding Tax for Foreign Investors (2026)"
 description: "How the US taxes dividends paid to non-residents. The 30% default rate, treaty reductions, ETF vs stock treatment, and how to reclaim overwithholding."
 pubDate: 2026-05-24
-updatedDate: 2026-05-24
+updatedDate: 2026-08-04
 author: "Tzion S."
 categories: ["Taxes"]
 keywords: "US Dividend Tax Foreign Investors, Withholding Tax US Dividends, Nonresident Alien Dividend Tax, W-8BEN, Treaty Rate Dividends, FDAP Income, Interest-related Dividends, REIT Withholding Tax, Form 1042-S, US Tax Nonresident, Taxes, US Dividend Withholding Tax for Foreign Investors 2026"
@@ -37,7 +37,7 @@ schema:
   description: "Complete guide to US dividend withholding tax for non-US residents. Learn how to claim tax treaty reductions, avoid default 30% rate, and reclaim tax."
   author: "Tzion S."
   datePublished: "2026-05-24"
-  dateModified: "2026-06-30"
+  dateModified: "2026-08-04"
   image: "/images/blog/taxes/taxes-us-dividends-foreign-investors.webp"
   mainEntityOfPage: "https://getglobalyields.com/taxes/taxes-us-dividends-foreign-investors"
 ---
@@ -122,6 +122,8 @@ Long-term capital gain distributions from US mutual funds and ETFs are also gene
 For dividends that do not qualify for any of the exemptions above - primarily ordinary dividends from US stocks and equity ETFs - the 30% default applies unless a tax treaty reduces it.
 
 The US has active income tax treaties with 68 countries as of January 2026 (IRS Table 3, last updated February 23, 2026). For most of those treaties, the portfolio investor dividend rate is 15%, and the rate for corporate shareholders with a qualifying direct stake (typically 10% or more of voting stock) is 5%.
+
+**Not every treaty on the list is currently operating normally.** The US formally terminated its 1979 treaty with Hungary, which ceased to have effect for all taxes as of January 1, 2024 - Hungarian residents now face the 30% default with no treaty relief. The core operating provisions of the US-Russia treaty were suspended by mutual agreement effective August 16, 2024. An older list or a quick search can still show both countries as "treaty countries" without flagging that the benefits are no longer available - worth checking the current status directly if either applies to you, rather than assuming a treaty's existence on paper means it's still in force.
 
 The table below shows verified rates for major countries based on the IRS treaty tables and individual treaty texts.
 
@@ -344,6 +346,12 @@ Before you invest, it helps to know exactly where you stand:
 
 *This article is informational only and does not constitute tax or legal advice. Rates and rules are based on IRC Section 871, IRS Publication 515 (2026 edition), IRS Treaty Tables (updated February 23, 2026), and individual treaty texts as published by the US Treasury and IRS. Tax rules change. Consult a qualified cross-border tax professional for advice specific to your situation.*
 
-*Sources: IRC §871(a), §871(k)(1), §871(k)(2), §897 (FIRPTA); IRS Publication 515 (2026); IRS Publication 519 (2025); IRS Tax Treaty Tables (IRS.gov, February 2026); PWC Tax Summaries - United States Corporate Withholding Taxes (March 2026); US-Israel Tax Treaty (IRS.gov/pub/irs-trty/israel.pdf); US-Japan Income Tax Convention and 2019 Protocol.*
+*Sources: IRC §871(a), §871(k)(1), §871(k)(2), §897 (FIRPTA); IRS Publication 515 (2026); IRS Publication 519 (2025); IRS Tax Treaty Tables (IRS.gov, February 2026); IRS FIRPTA Withholding guidance (irs.gov); PWC Tax Summaries - United States Corporate Withholding Taxes (March 2026); US-Israel Tax Treaty (IRS.gov/pub/irs-trty/israel.pdf); US-Japan Income Tax Convention and 2019 Protocol; taxesforexpats.com and Congress.gov reporting on the terminated Hungary treaty and suspended Russia treaty provisions.*
 
-- [US-Canada Tax Treaty for Investors]( /taxes/us-canada-tax-treaty-investors-2026 /)
+## Related Guides
+
+- [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)
+- [PFIC Rules for International Investors](/taxes/pfic-rules-international-investors/)
+- [US-Canada Tax Treaty for Investors](/taxes/us-canada-tax-treaty-investors-2026/)
+- [US-UK Tax Treaty for Investors](/taxes/us-uk-tax-treaty-investors/)
+- [US-Germany Tax Treaty for Investors](/taxes/us-germany-tax-treaty-investors/)

@@ -3,7 +3,7 @@ slug: w8ben-form-non-us-investors
 title: "W-8BEN Form: Complete Guide for International Investors"
 description: "How to complete and file Form W-8BEN to reduce US withholding tax from 30% to treaty rates. Common mistakes, renewal rules, and broker-specific instructions."
 pubDate: 2026-04-01
-updatedDate: 2026-05-12
+updatedDate: 2026-08-04
 author: "Tzion S."
 categories: ["Taxes"]
 keywords: "W-8ben Form, Us Withholding Tax, Non Us Investors Tax, Foreign Investors Us Tax, W8ben Explained, Tax Treaty Us Dividends, Reduce Us Dividend Tax, Taxes, W-8BEN Form Complete Guide for International Investors, 8BEN Form, Complete Guide for International Investors, W-8BEN"
@@ -33,7 +33,7 @@ schema:
   description: "Complete guide to W-8BEN for international investors"
   author: "Tzion S."
   datePublished: "2026-04-01"
-  dateModified: "2026-06-30"
+  dateModified: "2026-08-04"
   image: "/public/images/blog/taxes/w-8ben-form-guide.webp"
   mainEntityOfPage: "https://getglobalyields.com/w8ben-form-non-us-investors"
   faq:
@@ -282,4 +282,14 @@ Next steps:
 
 - Start here: [Best Brokers for Israeli Investors in US Markets](/taxes/best-broker-israeli-investors-us-markets/)
 
-- [US-Canada Tax Treaty for Investors]( /taxes/us-canada-tax-treaty-investors-2026 /)
+---
+
+*This article is informational only and does not constitute tax or legal advice. Form W-8BEN's current IRS revision remains October 2021 as of this update - no newer version has been issued. Treaty rates cited are per IRS Publication 515 and individual treaty texts. Always confirm your specific treaty rate and filing requirements with your broker or a qualified cross-border tax professional.*
+
+## Related Guides
+
+- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
+- [PFIC Rules for International Investors](/taxes/pfic-rules-international-investors/)
+- [US-Canada Tax Treaty for Investors](/taxes/us-canada-tax-treaty-investors-2026/)
+- [US-Israel Tax Treaty Explained](/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026/)
+- [US-UK Tax Treaty for Investors](/taxes/us-uk-tax-treaty-investors/)

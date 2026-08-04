@@ -3,7 +3,7 @@ slug: us-canada-tax-treaty-investors-2026
 title: "US-Canada Tax Treaty for Investors: Dividends, Capital Gains, and the RRSP Advantage (2026)"
 description: "A complete guide to the US-Canada tax treaty for Canadian investors holding US assets. Withholding rates, account-by-account breakdown, RRSP exemption, TFSA trap, and how to keep more of what you earn."
 pubDate: 2026-06-01
-updatedDate: 2026-06-01
+updatedDate: 2026-08-04
 author: "Tzion S."
 categories: ["Taxes"]
 tags:
@@ -33,7 +33,7 @@ schema:
   description: "Learn how the US-Canada tax treaty affects RRSP, TFSA, and taxable accounts. How to reduce withholding tax to 15% and avoid common IRS tax traps."
   author: "Tzion S."
   datePublished: "2026-06-01"
-  dateModified: "2026-06-30"
+  dateModified: "2026-08-04"
   image: "/images/blog /taxes/us-canada-tax-treaty-investors-2026 .webp"
   mainEntityOfPage: "https://getglobalyields.com /taxes/us-canada-tax-treaty-investors-2026 "
 ---
@@ -189,7 +189,7 @@ The W-8BEN must be renewed every three years. If it expires, your broker reverts
 
 The RRSP withholding exemption creates a clear planning signal: maximize US equity holdings inside RRSP contribution room before putting them in a TFSA or non-registered account.
 
-The constraint is that RRSP room is finite. In 2026, the contribution limit is 18% of previous year's earned income, to a maximum of $32,490. Investors with significant US equity positions may not have enough RRSP room to hold all of them inside the exemption.
+The constraint is that RRSP room is finite. In 2026, the contribution limit is 18% of previous year's earned income, to a maximum of $33,810 (up from $32,490 in 2025) - the dollar maximum only applies to earners at $187,833 or above in the prior year. Investors with significant US equity positions may not have enough RRSP room to hold all of them inside the exemption.
 
 The prioritization framework:
 
@@ -278,6 +278,12 @@ For a side-by-side comparison of rates across major US treaties, see our [tax ma
 
 ---
 
-*This article is for informational and educational purposes only. It does not constitute tax or financial advice. Treaty rates are based on the United States-Canada Income Tax Convention (1980) and its five Protocols, verified from the IRS official treaty text. Canadian tax rates are from the CRA and KPMG 2026 federal and provincial tax tables. The capital gains inclusion rate confirmation reflects the March 2025 cancellation of the proposed increase. Individual tax outcomes depend on personal circumstances, province of residence, account structure, and annual income. Consult a qualified Canadian tax advisor before making investment decisions based on treaty provisions.*
+*This article is for informational and educational purposes only. It does not constitute tax or financial advice. Treaty rates are based on the United States-Canada Income Tax Convention (1980) and its five Protocols, verified from the IRS official treaty text. Canadian tax rates are from the CRA and KPMG 2026 federal and provincial tax tables. The capital gains inclusion rate confirmation reflects the March 2025 cancellation of the proposed increase. The RRSP 2026 contribution limit ($33,810) is confirmed via CRA-sourced 2026 coverage from BNN Bloomberg and Whealth. Individual tax outcomes depend on personal circumstances, province of residence, account structure, and annual income. Consult a qualified Canadian tax advisor before making investment decisions based on treaty provisions.*
 
+## Related Guides
+
+- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
+- [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)
+- [PFIC Rules for International Investors](/taxes/pfic-rules-international-investors/)
 - [US-UK Tax Treaty for Investors](/taxes/us-uk-tax-treaty-investors/)
+- [US-Australia Tax Treaty for Investors](/taxes/us-australia-tax-treaty-investors/)

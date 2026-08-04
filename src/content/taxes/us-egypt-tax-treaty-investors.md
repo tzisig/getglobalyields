@@ -3,7 +3,7 @@ slug: "us-egypt-tax-treaty-investors"
 title: "US-Egypt Tax Treaty: Complete Guide for Investors (2026)"
 description: "How the US-Egypt tax treaty (1980) affects investors resident in Egypt. Dividend withholding rates, interest taxation, capital gains treatment, W-8BEN filing, and the full picture for Egyptian residents investing in US markets."
 pubDate: 2026-07-06
-updatedDate: 2026-07-09
+updatedDate: 2026-08-04
 author: "Tzion S."
 categories: ["Taxes"]
 keywords: "US Egypt Tax Treaty 2026, Egyptian Investor US Stocks, W-8BEN Egypt, US Dividends Egypt Withholding, Double Taxation Egypt US, Egypt Capital Gains Tax, US Stocks From Egypt, Egypt Foreign Tax Credit, Taxes, US-Egypt Tax Treaty Complete Guide for Investors 2026, US-Egypt Tax Treaty for Investors"
@@ -19,7 +19,7 @@ tags:
 heroImage: "/images/blog/taxes/us-egypt-tax-treaty.webp"
 heroImageWidth: 840
 heroImageHeight: 560
-draft: true
+draft: false
 readingTime: "12 min read"
 featured: false
 rating: 4.2
@@ -31,7 +31,7 @@ rating: 4.2
 - Internal links: link FROM the Egypt tax treaty page, the taxes overview page, and the tax treaty comparison page
 - This article pairs well with: US Dividend Withholding Tax, W-8BEN Guide, Best Brokers for International Investors
 - IMPORTANT: update the "updatedDate" frontmatter field AND schema.dateModified together, every time this file is edited - do not leave them stale
-- OPEN ITEM before publishing: the capital gains section (foreign securities) still reflects a genuine, unresolved contradiction in PwC's Egypt Tax Summary. Get written confirmation from an Egyptian (ETA-licensed) accountant before treating either position as settled.
+- KNOWN OPEN ITEM (published anyway, per site owner decision 2026-08-04): the capital gains section (foreign securities) reflects a genuine, unresolved contradiction in PwC's Egypt Tax Summary that a July 2026 ETA reform announcement did not address (it covered EGX-listed securities only). No Egyptian accountant relationship exists to resolve this further. The article discloses the conflict openly to readers and recommends they verify independently rather than presenting either position as settled - this is the intended permanent treatment of this section, not a placeholder.
 -->
 
 <!-- ADSENSE / AFFILIATE PLACEHOLDER
@@ -148,9 +148,13 @@ This means:
 
 Egypt's tax treatment of capital gains from foreign securities is **not fully settled**. Different official sources provide conflicting guidance, and you should consult a qualified tax advisor before making decisions based on this section.
 
+**What just got clearer - but only for Egyptian-listed securities:** on July 26, 2026, the Egyptian Tax Authority's chief publicly confirmed, as part of a capital-market reform package developed with the Ministry of Finance and the Financial Regulatory Authority, that capital gains on EGX-listed securities are exempt from income tax entirely, subject only to a proportional stamp duty. This is a genuine, dated 2026 confirmation - not the older, less formal "investment incentive regime" framing. It resolves the EGX side of the picture cleanly.
+
+**What this reform does not resolve:** the July 2026 announcement and the underlying reform package are specifically about EGX-listed securities. Nothing in the reporting on this reform addresses the separate question of how Egypt taxes capital gains on foreign-listed securities (including US stocks) - the contradiction described below, sourced to PwC's Egypt Tax Summary, remains unaddressed by this update. If anything, a reform explicitly targeted at boosting domestic EGX trading is a policy signal that foreign-security gains were not the focus and likely still fall under the older, unresolved "centre of commercial activity" framework.
+
 **What is relatively clear:**
 
-- **Individuals trading on the Egyptian Exchange (EGX):** Capital gains from listed Egyptian securities are exempt from tax for individuals, under the current investment incentive regime.
+- **Individuals trading on the Egyptian Exchange (EGX):** capital gains from listed Egyptian securities are exempt from income tax entirely as of the July 2026 reform, subject only to stamp duty.
 - **Corporate investors:** Egyptian companies and legal entities are subject to a 22.5% corporate income tax rate on capital gains from securities (both Egyptian and foreign).
 
 **What is disputed:**
@@ -161,6 +165,8 @@ PwC's Egypt Tax Summary (2026) contains two directly contradictory statements on
 2. Another passage on the same page states that capital gains derived by individuals from securities listed on foreign stock exchanges **should not be taxed in Egypt**.
 
 The Egyptian Tax Authority has not issued a definitive ruling resolving this contradiction for foreign portfolio investors. The position may also differ depending on whether you hold the securities directly or through a local Egyptian broker or custodian.
+
+**This section is deliberately left unresolved, and that is not a gap in this guide's research - it reflects the actual state of public information.** A search of current 2026 sources, including coverage of the ETA's July 2026 capital-market reform announcement, turned up no clarification specific to foreign-listed securities; that reform addressed EGX-listed securities only. Neither of PwC's two contradictory statements should be treated as settled guidance, and no other secondary source consulted for this article resolves the conflict either. If you hold US securities as an Egyptian tax resident, get this confirmed in writing by a licensed (ETA-registered) Egyptian accountant for your specific situation before filing - this guide cannot make that determination for you, and treating either PwC passage as authoritative without that confirmation carries real risk either way (an incorrect exemption claim, or unnecessarily declaring and paying tax on income that may not be owed).
 
 **Practical guidance:** Until the ETA issues a binding clarification, the cautious approach is to:
 1. Assume gains from US stocks **may** be taxable in Egypt
@@ -349,7 +355,7 @@ The treaty ensures Egyptian tax residents do not face double taxation on US inve
 
 ---
 
-*This article is for informational and educational purposes only. It does not constitute tax or legal advice. Treaty provisions and Egyptian domestic tax law are subject to change. Verify current rules with the Egyptian Tax Authority (ETA) or a qualified tax advisor before making investment decisions. The US-Egypt treaty text is publicly available at irs.gov. Information verified as of July 2026.*
+*This article is for informational and educational purposes only. It does not constitute tax or legal advice. Treaty provisions and Egyptian domestic tax law are subject to change. Verify current rules with the Egyptian Tax Authority (ETA) or a qualified tax advisor before making investment decisions. The US-Egypt treaty text is publicly available at irs.gov. The EGX-listed capital gains exemption reflects the ETA's July 26, 2026 announcement as reported by Daily News Egypt and Zawya; the foreign-securities capital gains question remains unresolved by that reform and is disclosed as such above. Information verified as of August 2026.*
 
 ### How the US-Egypt Treaty Compares
 

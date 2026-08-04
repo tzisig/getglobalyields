@@ -3,7 +3,7 @@ slug: us-austria-tax-treaty-investors
 title: "US-Austria Tax Treaty: Complete Guide for Investors (2026)"
 description: "How the US-Austria tax treaty (1996) affects investors resident in Austria. Verified withholding rates on dividends, interest, capital gains, REIT treatment, Pensionskasse benefits, W-8BEN filing, and the Austrian KESt credit system."
 pubDate: 2026-05-31
-updatedDate: 2026-05-31
+updatedDate: 2026-08-04
 author: "Tzion S."
 categories: ["Taxes"]
 tags:
@@ -299,7 +299,7 @@ Austria's 15% portfolio dividend rate and 0% interest rate match the [US-UK trea
 
 ---
 
-## Summary: What Austrian Investors Need to Know
+## Where This Leaves Austrian Investors
 
 The US-Austria tax treaty (1996) is one of the more favorable treaties for investment income:
 
@@ -314,10 +314,15 @@ The treaty ensures Austrian tax residents pay no more on US investment income th
 
 ---
 
-*This article is for informational and educational purposes only. It does not constitute tax or legal advice. Treaty provisions and Austrian domestic tax law are subject to change. Verify current rules with the Austrian Finanzamt or a qualified tax advisor before making investment decisions. The US-Austria treaty text is publicly available at irs.gov/pub/irs-trty/austria.pdf. Information verified as of May 2026.*
+*This article is for informational and educational purposes only. It does not constitute tax or legal advice. Treaty provisions and Austrian domestic tax law are subject to change. Verify current rules with the Austrian Finanzamt or a qualified tax advisor before making investment decisions. The US-Austria treaty text is publicly available at irs.gov/pub/irs-trty/austria.pdf. KESt rate confirmed current for 2026 via finanzinfo.at and onlinebrokertest.at. Information verified as of August 2026.*
 
-### How the US-Austria Treaty Compares
+For a full side-by-side view across every US treaty country, the [tax map](/resources/tax-map/) tool visualizes all the rates. Austria's 15% portfolio dividend rate matches most Western European treaties including the [US-UK](/taxes/us-uk-tax-treaty-investors/), [US-Germany](/taxes/us-germany-tax-treaty-investors/), and [US-Belgium](/taxes/us-belgium-tax-treaty-investors/) agreements. The 0% interest rate and 0% pension fund rate put it among the more favorable treaties in the network.
 
-For a full side-by-side view across every US treaty country, our [tax map](/resources/tax-map/) tool visualizes all the rates. Austria's 15% portfolio dividend rate matches most Western European treaties including the [US-UK](/taxes/us-uk-tax-treaty-investors/), [US-Germany](/taxes/us-germany-tax-treaty-investors/), and [US-Belgium](/taxes/us-belgium-tax-treaty-investors/) agreements. The 0% interest rate and 0% pension fund rate put it among the more favorable treaties in the network.
+## Related Guides
 
+- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
+- [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)
+- [PFIC Rules for International Investors](/taxes/pfic-rules-international-investors/)
+- [US-UK Tax Treaty for Investors](/taxes/us-uk-tax-treaty-investors/)
+- [US-Germany Tax Treaty for Investors](/taxes/us-germany-tax-treaty-investors/)
 - [Best Brokers for International Investors](/best-brokers/best-brokers-international-investors-2026/)
