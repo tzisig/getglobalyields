@@ -130,7 +130,7 @@ JEPI and JEPQ are more nuanced - the out-of-the-money overlay retains some parti
 
 ## Side-by-Side: What $50,000 Generates With Each Strategy
 
-This is the comparison most guides do not show. The numbers below are based on verified data and realistic assumptions for 2026 market conditions - not best-case scenarios. All figures assume a $50,000 account and one full year of consistent execution.
+This is the comparison most guides do not show. The numbers below are realistic estimates based on typical 2026 market conditions - not best-case scenarios. All figures assume a $50,000 account and one full year of consistent execution.
 
 | Strategy | Capital Required | Est. Monthly Income | Est. Annual Income | Annual Yield on Capital | Upside Participation | Management Time |
 |---|---|---|---|---|---|---|

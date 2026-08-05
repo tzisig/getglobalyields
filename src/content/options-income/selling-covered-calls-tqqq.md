@@ -23,7 +23,6 @@ heroImageHeight: 560
 draft: false
 readingTime: "14 min read"
 featured: false
-rating: 4.8
 ---
 
 > **Important:** This guide covers an advanced options strategy on a 3x leveraged ETF. Both components - covered calls and leveraged ETFs - carry significant risk individually. Combined, the risks multiply. This article is educational, not financial advice. Read the risk sections fully before considering any trade.

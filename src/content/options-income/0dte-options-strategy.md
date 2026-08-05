@@ -25,7 +25,7 @@ readingTime: "13 min read"
 featured: true
 ---
 
-In March 2026, a retail trader on a popular options forum posted a screenshot of his account: $47,000 gone in a single afternoon. He had been selling SPX credit spreads for six months, collecting $300-$500 per day with a win rate above 80%. Then the Fed made an unexpected comment at 2:15pm. SPX dropped 90 points in 22 minutes. His short puts went from worthless to maximum loss before he could close the position. Six months of disciplined work - erased in one session.
+Consider a trader who had been selling SPX credit spreads for six months, collecting $300-$500 per day with a win rate above 80%. Then, one afternoon in March 2026, the Fed made an unexpected comment at 2:15pm. SPX dropped 90 points in 22 minutes. His short puts went from worthless to maximum loss before he could close the position. Six months of disciplined work - erased in a single session, $47,000 gone.
 
 His mistake was not the strategy. It was position sizing. He had been risking 35% of his account on a single day's trades.
 

@@ -24,7 +24,7 @@ readingTime: "13 min read"
 featured: true
 ---
 
-In October 2025, Tesla reported earnings and its implied volatility spiked to the 75th percentile of its 52-week range. The stock was trading at $258. A trader who understood what that meant sold the $240 strike put with 45 days to expiration and collected $8.50 in premium - $850 per contract. Tesla needed to fall more than 11% before she would be assigned shares at a price she had already decided she was comfortable owning.
+In October 2025, Tesla reported earnings and its implied volatility spiked to the 75th percentile of its 52-week range. The stock was trading at $258. Consider a trader who understood what that meant: she sold the $240 strike put with 45 days to expiration and collected $8.50 in premium - $850 per contract. Tesla needed to fall more than 11% before she would be assigned shares at a price she had already decided she was comfortable owning.
 
 Tesla finished above $240 at expiration. She kept the $850 and moved on.
 
