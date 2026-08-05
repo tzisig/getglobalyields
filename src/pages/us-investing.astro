@@ -4,7 +4,7 @@ import Card from '../components/Card.astro';
 import { getCollection } from 'astro:content';
 
 const posts = (await getCollection('us-investing'))
-  .map(p => ({ ...p, type: 'us-investing', url: `/us-investing/${p.id}` }));
+  .map(p => ({ ...p, type: 'us-investing', url: `/us-investing/${p.id}/` }));
 ---
 
 <BaseLayout

@@ -6,7 +6,7 @@ import { taxTreatyCountries } from '../data/tax-treaty-countries';
 
 const posts = (await getCollection('taxes'))
   .filter(p => !p.data.draft)
-  .map(p => ({ ...p, type: 'taxes', url: `/taxes/${p.id}` }));
+  .map(p => ({ ...p, type: 'taxes', url: `/taxes/${p.id}/` }));
 
 // Map each post to the first letter of its country name (from the shared country data),
 // so visitors can jump straight to their country instead of scrolling the whole grid.

@@ -16,7 +16,7 @@ const tqqqTaxes = await getEntry('taxes', 'tqqq-tax-international-investors');
 
 const formatPost = (post, type) => {
   if (!post) return null;
-  return { ...post, type, url: `/${type}/${post.id}` };
+  return { ...post, type, url: `/${type}/${post.id}/` };
 };
 
 const beginnerBasics = [
