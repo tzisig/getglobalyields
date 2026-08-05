@@ -79,8 +79,8 @@ const availableLetters = [...new Set(postsWithLetter.map(p => p.letter).filter((
 
       {availableLetters.length > 0 && (
         <div class="mb-10">
-          <p class="text-slate-400 text-sm mb-3">Or jump straight to your country by its first letter:</p>
-          <div id="taxes-alphabet" class="flex flex-wrap gap-2 w-full">
+          <p class="text-slate-400 text-sm mb-3">Or jump straight to your country by its first letter (in English):</p>
+          <div id="taxes-alphabet" class="notranslate flex flex-wrap gap-2 w-full" translate="no">
             <button
               type="button"
               class="taxes-letter-btn is-active px-3 py-1.5 rounded-md border border-accent-500 bg-accent-bg text-accent-500 text-sm font-semibold transition-colors"
