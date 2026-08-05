@@ -1,0 +1,82 @@
+---
+slug: leaps-options-strategy-tqqq
+title: "LEAPS on TQQQ: Long-Term Options Strategy Guide (2026)"
+description: "LEAPS - options with a year or more until expiration - are sometimes pitched as a lower-cost way to get TQQQ-like exposure. The mechanics, the real cost of that leverage, and why LEAPS on an already-leveraged ETF compound risk rather than reduce it."
+pubDate: 2026-08-24
+updatedDate: 2026-08-05
+author: "Tzion S."
+categories: ["Options Income"]
+keywords: "LEAPS TQQQ, long-term options TQQQ, LEAPS leveraged ETF strategy, TQQQ LEAPS call options"
+tags:
+  - "LEAPS TQQQ"
+  - "long-term options TQQQ"
+  - "LEAPS leveraged ETF strategy"
+heroImage: "/images/blog/options-income/leaps-options-tqqq.webp"
+heroImageWidth: 840
+heroImageHeight: 560
+draft: true
+readingTime: "10 min read"
+featured: false
+---
+
+> **Before you read further:** This article explains how LEAPS work on TQQQ and the specific risk of layering a long-dated options position on top of an already-3x-leveraged ETF. It is educational content, not a trading recommendation. Options trading involves the risk of significant financial loss.
+
+LEAPS - Long-term Equity AnticiPation Securities - are simply options with more than a year until expiration. They get discussed constantly in general options content as a way to get leveraged, stock-like exposure for a fraction of the capital a direct share purchase would require. Applied to TQQQ specifically, that pitch needs a closer look: you would be layering options leverage on top of a fund that is already structurally leveraged 3x.
+
+---
+
+## What LEAPS Actually Are
+
+A LEAPS call option gives the holder the right to buy 100 shares of the underlying at a fixed strike price, at any point before an expiration date more than a year out (some brokers, including IBKR, offer TQQQ LEAPS with expirations extending roughly two to three years, though the available range varies and should be confirmed on your specific broker's options chain). Because of the extended time until expiration, LEAPS carry meaningfully more time value (and cost) than short-dated options, but far less than the capital required to buy 100 shares outright.
+
+**The basic appeal:** a deep-in-the-money LEAPS call behaves somewhat like owning the shares themselves - moving roughly in tandem with the underlying's price - while tying up a fraction of the capital, freeing the rest for other use.
+
+---
+
+## Why This Is a Different Risk Conversation on TQQQ Specifically
+
+**You are adding leverage to leverage.** TQQQ itself already delivers 3x the daily return of the Nasdaq-100. A LEAPS call on TQQQ adds a second layer of leverage on top - the option's own delta-driven amplification of the underlying's moves. The combined effective leverage on the ultimate index can be substantially higher than 3x, depending on the specific option's delta and how far in or out of the money it is. This is not a smaller, cheaper version of owning TQQQ - it is a more leveraged position than owning TQQQ itself.
+
+**Time decay works against you continuously, on top of TQQQ's own volatility decay.** Every option, including LEAPS, loses time value as expiration approaches - a cost that owning the underlying shares outright does not carry. Combined with TQQQ's own volatility-decay characteristics (covered in our [TQQQ implied volatility guide](/options-income/tqqq-implied-volatility-strategies/)), a LEAPS position on TQQQ faces two separate, compounding sources of value erosion that a straightforward TQQQ share purchase does not.
+
+**Implied volatility is already elevated, which makes LEAPS more expensive.** TQQQ's consistently higher implied volatility than QQQ's means TQQQ LEAPS carry a meaningfully higher premium than equivalent QQQ LEAPS would, for the same reason cash-secured puts and covered calls on TQQQ pay fatter premiums - the market is pricing in genuinely higher expected movement.
+
+---
+
+## A Worked Comparison
+
+Assume TQQQ trades at $85. Buying 100 shares outright costs $8,500. A 2-year LEAPS call at a $70 strike (meaningfully in the money) might cost roughly $2,000-$2,500 depending on current implied volatility - a fraction of the capital, with the remainder available for other use.
+
+**What this comparison misses if stated that simply:** the LEAPS position has a hard expiration date, after which the entire investment can be worth zero if TQQQ has fallen below the strike - a risk the outright share purchase does not carry, since shares never expire. It also carries the double-leverage effect described above, meaning the LEAPS position's actual dollar sensitivity to a Nasdaq-100 move can exceed what 100 shares of TQQQ itself would deliver, in either direction.
+
+---
+
+## When LEAPS on TQQQ Might Make Sense - and When They Clearly Don't
+
+**Might make sense:** for a trader with a specific, time-bounded view on TQQQ's direction over the LEAPS' remaining life, who understands and accepts the compounded leverage and time-decay risk, and who is using LEAPS deliberately for capital efficiency rather than because the sticker price of shares feels too high.
+
+**Clearly does not make sense:** as a substitute for a long-term, buy-and-hold TQQQ position for an investor who has not fully priced in the expiration risk and the double-leverage effect - which is a meaningfully different risk profile from what a long-term TQQQ holder covered in our [strategies category](/strategies/) is actually signing up for.
+
+---
+
+## Practical Considerations
+
+- **Confirm actual available expirations and strikes** on your specific broker's TQQQ options chain before assuming standard LEAPS terms apply - availability varies.
+- **Model the position's effective leverage**, not just its nominal cost, before comparing it to an outright share purchase.
+- **Have a specific plan for the expiration date** - unlike shares, a LEAPS position does not simply continue indefinitely.
+
+---
+
+## Bottom Line
+
+LEAPS on TQQQ are not a cheaper, lower-risk way to get TQQQ exposure - they are a way to get more leveraged exposure than TQQQ itself provides, for less upfront capital, with a hard expiration date and continuous time decay that outright share ownership does not carry. This can be a deliberate, informed choice for an experienced options trader with a specific thesis. It is not a substitute for simply buying and holding TQQQ shares for an investor uncomfortable with that added layer of risk.
+
+---
+
+*This article is for informational purposes only and does not constitute financial or trading advice. Options trading carries substantial risk of loss and is not suitable for all investors. Consult a licensed financial advisor before implementing any options strategy.*
+
+## Related Guides
+
+- [TQQQ Implied Volatility Strategies](/options-income/tqqq-implied-volatility-strategies/)
+- [Selling Covered Calls on TQQQ](/options-income/selling-covered-calls-tqqq/)
+- [Buying TQQQ vs QQQ: Which Is Right for International Investors](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026/)
