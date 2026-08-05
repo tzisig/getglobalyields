@@ -4,6 +4,21 @@
 // The Header.astro script reads this cookie to auto-pick a language.
 export async function onRequest(context) {
   const { request, next } = context;
+  const url = new URL(request.url);
+
+  // Enforce one canonical URL form (trailing slash) so Google doesn't index
+  // /page and /page/ as two separate pages and split ranking signal between them.
+  // Every internal link and the sitemap already use the trailing-slash form.
+  const lastSegment = url.pathname.split('/').pop();
+  const looksLikeFile = lastSegment.includes('.');
+  if (
+    (request.method === 'GET' || request.method === 'HEAD') &&
+    !url.pathname.endsWith('/') &&
+    !looksLikeFile
+  ) {
+    url.pathname = `${url.pathname}/`;
+    return Response.redirect(url.toString(), 301);
+  }
 
   const response = await next();
 

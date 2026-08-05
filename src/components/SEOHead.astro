@@ -41,7 +41,10 @@ const finalOgDesc      = seo?.ogDescription   || finalDescription;
 const finalKeywords    = seo?.keywords?.length ? seo.keywords : keywords;
 const twitterCard      = seo?.twitterCard     || "summary_large_image";
 
-const canonicalURL = new URL(Astro.url.pathname, Astro.site || Astro.url);
+const normalizedPathname = Astro.url.pathname.endsWith('/')
+  ? Astro.url.pathname
+  : `${Astro.url.pathname}/`;
+const canonicalURL = new URL(normalizedPathname, Astro.site || Astro.url);
 const ogImageUrl   = new URL(finalImage, Astro.site || Astro.url);
 
 const articleSchema = type === "article" ? {
