@@ -22,7 +22,6 @@ heroImageHeight: 560
 draft: false
 readingTime: "13 min read"
 featured: false
-rating: 4.9
 ---
 
 <!-- RELATED POSTS: "TQQQ Long-Term Outlook", "Leveraged ETF Rebalancing: How to Reduce Decay", "QQQ 225-Day Moving Average Strategy" -->
@@ -80,7 +79,7 @@ All data verified from public sources as of late May 2026.
 | Metric | TQQQ | SOXL | UPRO |
 |---|---|---|---|
 | Underlying Index | Nasdaq-100 | ICE Semiconductor | S&P 500 |
-| Expense Ratio | 0.95% | 0.75% | 0.92% |
+| Expense Ratio | 0.82% | 0.75% | 0.92% |
 | AUM | ~$36B | ~$11B | ~$4B |
 | Inception | Feb 2010 | Mar 2010 | Jun 2009 |
 | 10-Year CAGR | ~42% | ~60% | ~29% |

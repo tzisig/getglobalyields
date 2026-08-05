@@ -120,7 +120,7 @@ The data is stark: over any extended holding period in a non-bear market environ
 
 **The numbers on holding both:**
 
-If you hold 50% TQQQ and 50% SQQQ as a "hedged" position, you're effectively holding a position where both sides are decaying toward zero in most environments. The combined portfolio's annual decay in a flat market with 30% volatility is significant - you're paying two separate 0.95% expense ratios and the volatility decay cost on both sides.
+If you hold 50% TQQQ and 50% SQQQ as a "hedged" position, you're effectively holding a position where both sides are decaying toward zero in most environments. The combined portfolio's annual decay in a flat market with 30% volatility is significant - you're paying two separate expense ratios (0.82% on TQQQ, 0.95% on SQQQ) and the volatility decay cost on both sides.
 
 **When SQQQ is appropriate:** SQQQ is a short-term tactical instrument for traders with a specific, near-term bearish view on the Nasdaq-100. It is not a hedge for a TQQQ long position. The distinction matters.
 
@@ -210,5 +210,5 @@ Hedging strategies for leveraged ETFs involve significant complexity. The cost e
 
 ---
 
-*Data sources: TQQQ and SQQQ maximum drawdown figures from PortfoliosLab (verified May 2026). TQQQ IV range 45%-150% from ApexVol. SQQQ lifetime maximum drawdown -100% from PortfoliosLab. Expense ratios 0.95% for both TQQQ and SQQQ from ProShares official documentation. April 2025 TQQQ monthly return of +52.5% from PortfoliosLab monthly returns data.*
+*Data sources: TQQQ and SQQQ maximum drawdown figures from PortfoliosLab (verified May 2026). TQQQ IV range 45%-150% from ApexVol. SQQQ lifetime maximum drawdown -100% from PortfoliosLab. Expense ratios from ProShares official documentation: 0.82% for TQQQ, 0.95% for SQQQ. April 2025 TQQQ monthly return of +52.5% from PortfoliosLab monthly returns data.*
 

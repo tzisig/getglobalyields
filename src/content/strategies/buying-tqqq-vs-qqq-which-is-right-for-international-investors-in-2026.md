@@ -34,29 +34,9 @@ I used TQQQ myself during a recovery phase after a 70% portfolio drawdown. Read 
 
 ## **What Are QQQ and TQQQ?**
 
-### **QQQ – Invesco QQQ Trust**
+**QQQ (Invesco QQQ Trust)** tracks the Nasdaq-100 index, giving exposure to major tech companies like Apple, Microsoft, Nvidia, and Amazon. It carries no leverage, charges a 0.20% expense ratio, and is built for long-term investing - this is the standard way to invest in US tech.
 
-QQQ tracks the Nasdaq-100 index, giving exposure to major tech companies like Apple, Microsoft, Nvidia, and Amazon.
-
-**Leverage: **1x (no leverage)
-
-**Expense Ratio: **0.20%
-
-**Strategy: **Long-term investing
-
-*This is the standard way to invest in US tech.*
-
-### **TQQQ – ProShares UltraPro QQQ**
-
-TQQQ is a leveraged ETF designed to deliver 3x the daily return of the Nasdaq-100.
-
-**Leverage: **3x (daily reset)
-
-**Expense Ratio: **0.88%
-
-**Strategy: **Short-term / tactical
-
-*Important: TQQQ is not a "faster QQQ." It behaves differently due to its structure.*
+**TQQQ (ProShares UltraPro QQQ)** is a leveraged ETF designed to deliver 3x the daily return of the Nasdaq-100, resetting that leverage every trading day. It charges a 0.82% expense ratio and is built for short-term, tactical use. TQQQ is not a "faster QQQ" - it behaves differently because of its structure, which is exactly what the rest of this guide covers.
 
 ## **The Critical Difference: Volatility Decay and Path Dependency**
 
@@ -89,11 +69,11 @@ Two identical outcomes in QQQ can produce very different results in TQQQ dependi
 | Start | - | $10,000 | $10,000 |
 | Day 1 | +8% | $10,800 | $12,400 |
 | Day 2 | -8% | $9,936 | $9,424 |
-| Day 3 | +8% | $10,731 | $11,227 |
-| Day 4 | -8% | $9,872 | $8,532 |
-| Day 5 | +1% | $9,971 | $8,617 |
+| Day 3 | +8% | $10,731 | $11,686 |
+| Day 4 | -8% | $9,872 | $8,881 |
+| Day 5 | +1% | $9,971 | $9,148 |
 
-*Nasdaq down only ~0.3% over 5 days - but TQQQ lost ~14%. Same index, very different outcome.*
+*Nasdaq down only ~0.3% over 5 days - but TQQQ lost ~8.5%. Same index, very different outcome.*
 
 This is why long-term holding of TQQQ in unstable markets can fail - even if the index recovers.
 
@@ -102,7 +82,7 @@ This is why long-term holding of TQQQ in unstable markets can fail - even if the
 | Feature | QQQ | TQQQ |
 |---|---|---|
 | Leverage | 1x | 3x Daily |
-| Expense Ratio | 0.20% | 0.88% |
+| Expense Ratio | 0.20% | 0.82% |
 | Risk Level | Moderate | Extreme |
 | Volatility Decay | No | Yes (High) |
 | Max Drawdown (2022) | ~-35% | ~-80%+ |
@@ -127,17 +107,11 @@ Check your country's rate:- <a href="https://www.irs.gov/individuals/internation
 - Usually not taxed by the US
 - Taxed in your home country
 
-**Key difference:**
-
-**QQQ** → fewer taxable events
-
-**TQQQ** → frequent trading = more tax exposure
+The key difference: QQQ generates fewer taxable events since it's typically held long-term, while TQQQ's frequent trading creates more tax exposure.
 
 ### **Efficiency Insight**
 
-**TQQQ** → lower dividend yield → less withholding impact
-
-But higher turnover → more complexity.
+TQQQ's lower dividend yield does mean less withholding impact - but that's offset by the added complexity of higher turnover.
 
 ## **When QQQ Makes Sense**
 
@@ -172,23 +146,11 @@ Avoid if:
 
 ## **The Reality Most Investors Miss**
 
-**TQQQ is not an investment. **It's a tool.
-
-**Used correctly** → powerful
-
-**Used incorrectly** → destructive
+TQQQ is not an investment - it's a tool. Used correctly, it's powerful. Used incorrectly, it's destructive.
 
 ## **Which One Should You Choose?**
 
-For most non-US investors:
-
-QQQ is the better default
-
-TQQQ is for:
-
-- Experienced users
-- Specific timing
-- Controlled exposure
+For most non-US investors, QQQ is the better default. TQQQ is for experienced users with specific timing conviction and controlled exposure - not a default choice.
 
 <!-- AdSense Placement -->
 
@@ -207,11 +169,7 @@ We recommend IBKR for most non-US investors [here's our full review.](/best-brok
 
 ## **Final Takeaway**
 
-QQQ and TQQQ track the same index - but behave very differently.
-
-**QQQ** → long-term compounding
-
-**TQQQ** → leveraged exposure with structural risk
+QQQ and TQQQ track the same index, but behave very differently: QQQ delivers long-term compounding, while TQQQ delivers leveraged exposure with structural risk.
 
 **The biggest mistake isn't choosing the wrong ETF. It's using the right one at the wrong time.**
 

@@ -5,7 +5,7 @@ description: "REITs vs dividend stocks for international investors. Yield, withh
 pubDate: 2026-05-30
 updatedDate: 2026-05-30
 author: "Tzion S."
-categories: ["Income-Investing", "ETF-Investing"]
+categories: ["Strategies"]
 keywords: "REITs Vs Dividend Stocks, Passive Income 2026, REIT Investing International, Dividend Stocks 2026, Realty Income O, Dividend Aristocrats 2026, FIRPTA Foreign Investors, Passive Income Israel, Income-Investing, ETF-Investing, REITs vs Dividend Stocks Best for Passive Income in 2026, REITs vs Dividend Stocks"
 tags:
   - "REITs vs dividend stocks"
@@ -22,7 +22,6 @@ heroImageHeight: 560
 draft: false
 readingTime: "14 min read"
 featured: false
-rating: 4.5
 ---
 
 <!-- PAGE: Add to /income-investing/ -->

@@ -21,16 +21,7 @@ heroImageHeight: 560
 draft: false
 readingTime: "13 min read"
 featured: false
-rating: 4.6
 ---
-
-<!-- PAGE INSTRUCTIONS:
-- Add to /src/pages/blog/ or CMS as a new post
-- URL: /blog/tqqq-qqq-225-day-moving-average-strategy
-- Hero image: /public/images/blog/qqq-225-day-moving-average-strategy.webp (1200x630)
-- Internal links: link FROM the TQQQ long-term outlook guide, the leveraged ETF rebalancing guide, and the leveraged investing guide
-- This article pairs well with: TQQQ Long-Term Outlook, Leveraged ETF Rebalancing, Financial Freedom Through Leveraged Investing
--->
 
 <!-- ADSENSE / AFFILIATE PLACEHOLDER
      Position: Top of article, before content

@@ -23,7 +23,6 @@ heroImageHeight: 560
 draft: false
 readingTime: "16 min read"
 featured: false
-rating: 4.5
 ---
 
 ## Who This Guide Is For
@@ -149,9 +148,7 @@ All jurisdictions listed are CRS compliant. "Not recognized" for foreign judgmen
 
 This is the section most offshore guides skip entirely. Every CRS country has its own reporting framework. Here is what it actually looks like for the most common non-US investor jurisdictions.
 
-**A note on coverage:** The disclosure requirements below cover the five jurisdictions most commonly represented among non-US investors using offshore structures: UK, [Germany](/us-investing/how-to-invest-in-us-stocks-from-germany/), France, Australia, and Canada. Investors based in Singapore, UAE, Japan, Hong Kong, and other jurisdictions face materially different reporting obligations - covered in our [companion guide on disclosure requirements by country](#). The structural principles in this guide apply universally; the compliance detail is jurisdiction-specific.
-
-**A note on coverage:** The disclosure requirements below cover the five jurisdictions most commonly represented among non-US investors using offshore structures: UK, Germany, France, Australia, and Canada. Investors based in Singapore, UAE, Japan, Hong Kong, and other jurisdictions face materially different reporting obligations - covered in our [companion guide on disclosure requirements by country](#). The structural principles in this guide apply universally; the compliance detail is jurisdiction-specific.
+**A note on coverage:** The disclosure requirements below cover the five jurisdictions most commonly represented among non-US investors using offshore structures: UK, [Germany](/us-investing/how-to-invest-in-us-stocks-from-germany/), France, Australia, and Canada. Investors based in Singapore, UAE, Japan, Hong Kong, and other jurisdictions face materially different reporting obligations under their own local frameworks. The structural principles in this guide apply universally; the compliance detail is jurisdiction-specific.
 
 ### United Kingdom
 

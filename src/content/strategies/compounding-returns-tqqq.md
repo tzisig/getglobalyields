@@ -170,7 +170,7 @@ The quantflowlab 10-year backtest (2016-2025) calculated that a theoretical 3x Q
 
 That comparison is often used to argue that TQQQ's daily reset creates positive compounding in bull markets. It does. But it also means you are entirely dependent on the market environment cooperating. In 2022 alone, volatility decay subtracted roughly 15 percentage points from what the theoretical 3x model would have delivered.
 
-The 0.95% annual expense ratio compounds this further. Over ten years, that fee costs approximately 9.5% of your gross return in compounding drag - before any volatility decay calculation. On a $100,000 position, the expense ratio alone costs more than $15,000 in foregone compounding over a decade, compared to QQQ at 0.18%.
+The 0.82% annual expense ratio compounds this further. Over ten years, that fee costs approximately 8.2% of your gross return in compounding drag - before any volatility decay calculation. On a $100,000 position, the expense ratio alone costs more than $13,000 in foregone compounding over a decade, compared to QQQ at 0.18%.
 
 ---
 

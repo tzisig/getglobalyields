@@ -5,7 +5,7 @@ description: "Risk management for leveraged ETF investors. Position sizing, SMA 
 pubDate: 2026-05-30
 updatedDate: 2026-05-30
 author: "Tzion S."
-categories: ["ETF-Investing", "Portfolio-Strategy"]
+categories: ["Strategies"]
 keywords: "Leveraged ETF Risk Management, TQQQ Risk Management, UPRO Position Sizing, Kelly Criterion Leveraged ETF, SMA 200 TQQQ Strategy, Drawdown Protection Leveraged ETF, Leveraged ETF Stop Loss, TQQQ 2022 Risk, ETF-Investing, Portfolio-Strategy, Risk Management for Leveraged ETF Investors 2026, TQQQ"
 tags:
   - "leveraged ETF risk management"
@@ -22,7 +22,6 @@ heroImageHeight: 560
 draft: false
 readingTime: "13 min read"
 featured: false
-rating: 4.4
 ---
 
 <!-- PAGE: Add to /etf-investing/ or /portfolio-strategy/ -->

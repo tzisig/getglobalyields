@@ -24,7 +24,6 @@ heroImageHeight: 560
 draft: false
 readingTime: "15 min read"
 featured: true
-rating: 4.9
 ---
 
 The most dangerous number in investing is a yield that looks too good to be true - because it usually is, and by the time you find out, the damage is done.

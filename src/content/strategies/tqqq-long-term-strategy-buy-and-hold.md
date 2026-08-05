@@ -21,7 +21,6 @@ heroImageHeight: 560
 draft: false
 readingTime: "13 min read"
 featured: false
-rating: 4.8
 ---
 
 <!-- ADSENSE / AFFILIATE PLACEHOLDER
@@ -186,18 +185,3 @@ For a deeper look at the underlying performance data and long-term return histor
 
 *This article is for informational purposes only and does not constitute investment advice. Leveraged ETFs are complex instruments with significant risk of capital loss. All figures reflect publicly available data as of May 2026. TQQQ 2025 price data: StockScan historical prices. Nasdaq 100 PE percentile: GuruFocus, May 27, 2026. TQQQ AUM and fund flow data: ETFdb and TradingView. 225-day MA backtest (1,061% vs 628%, max drawdown 28.6% vs 83%): Les Masonson backtest as reviewed by FinancialWisdomTV, January 2026. Behavioral finance references: Kahneman & Tversky, "Prospect Theory: An Analysis of Decision under Risk," Econometrica, 1979. Past performance is not a guarantee of future results. Consult a qualified financial adviser before making investment decisions.*
 
----
-
-<!--
-== INTERNAL NOTES - DO NOT PUBLISH ==
-
-New article needed:
-- /strategies/qqq-225-day-moving-average-strategy
-  Based on Les Masonson's backtest: 225-day MA on QQQ, 2000-2025
-  Key numbers: 1,061% vs 628% buy-and-hold, max drawdown 28.6% vs 83%
-  Source: FinancialWisdomTV review (January 2026)
-
-Existing articles to link FROM this page:
-- /strategies/tqqq-long-term-outlook
-- /strategies/leveraged-etf-rebalancing-reduce-decay
--->

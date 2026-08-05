@@ -22,7 +22,6 @@ heroImageHeight: 560
 draft: false
 readingTime: "14 min read"
 featured: false
-rating: 4.7
 ---
 
 The US Consumer Price Index hit 3.8% in April 2026 - the highest reading since May 2023. Behind the number: energy costs up 17.9% year-over-year, shelter inflation re-accelerating to 3.3%, and tariff pressures showing up across apparel, household goods, and transportation. Real wages fell 0.3% annually in the same report. The Iran war that began in late February disrupted oil supply through the Strait of Hormuz. Tariffs introduced in early 2025 continue to filter through supply chains. The Federal Reserve, which came into 2026 expecting to cut rates, is now fielding questions about whether it needs to raise them.

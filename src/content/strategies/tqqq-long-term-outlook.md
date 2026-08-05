@@ -22,7 +22,6 @@ heroImageHeight: 560
 draft: false
 readingTime: "14 min read"
 featured: false
-rating: 4.9
 ---
 
 <!-- RELATED POSTS: "QQQ 225-Day Moving Average Strategy", "Leveraged ETF Rebalancing: How to Reduce Decay", "TQQQ Covered Calls and Cash-Secured Puts" -->

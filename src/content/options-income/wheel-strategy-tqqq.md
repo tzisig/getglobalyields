@@ -131,7 +131,7 @@ The wheel is not a hedge. It doesn't stop losses. It slows them down slightly wh
 
 A core assumption behind the wheel is: "I'd be happy to own this at that price." That sentence makes sense for Apple or Microsoft. It does not make sense for TQQQ in the same way.
 
-TQQQ is a daily-reset vehicle designed for short-term tactical positioning. ProShares' own documentation explicitly states it is not designed for holding periods beyond a single trading day. When you get assigned TQQQ shares through a put and then sit on them selling covered calls, you are doing exactly what the product is not designed for - and paying a 0.95% annual expense ratio for the privilege, versus 0.09% for SPY or 0.20% for QQQ.
+TQQQ is a daily-reset vehicle designed for short-term tactical positioning. ProShares' own documentation explicitly states it is not designed for holding periods beyond a single trading day. When you get assigned TQQQ shares through a put and then sit on them selling covered calls, you are doing exactly what the product is not designed for - and paying a 0.82% annual expense ratio for the privilege, versus 0.09% for SPY or 0.20% for QQQ.
 
 A bear market that cuts QQQ in half cuts TQQQ by roughly 80% due to leverage and decay combined. You need a 400% gain to recover from an 80% loss. Covered call premium at 2-3% per month gets you there in about 13 years - if the ETF cooperates, which it is structurally biased against doing in the conditions that caused the assignment.
 
@@ -164,7 +164,7 @@ Here's how the three compare as wheel candidates:
 | Approximate 30-day CSP Yield | 3.5-5.0% | 1.5-2.5% | 1.0-1.8% |
 | Max Drawdown (2022) | -81.66% | -32.6% | -25.4% |
 | Volatility Decay | Yes - structural | No | No |
-| Expense Ratio | 0.95% | 0.20% | 0.09% |
+| Expense Ratio | 0.82% | 0.20% | 0.09% |
 | Recovery Time from 2022 Low | 486 trading days | ~12 months | ~9 months |
 | Suitable for Assignment Hold | No | Yes | Yes |
 

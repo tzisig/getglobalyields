@@ -284,7 +284,7 @@ If you cannot answer all five clearly, the trade is not ready to enter.
 |---|---|
 | TQQQ structure | 3x daily Nasdaq-100 leverage |
 | Fund provider | ProShares |
-| Expense ratio | 0.97% |
+| Expense ratio | 0.82% |
 | AUM (approximate) | ~$29.3 billion |
 | Options daily volume | 500,000+ contracts |
 | Typical ATM bid/ask spread | $0.02 - $0.05 |
