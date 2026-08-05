@@ -1,9 +1,11 @@
 name: Weekly Update Reminder
 
 # Opens a GitHub issue every Monday reminding the site owner to refresh the
-# four cards on /weekly-update/. That page's content requires real editorial
-# judgment (picking genuine, current headlines) - this workflow only reminds,
-# it never writes or fetches content itself.
+# four cards on /weekly-update/. It fetches real, recent headlines from two
+# verified RSS feeds (SEC press releases, PRNewswire Financial Services) and
+# lists them as candidates to pick from - it never writes or invents content
+# itself. Tax Treaty Update and Stat of the Week have no reliable automated
+# source, so those two stay fully manual.
 
 on:
   schedule:
@@ -18,6 +20,34 @@ jobs:
   remind:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Fetch real candidate headlines
+        run: node scripts/fetch-weekly-update-candidates.mjs > /tmp/candidates.md
+
+      - name: Build issue body
+        run: |
+          {
+            echo "It's Monday - time to refresh the four cards on [/weekly-update/](https://getglobalyields.com/weekly-update/)."
+            echo ""
+            echo "Edit \`src/pages/weekly-update.astro\` (the four \`.card\` blocks). Real candidate headlines from the last 7 days below - pick, verify, and rewrite the summary in your own words; do not paste feed text directly."
+            echo ""
+            cat /tmp/candidates.md
+            echo "### Tax Treaty Update - manual"
+            echo "_No reliable RSS source found (IRS/Treasury don't expose one). Check irs.gov/newsroom or a treaty tracker manually._"
+            echo ""
+            echo "### Stat of the Week - manual"
+            echo "_Needs a real, sourced statistic - pick this yourself._"
+            echo ""
+            echo "Close this issue once the update is live."
+          } > /tmp/issue-body.md
+
       - name: Create reminder issue
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -26,6 +56,4 @@ jobs:
           gh issue create \
             --repo "${{ github.repository }}" \
             --title "Weekly update: refresh weekly-update.astro ($WEEK_OF)" \
-            --body "It's Monday - time to refresh the four cards on [/weekly-update/](https://getglobalyields.com/weekly-update/).
-
-Edit \`src/pages/weekly-update.astro\` (the four \`.card\` blocks - Regulatory Update, Broker News, Tax Treaty Update, Stat of the Week) with this week's real headlines. Close this issue once the update is live."
+            --body-file /tmp/issue-body.md
