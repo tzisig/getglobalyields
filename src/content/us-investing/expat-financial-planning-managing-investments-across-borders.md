@@ -5,7 +5,7 @@ description: "Financial planning for expats investing in US markets. Broker sele
 pubDate: 2026-05-20
 updatedDate: 2026-05-20
 author: "Tzion S."
-categories: ["Expat Investing"]
+categories: ["US Investing"]
 keywords: "Expat Financial Planning, Cross Border Investing, FBAR FATCA 2026, PFIC Rules US Expats, Irish UCITS ETF, OBBBA Remittance Tax, Currency Risk Investing, Best Brokers Expats, Expat Investing, Expat Financial Planning US Investing from Abroad 2026, US Investing from Abroad (2026)"
 tags:
   - "expat financial planning"
@@ -22,7 +22,6 @@ heroImageHeight: 560
 draft: false
 readingTime: "11 min read"
 featured: false
-rating: 4.6
 ---
 
 

@@ -5,7 +5,7 @@ description: "Complete guide for Indian investors: LRS rules, best platforms, ta
 pubDate: 2026-05-19
 updatedDate: 2026-05-19
 author: "Tzion S."
-categories: ["Basics"]
+categories: ["US Investing"]
 keywords: "How To Invest In Us Stocks From India, Lrs Scheme Us Stocks India, Us Stocks India Tax, Ibkr India, India Us Dtaa, Investing In Us From India 2026, Rbi Lrs Limit, Basics, How to Invest in US Stocks from India 2026 Guide, US Stocks"
 tags:
   - "how to invest in us stocks from india"
@@ -22,15 +22,6 @@ draft: false
 readingTime: "13 min read"
 featured: false
 ---
-
-<!--
-SEO CHECKLIST
-Title tag (55 chars): How to Invest in US Stocks from India (2026 Guide)
-Meta description (155 chars): Complete guide for Indian investors: LRS rules, best platforms, tax implications, and step-by-step process to legally invest in US stocks from India.
-Focus keyword: how to invest in us stocks from india
-Slug: how-to-invest-in-us-stocks-from-india
-Schema type: Article, FAQPage, HowTo
--->
 
 *Updated: May 2026 - GetGlobalYields.com - Read time: ~13 min*
 

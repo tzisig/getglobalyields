@@ -5,7 +5,7 @@ description: "How to invest $100,000 as a non-US investor in 2026. Asset allocat
 pubDate: 2026-05-20
 updatedDate: 2026-05-20
 author: "Tzion S."
-categories: ["Investing-Guides"]
+categories: ["US Investing"]
 keywords: "How To Invest 100k, 100k Investment Guide 2026, Portfolio Allocation, Index Fund Portfolio, Tax Advantaged Accounts, 401k 2026 Limits, Roth Ira 2026, Three Fund Portfolio, VWCE, International Investor Portfolio, Investing-Guides, How to Invest 100K A Step-by-Step Allocation Guide"
 tags:
   - "how to invest 100k"
@@ -24,18 +24,7 @@ heroImageHeight: 560
 draft: false
 readingTime: "13 min read"
 featured: true
-rating: 4.9
 ---
-
-<!--
-PAGE PLACEMENT INSTRUCTIONS
-- File location: src/content/blog/how-to-invest-100k-step-by-step-guide.md
-- Hero image: /public/images/blog/how-to-invest-100k.webp
-- Feature on: homepage "Featured Guides" section, Investing Guides category page
-- Internal links embedded in body: Best Brokers for International Investors, [Saxo Bank](/best-brokers/saxo-bank-review-2026/) Review, [IBKR](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/) Review
-- Add JSON-LD FAQ schema using the Q&A block at the bottom of this file
-- Related posts widget: "Best Brokers for International Investors", "Three-Fund Portfolio Explained", "Saxo Bank Review 2026"
--->
 
 Most guides on this topic are written for one type of person: an American in their 30s with a 401(k) and a Vanguard account. If that is you, there is plenty of useful information here. But a large share of people with $100,000 to invest are not that person. They live in London, Singapore, Toronto, Dubai, or São Paulo. They do not have access to a 401(k). Their tax rules are different. Their broker options are different. And most guides leave them with a framework that simply does not apply.
 
@@ -254,7 +243,7 @@ That is what investing $100,000 well actually looks like.
 <!-- Place immediately below the disclaimer -->
 <!-- [AFFILIATE_UNIT: BROKER_COMPARISON_TABLE] -->
 <!-- Anchor text: "Ready to invest? See our picks for the best brokers for international investors in 2026." -->
-<!-- Link to: /best-brokers-international-investors -->
+<!-- Link to: /best-brokers/best-brokers-international-investors-2026/ -->
 
 ---
 

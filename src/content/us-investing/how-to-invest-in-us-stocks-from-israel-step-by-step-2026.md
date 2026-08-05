@@ -51,7 +51,10 @@ Yes, completely. Israeli residents are legally permitted to hold foreign investm
 
 Key legal points:
 
--   You must report foreign investment accounts to the ITA if your holdings exceed certain thresholds - Dividends and capital gains from foreign investments are taxable in Israel - The US-Israel tax treaty governs how US [withholding tax](/taxes/taxes-us-dividends-foreign-investors/) interacts with your Israeli tax obligations - There is no requirement to use an Israeli broker - you can open an account directly with a US broker
+-   You must report foreign investment accounts to the ITA if your holdings exceed certain thresholds
+-   Dividends and capital gains from foreign investments are taxable in Israel
+-   The US-Israel tax treaty governs how US [withholding tax](/taxes/taxes-us-dividends-foreign-investors/) interacts with your Israeli tax obligations
+-   There is no requirement to use an Israeli broker - you can open an account directly with a US broker
 
 ## **Step 1: Choose Your Broker**
 
@@ -73,11 +76,15 @@ Before starting the application, prepare the following:
 
 **Required for all brokers:**
 
--   Israeli passport (preferred) or Teudat Zehut - Proof of address: utility bill, bank statement, or official government letter dated within 90 days - Teudat Zehut number - your foreign tax identification number for the [W-8BEN](/taxes/w8ben-form-non-us-investors/) form - Israeli bank account details for funding and withdrawals
+-   Israeli passport (preferred) or Teudat Zehut
+-   Proof of address: utility bill, bank statement, or official government letter dated within 90 days
+-   Teudat Zehut number - your foreign tax identification number for the [W-8BEN](/taxes/w8ben-form-non-us-investors/) form
+-   Israeli bank account details for funding and withdrawals
 
 **Good to have ready:**
 
--   Israeli brokerage account statements (if any) - some brokers ask about investment experience - Basic information about your income and net worth
+-   Israeli brokerage account statements (if any) - some brokers ask about investment experience
+-   Basic information about your income and net worth
 
 ## **Step 3: Complete the Online Application**
 
@@ -122,7 +129,11 @@ You wire Israeli shekels from your Israeli bank account to IBKR, and then conver
 
 Steps:
 
--   In IBKR, go to Transfer and Pay > Transfer Funds > Deposit - Select Wire Transfer and choose ILS as the currency - IBKR will give you wire instructions including their bank details and your unique account reference number - Log in to your Israeli bank's online system and initiate an international wire transfer - Once the ILS arrives at IBKR (1 to 3 business days), use the currency conversion tool to convert ILS to USD
+-   In IBKR, go to Transfer and Pay > Transfer Funds > Deposit
+-   Select Wire Transfer and choose ILS as the currency
+-   IBKR will give you wire instructions including their bank details and your unique account reference number
+-   Log in to your Israeli bank's online system and initiate an international wire transfer
+-   Once the ILS arrives at IBKR (1 to 3 business days), use the currency conversion tool to convert ILS to USD
 
 ### **Option B: Wire USD Directly**
 
@@ -136,8 +147,13 @@ Once your account is funded, here is a quick orientation for new IBKR users:
 
 ### **Placing Your First Trade on IBKR Mobile**
 
--   Tap Trade - Search for the stock or ETF (e.g., type QQQ or TQQQ)
--   Select the security - Choose Buy - Enter the number of shares - Select order type: Limit Order (recommended) or Market Order - Review and submit
+-   Tap Trade
+-   Search for the stock or ETF (e.g., type QQQ or TQQQ)
+-   Select the security
+-   Choose Buy
+-   Enter the number of shares
+-   Select order type: Limit Order (recommended) or Market Order
+-   Review and submit
 
 For beginners, always use a Limit Order rather than a Market Order. This prevents you from accidentally paying more than you intended, especially for less liquid securities.
 
@@ -191,11 +207,15 @@ Tip: Call your bank before initiating your first international wire to confirm t
 ## **Summary: Your Step-by-Step Checklist**
 
 -   Open IBKR account online (20 to 40 minutes)
--   Upload passport and proof of address - Complete W-8BEN form (enter Teudat Zehut number, select Israel, 25% rate)
+-   Upload passport and proof of address
+-   Complete W-8BEN form (enter Teudat Zehut number, select Israel, 25% rate)
 -   Wait for account approval (1 to 3 business days)
--   Initiate wire transfer from Israeli bank to IBKR - Convert ILS to USD inside IBKR at interbank rate - Download IBKR Mobile app
-- Set up a [multi-currency account](/us-investing/multi-currency-investment-accounts/) to minimize FX costs
-- Place first trade using a Limit Order - Save IBKR annual statement and 1042-S for Israeli tax return
+-   Initiate wire transfer from Israeli bank to IBKR
+-   Convert ILS to USD inside IBKR at interbank rate
+-   Download IBKR Mobile app
+-   Set up a [multi-currency account](/us-investing/multi-currency-investment-accounts/) to minimize FX costs
+-   Place first trade using a Limit Order
+-   Save IBKR annual statement and 1042-S for Israeli tax return
 
 **Financial Disclaimer**
 

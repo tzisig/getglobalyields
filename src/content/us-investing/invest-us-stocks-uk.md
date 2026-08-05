@@ -5,7 +5,7 @@ description: "Complete guide for UK investors: ISA vs SIPP vs GIA for US stocks,
 pubDate: 2026-05-19
 updatedDate: 2026-05-19
 author: "Tzion S."
-categories: ["Basics"]
+categories: ["US Investing"]
 keywords: "How To Invest In Us Stocks From Uk, Uk Investor Us Stocks Tax, Isa Us Stocks Withholding Tax, Sipp Us Stocks, Ibkr Uk Review, Us Stocks Uk Cgt, W8ben Uk Investor, Basics, How to Invest in US Stocks from the UK 2026 Guide, Withholding Tax, US Stocks"
 tags:
   - "how to invest in us stocks from uk"
@@ -22,15 +22,6 @@ draft: false
 readingTime: "12 min read"
 featured: false
 ---
-
-<!--
-SEO CHECKLIST
-Title tag (52 chars): How to Invest in US Stocks from the UK (2026)
-Meta description (155 chars): Complete guide for UK investors: ISA vs SIPP vs GIA for US stocks, [withholding tax](/taxes/taxes-us-dividends-foreign-investors/), CGT rates, best brokers, and the mistake most investors make with their ISA.
-Focus keyword: how to invest in us stocks from the uk
-Slug: how-to-invest-in-us-stocks-from-uk
-Schema type: Article, FAQPage, HowTo
--->
 
 *Updated: May 2026 - GetGlobalYields.com - Read time: ~12 min*
 

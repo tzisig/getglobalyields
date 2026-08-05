@@ -5,7 +5,7 @@ description: "How to invest in US stocks from Australia. Broker comparison, W-8B
 pubDate: 2026-05-23
 updatedDate: 2026-05-23
 author: "Tzion S."
-categories: ["Investing-Guides"]
+categories: ["US Investing"]
 keywords: "How To Invest In Us Stocks From Australia, Buy Us Stocks Australia, Best Broker Us Stocks Australia, W-8BEN Australia, Us Stocks Tax Australia, IBKR Australia, Stake Broker Australia, Moomoo Australia, CMC Invest Us Stocks, CGT Discount 2027 Australia, Superhero Broker Australia, SMSF Us Stocks"
 tags:
   - "how to invest in us stocks from australia"
@@ -28,9 +28,6 @@ readingTime: "12 min read"
 featured: true
 ---
 
-<!-- FILE: src/content/blog/how-to-invest-in-us-stocks-from-australia.md -->
-<!-- Hero image: /public/images/blog/how-to-invest-in-us-stocks-from-australia.webp -->
-
 Most Australians who want to buy Apple or Nvidia spend too long asking whether they are allowed to, and almost no time thinking about what it will actually cost them.
 
 The first question has a short answer: yes, Australians can buy US stocks freely. No restrictions, no special approvals, no US address required. The second question is where the real money is either kept or quietly lost - and it comes down to one number most brokers bury in the fine print.
@@ -51,7 +48,7 @@ Here is how to set it up properly - and how to make sure you are not the one lea
 The setup is simpler than most people expect:
 
 - An ASIC-regulated brokerage account with US market access
-- Standard identity verification - [Australian](/us-investing/how-to-invest-in-us-stocks-from-australia/) passport or driver's licence
+- Standard identity verification - Australian passport or driver's licence
 - A completed [W-8BEN](/taxes/w8ben-form-non-us-investors/) form (your broker handles this electronically during signup)
 
 No US address. No US bank account. No US tax file number. Account opening is fully online for every platform in this guide, and most approvals come through within one to two business days.

@@ -5,7 +5,7 @@ description: "How to invest in US stocks from Germany. Broker options, W-8BEN, A
 pubDate: 2026-05-20
 updatedDate: 2026-05-20
 author: "Tzion S."
-categories: ["Investing-Guides", "Country-Guides"]
+categories: ["US Investing"]
 keywords: "Invest In US Stocks From Germany, Germany ETF Investing 2026, Vorabpauschale 2026, Abgeltungsteuer, Freistellungsauftrag, VWCE Germany, Best Broker Germany, UCITS ETF Germany, Sparerpauschbetrag 2026, Teilfreistellung, Investing-Guides, Country-Guides"
 tags:
   - "invest in US stocks from Germany"
@@ -24,7 +24,6 @@ heroImageHeight: 560
 draft: false
 readingTime: "13 min read"
 featured: true
-rating: 4.9
 ---
 
 
@@ -265,7 +264,7 @@ That is the entire setup. Lukas did it in a weekend. So can you.
 <!-- Place immediately below the disclaimer -->
 <!-- [AFFILIATE_UNIT: BROKER_COMPARISON_TABLE_GERMANY] -->
 <!-- Anchor text: "Compare the best brokers for German investors in 2026 - fees, tax handling, and ETF access." -->
-<!-- Link to: /best-brokers-germany -->
+<!-- Link to: /best-brokers/best-brokers-international-investors-2026/ (no Germany-specific page exists yet) -->
 
 ---
 

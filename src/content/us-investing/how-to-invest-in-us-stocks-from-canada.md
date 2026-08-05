@@ -5,7 +5,7 @@ description: "How to invest in US stocks from Canada. Broker options, withholdin
 pubDate: 2026-05-24
 updatedDate: 2026-05-24
 author: "Tzion S."
-categories: ["Investing-Guides"]
+categories: ["US Investing"]
 keywords: "How To Invest In Us Stocks From Canada, Buy Us Stocks Canada, Canadian Investor Us Stocks, TFSA Us Stocks Withholding Tax, RRSP Us Stocks, Norberts Gambit, Questrade Us Stocks, Wealthsimple Us Stocks, Interactive Brokers Canada, W-8ben Canada, Investing-Guides, How to Invest in US Stocks from Canada 2026 Guide"
 tags:
   - "how to invest in us stocks from canada"
@@ -26,10 +26,7 @@ readingTime: "13 min read"
 featured: false
 ---
 
-<!-- PAGE: Add to /investing-guides/ or /canada/ -->
-<!-- INTERNAL LINKS: Link from broker comparison pages, TFSA guide, RRSP guide -->
-
-A [Canadian](/us-investing/how-to-invest-in-us-stocks-from-canada/) investor who put $50,000 into the S&P 500 ten years ago and let it sit - doing nothing - ended up with roughly $185,000 today. The same $50,000 in the TSX composite grew to about $100,000 over the same period. Same country, same investor, one decision: which market to be in.
+A Canadian investor who put $50,000 into the S&P 500 ten years ago and let it sit - doing nothing - ended up with roughly $185,000 today. The same $50,000 in the TSX composite grew to about $100,000 over the same period. Same country, same investor, one decision: which market to be in.
 
 The process of buying US stocks from Canada is not complicated. What is complicated - and what quietly costs investors thousands of dollars a year - are three specific details: which account to use, whether your [W-8BEN](/taxes/w8ben-form-non-us-investors/) form is on file, and how you convert CAD to USD. Get those right and the rest is straightforward.
 
