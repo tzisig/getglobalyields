@@ -27,15 +27,6 @@ featured: true
 rating: 4.9
 ---
 
-<!--
-PAGE PLACEMENT INSTRUCTIONS
-- File location: src/content/blog/how-to-invest-in-us-stocks-from-[germany](/us-investing/how-to-invest-in-us-stocks-from-germany/).md
-- Hero image: /public/images/blog/invest-us-stocks-germany.webp
-- Feature on: Country Guides category page, Investing Guides category page
-- Internal links embedded in body: Best Brokers for International Investors, [IBKR](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/) Review, [Saxo Bank](/best-brokers/saxo-bank-review-2026/) Review
-- Add JSON-LD FAQ schema using the Q&A block at the bottom of this file
-- Related posts widget: "How to Invest $100K", "Best ETFs for European Investors", "IBKR Review 2026"
--->
 
 Most people who move to Germany with a plan to invest discover the same thing: the mechanics are different here, the terminology is unfamiliar, and the most popular guides online were written for Americans. You search "how to buy S&P 500 ETF" and land on articles recommending VTI and VOO - which you cannot actually buy as an EU retail investor. You search for tax information and end up in a dense German document about Investmentsteuergesetz 2018. You give up and leave the money in a savings account.
 
