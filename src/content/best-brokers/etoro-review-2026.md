@@ -242,7 +242,7 @@ eToro is fully available in Israel and is one of the more popular platforms amon
 - **Minimum deposit: $10,000** - significantly higher than most other markets. This is a real barrier for new investors
 - **Currency conversion: ~1.5%** on NIS deposits - one of the highest in the industry for this currency pair
 - **Real shares** - Israeli clients receive actual share ownership, not CFDs
-- **Israeli tax:** Capital gains tax of 25% applies. Dividend withholding is typically 15% with a valid W-8BEN form (reduced from 30% under the US-[Israel tax](/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026/) treaty). eToro provides annual statements but you file your own tax report in Israel
+- **Israeli tax:** Capital gains tax of 25% applies. Dividend withholding is 25% for most individual investors with a valid W-8BEN form (reduced from 30% under the US-[Israel tax](/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026/) treaty - the treaty's lower 12.5% tier applies only to qualifying 10%+ corporate holders, not individual portfolio investors). eToro provides annual statements but you file your own tax report in Israel
 
 **Bottom line for Israelis:** The Hebrew interface and support are genuine advantages. The $10,000 minimum and 1.5% conversion fee are real disadvantages. For investors who have $10,000+ and want a simple Hebrew-language experience, eToro works. For everyone else, IBKR is more cost-effective.
 
@@ -250,7 +250,7 @@ eToro is fully available in Israel and is one of the more popular platforms amon
 
 | Investor Country | Default withholding | With W-8BEN | Notes |
 |---|---|---|---|
-| Israel | 30% | 15% | US-Israel tax treaty |
+| Israel | 30% | 25% | US-Israel tax treaty (individual portfolio rate) |
 | UK | 30% | 15% | US-[UK tax](/taxes/us-uk-tax-treaty-investors/) treaty |
 | [Germany](/us-investing/how-to-invest-in-us-stocks-from-germany/) | 30% | 15% | US-[Germany tax](/taxes/us-germany-tax-treaty-investors/) treaty |
 | Australia | 30% | 15% | US-Australia tax treaty |
@@ -389,7 +389,7 @@ Yes, for eligible clients. eToro offers up to 3.55% annual interest on uninveste
 USD account holders pay $5 per withdrawal. EUR and GBP account holders withdraw for free.
 
 **Does eToro report to Israeli tax authorities?**
-eToro provides annual statements showing your gains, losses, and dividends. You are responsible for filing your own tax return in Israel. Capital gains are taxed at 25%, dividends at 15% (with valid W-8BEN under the US-Israel treaty).
+eToro provides annual statements showing your gains, losses, and dividends. You are responsible for filing your own tax return in Israel. Capital gains are taxed at 25%, dividends at 25% (with valid W-8BEN under the US-Israel treaty - down from the 30% default).
 
 ---
 

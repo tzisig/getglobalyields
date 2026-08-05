@@ -27,17 +27,6 @@ cons: ["International availability depends on residency", "Less ideal as an all-
 productName: "tastytrade"
 ---
 
-<!-- PAGE PLACEMENT INSTRUCTIONS
-     - Target collection: src/content/blog/
-     - File name: tastytrade-review-2026.md
-     - Hero image: place the file at public/images/blog/tastytrade-review-2026.webp
-     - Add to the "Best-Brokers" category index
-     - Internal links FROM this article: link to your [IBKR](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/) review, your options trading guide, and your broker comparison roundup
-     - Internal links TO this article: link from any page mentioning options brokers, derivatives trading, or international brokerage accounts
-     - Schema: BrokerReview / FinancialProduct markup recommended
-     - After publishing, submit URL to Google Search Console
--->
-
 tastytrade is not trying to be everything to everyone. It was built by options traders, for options traders - and it shows in every corner of the platform. The pricing model is unconventional. The tools are unusually deep for a retail broker. And if you arrive expecting something like Robinhood, the learning curve will humble you quickly.
 
 The question this review answers specifically is whether tastytrade makes sense for international investors - not just Americans. Because most reviews on this topic are written by and for US residents, and the experience is genuinely different when you are wiring funds from overseas, dealing with currency conversion on your own, and wondering whether your country is even on the eligible list.

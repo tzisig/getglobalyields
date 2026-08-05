@@ -232,7 +232,3 @@ _GetGlobalYields.com may earn a commission if you open an account through links 
 **Financial Disclaimer**
 
 _This review is for informational purposes only and does not constitute financial advice. Always conduct your own research before opening a brokerage account._
-
-**About the Author**
-
-_\[Add your author bio here - include your investment experience and background to build credibility with Google and readers.\]_

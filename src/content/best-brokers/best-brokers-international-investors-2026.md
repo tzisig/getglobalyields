@@ -1,7 +1,7 @@
 ---
 slug: best-brokers-international-investors-2026
-title: "Best Brokers for International Investors (2026)"
-description: "Top US brokers for non-US investors in 2026. Compare IBKR, Tastytrade, Firstrade, eToro and more - fees, options access, tax handling, and FX costs."
+title: "6 Best Brokers for International Investors (2026)"
+description: "The 6 best brokers for non-US investors in 2026, ranked and compared: IBKR, Saxo, XTB, eToro, Firstrade, and Schwab - fees, options access, tax handling, and FX costs."
 pubDate: 2026-04-12
 updatedDate: 2026-05-12
 author: "Tzion S."
@@ -210,6 +210,27 @@ Before ranking specific platforms, it is important to define what separates a tr
         <svg class="h-3.5 w-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" /></svg>
       </span>
     </a>
+    <!-- XTB -->
+    <a href="/best-brokers/xtb-review-2026/" class="group flex flex-col rounded-xl border border-primary-700 hover:border-accent-500 bg-primary-800 hover:shadow-lg hover:shadow-accent-500/10 p-5 transition-all duration-200 hover:-translate-y-0.5 no-underline">
+      <div class="flex items-center gap-3 mb-3">
+        <div class="flex h-10 w-10 shrink-0 items-center justify-center rounded-lg border border-primary-600 bg-primary-900 text-sm font-bold text-accent-500">
+          XT
+        </div>
+        <div>
+          <div class="font-bold text-slate-100 group-hover:text-accent-400 transition-colors text-sm leading-tight m-0">XTB Review 2026</div>
+          <div class="text-xs text-accent-500/80 font-medium">Best for European ETF Investors</div>
+        </div>
+      </div>
+      <p class="text-sm text-slate-400 leading-relaxed flex-1 mb-4 mt-0">Zero-commission stocks and ETFs up to €100k/month, automatic cash interest, and a hidden 0.5% FX fee to know about.</p>
+      <div class="flex flex-wrap gap-1.5 mb-4">
+        <span class="rounded border border-primary-600 px-2 py-0.5 text-xs text-slate-400">Zero Commission</span>
+        <span class="rounded border border-primary-600 px-2 py-0.5 text-xs text-slate-400">Cash Interest</span>
+      </div>
+      <span class="mt-auto text-xs font-semibold text-accent-500 group-hover:text-accent-400 flex items-center gap-1">
+        Read Full Review
+        <svg class="h-3.5 w-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" /></svg>
+      </span>
+    </a>
   </div>
 </div>
 
@@ -282,6 +303,16 @@ Saxo Bank is a Danish investment bank and broker with a strong foothold across E
 - **Professional-grade research,** charting, and macro analysis tools
 - **Higher minimum deposit** (typically $2,000–$10,000 depending on account tier)
 
+### **6. XTB** \- **Best for European Passive ETF Investors**
+
+XTB is a publicly listed (Warsaw Stock Exchange) European broker built around zero-commission stock and ETF investing rather than the CFD/forex trading it started with. For an investor outside the US depositing a few hundred to a couple thousand euros a month into ETFs, it is a genuinely different value proposition than IBKR or Saxo.
+
+- **0% commission** on real stocks and ETFs up to €100,000 in monthly trading volume
+- **Automatic cash interest** on uninvested balances - 3.45% USD, 2.30% EUR, 4% GBP, no minimum or opt-in required
+- **Investment Plans:** automated monthly ETF investing with no setup fee
+- **Regulated by 7 authorities** including the FCA and CySEC; listed on the Warsaw Stock Exchange since 2016
+- **Not for everyone:** a 0.5% FX conversion fee on cross-currency trades, no bonds or futures, and it does not accept US residents
+
 ## **Side-by-Side Comparison: Best Brokers for International Investors 2026**
 
 | **Broker** | **Best For** | **Options** | **Fees** | **Min. Deposit** | **FX Cost** | **Countries** | **US ETF Access** | **Review** |
@@ -292,8 +323,10 @@ Saxo Bank is a Danish investment bank and broker with a strong foothold across E
 | **Firstrade**<br>NRAs | Cost-conscious NRAs | <span class="text-green-500 font-bold">✓</span> | $0 | $0 | USD only | Selected countries | Full | <a href="/best-brokers/firstrade-review-2026/" class="inline-block rounded bg-accent-500 px-3 py-1 text-xs font-semibold !text-primary-900 transition-colors hover:bg-accent-400 no-underline whitespace-nowrap mt-1">Review</a> |
 | **tastytrade**<br>Options traders | Options/Derivatives | <span class="text-green-500 font-bold">✓</span> | Low | $0 | USD only | Selected countries | Full | <a href="/best-brokers/tastytrade-review-2026/" class="inline-block rounded bg-accent-500 px-3 py-1 text-xs font-semibold !text-primary-900 transition-colors hover:bg-accent-400 no-underline whitespace-nowrap mt-1">Review</a> |
 | **Saxo Bank**<br>Multi-entity | EU/MENA investors | <span class="text-green-500 font-bold">✓</span> | High → Low* | $2,000+ | Good | EU, MENA, APAC | Broad | <a href="/best-brokers/saxo-bank-review-2026/" class="inline-block rounded bg-accent-500 px-3 py-1 text-xs font-semibold !text-primary-900 transition-colors hover:bg-accent-400 no-underline whitespace-nowrap mt-1">Review</a> |
+| **XTB**<br>EU-listed broker | European ETF investors | <span class="text-red-500 font-bold">✗</span>** | Very Low | $0 | 0.5% | 16 exchanges | Limited (EU/UK real stocks) | <a href="/best-brokers/xtb-review-2026/" class="inline-block rounded bg-accent-500 px-3 py-1 text-xs font-semibold !text-primary-900 transition-colors hover:bg-accent-400 no-underline whitespace-nowrap mt-1">Review</a> |
 
-* Saxo Bank fees decrease at Platinum ($200k+) and VIP ($1M+) tiers.
+\* Saxo Bank fees decrease at Platinum ($200k+) and VIP ($1M+) tiers.
+\*\* XTB offers limited options access, but only under its CySEC entity.
 
 ## **Tax and Compliance Considerations When Choosing a Broker**
 
