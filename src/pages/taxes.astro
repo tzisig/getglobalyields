@@ -171,6 +171,22 @@ const availableLetters = [...new Set(postsWithLetter.map(p => p.letter).filter((
       }
     }
 
+    // Google Translate rewrites text nodes asynchronously and sometimes lazily (e.g. cards
+    // further down the grid may translate a moment after the ones above them). Watching for
+    // those text changes and re-running the filter means a query like "ישראל" picks up a
+    // card as soon as it actually gets translated, instead of only matching whichever cards
+    // happened to be translated already. Only childList/characterData is observed (not
+    // attributes), so this never reacts to our own card.style.display toggling below.
+    const grid = document.getElementById('taxes-grid');
+    let retranslateTimer: ReturnType<typeof setTimeout> | undefined;
+    if (grid) {
+      const observer = new MutationObserver(() => {
+        clearTimeout(retranslateTimer);
+        retranslateTimer = setTimeout(applyFilters, 150);
+      });
+      observer.observe(grid, { childList: true, subtree: true, characterData: true });
+    }
+
     const activeClasses = ['border-accent-500', 'bg-accent-bg', 'text-accent-500'];
     const inactiveClasses = ['border-primary-700', 'bg-primary-900', 'text-slate-300'];
 
