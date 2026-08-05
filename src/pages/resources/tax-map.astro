@@ -16,6 +16,13 @@ const treatyDataEntries = countries.map(([iso3, name, flag, status, rate, slug, 
 });
 const treatyDataJson = JSON.stringify(Object.fromEntries(treatyDataEntries));
 const iso3ToIso2Json = JSON.stringify(iso3ToIso2);
+
+// Static, crawlable table of every country — the map itself only reveals data on click,
+// which search engines don't do, so this is the actual indexable content of the page.
+const tableCountries = treatyDataEntries
+  .filter(([iso3]) => iso3 !== 'USA')
+  .map(([, data]) => data)
+  .sort((a, b) => a.name.localeCompare(b.name));
 ---
 
 <BaseLayout
@@ -307,6 +314,80 @@ const iso3ToIso2Json = JSON.stringify(iso3ToIso2);
       box-shadow: 0 4px 14px rgba(212, 185, 90, 0.3);
     }
 
+    .tax-map-page .intro-text {
+      max-width: 720px;
+      margin: 18px auto 0;
+      text-align: left;
+      color: var(--text-secondary);
+      font-size: 0.92rem;
+      line-height: 1.7;
+    }
+    .tax-map-page .intro-text p {
+      margin-bottom: 12px;
+    }
+    .tax-map-page .intro-text strong {
+      color: var(--text-primary);
+    }
+
+    .tax-map-page .country-table-section {
+      margin-top: 32px;
+    }
+    .tax-map-page .country-table-section h2 {
+      font-size: 1.3rem;
+      font-weight: 700;
+      margin-bottom: 6px;
+    }
+    .tax-map-page .country-table-section > p {
+      color: var(--text-muted);
+      font-size: 0.85rem;
+      margin-bottom: 16px;
+    }
+    .tax-map-page .country-table-wrapper {
+      overflow-x: auto;
+      background: var(--bg-secondary);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-lg);
+    }
+    .tax-map-page table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 0.82rem;
+    }
+    .tax-map-page thead th {
+      text-align: left;
+      padding: 12px 14px;
+      color: var(--text-muted);
+      font-size: 0.72rem;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      border-bottom: 1px solid var(--border);
+      white-space: nowrap;
+    }
+    .tax-map-page tbody td {
+      padding: 10px 14px;
+      border-bottom: 1px solid rgba(51, 65, 85, 0.35);
+      color: var(--text-secondary);
+      vertical-align: top;
+    }
+    .tax-map-page tbody tr:last-child td {
+      border-bottom: none;
+    }
+    .tax-map-page tbody tr:hover {
+      background: rgba(212, 185, 90, 0.04);
+    }
+    .tax-map-page td.status-full { color: var(--green); font-weight: 600; white-space: nowrap; }
+    .tax-map-page td.status-none { color: var(--red); font-weight: 600; white-space: nowrap; }
+    .tax-map-page td.rate-cell { white-space: nowrap; font-weight: 600; color: var(--text-primary); }
+    .tax-map-page td.note-cell { color: var(--text-muted); font-size: 0.78rem; max-width: 320px; }
+    .tax-map-page td.guide-cell a {
+      color: var(--accent);
+      text-decoration: none;
+      font-weight: 600;
+      white-space: nowrap;
+    }
+    .tax-map-page td.guide-cell a:hover { text-decoration: underline; }
+    .tax-map-page td.guide-cell span { color: var(--text-muted); white-space: nowrap; }
+
     .tax-map-page .disclaimer {
       text-align: center;
       margin-top: 20px;
@@ -376,6 +457,12 @@ const iso3ToIso2Json = JSON.stringify(iso3ToIso2);
         <p>Click any country to see its US tax treaty status, withholding rate, and W-8BEN requirements.</p>
       </div>
 
+      <div class="intro-text">
+        <p>Every dividend a US company pays to a non-US investor is subject to IRS withholding tax at a default rate of 30% - deducted automatically, before the money ever reaches your account. Whether you actually pay that full rate depends on one thing: does your country of residence have an income tax treaty with the United States, and have you filed a <a href="/taxes/w8ben-form-non-us-investors/" style="color: var(--accent);">W-8BEN form</a> with your broker so it can apply the treaty rate.</p>
+        <p>The map below shows the treaty status and reduced withholding rate for every country we've researched. <strong>Green</strong> means an active treaty is in force and a reduced rate applies once your W-8BEN is on file. <strong>Red</strong> means no treaty currently applies - including treaties that were terminated, suspended, or never entered into force - so the full 30% default rate applies regardless of paperwork.</p>
+        <p>Click any country on the map for a quick summary, or use the full table further down the page to browse every country at once.</p>
+      </div>
+
       <div class="main-layout">
         <div class="map-wrapper" id="map-wrapper">
           <div class="tooltip-map" id="tooltip-map"></div>
@@ -400,6 +487,45 @@ const iso3ToIso2Json = JSON.stringify(iso3ToIso2);
 
       <div class="disclaimer">
         <strong>Disclaimer:</strong> Treaty statuses are based on publicly available IRS data and may change. This map is for educational purposes only. Always consult a qualified tax professional for advice specific to your situation. Last updated: August 2026.
+      </div>
+
+      <div class="country-table-section">
+        <h2>All Countries at a Glance</h2>
+        <p>The same data as the map above, in table form - sorted alphabetically.</p>
+        <div class="country-table-wrapper">
+          <table>
+            <thead>
+              <tr>
+                <th>Country</th>
+                <th>Treaty Status</th>
+                <th>Withholding Rate</th>
+                <th>Notes</th>
+                <th>Guide</th>
+              </tr>
+            </thead>
+            <tbody>
+              {tableCountries.map((c) => (
+                <tr>
+                  <td>{c.flag} {c.name}</td>
+                  <td class={c.status === 'full' ? 'status-full' : 'status-none'}>
+                    {c.status === 'full' ? 'Treaty in Force' : 'No Treaty'}
+                  </td>
+                  <td class="rate-cell">{c.rate}</td>
+                  <td class="note-cell">{c.note ?? '—'}</td>
+                  <td class="guide-cell">
+                    {c.guide ? (
+                      <a href={c.guide}>Read guide →</a>
+                    ) : c.scheduled ? (
+                      <span>Coming soon</span>
+                    ) : (
+                      <span>—</span>
+                    )}
+                  </td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
       </div>
     </div>
   </div>
