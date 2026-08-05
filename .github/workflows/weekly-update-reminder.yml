@@ -1,0 +1,31 @@
+name: Weekly Update Reminder
+
+# Opens a GitHub issue every Monday reminding the site owner to refresh the
+# four cards on /weekly-update/. That page's content requires real editorial
+# judgment (picking genuine, current headlines) - this workflow only reminds,
+# it never writes or fetches content itself.
+
+on:
+  schedule:
+    # 07:00 UTC every Monday.
+    - cron: '0 7 * * 1'
+  workflow_dispatch: {}
+
+permissions:
+  issues: write
+
+jobs:
+  remind:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Create reminder issue
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          WEEK_OF=$(date -u +"%B %-d, %Y")
+          gh issue create \
+            --repo "${{ github.repository }}" \
+            --title "Weekly update: refresh weekly-update.astro ($WEEK_OF)" \
+            --body "It's Monday - time to refresh the four cards on [/weekly-update/](https://getglobalyields.com/weekly-update/).
+
+Edit \`src/pages/weekly-update.astro\` (the four \`.card\` blocks - Regulatory Update, Broker News, Tax Treaty Update, Stat of the Week) with this week's real headlines. Close this issue once the update is live."
