@@ -22,13 +22,11 @@ heroImageDark: "/images/blog/case-study/tqqq_recovery_dark.webp"
 products: ["TQQQ", "Options"]
 ---
 
-> [!NOTE]
-> **Key Stats:**
+> **Key Stats**
 > * **Asset:** TQQQ (ProShares UltraPro QQQ)
 > * **Duration:** Jan 2022 - April 2026 (Ongoing)
 > * **Strategy Type:** [Wheel Strategy](/options-income/wheel-strategy-tqqq/) / Leveraged Long-Term Holding
 
-> [!IMPORTANT]
 > **The Short Version**
 > 
 > *   **Started:** $100,000 (Jan 2022)
@@ -43,24 +41,15 @@ products: ["TQQQ", "Options"]
 ## 1. What Actually Went Wrong
 As an international investor entering the US market, my first mistake was relying on theory without understanding real market dynamics.
 
-**What I did:**
-*   Traded options aggressively
-*   Increased size during losses
-*   Treated options like stocks
-*   Stayed glued to the screen
+I traded options aggressively, and when positions went against me, I increased size instead of stepping back. I was treating options like stocks - holding through moves I didn't respect instead of accounting for how fast time decay and leverage can turn on you - and I stayed glued to the screen, which only made the emotional decisions worse.
 
-**What that caused:**
-*   Time decay worked against me
-*   Leverage amplified every mistake
-*   Emotional decisions replaced logic
+The combination was brutal. Time decay worked against me on every trade I held too long. Leverage amplified every mistake instead of just the wins. And once emotional decisions replaced logic, there was no system left to fall back on.
 
-**Result:** $100,000 → $28,000 within a year
-No edge. No system. Just exposure and hope.
+**Result:** $100,000 → $28,000 within a year. No edge. No system. Just exposure and hope.
 
 ## 2. The Turning Point (Late 2022)
 At the bottom, I stopped trading and started thinking.
 
-> [!NOTE]
 > **Key observation:**
 > The Nasdaq had recovered from every major crash in history. TQQQ had dropped ~83% from its peak.
 > 
@@ -77,29 +66,14 @@ At the bottom, I stopped trading and started thinking.
 *   Added $40,000 as cash collateral to support [selling puts](/options-income/cash-secured-puts-high-iv/) without broker margin
 
 ### Layer 1: Covered Calls
-Sold calls continuously against shares.
+Sold calls continuously against shares. The rules were simple but not mechanical: after a strong rally, sell a higher strike; in sideways markets, sell closer to the money. Rolling happened when it made sense, not on autopilot.
 
-**Practical rules:**
-*   After strong rallies → sell higher strike
-*   In sideways markets → sell closer to ATM
-*   Rolled when needed, not automatically
-
-**Reality:**
-*   Calls capped upside multiple times
-*   Missed gains during sharp moves
-*   Still profitable overall due to premium flow
+In practice, the calls capped upside more than once and I missed real gains during sharp moves - that's the trade-off with this approach. But the strategy stayed profitable overall because the premium flow kept coming in regardless of what the shares themselves were doing.
 
 ### Layer 2: Short Puts
-Sold puts using cash collateral.
+Sold puts using the cash collateral. After a drop, I'd sell closer strikes; in calmer markets, I'd go further out of the money.
 
-**Practical rules:**
-*   After drops → sell closer strikes
-*   In calm markets → go further OTM
-
-**Reality:**
-*   Some puts were assigned at bad timing
-*   Increased exposure during drawdowns
-*   Required strong conviction to continue
+This layer was harder to live with. Some puts got assigned at bad timing, which increased exposure exactly when the portfolio could least afford it, and staying in the position took real conviction during the drawdowns.
 
 ## 4. What Actually Drove Returns
 Not one thing. A combination:
@@ -109,8 +83,7 @@ Not one thing. A combination:
 | TQQQ underlying recovery | 60–70% |
 | Options premium income | 30–40% |
 
-> [!WARNING]
-> Important note for non-US investors: Returns are measured in USD. Actual results depend on your local currency. In my case, USD depreciation vs ILS reduced real returns despite portfolio growth.
+> **Currency note:** Returns here are measured in USD. Actual results depend on your local currency - in my case, USD depreciation vs ILS reduced real returns despite the portfolio growth.
 
 **The Leverage Factor:**
 While a standard investment in QQQ would have recovered significantly during this period, it wouldn't have provided the same fuel for the options engine. The 3x leverage of TQQQ is what allowed for such a dramatic recovery but it came with 3x the heartaches in 2022.
@@ -118,22 +91,11 @@ While a standard investment in QQQ would have recovered significantly during thi
 🔗 Read the full breakdown: [TQQQ vs. QQQ: Which is Right for International Investors?](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026/) - Explore the math behind the decay risk and why I chose the leveraged path.
 
 ## 5. What Did NOT Go Smoothly
-**Drawdowns during recovery:**
-*   Portfolio dropped from ~$465,000 to ~$340,000
-*   No hedge in place
-*   Exposure remained high throughout
+The recovery wasn't a straight line. At one point the portfolio dropped from ~$465,000 back down to ~$340,000, with no hedge in place and exposure staying high the entire time.
 
-**Covered call pain:**
-*   Strong rallies → shares called away
-*   Forced to re-enter higher or lose upside
+Covered calls created their own kind of pain: strong rallies meant shares got called away, forcing a choice between re-entering at a higher price or giving up the upside entirely. Short puts carried a mirror-image risk - selling them in falling markets increased exposure at the worst possible moment, and a longer downtrend could have compounded the losses instead of cushioning them.
 
-**Put risk:**
-*   Selling puts in falling markets increased exposure
-*   Could have compounded losses if trend continued
-
-**Psychological pressure:**
-*   Less panic than 2022
-*   Still required discipline not to interfere
+There was less panic than in 2022, but the psychological pressure never fully disappeared. It still took discipline not to interfere with a system that was, by design, supposed to run itself.
 
 ## 6. Failure Scenarios
 This strategy breaks under these conditions:
@@ -220,7 +182,6 @@ This is not repeatable on demand.
 If the same entry conditions don’t exist → results change completely.
 The biggest risk is not volatility. It’s applying this in the wrong market environment.
 
-> [!CAUTION]
 > ⚠️ **Not financial advice.** This is a personal case study of one investor's experience. Past performance does not guarantee future results.
 
 ---
