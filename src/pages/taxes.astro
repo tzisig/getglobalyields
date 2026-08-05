@@ -148,7 +148,13 @@ const availableLetters = [...new Set(postsWithLetter.map(p => p.letter).filter((
       const query = (searchInput?.value ?? '').trim().toLowerCase();
       let visibleCount = 0;
       for (const card of cards) {
-        const matchesQuery = query === '' || (card.dataset.search ?? '').includes(query);
+        // Match against the card's live, currently-rendered text (not just the English
+        // data-search attribute) so search still works after Google Translate rewrites the
+        // visible title/description into the visitor's language - e.g. searching "ישראל"
+        // finds the Israel guide once the page has been translated to Hebrew.
+        const liveText = (card.textContent ?? '').toLowerCase();
+        const englishFallback = card.dataset.search ?? '';
+        const matchesQuery = query === '' || liveText.includes(query) || englishFallback.includes(query);
         const matchesLetter = activeLetter === '' || card.dataset.letter === activeLetter;
         const matches = matchesQuery && matchesLetter;
         card.style.display = matches ? '' : 'none';
