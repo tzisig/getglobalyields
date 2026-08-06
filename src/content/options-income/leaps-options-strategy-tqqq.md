@@ -11,7 +11,7 @@ tags:
   - "LEAPS TQQQ"
   - "long-term options TQQQ"
   - "LEAPS leveraged ETF strategy"
-heroImage: "/images/blog/options-income/leaps-options-tqqq.webp"
+heroImage: "/images/blog/options-income/leaps-options-strategy-tqqq.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

@@ -11,7 +11,7 @@ tags:
   - "weekly vs monthly options income"
   - "weekly options TQQQ"
   - "theta decay weekly options"
-heroImage: "/images/blog/options-income/weekly-vs-monthly-options.webp"
+heroImage: "/images/blog/options-income/weekly-vs-monthly-options-income-strategies.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

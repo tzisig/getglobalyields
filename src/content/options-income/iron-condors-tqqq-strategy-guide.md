@@ -11,7 +11,7 @@ tags:
   - "iron condors TQQQ"
   - "iron condor strategy leveraged ETF"
   - "TQQQ range-bound options"
-heroImage: "/images/blog/options-income/iron-condors-tqqq.webp"
+heroImage: "/images/blog/options-income/iron-condors-tqqq-strategy-guide.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

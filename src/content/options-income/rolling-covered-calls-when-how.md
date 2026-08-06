@@ -11,7 +11,7 @@ tags:
   - "rolling covered calls"
   - "roll covered call up and out"
   - "avoid assignment covered call"
-heroImage: "/images/blog/options-income/rolling-covered-calls.webp"
+heroImage: "/images/blog/options-income/rolling-covered-calls-when-how.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

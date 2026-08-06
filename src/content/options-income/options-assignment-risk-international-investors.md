@@ -11,7 +11,7 @@ tags:
   - "options assignment risk international investors"
   - "early assignment covered call"
   - "options assignment time zone"
-heroImage: "/images/blog/options-income/options-assignment-risk.webp"
+heroImage: "/images/blog/options-income/options-assignment-risk-international-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

@@ -11,7 +11,7 @@ tags:
   - "options trading level approval"
   - "IBKR options approval international"
   - "options level 1 2 3"
-heroImage: "/images/blog/options-income/options-level-approval.webp"
+heroImage: "/images/blog/options-income/options-level-approval-international-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

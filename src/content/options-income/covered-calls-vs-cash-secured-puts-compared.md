@@ -11,7 +11,7 @@ tags:
   - "covered calls vs cash secured puts"
   - "which options income strategy"
   - "covered call vs put selling"
-heroImage: "/images/blog/options-income/covered-calls-vs-cash-secured-puts.webp"
+heroImage: "/images/blog/options-income/covered-calls-vs-cash-secured-puts-compared.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true
