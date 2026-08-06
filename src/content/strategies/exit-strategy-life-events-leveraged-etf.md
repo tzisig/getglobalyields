@@ -11,7 +11,7 @@ tags:
   - "TQQQ exit strategy life event"
   - "de-risk leveraged ETF planned expense"
   - "TQQQ retirement transition"
-heroImage: "/images/blog/strategies/exit-strategy-life-events.webp"
+heroImage: "/images/blog/strategies/exit-strategy-life-events-leveraged-etf.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

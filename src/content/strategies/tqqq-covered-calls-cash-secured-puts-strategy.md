@@ -16,7 +16,7 @@ tags:
   - "TQQQ options income"
   - "rolling options TQQQ"
   - "leveraged ETF options strategy"
-heroImage: "/images/blog/strategies/tqqq-covered-calls-cash-secured-puts.webp"
+heroImage: "/images/blog/strategies/tqqq-covered-calls-cash-secured-puts-strategy.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: false

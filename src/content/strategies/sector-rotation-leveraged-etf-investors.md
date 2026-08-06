@@ -11,7 +11,7 @@ tags:
   - "sector rotation leveraged ETFs"
   - "sector rotation strategy TQQQ"
   - "leveraged sector ETF timing"
-heroImage: "/images/blog/strategies/sector-rotation-leveraged-etf.webp"
+heroImage: "/images/blog/strategies/sector-rotation-leveraged-etf-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

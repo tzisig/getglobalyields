@@ -15,7 +15,7 @@ tags:
   - "Masonson QQQ strategy"
   - "moving average QQQ backtest"
   - "TQQQ risk management"
-heroImage: "/images/blog/strategies/qqq-225-day-moving-average-strategy.webp"
+heroImage: "/images/blog/strategies/tqqq-qqq-225-day-moving-average-strategy.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: false

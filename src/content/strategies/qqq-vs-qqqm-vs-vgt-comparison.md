@@ -11,7 +11,7 @@ tags:
   - "QQQ vs QQQM vs VGT"
   - "best tech ETF comparison 2026"
   - "QQQM expense ratio"
-heroImage: "/images/blog/strategies/qqq-vs-qqqm-vs-vgt.webp"
+heroImage: "/images/blog/strategies/qqq-vs-qqqm-vs-vgt-comparison.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

@@ -11,7 +11,7 @@ tags:
   - "TQQQ QQQ correlation"
   - "TQQQ QQQ same index risk"
   - "false diversification leveraged ETF"
-heroImage: "/images/blog/strategies/tqqq-qqq-not-diversified.webp"
+heroImage: "/images/blog/strategies/why-tqqq-qqq-not-diversified.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

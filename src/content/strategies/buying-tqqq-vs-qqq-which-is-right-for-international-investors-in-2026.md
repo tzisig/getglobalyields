@@ -15,7 +15,7 @@ tags:
   - "ibkr non us investors"
   - "tqqq vs qqq"
   - "leveraged etf risks"
-heroImage: "/images/blog/strategies/tqqq_vs_qqq_banner.webp"
+heroImage: "/images/blog/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: false

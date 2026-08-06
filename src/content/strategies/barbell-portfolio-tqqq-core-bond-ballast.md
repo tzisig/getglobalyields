@@ -11,7 +11,7 @@ tags:
   - "barbell portfolio TQQQ"
   - "TQQQ bonds allocation strategy"
   - "TQQQ portfolio construction"
-heroImage: "/images/blog/strategies/barbell-portfolio-tqqq.webp"
+heroImage: "/images/blog/strategies/barbell-portfolio-tqqq-core-bond-ballast.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

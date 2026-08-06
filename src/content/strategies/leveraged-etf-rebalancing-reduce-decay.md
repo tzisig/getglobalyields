@@ -16,7 +16,7 @@ tags:
   - "leveraged ETF decay math"
   - "volatility targeting TQQQ"
   - "reduce beta slippage"
-heroImage: "/images/blog/strategies/leveraged-etf-rebalancing.webp"
+heroImage: "/images/blog/strategies/leveraged-etf-rebalancing-reduce-decay.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: false

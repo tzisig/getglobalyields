@@ -11,7 +11,7 @@ tags:
   - "sequence of returns risk leveraged ETF"
   - "TQQQ retirement withdrawal risk"
   - "sequence risk explained"
-heroImage: "/images/blog/strategies/sequence-of-returns-risk.webp"
+heroImage: "/images/blog/strategies/sequence-of-returns-risk-leveraged-etf-withdrawals.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

@@ -16,7 +16,7 @@ tags:
 - "rebalancing tax implications leveraged ETF"
 - "HFEA rebalancing frequency"
 - "UPRO portfolio rebalancing"
-heroImage: "/images/blog/strategies/leveraged-etf-rebalancing-strategy.webp"
+heroImage: "/images/blog/strategies/leveraged-etf-rebalancing-strategy-2026.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: false
