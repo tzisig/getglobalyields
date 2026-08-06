@@ -11,7 +11,7 @@ tags:
   - "repatriating US investment gains"
   - "withdrawing from US brokerage account abroad"
   - "converting brokerage proceeds home currency"
-heroImage: "/images/blog/currency-banking/repatriating-investment-gains.webp"
+heroImage: "/images/blog/currency-banking/repatriating-us-investment-gains-home-currency.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

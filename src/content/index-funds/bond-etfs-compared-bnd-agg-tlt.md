@@ -11,7 +11,7 @@ tags:
   - "BND vs AGG vs TLT"
   - "bond ETF international investor"
   - "bond ETF withholding tax foreign investor"
-heroImage: "/images/blog/index-funds/bond-etfs-compared.webp"
+heroImage: "/images/blog/index-funds/bond-etfs-compared-bnd-agg-tlt.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

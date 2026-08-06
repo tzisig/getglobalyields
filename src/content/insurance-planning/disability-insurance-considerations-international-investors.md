@@ -11,7 +11,7 @@ tags:
   - "disability insurance international investors"
   - "income protection insurance cross-border"
   - "disability insurance expat"
-heroImage: "/images/blog/insurance-planning/disability-insurance-international-investors.webp"
+heroImage: "/images/blog/insurance-planning/disability-insurance-considerations-international-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

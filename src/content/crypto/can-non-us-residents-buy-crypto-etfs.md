@@ -11,7 +11,7 @@ tags:
   - "can non-US residents buy crypto ETF"
   - "foreign investor Bitcoin ETF access"
   - "crypto exchange restrictions by country"
-heroImage: "/images/blog/crypto/non-us-residents-crypto-access.webp"
+heroImage: "/images/blog/crypto/can-non-us-residents-buy-crypto-etfs.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

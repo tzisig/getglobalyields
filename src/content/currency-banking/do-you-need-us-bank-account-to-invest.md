@@ -11,7 +11,7 @@ tags:
   - "US bank account to invest"
   - "invest US stocks without US bank account"
   - "US brokerage account non-resident"
-heroImage: "/images/blog/currency-banking/us-bank-account-to-invest.webp"
+heroImage: "/images/blog/currency-banking/do-you-need-us-bank-account-to-invest.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

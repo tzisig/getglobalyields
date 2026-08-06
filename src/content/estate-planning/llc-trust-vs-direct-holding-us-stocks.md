@@ -11,7 +11,7 @@ tags:
   - "LLC trust hold US stocks foreign investor"
   - "entity structure estate tax avoidance"
   - "foreign trust US brokerage account"
-heroImage: "/images/blog/estate-planning/llc-trust-vs-direct-holding.webp"
+heroImage: "/images/blog/estate-planning/llc-trust-vs-direct-holding-us-stocks.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

@@ -11,7 +11,7 @@ tags:
   - "how much life insurance do I need"
   - "life insurance needs analysis cross-border"
   - "income replacement life insurance calculation"
-heroImage: "/images/blog/insurance-planning/life-insurance-needs-analysis.webp"
+heroImage: "/images/blog/insurance-planning/how-much-life-insurance-do-you-need-cross-border-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

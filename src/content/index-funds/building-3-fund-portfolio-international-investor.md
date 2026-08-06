@@ -11,7 +11,7 @@ tags:
   - "3 fund portfolio international investor"
   - "three fund portfolio non-US"
   - "simple index portfolio international"
-heroImage: "/images/blog/index-funds/building-3-fund-portfolio.webp"
+heroImage: "/images/blog/index-funds/building-3-fund-portfolio-international-investor.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

@@ -11,7 +11,7 @@ tags:
   - "term vs whole life insurance international investors"
   - "life insurance types comparison"
   - "whole life insurance investment"
-heroImage: "/images/blog/insurance-planning/term-vs-whole-life-insurance.webp"
+heroImage: "/images/blog/insurance-planning/term-vs-whole-life-insurance-international-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

@@ -11,7 +11,7 @@ tags:
   - "Bitcoin ETF vs direct ownership"
   - "spot Bitcoin ETF international investors"
   - "IBIT vs owning Bitcoin"
-heroImage: "/images/blog/crypto/bitcoin-etf-vs-direct-ownership.webp"
+heroImage: "/images/blog/crypto/bitcoin-etf-vs-direct-crypto-ownership.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

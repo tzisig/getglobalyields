@@ -11,7 +11,7 @@ tags:
   - "VWO vs IEMG emerging markets ETF"
   - "emerging markets ETF international investor"
   - "home country bias emerging market"
-heroImage: "/images/blog/index-funds/emerging-markets-etfs.webp"
+heroImage: "/images/blog/index-funds/emerging-markets-etfs-vwo-iemg.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

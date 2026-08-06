@@ -11,7 +11,7 @@ tags:
   - "VTV vs VUG"
   - "value vs growth ETF"
   - "growth ETF international investor"
-heroImage: "/images/blog/index-funds/value-vs-growth-etfs.webp"
+heroImage: "/images/blog/index-funds/value-vs-growth-etfs-compared.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

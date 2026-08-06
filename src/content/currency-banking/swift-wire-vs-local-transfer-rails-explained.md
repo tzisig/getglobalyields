@@ -11,7 +11,7 @@ tags:
   - "SWIFT wire vs local transfer"
   - "how does SWIFT transfer work"
   - "international wire transfer broker funding"
-heroImage: "/images/blog/currency-banking/swift-wire-vs-local-rails.webp"
+heroImage: "/images/blog/currency-banking/swift-wire-vs-local-transfer-rails-explained.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

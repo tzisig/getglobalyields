@@ -11,7 +11,7 @@ tags:
   - "VOO vs SPY vs IVV"
   - "best S&P 500 ETF international investor"
   - "S&P 500 ETF comparison expense ratio"
-heroImage: "/images/blog/index-funds/voo-vs-spy-vs-ivv.webp"
+heroImage: "/images/blog/index-funds/voo-vs-spy-vs-ivv-sp500-etf-comparison.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

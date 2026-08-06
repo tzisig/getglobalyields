@@ -11,7 +11,7 @@ tags:
   - "private placement life insurance explained"
   - "offshore portfolio bonds"
   - "PPLI cross-border investors"
-heroImage: "/images/blog/insurance-planning/offshore-portfolio-bonds-ppli.webp"
+heroImage: "/images/blog/insurance-planning/offshore-portfolio-bonds-private-placement-life-insurance.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

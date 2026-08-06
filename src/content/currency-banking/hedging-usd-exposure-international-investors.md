@@ -11,7 +11,7 @@ tags:
   - "hedge USD exposure"
   - "currency hedged ETF"
   - "dollar exposure hedging"
-heroImage: "/images/blog/currency-banking/hedging-usd-exposure.webp"
+heroImage: "/images/blog/currency-banking/hedging-usd-exposure-international-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

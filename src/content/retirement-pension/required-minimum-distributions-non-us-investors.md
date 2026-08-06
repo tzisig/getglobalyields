@@ -11,7 +11,7 @@ tags:
   - "required minimum distributions non-US investors"
   - "RMD nonresident alien"
   - "RMD former US worker abroad"
-heroImage: "/images/blog/retirement-pension/required-minimum-distributions.webp"
+heroImage: "/images/blog/retirement-pension/required-minimum-distributions-non-us-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

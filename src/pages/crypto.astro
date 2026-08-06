@@ -4,7 +4,7 @@ import Card from '../components/Card.astro';
 import { getCollection } from 'astro:content';
 
 const posts = (await getCollection('crypto').catch(() => []))
-  .filter(p => !p.data.draft)
+  .filter(p => import.meta.env.DEV || !p.data.draft)
   .map(p => ({ ...p, type: 'crypto', url: `/crypto/${p.id}/` }));
 ---
 

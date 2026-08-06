@@ -11,7 +11,7 @@ tags:
   - "exchange rate timing investing"
   - "wait for better exchange rate"
   - "currency timing effective returns"
-heroImage: "/images/blog/currency-banking/exchange-rate-timing.webp"
+heroImage: "/images/blog/currency-banking/exchange-rate-timing-effective-returns.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

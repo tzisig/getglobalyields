@@ -11,7 +11,7 @@ tags:
   - "double currency conversion fee"
   - "avoid double FX conversion"
   - "currency conversion mistakes"
-heroImage: "/images/blog/currency-banking/avoiding-double-conversion-fees.webp"
+heroImage: "/images/blog/currency-banking/avoiding-double-currency-conversion-fees.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

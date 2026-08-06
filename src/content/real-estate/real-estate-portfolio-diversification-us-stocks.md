@@ -11,7 +11,7 @@ tags:
   - "real estate portfolio allocation"
   - "non-us investor real estate portfolio allocation"
   - "real estate vs stocks diversification"
-heroImage: "/images/blog/real-estate/real-estate-portfolio-diversification.webp"
+heroImage: "/images/blog/real-estate/real-estate-portfolio-diversification-us-stocks.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

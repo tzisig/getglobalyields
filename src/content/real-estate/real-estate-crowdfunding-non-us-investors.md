@@ -11,7 +11,7 @@ tags:
   - "real estate crowdfunding non-us investors"
   - "US real estate crowdfunding foreign investors"
   - "accredited investor real estate platform"
-heroImage: "/images/blog/real-estate/real-estate-crowdfunding-access.webp"
+heroImage: "/images/blog/real-estate/real-estate-crowdfunding-non-us-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

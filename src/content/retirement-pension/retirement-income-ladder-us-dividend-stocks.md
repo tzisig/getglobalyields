@@ -11,7 +11,7 @@ tags:
   - "retirement income ladder dividend stocks"
   - "dividend ladder international investor"
   - "US dividend stocks retirement income"
-heroImage: "/images/blog/retirement-pension/retirement-income-ladder-dividend-stocks.webp"
+heroImage: "/images/blog/retirement-pension/retirement-income-ladder-us-dividend-stocks.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

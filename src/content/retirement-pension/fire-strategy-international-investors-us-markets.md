@@ -11,7 +11,7 @@ tags:
   - "FIRE strategy international investors"
   - "financial independence retire early non-US"
   - "4% rule international investor"
-heroImage: "/images/blog/retirement-pension/fire-strategy-international-investors.webp"
+heroImage: "/images/blog/retirement-pension/fire-strategy-international-investors-us-markets.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

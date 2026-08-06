@@ -11,7 +11,7 @@ tags:
   - "REITs vs direct real estate investment"
   - "foreign investor buying US property"
   - "non-US resident buying US real estate"
-heroImage: "/images/blog/real-estate/reits-vs-direct-ownership.webp"
+heroImage: "/images/blog/real-estate/reits-vs-direct-real-estate-ownership-non-us-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

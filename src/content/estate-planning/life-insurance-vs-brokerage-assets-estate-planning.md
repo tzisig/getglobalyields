@@ -11,7 +11,7 @@ tags:
   - "life insurance estate tax non-resident alien"
   - "life insurance vs brokerage account estate planning"
   - "US life insurance foreign national"
-heroImage: "/images/blog/estate-planning/life-insurance-vs-brokerage-assets.webp"
+heroImage: "/images/blog/estate-planning/life-insurance-vs-brokerage-assets-estate-planning.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

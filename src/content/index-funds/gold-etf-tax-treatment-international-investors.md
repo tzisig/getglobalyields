@@ -11,7 +11,7 @@ tags:
   - "GLD IAU tax treatment foreign investor"
   - "gold ETF grantor trust nonresident alien"
   - "collectibles tax rate gold ETF"
-heroImage: "/images/blog/index-funds/gold-etf-tax-treatment.webp"
+heroImage: "/images/blog/index-funds/gold-etf-tax-treatment-international-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

@@ -11,7 +11,7 @@ tags:
   - "currency risk vs market risk"
   - "separating currency risk from investment risk"
   - "international investor risk types"
-heroImage: "/images/blog/currency-banking/currency-risk-vs-market-risk.webp"
+heroImage: "/images/blog/currency-banking/currency-risk-vs-market-risk-international-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

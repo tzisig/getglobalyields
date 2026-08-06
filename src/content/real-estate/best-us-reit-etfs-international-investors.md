@@ -11,7 +11,7 @@ tags:
   - "best US REIT ETF for international investors"
   - "VNQ vs SCHH"
   - "global REIT ETF"
-heroImage: "/images/blog/real-estate/best-us-reit-etfs.webp"
+heroImage: "/images/blog/real-estate/best-us-reit-etfs-international-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

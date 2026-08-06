@@ -11,7 +11,7 @@ tags:
   - "US estate tax non-resident alien"
   - "$60000 estate tax exemption"
   - "NRA estate tax US stocks"
-heroImage: "/images/blog/estate-planning/us-estate-tax-non-resident-aliens.webp"
+heroImage: "/images/blog/estate-planning/us-estate-tax-non-resident-aliens-60000-exemption.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

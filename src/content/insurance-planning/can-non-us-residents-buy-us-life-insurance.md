@@ -11,7 +11,7 @@ tags:
   - "can non-us residents buy US life insurance"
   - "foreign national life insurance eligibility"
   - "non-resident alien life insurance policy"
-heroImage: "/images/blog/insurance-planning/non-us-residents-us-life-insurance.webp"
+heroImage: "/images/blog/insurance-planning/can-non-us-residents-buy-us-life-insurance.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

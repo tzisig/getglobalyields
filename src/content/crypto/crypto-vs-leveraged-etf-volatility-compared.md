@@ -11,7 +11,7 @@ tags:
   - "crypto vs TQQQ volatility"
   - "Bitcoin vs leveraged ETF risk"
   - "crypto volatility compared to leveraged funds"
-heroImage: "/images/blog/crypto/crypto-vs-leveraged-etf-volatility.webp"
+heroImage: "/images/blog/crypto/crypto-vs-leveraged-etf-volatility-compared.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

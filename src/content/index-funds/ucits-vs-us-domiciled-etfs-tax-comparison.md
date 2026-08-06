@@ -11,7 +11,7 @@ tags:
   - "UCITS vs US domiciled ETF tax"
   - "CSPX vs VOO tax"
   - "Irish domiciled ETF withholding tax"
-heroImage: "/images/blog/index-funds/ucits-vs-us-domiciled-etfs.webp"
+heroImage: "/images/blog/index-funds/ucits-vs-us-domiciled-etfs-tax-comparison.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

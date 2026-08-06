@@ -11,7 +11,7 @@ tags:
   - "stablecoins explained"
   - "USDC vs USDT"
   - "stablecoin international money transfer"
-heroImage: "/images/blog/crypto/stablecoins-explained.webp"
+heroImage: "/images/blog/crypto/stablecoins-explained-international-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

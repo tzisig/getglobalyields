@@ -11,7 +11,7 @@ tags:
   - "USD cash holding strategy"
   - "currency buffer brokerage account"
   - "holding USD between trades"
-heroImage: "/images/blog/currency-banking/usd-cash-holding-strategy.webp"
+heroImage: "/images/blog/currency-banking/usd-cash-holding-strategy-international-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

@@ -11,7 +11,7 @@ tags:
   - "irrevocable life insurance trust foreign investor"
   - "ILIT cross-border estate planning"
   - "life insurance trust non-resident alien"
-heroImage: "/images/blog/insurance-planning/ilit-foreign-investors.webp"
+heroImage: "/images/blog/insurance-planning/irrevocable-life-insurance-trust-foreign-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true
