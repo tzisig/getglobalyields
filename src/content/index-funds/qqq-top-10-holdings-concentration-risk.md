@@ -1,0 +1,95 @@
+---
+slug: qqq-top-10-holdings-concentration-risk
+title: "QQQ's Top 10 Holdings and the Rule That Caps How Concentrated It Can Get"
+description: "QQQ's top 10 holdings sit just under 46% of the fund - but few investors know the Nasdaq-100 has a built-in circuit breaker that forces a rebalance if concentration gets too extreme. How the rule works, what happened the last time it triggered in July 2023, and where the index stands today."
+pubDate: 2026-08-06
+updatedDate: 2026-08-06
+author: "Tzion S."
+categories: ["Index Funds & ETFs"]
+keywords: "QQQ top 10 holdings, Nasdaq-100 special rebalance, QQQ concentration risk, Nasdaq-100 concentration rule, QQQ diversification"
+tags:
+  - "QQQ top 10 holdings"
+  - "Nasdaq-100 special rebalance"
+  - "QQQ concentration risk"
+heroImage: "/images/blog/index-funds/qqq-top-10-holdings-concentration-risk.webp"
+heroImageWidth: 840
+heroImageHeight: 560
+draft: true
+readingTime: "7 min read"
+featured: false
+---
+
+As covered in our [QQQ vs SPY comparison](/index-funds/qqq-vs-spy-nasdaq-100-sp500-comparison/), QQQ's top 10 holdings account for just under 46% of the fund. What that article didn't get into is what's actually stopping that number from climbing further - because there is something. The Nasdaq-100 has a real, mechanical rule that forces a rebalance if concentration crosses a specific threshold, and it has only fired three times in the index's entire history. Most QQQ holders have never heard of it.
+
+---
+
+## The Rule Itself
+
+The Nasdaq-100's methodology sets two concentration limits, checked quarterly:
+
+- **No single company can carry more than 24% of the index weight.**
+- **Companies individually weighted above 4.5% cannot collectively account for more than 48% of the index.**
+
+If either line gets crossed, Nasdaq can trigger a "special rebalance" - a forced, out-of-cycle reweighting that pulls the largest names back down and redistributes that weight across the rest of the index, independent of the normal quarterly rebalance schedule.
+
+This isn't a hypothetical safeguard. It has actually been used three times since the Nasdaq-100 was restructured in December 1998: 1998, 2011, and July 2023.
+
+---
+
+## What Happened in July 2023
+
+By July 3, 2023, the index's six largest companies were each individually weighted above 4.5% and collectively made up 51% of the index - three points past the 48% ceiling. That crossed the line, and Nasdaq announced a special rebalance effective July 24, 2023.
+
+The scale of the correction was significant. The combined weight of the index's seven largest stocks dropped from 56% to 44% - a 12-percentage-point reduction in a single event. Microsoft and NVIDIA each lost roughly 3 percentage points of weight individually. Apple, which had been sitting at 12.1%, came out the largest constituent at 11.5%. The Technology sector's overall weight in the index fell from 51% to 49%. None of this changed which companies were in the index - every affected company stayed in - it purely redistributed how much of the index's value each one represented.
+
+One detail worth knowing: by the time the rebalance actually took effect on July 24, the index's own price movements had already pulled the concentration figure back under 48% on its own. The rebalance still went ahead as planned, because the rule is triggered by crossing the threshold at the quarterly check, not by where the number happens to sit on the effective date.
+
+---
+
+## Why the Rule Exists at All
+
+This isn't Nasdaq voluntarily managing risk for QQQ holders' benefit. The Nasdaq-100's concentration limits trace back to its original December 1998 restructuring, designed specifically so that funds tracking the index could satisfy the IRS's Regulated Investment Company diversification requirements - the tax rules a fund like QQQ has to meet to qualify for the pass-through tax treatment that avoids double taxation at the fund level. An index that let one or two companies run unchecked toward 30-40% of total weight would eventually put a fund tracking it at risk of failing that diversification test. The special rebalance mechanism exists to keep that from happening, not as an investor-protection feature in the way a stop-loss or circuit breaker on a stock exchange is.
+
+---
+
+## Where the Index Stands Today
+
+Using the holdings weights confirmed in our QQQ vs SPY comparison (data as of late July 2026), four companies currently sit above the 4.5% individual threshold: Apple (8.15%), NVIDIA (7.86%), Microsoft (5.58%), and Micron Technology, right at the edge of the line at 4.53%. Add those four together and they account for roughly 26% of the index - well under the 48% collective cap, with meaningful room before the rule would even become relevant again.
+
+That gap matters. It means QQQ isn't currently anywhere near triggering another special rebalance, even though its top-10 concentration (just under 46%) sounds high in isolation. The 48% rule specifically targets weight concentrated in individually-large names above the 4.5% line, not the broader top-10 figure, which includes several holdings below that threshold contributing to the total without being anywhere near the trigger point themselves.
+
+---
+
+## What a Concentrated Position Actually Means in a Drawdown
+
+The special rebalance rule caps how top-heavy the index can get - it doesn't cap how much a single large holding can move the fund's value on any given day. A simple illustration, using real current weights rather than a hypothetical: NVIDIA currently makes up 7.86% of QQQ. If NVIDIA's share price fell 30% while everything else in the fund held flat, that alone would pull QQQ down by roughly 2.4% (7.86% × 30%), just from that one holding. Apple at 8.15% would produce a similar-sized hit under the same scenario. Do that same math across all four names currently above the 4.5% threshold, and a simultaneous 30% drop across just those four - not unrealistic in a genuine tech-sector selloff, where mega-cap tech names tend to move together rather than independently - would pull roughly 7.9 percentage points off QQQ's value from those four positions alone, before accounting for anything happening in the other 96 holdings.
+
+This is the real, practical version of concentration risk for a QQQ holder: not that the fund will suddenly become "more concentrated than the rules allow," since the special rebalance mechanism exists precisely to prevent that, but that a fund where roughly a quarter of its value sits in four companies will feel those four companies' bad days far more than a fund spreading the same dollar across 500 names would.
+
+---
+
+## The Index Has Looked Very Different Before
+
+The names currently anchoring QQQ - Apple, NVIDIA, Microsoft, Amazon - weren't the mega-caps of the index's earlier era. In the run-up to the Nasdaq's March 2000 peak, the dominant names were a different generation of tech leaders: Microsoft, Cisco, Intel, Oracle, and IBM, alongside a wave of dot-com-era growth stocks that mostly no longer exist in anything like their 2000 form. The specific companies commanding the largest weights in the Nasdaq-100 have turned over substantially across 25-plus years, even as "the 100 largest non-financial Nasdaq companies" as a category has remained mega-cap-tech-dominated throughout. Concentration in a handful of giant names isn't new to this index - which giant names they are has changed completely.
+
+---
+
+## Practical Takeaway
+
+The special rebalance rule is a real constraint, and it means QQQ cannot legally drift toward the kind of extreme, unchecked concentration a completely unmanaged index might reach. It is not a guarantee that QQQ will behave like a diversified fund - a 48% collective cap on individually-large holdings still allows for a fund where a handful of companies drive a large share of daily performance, as the scenario math above shows. For an international investor deciding how large a role QQQ should play in a broader portfolio, the honest framing is this: the rule limits how much worse the concentration can get from here, not how concentrated the fund already is.
+
+---
+
+## Bottom Line
+
+QQQ's top-10 concentration isn't drifting unchecked - the Nasdaq-100 has a real, three-times-used mechanism that forces a rebalance if individually large holdings collectively cross 48% of the index, rooted in a decades-old IRS diversification requirement rather than investor protection. Today's index sits well clear of that line, with its four largest names collectively around 26%. But clear of the trigger point isn't the same as low-risk: those same four names moving together in a bad quarter can still swing QQQ's value meaningfully, which is the concentration risk that actually matters day to day, rule or no rule.
+
+---
+
+*This article is for informational purposes only and does not constitute financial advice. Index holdings, weightings, and rebalancing outcomes change over time - confirm current figures directly with Nasdaq or Invesco before making investment decisions. The drawdown scenario described is an illustrative calculation, not a prediction of future performance.*
+
+## Related Guides
+
+- [QQQ vs SPY: Nasdaq-100 vs S&P 500](/index-funds/qqq-vs-spy-nasdaq-100-sp500-comparison/)
+- [QQQ vs QQQM vs VGT: Choosing a Core Tech Holding](/strategies/qqq-vs-qqqm-vs-vgt-comparison/)
+- [Why TQQQ and QQQ Aren't Truly Diversified From Each Other](/strategies/why-tqqq-qqq-not-diversified/)
