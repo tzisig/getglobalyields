@@ -44,9 +44,13 @@ function cardSVG(item, theme, tint) {
   const len = String(item.number).length;
   const fontSize = len > 6 ? 92 : len > 4 ? 120 : 176;
 
+  // bgTop used to be a fixed near-black regardless of tint, so every
+  // category's card looked like the same dark grey except for a sliver of
+  // color in the bottom-right corner. Both stops now carry the category
+  // tint so each category reads as visually distinct at a glance.
   const dark = {
-    bgTop: mixHex('#050d1a', '#ffffff', 0.06),
-    bgBottom: mixHex(mixHex('#0a192f', tint, 0.9), '#ffffff', 0.22),
+    bgTop: mixHex('#050d1a', tint, 0.42),
+    bgBottom: mixHex(mixHex('#0a192f', tint, 0.92), '#ffffff', 0.22),
     grainOpacity: 0.035,
     brandText: 'rgba(255,255,255,0.8)',
     brandIcon: 'rgba(255,255,255,0.85)',
@@ -57,8 +61,8 @@ function cardSVG(item, theme, tint) {
     labelFill: 'rgba(255,255,255,0.82)',
   };
   const light = {
-    bgTop: mixHex('#ffffff', '#0a192f', 0.03),
-    bgBottom: mixHex('#eef1f8', tint, 0.48),
+    bgTop: mixHex('#ffffff', tint, 0.12),
+    bgBottom: mixHex('#eef1f8', tint, 0.58),
     grainOpacity: 0.02,
     brandText: 'rgba(10,25,47,0.75)',
     brandIcon: 'rgba(10,25,47,0.8)',
