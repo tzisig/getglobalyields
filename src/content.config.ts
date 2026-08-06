@@ -97,6 +97,21 @@ const currencyBanking = defineCollection({
   schema: commonSchema,
 });
 
+const realEstate = defineCollection({
+  loader: glob({ pattern: "**/*.md", base: "./src/content/real-estate" }),
+  schema: commonSchema,
+});
+
+const insurancePlanning = defineCollection({
+  loader: glob({ pattern: "**/*.md", base: "./src/content/insurance-planning" }),
+  schema: commonSchema,
+});
+
+const crypto = defineCollection({
+  loader: glob({ pattern: "**/*.md", base: "./src/content/crypto" }),
+  schema: commonSchema,
+});
+
 export const collections = {
   'best-brokers': bestBrokers,
   strategies,
@@ -108,4 +123,7 @@ export const collections = {
   'estate-planning': estatePlanning,
   'index-funds': indexFunds,
   'currency-banking': currencyBanking,
+  'real-estate': realEstate,
+  'insurance-planning': insurancePlanning,
+  crypto,
 };
