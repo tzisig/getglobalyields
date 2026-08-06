@@ -15,7 +15,7 @@ heroImage: "/images/blog/index-funds/qqq-top-10-holdings-concentration-risk.webp
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true
-readingTime: "7 min read"
+readingTime: "9 min read"
 featured: false
 ---
 
@@ -36,6 +36,18 @@ This isn't a hypothetical safeguard. It has actually been used three times since
 
 ---
 
+## Three Times in 27 Years
+
+**November 1998** is the first and, in a real sense, the most consequential of the three. Microsoft alone controlled roughly a quarter of the index's total weight at the time - a concentration level that would have made it impossible to launch a fund tracking the index and still satisfy the diversification rules covered below. The special rebalance that November wasn't a response to a crisis; it was a structural fix specifically so that an ETF tracking the Nasdaq-100 could exist at all. QQQ launched the following March, in 1999, on the back of that rebalanced index. Without the 1998 rebalance, QQQ as most people know it - a diversified-enough basket to qualify for standard fund tax treatment - likely couldn't have launched when it did.
+
+**May 2011** followed the same pattern with a different company at the center: Apple had climbed to roughly 20% of the index, more than five times the weight of the second-largest constituent, after a run driven by the first few years of iPhone and iPad sales. Nasdaq made the special rebalance effective before market open on Monday, May 2, 2011, resetting the index's internal share multipliers and pulling Apple's outsized weight back down without removing it from the index or changing its actual share count.
+
+**July 2023**, covered in detail below, is the most recent and best-documented of the three, arriving during the early-2023 AI-driven rally that pushed several mega-cap names - not just one - above the individual threshold simultaneously for the first time.
+
+What's notable across all three: each one was triggered by extreme concentration in the *specific companies leading the market at that moment* - Microsoft in the late-1990s PC-software era, Apple in the smartphone era, and a cluster of AI-linked names in 2023. The rule doesn't care which sector or story is driving the concentration. It only cares about the math.
+
+---
+
 ## What Happened in July 2023
 
 By July 3, 2023, the index's six largest companies were each individually weighted above 4.5% and collectively made up 51% of the index - three points past the 48% ceiling. That crossed the line, and Nasdaq announced a special rebalance effective July 24, 2023.
@@ -48,7 +60,9 @@ One detail worth knowing: by the time the rebalance actually took effect on July
 
 ## Why the Rule Exists at All
 
-This isn't Nasdaq voluntarily managing risk for QQQ holders' benefit. The Nasdaq-100's concentration limits trace back to its original December 1998 restructuring, designed specifically so that funds tracking the index could satisfy the IRS's Regulated Investment Company diversification requirements - the tax rules a fund like QQQ has to meet to qualify for the pass-through tax treatment that avoids double taxation at the fund level. An index that let one or two companies run unchecked toward 30-40% of total weight would eventually put a fund tracking it at risk of failing that diversification test. The special rebalance mechanism exists to keep that from happening, not as an investor-protection feature in the way a stop-loss or circuit breaker on a stock exchange is.
+This isn't Nasdaq voluntarily managing risk for QQQ holders' benefit. The Nasdaq-100's concentration limits trace back to its original December 1998 restructuring, designed specifically so that funds tracking the index could satisfy the IRS's Regulated Investment Company (RIC) diversification requirements under Internal Revenue Code Section 851 - the tax rules a fund like QQQ has to meet to qualify for the pass-through tax treatment that avoids double taxation at the fund level.
+
+**The actual IRC test is stricter, in a different way, than the index's own rule.** Under Section 851, a RIC must pass two separate checks at the end of every fiscal quarter: no more than 25% of the fund's assets in a single issuer, and at least 50% of assets held in a diversified basket where no single issuer accounts for more than 5% of fund assets (or more than 10% of that issuer's voting shares). The Nasdaq-100's own 24%-single-issuer and 4.5%/48%-collective rule isn't a restatement of that tax law - it's Nasdaq's own index-methodology safeguard, set with enough margin that a fund tracking the index has room to stay compliant with the actual IRC test even between the index's own quarterly checks. An index that let one or two companies run unchecked toward 30-40% of total weight would eventually put a fund tracking it at real risk of failing the RIC diversification test outright, which is a materially worse outcome for a fund than a mechanical rebalance - potential loss of the tax structure that makes an ETF like QQQ function the way investors expect. The special rebalance mechanism exists to keep that from happening well before it becomes a live tax problem, not as an investor-protection feature in the way a stop-loss or circuit breaker on a stock exchange is.
 
 ---
 

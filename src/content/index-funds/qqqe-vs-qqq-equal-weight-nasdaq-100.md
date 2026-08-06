@@ -15,11 +15,19 @@ heroImage: "/images/blog/index-funds/qqqe-vs-qqq-equal-weight-nasdaq-100.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true
-readingTime: "6 min read"
+readingTime: "8 min read"
 featured: false
 ---
 
 QQQE gets pitched as "QQQ without the concentration problem" - same 100 companies, but every one gets roughly equal weight instead of the market-cap-driven scheme covered in our [QQQ top 10 holdings and concentration guide](/index-funds/qqq-top-10-holdings-concentration-risk/), where a handful of mega-caps drive most of the fund. That framing is directionally correct, but the specific numbers usually cited to support it - QQQE's much smaller historical drawdown, in particular - don't hold up as cleanly as they look.
+
+---
+
+## What Equal-Weighting Actually Does to the Holdings
+
+The mechanic itself is simple: instead of Apple's weight being determined by its market capitalization relative to the other 99 companies, every constituent gets set to roughly 1% at each quarterly rebalance, then drifts with price until the next reset. Using the real QQQ weights confirmed in our concentration guide, the effect is concrete: Apple's 8.15% weight in QQQ gets reset to roughly 1% in an equal-weight version - an eight-fold reduction. NVIDIA's 7.86% and Microsoft's 5.58% see similarly large cuts. Micron Technology, sitting right at 4.53% in QQQ, also drops to around 1%.
+
+**The flip side is what actually makes the case for equal-weighting.** QQQ's roughly 90 constituents outside the top 10 each carry, on average, well under 1% individual weight in the market-cap version - some considerably less. Every one of those gets lifted to roughly 1% under equal-weighting, meaning the fund's return becomes far more dependent on how the Nasdaq-100's smaller, less-followed constituents perform, and far less dependent on whether Apple or NVIDIA specifically keeps delivering. This is the real mechanism behind the "less concentration risk" pitch - it isn't a vague diversification claim, it's a specific, large reallocation of influence away from ten names and toward roughly ninety others.
 
 ---
 
@@ -66,6 +74,14 @@ This is the number that gets cited most often in favor of equal-weighting: QQQ's
 **An investor specifically uncomfortable with how much of QQQ's return depends on a handful of names continuing to perform** gets something real from QQQE or QEW: less dependence on any single company, and more exposure to the Nasdaq-100's 90-plus smaller constituents that market-cap weighting gives comparatively little influence to. That's a legitimate reason to choose equal-weighting - it isn't nothing.
 
 **An investor expecting equal-weighting to meaningfully soften the next broad market shock** should recalibrate that expectation based on what 2022 actually showed: when the whole sector falls together, equal-weighting doesn't provide much of the protection its drawdown-since-inception numbers seem to promise. The real trade-off is return profile and single-name dependence, not crash protection.
+
+---
+
+## The Turnover Cost Most Comparisons Skip
+
+Resetting roughly 100 positions back to equal weight every quarter means QQQE and QEW trade far more than QQQ does. QQQ's market-cap weighting only requires trading when the index itself adds or removes a constituent, or during its own quarterly reweighting within the concentration limits covered in our concentration guide - relatively modest turnover for a fund of this size. An equal-weight fund, by contrast, has to systematically sell down whatever just outperformed and buy whatever just lagged, every single quarter, by design. That's a structurally higher-turnover strategy, and higher turnover inside a fund generally means more realized gains getting distributed to shareholders - equal-weight ETFs are well documented as less tax-efficient in a taxable account than cap-weighted index ETFs for exactly this reason.
+
+**This matters less for a non-US investor than it would for a US taxable holder, and it's worth being specific about why.** A regulated investment company like QQQ, QQQE, or QEW can distribute two different kinds of payout: ordinary dividends and capital gain distributions. Ordinary dividends paid to a non-resident alien are subject to the standard 30%-or-treaty-rate withholding covered throughout this site's [taxes category](/taxes/). Capital gain distributions are treated differently under US tax law and are generally not subject to that same withholding for a non-resident alien who isn't otherwise engaged in a US trade or business. In practical terms: the extra capital gains distributions that come from QQQE or QEW's higher turnover are a real cost for a US taxable investor, but largely don't create the same extra withholding drag for the international investor this site is written for. It's still worth knowing the mechanism exists - and confirming the specific character of any distribution with your broker's tax reporting rather than assuming - but it's a smaller practical factor here than it would be in a typical US-investor comparison of the same two funds.
 
 ---
 
