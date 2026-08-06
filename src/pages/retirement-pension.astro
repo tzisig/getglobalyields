@@ -4,6 +4,7 @@ import Card from '../components/Card.astro';
 import { getCollection } from 'astro:content';
 
 const posts = (await getCollection('retirement-pension').catch(() => []))
+  .filter(p => !p.data.draft)
   .map(p => ({ ...p, type: 'retirement-pension', url: `/retirement-pension/${p.id}/` }));
 ---
 

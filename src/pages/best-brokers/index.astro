@@ -4,7 +4,7 @@ import { BEST_BROKERS_HUB } from '../../data/bestBrokersHub';
 import { getCollection } from 'astro:content';
 import ThemeHeroImage from '../../components/ThemeHeroImage.astro';
 
-const allBrokerPosts = await getCollection('best-brokers');
+const allBrokerPosts = (await getCollection('best-brokers')).filter(p => !p.data.draft);
 
 const reviews = BEST_BROKERS_HUB.filter(e => e.kind === 'review');
 const guides  = BEST_BROKERS_HUB.filter(e => e.kind === 'guide');
