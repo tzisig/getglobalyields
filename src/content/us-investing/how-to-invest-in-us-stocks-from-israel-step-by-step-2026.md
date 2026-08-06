@@ -15,7 +15,7 @@ tags:
   - "w-8ben"
   - "currency conversion"
   - "taxes"
-heroImage: "/images/blog/us-investing/invest_israel_banner.webp"
+heroImage: "/images/blog/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: false

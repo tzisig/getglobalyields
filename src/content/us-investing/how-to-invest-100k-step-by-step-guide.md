@@ -18,7 +18,7 @@ tags:
   - "three fund portfolio"
   - "VWCE"
   - "international investor portfolio"
-heroImage: "/images/blog/us-investing/how-to-invest-100k.webp"
+heroImage: "/images/blog/us-investing/how-to-invest-100k-step-by-step-guide.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: false
