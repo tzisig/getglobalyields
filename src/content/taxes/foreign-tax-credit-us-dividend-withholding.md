@@ -95,6 +95,30 @@ Unlike the US withholding itself - which your broker applies automatically once 
 
 ---
 
+## How This Interacts With Different Income Types on This Site
+
+**The credit mechanism described above applies specifically to dividend withholding, but the same general logic extends to other US-source income types covered elsewhere on this site**, with important variations. Interest income qualifying for the portfolio interest exemption - covered in our [bond ETF guide](/index-funds/bond-etfs-compared-bnd-agg-tlt/) - generally faces no US withholding to begin with, meaning there's no foreign tax credit to claim on that portion at all, since nothing was withheld in the first place. Options premium, covered in our [options trading tax treatment guide](/taxes/options-trading-tax-treatment-non-us-residents/), is generally not subject to US withholding for a non-resident alien either, following the standard NRA capital gains framework - again, no credit mechanism needed since there's no US tax paid to credit.
+
+**This means the foreign tax credit mechanism is most relevant specifically to equity dividend income**, the one major category where non-resident aliens do face meaningful, routine US withholding - worth keeping in mind when reading this site's broader tax content, since not every US-source income type generates the same credit-eligible withholding dividends do.
+
+---
+
+## Frequently Asked Questions
+
+**Does the foreign tax credit apply to capital gains as well as dividends?**
+Since non-resident aliens generally aren't subject to US capital gains tax in the first place (the standard rule covered throughout this site's [main dividend withholding guide](/taxes/taxes-us-dividends-foreign-investors/)), there's typically no US tax withheld on capital gains to credit against your home country's tax - your home country taxes the gain (if it does) without any US-side offset needed, since none was paid.
+
+**What happens if my broker's Form 1042-S contains an error - can I still claim the credit?**
+An incorrect 1042-S should be addressed directly with your broker to obtain a corrected form before relying on it for your home-country tax filing, since claiming a credit based on inaccurate documentation can create its own complications with your home country's tax authority.
+
+**Does the foreign tax credit mechanism differ for a tax-advantaged account in my home country versus a standard taxable brokerage account?**
+Potentially significantly - some home-country tax-advantaged accounts (pension wrappers, ISA-style accounts, and similar) may not generate a home-country tax liability on the dividend at all, in which case there's no domestic tax to credit the US withholding against, and the US withholding becomes a real, unrecoverable cost specific to holding US securities inside that particular tax-advantaged wrapper - worth checking specifically for any tax-advantaged account you're considering holding US dividend-paying securities within.
+
+**Is the foreign tax credit the only mechanism for avoiding double taxation, or are there alternatives?**
+Some countries use an exemption method instead of a credit method for certain income categories - exempting foreign-source income from domestic tax entirely rather than taxing it and then crediting foreign tax paid - a structurally different mechanism with different practical implications, worth confirming which approach your specific country uses rather than assuming the credit method (the more commonly described mechanism in this guide) universally applies.
+
+---
+
 ## Practical Checklist
 
 - [ ] Keep your broker's Form 1042-S every year - it is your primary documentation for any foreign tax credit claim

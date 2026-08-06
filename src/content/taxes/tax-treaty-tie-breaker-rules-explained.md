@@ -82,6 +82,32 @@ Getting your treaty residency determination right affects which country's treaty
 
 ---
 
+## A Worked Illustration of the Sequence
+
+**Consider an investor who moves mid-year from Country A to Country B for a new remote-work arrangement, keeping their family and home in Country A for the remainder of the school year while they establish themselves in Country B.** Under Country A's domestic rules, they may still qualify as a resident (family present, home maintained). Under Country B's domestic rules, they may also qualify as a resident (physically present, working there). Both countries have a legitimate domestic claim.
+
+**Applying the sequence:** Step 1 (permanent home) doesn't resolve it cleanly, since the investor maintains a home in Country A (where family remains) while also renting in Country B. Step 2 (center of vital interests) becomes the deciding factor - family location, primary economic ties, and where the investor's broader life is actually centered would generally point toward Country A in this scenario, given the family and home remaining there, even though the investor is currently working from Country B. The investor would be treated as a Country A resident for treaty purposes, meaning Country A's treaty rate applies to their US dividend withholding, and Country A is where their worldwide investment income is reported as the "home" jurisdiction - despite currently living and working in Country B.
+
+**This worked example illustrates why the sequence matters and why it isn't self-evident from a single fact alone** - the investor's current physical location (Country B) doesn't automatically determine the outcome; the full weighing of the sequence, starting with permanent home and moving through center of vital interests, is what actually resolves it.
+
+---
+
+## Frequently Asked Questions
+
+**Does the tie-breaker determination apply permanently, or does it need to be reassessed each year?**
+It generally needs to be reassessed for each tax year based on that year's actual facts - a tie-breaker determination that resolved in favor of one country in one year could resolve differently in a subsequent year if your circumstances (family location, economic ties, time split) change meaningfully.
+
+**What happens to my W-8BEN treaty claim while a tie-breaker determination is genuinely unresolved or in dispute?**
+This is a genuinely difficult practical situation worth addressing directly with a cross-border tax advisor - filing based on your best good-faith assessment of the tie-breaker outcome, while being prepared to substantiate that position if questioned, is generally the practical approach, rather than leaving the W-8BEN unfiled or defaulting to whichever country's rate happens to be more favorable.
+
+**Do all US tax treaties include an identical tie-breaker sequence?**
+Most modern US treaties follow the OECD Model Tax Convention's general structure closely, but exact wording and emphasis can vary by specific treaty - confirm the actual text of the specific treaty between your two countries in question rather than assuming every treaty is worded identically to the general sequence described in this guide.
+
+**Does the mutual agreement procedure (Step 5) actually get used often in practice?**
+Rarely, for most individual investors - it's a formal, government-to-government process typically reserved for genuinely unresolvable cases, most commonly involving significant amounts of tax or complex corporate situations rather than routine individual dual-residency questions, which are far more often resolved at the earlier steps in the sequence (permanent home, center of vital interests, or habitual abode).
+
+---
+
 ## Practical Checklist
 
 - [ ] Confirm whether you meet the domestic residency test of more than one country for the tax year in question - this has to be assessed under each country's own rules, not the treaty

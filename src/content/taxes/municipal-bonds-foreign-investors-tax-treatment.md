@@ -79,6 +79,30 @@ This is different from the dividend situation covered elsewhere on this site, wh
 
 ---
 
+## How This Compares to the Bond ETFs Covered Elsewhere on This Site
+
+**Individual municipal bonds are worth distinguishing from the broad bond ETFs (BND, AGG, TLT) covered in our [bond ETF comparison](/index-funds/bond-etfs-compared-bnd-agg-tlt/).** Those funds primarily hold Treasury, agency, and corporate debt, generally relying on the portfolio interest exception (§871(h)) rather than the municipal-specific Section 103 exclusion, since they typically don't hold meaningful municipal bond allocations. A dedicated municipal bond fund is a different, more specialized product from the broad bond ETFs covered in that guide - worth checking a specific fund's actual holdings composition before assuming it follows the municipal-specific tax treatment covered in this guide versus the portfolio-interest-exception treatment covered in the broader bond ETF guide.
+
+**US estate tax exposure is also worth flagging separately** - municipal bonds, like other US-situs debt securities, generally remain subject to the same US-situs framework covered throughout our [estate-planning category](/estate-planning/), independent of their favorable income-tax treatment. The income-tax exemption discussed throughout this guide addresses interest income specifically, not estate tax exposure on the bond's principal value at death.
+
+---
+
+## Frequently Asked Questions
+
+**Does the same tax-exempt treatment apply to municipal bond funds (ETFs or mutual funds), not just individual bonds?**
+Generally yes, in substance - a fund holding genuinely tax-exempt municipal bonds typically passes through that exempt character to shareholders, though the exact mechanics depend on the fund's specific structure; confirm with the fund provider rather than assuming automatically.
+
+**Is there a risk that a municipal bond's tax-exempt status changes after I've purchased it?**
+In rare cases, yes - a bond's tax-exempt status can be challenged or lost if the issuer fails to comply with ongoing federal requirements after issuance, an uncommon but real risk factor worth being aware of, generally disclosed in the bond's offering documents at issuance.
+
+**Do municipal bonds carry any credit risk considerations different from Treasury bonds?**
+Yes - unlike Treasury debt, municipal bonds carry issuer-specific credit risk (the specific city, state, or municipal entity's own financial health), a genuinely different risk profile than the credit-risk-free Treasury debt covered in our [bond ETF comparison](/index-funds/bond-etfs-compared-bnd-agg-tlt/), worth evaluating on its own merits separate from the favorable tax treatment discussed in this guide.
+
+**Does holding municipal bonds through a foreign pension account, covered elsewhere on this site, change this tax treatment?**
+The US-side tax exemption discussed in this guide is generally tied to the bond's own character (tax-exempt under Section 103, or covered by the portfolio interest exception), not to the specific account type holding it - though the broader PFIC and foreign pension considerations covered in our [foreign pension account guide](/retirement-pension/us-investing-through-foreign-pension-account/) would still apply to the wrapper itself if relevant to your situation.
+
+---
+
 ## Practical Checklist
 
 - [ ] Confirm whether a specific municipal bond is tax-exempt (Section 103) or taxable before assuming either treatment

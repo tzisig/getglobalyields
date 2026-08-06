@@ -77,6 +77,30 @@ This is a narrow, specific rule that does not describe most international invest
 
 ---
 
+## A Worked Illustration Across a Full Wheel Cycle
+
+**Consider a non-resident alien investor running the wheel strategy on TQQQ, covered elsewhere in our [options-income category](/options-income/) - selling a cash-secured put, getting assigned, then selling covered calls against the resulting shares until they're eventually called away.** At no point in this cycle does the investor's broker withhold any US tax on the options premium collected, since each leg (the put premium, the eventual call premium) follows the capital-gain-not-FDAP-income treatment described throughout this guide. If the shares are eventually called away at a gain, that capital gain is also generally untaxed by the US for the same reason. The only US withholding event in this entire multi-step cycle would be any dividends received while holding the shares between the put assignment and the eventual call assignment - a genuinely separate, FDAP-income event layered on top of an otherwise untaxed options cycle.
+
+**This worked illustration is useful precisely because it shows how cleanly the two tax frameworks (capital gains for options and stock sales, FDAP withholding for dividends) coexist within a single, multi-step strategy** - rather than needing to track a single blended rate across the whole cycle, each individual event follows its own, distinct rule.
+
+---
+
+## Frequently Asked Questions
+
+**Does this same treatment apply to more complex multi-leg strategies like iron condors, covered elsewhere on this site?**
+Yes, generally - the underlying capital-gain characterization applies to each leg of a multi-leg strategy like the [iron condors](/options-income/iron-condors-tqqq-strategy-guide/) or [poor man's covered calls](/options-income/poor-mans-covered-call-tqqq/) covered elsewhere in this category, since each leg is itself an options transaction following the same general framework, though the specific accounting across multiple simultaneous legs is more complex to track than a single covered call or cash-secured put.
+
+**Does assignment on a LEAPS position, covered in our LEAPS guide, follow this same framework?**
+Yes - LEAPS are still options contracts, and gains, losses, or assignment outcomes from LEAPS positions follow the same general capital-gain treatment discussed throughout this guide, covered specifically in our [LEAPS on TQQQ guide](/options-income/leaps-options-strategy-tqqq/).
+
+**How does a broker actually report options-related activity if there's no withholding to report on Form 1042-S?**
+Options trading activity is generally reported on Form 1099-B or an equivalent transaction summary, distinct from the 1042-S used for FDAP income withholding reporting - since there's no US tax withheld on options gains, there's no 1042-S entry for that specific activity, which is why keeping your own detailed trade records (mentioned in the checklist) matters more for options activity than for dividend income, where the 1042-S provides an official record.
+
+**If I'm close to the 183-day threshold in a given year, does that affect only options gains or also my other US investment income?**
+The 183-day substantial presence test's capital gains consequence under §871(a)(2) specifically affects US-source capital gains (including options gains and stock sale gains) for that tax year - it's a separate trigger from the different substantial presence test that can affect your broader US tax residency status, worth discussing both thresholds with a tax advisor if you're spending meaningful time in the US in a given year, since crossing either one has real, different consequences.
+
+---
+
 ## Practical Checklist
 
 - [ ] Understand that options premium is generally not FDAP income and does not face the 30%-or-treaty-rate withholding that applies to dividends

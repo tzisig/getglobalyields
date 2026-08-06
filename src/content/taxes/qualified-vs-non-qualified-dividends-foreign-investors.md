@@ -77,6 +77,30 @@ There is one situation where the concept resurfaces, though not in the way most 
 
 ---
 
+## A Worked Illustration of Why the Flat Rate Simplifies Things
+
+**Consider two hypothetical dividend payments to the same non-resident alien investor in the same year: one from a stock held for three years (which would clearly qualify for the preferential US-taxpayer rate), and one from a stock held for only two weeks before the dividend (which would clearly fail the qualified-dividend holding-period test for a US taxpayer).** For a US taxpayer, these two dividends would be taxed completely differently - one at the preferential capital-gains-equivalent rate, one at full ordinary income rates. For the non-resident alien investor in this example, both dividends are taxed identically, at whatever flat treaty rate (or 30% default) applies to that investor's country - the holding period difference that would matter enormously to a US taxpayer is completely invisible to the NRA withholding calculation.
+
+**This is worth internalizing as a genuine simplification, not just an absence of a US-specific concept:** a non-US investor never needs to track holding periods for dividend-tax-rate purposes the way a US taxpayer optimizing around the qualified-dividend rules would. This is one of the few places where the NRA framework is genuinely simpler than the domestic US framework, not just different.
+
+---
+
+## Frequently Asked Questions
+
+**Does this mean non-US investors face a worse overall tax rate than qualified-dividend-eligible US taxpayers?**
+It depends entirely on the specific comparison - a non-US investor with a favorable treaty rate (10-15%, common across many of this site's country guides) can face a lower flat rate than a US taxpayer's ordinary income rate on a non-qualified dividend, while facing a higher rate than a US taxpayer's preferential rate on a qualified dividend; there's no single universal answer to whether the NRA framework is more or less favorable, since it depends on your specific treaty rate and the counterfactual US-taxpayer comparison.
+
+**Is there any circumstance where a non-resident alien becomes subject to the qualified dividend framework?**
+Yes - if a non-resident alien becomes a US tax resident (through the substantial presence test, for instance) or has income effectively connected with a US trade or business, they would then be taxed under the standard US graduated system, including the qualified dividend framework, rather than the flat FDAP withholding rate covered throughout this guide - a genuinely different tax status than the routine non-resident alien portfolio investor this site primarily addresses.
+
+**Does the flat-rate treatment apply to all types of US dividend income, or are there exceptions?**
+The standard flat-rate FDAP treatment applies broadly to ordinary dividends, though specific categories like interest-related dividends and capital gain distributions under §871(k), mentioned above, follow entirely different rules (often zero withholding) rather than the flat treaty-rate framework - worth distinguishing these categories from ordinary dividends rather than assuming uniform treatment across every type of fund distribution.
+
+**Should I ignore US tax content that discusses qualified dividends entirely?**
+Not entirely - understanding the concept helps you recognize when a piece of content is written specifically for US taxpayers (and therefore may not directly apply to your situation) versus content written with international investors in mind; the goal isn't to ignore the concept, but to correctly identify when it's relevant to you (essentially never, for routine portfolio dividends) and when it isn't.
+
+---
+
 ## Practical Checklist
 
 - [ ] Stop researching whether a specific dividend is "qualified" for US tax purposes - as a non-US investor, this does not determine your withholding rate

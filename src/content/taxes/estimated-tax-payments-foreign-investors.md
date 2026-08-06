@@ -77,6 +77,28 @@ None of this involves quarterly payments to the IRS.
 
 ---
 
+## A Worked Comparison: Why This Feels Counterintuitive to Many Investors
+
+**An investor coming from a US-domestic mindset - or researching US tax content written for US taxpayers - might reasonably expect that any meaningful investment income triggers some kind of periodic prepayment obligation, since this is exactly how it works for US taxpayers with substantial capital gains or business income.** For a US citizen or resident, realizing a large capital gain mid-year can genuinely trigger an estimated tax obligation for that quarter, with real penalties for underpayment. The non-resident alien framework works on an entirely different logic: since capital gains are generally not taxed at all (rather than taxed-but-not-withheld), there's no gain-driven estimated tax trigger to worry about in the first place. This is a structural difference in how the two tax systems treat capital gains, not simply a more lenient version of the same underlying rule.
+
+---
+
+## Frequently Asked Questions
+
+**Does a large dividend payment in a single quarter ever trigger a separate estimated tax obligation, similar to how a large capital gain might for a US taxpayer?**
+No - since dividend withholding happens automatically at the point of payment regardless of size, there's no separate quarterly estimated tax calculation needed even for an unusually large dividend distribution; the withholding mechanism itself scales with the payment amount.
+
+**If I'm running options income strategies covered elsewhere on this site, does the frequency of premium collection ever create an estimated tax obligation?**
+No - since options premium generally falls under the capital gains framework (not taxed for NRAs absent the 183-day exception, covered in our [options trading tax guide](/taxes/options-trading-tax-treatment-non-us-residents/)), the frequency or amount of premium collected doesn't trigger estimated tax obligations any more than a single large options gain would.
+
+**What happens if I mistakenly make an estimated tax payment I didn't actually need to make?**
+This would generally be resolved through the standard Form 1040-NR filing and refund process, similar to reclaiming any other over-payment - though this scenario is uncommon enough for passive investors that it's worth confirming with a tax advisor if it happens, rather than assuming a specific standard resolution path.
+
+**Does becoming a US tax resident at some point change this analysis going forward?**
+Yes, significantly - a non-resident alien who becomes a US tax resident (through the substantial presence test or otherwise) moves into the standard US taxpayer framework, including the standard estimated tax rules that apply to US residents with untaxed income sources, a genuinely different regime than the non-resident alien framework covered throughout this guide.
+
+---
+
 ## Practical Checklist
 
 - [ ] Confirm your US investment income is passive (dividends, interest, capital gains through a broker) rather than effectively connected with a US trade or business

@@ -65,6 +65,28 @@ Regardless of how the US treats these products, your home country's own tax rule
 
 ---
 
+## The Parallel to Gold ETFs, and Why It's Informative
+
+**Gold ETFs like GLD and IAU use the identical grantor trust structure**, covered in more depth in our [gold ETF tax treatment guide](/index-funds/gold-etf-tax-treatment-international-investors/), and have existed since 2004 - meaningfully longer than spot crypto ETFs' short operating history. This longer track record gives the gold ETF analysis somewhat more practical grounding, even though the underlying legal reasoning by analogy is structurally identical between the two product categories. Reading both guides together gives a more complete picture of this structural category than either alone, since the gold ETF's longer history offers some reassurance that the underlying reasoning has held up over a meaningfully longer period without documented problems, even though this guide still can't point to a specific, definitive ruling addressing NRA treatment for either product category directly.
+
+---
+
+## Frequently Asked Questions
+
+**Does the "phantom sale" reporting on Form 1099-B create an actual tax liability for a non-US investor, or just a reporting event?**
+Based on the reasoned analogy discussed in this guide, the reporting itself (which happens automatically regardless of your tax status) likely doesn't translate into an actual US tax liability for a non-resident alien, since the underlying capital gain from that phantom sale would fall under the same generally-untaxed NRA framework - but confirm this specifically with a tax advisor rather than assuming the 1099-B reporting is purely cosmetic without verification.
+
+**Is there a meaningful difference between IBIT, FBTC, and GBTC for this analysis?**
+No - all three use the same grantor trust structure, meaning the tax analysis in this guide applies equally to each; the practical differences between them (expense ratio, trading volume, specific sponsor) don't affect the underlying tax characterization discussed here.
+
+**Should I wait for clearer guidance before investing in spot crypto ETFs, given the tax uncertainty?**
+This guide addresses the tax treatment specifically, not whether spot crypto ETFs are a sound investment choice, which is a separate question this guide doesn't address - if the tax uncertainty specifically is a concern, discussing it directly with a tax advisor familiar with your situation is the appropriate next step, rather than this guide making an investment recommendation either way.
+
+**Does holding a spot crypto ETF create any additional US reporting obligations beyond what a standard equity ETF requires?**
+The standard non-resident alien reporting framework (primarily driven by your broker's 1042-S and any 1099-B activity) generally applies, though given the grantor trust structure's phantom-sale mechanic, confirm with your broker and a tax advisor whether any additional documentation specific to this product category applies to your situation.
+
+---
+
 ## Practical Checklist
 
 - [ ] Understand that spot crypto ETFs are grantor trusts, not RICs - a fundamentally different tax structure from every other ETF discussed on this site

@@ -71,6 +71,30 @@ A related but distinct question sometimes comes up: does it matter that many US 
 
 ---
 
+## How This Connects to the US-Estate-Tax Framework Covered Elsewhere
+
+**It's worth distinguishing state tax nexus (the subject of this guide) from US federal estate tax situs (covered throughout our [estate-planning category](/estate-planning/)) - these are two entirely separate legal frameworks that shouldn't be conflated.** The $60,000 non-resident alien federal estate tax exemption and the US-situs rules governing which assets count toward it operate at the federal level, independent of any state tax nexus question; a non-US investor's brokerage holdings can be entirely free of state tax nexus (per this guide) while still being fully subject to federal estate tax situs rules (per the estate-planning category) - the two questions simply don't interact with each other.
+
+**Some individual US states also impose their own state-level estate or inheritance tax**, separate from the federal framework - this becomes relevant specifically in the narrow situations discussed above (US real estate located in that state, for instance), not for ordinary brokerage holdings with no state nexus, but worth flagging as a genuinely separate consideration for an investor who does hold US real property in a specific state.
+
+---
+
+## Frequently Asked Questions
+
+**Does opening a brokerage account online, without ever physically visiting the US, ever create state nexus by itself?**
+No - the act of opening and operating an account remotely, without physical presence, real property, or business activity in a specific state, doesn't create state tax nexus; the online, remote nature of most international brokerage relationships is exactly why this question doesn't apply to the ordinary passive investor this site serves.
+
+**If my broker sends me tax documents by mail to my home country, does that create any state connection?**
+No - the mechanics of document delivery (mail, electronic delivery, or otherwise) have no bearing on state tax nexus, which depends entirely on your own presence, property, or business activity within a specific state, not on administrative or communication logistics.
+
+**Does holding shares in a company headquartered in a specific state (separate from your broker's headquarters) create any state exposure?**
+No, for the same reason discussed regarding broker headquarters and Delaware/Nevada incorporation - a company's headquarters or state of incorporation doesn't create a state tax connection for a passive shareholder who has no other presence or activity in that state.
+
+**If I later purchase US real estate, does that retroactively affect the state tax treatment of my existing brokerage holdings?**
+No - a new state tax nexus created by real estate ownership would apply specifically to that real estate and any state-source income it generates, not retroactively to your separate, unrelated brokerage account holdings, which remain governed by the same nexus analysis discussed throughout this guide.
+
+---
+
 ## Practical Checklist
 
 - [ ] Confirm you have no US real estate holdings, physical business presence, or extended physical presence in any specific US state
