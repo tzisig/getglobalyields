@@ -2,7 +2,7 @@
 slug: llc-trust-vs-direct-holding-us-stocks
 title: "Should Non-US Investors Use an LLC or Trust to Hold US Stocks?"
 description: "Holding US stocks through an LLC or trust is sometimes pitched as an estate tax workaround. Whether it actually works depends entirely on the structure's design and where it's set up - and getting it wrong can create complexity without the intended benefit. A closer look at what can go wrong."
-pubDate: 2026-09-08
+pubDate: 2026-10-11
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Estate Planning"]

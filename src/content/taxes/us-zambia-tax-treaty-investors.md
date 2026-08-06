@@ -2,7 +2,7 @@
 slug: us-zambia-tax-treaty-investors
 title: "US-Zambia Tax Treaty for Investors: 0% Gains, 15% Dividends (2026)"
 description: "Zambia investor guide to US stock taxation. No US-Zambia tax treaty exists, so full 30% US dividend withholding applies. Zambia charges 0% capital gains tax on any source, but taxes residents' foreign dividends at 15%, self-declared."
-pubDate: 2026-08-24
+pubDate: 2026-09-09
 updatedDate: 2026-08-24
 author: "Tzion S."
 categories: ["Taxes"]

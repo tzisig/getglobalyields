@@ -2,7 +2,7 @@
 slug: us-portugal-tax-treaty-investors
 title: "US-Portugal Tax Treaty for Investors: NHR Is Closed - What Now (2026)"
 description: "US-Portugal tax treaty guide for individual investors. The 15% dividend rate, why the NHR regime is closed to new applicants and its narrow IFICI replacement doesn't work like the old scheme, and Interactive Brokers/eToro access."
-pubDate: 2026-09-03
+pubDate: 2026-09-30
 updatedDate: 2026-09-03
 author: "Tzion S."
 categories: ["Taxes"]

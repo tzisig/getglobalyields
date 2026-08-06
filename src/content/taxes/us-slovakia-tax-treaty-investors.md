@@ -2,7 +2,7 @@
 slug: us-slovakia-tax-treaty-investors
 title: "US-Slovakia Tax Treaty for Investors: The 1-Year Exemption (2026)"
 description: "US-Slovakia tax treaty guide for individual investors. The 15% dividend rate, the low 7% domestic dividend tax, and why holding NYSE/NASDAQ-listed US stocks for more than a year can make the capital gain fully tax-exempt in Slovakia."
-pubDate: 2026-09-06
+pubDate: 2026-10-04
 updatedDate: 2026-09-06
 author: "Tzion S."
 categories: ["Taxes"]

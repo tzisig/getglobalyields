@@ -2,7 +2,7 @@
 slug: us-france-tax-treaty-investors
 title: "US-France Tax Treaty for Investors: The Complete 2026 Guide"
 description: "US-France tax treaty guide for individual investors. The 15% dividend withholding rate, why the PEA can't hold direct US stocks, the 30% PFU flat tax, and Interactive Brokers/eToro access for French residents."
-pubDate: 2026-08-09
+pubDate: 2026-08-10
 updatedDate: 2026-08-09
 author: "Tzion S."
 categories: ["Taxes"]

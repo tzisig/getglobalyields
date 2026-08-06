@@ -2,7 +2,7 @@
 slug: us-hungary-tax-treaty-investors
 title: "US-Hungary Tax Treaty for Investors: Why It No Longer Exists (2026)"
 description: "Hungary investor guide to US stock taxation after the US terminated the US-Hungary tax treaty effective January 1, 2024. Full 30% US dividend withholding, Hungary's flat 15% PIT plus 13% Szocho, and why W-8BEN still matters even without a treaty."
-pubDate: 2026-08-18
+pubDate: 2026-08-27
 updatedDate: 2026-08-18
 author: "Tzion S."
 categories: ["Taxes"]

@@ -2,7 +2,7 @@
 slug: best-robo-advisors-international-investors
 title: "Best Robo-Advisors for International Investors (2026)"
 description: "Betterment, Wealthfront, and Schwab Intelligent Portfolios - the names that dominate 'best robo-advisor' content - are essentially closed to non-US residents. Interactive Advisors is the genuine automated-portfolio option that actually serves international clients, and the manual-portfolio alternative that works when it doesn't."
-pubDate: 2026-08-23
+pubDate: 2026-09-07
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Best Brokers"]

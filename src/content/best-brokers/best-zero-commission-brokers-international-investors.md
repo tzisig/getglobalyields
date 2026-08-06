@@ -2,7 +2,7 @@
 slug: best-zero-commission-brokers-international-investors
 title: "Best Zero-Commission Brokers for International Investors (2026)"
 description: "Zero commission rarely means zero cost. XTB, eToro, and IBKR Lite all offer commission-free trading for international investors, but the real cost shows up in FX spreads, thresholds, and product restrictions - here's what each actually costs, with worked numbers."
-pubDate: 2026-08-23
+pubDate: 2026-09-07
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Best Brokers"]

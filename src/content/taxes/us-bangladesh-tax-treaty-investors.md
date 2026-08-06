@@ -2,7 +2,7 @@
 slug: us-bangladesh-tax-treaty-investors
 title: "US-Bangladesh Tax Treaty for Investors: The $12,000 Question (2026)"
 description: "US-Bangladesh tax treaty guide for individual investors. The 10% dividend rate, Bangladesh's domestic dividend and capital gains tax, and the USD 12,000/year personal remittance quota that funds most foreign brokerage accounts."
-pubDate: 2026-08-30
+pubDate: 2026-09-20
 updatedDate: 2026-08-30
 author: "Tzion S."
 categories: ["Taxes"]

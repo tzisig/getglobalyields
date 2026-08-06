@@ -2,7 +2,7 @@
 slug: foreign-tax-credit-us-dividend-withholding
 title: "How the Foreign Tax Credit Works for US Dividend Withholding"
 description: "Nearly every country guide on this site mentions a foreign tax credit for US withholding. Here's the actual mechanism behind that sentence - how it's calculated, why it's capped, and when it doesn't fully offset what you paid the IRS."
-pubDate: 2026-08-17
+pubDate: 2026-08-26
 updatedDate: 2026-08-05
 author: "Tzion S."
 categories: ["Taxes"]

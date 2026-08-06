@@ -2,7 +2,7 @@
 slug: building-3-fund-portfolio-international-investor
 title: "Building a 3-Fund Portfolio as an International Investor"
 description: "The classic 3-fund portfolio - US stocks, international stocks, bonds - was designed for US residents. Adapting it for an international investor means rethinking each piece from your actual starting position, not just swapping tickers. A full worked-through framework, including rebalancing and maintenance."
-pubDate: 2026-09-14
+pubDate: 2026-10-14
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Index Funds & ETFs"]

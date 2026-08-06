@@ -2,7 +2,7 @@
 slug: us-vietnam-tax-treaty-investors
 title: "Investing in US Stocks from Vietnam: No Treaty, New 2026 Tax Law (2026)"
 description: "There is no US-Vietnam tax treaty, so 30% US dividend withholding applies with no reduction. Vietnam's new Personal Income Tax Law (effective July 1, 2026) reshapes rates - here's what's confirmed for foreign securities and what remains unclear."
-pubDate: 2026-08-27
+pubDate: 2026-09-17
 updatedDate: 2026-08-27
 author: "Tzion S."
 categories: ["Taxes"]

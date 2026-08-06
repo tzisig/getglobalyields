@@ -2,7 +2,7 @@
 slug: us-jordan-tax-treaty-investors
 title: "US-Jordan Tax Treaty for Investors: No Treaty, No Domestic Tax Either (2026)"
 description: "Jordan investor guide to US stock taxation. No US-Jordan tax treaty exists, so full 30% US dividend withholding applies. Jordan's territorial system generally doesn't tax foreign dividends or capital gains for individuals either."
-pubDate: 2026-08-19
+pubDate: 2026-08-31
 updatedDate: 2026-08-19
 author: "Tzion S."
 categories: ["Taxes"]

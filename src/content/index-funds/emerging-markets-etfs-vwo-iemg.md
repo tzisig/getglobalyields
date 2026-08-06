@@ -2,7 +2,7 @@
 slug: emerging-markets-etfs-vwo-iemg
 title: "Emerging Markets ETFs (VWO, IEMG) for International Investors"
 description: "VWO and IEMG give exposure to China, India, Brazil, and other developing economies through a single US-listed fund. For an investor whose home country is itself an emerging market, this raises a genuinely different question than it does for a US resident - and the answer depends on specific country weightings, not a generic label."
-pubDate: 2026-09-15
+pubDate: 2026-10-15
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Index Funds & ETFs"]

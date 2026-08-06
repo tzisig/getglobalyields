@@ -2,7 +2,7 @@
 slug: avoiding-double-currency-conversion-fees
 title: "How to Avoid Double Currency Conversion Fees"
 description: "A common, invisible mistake: converting home currency to USD through a local bank, then having the broker convert again on top of that. Spotting and eliminating the double-conversion path most international investors don't realize they're paying for."
-pubDate: 2026-09-16
+pubDate: 2026-10-18
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Currency & Cross-Border Banking"]

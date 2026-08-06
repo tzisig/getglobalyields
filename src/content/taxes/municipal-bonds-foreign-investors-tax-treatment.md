@@ -2,7 +2,7 @@
 slug: municipal-bonds-foreign-investors-tax-treatment
 title: "Municipal Bonds and Foreign Investors: Are They Tax-Free for You Too?"
 description: "US municipal bond interest is famously tax-exempt for Americans. Less well known: most of that exemption extends to non-US investors as well, and even taxable municipal bonds are usually free of US withholding under the portfolio interest exception."
-pubDate: 2026-08-18
+pubDate: 2026-08-30
 updatedDate: 2026-08-05
 author: "Tzion S."
 categories: ["Taxes"]

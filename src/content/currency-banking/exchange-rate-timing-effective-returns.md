@@ -2,7 +2,7 @@
 slug: exchange-rate-timing-effective-returns
 title: "Does Exchange Rate Timing Actually Affect Your Long-Term Returns?"
 description: "Waiting for a 'better' exchange rate before converting to USD feels like it should matter. For a long-term investor making regular contributions, the honest answer is that timing the exchange rate is a lot like timing the market - and about as reliably rewarded. What actually moves the needle instead."
-pubDate: 2026-09-17
+pubDate: 2026-10-20
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Currency & Cross-Border Banking"]

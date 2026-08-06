@@ -2,7 +2,7 @@
 slug: us-tunisia-tax-treaty-investors
 title: "US-Tunisia Tax Treaty for Investors: The Unusually High 20% Rate (2026)"
 description: "US-Tunisia tax treaty guide for individual investors. Why the treaty caps portfolio dividends at 20%, not the usual 15% - and a 2026 Finance Law reform that eases foreign currency account rules for Tunisian residents."
-pubDate: 2026-08-24
+pubDate: 2026-09-08
 updatedDate: 2026-08-24
 author: "Tzion S."
 categories: ["Taxes"]

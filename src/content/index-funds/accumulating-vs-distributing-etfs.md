@@ -2,7 +2,7 @@
 slug: accumulating-vs-distributing-etfs
 title: "Accumulating vs Distributing ETFs: Which Saves on Withholding Tax"
 description: "Accumulating ETFs reinvest dividends internally instead of paying them out. For an international investor, this isn't just a convenience choice - it genuinely changes when and how dividend withholding tax applies, and creates a real record-keeping burden most investors don't anticipate."
-pubDate: 2026-09-13
+pubDate: 2026-10-13
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Index Funds & ETFs"]

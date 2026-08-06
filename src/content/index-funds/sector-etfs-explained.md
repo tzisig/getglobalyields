@@ -2,7 +2,7 @@
 slug: sector-etfs-explained
 title: "Sector ETFs Explained: XLK, XLF, XLE, and Thematic Investing"
 description: "Sector ETFs let you overweight a specific slice of the market - technology, financials, energy - without picking individual stocks. What they're actually good for, the real risk of using them as a substitute for genuine diversification, and how to size a sector tilt deliberately."
-pubDate: 2026-09-13
+pubDate: 2026-10-14
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Index Funds & ETFs"]

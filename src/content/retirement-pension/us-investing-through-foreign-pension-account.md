@@ -2,7 +2,7 @@
 slug: us-investing-through-foreign-pension-account
 title: "US Investing Through a Foreign Pension Account: What's Actually Allowed"
 description: "Many foreign pension and retirement accounts can hold US stocks and ETFs, but the rules on what's permitted, what's taxed, and what US tax forms apply vary enormously by country and account type. A framework for figuring out your specific situation, including the PFIC risk for US persons."
-pubDate: 2026-09-01
+pubDate: 2026-09-27
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Retirement & Pension"]

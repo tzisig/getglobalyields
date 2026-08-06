@@ -2,7 +2,7 @@
 slug: ucits-vs-us-domiciled-etfs-tax-comparison
 title: "UCITS vs US-Domiciled ETFs: The Complete Tax Comparison"
 description: "Irish-domiciled UCITS ETFs and US-domiciled ETFs tracking the identical index deliver genuinely different after-tax outcomes for international investors - in dividend withholding, estate tax exposure, cost, and access. The full comparison, with worked numbers, in one place."
-pubDate: 2026-09-13
+pubDate: 2026-10-14
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Index Funds & ETFs"]

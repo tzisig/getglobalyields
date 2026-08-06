@@ -2,7 +2,7 @@
 slug: us-ecuador-tax-treaty-investors
 title: "US-Ecuador Tax Treaty for Investors: Zero Currency Conversion (2026)"
 description: "Ecuador investor guide to US stock taxation. No US-Ecuador tax treaty exists, so full 30% US dividend withholding applies. Ecuador's full dollarization since 2000 means no currency conversion at all when funding a US brokerage account."
-pubDate: 2026-08-23
+pubDate: 2026-09-06
 updatedDate: 2026-08-23
 author: "Tzion S."
 categories: ["Taxes"]

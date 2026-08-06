@@ -2,7 +2,7 @@
 slug: us-mexico-tax-treaty-investors
 title: "US-Mexico Tax Treaty for Investors: The Complete 2026 Guide"
 description: "US-Mexico tax treaty guide for individual investors. The 10% portfolio dividend rate, why US stock gains don't get Mexico's preferential BMV rate, self-assessment with foreign brokers, and Interactive Brokers/eToro access."
-pubDate: 2026-08-26
+pubDate: 2026-09-14
 updatedDate: 2026-08-26
 author: "Tzion S."
 categories: ["Taxes"]

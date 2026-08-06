@@ -2,7 +2,7 @@
 slug: repatriating-us-investment-gains-home-currency
 title: "Repatriating US Investment Gains: What to Consider Before Converting Back"
 description: "Moving proceeds from a US brokerage account back to your home currency involves the same FX-cost mechanics as funding did - plus a few considerations specific to withdrawals: timing a large one-time conversion, tranching, reporting thresholds, and keeping tax decisions separate from the FX decision."
-pubDate: 2026-09-20
+pubDate: 2026-10-20
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Currency & Cross-Border Banking"]

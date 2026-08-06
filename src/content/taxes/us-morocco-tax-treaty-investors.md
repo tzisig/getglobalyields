@@ -2,7 +2,7 @@
 slug: us-morocco-tax-treaty-investors
 title: "US-Morocco Tax Treaty for Investors: The 20% Foreign-Securities Rate (2026)"
 description: "US-Morocco tax treaty guide for individual investors. The 15% dividend rate, why Morocco taxes gains on US stocks at 20% instead of the 15% domestic-listed rate, and the self-declaration requirement for foreign dividends."
-pubDate: 2026-08-16
+pubDate: 2026-08-24
 updatedDate: 2026-08-16
 author: "Tzion S."
 categories: ["Taxes"]

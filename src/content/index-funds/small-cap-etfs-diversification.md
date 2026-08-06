@@ -2,7 +2,7 @@
 slug: small-cap-etfs-diversification
 title: "Small-Cap ETFs (IJR, VB) for Genuine Diversification"
 description: "Small-cap ETFs hold a genuinely different segment of the market than the mega-cap names that dominate most 'diversified' portfolios. Higher volatility, less analyst coverage, a real - though inconsistent - historical size premium, and a genuinely different withholding-tax income mix worth understanding before sizing an allocation."
-pubDate: 2026-09-15
+pubDate: 2026-10-18
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Index Funds & ETFs"]

@@ -2,7 +2,7 @@
 slug: how-to-invest-in-us-stocks-from-thailand
 title: "How to Invest in US Stocks from Thailand (2026 Guide)"
 description: "How to invest in US stocks from Thailand. Broker options, W-8BEN, the 15% treaty rate, and Thailand's remittance rule that defers tax until you bring money home - explained clearly for 2026."
-pubDate: 2026-08-10
+pubDate: 2026-08-12
 updatedDate: 2026-08-05
 author: "Tzion S."
 categories: ["US Investing"]

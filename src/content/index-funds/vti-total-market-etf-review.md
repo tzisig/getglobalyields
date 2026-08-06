@@ -2,7 +2,7 @@
 slug: vti-total-market-etf-review
 title: "VTI Total Market ETF Review for International Investors"
 description: "VTI tracks the entire US stock market - roughly 3,500-4,000 companies - not just the S&P 500's 500 largest. What that broader exposure actually changes in practice, how much overlap it actually has with VOO, and whether it's worth choosing over the S&P 500 alternative."
-pubDate: 2026-09-10
+pubDate: 2026-10-13
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Index Funds & ETFs"]

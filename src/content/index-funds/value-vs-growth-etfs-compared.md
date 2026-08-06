@@ -2,7 +2,7 @@
 slug: value-vs-growth-etfs-compared
 title: "Value vs Growth ETFs: VTV vs VUG for International Investors"
 description: "VTV and VUG split the US market into value and growth halves - genuinely different risk and return characteristics, not just a stylistic preference. What actually distinguishes them, why dividend yield differs meaningfully between the two, and when tilting toward one makes sense."
-pubDate: 2026-09-14
+pubDate: 2026-10-15
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Index Funds & ETFs"]

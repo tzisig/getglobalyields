@@ -2,7 +2,7 @@
 slug: tqqq-vs-concentrated-tech-stocks
 title: "TQQQ vs Concentrated Mega-Cap Tech Positions: A Concentration Comparison"
 description: "Some investors choose direct positions in a handful of mega-cap tech names over TQQQ, believing single-stock picking gives more control. The honest comparison of what each approach actually concentrates risk in, where the intuition breaks down, and how the withholding tax picture differs between the two."
-pubDate: 2026-08-31
+pubDate: 2026-09-23
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Strategies"]

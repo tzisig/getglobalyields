@@ -2,7 +2,7 @@
 slug: us-thailand-tax-treaty-investors
 title: "US-Thailand Tax Treaty for Investors: The Remittance Rule Explained (2026)"
 description: "US-Thailand tax treaty guide for individual investors. The 15% dividend rate, and how Thailand's 2024 remittance-basis rule means US investment income isn't taxed by Thailand until you actually bring it into the country."
-pubDate: 2026-08-25
+pubDate: 2026-09-13
 updatedDate: 2026-08-25
 author: "Tzion S."
 categories: ["Taxes"]

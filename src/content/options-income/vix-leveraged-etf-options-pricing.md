@@ -2,7 +2,7 @@
 slug: vix-leveraged-etf-options-pricing
 title: "VIX and Leveraged ETF Options Pricing: What to Actually Watch"
 description: "The VIX index gets cited constantly as a volatility gauge, but TQQQ options are priced off their own implied volatility, not the VIX directly. Understanding the relationship - and where it breaks down - matters for anyone selling premium on leveraged ETFs, with a worked look at the volatility risk premium itself."
-pubDate: 2026-08-26
+pubDate: 2026-09-15
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Options Income"]

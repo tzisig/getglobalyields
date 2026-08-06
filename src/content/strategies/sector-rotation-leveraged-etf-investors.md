@@ -2,7 +2,7 @@
 slug: sector-rotation-leveraged-etf-investors
 title: "Sector Rotation Strategies for Leveraged ETF Investors (2026)"
 description: "Sector rotation means shifting exposure between sectors based on economic cycle positioning. Applied to leveraged ETFs specifically, the strategy's timing risk gets amplified in both directions - here's what actually changes, including the tax and international investor considerations."
-pubDate: 2026-08-27
+pubDate: 2026-09-17
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Strategies"]

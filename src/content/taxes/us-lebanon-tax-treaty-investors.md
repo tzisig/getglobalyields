@@ -2,7 +2,7 @@
 slug: us-lebanon-tax-treaty-investors
 title: "US-Lebanon Tax Treaty for Investors: The Banking Crisis Comes First (2026)"
 description: "Lebanon investor guide to US stock taxation. No US-Lebanon tax treaty exists, so full 30% US dividend withholding applies. Lebanon's banking crisis - the lira down 98% since 2019, $72 billion in deposits still frozen - is the real question before tax."
-pubDate: 2026-08-20
+pubDate: 2026-09-02
 updatedDate: 2026-08-20
 author: "Tzion S."
 categories: ["Taxes"]

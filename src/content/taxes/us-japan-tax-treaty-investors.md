@@ -2,7 +2,7 @@
 slug: us-japan-tax-treaty-investors
 title: "US-Japan Tax Treaty for Investors: The Complete 2026 Guide"
 description: "US-Japan tax treaty guide for individual investors. The best portfolio dividend rate in the US treaty network (10%), the 0% interest rate, NISA's tax-free treatment and its US-ETF access limits, and W-8BEN filing."
-pubDate: 2026-08-10
+pubDate: 2026-08-11
 updatedDate: 2026-08-10
 author: "Tzion S."
 categories: ["Taxes"]

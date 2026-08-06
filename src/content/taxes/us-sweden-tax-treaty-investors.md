@@ -2,7 +2,7 @@
 slug: us-sweden-tax-treaty-investors
 title: "US-Sweden Tax Treaty for Investors: ISK Explained (2026)"
 description: "US-Sweden tax treaty guide for individual investors. The 15% dividend rate, and how the ISK account replaces capital gains tax with a flat presumed-yield tax that still doesn't eliminate US withholding on foreign shares."
-pubDate: 2026-09-07
+pubDate: 2026-10-06
 updatedDate: 2026-09-07
 author: "Tzion S."
 categories: ["Taxes"]

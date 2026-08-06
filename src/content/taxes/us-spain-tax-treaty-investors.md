@@ -2,7 +2,7 @@
 slug: us-spain-tax-treaty-investors
 title: "US-Spain Tax Treaty for Investors: Modelo 720 Explained (2026)"
 description: "US-Spain tax treaty guide for individual investors. The 15% dividend rate under the 2019 Protocol, why a US brokerage account over EUR 50,000 requires filing Modelo 720, and Spain's progressive savings income tax scale."
-pubDate: 2026-09-07
+pubDate: 2026-10-06
 updatedDate: 2026-09-07
 author: "Tzion S."
 categories: ["Taxes"]

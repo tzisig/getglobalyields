@@ -2,7 +2,7 @@
 slug: us-tanzania-tax-treaty-investors
 title: "US-Tanzania Tax Treaty for Investors: The 30% Capital Gains Rate (2026)"
 description: "Tanzania investor guide to US stock taxation. No US-Tanzania tax treaty exists, so full 30% US dividend withholding applies. Tanzania taxes capital gains as ordinary business income at 30%, with a foreign tax credit capped at the Tanzanian rate."
-pubDate: 2026-08-23
+pubDate: 2026-09-07
 updatedDate: 2026-08-23
 author: "Tzion S."
 categories: ["Taxes"]

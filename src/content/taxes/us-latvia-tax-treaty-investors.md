@@ -2,7 +2,7 @@
 slug: us-latvia-tax-treaty-investors
 title: "US-Latvia Tax Treaty for Investors: The 25.5% Rate Explained (2026)"
 description: "US-Latvia tax treaty guide for individual investors. The 15% dividend rate, Latvia's 25.5% flat tax on capital gains (plus a 3% surcharge above EUR 200,000), and why the 0% dividend exemption doesn't straightforwardly apply to foreign dividends."
-pubDate: 2026-08-27
+pubDate: 2026-09-16
 updatedDate: 2026-08-27
 author: "Tzion S."
 categories: ["Taxes"]

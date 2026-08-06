@@ -2,7 +2,7 @@
 slug: core-satellite-portfolio-tqqq
 title: "Core-Satellite Portfolio Construction With TQQQ as the Satellite"
 description: "Core-satellite structures pair a large, stable, broadly diversified core holding with smaller, more targeted satellite positions. Using TQQQ specifically as a satellite - not the core - is a genuinely different risk profile from making it the whole portfolio, with international-investor-specific considerations for the core allocation."
-pubDate: 2026-08-31
+pubDate: 2026-09-22
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Strategies"]

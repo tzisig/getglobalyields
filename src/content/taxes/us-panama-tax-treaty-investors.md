@@ -2,7 +2,7 @@
 slug: us-panama-tax-treaty-investors
 title: "US-Panama Tax Treaty for Investors: The Territorial System That Held (2026)"
 description: "Panama investor guide to US stock taxation. No US-Panama tax treaty exists, so full 30% US dividend withholding applies. Panama's territorial tax system exempts foreign dividends and capital gains completely, with no 2026-style expansion like some neighbors."
-pubDate: 2026-08-30
+pubDate: 2026-09-21
 updatedDate: 2026-08-30
 author: "Tzion S."
 categories: ["Taxes"]

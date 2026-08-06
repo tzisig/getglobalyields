@@ -2,7 +2,7 @@
 slug: us-saudi-arabia-tax-treaty-investors
 title: "US-Saudi Arabia Tax Treaty for Investors: No Treaty, 0% Domestic Tax (2026)"
 description: "Saudi Arabia investor guide to US stock taxation. No US-Saudi tax treaty exists, so full 30% US dividend withholding applies - but Saudi Arabia charges 0% personal income tax on dividends and capital gains for residents. Zakat is a separate personal matter."
-pubDate: 2026-08-13
+pubDate: 2026-08-20
 updatedDate: 2026-08-13
 author: "Tzion S."
 categories: ["Taxes"]

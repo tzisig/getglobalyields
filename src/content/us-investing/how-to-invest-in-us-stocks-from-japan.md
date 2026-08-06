@@ -2,7 +2,7 @@
 slug: how-to-invest-in-us-stocks-from-japan
 title: "How to Invest in US Stocks from Japan (2026 Guide)"
 description: "How to invest in US stocks from Japan. Broker options, W-8BEN, the best treaty dividend rate in the US network (10%), and NISA's real limits for US ETF holders - explained clearly for 2026."
-pubDate: 2026-08-12
+pubDate: 2026-08-18
 updatedDate: 2026-08-05
 author: "Tzion S."
 categories: ["US Investing"]

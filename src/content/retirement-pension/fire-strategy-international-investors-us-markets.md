@@ -2,7 +2,7 @@
 slug: fire-strategy-international-investors-us-markets
 title: "FIRE Strategy for International Investors Using US Markets"
 description: "The FIRE (Financial Independence, Retire Early) framework was built around US-specific assumptions - the 4% rule, US tax-advantaged accounts, US withdrawal norms. What actually changes when you build a FIRE plan around a US brokerage account from outside the US, worked through with the specific adjustments that matter."
-pubDate: 2026-09-06
+pubDate: 2026-10-04
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Retirement & Pension"]

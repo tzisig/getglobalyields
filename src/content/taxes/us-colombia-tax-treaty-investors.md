@@ -2,7 +2,7 @@
 slug: us-colombia-tax-treaty-investors
 title: "Investing in US Stocks from Colombia: No Treaty, the 2-Year Rule (2026)"
 description: "There is no US-Colombia tax treaty, so 30% US dividend withholding applies with no reduction. How Colombia's ganancia ocasional rule taxes capital gains differently based on a 2-year holding period, and Interactive Brokers/eToro access."
-pubDate: 2026-08-16
+pubDate: 2026-08-23
 updatedDate: 2026-08-16
 author: "Tzion S."
 categories: ["Taxes"]

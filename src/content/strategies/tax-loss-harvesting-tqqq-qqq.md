@@ -2,7 +2,7 @@
 slug: tax-loss-harvesting-tqqq-qqq
 title: "Tax-Loss Harvesting with TQQQ and QQQ: Swapping Without Losing Exposure"
 description: "Tax-loss harvesting means realizing a loss for tax purposes while maintaining similar market exposure. TQQQ and QQQ's shared underlying index makes them a natural, though not risk-free, swap pair for this technique - a worked example, the wash sale gray area, and what to know before using it."
-pubDate: 2026-08-30
+pubDate: 2026-09-21
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Strategies"]

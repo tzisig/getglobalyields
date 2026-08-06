@@ -2,7 +2,7 @@
 slug: us-brokerage-account-retiring-abroad
 title: "What Happens to Your US Brokerage Account When You Retire Abroad"
 description: "Retiring to a new country doesn't automatically require closing your existing brokerage account - but it does mean confirming your broker still serves your new country of residence, updating your tax documentation, and understanding a new set of home-country rules. A full checklist for the relocation itself."
-pubDate: 2026-09-02
+pubDate: 2026-09-29
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Retirement & Pension"]

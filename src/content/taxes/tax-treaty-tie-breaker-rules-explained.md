@@ -2,7 +2,7 @@
 slug: tax-treaty-tie-breaker-rules-explained
 title: "Tax Treaty Tie-Breaker Rules: What Happens If Two Countries Both Claim You as a Resident"
 description: "If you split time between two countries, moved mid-year, or work remotely from abroad, you may qualify as a tax resident of both under domestic law. Tie-breaker rules in Article 4 of most US tax treaties resolve which country actually gets to tax you."
-pubDate: 2026-08-17
+pubDate: 2026-08-26
 updatedDate: 2026-08-05
 author: "Tzion S."
 categories: ["Taxes"]

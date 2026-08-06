@@ -2,7 +2,7 @@
 slug: gold-etf-tax-treatment-international-investors
 title: "Gold ETFs (GLD, IAU) Tax Treatment for International Investors"
 description: "GLD and IAU are grantor trusts holding physical gold - the same structural category as spot crypto ETFs, taxed as collectibles at up to 28% for US taxpayers. What this structure means for a non-US investor is a reasoned extension, not confirmed guidance - and the mechanics behind why it's genuinely uncertain."
-pubDate: 2026-09-14
+pubDate: 2026-10-15
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Index Funds & ETFs"]

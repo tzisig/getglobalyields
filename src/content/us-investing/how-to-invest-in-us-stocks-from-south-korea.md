@@ -2,7 +2,7 @@
 slug: how-to-invest-in-us-stocks-from-south-korea
 title: "How to Invest in US Stocks from South Korea (2026 Guide)"
 description: "How to invest in US stocks from South Korea. Broker options, W-8BEN, the 15% treaty rate, and Korea's 22% overseas stock capital gains tax - explained clearly for 2026."
-pubDate: 2026-08-12
+pubDate: 2026-08-18
 updatedDate: 2026-08-05
 author: "Tzion S."
 categories: ["US Investing"]

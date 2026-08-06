@@ -2,7 +2,7 @@
 slug: gifting-us-securities-foreign-investor
 title: "Gifting US Securities as a Foreign Investor: The Estate Tax Gap You Can Use"
 description: "US stocks are subject to estate tax for non-resident aliens, but gifts of the same stocks during your lifetime generally are not - a genuine, IRS-code-based asymmetry between gift tax and estate tax treatment of intangible property. How the mechanic works, a worked comparison, and what it doesn't change."
-pubDate: 2026-09-08
+pubDate: 2026-10-08
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Estate Planning"]
