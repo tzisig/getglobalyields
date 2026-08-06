@@ -11,7 +11,7 @@ tags:
   - "fractional shares broker international investors"
   - "buy fractional US stocks"
   - "Interactive Brokers fractional shares"
-heroImage: "/images/blog/best-brokers/best-brokers-fractional-shares.webp"
+heroImage: "/images/blog/best-brokers/best-brokers-fractional-shares-international-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

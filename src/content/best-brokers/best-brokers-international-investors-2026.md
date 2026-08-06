@@ -15,7 +15,7 @@ tags:
   - "broker comparison"
   - "global markets"
   - "multi-currency"
-heroImage: "/images/blog/best-brokers/us_brokerage_banner.webp"
+heroImage: "/images/blog/best-brokers/best-brokers-international-investors-2026.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: false

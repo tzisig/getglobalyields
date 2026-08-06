@@ -11,7 +11,7 @@ tags:
   - "best brokers Gulf investors"
   - "best brokers UAE Saudi Arabia"
   - "GCC investor US stocks broker"
-heroImage: "/images/blog/best-brokers/best-brokers-gcc-gulf-investors.webp"
+heroImage: "/images/blog/best-brokers/best-brokers-gulf-gcc-investors-2026.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

@@ -15,7 +15,7 @@ tags:
   - "international investors"
   - "account opening"
   - "documentation"
-heroImage: "/images/blog/best-brokers/how-to-open-us-brokerage-account.webp"
+heroImage: "/images/blog/best-brokers/how-to-open-a-us-brokerage-account-as-a-non-resident-2026-guide.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: false

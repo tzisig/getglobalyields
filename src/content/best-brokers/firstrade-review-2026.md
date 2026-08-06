@@ -15,7 +15,7 @@ tags:
   - "firstrade vs ibkr"
   - "firstrade account types"
   - "firstrade non-us"
-heroImage: "/images/blog/best-brokers/firstrade_review_banner.webp"
+heroImage: "/images/blog/best-brokers/firstrade-review-2026.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: false

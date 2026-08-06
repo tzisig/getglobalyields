@@ -23,7 +23,7 @@ tags:
   - interactive brokers commission
   - ibkr israeli investors
   - ibkr w-8ben
-heroImage: "/images/blog/best-brokers/interactive-brokers-vs-ibkr-lite-2026.webp"
+heroImage: "/images/blog/best-brokers/interactive-brokers-vs-ibkr-lite-for-non-us-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: false

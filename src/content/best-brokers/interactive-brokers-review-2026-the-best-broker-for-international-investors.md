@@ -15,7 +15,7 @@ tags:
   - "options trading"
   - "currency conversion"
   - "2026 review"
-heroImage: "/images/blog/best-brokers/interactive-brokers-review-2026.webp"
+heroImage: "/images/blog/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: false

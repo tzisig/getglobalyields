@@ -15,7 +15,7 @@ tags:
   - "tastytrade vs ibkr"
   - "options trading broker"
   - "tastytrade platform"
-heroImage: "/images/blog/best-brokers/tastytrade_review_banner.webp"
+heroImage: "/images/blog/best-brokers/tastytrade-review-2026.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: false

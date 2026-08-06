@@ -11,7 +11,7 @@ tags:
   - "zero commission broker international investors"
   - "commission free trading non-US residents"
   - "XTB zero commission"
-heroImage: "/images/blog/best-brokers/best-zero-commission-brokers.webp"
+heroImage: "/images/blog/best-brokers/best-zero-commission-brokers-international-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

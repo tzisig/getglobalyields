@@ -11,7 +11,7 @@ tags:
   - "IBKR vs Schwab vs Fidelity"
   - "Fidelity international investors"
   - "Charles Schwab International"
-heroImage: "/images/blog/best-brokers/ibkr-vs-schwab-vs-fidelity.webp"
+heroImage: "/images/blog/best-brokers/ibkr-vs-schwab-vs-fidelity-international-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true
