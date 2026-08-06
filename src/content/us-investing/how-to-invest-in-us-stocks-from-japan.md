@@ -77,6 +77,8 @@ NISA (Nippon Individual Savings Account) exempts dividends and capital gains rea
 
 **Access has also been a platform issue.** Most NISA-offering platforms have traditionally been Japanese-language-only. Interactive Brokers Securities Japan now offers NISA accounts through an English-language interface, which has made the account meaningfully more accessible to non-Japanese-fluent residents than it previously was.
 
+**A prioritization question worth thinking through deliberately:** given the ¥18 million lifetime cap, an investor building a substantial long-term US equity position faces a genuine choice about which specific holdings to prioritize for the limited NISA space - since NISA's tax-free treatment is most valuable for holdings expected to generate the largest cumulative gains and dividends over time, prioritizing higher-growth-expectation positions for the NISA allocation (rather than filling it on a first-come, first-invested basis) can meaningfully affect how much total tax benefit the account ultimately delivers over a multi-decade investing career.
+
 ---
 
 ## Step 4: Outside NISA - Japan's Flat 20.315% Rate

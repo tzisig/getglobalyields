@@ -85,6 +85,8 @@ For dividends and interest sourced abroad, Morocco applies a flat **15%** rate -
 
 **The obligation shifts to Yassine:** foreign-source dividend and interest income must be declared on his annual Moroccan income tax return, with the 15% computed and paid based on that declaration - an active self-reporting requirement, not a passive one.
 
+**Why this self-declaration model creates real, practical risk beyond just remembering to file:** unlike a domestic Casablanca-listed dividend, where the paying institution handles withholding and reporting automatically, a foreign dividend arriving in full, with nothing withheld, can feel to an inexperienced investor like it's simply "his money" with no further obligation attached - a genuinely easy mistake to make precisely because nothing on the statement itself signals that a Moroccan tax liability exists. Building a habit of treating every foreign dividend as provisionally 15% Morocco's from the moment it arrives - setting that portion aside mentally or literally - avoids the unpleasant surprise of a larger-than-expected bill at annual filing time.
+
 ---
 
 ## Step 5: A Note on Moving Money Abroad

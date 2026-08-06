@@ -82,6 +82,8 @@ Malaysia moved from a purely territorial system (foreign income never taxed) to 
 
 **What this means concretely:** US dividends withheld at 15% under the treaty, once remitted to Malaysia and properly documented, have a strong basis to be treated as exempt from further Malaysian tax. The same logic extends to capital gains from selling US stocks, following the Budget 2026 extension.
 
+**Why "remitted" is the operative word, not "earned":** Malaysia's system taxes foreign-source income based on when it's brought into the country, not when it's earned abroad - meaning an investor who leaves dividends and sale proceeds sitting in their US brokerage account indefinitely, never transferring the funds into Malaysia, arguably hasn't triggered the remittance-based framework at all in the same way as someone who transfers funds regularly. This isn't a suggestion to avoid remitting funds specifically to dodge tax exposure - given the FSI exemption already covers properly documented, treaty-withheld income at no additional cost - but it's worth understanding the remittance-based mechanic itself, since it's a genuinely different system from the worldwide-income-as-earned approach used by many other countries covered throughout this site.
+
 ---
 
 ## Step 4: The W-8BEN Form

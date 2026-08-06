@@ -51,6 +51,8 @@ Bangladesh Bank permits resident individuals to remit up to approximately **USD 
 
 **In practice:** USD 12,000/year is enough to open and meaningfully fund a starter position with a broker like Interactive Brokers for most individual investors, even if it is not unlimited.
 
+**What this means for portfolio-building pace specifically:** unlike an investor in a country with no remittance restriction who might fund a large position in a single transfer, a Bangladeshi investor building toward a substantial US equity position is working within a structural annual ceiling - meaning portfolio growth toward a meaningful size happens gradually, year by year, through the quota, rather than through occasional large lump-sum contributions. This isn't a disadvantage in terms of investment outcomes (the [dollar-cost averaging](/strategies/dollar-cost-averaging-tqqq/) approach this pattern naturally creates has its own genuine merits, covered elsewhere on this site), but it's worth planning around explicitly as a structural feature of investing from Bangladesh specifically, rather than assuming the same funding flexibility investors in unrestricted countries have.
+
 For the full picture, see our [US-Bangladesh tax treaty guide](/taxes/us-bangladesh-tax-treaty-investors/).
 
 ---

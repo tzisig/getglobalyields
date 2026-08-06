@@ -75,6 +75,8 @@ Turkish tax residents are taxed on worldwide income, including foreign dividends
 
 **The practical complication:** given Turkey's history of significant currency volatility against the US dollar, tracking both the USD-denominated gain or dividend and its TRY-equivalent value at the relevant dates matters more here than in most countries in this series. Exchange rate mechanics can materially affect the calculated Turkish tax base independent of the underlying dollar performance of Emre's holdings - confirm the correct conversion methodology with a Turkish tax advisor (mali müşavir).
 
+**A worked illustration of why this matters:** suppose Emre buys $5,000 of VOO at a specific TRY/USD rate, then sells it a year later for $5,500 - a genuine 10% USD gain. If the lira has weakened significantly against the dollar over that same year, the TRY-equivalent value of both the purchase and sale amounts could show a considerably larger gain when converted at each respective transaction date, since the currency movement compounds with the underlying USD gain rather than canceling out. The reverse is also possible if the lira strengthens over the holding period. This is the same currency-decomposition principle covered in more general terms in our [currency risk vs market risk guide](/currency-banking/currency-risk-vs-market-risk-international-investors/) - for a Turkish investor specifically, the stakes of getting this calculation right (or wrong) are higher than for an investor in a country with a more stable currency relative to the dollar.
+
 ---
 
 ## Step 4: The W-8BEN Form

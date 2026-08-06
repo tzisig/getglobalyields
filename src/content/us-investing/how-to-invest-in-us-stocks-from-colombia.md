@@ -74,6 +74,8 @@ Colombian tax residents are taxed on worldwide income, including dividends and c
 
 **The gap is large.** An investor in the top bracket realizing a short-term gain can pay up to 39% on it, while the identical gain realized just past the two-year mark is taxed at 15%. This makes tracking the exact acquisition date of each lot genuinely worth the discipline, rather than treating it as an approximation.
 
+**A worked illustration of the stakes:** Camila buys $10,000 of VOO and, 22 months later, it's worth $13,000 - a $3,000 gain. If she sells at that point (two months short of the two-year mark) and is in Colombia's top bracket, she could owe up to $1,170 in Colombian tax on that gain (39% ordinary rate). If she instead waits two more months to cross the two-year threshold, the same $3,000 gain is taxed at the flat 15% ganancia ocasional rate - $450. That's a $720 difference on the exact same dollar amount of gain, driven entirely by a two-month timing decision. This is precisely why per-lot acquisition-date tracking matters more in Colombia than in almost any other country covered in this series - the financial stakes of getting the date wrong, or selling impatiently, are unusually concrete and calculable.
+
 **Foreign dividends** - including US dividends - are taxed at Colombia's ordinary progressive rates (0%-39%), the same schedule that applies to short-term gains. There is no preferential rate for dividend income analogous to the ganancia ocasional treatment available for long-held capital gains.
 
 ---

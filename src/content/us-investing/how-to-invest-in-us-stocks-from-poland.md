@@ -90,6 +90,8 @@ Because the treaty rate (15%) sits below Poland's Belka rate (19%), the credit a
 
 **Capital gains work similarly:** since the US generally does not tax capital gains for non-resident aliens, Kasia's US stock gains face only the 19% Belka tax, with no US withholding to credit against in the first place.
 
+**Why the no-allowance structure matters more the longer Kasia invests:** in countries offering an annual tax-free allowance (Germany's Sparerpauschbetrag is the clearest comparison among this site's European guides), a modest, steadily growing portfolio can generate several years of effectively tax-free investment income before crossing the threshold. Poland's flat, allowance-free 19% Belka tax means every dividend and every realized gain is taxed from the very first złoty, regardless of portfolio size - a structurally different starting position that makes the treaty rate optimization (filing W-8BEN correctly) proportionally more important in Poland, since there's no allowance cushion to fall back on if the treaty rate claim is missed.
+
 ---
 
 ## Step 4: Filing - PIT-38, Not Automatic

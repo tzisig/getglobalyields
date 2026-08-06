@@ -81,6 +81,8 @@ For a Korean tax resident, capital gains on foreign stocks - US shares included 
 
 **A 2026 incentive worth knowing about:** Korea introduced a temporary measure for 2026 allowing individual investors who sell overseas stocks held as of a specified late-2025 reference date, repatriate the proceeds, and invest in domestic Korean equities for at least one year to access an exemption of up to **KRW 50 million** - well above the standard KRW 2.5 million. This is a policy-driven, time-limited measure - confirm current eligibility, reference dates, and conditions with a Korean tax advisor or the National Tax Service before assuming it applies to a specific sale.
 
+**Why a measure like this exists at all:** Korean tax policy has periodically used incentives like this to encourage capital that flowed overseas (into US stocks, often via the same brokers covered in this guide) to redirect back into the domestic Korean market - a policy goal distinct from any change in the underlying tax treatment of holding US stocks generally. This kind of incentive tends to be genuinely temporary and tied to specific conditions (holding dates, repatriation, minimum domestic holding periods) rather than a permanent expansion of the exemption, which is exactly why confirming current terms directly rather than assuming a prior year's rules still apply is worth the extra step before relying on it for a specific, large sale.
+
 ---
 
 ## Step 4: The W-8BEN Form

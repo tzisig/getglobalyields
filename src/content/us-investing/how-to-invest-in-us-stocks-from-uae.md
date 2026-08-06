@@ -51,6 +51,8 @@ Karim is 34, lives in Dubai, and works in logistics. He has AED 100,000 (about $
 
 **The honest comparison:** Karim nets a worse outcome than a 15%-treaty investor on dividends specifically (70% net vs. 85% net on the same gross payment). But he often nets a comparable or better overall outcome than investors in many treaty countries, since most of those countries still tax the dividend again at the resident's marginal rate on top of the reduced US withholding. The UAE's zero domestic layer does real work here even though the treaty side is the least favorable in this series.
 
+**A separate consideration worth flagging: US estate tax.** The UAE, like Saudi Arabia, doesn't appear on the short list of countries with a US estate tax treaty, covered in our [estate tax treaty countries guide](/estate-planning/us-estate-tax-treaty-countries/) - meaning Karim's US-situs holdings would face the standard $60,000 non-resident alien exemption in full, without any treaty-based relief, once his portfolio grows large enough for this to become relevant. This is entirely separate from the income-tax picture covered above, and worth understanding as his position grows over time, given the mitigation approaches covered throughout our [estate-planning category](/estate-planning/).
+
 For the full mechanics, including how FATCA/CRS reporting interacts with citizenship (relevant for the UAE's large expat population), see our [US-UAE tax treaty guide](/taxes/us-uae-tax-treaty-investors/).
 
 ---

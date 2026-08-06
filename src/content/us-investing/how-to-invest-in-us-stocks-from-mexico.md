@@ -79,6 +79,8 @@ This is the detail most likely to cost a Mexican investor real money if assumed 
 
 **No automatic withholding with a foreign broker.** Unlike a Mexican resident intermediary, which handles withholding and reporting automatically, Interactive Brokers and similar foreign brokers do not withhold Mexican tax or report to Mexico's tax authority (SAT) on Valentina's behalf. She is responsible for calculating the gain, converting to pesos at the appropriate exchange rate, and declaring and paying the tax directly.
 
+**A worked comparison of the actual cost gap:** on a MXN 200,000 gain, the BMV's preferential 10% rate would produce a MXN 20,000 tax bill. The same gain on a US stock, taxed as ordinary income and landing partly or fully in Mexico's higher progressive brackets, could produce a tax bill several times larger depending on Valentina's total income for the year - a genuinely material difference in after-tax return between two investments that, from a pure market-exposure standpoint, might look similarly attractive. This gap is exactly why understanding this distinction before investing, not after the first large gain, matters so much specifically for BMV-experienced Mexican investors moving into US markets.
+
 ---
 
 ## Step 4: Dividends - 10% US, Then Mexican Tax on Top

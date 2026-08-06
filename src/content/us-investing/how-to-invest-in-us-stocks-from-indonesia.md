@@ -74,6 +74,8 @@ Indonesian tax residents are taxed on worldwide income, which includes both divi
 
 **The mistake to avoid:** Indonesia's domestic capital gains treatment for shares traded on the IDX is not the same as how foreign-source capital gains from a US brokerage account are assessed for individuals. Don't assume the IDX rate or mechanism extends to US holdings - confirm the current treatment for foreign-source investment income with a tax advisor before assuming either a favorable or unfavorable outcome.
 
+**Why the IDX comparison is so tempting, and so misleading:** Indonesia's IDX-listed shares are typically taxed through a final withholding mechanism applied at the point of sale on the domestic exchange - a clean, automatic process most Indonesian retail investors are used to and never have to think about separately. A US brokerage account offers no equivalent automatic domestic withholding on the capital gains side, since the gain isn't happening on an Indonesian exchange at all - it's foreign-source income that needs to be actively reported as part of Dewi's worldwide income filing, a fundamentally different compliance posture than the "it's already handled" experience IDX investing provides.
+
 ---
 
 ## Step 4: The W-8BEN Form

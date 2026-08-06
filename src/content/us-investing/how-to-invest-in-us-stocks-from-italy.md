@@ -78,6 +78,8 @@ Quadro RW reporting feeds into **IVAFE**, a wealth-tax-style annual levy on the 
 
 **What this means concretely:** Giulia's €25,000 account generates an IVAFE liability of roughly €50/year at the 0.2% rate - a real, recurring cost on top of the income tax below, assessed purely on the account's value regardless of whether it gained or lost money.
 
+**A note on CSPX and VWCE specifically, since Giulia holds both:** these are accumulating share classes, meaning the underlying dividend income is reinvested within the fund rather than distributed as cash - covered in more general terms in our [accumulating vs distributing ETFs guide](/index-funds/accumulating-vs-distributing-etfs/). Italy's specific tax treatment of accumulating fund income (whether it's taxed only upon eventual sale, or whether some interim taxation applies) is a detail worth confirming directly with a commercialista, since the interaction between Italy's imposta sostitutiva framework and non-Italian accumulating UCITS funds isn't always as straightforward as the flat-26%-on-realized-gains description above might suggest for a fund that doesn't distribute cash along the way.
+
 ---
 
 ## Step 4: Dividends and Capital Gains - A Flat 26%

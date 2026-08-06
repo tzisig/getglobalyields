@@ -81,6 +81,8 @@ Thai tax residents (broadly, anyone present in Thailand more than 180 days a yea
 
 **Documentation matters more here than in most countries.** Because the rule turns on when money crosses into Thailand and what income it represents, clear records - brokerage statements showing when gains and dividends were realized, and bank records showing when and how much was remitted - are essential to calculating what is actually taxable in a given year.
 
+**This also creates a genuine, deliberate planning opportunity that doesn't exist in most countries covered on this site.** An investor with a large capital gain who plans a lower-income year in the future (a career break, retirement, or similar) could reasonably time a remittance to that specific year, when Thailand's progressive tax rates would apply a lower marginal rate to the remitted amount than they would in a peak-earning year. This is a legitimate use of the timing rule as written, not an aggressive interpretation - though it requires genuine planning discipline and accurate record-keeping to execute correctly, and shouldn't be attempted without confirming the specifics with a Thai tax advisor given how consequential getting the calculation wrong could be.
+
 ---
 
 ## Step 4: The W-8BEN Form

@@ -51,6 +51,8 @@ Ordinary US tax treaties are negotiated government-to-government and ratified by
 
 **As of this update, H.R. 33 has not been enacted into law.** It cleared the House with overwhelming support but has not completed the remaining legislative steps needed to take effect, and there is no guaranteed timeline. If other sources describe different rates, check the date - this is a live legislative situation, and the correct current answer is that the 30% default still applies.
 
+**What the gap actually costs in practice:** on a $3,000 annual US dividend income stream, the difference between the current 30% default and H.R. 33's proposed 15% rate is $450 a year - a meaningful, ongoing cost for as long as the legislation remains pending, not a one-time or trivial amount. This is worth keeping in perspective when deciding how much to invest in individual dividend-paying US stocks versus lower-yielding growth-oriented positions while the current 30% rate remains in effect, since the withholding drag is proportional to dividend income specifically, not to capital appreciation.
+
 For the full picture, see our [US-Taiwan tax treaty guide](/taxes/us-taiwan-tax-treaty-investors/).
 
 ---

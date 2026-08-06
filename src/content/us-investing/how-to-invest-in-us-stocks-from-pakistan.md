@@ -53,6 +53,8 @@ Pakistan's foreign exchange regime operates under the Foreign Exchange Regulatio
 
 **What could not be confirmed with certainty here:** a specific, current annual limit for a Pakistani resident to remit funds abroad specifically for opening or funding a foreign securities account through fully authorized channels. Given how consequential getting this wrong can be under FERA, **this is not something to guess at** - confirm the current, permitted route and any limit directly with an SBP-authorized dealer bank or a Pakistani foreign-exchange lawyer before transferring any meaningful amount.
 
+**Bilal's specific situation - being paid partly in USD by a US-based client - raises its own separate question worth flagging.** Foreign-currency earnings received directly from abroad (rather than converted through the domestic banking system first) may follow different declaration and retention rules than funds an investor would otherwise need to actively remit from a Pakistani bank account - a genuinely different starting point than the "convert PKR and send it abroad" scenario most of this guide addresses. Whether USD income already held offshore, or received into a Pakistani foreign-currency account, can be more straightforwardly directed toward a foreign brokerage account than domestically-sourced PKR savings is exactly the kind of fact-specific question worth raising directly with an SBP-authorized dealer, since it could meaningfully simplify Bilal's specific funding path relative to a resident earning entirely in PKR.
+
 For the full picture, see our [US-Pakistan tax treaty guide](/taxes/us-pakistan-tax-treaty-investors/).
 
 ---

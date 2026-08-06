@@ -77,6 +77,8 @@ For the full mechanics, see our [US-Philippines tax treaty guide](/taxes/us-phil
 
 **The line that actually matters:** Ana's favorable outcome depends on correctly maintaining non-resident-citizen (OFW) status under BIR criteria - not simply on holding an OFW-designated visa or working abroad informally. If her status is ambiguous, or she splits significant time between the Philippines and her country of work, she should confirm her actual classification with a Philippine tax professional before assuming this treatment applies.
 
+**A worked comparison of the two outcomes on the same $2,000 dividend:** for Ana as an OFW, the entire tax cost is the $500 US withholding (25%) - nothing further. For a Philippine-resident investor with the identical $2,000 dividend, the same $500 US withholding applies first, and then the gross $2,000 also enters their Philippine progressive-rate calculation, with the $500 already paid creditable against whatever Philippine liability results - potentially leaving a meaningful additional Philippine tax bill on top, depending on the resident's overall income bracket for the year. This is precisely why residency classification, not the treaty rate itself, is the single most consequential fact in this guide.
+
 ---
 
 ## Step 4: The W-8BEN Form
