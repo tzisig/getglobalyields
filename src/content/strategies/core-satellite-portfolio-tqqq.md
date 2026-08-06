@@ -1,9 +1,9 @@
 ---
 slug: core-satellite-portfolio-tqqq
 title: "Core-Satellite Portfolio Construction With TQQQ as the Satellite"
-description: "Core-satellite structures pair a large, stable, broadly diversified core holding with smaller, more targeted satellite positions. Using TQQQ specifically as a satellite - not the core - is a genuinely different risk profile from making it the whole portfolio."
+description: "Core-satellite structures pair a large, stable, broadly diversified core holding with smaller, more targeted satellite positions. Using TQQQ specifically as a satellite - not the core - is a genuinely different risk profile from making it the whole portfolio, with international-investor-specific considerations for the core allocation."
 pubDate: 2026-08-31
-updatedDate: 2026-08-05
+updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Strategies"]
 keywords: "core satellite portfolio TQQQ, TQQQ satellite allocation, core satellite investing strategy leveraged ETF"
@@ -15,7 +15,7 @@ heroImage: "/images/blog/strategies/core-satellite-portfolio-tqqq.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true
-readingTime: "9 min read"
+readingTime: "11 min read"
 featured: false
 ---
 
@@ -39,6 +39,14 @@ Core-satellite portfolio construction is a widely used structure in traditional 
 
 ---
 
+## Choosing the Core: A Genuine Decision, Not an Afterthought
+
+**The core deserves as much deliberate thought as the TQQQ satellite itself, not simply "whatever broad fund is convenient."** For international investors specifically, this connects directly to the [3-fund portfolio guide](/index-funds/building-3-fund-portfolio-international-investor/) and the broader question of how much of your equity core should be US-focused versus internationally diversified, given your own home-country economic exposure. A core built from VTI or VOO, a core built with meaningful VXUS international diversification, and a core weighted toward your own home-region markets are three genuinely different foundations, each interacting differently with a TQQQ satellite layered on top.
+
+**For EU/UK investors specifically**, the core needs to be built from UCITS-compliant equivalents given the PRIIPs restriction covered throughout this site, while the TQQQ satellite itself faces its own separate availability considerations for leveraged products in those jurisdictions - worth confirming both pieces are actually accessible on your specific broker's platform before finalizing the structure.
+
+---
+
 ## A Worked Structure
 
 **Core (70-85% of portfolio):** a broad, low-cost total market or global equity index fund, providing genuine diversification across sectors, geographies, and company sizes.
@@ -59,9 +67,32 @@ Core-satellite portfolio construction is a widely used structure in traditional 
 
 ---
 
+## Rebalancing Between Core and Satellite
+
+**Because TQQQ's volatility is so much higher than a diversified core's, the satellite's percentage of the overall portfolio can drift meaningfully within weeks during a strong rally or sharp decline** - far faster than the core-satellite split would drift in a structure using an unleveraged satellite instead. This makes an explicit rebalancing rule genuinely important, not optional: without one, a strong TQQQ rally can quietly turn a disciplined 10% satellite into a 25%+ position within a relatively short period, fundamentally changing the portfolio's risk profile without any deliberate decision having been made to allow that shift.
+
+---
+
+## Frequently Asked Questions
+
+**How often should the core-satellite split actually be rebalanced?**
+There's no universal answer, but given TQQQ's volatility, checking and rebalancing more frequently than an annual schedule (which might suit a purely unleveraged portfolio) is generally warranted - some investors use a threshold-based approach (rebalance whenever the satellite drifts more than a set number of percentage points from target) rather than a fixed calendar schedule, to react to TQQQ's faster-moving allocation drift specifically.
+
+**Can I run multiple leveraged satellites simultaneously, rather than just TQQQ?**
+Yes, in principle - some investors run several smaller satellites (a leveraged Nasdaq-100 position alongside a leveraged sector-specific position, for instance, covered in our [sector rotation guide](/strategies/sector-rotation-leveraged-etf-investors/)), though this requires being honest about total satellite exposure across all of them combined, not evaluating each satellite's sizing in isolation.
+
+**Does the core-satellite structure change how I should think about tax-loss harvesting, covered elsewhere on this site?**
+Not fundamentally - the [tax-loss harvesting guide](/strategies/tax-loss-harvesting-tqqq-qqq/) covers swap mechanics that apply the same way whether TQQQ is your entire portfolio or a defined satellite within a larger structure; the core-satellite framing doesn't change the underlying tax mechanics, just the position sizing context they're applied within.
+
+**Is core-satellite construction meaningfully different from the barbell approach for an investor deciding between the two?**
+Yes, in the core's composition specifically - a barbell pairs TQQQ with genuinely safe, low-volatility bonds, while core-satellite pairs it with a diversified but still equity-risk-bearing core; a barbell prioritizes capping catastrophic loss more aggressively, while core-satellite allows the core itself to still experience meaningful equity-market volatility, just without leverage or single-index concentration. Choosing between them depends on how much equity-market risk you want the "safe" portion of your portfolio to carry at all.
+
+---
+
 ## Practical Checklist
 
 - [ ] Choose a genuinely diversified core - not another Nasdaq-100 or tech-heavy fund, which would undermine the diversification benefit this structure is meant to provide
+- [ ] For international investors, deliberately decide how much home-country versus US-focused exposure the core itself should carry, rather than defaulting to a US-only core without considering the alternative
 - [ ] Size the TQQQ satellite at a percentage you would be comfortable seeing reduced to a small fraction of its value, since this is a realistic historical scenario for TQQQ over a full market cycle
 - [ ] Set explicit rebalancing rules for the satellite, given how much faster TQQQ's allocation percentage can drift from target compared to the core
 - [ ] Resist the temptation to let a strongly performing TQQQ satellite grow into an effective core position through inaction - rebalancing discipline is what keeps the structure's risk profile intact
@@ -79,5 +110,5 @@ Positioning TQQQ as a deliberately sized satellite around a genuinely diversifie
 ## Related Guides
 
 - [Building a Barbell Portfolio: TQQQ Core Plus Bond Ballast](/strategies/barbell-portfolio-tqqq-core-bond-ballast/)
-- [Why TQQQ and QQQ Aren't Truly Diversified From Each Other](/strategies/why-tqqq-qqq-not-diversified/)
+- [Building a 3-Fund Portfolio as an International Investor](/index-funds/building-3-fund-portfolio-international-investor/)
 - [Risk Management for Leveraged ETF Investors](/strategies/risk-management-leveraged-etf-investors-2026/)
