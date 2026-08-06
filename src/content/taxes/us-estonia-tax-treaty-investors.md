@@ -13,7 +13,7 @@ tags:
   - "interactive brokers estonia"
   - "etoro estonia"
   - "investeerimiskonto us stocks"
-heroImage: "/images/blog/taxes/us-estonia-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-estonia-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: false

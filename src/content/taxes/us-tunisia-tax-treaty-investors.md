@@ -13,7 +13,7 @@ tags:
   - "interactive brokers tunisia"
   - "etoro tunisia"
   - "tunisia bct foreign currency account"
-heroImage: "/images/blog/taxes/us-tunisia-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-tunisia-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

@@ -18,7 +18,7 @@ tags:
   - "withholding tax dividends"
   - "PFIC rules Germany"
   - "FBAR Germany"
-heroImage: "/images/blog/taxes/us-germany-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-germany-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: false

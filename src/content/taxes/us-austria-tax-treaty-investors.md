@@ -16,7 +16,7 @@ tags:
   - "US stocks from Austria"
   - "Pensionskasse US dividends"
   - "REIT Austria withholding"
-heroImage: "/images/blog/taxes/us-austria-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-austria-tax-treaty-investors.webp"
 draft: false
 readingTime: "14 min read"
 featured: false

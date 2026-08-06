@@ -13,7 +13,7 @@ tags:
   - "interactive brokers iraq"
   - "etoro iraq"
   - "iraqi dinar dollar auction"
-heroImage: "/images/blog/taxes/us-iraq-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-iraq-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

@@ -13,7 +13,7 @@ tags:
   - "interactive brokers costa rica"
   - "etoro costa rica"
   - "costa rica colon exchange rate"
-heroImage: "/images/blog/taxes/us-costa-rica-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-costa-rica-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

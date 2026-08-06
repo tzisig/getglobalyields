@@ -14,7 +14,7 @@ tags:
   - "ugandan investor US stocks"
   - "W-8BEN Uganda"
   - "withholding tax dividends"
-heroImage: "/images/blog/taxes/us-uganda-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-uganda-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: false

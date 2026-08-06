@@ -13,7 +13,7 @@ tags:
   - "interactive brokers switzerland"
   - "etoro switzerland"
   - "swiss wealth tax"
-heroImage: "/images/blog/taxes/us-switzerland-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-switzerland-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

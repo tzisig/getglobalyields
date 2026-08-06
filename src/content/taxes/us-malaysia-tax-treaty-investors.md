@@ -13,7 +13,7 @@ tags:
   - "ibkr malaysia"
   - "etoro malaysia"
   - "w-8ben malaysia"
-heroImage: "/images/blog/taxes/us-malaysia-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-malaysia-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

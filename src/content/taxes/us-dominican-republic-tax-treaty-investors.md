@@ -13,7 +13,7 @@ tags:
   - "interactive brokers dominican republic"
   - "etoro dominican republic"
   - "dominican republic 3 year exemption"
-heroImage: "/images/blog/taxes/us-dominican-republic-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-dominican-republic-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

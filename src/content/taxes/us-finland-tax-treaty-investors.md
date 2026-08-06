@@ -13,7 +13,7 @@ tags:
   - "interactive brokers finland"
   - "etoro finland"
   - "paaomatulovero"
-heroImage: "/images/blog/taxes/us-finland-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-finland-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: false

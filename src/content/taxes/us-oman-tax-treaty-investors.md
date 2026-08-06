@@ -13,7 +13,7 @@ tags:
   - "interactive brokers oman"
   - "etoro oman"
   - "oman personal income tax 2028"
-heroImage: "/images/blog/taxes/us-oman-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-oman-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

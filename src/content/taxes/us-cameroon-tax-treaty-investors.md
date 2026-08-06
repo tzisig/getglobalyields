@@ -13,7 +13,7 @@ tags:
   - "interactive brokers cameroon"
   - "etoro cameroon"
   - "cameroon cfa franc euro peg"
-heroImage: "/images/blog/taxes/us-cameroon-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-cameroon-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: false

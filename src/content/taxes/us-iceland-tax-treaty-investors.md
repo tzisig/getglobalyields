@@ -13,7 +13,7 @@ tags:
   - "interactive brokers iceland"
   - "etoro iceland"
   - "fjarmagnstekjuskattur"
-heroImage: "/images/blog/taxes/us-iceland-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-iceland-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

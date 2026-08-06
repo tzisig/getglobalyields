@@ -13,7 +13,7 @@ tags:
   - "interactive brokers zambia"
   - "etoro zambia"
   - "zambia kwacha exchange rate"
-heroImage: "/images/blog/taxes/us-zambia-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-zambia-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

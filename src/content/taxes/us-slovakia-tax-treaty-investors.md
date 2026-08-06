@@ -13,7 +13,7 @@ tags:
   - "interactive brokers slovakia"
   - "etoro slovakia"
   - "slovakia 1 year exemption"
-heroImage: "/images/blog/taxes/us-slovakia-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-slovakia-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

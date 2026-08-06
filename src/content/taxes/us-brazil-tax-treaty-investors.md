@@ -13,7 +13,7 @@ tags:
   - "w-8ben brazil"
   - "iof tax us stocks brazil"
   - "ibkr brazil"
-heroImage: "/images/blog/taxes/us-brazil-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-brazil-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

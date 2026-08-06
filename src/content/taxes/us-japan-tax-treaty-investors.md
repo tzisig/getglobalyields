@@ -13,7 +13,7 @@ tags:
   - "w-8ben japan"
   - "nisa us stocks"
   - "japan capital gains us stocks"
-heroImage: "/images/blog/taxes/us-japan-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-japan-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

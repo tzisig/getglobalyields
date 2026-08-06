@@ -13,7 +13,7 @@ tags:
   - "ibkr south africa"
   - "etoro south africa"
   - "w-8ben south africa"
-heroImage: "/images/blog/taxes/us-south-africa-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-south-africa-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

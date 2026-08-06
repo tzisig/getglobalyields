@@ -13,7 +13,7 @@ tags:
   - "us uae tax treaty"
   - "etoro uae"
   - "w-8ben uae"
-heroImage: "/images/blog/taxes/us-uae-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-uae-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

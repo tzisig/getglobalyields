@@ -13,7 +13,7 @@ tags:
   - "interactive brokers serbia"
   - "etoro serbia"
   - "serbia 10 year exemption"
-heroImage: "/images/blog/taxes/us-serbia-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-serbia-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

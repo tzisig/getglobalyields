@@ -13,7 +13,7 @@ tags:
   - "interactive brokers hungary"
   - "etoro hungary"
   - "hungary tax treaty terminated"
-heroImage: "/images/blog/taxes/us-hungary-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-hungary-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

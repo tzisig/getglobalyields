@@ -13,7 +13,7 @@ tags:
   - "interactive brokers latvia"
   - "etoro latvia"
   - "w-8ben latvia"
-heroImage: "/images/blog/taxes/us-latvia-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-latvia-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

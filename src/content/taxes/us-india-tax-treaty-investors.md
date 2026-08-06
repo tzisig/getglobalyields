@@ -14,7 +14,7 @@ tags:
   - "w-8ben india"
   - "lrs limit us stocks"
   - "india capital gains us stocks"
-heroImage: "/images/blog/taxes/us-india-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-india-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: false

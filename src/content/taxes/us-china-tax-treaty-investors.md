@@ -15,7 +15,7 @@ tags:
   - "Hong Kong US tax treaty"
   - "foreign tax credit China"
   - "QDII US stocks PFIC"
-heroImage: "/images/blog/taxes/us-china-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-china-tax-treaty-investors.webp"
 draft: false
 readingTime: "16 min read"
 featured: true

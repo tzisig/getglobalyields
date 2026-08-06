@@ -13,7 +13,7 @@ tags:
   - "us singapore tax treaty"
   - "w-8ben singapore"
   - "srs us stocks singapore"
-heroImage: "/images/blog/taxes/us-singapore-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-singapore-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

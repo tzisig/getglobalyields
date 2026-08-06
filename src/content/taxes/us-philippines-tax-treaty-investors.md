@@ -13,7 +13,7 @@ tags:
   - "ibkr philippines"
   - "etoro philippines"
   - "ofw invest us stocks"
-heroImage: "/images/blog/taxes/us-philippines-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-philippines-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

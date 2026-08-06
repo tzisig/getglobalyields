@@ -13,7 +13,7 @@ tags:
   - "interactive brokers poland"
   - "etoro poland"
   - "w-8ben poland"
-heroImage: "/images/blog/taxes/us-poland-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-poland-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

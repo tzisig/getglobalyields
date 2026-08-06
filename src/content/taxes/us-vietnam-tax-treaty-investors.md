@@ -13,7 +13,7 @@ tags:
   - "ibkr vietnam"
   - "etoro vietnam"
   - "w-8ben vietnam"
-heroImage: "/images/blog/taxes/us-vietnam-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-vietnam-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

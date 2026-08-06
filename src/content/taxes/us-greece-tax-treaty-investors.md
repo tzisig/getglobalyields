@@ -13,7 +13,7 @@ tags:
   - "interactive brokers greece"
   - "etoro greece"
   - "w-8ben greece"
-heroImage: "/images/blog/taxes/us-greece-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-greece-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

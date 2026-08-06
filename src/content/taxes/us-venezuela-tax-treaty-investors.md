@@ -13,7 +13,7 @@ tags:
   - "interactive brokers venezuela"
   - "etoro venezuela"
   - "venezuela ofac sanctions"
-heroImage: "/images/blog/taxes/us-venezuela-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-venezuela-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

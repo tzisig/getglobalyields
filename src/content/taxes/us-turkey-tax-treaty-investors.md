@@ -13,7 +13,7 @@ tags:
   - "interactive brokers turkey"
   - "etoro turkey"
   - "w-8ben turkey"
-heroImage: "/images/blog/taxes/us-turkey-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-turkey-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

@@ -13,7 +13,7 @@ tags:
   - "ibkr south korea"
   - "etoro korea"
   - "w-8ben south korea"
-heroImage: "/images/blog/taxes/us-south-korea-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-south-korea-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

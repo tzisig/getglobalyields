@@ -13,7 +13,7 @@ tags:
   - "interactive brokers ireland"
   - "etoro ireland"
   - "exit tax ireland us etf"
-heroImage: "/images/blog/taxes/us-ireland-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-ireland-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

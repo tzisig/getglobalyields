@@ -13,7 +13,7 @@ tags:
   - "interactive brokers italy"
   - "etoro italy"
   - "ivafe italy"
-heroImage: "/images/blog/taxes/us-italy-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-italy-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

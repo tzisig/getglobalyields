@@ -13,7 +13,7 @@ tags:
   - "ibkr mexico"
   - "etoro mexico"
   - "w-8ben mexico"
-heroImage: "/images/blog/taxes/us-mexico-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-mexico-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

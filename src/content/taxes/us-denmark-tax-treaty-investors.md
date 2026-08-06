@@ -15,7 +15,7 @@ tags:
   - "foreign tax credit Denmark"
   - "aktieindkomst US dividends"
   - "Denmark pension fund withholding"
-heroImage: "/images/blog/taxes/us-denmark-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-denmark-tax-treaty-investors.webp"
 draft: false
 readingTime: "15 min read"
 featured: false

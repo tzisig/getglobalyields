@@ -13,7 +13,7 @@ tags:
   - "interactive brokers zimbabwe"
   - "etoro zimbabwe"
   - "zimbabwe zig currency"
-heroImage: "/images/blog/taxes/us-zimbabwe-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-zimbabwe-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

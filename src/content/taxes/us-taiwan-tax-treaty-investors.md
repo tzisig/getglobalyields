@@ -13,7 +13,7 @@ tags:
   - "interactive brokers taiwan"
   - "etoro taiwan"
   - "w-8ben taiwan"
-heroImage: "/images/blog/taxes/us-taiwan-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-taiwan-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

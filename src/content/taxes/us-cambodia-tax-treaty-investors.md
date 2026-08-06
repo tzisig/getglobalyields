@@ -13,7 +13,7 @@ tags:
   - "interactive brokers cambodia"
   - "etoro cambodia"
   - "cambodia dollarization"
-heroImage: "/images/blog/taxes/us-cambodia-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-cambodia-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

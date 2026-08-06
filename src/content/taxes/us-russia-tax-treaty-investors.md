@@ -12,7 +12,7 @@ tags:
   - "russia investor us stocks"
   - "us brokers russia sanctions"
   - "w-8ben russia"
-heroImage: "/images/blog/taxes/us-russia-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-russia-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: false

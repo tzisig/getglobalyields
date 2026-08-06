@@ -13,7 +13,7 @@ tags:
   - "interactive brokers france"
   - "etoro france"
   - "pea us stocks france"
-heroImage: "/images/blog/taxes/us-france-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-france-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

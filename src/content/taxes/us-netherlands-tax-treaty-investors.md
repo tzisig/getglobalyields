@@ -13,7 +13,7 @@ tags:
   - "interactive brokers netherlands"
   - "etoro netherlands"
   - "box 3 us stocks netherlands"
-heroImage: "/images/blog/taxes/us-netherlands-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-netherlands-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

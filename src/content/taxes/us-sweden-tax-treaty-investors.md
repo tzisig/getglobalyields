@@ -13,7 +13,7 @@ tags:
   - "ibkr sweden"
   - "etoro sweden"
   - "isk sweden us stocks"
-heroImage: "/images/blog/taxes/us-sweden-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-sweden-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

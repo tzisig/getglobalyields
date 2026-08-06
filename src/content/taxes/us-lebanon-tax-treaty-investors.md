@@ -13,7 +13,7 @@ tags:
   - "interactive brokers lebanon"
   - "etoro lebanon"
   - "lebanon banking crisis"
-heroImage: "/images/blog/taxes/us-lebanon-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-lebanon-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

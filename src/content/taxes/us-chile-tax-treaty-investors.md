@@ -13,7 +13,7 @@ tags:
   - "ibkr chile"
   - "etoro chile"
   - "w-8ben chile"
-heroImage: "/images/blog/taxes/us-chile-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-chile-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

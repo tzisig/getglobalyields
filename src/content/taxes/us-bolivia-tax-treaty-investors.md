@@ -13,7 +13,7 @@ tags:
   - "interactive brokers bolivia"
   - "etoro bolivia"
   - "bolivia boliviano devaluation"
-heroImage: "/images/blog/taxes/us-bolivia-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-bolivia-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

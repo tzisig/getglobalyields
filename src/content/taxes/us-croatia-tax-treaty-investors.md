@@ -13,7 +13,7 @@ tags:
   - "interactive brokers croatia"
   - "etoro croatia"
   - "w-8ben croatia"
-heroImage: "/images/blog/taxes/us-croatia-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-croatia-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

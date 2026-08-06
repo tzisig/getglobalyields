@@ -13,7 +13,7 @@ tags:
   - "interactive brokers ghana"
   - "etoro ghana"
   - "w-8ben ghana"
-heroImage: "/images/blog/taxes/us-ghana-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-ghana-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

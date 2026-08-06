@@ -13,7 +13,7 @@ tags:
   - "interactive brokers ethiopia"
   - "etoro ethiopia"
   - "ethiopia birr float"
-heroImage: "/images/blog/taxes/us-ethiopia-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-ethiopia-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

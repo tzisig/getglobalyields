@@ -11,7 +11,7 @@ tags:
   - "crypto ETF tax foreign investors"
   - "spot Bitcoin ETF grantor trust"
   - "IBIT tax nonresident alien"
-heroImage: "/images/blog/taxes/crypto-etf-tax-treatment.webp"
+heroImage: "/images/blog/taxes/crypto-etf-tax-treatment-international-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

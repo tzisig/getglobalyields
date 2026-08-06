@@ -13,7 +13,7 @@ tags:
   - "interactive brokers cyprus"
   - "etoro cyprus"
   - "cyprus non-dom"
-heroImage: "/images/blog/taxes/us-cyprus-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-cyprus-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

@@ -12,7 +12,7 @@ tags:
   - "w-8ben-e entity form"
   - "w-8ben-e trust"
   - "fatca chapter 4 status"
-heroImage: "/images/blog/taxes/w8ben-vs-w8ben-e.webp"
+heroImage: "/images/blog/taxes/w8ben-vs-w8ben-e-which-form-do-you-need.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

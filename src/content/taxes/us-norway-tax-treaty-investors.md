@@ -13,7 +13,7 @@ tags:
   - "interactive brokers norway"
   - "etoro norway"
   - "aksjesparekonto us stocks"
-heroImage: "/images/blog/taxes/us-norway-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-norway-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

@@ -13,7 +13,7 @@ tags:
   - "interactive brokers portugal"
   - "etoro portugal"
   - "w-8ben portugal"
-heroImage: "/images/blog/taxes/us-portugal-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-portugal-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

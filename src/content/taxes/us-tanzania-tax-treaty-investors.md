@@ -13,7 +13,7 @@ tags:
   - "interactive brokers tanzania"
   - "etoro tanzania"
   - "tanzania shilling exchange rate"
-heroImage: "/images/blog/taxes/us-tanzania-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-tanzania-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

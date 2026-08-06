@@ -13,7 +13,7 @@ tags:
   - "interactive brokers uruguay"
   - "etoro uruguay"
   - "uruguay territorial tax"
-heroImage: "/images/blog/taxes/us-uruguay-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-uruguay-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

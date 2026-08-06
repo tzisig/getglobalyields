@@ -16,7 +16,7 @@ tags:
   - "Egypt capital gains tax"
   - "US stocks from Egypt"
   - "Egypt foreign tax credit"
-heroImage: "/images/blog/taxes/us-egypt-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-egypt-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: false

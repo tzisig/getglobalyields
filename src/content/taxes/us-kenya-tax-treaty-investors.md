@@ -13,7 +13,7 @@ tags:
   - "interactive brokers kenya"
   - "etoro kenya"
   - "w-8ben kenya"
-heroImage: "/images/blog/taxes/us-kenya-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-kenya-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

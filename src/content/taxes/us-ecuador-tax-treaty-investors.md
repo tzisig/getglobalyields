@@ -13,7 +13,7 @@ tags:
   - "interactive brokers ecuador"
   - "etoro ecuador"
   - "ecuador dollarization"
-heroImage: "/images/blog/taxes/us-ecuador-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-ecuador-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

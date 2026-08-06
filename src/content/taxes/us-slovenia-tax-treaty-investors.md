@@ -13,7 +13,7 @@ tags:
   - "interactive brokers slovenia"
   - "etoro slovenia"
   - "slovenia capital gains holding period"
-heroImage: "/images/blog/taxes/us-slovenia-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-slovenia-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

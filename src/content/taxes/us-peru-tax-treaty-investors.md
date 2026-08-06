@@ -13,7 +13,7 @@ tags:
   - "interactive brokers peru"
   - "etoro peru"
   - "renta de fuente extranjera"
-heroImage: "/images/blog/taxes/us-peru-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-peru-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

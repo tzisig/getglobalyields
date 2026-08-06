@@ -13,7 +13,7 @@ tags:
   - "interactive brokers panama"
   - "etoro panama"
   - "panama territorial tax"
-heroImage: "/images/blog/taxes/us-panama-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-panama-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

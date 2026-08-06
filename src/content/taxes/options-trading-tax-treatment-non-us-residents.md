@@ -11,7 +11,7 @@ tags:
   - "options trading tax non-US residents"
   - "options premium tax nonresident alien"
   - "covered call tax foreign investor"
-heroImage: "/images/blog/taxes/options-trading-tax-non-us-residents.webp"
+heroImage: "/images/blog/taxes/options-trading-tax-treatment-non-us-residents.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

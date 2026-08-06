@@ -13,7 +13,7 @@ tags:
   - "interactive brokers kuwait"
   - "etoro kuwait"
   - "kuwaiti dinar basket peg"
-heroImage: "/images/blog/taxes/us-kuwait-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-kuwait-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: false

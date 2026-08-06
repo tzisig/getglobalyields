@@ -13,7 +13,7 @@ tags:
   - "interactive brokers new zealand"
   - "etoro new zealand"
   - "fif rules nz"
-heroImage: "/images/blog/taxes/us-new-zealand-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-new-zealand-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: false

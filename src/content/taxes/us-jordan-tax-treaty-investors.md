@@ -13,7 +13,7 @@ tags:
   - "interactive brokers jordan"
   - "etoro jordan"
   - "jordan dinar peg"
-heroImage: "/images/blog/taxes/us-jordan-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-jordan-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

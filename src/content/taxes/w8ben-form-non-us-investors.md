@@ -15,7 +15,7 @@ tags:
   - "w8ben explained"
   - "tax treaty us dividends"
   - "reduce us dividend tax"
-heroImage: "/images/blog/taxes/w-8ben-form-guide.webp"
+heroImage: "/images/blog/taxes/w8ben-form-non-us-investors.webp"
 draft: false
 readingTime: "12 min read"
 featured: false

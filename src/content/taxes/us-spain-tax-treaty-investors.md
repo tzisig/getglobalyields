@@ -13,7 +13,7 @@ tags:
   - "ibkr spain"
   - "etoro spain"
   - "modelo 720"
-heroImage: "/images/blog/taxes/us-spain-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-spain-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

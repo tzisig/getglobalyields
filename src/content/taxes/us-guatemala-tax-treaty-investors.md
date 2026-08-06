@@ -13,7 +13,7 @@ tags:
   - "interactive brokers guatemala"
   - "etoro guatemala"
   - "guatemala quetzal exchange rate"
-heroImage: "/images/blog/taxes/us-guatemala-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-guatemala-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

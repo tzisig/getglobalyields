@@ -11,7 +11,7 @@ tags:
   - "tax treaty tie-breaker rules"
   - "dual tax residency"
   - "center of vital interests"
-heroImage: "/images/blog/taxes/tax-treaty-tie-breaker-rules.webp"
+heroImage: "/images/blog/taxes/tax-treaty-tie-breaker-rules-explained.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

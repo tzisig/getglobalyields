@@ -15,7 +15,7 @@ tags:
   - "Canadian investor withholding tax 2026"
   - "US capital gains Canada"
   - "Article X dividends treaty"
-heroImage: "/images/blog/taxes/us-canada-tax-treaty-2026.webp"
+heroImage: "/images/blog/taxes/us-canada-tax-treaty-investors-2026.webp"
 draft: false
 readingTime: "13 min read"
 featured: false

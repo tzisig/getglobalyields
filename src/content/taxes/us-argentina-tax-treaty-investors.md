@@ -13,7 +13,7 @@ tags:
   - "interactive brokers argentina"
   - "etoro argentina"
   - "w-8ben argentina"
-heroImage: "/images/blog/taxes/us-argentina-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-argentina-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: false

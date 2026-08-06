@@ -13,7 +13,7 @@ tags:
   - "interactive brokers paraguay"
   - "etoro paraguay"
   - "paraguay tax residency"
-heroImage: "/images/blog/taxes/us-paraguay-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-paraguay-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

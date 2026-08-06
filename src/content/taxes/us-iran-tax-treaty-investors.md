@@ -12,7 +12,7 @@ tags:
   - "iran sanctions us stocks"
   - "iran ofac embargo"
   - "iranian rial exchange rate"
-heroImage: "/images/blog/taxes/us-iran-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-iran-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

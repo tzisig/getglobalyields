@@ -13,7 +13,7 @@ tags:
   - "interactive brokers ukraine"
   - "etoro ukraine"
   - "ukraine military levy"
-heroImage: "/images/blog/taxes/us-ukraine-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-ukraine-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

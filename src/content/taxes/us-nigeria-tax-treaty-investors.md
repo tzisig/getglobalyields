@@ -13,7 +13,7 @@ tags:
   - "interactive brokers nigeria"
   - "etoro nigeria"
   - "w-8ben nigeria"
-heroImage: "/images/blog/taxes/us-nigeria-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-nigeria-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

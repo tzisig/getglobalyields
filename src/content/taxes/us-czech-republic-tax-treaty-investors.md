@@ -15,7 +15,7 @@ tags:
   - "foreign tax credit Czech Republic"
   - "US dividends Czech tax"
   - "Czech Republic investor guide"
-heroImage: "/images/blog/taxes/us-czech-republic-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-czech-republic-tax-treaty-investors.webp"
 draft: false
 readingTime: "14 min read"
 featured: true

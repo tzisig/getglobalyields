@@ -13,7 +13,7 @@ tags:
   - "interactive brokers colombia"
   - "etoro colombia"
   - "w-8ben colombia"
-heroImage: "/images/blog/taxes/us-colombia-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-colombia-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

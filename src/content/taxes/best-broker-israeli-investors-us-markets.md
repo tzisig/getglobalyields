@@ -16,7 +16,7 @@ tags:
   - "broker comparison israel"
   - "ibkr vs etoro vs saxo"
   - "options trading broker israel"
-heroImage: "/images/blog/taxes/Brokers-for-Israeli-Investors.webp"
+heroImage: "/images/blog/taxes/best-broker-israeli-investors-us-markets.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: false

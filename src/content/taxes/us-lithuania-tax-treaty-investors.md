@@ -13,7 +13,7 @@ tags:
   - "interactive brokers lithuania"
   - "etoro lithuania"
   - "w-8ben lithuania"
-heroImage: "/images/blog/taxes/us-lithuania-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-lithuania-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

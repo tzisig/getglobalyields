@@ -15,7 +15,7 @@ tags:
   - "Belgium capital gains tax 2026"
   - "US dividends Belgium tax"
   - "roerende voorheffing"
-heroImage: "/images/blog/taxes/us-belgium-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-belgium-tax-treaty-investors.webp"
 draft: false
 readingTime: "16 min read"
 featured: true

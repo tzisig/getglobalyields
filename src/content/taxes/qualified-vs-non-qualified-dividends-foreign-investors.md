@@ -11,7 +11,7 @@ tags:
   - "qualified vs non-qualified dividends"
   - "foreign investor dividend tax"
   - "NRA dividend tax rate"
-heroImage: "/images/blog/taxes/qualified-vs-non-qualified-dividends.webp"
+heroImage: "/images/blog/taxes/qualified-vs-non-qualified-dividends-foreign-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

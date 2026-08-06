@@ -13,7 +13,7 @@ tags:
   - "ibkr indonesia"
   - "etoro indonesia"
   - "w-8ben indonesia"
-heroImage: "/images/blog/taxes/us-indonesia-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-indonesia-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: false

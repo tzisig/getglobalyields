@@ -13,7 +13,7 @@ tags:
   - "interactive brokers bahrain"
   - "etoro bahrain"
   - "bahraini dinar peg"
-heroImage: "/images/blog/taxes/us-bahrain-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-bahrain-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: false

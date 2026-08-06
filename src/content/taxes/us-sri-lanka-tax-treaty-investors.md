@@ -13,7 +13,7 @@ tags:
   - "interactive brokers sri lanka"
   - "etoro sri lanka"
   - "sri lanka outward investment account"
-heroImage: "/images/blog/taxes/us-sri-lanka-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-sri-lanka-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

@@ -13,7 +13,7 @@ tags:
   - "interactive brokers morocco"
   - "etoro morocco"
   - "morocco tpcvm"
-heroImage: "/images/blog/taxes/us-morocco-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-morocco-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

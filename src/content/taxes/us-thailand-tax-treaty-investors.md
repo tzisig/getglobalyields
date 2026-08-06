@@ -13,7 +13,7 @@ tags:
   - "interactive brokers thailand"
   - "etoro thailand"
   - "w-8ben thailand"
-heroImage: "/images/blog/taxes/us-thailand-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-thailand-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true

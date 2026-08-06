@@ -13,7 +13,7 @@ tags:
   - "interactive brokers luxembourg"
   - "etoro luxembourg"
   - "luxembourg 6 month exemption"
-heroImage: "/images/blog/taxes/us-luxembourg-tax-treaty.webp"
+heroImage: "/images/blog/taxes/us-luxembourg-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
 draft: true
