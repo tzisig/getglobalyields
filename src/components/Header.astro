@@ -97,7 +97,7 @@ const currentPath = Astro.url.pathname;
             title="Translate"
             class="flex items-center justify-center w-9 h-9 rounded-md hover:bg-primary-800 transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-accent-500"
           >
-            <span id="translate-flag-desktop"><img src="https://flagcdn.com/40x30/us.png" width="20" height="15" alt="English" /></span>
+            <span id="translate-flag-desktop" style="display:inline-block;width:20px;height:15px;overflow:hidden"><img src="https://flagcdn.com/40x30/us.png" width="20" height="15" alt="English" style="aspect-ratio:20/15" /></span>
           </button>
           <div id="translate-dropdown-desktop" hidden class="translate-dd translate-dd-right">
             <div class="lang-grid">
@@ -160,7 +160,7 @@ const currentPath = Astro.url.pathname;
             title="Translate"
             class="flex items-center justify-center w-9 h-9 rounded-md hover:bg-primary-800 transition-all duration-200"
           >
-            <span id="translate-flag-mobile"><img src="https://flagcdn.com/40x30/us.png" width="20" height="15" alt="English" /></span>
+            <span id="translate-flag-mobile" style="display:inline-block;width:20px;height:15px;overflow:hidden"><img src="https://flagcdn.com/40x30/us.png" width="20" height="15" alt="English" style="aspect-ratio:20/15" /></span>
           </button>
           <div id="translate-dropdown-mobile" hidden class="translate-dd translate-dd-left">
             <div class="lang-grid">
@@ -547,7 +547,7 @@ const currentPath = Astro.url.pathname;
           var lang = btn.getAttribute('data-lang');
           var cc = btn.getAttribute('data-cc');
           var label = btn.querySelector('span') ? btn.querySelector('span').textContent : lang;
-          var flagImg = '<img src="https://flagcdn.com/40x30/' + cc + '.png" width="20" height="15" alt="' + label + '" />';
+          var flagImg = '<img src="https://flagcdn.com/40x30/' + cc + '.png" width="20" height="15" alt="' + label + '" style="aspect-ratio:20/15" />';
           doTranslate(lang);
           document.querySelectorAll('.lang-btn').forEach(function (b) { b.classList.remove('selected'); });
           document.querySelectorAll('[id^="translate-flag"]').forEach(function (el) { el.innerHTML = flagImg; });
@@ -568,7 +568,7 @@ const currentPath = Astro.url.pathname;
           var lang = btn.getAttribute('data-lang');
           var cc = btn.getAttribute('data-cc');
           var label = btn.querySelector('span') ? btn.querySelector('span').textContent : lang;
-          var flagImg = '<img src="https://flagcdn.com/40x30/' + cc + '.png" width="20" height="15" alt="' + label + '" />';
+          var flagImg = '<img src="https://flagcdn.com/40x30/' + cc + '.png" width="20" height="15" alt="' + label + '" style="aspect-ratio:20/15" />';
           doTranslate(lang);
           document.querySelectorAll('.lang-btn').forEach(function (b) { b.classList.remove('selected'); });
           document.querySelectorAll('[id^="translate-flag"]').forEach(function (el) { el.innerHTML = flagImg; });
@@ -613,7 +613,7 @@ const currentPath = Astro.url.pathname;
       var match = LANGS.find(function (l) { return l.lang === saved; });
       if (match) {
         var cc = flag_map[saved] || saved;
-        var flagImg = '<img src="https://flagcdn.com/40x30/' + cc + '.png" width="20" height="15" alt="' + match.label + '" />';
+        var flagImg = '<img src="https://flagcdn.com/40x30/' + cc + '.png" width="20" height="15" alt="' + match.label + '" style="aspect-ratio:20/15" />';
         document.querySelectorAll('[id^="translate-flag"]').forEach(function (el) { el.innerHTML = flagImg; });
         document.querySelectorAll('.lang-reset').forEach(function (r) { r.style.display = 'block'; });
         // Load translate engine since a language was previously selected
