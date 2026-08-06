@@ -43,6 +43,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add src/content/taxes/*.md src/content/us-investing/*.md src/content/best-brokers/*.md src/content/options-income/*.md src/content/strategies/*.md
+          git add src/content/taxes/*.md src/content/us-investing/*.md src/content/best-brokers/*.md src/content/options-income/*.md src/content/strategies/*.md src/content/retirement-pension/*.md src/content/estate-planning/*.md src/content/index-funds/*.md src/content/currency-banking/*.md
           git commit -m "chore: publish scheduled articles (${{ steps.publish.outputs.published }}) - ${{ steps.publish.outputs.published_list }}"
           git push

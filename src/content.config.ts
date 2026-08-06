@@ -77,11 +77,35 @@ const optionsIncome = defineCollection({
   schema: commonSchema,
 });
 
-export const collections = { 
-  'best-brokers': bestBrokers, 
-  strategies, 
-  taxes, 
+const retirementPension = defineCollection({
+  loader: glob({ pattern: "**/*.md", base: "./src/content/retirement-pension" }),
+  schema: commonSchema,
+});
+
+const estatePlanning = defineCollection({
+  loader: glob({ pattern: "**/*.md", base: "./src/content/estate-planning" }),
+  schema: commonSchema,
+});
+
+const indexFunds = defineCollection({
+  loader: glob({ pattern: "**/*.md", base: "./src/content/index-funds" }),
+  schema: commonSchema,
+});
+
+const currencyBanking = defineCollection({
+  loader: glob({ pattern: "**/*.md", base: "./src/content/currency-banking" }),
+  schema: commonSchema,
+});
+
+export const collections = {
+  'best-brokers': bestBrokers,
+  strategies,
+  taxes,
   'us-investing': usInvesting,
   'case-study': caseStudy,
   'options-income': optionsIncome,
+  'retirement-pension': retirementPension,
+  'estate-planning': estatePlanning,
+  'index-funds': indexFunds,
+  'currency-banking': currencyBanking,
 };

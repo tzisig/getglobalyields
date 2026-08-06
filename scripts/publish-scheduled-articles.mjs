@@ -21,6 +21,10 @@ const ROLLOUT_CATEGORIES = [
   'best-brokers',
   'options-income',
   'strategies',
+  'retirement-pension',
+  'estate-planning',
+  'index-funds',
+  'currency-banking',
 ];
 
 const today = new Date().toISOString().slice(0, 10); // YYYY-MM-DD, UTC

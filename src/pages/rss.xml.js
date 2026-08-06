@@ -6,13 +6,21 @@ export async function GET(context) {
   const strategies = await getCollection('strategies');
   const taxes = await getCollection('taxes');
   const usInvesting = await getCollection('us-investing');
+  const retirementPension = await getCollection('retirement-pension');
+  const estatePlanning = await getCollection('estate-planning');
+  const indexFunds = await getCollection('index-funds');
+  const currencyBanking = await getCollection('currency-banking');
 
   const allPosts = [
     ...bestBrokers.map(post => ({ ...post, collectionPath: 'best-brokers' })),
     ...strategies.map(post => ({ ...post, collectionPath: 'strategies' })),
     ...taxes.map(post => ({ ...post, collectionPath: 'taxes' })),
-    ...usInvesting.map(post => ({ ...post, collectionPath: 'us-investing' }))
-  ].sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+    ...usInvesting.map(post => ({ ...post, collectionPath: 'us-investing' })),
+    ...retirementPension.map(post => ({ ...post, collectionPath: 'retirement-pension' })),
+    ...estatePlanning.map(post => ({ ...post, collectionPath: 'estate-planning' })),
+    ...indexFunds.map(post => ({ ...post, collectionPath: 'index-funds' })),
+    ...currencyBanking.map(post => ({ ...post, collectionPath: 'currency-banking' })),
+  ].filter(post => !post.data.draft).sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
   return rss({
     title: 'Get Global Yields',
