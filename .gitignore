@@ -24,3 +24,4 @@ pnpm�debug.log*
 # jetbrains setting folder
 .idea/
 node_modules
+scripts/fonts/.cache/
