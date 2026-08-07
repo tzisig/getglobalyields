@@ -2,16 +2,43 @@
 // monospace numeral, a secondary real fact, and a short label - no baked
 // article title, no generic icon. Dark+light variants per site convention.
 //
-// Font note: this renders via sharp/librsvg (no headless browser), which
-// does not have "Inter" installed as a system font and silently falls back
-// to a serif if asked for it - Arial/Consolas are what's actually available
-// and resolve correctly. Do not "fix" this back to Inter/system-ui.
-import sharp from 'sharp';
-import fs from 'node:fs';
+// Font note: this renders via sharp/librsvg (no headless browser). librsvg
+// does NOT support @font-face src embedding at all (a data-URI-embedded
+// font is silently ignored - confirmed by direct test) and has neither
+// "Inter" nor "Geist Mono"/"Outfit" as Windows system fonts, so naively
+// asking for them falls back to a default serif. The fix that actually
+// works: point librsvg's underlying fontconfig at a fonts.conf that adds
+// this project's own bundled font files (scripts/fonts/*.ttf, OFL-licensed
+// copies of Geist Mono + Outfit) as a font directory - see
+// scripts/fonts/fonts.conf. That has to be set via the FONTCONFIG_FILE
+// *environment* variable before the Node process (and sharp's native
+// binding) starts - setting process.env.FONTCONFIG_FILE from inside an
+// already-running script is too late and silently does nothing. The
+// self-re-exec block below makes that automatic: importing this module
+// re-spawns the current script once with the right env var set, so nothing
+// that imports generateCategoryHeroes needs to know about this at all.
+// Do not revert this back to Consolas/Arial or a bare @font-face - both
+// were tried and both silently fail in this rendering engine.
+import { spawnSync } from 'node:child_process';
+import { fileURLToPath } from 'node:url';
 import path from 'node:path';
+import fs from 'node:fs';
 
-const MONO = "Consolas,'Courier New',monospace";
-const SANS = "Arial,'Segoe UI',sans-serif";
+const __selfDir = path.dirname(fileURLToPath(import.meta.url));
+const FONTCONFIG_FILE = path.join(__selfDir, 'fonts', 'fonts.conf');
+
+if (!process.env.__GGY_HERO_FONTS_READY) {
+  const result = spawnSync(process.execPath, process.argv.slice(1), {
+    env: { ...process.env, __GGY_HERO_FONTS_READY: '1', FONTCONFIG_FILE },
+    stdio: 'inherit',
+  });
+  process.exit(result.status ?? 0);
+}
+
+const sharp = (await import('sharp')).default;
+
+const MONO = "'Geist Mono', Consolas, monospace";
+const SANS = "'Outfit', Arial, sans-serif";
 
 function mixHex(a, b, t) {
   const pa = a.match(/\w\w/g).map(h => parseInt(h, 16));
