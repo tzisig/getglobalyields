@@ -2,7 +2,7 @@
 slug: ancillary-probate-foreign-owned-us-assets
 title: "Ancillary Probate Explained: What Happens to a Foreign Investor's US Brokerage Account"
 description: "A US brokerage account is legally deemed to sit wherever its foreign owner was domiciled, not wherever the broker is headquartered - which means, in strict legal theory, it shouldn't trigger US ancillary probate at all. In practice, brokers routinely demand a court-appointed fiduciary anyway. The gap between the two is where families lose months."
-pubDate: 2026-10-29
+pubDate: 2026-10-27
 updatedDate: 2026-08-07
 author: "Tzion S."
 categories: ["Estate Planning"]

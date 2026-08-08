@@ -2,7 +2,7 @@
 slug: revocable-living-trust-explained
 title: "Revocable Living Trust Explained: Cost, Setup, and Whether a Foreign Investor Can Use One"
 description: "A revocable living trust avoids probate - it does not reduce estate tax or protect assets from creditors, despite how often it's marketed as doing both. What it actually costs to set up, how it compares to a will, and the genuinely unresolved tax-classification question a non-US grantor needs a specialist attorney to answer, not a generic guide."
-pubDate: 2026-10-25
+pubDate: 2026-10-26
 updatedDate: 2026-08-07
 author: "Tzion S."
 categories: ["Estate Planning"]

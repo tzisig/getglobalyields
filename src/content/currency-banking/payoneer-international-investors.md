@@ -2,7 +2,7 @@
 slug: payoneer-international-investors
 title: "Payoneer for International Investors: Fees, US Receiving Accounts, and the Nuvei Acquisition"
 description: "Payoneer gives freelancers and marketplace sellers a real US receiving account with genuine local details - useful if you already hold USD there from other income. What it actually costs, how it compares to Wise for simply funding a brokerage account, and the pending acquisition worth knowing about before committing to it long-term."
-pubDate: 2026-10-27
+pubDate: 2026-10-26
 updatedDate: 2026-08-07
 author: "Tzion S."
 categories: ["Currency & Cross-Border Banking"]
