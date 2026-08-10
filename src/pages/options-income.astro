@@ -6,6 +6,23 @@ import { getCollection } from 'astro:content';
 const posts = (await getCollection('options-income').catch(() => []))
   .filter(p => !p.data.draft)
   .map(p => ({ ...p, type: 'options-income', url: `/options-income/${p.id}/` }));
+
+const collectionSchema = {
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "Options Income Strategies",
+  "description": "Learn how to generate high-yield passive income by selling options contracts globally.",
+  "url": "https://getglobalyields.com/options-income/",
+  "mainEntity": {
+    "@type": "ItemList",
+    "itemListElement": posts.map((post, index) => ({
+      "@type": "ListItem",
+      "position": index + 1,
+      "url": `https://getglobalyields.com${post.url}`,
+      "name": post.data.title,
+    })),
+  },
+};
 ---
 
 <BaseLayout
@@ -47,6 +64,8 @@ const posts = (await getCollection('options-income').catch(() => []))
       </div>
     </div>
   </section>
+  <script type="application/ld+json" set:html={JSON.stringify(collectionSchema)} />
+
   <div class="bg-primary-900 border-t border-primary-700 py-6 min-h-[120px]">
     <div class="container mx-auto px-4 sm:px-6 lg:px-8 max-w-6xl">
       <p class="text-xs text-slate-500 text-center leading-relaxed">

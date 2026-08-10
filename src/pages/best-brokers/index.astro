@@ -48,6 +48,24 @@ const guideIcons: Record<string, string> = {
   'how-to-open-a-us-brokerage-account-as-a-non-resident-2026-guide': '📋',
   'best-brokers-international-investors-2026': '🌍',
 };
+
+const allEntries = [...reviews, ...guides];
+const collectionSchema = {
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "Best Brokers for International Investors (2026)",
+  "description": "Compare the best brokers for non-US investors. In-depth reviews of Interactive Brokers, eToro, and Saxo Bank plus guides for opening a US brokerage account from abroad.",
+  "url": "https://getglobalyields.com/best-brokers/",
+  "mainEntity": {
+    "@type": "ItemList",
+    "itemListElement": allEntries.map((entry, index) => ({
+      "@type": "ListItem",
+      "position": index + 1,
+      "url": `https://getglobalyields.com/best-brokers/${entry.slug}/`,
+      "name": entry.title,
+    })),
+  },
+};
 ---
 
 <BaseLayout
@@ -72,6 +90,16 @@ const guideIcons: Record<string, string> = {
 
   <div class="bg-primary-900">
     <div class="container mx-auto px-4 sm:px-6 lg:px-8 py-14 max-w-6xl space-y-16">
+
+      <!-- Intro: why this differs from a generic "best broker" list -->
+      <section class="max-w-3xl mx-auto text-center">
+        <p class="text-slate-300 leading-relaxed">
+          Most "best broker" roundups are written for US residents, so the things that actually decide whether a broker works for a non-US investor - does it accept applications from your country, what does account opening as a non-resident actually require, what does a W-8BEN change about your withholding, and how much does currency conversion really cost when funding from abroad - get skipped entirely. Every review below is written from that non-resident starting point, not adapted from a US-focused one.
+        </p>
+        <p class="text-slate-400 leading-relaxed mt-4 text-sm">
+          Rankings weigh four things specifically for international investors: whether the broker accepts your country of residence at all, the real, all-in cost of funding and converting currency (not just the advertised commission), how straightforward non-resident account opening and tax documentation actually is in practice, and access to the specific US-listed products this site covers. No broker pays for placement or a better ranking here.
+        </p>
+      </section>
 
       <!-- Editor's Top Picks -->
       {reviews.length > 0 && (
@@ -226,6 +254,8 @@ const guideIcons: Record<string, string> = {
 
     </div>
   </div>
+
+  <script type="application/ld+json" set:html={JSON.stringify(collectionSchema)} />
 
   <!-- Financial Disclaimer -->
   <div class="bg-primary-900 border-t border-primary-700 py-6">
