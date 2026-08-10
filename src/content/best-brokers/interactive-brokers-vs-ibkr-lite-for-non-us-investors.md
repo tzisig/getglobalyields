@@ -1,6 +1,6 @@
 ---
 slug: interactive-brokers-vs-ibkr-lite-for-non-us-investors
-title: "IBKR vs IBKR Lite for Non-US Investors (2026)"
+title: "IBKR Pro vs IBKR Lite for Non-US Investors (2026)"
 description: "IBKR Pro vs IBKR Lite compared for international investors. Which account type saves more on fees, commissions, and options trading outside the US."
 pubDate: 2026-05-18
 updatedDate: 2026-05-18
@@ -115,23 +115,22 @@ If you're a complete beginner looking for a simple app with guided investing - I
 
 ## Table of Contents
 
-1. [IBKR Lite vs IBKR Pro - What's the Difference?](#lite-vs-pro)
-2. [Why IBKR Lite Is Not Available Outside the US](#lite-not-available)
-3. [What Non-US Investors Actually Get - IBKR Pro Features](#ibkr-pro-features)
-4. [Fee Breakdown - IBKR Lite vs IBKR Pro](#fee-breakdown)
-5. [Tiered vs Fixed Pricing - Which to Choose?](#tiered-vs-fixed)
-6. [Real Cost Example - What an Israeli Investor Actually Pays](#real-cost-example)
-7. [IBKR for Israeli Investors - Key Details](#israeli-investors)
-8. [Country-by-Country Availability](#country-by-country)
-9. [Platform & Tools](#platform-tools)
-10. [Broker Comparison Table](#broker-comparison)
-11. [Who Should Use Interactive Brokers?](#who-should-use)
-12. [Account Opening Process](#account-opening)
-13. [Is Interactive Brokers Safe?](#is-ibkr-safe)
-14. [Pros and Cons](#pros-cons)
-15. [Frequently Asked Questions](#faq)
+1. [IBKR Lite vs IBKR Pro - What's the Difference?](#ibkr-lite-vs-ibkr-pro---whats-the-difference)
+2. [Why IBKR Lite Is Not Available Outside the US](#why-ibkr-lite-is-not-available-outside-the-us)
+3. [What Non-US Investors Actually Get - IBKR Pro Features](#what-non-us-investors-actually-get---ibkr-pro-features)
+4. [Fee Breakdown - IBKR Lite vs IBKR Pro](#fee-breakdown---ibkr-lite-vs-ibkr-pro)
+5. [Tiered vs Fixed Pricing - Which to Choose?](#tiered-vs-fixed-pricing---which-to-choose)
+6. [Real Cost Example - What an Israeli Investor Actually Pays](#real-cost-example---what-an-israeli-investor-actually-pays)
+7. [IBKR for Israeli Investors - Key Details](#ibkr-for-israeli-investors---key-details)
+8. [Country-by-Country Availability](#country-by-country-availability)
+9. [Platform & Tools](#platform--tools)
+10. [Broker Comparison Table](#broker-comparison-table)
+11. [Who Should Use Interactive Brokers?](#who-should-use-interactive-brokers)
+12. [Account Opening Process](#account-opening-process)
+13. [Is Interactive Brokers Safe?](#is-interactive-brokers-safe)
+14. [Pros and Cons](#pros-and-cons)
+15. [Frequently Asked Questions](#frequently-asked-questions)
 16. [Final Verdict](#final-verdict)
-17. [Related Articles](#related-articles)
 
 ---
 
