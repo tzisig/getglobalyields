@@ -16,7 +16,7 @@ tags:
 heroImage: "/images/blog/taxes/us-france-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
-draft: true
+draft: false
 readingTime: "10 min read"
 featured: false
 seo:
