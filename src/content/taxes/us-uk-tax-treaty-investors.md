@@ -23,16 +23,16 @@ draft: false
 readingTime: "16 min read"
 featured: true
 seo:
-  metaTitle: "US-UK Tax Treaty Guide for British Investors (2026)"
-  metaDescription: "How the US-UK tax treaty reduces US dividend withholding tax for UK residents to 15%. Learn W-8BEN requirements, ISA implications, and pension rules."
-  ogTitle: "US-UK Tax Treaty Guide for British Investors (2026)"
-  ogDescription: "How the US-UK tax treaty reduces US dividend withholding tax for UK residents to 15%. Learn W-8BEN requirements, ISA implications, and pension rules."
+  metaTitle: "Tax on US Shares in the UK: US-UK Tax Treaty (2026)"
+  metaDescription: "Do you pay tax on US shares in the UK? How the US-UK tax treaty reduces dividend withholding to 15%, plus ISA, SIPP, and W-8BEN rules."
+  ogTitle: "Tax on US Shares in the UK: US-UK Tax Treaty (2026)"
+  ogDescription: "Do you pay tax on US shares in the UK? How the US-UK tax treaty reduces dividend withholding to 15%, plus ISA, SIPP, and W-8BEN rules."
   ogImage: "/images/blog/taxes/us-uk-tax-treaty.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"
-  headline: "US-UK Tax Treaty Guide for British Investors (2026)"
-  description: "How the US-UK tax treaty reduces US dividend withholding tax for UK residents to 15%. Learn W-8BEN requirements, ISA implications, and pension rules."
+  headline: "Tax on US Shares in the UK: US-UK Tax Treaty (2026)"
+  description: "Do you pay tax on US shares in the UK? How the US-UK tax treaty reduces dividend withholding to 15%, plus ISA, SIPP, and W-8BEN rules."
   author: "Tzion S."
   datePublished: "2026-05-24"
   dateModified: "2026-08-04"
