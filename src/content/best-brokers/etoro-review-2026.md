@@ -22,6 +22,27 @@ draft: false
 readingTime: "11 min read"
 featured: false
 rating: 3.8
+schema:
+  faq:
+    - question: "Does eToro charge commission on stocks?"
+      answer: "No - stock and ETF trades are $0 commission. The cost comes from the bid-ask spread and currency conversion fees on non-USD deposits."
+    - question: "What is the minimum deposit for Israeli investors?"
+      answer: "$10,000. This is significantly higher than most other countries where the minimum starts from $50. It's a real barrier for new Israeli investors."
+    - question: "What is the currency conversion fee on eToro?"
+      answer: "It depends on your account currency. ILS deposits pay approximately 1.5%. EUR and GBP account holders may pay around 0.5% or less, especially on eToro Club tiers. Check your specific account type."
+    - question: "Can I trade options on eToro?"
+      answer: "Not real options. eToro offers CFD options in some regions, but these are a different product with different risk characteristics. For real options trading, look at IBKR or tastytrade."
+    - question: "Is eToro available in Israel?"
+      answer: "Yes, with Hebrew app and Hebrew customer support. The minimum deposit is $10,000 and conversion from NIS carries a ~1.5% fee."
+    - question: "What happens to my stocks if eToro goes bankrupt?"
+      answer: "For real stock positions (not CFDs), your shares are held separately. EU clients have protection under the Investor Compensation Fund. UK clients under FSCS up to £85,000."
+    - question: "Does eToro pay interest on cash?"
+      answer: "Yes, for eligible clients. eToro offers up to 3.55% annual interest on uninvested cash balances through its Interest on Balance program. Eligibility and rates depend on your region and eToro Club tier. IBKR still offers more competitive rates broadly, but this is no longer an eToro weakness across the board."
+    - question: "What is the withdrawal fee?"
+      answer: "USD account holders pay $5 per withdrawal. EUR and GBP account holders withdraw for free."
+    - question: "Does eToro report to Israeli tax authorities?"
+      answer: "eToro provides annual statements showing your gains, losses, and dividends. You are responsible for filing your own tax return in Israel. Capital gains are taxed at 25%, dividends at 25% (with valid W-8BEN under the US-Israel treaty - down from the 30% default)."
+
 ---
 
 

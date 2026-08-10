@@ -21,6 +21,25 @@ heroImageHeight: 560
 draft: false
 readingTime: "13 min read"
 featured: false
+schema:
+  faq:
+    - question: "Is investing in US stocks from India legal?"
+      answer: "Yes. Under the RBI's LRS, Indian residents can remit up to $250,000 per financial year for foreign investments including US stocks and ETFs. All remittances must go through an Authorised Dealer bank and follow FEMA guidelines."
+    - question: "What is the LRS limit for US stock investments?"
+      answer: "$250,000 per person per financial year (April to March). This is a combined limit covering all outward remittances - not just investments. Unused limits do not carry forward to the next year."
+    - question: "How are US stocks taxed in India?"
+      answer: "Dividends face 25% US withholding (reduced from 30% under DTAA via W-8BEN), which you can claim as a Foreign Tax Credit in India. Capital gains are not taxed by the US - they are taxed in India at slab rate (short-term, held up to 24 months) or 12.5% (long-term, held over 24 months)."
+    - question: "What is TCS and does it apply to US stock investments?"
+      answer: "TCS (Tax Collected at Source) at 20% applies to LRS remittances above Rs. 10 lakh per financial year per PAN. It is collected by your bank at the time of remittance and can be offset against your total tax liability when filing your ITR. It is a cash flow cost, not a permanent tax."
+    - question: "Do I need to declare US stocks in my ITR?"
+      answer: "Yes - every year, in Schedule FA, regardless of whether you traded or earned income in that year. Penalties for non-disclosure under the Black Money Act are severe."
+    - question: "Which broker is best for Indian investors buying US stocks?"
+      answer: "IBKR for serious investors who want the lowest costs, full market access, and professional tools. Vested or INDmoney for beginners who want a simpler, India-focused experience. See the broker comparison section above for the full breakdown."
+    - question: "What is the US estate tax risk for Indian investors?"
+      answer: "Non-US residents are subject to US estate tax on US-domiciled assets above approximately $60,000. This applies on death, not during your lifetime. For investors building large US portfolios, this is a risk worth discussing with a tax advisor. Ireland-domiciled UCITS ETFs are one approach to reduce this exposure."
+    - question: "Can I invest in US stocks through a joint account?"
+      answer: "Yes - but the LRS limit applies per individual, and both account holders' remittances count toward their respective limits. Joint accounts have their own compliance considerations worth verifying with your broker."
+
 ---
 
 *Updated: May 2026 - GetGlobalYields.com - Read time: ~13 min*

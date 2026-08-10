@@ -20,6 +20,25 @@ heroImage: "/images/blog/taxes/us-austria-tax-treaty-investors.webp"
 draft: false
 readingTime: "14 min read"
 featured: false
+schema:
+  faq:
+    - question: "Does the US-Austria treaty apply to ETFs?"
+      answer: "Yes. Dividends from US-listed ETFs (SPY, VTI, QQQ, etc.) are treated as US-source dividends subject to the 15% treaty rate with a valid W-8BEN. ETFs domiciled in Ireland or Luxembourg (UCITS ETFs) are not US-source - they may distribute dividends with different withholding depending on their domicile and the treaties Ireland or Luxembourg have with their own holdings."
+    - question: "Do I need to file a tax return in Austria for US investment income?"
+      answer: "If your Austrian broker (Inlandsverwahrer) handles your account, KeSt is deducted automatically and you typically do not need to include investment income in your tax return. If you use a foreign broker (Auslandsverwahrer), you must file an E1 return and declare all foreign investment income using Form E1kv."
+    - question: "What is the Austrian Steuernummer and do I need it for the W-8BEN?"
+      answer: "The Steuernummer is your Austrian tax identification number assigned by the Finanzamt. Include it in your W-8BEN where it asks for a \"Foreign tax identifying number.\" If you do not yet have one, apply at your local Finanzamt. It is required for the W-8BEN to be complete."
+    - question: "What happens if I receive a US dividend without a W-8BEN on file?"
+      answer: "Your broker withholds 30%. To recover the excess 15% (the difference between the 30% withheld and the 15% treaty rate), you must file a US non-resident tax return (Form 1040-NR) with the IRS or use a tax reclaim service. The Austrian credit applies only up to the treaty rate - the excess 15% is recoverable only from the US side."
+    - question: "Are capital gains from selling US stocks taxable in the US?"
+      answer: "No, for portfolio investors holding less than 10% of the company. Under Article 13 of the treaty, gains from securities held as investments are taxable only in Austria. Austrian KeSt of 27.5% applies."
+    - question: "How does the treaty interact with UCITS ETFs?"
+      answer: "If you invest in US markets through Irish-domiciled UCITS ETFs (e.g., iShares Core S&P 500 UCITS ETF), the US withholding situation is different: the UCITS fund itself receives US dividends with a 15% US withholding (under the US-Ireland treaty) at the fund level, and then distributes dividends to you. Austrian KeSt applies to distributions you receive. The US-Austria treaty does not directly reduce your withholding further because the income passes through an Irish fund. UCITS ETFs can be more tax-efficient for Austrian investors in some situations - specifically when the ETF accumulates (reinvests) dividends rather than distributing them."
+    - question: "Is the US-Austria treaty currently under renegotiation?"
+      answer: "According to PWC's Austria Tax Summary (2026), the treaty is currently under revision negotiations. Changes could affect withholding rates and provisions in future years. Consult a current source or tax advisor before making significant decisions based on the current treaty rates."
+    - question: "How does Austria's treaty compare to other major US treaties?"
+      answer: "Austria's 15% portfolio dividend rate and 0% interest rate match the US-UK treaty and are more favorable than the US-Australia treaty's 10% interest withholding. It is less favorable than the US-China treaty, which offers a flat 10% dividend rate, but Austria's KESt credit system and Pensionskasse exemption give it structural advantages China's domestic tax treatment does not match. For a similar Central European comparison, the US-Canada treaty and its RRSP provisions take a different approach entirely."
+
 ---
 
 

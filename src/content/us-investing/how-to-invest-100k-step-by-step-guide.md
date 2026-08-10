@@ -24,6 +24,21 @@ heroImageHeight: 560
 draft: false
 readingTime: "13 min read"
 featured: true
+schema:
+  faq:
+    - question: "Should I pay off my mortgage before investing $100K?"
+      answer: "It depends on your rate. Below 4-5%, the long-run expected return of a diversified equity portfolio is historically higher - investing wins on the math. Above 6-7%, paying down the mortgage becomes more competitive on a risk-adjusted basis. This is also a personal decision: some people place genuine value on being debt-free regardless of the numbers, and that is a legitimate position."
+    - question: "What if markets crash right after I invest?"
+      answer: "If your allocation matches your actual time horizon and risk tolerance, you hold. A well-structured portfolio is designed to absorb downturns. The investors who suffered permanent damage in every major crash were those who sold at the bottom. If a significant decline would genuinely force you to sell - because you need the money soon, or because you psychologically cannot hold - your allocation is too aggressive. Adjust it before you invest, not after the crash."
+    - question: "VTI or VOO - which is better for US investors?"
+      answer: "Both are excellent and nearly identical in practice. VOO tracks the S&P 500 (500 large-cap companies, 0.03% expense ratio). VTI covers the entire US market including mid- and small-cap stocks (~3,600 companies, 0.03%). They share roughly 82% overlap by weight and have performed almost identically over long periods. VTI offers modestly broader diversification. Either is appropriate."
+    - question: "VWCE or IWDA for international investors?"
+      answer: "VWCE covers developed and emerging markets globally in one accumulating fund (0.22%). IWDA covers only developed markets (0.20%) - you add EIMI separately for emerging market exposure. VWCE is simpler and the more common choice. IWDA makes sense if you want explicit control over your emerging markets allocation. For most investors, VWCE is the cleaner solution."
+    - question: "Is $100K enough to work with a financial advisor?"
+      answer: "Most fee-only fiduciary advisors work with clients at this level. If your situation is straightforward, a one-time financial plan (typically $1,500-$3,000) may serve you better than an ongoing advisory relationship. Ongoing fees of 1% annually on $100,000 amount to $1,000 per year, every year, compounding against your returns. Know what you are paying for."
+    - question: "How is this different for someone close to retirement?"
+      answer: "Significantly different. Sequence of returns risk - the danger that a major decline in the years just before or after retirement permanently impairs your portfolio - changes the calculus on allocation. If you are within five to seven years of stopping work, you should be shifting meaningfully toward bonds and cash to protect what you have built, not chasing higher equity returns. The accumulation math and the distribution math are not the same problem."
+
 ---
 
 Most guides on this topic are written for one type of person: an American in their 30s with a 401(k) and a Vanguard account. If that is you, there is plenty of useful information here. But a large share of people with $100,000 to invest are not that person. They live in London, Singapore, Toronto, Dubai, or São Paulo. They do not have access to a 401(k). Their tax rules are different. Their broker options are different. And most guides leave them with a framework that simply does not apply.

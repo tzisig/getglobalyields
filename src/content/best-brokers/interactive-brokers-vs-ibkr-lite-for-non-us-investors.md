@@ -1,6 +1,6 @@
 ---
 slug: interactive-brokers-vs-ibkr-lite-for-non-us-investors
-title: "Interactive Brokers vs IBKR Lite for Non-US Investors (2026)"
+title: "IBKR vs IBKR Lite for Non-US Investors (2026)"
 description: "IBKR Pro vs IBKR Lite compared for international investors. Which account type saves more on fees, commissions, and options trading outside the US."
 pubDate: 2026-05-18
 updatedDate: 2026-05-18

@@ -24,6 +24,19 @@ heroImageHeight: 560
 draft: false
 readingTime: "13 min read"
 featured: false
+schema:
+  faq:
+    - question: "Do Canadians pay tax on US stock gains?"
+      answer: "Yes. Capital gains are reported in Canadian dollars on your Canadian return. Currency movement between your purchase and sale dates affects your taxable gain in CAD - even if the USD price is unchanged. Confirm the current inclusion rate with a tax advisor as Canadian capital gains rules are subject to change."
+    - question: "Can I hold US stocks in my TFSA?"
+      answer: "Yes. Growth-oriented US stocks with low or no dividends work well in a TFSA - capital gains are tax-free. US dividend-paying stocks are less efficient there because of the permanent 15% withholding."
+    - question: "Does my RRSP exempt me from all US withholding?"
+      answer: "Only on direct US securities and US-listed ETFs. Canadian-listed ETFs holding US stocks do not get the exemption - the withholding is applied at the fund level before you receive distributions."
+    - question: "What is the W-8BEN and when do I need it?"
+      answer: "It certifies you are a Canadian resident eligible for the 15% treaty withholding rate instead of 30%. File it with your broker when you open your account. Renew every three years."
+    - question: "Is Norbert's Gambit legal?"
+      answer: "Completely. It is a widely-used, well-documented technique supported by most major Canadian brokers. It uses the DLR/DLR.U ETF to convert CAD to USD at near-spot rates."
+
 ---
 
 A Canadian investor who put $50,000 into the S&P 500 ten years ago and let it sit - doing nothing - ended up with roughly $185,000 today. The same $50,000 in the TSX composite grew to about $100,000 over the same period. Same country, same investor, one decision: which market to be in.

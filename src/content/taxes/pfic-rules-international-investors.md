@@ -26,6 +26,17 @@ seo:
   ogImage: "/images/blog/taxes/pfic-rules-international-investors.webp"
   twitterCard: "summary_large_image"
 schema:
+  faq:
+    - question: "Are IBKR-listed US ETFs safe from PFIC classification?"
+      answer: "Yes. ETFs listed on US exchanges and domiciled in the US - like those from Vanguard, BlackRock (iShares), or Invesco - are not foreign corporations and therefore cannot be PFICs. Buying these through IBKR eliminates the PFIC concern."
+    - question: "Does my TFSA or Israeli Keren Hishtalmut protect me from PFIC rules?"
+      answer: "Not automatically. While certain treaty provisions may provide some relief for specific accounts (Canada's RRSP has treaty protection, for example), TFSAs generally do not, and Israeli Keren Hishtalmut accounts have no direct US treaty protection. Holdings inside these accounts still need to be reviewed for PFIC status."
+    - question: "What if I sell my PFIC before filing my taxes?"
+      answer: "Selling the PFIC doesn't eliminate the tax obligation - it triggers it. Under default rules, the gain from sale is subject to the interest-and-tax calculation regardless of when you file. The tax is owed for the year of the sale."
+    - question: "Can I avoid PFIC rules by using a foreign broker instead of IBKR?"
+      answer: "No. The PFIC classification is based on what you own, not where you bought it. Buying a foreign mutual fund through a local broker versus IBKR makes no difference to the IRS - the fund is still a PFIC if it qualifies as one."
+    - question: "Is there a minimum holding before PFIC rules apply?"
+      answer: "The PFIC classification itself has no minimum - even a $1 position in a qualifying fund is technically a PFIC. Form 8621's Part I reporting has a narrow exception below $25,000 ($50,000 joint) in total PFIC stock value, but it doesn't apply if you received a distribution or sold during the year, so most investors end up filing regardless. The penalties for not filing when required can exceed the value of a small holding."
   type: "article"
   headline: "PFIC Rules Explained for International Investors (2026 Guide)"
   description: "What is a PFIC and why does it matter? Learn the passive foreign investment company rules, tax implications, and how to avoid costly IRS penalties."

@@ -22,6 +22,21 @@ heroImageHeight: 560
 draft: false
 readingTime: "13 min read"
 featured: false
+schema:
+  faq:
+    - question: "Which is better long-term: TQQQ or SOXL?"
+      answer: "Over a 10-year period, SOXL's CAGR (~60%) exceeds TQQQ's (~42%), but SOXL's maximum drawdown (90.46%) and recovery period (842 trading sessions) are significantly worse. The 5-year CAGR comparison, which includes the 2022 drawdown and the 2024 negative year (-12.31% for SOXL), shows SOXL (~41%) and TQQQ (~43%) nearly equal - meaning SOXL's higher long-term average is largely driven by favorable cycle timing. Risk-adjusted, TQQQ has been the stronger long-term hold for most investors."
+    - question: "Why is SOXL up 353% in 2026 while UPRO is only up ~30%?"
+      answer: "Because they track completely different indices. SOXL tracks a pure semiconductor index, which has been driven by AI infrastructure buildout and chip demand in 2026. UPRO tracks the full S&P 500, where gains have been more broadly distributed. The same divergence operated in reverse in 2024: SOXL fell 12.31% while UPRO gained 63.57%, because the semiconductor sector had a choppy year while the broader market was strong."
+    - question: "Is SOXL safe to buy after its 2026 gains?"
+      answer: "\"Safe\" is not the right frame for any 3x leveraged ETF. The relevant question is whether the semiconductor cycle that drove SOXL's 353% YTD gain will continue, plateau, or reverse - and whether the investor has a defined exit strategy if the answer is the third option. Entering SOXL at +353% YTD means entering after most of the 2026 semiconductor trend has already materialized. The 2024 investor who bought SOXL after a strong 2023 (+227%) ended that year down 12.31%."
+    - question: "Can I hold TQQQ, SOXL, and UPRO together for diversification?"
+      answer: "The diversification benefit is limited. TQQQ and UPRO carry a 0.90-0.95 correlation. TQQQ and SOXL carry a 0.83-0.86 correlation that converges toward 1.0 during market stress. Holding all three does not meaningfully reduce risk. Choose the fund whose underlying index best matches your thesis and size it appropriately within a broader diversified portfolio."
+    - question: "What happened to SOXL holders who bought in 2021?"
+      answer: "SOXL returned +118.85% in 2021 before falling 85.67% in 2022. Recovery to the prior high took 842 trading sessions, approximately 3.4 years. Investors who bought near the 2021 peak and held through the entire cycle eventually recovered their capital. Investors who sold during the drawdown locked in permanent losses."
+    - question: "Why does UPRO have a lower 10-year CAGR than TQQQ if both are 3x leveraged?"
+      answer: "Because they track different underlying indices. The Nasdaq-100 has outperformed the S&P 500 significantly over the past decade, driven by the dominance of large-cap technology. TQQQ at 3x on a higher-returning index produces a higher leveraged CAGR than UPRO at 3x on a lower-returning but more stable index."
+
 ---
 
 <!-- RELATED POSTS: "TQQQ Long-Term Outlook", "Leveraged ETF Rebalancing: How to Reduce Decay", "QQQ 225-Day Moving Average Strategy" -->

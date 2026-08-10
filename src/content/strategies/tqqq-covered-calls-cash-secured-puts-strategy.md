@@ -22,6 +22,21 @@ heroImageHeight: 560
 draft: false
 readingTime: "15 min read"
 featured: false
+schema:
+  faq:
+    - question: "What is the difference between selling covered calls and cash-secured puts on TQQQ?"
+      answer: "A covered call is sold against shares you already own - you collect premium in exchange for capping your upside to the strike price. A cash-secured put is sold against cash you hold - you collect premium in exchange for agreeing to buy 100 shares at the strike price if TQQQ falls below it. Both generate income from TQQQ's elevated implied volatility. The Wheel Strategy connects both into a continuous cycle: sell puts, accept assignment, sell covered calls, get called away, sell puts again. See the Wheel Strategy guide for a full walkthrough."
+    - question: "Why is TQQQ's implied volatility so much higher than QQQ's?"
+      answer: "Because TQQQ delivers 3x the daily return of QQQ, its realized volatility is approximately three times QQQ's. Options markets price implied volatility to reflect expected realized volatility. TQQQ's 30-day IV runs 55-60% versus 18-22% for QQQ - roughly a 3x ratio. This is why covered calls and puts on TQQQ generate approximately three times the premium of equivalent options on QQQ. The higher premium is compensation for higher risk, not a market inefficiency."
+    - question: "What premiums can I realistically expect on TQQQ options?"
+      answer: "At current IV levels (~60%), a 30-day covered call approximately 9% OTM (delta ~0.25) on TQQQ at $75 generates approximately $3.80-4.20 per share, or $380-420 per contract (Black-Scholes, confirmed against options chain data). A comparable cash-secured put generates $3.50-4.00 per share. These are gross premiums before tax. At 24% marginal rate (US), net premiums are approximately $2.90-3.20 per share for the call and $2.66-3.04 for the put."
+    - question: "What is the PDT rule and how does it affect TQQQ options traders?"
+      answer: "The Pattern Day Trader rule requires US margin accounts with fewer than $25,000 in equity to limit day trades to three per five-business-day period. Accounts below this threshold that exceed the limit are restricted. Options sellers running monthly Wheel strategies on TQQQ with accounts under $25,000 can avoid PDT restrictions by using a cash account instead of a margin account - cash accounts are not subject to PDT rules. The trade-off is T+2 settlement, meaning assignment proceeds cannot be immediately redeployed the same day."
+    - question: "When should I roll versus accepting assignment?"
+      answer: "Roll a covered call when: the position can be rolled for a net credit, and the new strike is genuinely above where you expect TQQQ to trade by the new expiration. Accept assignment when: rolling requires a net debit, or the position has moved so far ITM that extending it is chasing a losing battle. For cash-secured puts: accept assignment and transition to covered calls rather than rolling down for a net debit in most cases. The clean transition to Phase 2 of the Wheel is usually more efficient than paying to delay the inevitable."
+    - question: "How are TQQQ options premiums taxed outside the US?"
+      answer: "It varies significantly. In Germany, premium income is taxed at 26.375% (Abgeltungsteuer) with no partial exemption - systematic monthly programs may be reclassified as trading income at higher rates. In the UK, premiums fall under CGT at 18-24% above the annual exemption, but HMRC may reclassify frequent activity as trading income. In Australia, options premium is generally assessable income at marginal rates, not capital gain. In Canada, systematic options programs are typically treated as business income at full marginal rates. Confirm the classification with a qualified tax advisor in your jurisdiction before starting - the difference between capital gains and income treatment can be 10-20 percentage points of effective tax rate."
+
 ---
 
 

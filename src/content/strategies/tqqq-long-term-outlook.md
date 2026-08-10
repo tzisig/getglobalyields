@@ -22,6 +22,21 @@ heroImageHeight: 560
 draft: false
 readingTime: "14 min read"
 featured: false
+schema:
+  faq:
+    - question: "Is TQQQ a good long-term investment?"
+      answer: "It has been one of the best-performing ETFs in history over its 16-year track record - 43-44% annualized CAGR from inception through May 2026. Whether it continues to be depends on three conditions: sustained Nasdaq-100 earnings growth driven by AI and cloud infrastructure, bear markets that remain temporary and recoverable, and an investor who can genuinely hold through an 80% drawdown without selling. The historical data is extraordinary. The behavioral requirement is demanding. Both are true."
+    - question: "What is TQQQ's maximum drawdown?"
+      answer: "Since inception (February 2010 through May 2026), TQQQ's maximum drawdown is 81.7% (MyPlanIQ). This occurred from late 2021 through December 2022, during which TQQQ fell from approximately $91 to approximately $16. Recovery to the prior high took approximately two years. Investors who sold during the drawdown did not participate in the recovery."
+    - question: "How does volatility decay affect TQQQ long-term?"
+      answer: "Volatility decay (beta slippage) reduces TQQQ's return in choppy, directionless markets because daily rebalancing causes losses in volatile sideways conditions. In strongly trending markets, compounding on a growing base can produce returns that exceed the simple 3x multiple. The net effect over 16 years has been positive because bull years have dominated - but in any extended sideways or choppy period, decay is a real structural headwind. The worst 3-year rolling return of -7.03% annualized reflects what decay looks like in a difficult market environment."
+    - question: "What is the realistic worst case for TQQQ over a 5-year period?"
+      answer: "Based on historical data, the worst 5-year rolling return since inception was +8.55% annualized (MyPlanIQ). That sounds acceptable until you consider it was achieved with 61.5% annualized volatility and a probable peak-to-trough drawdown of 50-70% within the period. The worst 3-year rolling return was -7.03% annualized - meaning an investor could hold TQQQ for three years and end with less than they started. These are historical data points, not predictions, but they define the realistic range of outcomes."
+    - question: "Should I hold TQQQ in a taxable or tax-advantaged account?"
+      answer: "Tax-advantaged account wherever possible. TQQQ's compounding is severely hampered by annual capital gains taxes in taxable accounts - both from any rebalancing or position management activity and from the forced realization of gains if shares are sold. In a Roth IRA (US) or equivalent tax-sheltered account, all gains compound without annual tax drag. For non-US investors, the equivalent local account structure applies. The difference in final portfolio value between a taxable and tax-sheltered TQQQ position over 15+ years is substantial."
+    - question: "What percentage of a portfolio should TQQQ represent?"
+      answer: "There is no universal answer, but a useful framework: TQQQ should represent no more than the percentage of your portfolio where an 80% loss in that position would not materially impair your financial life or force you to sell other assets. For most investors, that is a small single-digit percentage of total assets. For investors with a high risk tolerance, a long time horizon, and demonstrated behavioral resilience through past drawdowns, it may be higher. The right size is the one you can actually hold through a severe bear market - not the one that maximizes expected return in a spreadsheet."
+
 ---
 
 <!-- RELATED POSTS: "QQQ 225-Day Moving Average Strategy", "Leveraged ETF Rebalancing: How to Reduce Decay", "TQQQ Covered Calls and Cash-Secured Puts" -->

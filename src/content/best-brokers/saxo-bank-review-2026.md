@@ -22,6 +22,25 @@ draft: false
 readingTime: "12 min read"
 featured: false
 rating: 4.2
+schema:
+  faq:
+    - question: "What is the minimum deposit for Saxo Bank?"
+      answer: "Classic accounts have no minimum deposit in most regions. Platinum requires $200,000 and VIP requires $1,000,000. Account tiers upgrade automatically based on portfolio value."
+    - question: "Does Saxo charge a custody fee?"
+      answer: "Yes - 0.15% per year for Classic accounts (minimum €5/month), 0.12% for Platinum, and 0.09% for VIP. You can avoid this by enabling the stock lending program."
+    - question: "How does Saxo compare to IBKR on fees?"
+      answer: "IBKR is cheaper on FX conversion (0.002% vs 0.25%), charges no custody fee, and has lower options commissions. Saxo wins on research quality, platform depth, bond access, and institutional infrastructure. For large portfolios where research and multi-asset access matter, Saxo becomes competitive at Platinum tier."
+    - question: "Can I trade options on Saxo?"
+      answer: "Yes - real listed options across 1,200+ instruments. This is genuine options trading, not CFD options."
+    - question: "Is Saxo available in Israel?"
+      answer: "Yes. Israeli investors receive real shares (not CFDs). There is no Hebrew interface. Currency conversion from ILS is ~0.25%."
+    - question: "What happens if Saxo goes bankrupt?"
+      answer: "Client funds are held separately from company assets. The specific investor compensation scheme depends on which Saxo entity holds your account - this varies by country of residence. Check before opening."
+    - question: "Does Saxo pay interest on cash?"
+      answer: "This varies by jurisdiction and account type. Check with your specific Saxo entity for current rates."
+    - question: "What is the inactivity fee?"
+      answer: "Saxo removed its inactivity fee in 2025. It no longer applies."
+
 ---
 
 *Updated: May 2026 - GetGlobalYields.com - Read time: ~12 min*

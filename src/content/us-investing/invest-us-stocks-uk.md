@@ -21,6 +21,25 @@ heroImageHeight: 560
 draft: false
 readingTime: "12 min read"
 featured: false
+schema:
+  faq:
+    - question: "Can UK investors buy US stocks directly?"
+      answer: "Yes. Any FCA-regulated broker with US market access allows you to buy US-listed stocks and ETFs directly. Most mainstream UK platforms offer this as standard."
+    - question: "Do I pay CGT on US stocks in the UK?"
+      answer: "Yes, on gains above the £3,000 annual exemption - at 18% (basic rate) or 24% (higher and additional rate). An ISA or SIPP eliminates UK CGT on investments held within the wrapper."
+    - question: "Does my ISA protect me from US withholding tax?"
+      answer: "No. The ISA shields you from UK income and capital gains tax, but the US still withholds 15% on dividends before they enter your ISA. This 15% is irrecoverable inside an ISA."
+    - question: "How does a SIPP get 0% withholding on US dividends?"
+      answer: "The IRS recognises UK SIPPs as qualifying pension schemes. Your SIPP provider handles the recognition automatically. No individual W-8BEN is required."
+    - question: "What is the W-8BEN and do I need one?"
+      answer: "The W-8BEN confirms you are a UK tax resident and claims the 15% treaty rate on US dividends instead of the default 30%. Most UK brokers collect it during account setup for US markets. It must be renewed every three years."
+    - question: "What happens if I do not file W-8BEN?"
+      answer: "The US defaults to 30% withholding on dividends instead of 15%. The difference is significant on any meaningful dividend income."
+    - question: "Are UCITS ETFs better than US ETFs for UK investors?"
+      answer: "It depends on the account and the strategy. In an ISA, both face 15% withholding at some level, but accumulating UCITS ETFs eliminate dividend distributions entirely. In a GIA, accumulating UCITS ETFs defer dividend tax. In a SIPP, US-listed ETFs benefit from 0% withholding. The right answer varies by account type and tax situation."
+    - question: "What is the US estate tax risk for UK investors?"
+      answer: "Non-US residents holding US-domiciled assets above approximately $60,000 are subject to US estate tax at rates up to 40%. Ireland-domiciled UCITS ETFs are not subject to this. For investors building large US equity positions, this is worth specific planning."
+
 ---
 
 *Updated: May 2026 - GetGlobalYields.com - Read time: ~12 min*

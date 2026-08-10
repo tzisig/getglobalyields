@@ -22,6 +22,19 @@ heroImageHeight: 560
 draft: false
 readingTime: "13 min read"
 featured: false
+schema:
+  faq:
+    - question: "What is the maximum position size I should hold in TQQQ?"
+      answer: "The quarter-Kelly allocation of approximately 25% represents the upper bound for most investors. Below 20% is appropriate for investors who have not experienced a major leveraged ETF drawdown before and are uncertain of their behavioral response to a sustained -80% position decline."
+    - question: "Should I use a stop-loss order on TQQQ?"
+      answer: "A hard stop-loss order on a 3x leveraged ETF is problematic because of overnight gaps and intraday volatility. A 5% intraday move is routine for TQQQ. Mechanical stop-loss orders are frequently triggered by normal volatility rather than structural breakdown. The SMA rule on the underlying index provides a more robust and less frequently triggered exit mechanism."
+    - question: "Does the 200-day SMA rule always work?"
+      answer: "No. In choppy sideways markets, it generates false signals - exit and re-entry sequences that cost return without providing meaningful protection. Gayed and Bilello acknowledge this explicitly. The rule's value is demonstrated over full market cycles, not every individual signal."
+    - question: "How do I apply the SMA rule practically?"
+      answer: "Check the S&P 500's closing price relative to its 200-day SMA weekly. Free tools (StockCharts, TradingView) display this visually. When the S&P 500 closes below the 200-day SMA, reduce or exit the leveraged position. Define the re-entry condition (close back above 200-day SMA for two consecutive weeks, for example) before executing the exit."
+    - question: "What if I cannot monitor the SMA weekly?"
+      answer: "Set a price alert on your broker platform or a free service like TradingView. The 200-day SMA moves slowly - it rarely changes by more than a few points per day. A weekly check is sufficient. Monthly monitoring creates the risk of missing the crossover signal during a fast-moving market decline."
+
 ---
 
 <!-- PAGE: Add to /etf-investing/ or /portfolio-strategy/ -->

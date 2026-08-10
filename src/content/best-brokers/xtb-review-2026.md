@@ -33,6 +33,23 @@ draft: false
 readingTime: "13 min read"
 featured: false
 rating: 4.1
+schema:
+  faq:
+    - question: "Is XTB safe for international investors?"
+      answer: "XTB is a publicly listed company regulated by seven authorities including FCA and CySEC. International clients under the IFSC entity have segregated funds but lower formal compensation scheme protection. It is a credible, transparent broker with a 20-year track record and over 2 million clients."
+    - question: "Does XTB pay interest on cash?"
+      answer: "Yes. XTB pays interest automatically on all uninvested cash: USD 3.45%, EUR 2.30%, GBP 4% AER. No opt-in, no minimum balance, no conditions. Rates are variable and reviewed weekly. Confirmed from XTB.com help center (March 2026)."
+    - question: "How do I file a W-8BEN at XTB?"
+      answer: "In the mobile app: profile icon → Personal Details → scroll to the bottom. Also accessible via Client Office → My Profile → Profile Data → Tax Office/W-8BEN. Completing the form reduces US dividend withholding from 30% to 15% for investors from countries with a US tax treaty. The reduced rate applies from the start of the following month."
+    - question: "Can I buy real stocks at XTB, or only CFDs?"
+      answer: "EU and UK clients can buy real stocks and ETFs. Availability for international/IFSC clients may vary - confirm with XTB before opening an account."
+    - question: "What is the FX fee at XTB?"
+      answer: "0.5% on currency conversion. For investors trading primarily in their account's base currency (EUR, USD, or GBP), this fee does not apply on every trade."
+    - question: "How does XTB compare to IBKR Lite?"
+      answer: "Both offer 0% commission on US stocks. XTB has a broader real stock and ETF selection including non-US markets, pays cash interest with no minimum (versus IBKR's conditions and thresholds), and offers Investment Plans for automated monthly investing. IBKR Lite is limited to US markets. For European ETF investors, XTB is the more complete solution; for US-focused investors who want the widest market access overall, IBKR Pro remains the benchmark."
+    - question: "Does XTB have a minimum deposit?"
+      answer: "No minimum deposit. XTB recommends starting with at least $250 to make meaningful trades, but there is no enforced minimum."
+
 ---
 
 <!-- ADSENSE_UNIT_ID: HEADER_BANNER -->

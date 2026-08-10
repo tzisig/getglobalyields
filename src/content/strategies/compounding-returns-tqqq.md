@@ -22,6 +22,19 @@ heroImageHeight: 560
 draft: false
 readingTime: "13 min read"
 featured: false
+schema:
+  faq:
+    - question: "Does TQQQ always decay over time?"
+      answer: "No. In strongly trending markets - 2017, 2019, 2023 - TQQQ actually achieved positive compounding that exceeded the theoretical 3x multiple. Volatility decay only dominates in choppy or sideways markets. The problem is you cannot reliably predict which market environment is coming."
+    - question: "Can TQQQ go to zero?"
+      answer: "Not in a single day due to circuit breakers. But a prolonged bear market with high volatility can get very close. In the dotcom crash simulation, a hypothetical TQQQ-equivalent invested at the March 2000 peak was worth approximately $6.75 on a $10,000 investment by October 2002 - a loss of 99.93%. In 2022 the actual fund fell 79%. The mechanism that prevents zero on any given day does not prevent near-zero over a multi-year bear market."
+    - question: "Is TQQQ better than just buying QQQ?"
+      answer: "Over the 2016-2025 period, yes - dramatically. But the path required holding through a 79% drawdown in 2022. Most investors cannot do that. QQQ's 2022 was -33%, painful but survivable without extraordinary discipline. Whether TQQQ is \"better\" depends entirely on whether you can hold through the bad years."
+    - question: "What is the best time to buy TQQQ?"
+      answer: "After severe crashes, when the Nasdaq-100 has experienced significant selling and VIX is elevated, TQQQ offers the highest expected forward return - because the recovery from a deep drawdown generates the positive compounding that makes 3x leverage work well. Buying at market highs in low-volatility conditions is the least favorable entry."
+    - question: "How does TQQQ compare to just using margin?"
+      answer: "TQQQ cannot receive a margin call. Margin can. TQQQ also resets daily, which caps single-day loss at approximately 3x the index move. Direct 3x margin would compound losses without that reset. Both approaches carry extreme risk in sustained bear markets; they fail in different ways."
+
 ---
 
 <!-- INTERNAL LINKS: Link from leveraged ETFs guide, QQQ review, options strategy pages -->

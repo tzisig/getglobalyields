@@ -23,6 +23,23 @@ heroImageHeight: 560
 draft: false
 readingTime: "16 min read"
 featured: false
+schema:
+  faq:
+    - question: "Is offshore asset protection legal for non-US investors?"
+      answer: "Yes, when properly structured and fully disclosed to your home country tax authority. CRS ensures automatic reporting regardless - the question is whether your own filings are consistent with what the banks report."
+    - question: "What happens if I move countries after setting up the structure?"
+      answer: "This is one of the most common and most overlooked questions. If you establish a Cook Islands trust as a UK resident and later move to Germany, German CFC rules (AStG) now apply to your trust - the structure does not automatically adjust. Some jurisdictions are more favorable than others for trust ownership. A change of tax residency should always trigger a review of any existing offshore structure with an advisor in the new jurisdiction before the move, not after."
+    - question: "Does my spouse need to be involved in setting up a trust?"
+      answer: "Not as a matter of law in most jurisdictions - you can establish a trust as the sole settlor. However, in the event of divorce, courts in many countries will examine assets transferred to a trust during the marriage as potential matrimonial property, particularly if a spouse was not aware of the transfer. Some advisors recommend that both spouses are named as potential discretionary beneficiaries from the outset, which avoids later claims that the trust was used to hide assets. This is a legal question specific to your jurisdiction."
+    - question: "Can a creditor freeze my assets while litigation is ongoing, before getting a judgment?"
+      answer: "Yes, in many jurisdictions. Interim injunctions and Mareva orders (asset freezing orders) can be granted before a final judgment in UK courts and similar mechanisms exist elsewhere. Assets already held in a properly established offshore trust before the freezing order is sought are generally outside the scope of a domestic freezing order - but this depends on timing, jurisdiction, and the specific order. Assets transferred after a freezing order is in place face a much higher risk of being unwound."
+    - question: "Will a Cook Islands trust protect my assets from a UK court judgment?"
+      answer: "In practice, yes. A UK judgment is not recognized by Cook Islands courts. The creditor must file a new claim in Cook Islands, under Cook Islands law, within two years of the original transfer, and prove fraudulent intent beyond a reasonable doubt. No Cook Islands trust has been successfully attacked by a foreign creditor in over 30 years of the statute's operation."
+    - question: "Does an offshore structure protect against divorce?"
+      answer: "It depends on jurisdiction and timing. Some jurisdictions treat trust assets as matrimonial property regardless of structure. This requires specific legal advice in both your home jurisdiction and the trust jurisdiction."
+    - question: "Can I hold US ETFs inside a BVI company as a non-US investor?"
+      answer: "Yes. A BVI or Cayman holding company with a brokerage account at an international broker that accepts corporate accounts can hold US-listed securities. The company account is not subject to retail investor PRIIPs restrictions in the same way as an individual EU resident account."
+
 ---
 
 ## Who This Guide Is For

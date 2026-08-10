@@ -28,14 +28,29 @@ seo:
   ogImage: "/images/blog/taxes/us-canada-tax-treaty-2026.webp"
   twitterCard: "summary_large_image"
 schema:
+  faq:
+    - question: "Does W-8BEN reduce US withholding to 15% for Canadians on all income types?"
+      answer: "For dividends from US corporations, yes - W-8BEN applies the Article X treaty rate of 15%. For US interest income, the treaty cap is also 15% under Article XI. For capital gains from US securities, no withholding applies under Article XIII regardless of W-8BEN. The RRSP exemption is separate and does not require W-8BEN."
+    - question: "Is capital gains tax owed in the US when a Canadian sells US stocks?"
+      answer: "No. Article XIII(4) of the US-Canada treaty gives Canada exclusive taxing rights on capital gains from the sale of US securities by Canadian residents. No US withholding applies at the point of sale. The gain is reported on your Canadian return and taxed at 50% inclusion."
+    - question: "What is the withholding rate on US REIT distributions for Canadians?"
+      answer: "The 15% treaty rate applies to US REIT ordinary dividend distributions for individual Canadian investors. When selling REIT shares, FIRPTA requires 15% withholding on gross sale proceeds at the point of sale. This withholding can be recovered by filing a US non-resident return if it exceeds actual US tax owed, but the process requires professional assistance."
+    - question: "Is the RRSP treaty exemption automatic or does it require filing?"
+      answer: "The exemption under Article XXI(7) is based on the account type. Canadian brokers applying the RRSP exemption do so automatically when US securities are held inside a registered RRSP account. No separate filing by the investor is required, though your broker may maintain documentation for compliance purposes."
+    - question: "Can the TFSA withholding be recovered?"
+      answer: "No. US dividends withheld in a TFSA cannot be credited against Canadian tax because there is no Canadian tax on TFSA income to offset. The withholding is a permanent cost. This is why US dividend-paying assets are inefficient in a TFSA."
+    - question: "Did Canada's capital gains inclusion rate change in 2026?"
+      answer: "No. The proposed increase from 50% to 66.67% was cancelled by Prime Minister Carney's government in March 2025 and was never enacted into law. The inclusion rate for individuals in 2026 remains 50%."
+    - question: "What if I hold US stocks through a Canadian-listed ETF - does withholding still apply?"
+      answer: "Yes. Canadian-domiciled ETFs that hold US stocks (such as XUS, VFV, ZSP) receive US dividends subject to US withholding at the fund level. The treaty partially reduces this withholding at the fund level when the ETF is held in an RRSP, but the mechanics differ from holding the US ETF directly. For full RRSP withholding efficiency, holding US-domiciled ETFs (SPY, VTI, VYM) directly inside your RRSP captures the complete Article XXI(7) exemption."
   type: "article"
   headline: "US-Canada Tax Treaty Guide for Canadian Investors (2026)"
   description: "Learn how the US-Canada tax treaty affects RRSP, TFSA, and taxable accounts. How to reduce withholding tax to 15% and avoid common IRS tax traps."
   author: "Tzion S."
   datePublished: "2026-06-01"
   dateModified: "2026-08-04"
-  image: "/images/blog /taxes/us-canada-tax-treaty-investors-2026 .webp"
-  mainEntityOfPage: "https://getglobalyields.com /taxes/us-canada-tax-treaty-investors-2026 "
+  image: "/images/blog/taxes/us-canada-tax-treaty-investors-2026.webp"
+  mainEntityOfPage: "https://getglobalyields.com/taxes/us-canada-tax-treaty-investors-2026"
 ---
 
 ---

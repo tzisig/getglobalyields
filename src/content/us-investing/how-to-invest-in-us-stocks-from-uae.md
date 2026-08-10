@@ -22,6 +22,19 @@ heroImageHeight: 560
 draft: false
 readingTime: "11 min read"
 featured: false
+schema:
+  faq:
+    - question: "Can I buy VOO and VTI directly as a UAE resident?"
+      answer: "Yes. The UAE is not subject to the EU's PRIIPs regulation that blocks direct access to US-domiciled ETFs for EU residents. Any US-listed stock or ETF your broker offers is available to you."
+    - question: "Does filing W-8BEN reduce my US dividend withholding as a UAE resident?"
+      answer: "No. Without a US-UAE tax treaty, the 30% default withholding applies regardless. Filing W-8BEN still matters because it prevents backup withholding, a higher rate applied to accounts without valid tax documentation."
+    - question: "Do I owe any UAE tax on my US stock dividends or capital gains?"
+      answer: "No. The UAE imposes no personal income tax, capital gains tax, or dividend tax on individuals. The 30% US withholding is typically your entire tax bill on this income."
+    - question: "Which brokers accept UAE residents?"
+      answer: "Interactive Brokers, eToro (regulated via the ADGM), and Saxo Bank are all confirmed to accept UAE residents for account opening."
+    - question: "I'm a US citizen living in Dubai - does any of this apply to me?"
+      answer: "Not in the same way. US citizens and Green Card holders remain taxable by the US on worldwide income regardless of UAE residence, independent of the treaty and withholding rules described here. Consult a cross-border tax professional if this applies to you."
+
 ---
 
 Most guides to investing in US stocks assume a home country with an income tax system and a tax treaty with the US. Neither assumption fits the UAE. There is no US-UAE tax treaty, and the UAE itself has no personal income tax at all - two facts that pull in opposite directions and are worth understanding together rather than separately.

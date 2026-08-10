@@ -27,6 +27,17 @@ seo:
   ogImage: "/images/blog/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026.webp"
   twitterCard: "summary_large_image"
 schema:
+  faq:
+    - question: "Do I need to file a US tax return as an Israeli investor?"
+      answer: "Generally no. If you're only receiving dividend and interest income subject to withholding, with no US trade or business, you don't need to file a US return. The withholding is your final US tax liability."
+    - question: "What if I'm a dual US-Israeli citizen?"
+      answer: "Different rules apply. US citizens are taxed on worldwide income regardless of residence, via the treaty's saving clause. You'll likely need to file both US and Israeli returns and claim foreign tax credits on each side."
+    - question: "Does the treaty apply to ETFs and mutual funds?"
+      answer: "Yes for US-listed ETFs (like VOO, QQQ) - dividends qualify for the 25% treaty rate the same as individual stocks. Foreign-domiciled ETFs may have different treatment; see PFIC rules for non-US-domiciled funds. For leveraged ETFs like TQQQ, the TQQQ tax guide covers fund-level specifics."
+    - question: "What about Israeli bonds or stocks held by US investors?"
+      answer: "The treaty works both ways, with its own set of Israeli-side withholding rates and conditions - those are outside the scope of this guide, which focuses on Israeli residents investing in US markets."
+    - question: "Can I get refunds for over-withholding in past years?"
+      answer: "Yes, via Form 1040-NR, generally for up to three prior tax years. A cross-border tax professional is worth engaging for this given the paperwork involved."
   type: "article"
   headline: "US-Israel Tax Treaty Guide for Israeli Investors (2026)"
   description: "How the US-Israel tax treaty affects Israeli residents. Understand capital gains, the 25% dividend withholding rate, W-8BEN rules, and double tax credits."

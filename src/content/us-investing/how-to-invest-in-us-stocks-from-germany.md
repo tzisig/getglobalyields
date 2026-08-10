@@ -24,6 +24,21 @@ heroImageHeight: 560
 draft: false
 readingTime: "13 min read"
 featured: true
+schema:
+  faq:
+    - question: "Can I buy VTI or VOO as a German investor?"
+      answer: "No, not through a regulated EU broker. EU PRIIPs regulations require all packaged investment products sold to retail investors to have a Key Information Document (KID) in an official EU language. US ETF providers do not produce these for their US-listed funds. The alternative is UCITS ETFs: CSPX for S&P 500 exposure, VWCE for global equity."
+    - question: "What is the Vorabpauschale and how much will I pay?"
+      answer: "It is an annual advance tax on accumulating ETFs, calculated each January. For 2026, the Basiszins is 3.20% (BMF, January 13, 2026). On €50,000 in an equity ETF, the gross tax bill is approximately €207 - typically fully covered by the €1,000 Freistellungsauftrag for most investors. All Vorabpauschale paid is credited against your final capital gains tax when you sell, so you are not taxed twice."
+    - question: "Do I need to file a tax return as a German ETF investor?"
+      answer: "If you use German-regulated brokers (IBKR German entity, Trade Republic, Scalable Capital, Flatex), the broker handles all withholding automatically and you typically do not need to file Anlage KAP. You must file if you use DEGIRO or another foreign broker, if you want to offset losses across accounts, or if your personal income tax rate is below 25% and you want a refund."
+    - question: "Is CSPX or VWCE better for a German investor wanting US exposure?"
+      answer: "CSPX tracks the S&P 500 directly (100% US, 0.07% expense ratio) - the most direct route to US large-cap equity. VWCE covers global equity including ~60% US weight (0.22%) and adds international diversification in a single fund. If you want specifically US exposure and manage international separately, choose CSPX. If you want a complete global portfolio in one ticker, choose VWCE."
+    - question: "What happens to my Vorabpauschale if I sell my ETF?"
+      answer: "All Vorabpauschale amounts paid in previous years are credited against your final capital gains tax when you sell. Your broker calculates this automatically. You will not be taxed twice on the same profit."
+    - question: "Is the Solidaritätszuschlag still charged on investment income?"
+      answer: "Yes. Since 2021 the Soli has been abolished for most wage income, but it still applies to capital gains and investment income for all taxpayers. The effective combined rate remains 26.375% (25% Abgeltungsteuer + 5.5% Soli on that tax) for non-church members."
+
 ---
 
 
