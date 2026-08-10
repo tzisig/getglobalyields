@@ -6,7 +6,6 @@ pubDate: 2026-10-07
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Estate Planning"]
-keywords: "US estate tax non-resident alien, $60000 estate tax exemption, NRA estate tax US stocks, Form 706-NA"
 tags:
   - "US estate tax non-resident alien"
   - "$60000 estate tax exemption"

@@ -6,7 +6,6 @@ pubDate: 2026-08-27
 updatedDate: 2026-08-05
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "crypto ETF tax foreign investors, spot Bitcoin ETF grantor trust tax, IBIT tax nonresident alien, GBTC foreign investor tax"
 tags:
   - "crypto ETF tax foreign investors"
   - "spot Bitcoin ETF grantor trust"

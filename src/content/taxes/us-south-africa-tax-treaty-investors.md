@@ -6,7 +6,6 @@ pubDate: 2026-09-01
 updatedDate: 2026-08-19
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US South Africa tax treaty, South Africa investor US stocks, IBKR South Africa, eToro South Africa, W-8BEN South Africa, double taxation South Africa US, SARS foreign investment allowance, capital gains tax South Africa US stocks"
 tags:
   - "us south africa tax treaty"
   - "south africa investor us stocks"

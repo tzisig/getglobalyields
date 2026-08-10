@@ -6,7 +6,6 @@ pubDate: 2026-10-07
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Estate Planning"]
-keywords: "transfer on death TOD foreign investor, TOD brokerage account non-US beneficiary, avoid probate US brokerage account international"
 tags:
   - "transfer on death TOD foreign investor"
   - "TOD brokerage account non-US beneficiary"

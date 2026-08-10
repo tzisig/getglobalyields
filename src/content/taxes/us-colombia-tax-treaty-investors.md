@@ -6,7 +6,6 @@ pubDate: 2026-08-23
 updatedDate: 2026-08-16
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US Colombia tax treaty, Colombia investor US stocks, Interactive Brokers Colombia, IBKR Colombia, eToro Colombia, W-8BEN Colombia, how to invest in US stocks from Colombia"
 tags:
   - "us colombia tax treaty"
   - "colombia investor us stocks"

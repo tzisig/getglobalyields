@@ -6,7 +6,6 @@ pubDate: 2026-10-22
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Options Income"]
-keywords: "selling covered calls on QQQ, QQQ covered call strategy, QQQ options income, QQQ implied volatility"
 tags:
   - "selling covered calls on QQQ"
   - "QQQ covered call strategy"

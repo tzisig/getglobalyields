@@ -6,7 +6,6 @@ pubDate: 2026-09-13
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Options Income"]
-keywords: "rolling covered calls, roll covered call up and out, avoid assignment covered call, covered call management strategy"
 tags:
   - "rolling covered calls"
   - "roll covered call up and out"

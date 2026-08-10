@@ -6,7 +6,6 @@ pubDate: 2026-10-18
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Index Funds & ETFs"]
-keywords: "small cap ETF international investor, IJR VB small cap comparison, small cap size premium ETF diversification"
 tags:
   - "small cap ETF international investor"
   - "IJR VB small cap comparison"

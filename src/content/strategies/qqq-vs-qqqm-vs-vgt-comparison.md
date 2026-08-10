@@ -6,7 +6,6 @@ pubDate: 2026-09-17
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Strategies"]
-keywords: "QQQ vs QQQM vs VGT, best tech ETF comparison 2026, QQQM expense ratio, VGT vs QQQ holdings"
 tags:
   - "QQQ vs QQQM vs VGT"
   - "best tech ETF comparison 2026"

@@ -6,7 +6,6 @@ pubDate: 2026-08-31
 updatedDate: 2026-08-19
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US Dominican Republic tax treaty, Dominican Republic investor US stocks, Interactive Brokers Dominican Republic, IBKR Dominican Republic, eToro Dominican Republic, W-8BEN Dominican Republic, Dominican Republic capital gains tax US stocks"
 tags:
   - "us dominican republic tax treaty"
   - "dominican republic investor us stocks"

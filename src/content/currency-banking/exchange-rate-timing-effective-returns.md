@@ -6,7 +6,6 @@ pubDate: 2026-10-20
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Currency & Cross-Border Banking"]
-keywords: "exchange rate timing investing, should I wait for better exchange rate, currency timing effective returns"
 tags:
   - "exchange rate timing investing"
   - "wait for better exchange rate"

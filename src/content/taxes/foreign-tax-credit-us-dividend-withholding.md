@@ -6,7 +6,6 @@ pubDate: 2026-08-26
 updatedDate: 2026-08-05
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "foreign tax credit US withholding, credit US dividend tax against home country tax, double taxation relief mechanism, FTC limitation formula"
 tags:
   - "foreign tax credit US withholding"
   - "double taxation relief"

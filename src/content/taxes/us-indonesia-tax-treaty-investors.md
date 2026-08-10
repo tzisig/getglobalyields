@@ -6,7 +6,6 @@ pubDate: 2026-08-06
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US Indonesia tax treaty, Indonesia investor US stocks, IBKR Indonesia, Interactive Brokers Indonesia, eToro Indonesia, W-8BEN Indonesia, how to invest in US stocks from Indonesia"
 tags:
   - "us indonesia tax treaty"
   - "indonesia investor us stocks"

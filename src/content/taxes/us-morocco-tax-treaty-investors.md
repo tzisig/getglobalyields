@@ -6,7 +6,6 @@ pubDate: 2026-08-24
 updatedDate: 2026-08-16
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US Morocco tax treaty, Morocco investor US stocks, Interactive Brokers Morocco, IBKR Morocco, eToro Morocco, W-8BEN Morocco, Morocco capital gains tax US stocks, Morocco dividend tax US stocks"
 tags:
   - "us morocco tax treaty"
   - "morocco investor us stocks"

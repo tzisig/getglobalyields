@@ -6,7 +6,6 @@ pubDate: 2026-10-12
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Estate Planning"]
-keywords: "life insurance estate tax non-resident alien, life insurance vs brokerage account estate planning, US life insurance foreign national estate tax"
 tags:
   - "life insurance estate tax non-resident alien"
   - "life insurance vs brokerage account estate planning"

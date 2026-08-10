@@ -6,7 +6,6 @@ pubDate: 2026-08-06
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Crypto & Digital Assets"]
-keywords: "ETHA ETF, Ethereum ETF, spot Ethereum ETF, ETHA staking, best Ethereum ETF"
 tags:
   - "ETHA ETF"
   - "Ethereum ETF"

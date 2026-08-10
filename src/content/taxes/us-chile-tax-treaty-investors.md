@@ -6,7 +6,6 @@ pubDate: 2026-08-17
 updatedDate: 2026-08-12
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US Chile tax treaty, Chile investor US stocks, IBKR Chile, Interactive Brokers Chile, eToro Chile, W-8BEN Chile, how to invest in US stocks from Chile"
 tags:
   - "us chile tax treaty"
   - "chile investor us stocks"

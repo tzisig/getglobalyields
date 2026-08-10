@@ -6,7 +6,6 @@ pubDate: 2026-10-12
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Index Funds & ETFs"]
-keywords: "BND vs AGG vs TLT, bond ETF international investor, bond ETF withholding tax foreign investor, US Treasury ETF non-resident"
 tags:
   - "BND vs AGG vs TLT"
   - "bond ETF international investor"

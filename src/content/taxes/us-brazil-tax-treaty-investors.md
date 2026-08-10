@@ -6,7 +6,6 @@ pubDate: 2026-08-13
 updatedDate: 2026-08-11
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US Brazil tax treaty, Brazil investor US stocks, W-8BEN Brazil, double taxation Brazil US, IOF tax US stocks Brazil, IBKR Brazil, eToro Brazil, capital gains tax Brazil US stocks"
 tags:
   - "us brazil tax treaty"
   - "brazil investor us stocks"

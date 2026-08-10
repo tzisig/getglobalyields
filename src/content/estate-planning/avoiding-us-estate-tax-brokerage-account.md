@@ -6,7 +6,6 @@ pubDate: 2026-10-06
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Estate Planning"]
-keywords: "avoid US estate tax brokerage account, reduce estate tax exposure non-resident alien, UCITS ETF estate tax avoidance, non-US domiciled fund estate tax"
 tags:
   - "avoid US estate tax brokerage account"
   - "reduce estate tax exposure non-resident alien"

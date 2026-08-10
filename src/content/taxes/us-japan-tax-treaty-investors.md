@@ -6,7 +6,6 @@ pubDate: 2026-08-11
 updatedDate: 2026-08-10
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US Japan tax treaty, Japan investor US stocks, W-8BEN Japan, US dividends Japan withholding, Japan capital gains US stocks, NISA US stocks, double taxation Japan US"
 tags:
   - "us japan tax treaty"
   - "japan investor us stocks"

@@ -6,7 +6,6 @@ pubDate: 2026-08-10
 updatedDate: 2026-08-09
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US France tax treaty, France investor US stocks, Interactive Brokers France, IBKR France, eToro France, W-8BEN France, PEA US stocks France"
 tags:
   - "us france tax treaty"
   - "france investor us stocks"

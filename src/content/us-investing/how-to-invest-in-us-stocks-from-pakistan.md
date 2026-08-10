@@ -6,7 +6,6 @@ pubDate: 2026-08-20
 updatedDate: 2026-08-05
 author: "Tzion S."
 categories: ["US Investing"]
-keywords: "Invest In US Stocks From Pakistan, Pakistan ETF Investing 2026, SBP Foreign Exchange, Interactive Brokers Pakistan, IBKR Pakistan, eToro Pakistan, W-8BEN Pakistan, Best Broker Pakistan, Investing-Guides, Country-Guides"
 tags:
   - "invest in US stocks from Pakistan"
   - "Pakistan ETF investing 2026"

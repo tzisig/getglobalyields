@@ -6,7 +6,6 @@ pubDate: 2026-08-30
 updatedDate: 2026-08-05
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "qualified vs non-qualified dividends foreign investors, does qualified dividend rate apply to non-US investors, NRA dividend tax rate"
 tags:
   - "qualified vs non-qualified dividends"
   - "foreign investor dividend tax"

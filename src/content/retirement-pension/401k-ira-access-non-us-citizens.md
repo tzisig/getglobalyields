@@ -6,7 +6,6 @@ pubDate: 2026-09-28
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Retirement & Pension"]
-keywords: "401k IRA non-US citizens, nonresident alien IRA eligibility, foreign national 401k access, IRA earned income requirement"
 tags:
   - "401k IRA non-US citizens"
   - "nonresident alien IRA eligibility"

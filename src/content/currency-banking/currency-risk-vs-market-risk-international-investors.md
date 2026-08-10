@@ -6,7 +6,6 @@ pubDate: 2026-10-19
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Currency & Cross-Border Banking"]
-keywords: "currency risk vs market risk, separating currency risk from investment risk, international investor risk types"
 tags:
   - "currency risk vs market risk"
   - "separating currency risk from investment risk"

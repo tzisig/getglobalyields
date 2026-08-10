@@ -6,7 +6,6 @@ pubDate: 2026-09-29
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Retirement & Pension"]
-keywords: "US brokerage account retiring abroad, moving countries brokerage account, broker residency change requirements, retire abroad investment account"
 tags:
   - "US brokerage account retiring abroad"
   - "moving countries brokerage account"

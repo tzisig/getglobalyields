@@ -6,7 +6,6 @@ pubDate: 2026-08-30
 updatedDate: 2026-08-18
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US South Korea tax treaty, South Korea investor US stocks, IBKR South Korea, Interactive Brokers Korea, eToro Korea, W-8BEN South Korea, how to invest in US stocks from Korea"
 tags:
   - "us south korea tax treaty"
   - "south korea investor us stocks"

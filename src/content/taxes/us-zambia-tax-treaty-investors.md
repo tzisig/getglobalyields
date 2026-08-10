@@ -6,7 +6,6 @@ pubDate: 2026-09-09
 updatedDate: 2026-08-24
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US Zambia tax treaty, Zambia investor US stocks, Interactive Brokers Zambia, IBKR Zambia, eToro Zambia, W-8BEN Zambia, Zambia capital gains tax US stocks, Zambia dividend tax US stocks"
 tags:
   - "us zambia tax treaty"
   - "zambia investor us stocks"

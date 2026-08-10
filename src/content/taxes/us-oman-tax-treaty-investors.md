@@ -6,7 +6,6 @@ pubDate: 2026-08-12
 updatedDate: 2026-08-10
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US Oman tax treaty, Oman investor US stocks, Interactive Brokers Oman, IBKR Oman, eToro Oman, W-8BEN Oman, Oman capital gains tax US stocks, Oman personal income tax 2028"
 tags:
   - "us oman tax treaty"
   - "oman investor us stocks"

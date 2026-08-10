@@ -6,7 +6,6 @@ pubDate: 2026-08-06
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Crypto & Digital Assets"]
-keywords: "crypto vs TQQQ volatility, Bitcoin vs leveraged ETF risk, crypto volatility compared to leveraged funds"
 tags:
   - "crypto vs TQQQ volatility"
   - "Bitcoin vs leveraged ETF risk"

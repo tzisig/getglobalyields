@@ -6,7 +6,6 @@ pubDate: 2026-09-27
 updatedDate: 2026-09-01
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US Peru tax treaty, Peru investor US stocks, Interactive Brokers Peru, IBKR Peru, eToro Peru, W-8BEN Peru, Peru capital gains tax US stocks, Peru dividend tax US stocks"
 tags:
   - "us peru tax treaty"
   - "peru investor us stocks"

@@ -6,7 +6,6 @@ pubDate: 2026-09-01
 updatedDate: 2026-08-05
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "options trading tax non-US residents, options premium tax nonresident alien, covered call tax foreign investor, cash secured put tax foreign investor"
 tags:
   - "options trading tax non-US residents"
   - "options premium tax nonresident alien"

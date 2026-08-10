@@ -6,7 +6,6 @@ pubDate: 2026-08-09
 updatedDate: 2026-08-09
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US Ethiopia tax treaty, Ethiopia investor US stocks, Interactive Brokers Ethiopia, IBKR Ethiopia, eToro Ethiopia, W-8BEN Ethiopia, Ethiopia capital gains tax US stocks, Ethiopia birr exchange rate"
 tags:
   - "us ethiopia tax treaty"
   - "ethiopia investor us stocks"

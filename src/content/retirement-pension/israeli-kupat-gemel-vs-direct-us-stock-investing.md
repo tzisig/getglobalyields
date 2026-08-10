@@ -6,7 +6,6 @@ pubDate: 2026-09-30
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Retirement & Pension"]
-keywords: "Kupat Gemel vs US stocks, Kupat Gemel Lehashkaah, Israeli pension fund US investing, PFIC Kupat Gemel US citizens"
 tags:
   - "Kupat Gemel vs US stocks"
   - "Kupat Gemel Lehashkaah"

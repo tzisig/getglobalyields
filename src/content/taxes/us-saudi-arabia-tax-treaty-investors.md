@@ -6,7 +6,6 @@ pubDate: 2026-08-20
 updatedDate: 2026-08-13
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US Saudi Arabia tax treaty, Saudi Arabia investor US stocks, Interactive Brokers Saudi Arabia, IBKR Saudi Arabia, eToro Saudi Arabia, W-8BEN Saudi Arabia, Saudi Arabia capital gains tax US stocks, zakat US stocks"
 tags:
   - "us saudi arabia tax treaty"
   - "saudi arabia investor us stocks"

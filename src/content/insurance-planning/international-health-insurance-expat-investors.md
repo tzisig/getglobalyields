@@ -6,7 +6,6 @@ pubDate: 2026-08-06
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Insurance & Cross-Border Planning"]
-keywords: "international health insurance expat, expat medical insurance, international private medical insurance, expat health insurance plans, best international health insurance"
 tags:
   - "international health insurance expat"
   - "expat medical insurance"

@@ -6,7 +6,6 @@ pubDate: 2026-09-02
 updatedDate: 2026-08-20
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US Iceland tax treaty, Iceland investor US stocks, Interactive Brokers Iceland, IBKR Iceland, eToro Iceland, W-8BEN Iceland, Iceland capital gains tax US stocks"
 tags:
   - "us iceland tax treaty"
   - "iceland investor us stocks"

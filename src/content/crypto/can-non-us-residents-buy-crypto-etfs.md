@@ -6,7 +6,6 @@ pubDate: 2026-08-06
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Crypto & Digital Assets"]
-keywords: "can non-US residents buy crypto ETF, foreign investor Bitcoin ETF access, crypto exchange restrictions by country"
 tags:
   - "can non-US residents buy crypto ETF"
   - "foreign investor Bitcoin ETF access"

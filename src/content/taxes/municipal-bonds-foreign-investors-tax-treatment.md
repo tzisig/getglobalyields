@@ -6,7 +6,6 @@ pubDate: 2026-08-30
 updatedDate: 2026-08-05
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "municipal bonds foreign investors tax, muni bond withholding non-US investor, portfolio interest exception municipal bonds, tax-exempt municipal bonds nonresident alien"
 tags:
   - "municipal bonds foreign investors tax"
   - "muni bond withholding non-US investor"

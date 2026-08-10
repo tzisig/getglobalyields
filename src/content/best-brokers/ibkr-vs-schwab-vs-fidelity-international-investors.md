@@ -6,7 +6,6 @@ pubDate: 2026-09-03
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Best Brokers"]
-keywords: "IBKR vs Schwab vs Fidelity, Fidelity international investors, Charles Schwab International non-US residents, Interactive Brokers comparison"
 tags:
   - "IBKR vs Schwab vs Fidelity"
   - "Fidelity international investors"

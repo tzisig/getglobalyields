@@ -6,7 +6,6 @@ pubDate: 2026-08-06
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Crypto & Digital Assets"]
-keywords: "crypto tax loss harvesting, crypto wash sale rule, does wash sale apply to crypto, tax loss harvesting cryptocurrency, crypto wash sale loophole"
 tags:
   - "crypto tax loss harvesting"
   - "crypto wash sale rule"

@@ -6,7 +6,6 @@ pubDate: 2026-09-23
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Strategies"]
-keywords: "sequence of returns risk leveraged ETF, TQQQ retirement withdrawal risk, sequence risk explained, leveraged ETF drawdown phase"
 tags:
   - "sequence of returns risk leveraged ETF"
   - "TQQQ retirement withdrawal risk"

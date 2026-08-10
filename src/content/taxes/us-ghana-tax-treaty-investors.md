@@ -6,7 +6,6 @@ pubDate: 2026-08-11
 updatedDate: 2026-08-10
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US Ghana tax treaty, Ghana investor US stocks, Interactive Brokers Ghana, IBKR Ghana, eToro Ghana, W-8BEN Ghana, how to invest in US stocks from Ghana"
 tags:
   - "us ghana tax treaty"
   - "ghana investor us stocks"

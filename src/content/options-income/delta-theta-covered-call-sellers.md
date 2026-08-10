@@ -6,7 +6,6 @@ pubDate: 2026-09-14
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Options Income"]
-keywords: "delta theta covered calls explained, options Greeks for beginners, delta strike selection covered call, theta decay explained"
 tags:
   - "delta theta covered calls explained"
   - "options Greeks for beginners"

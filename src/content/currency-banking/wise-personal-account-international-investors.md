@@ -6,7 +6,6 @@ pubDate: 2026-10-25
 updatedDate: 2026-08-07
 author: "Tzion S."
 categories: ["Currency & Cross-Border Banking"]
-keywords: "Wise multi currency account, Wise debit card, Wise account opening requirements"
 tags:
   - "Wise multi currency account"
   - "Wise debit card"

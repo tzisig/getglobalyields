@@ -6,7 +6,6 @@ pubDate: 2026-09-20
 updatedDate: 2026-08-30
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US Bangladesh tax treaty, Bangladesh investor US stocks, Interactive Brokers Bangladesh, IBKR Bangladesh, eToro Bangladesh, W-8BEN Bangladesh, Bangladesh capital gains tax US stocks, Bangladesh dividend tax US stocks"
 tags:
   - "us bangladesh tax treaty"
   - "bangladesh investor us stocks"

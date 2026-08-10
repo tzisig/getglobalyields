@@ -6,7 +6,6 @@ pubDate: 2026-10-15
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Index Funds & ETFs"]
-keywords: "GLD IAU tax treatment foreign investor, gold ETF grantor trust nonresident alien, collectibles tax rate gold ETF"
 tags:
   - "GLD IAU tax treatment foreign investor"
   - "gold ETF grantor trust nonresident alien"

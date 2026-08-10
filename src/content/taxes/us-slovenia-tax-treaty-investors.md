@@ -6,7 +6,6 @@ pubDate: 2026-10-05
 updatedDate: 2026-09-06
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US Slovenia tax treaty, Slovenia investor US stocks, Interactive Brokers Slovenia, IBKR Slovenia, eToro Slovenia, W-8BEN Slovenia, Slovenia capital gains tax US stocks"
 tags:
   - "us slovenia tax treaty"
   - "slovenia investor us stocks"

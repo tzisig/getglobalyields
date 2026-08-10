@@ -6,7 +6,6 @@ pubDate: 2026-08-06
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Insurance & Cross-Border Planning"]
-keywords: "private placement life insurance explained, offshore portfolio bonds, PPLI cross-border investors"
 tags:
   - "private placement life insurance explained"
   - "offshore portfolio bonds"

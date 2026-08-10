@@ -6,7 +6,6 @@ pubDate: 2026-10-25
 updatedDate: 2026-08-07
 author: "Tzion S."
 categories: ["Currency & Cross-Border Banking"]
-keywords: "Wise business account, Wise business account fees, Wise Interactive Brokers"
 tags:
   - "Wise business account"
   - "Wise business account fees"

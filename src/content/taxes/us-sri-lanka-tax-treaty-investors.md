@@ -6,7 +6,6 @@ pubDate: 2026-09-03
 updatedDate: 2026-08-20
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US Sri Lanka tax treaty, Sri Lanka investor US stocks, Interactive Brokers Sri Lanka, IBKR Sri Lanka, eToro Sri Lanka, W-8BEN Sri Lanka, Sri Lanka capital gains tax US stocks, Sri Lanka dividend tax US stocks"
 tags:
   - "us sri lanka tax treaty"
   - "sri lanka investor us stocks"

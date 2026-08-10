@@ -6,7 +6,6 @@ pubDate: 2026-09-13
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Options Income"]
-keywords: "options trading level approval, IBKR options approval international, options level 1 2 3, non-US options trading permissions"
 tags:
   - "options trading level approval"
   - "IBKR options approval international"

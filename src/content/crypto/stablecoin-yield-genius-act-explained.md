@@ -6,7 +6,6 @@ pubDate: 2026-08-06
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Crypto & Digital Assets"]
-keywords: "stablecoin yield, USDC interest account, stablecoin interest rates, crypto interest account, stablecoin APY"
 tags:
   - "stablecoin yield"
   - "stablecoin interest rates"

@@ -6,7 +6,6 @@ pubDate: 2026-10-20
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Currency & Cross-Border Banking"]
-keywords: "repatriating US investment gains, withdrawing from US brokerage account abroad, converting brokerage proceeds home currency"
 tags:
   - "repatriating US investment gains"
   - "withdrawing from US brokerage account abroad"

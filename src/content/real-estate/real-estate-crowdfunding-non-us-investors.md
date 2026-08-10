@@ -6,7 +6,6 @@ pubDate: 2026-08-06
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Real Estate & REITs"]
-keywords: "real estate crowdfunding non-us investors, US real estate crowdfunding foreign investors, accredited investor real estate platform"
 tags:
   - "real estate crowdfunding non-us investors"
   - "US real estate crowdfunding foreign investors"

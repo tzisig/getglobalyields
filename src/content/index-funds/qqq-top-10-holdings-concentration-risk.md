@@ -6,7 +6,6 @@ pubDate: 2026-10-21
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Index Funds & ETFs"]
-keywords: "QQQ top 10 holdings, Nasdaq-100 special rebalance, QQQ concentration risk, Nasdaq-100 concentration rule, QQQ diversification"
 tags:
   - "QQQ top 10 holdings"
   - "Nasdaq-100 special rebalance"

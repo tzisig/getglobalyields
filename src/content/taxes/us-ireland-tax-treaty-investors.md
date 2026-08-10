@@ -6,7 +6,6 @@ pubDate: 2026-09-06
 updatedDate: 2026-08-23
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US Ireland tax treaty, Ireland investor US stocks, Interactive Brokers Ireland, IBKR Ireland, eToro Ireland, W-8BEN Ireland, exit tax Ireland US ETF"
 tags:
   - "us ireland tax treaty"
   - "ireland investor us stocks"

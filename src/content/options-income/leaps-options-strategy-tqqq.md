@@ -6,7 +6,6 @@ pubDate: 2026-09-09
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Options Income"]
-keywords: "LEAPS TQQQ, long-term options TQQQ, LEAPS leveraged ETF strategy, TQQQ LEAPS call options"
 tags:
   - "LEAPS TQQQ"
   - "long-term options TQQQ"

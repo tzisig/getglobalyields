@@ -6,7 +6,6 @@ pubDate: 2026-09-07
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Best Brokers"]
-keywords: "zero commission broker international investors, commission free trading non-US residents, XTB zero commission, IBKR Lite international"
 tags:
   - "zero commission broker international investors"
   - "commission free trading non-US residents"

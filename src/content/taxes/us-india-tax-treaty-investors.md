@@ -6,7 +6,6 @@ pubDate: 2026-08-04
 updatedDate: 2026-08-04
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US India tax treaty, double taxation India US, NRI invest in US stocks, US stocks for NRI, NRI tax on US stocks, W-8BEN India, LRS limit US stocks, India capital gains US stocks"
 tags:
   - "us india tax treaty"
   - "double taxation india us"

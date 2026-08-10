@@ -6,7 +6,6 @@ pubDate: 2026-09-29
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Retirement & Pension"]
-keywords: "Social Security totalization agreement investment income, totalization agreement US stocks, does totalization cover dividends, US Social Security agreement countries"
 tags:
   - "Social Security totalization agreement"
   - "totalization agreement investment income"

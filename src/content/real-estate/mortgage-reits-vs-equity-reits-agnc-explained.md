@@ -6,7 +6,6 @@ pubDate: 2026-08-06
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Real Estate & REITs"]
-keywords: "mortgage REITs vs equity REITs, what are mortgage REITs, equity REIT vs mortgage REIT, AGNC vs NLY, best mortgage REIT ETF"
 tags:
   - "mortgage REITs vs equity REITs"
   - "what are mortgage REITs"

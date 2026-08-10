@@ -6,7 +6,6 @@ pubDate: 2026-09-23
 updatedDate: 2026-08-31
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US Paraguay tax treaty, Paraguay investor US stocks, Interactive Brokers Paraguay, IBKR Paraguay, eToro Paraguay, W-8BEN Paraguay, Paraguay capital gains tax US stocks, Paraguay tax residency"
 tags:
   - "us paraguay tax treaty"
   - "paraguay investor us stocks"

@@ -6,7 +6,6 @@ pubDate: 2026-10-01
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Retirement & Pension"]
-keywords: "required minimum distributions non-US investors, RMD nonresident alien, RMD former US worker abroad, RMD Traditional IRA foreign resident"
 tags:
   - "required minimum distributions non-US investors"
   - "RMD nonresident alien"

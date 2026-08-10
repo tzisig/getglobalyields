@@ -6,7 +6,6 @@ pubDate: 2026-10-11
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Estate Planning"]
-keywords: "joint account estate tax non-citizen spouse, joint tenancy brokerage account estate tax, mixed nationality couple estate tax US"
 tags:
   - "joint account estate tax non-citizen spouse"
   - "joint tenancy brokerage account estate tax"

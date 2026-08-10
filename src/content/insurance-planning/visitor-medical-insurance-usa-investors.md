@@ -6,7 +6,6 @@ pubDate: 2026-08-06
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Insurance & Cross-Border Planning"]
-keywords: "visitor insurance USA, US visitor health insurance, travel medical insurance US visit, best visitor insurance for USA, travel insurance visiting USA"
 tags:
   - "visitor insurance USA"
   - "US visitor health insurance"

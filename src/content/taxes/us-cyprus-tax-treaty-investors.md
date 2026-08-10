@@ -6,7 +6,6 @@ pubDate: 2026-08-23
 updatedDate: 2026-08-16
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US Cyprus tax treaty, Cyprus investor US stocks, Interactive Brokers Cyprus, IBKR Cyprus, eToro Cyprus, Cyprus non-dom tax, W-8BEN Cyprus, Cyprus capital gains tax US stocks"
 tags:
   - "us cyprus tax treaty"
   - "cyprus investor us stocks"

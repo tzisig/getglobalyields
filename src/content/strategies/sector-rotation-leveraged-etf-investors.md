@@ -6,7 +6,6 @@ pubDate: 2026-09-17
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Strategies"]
-keywords: "sector rotation leveraged ETFs, sector rotation strategy TQQQ, leveraged sector ETF timing, economic cycle investing leveraged"
 tags:
   - "sector rotation leveraged ETFs"
   - "sector rotation strategy TQQQ"

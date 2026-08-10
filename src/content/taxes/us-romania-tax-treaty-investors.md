@@ -6,7 +6,6 @@ pubDate: 2026-10-01
 updatedDate: 2026-09-03
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US Romania tax treaty, Romania investor US stocks, Interactive Brokers Romania, IBKR Romania, eToro Romania, W-8BEN Romania, Romania capital gains tax US stocks"
 tags:
   - "us romania tax treaty"
   - "romania investor us stocks"

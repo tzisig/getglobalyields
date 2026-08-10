@@ -6,7 +6,6 @@ pubDate: 2026-10-08
 updatedDate: 2026-09-08
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US Turkey tax treaty, Turkey investor US stocks, Interactive Brokers Turkey, IBKR Turkey, eToro Turkey, W-8BEN Turkey, how to invest in US stocks from Turkey"
 tags:
   - "us turkey tax treaty"
   - "turkey investor us stocks"

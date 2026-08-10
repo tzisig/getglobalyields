@@ -6,7 +6,6 @@ pubDate: 2026-09-15
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Options Income"]
-keywords: "VIX TQQQ options pricing, implied volatility leveraged ETF, VIX vs TQQQ IV, volatility index options premium"
 tags:
   - "VIX TQQQ options pricing"
   - "implied volatility leveraged ETF"

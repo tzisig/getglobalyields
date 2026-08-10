@@ -6,7 +6,6 @@ pubDate: 2026-04-01
 updatedDate: 2026-08-04
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "W-8ben Form, Us Withholding Tax, Non Us Investors Tax, Foreign Investors Us Tax, W8ben Explained, Tax Treaty Us Dividends, Reduce Us Dividend Tax, Taxes, W-8BEN Form Complete Guide for International Investors, 8BEN Form, Complete Guide for International Investors, W-8BEN"
 tags:
   - "w-8ben form"
   - "us withholding tax"
@@ -16,10 +15,11 @@ tags:
   - "tax treaty us dividends"
   - "reduce us dividend tax"
 heroImage: "/images/blog/taxes/w8ben-form-non-us-investors.webp"
+heroImageWidth: 840
+heroImageHeight: 560
 draft: false
 readingTime: "12 min read"
 featured: false
-canonicalURL: "https://getglobalyields.com/w8ben-form-non-us-investors"
 seo:
   metaTitle: "W-8BEN Form Explained (2026): Reduce US Withholding Tax"
   metaDescription: "Step-by-step W-8BEN guide for non-US investors. Reduce dividend tax from 30% to treaty rates and avoid costly mistakes."

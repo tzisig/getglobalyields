@@ -6,7 +6,6 @@ pubDate: 2026-08-06
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Real Estate & REITs"]
-keywords: "data center REIT, cell tower REIT, digital infrastructure REIT, data center ETF, American Tower stock, Digital Realty stock"
 tags:
   - "data center REIT"
   - "American Tower stock"

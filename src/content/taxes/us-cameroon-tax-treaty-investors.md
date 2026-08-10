@@ -6,7 +6,6 @@ pubDate: 2026-08-05
 updatedDate: 2026-08-05
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US Cameroon tax treaty, Cameroon investor US stocks, Interactive Brokers Cameroon, IBKR Cameroon, eToro Cameroon, W-8BEN Cameroon, Cameroon capital gains tax US stocks, Cameroon CFA franc exchange rate"
 tags:
   - "us cameroon tax treaty"
   - "cameroon investor us stocks"

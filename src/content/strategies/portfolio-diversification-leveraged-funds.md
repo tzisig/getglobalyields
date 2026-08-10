@@ -6,7 +6,6 @@ pubDate: 2026-04-01
 updatedDate: 2026-04-01
 author: "Tzion S."
 categories: ["Strategies"]
-keywords: "Leveraged ETFs, 3x ETFs, Portfolio Diversification, TQQQ Strategy, Volatility Drag, TQQQ in diversified portfolio 2026, leveraged ETF rebalancing strategy, should I hold TQQQ long term, managing 3x fund decay, risk of leveraged ETFs diversification"
 tags:
   - "diversification"
   - "leveraged ETF"

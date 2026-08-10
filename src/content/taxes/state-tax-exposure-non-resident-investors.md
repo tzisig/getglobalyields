@@ -6,7 +6,6 @@ pubDate: 2026-09-01
 updatedDate: 2026-08-05
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "state tax non-resident alien investor, does broker state matter for taxes, US state income tax foreign investor, no state tax nexus foreign investor"
 tags:
   - "state tax non-resident alien investor"
   - "US state income tax foreign investor"

@@ -6,7 +6,6 @@ pubDate: 2026-09-14
 updatedDate: 2026-08-26
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US Mexico tax treaty, Mexico investor US stocks, IBKR Mexico, Interactive Brokers Mexico, eToro Mexico, W-8BEN Mexico, double taxation Mexico US, how to invest in US stocks from Mexico"
 tags:
   - "us mexico tax treaty"
   - "mexico investor us stocks"

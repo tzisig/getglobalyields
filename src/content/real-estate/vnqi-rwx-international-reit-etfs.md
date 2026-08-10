@@ -6,7 +6,6 @@ pubDate: 2026-08-06
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Real Estate & REITs"]
-keywords: "international REIT ETF, global REIT ETF, VNQI review, global real estate ETF, RWX ETF"
 tags:
   - "international REIT ETF"
   - "global REIT ETF"

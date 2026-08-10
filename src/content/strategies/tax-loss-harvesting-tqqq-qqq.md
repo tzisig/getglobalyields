@@ -6,7 +6,6 @@ pubDate: 2026-09-21
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Strategies"]
-keywords: "tax loss harvesting TQQQ QQQ, TQQQ tax loss swap strategy, wash sale rule leveraged ETF, harvest losses Nasdaq ETF"
 tags:
   - "tax loss harvesting TQQQ QQQ"
   - "TQQQ tax loss swap strategy"

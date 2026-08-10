@@ -6,7 +6,6 @@ pubDate: 2026-08-27
 updatedDate: 2026-08-18
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US Hungary tax treaty, Hungary investor US stocks, Interactive Brokers Hungary, IBKR Hungary, eToro Hungary, W-8BEN Hungary, Hungary capital gains tax US stocks, Hungary dividend tax US stocks"
 tags:
   - "us hungary tax treaty"
   - "hungary investor us stocks"

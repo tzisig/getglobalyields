@@ -6,7 +6,6 @@ pubDate: 2026-09-23
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Strategies"]
-keywords: "TQQQ vs individual tech stocks, concentrated tech stock portfolio vs TQQQ, TQQQ diversification comparison, mega cap stock picking vs leveraged ETF"
 tags:
   - "TQQQ vs individual tech stocks"
   - "concentrated tech stock portfolio vs TQQQ"

@@ -6,7 +6,6 @@ pubDate: 2026-08-06
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Crypto & Digital Assets"]
-keywords: "IBIT options, bitcoin ETF options trading, IBIT options chain, IBIT covered calls, options on bitcoin ETF"
 tags:
   - "IBIT options"
   - "bitcoin ETF options trading"

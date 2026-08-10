@@ -6,7 +6,6 @@ pubDate: 2026-10-18
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Currency & Cross-Border Banking"]
-keywords: "double currency conversion fee, avoid double FX conversion, currency conversion mistakes international investor"
 tags:
   - "double currency conversion fee"
   - "avoid double FX conversion"

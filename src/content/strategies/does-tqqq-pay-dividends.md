@@ -6,7 +6,6 @@ pubDate: 2026-09-24
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Strategies"]
-keywords: "does TQQQ pay dividends, TQQQ dividend yield, TQQQ income investing, TQQQ distributions explained"
 tags:
   - "does TQQQ pay dividends"
   - "TQQQ dividend yield"

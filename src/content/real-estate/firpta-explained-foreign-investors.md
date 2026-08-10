@@ -6,7 +6,6 @@ pubDate: 2026-08-06
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Real Estate & REITs"]
-keywords: "FIRPTA explained foreign investors, foreign investment in real property tax act, FIRPTA withholding non-resident"
 tags:
   - "FIRPTA explained foreign investors"
   - "foreign investment in real property tax act"

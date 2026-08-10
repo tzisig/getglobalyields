@@ -6,7 +6,6 @@ pubDate: 2026-08-11
 updatedDate: 2026-08-05
 author: "Tzion S."
 categories: ["US Investing"]
-keywords: "Invest In US Stocks From Mexico, Mexico ETF Investing 2026, Interactive Brokers Mexico, IBKR Mexico, eToro Mexico, W-8BEN Mexico, BMV capital gains US stocks, Best Broker Mexico, Investing-Guides, Country-Guides"
 tags:
   - "invest in US stocks from Mexico"
   - "Mexico ETF investing 2026"

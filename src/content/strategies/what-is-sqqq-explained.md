@@ -6,7 +6,6 @@ pubDate: 2026-10-22
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Strategies"]
-keywords: "what is SQQQ, SQQQ explained, SQQQ etf explained, SQQQ meaning, SQQQ stock explained, how does SQQQ work"
 tags:
   - "what is SQQQ"
   - "SQQQ explained"

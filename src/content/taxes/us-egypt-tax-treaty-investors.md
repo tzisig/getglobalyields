@@ -6,7 +6,6 @@ pubDate: 2026-07-06
 updatedDate: 2026-08-04
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US Egypt Tax Treaty 2026, Egyptian Investor US Stocks, W-8BEN Egypt, US Dividends Egypt Withholding, Double Taxation Egypt US, Egypt Capital Gains Tax, US Stocks From Egypt, Egypt Foreign Tax Credit, Taxes, US-Egypt Tax Treaty Complete Guide for Investors 2026, US-Egypt Tax Treaty for Investors"
 tags:
   - "US Egypt tax treaty 2026"
   - "Egyptian investor US stocks"

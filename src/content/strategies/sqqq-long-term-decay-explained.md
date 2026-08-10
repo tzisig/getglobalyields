@@ -6,7 +6,6 @@ pubDate: 2026-10-25
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Strategies"]
-keywords: "SQQQ long term, holding SQQQ long term, SQQQ decay, SQQQ buy and hold, SQQQ history"
 tags:
   - "SQQQ long term"
   - "SQQQ decay"

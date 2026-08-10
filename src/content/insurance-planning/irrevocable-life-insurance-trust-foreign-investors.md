@@ -6,7 +6,6 @@ pubDate: 2026-08-06
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Insurance & Cross-Border Planning"]
-keywords: "irrevocable life insurance trust foreign investor, ILIT cross-border estate planning, life insurance trust non-resident alien"
 tags:
   - "irrevocable life insurance trust foreign investor"
   - "ILIT cross-border estate planning"

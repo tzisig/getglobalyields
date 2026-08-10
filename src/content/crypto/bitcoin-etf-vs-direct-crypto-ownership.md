@@ -6,7 +6,6 @@ pubDate: 2026-08-06
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Crypto & Digital Assets"]
-keywords: "Bitcoin ETF vs direct ownership, spot Bitcoin ETF international investors, IBIT vs owning Bitcoin"
 tags:
   - "Bitcoin ETF vs direct ownership"
   - "spot Bitcoin ETF international investors"

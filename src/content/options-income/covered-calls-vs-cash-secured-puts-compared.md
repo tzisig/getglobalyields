@@ -6,7 +6,6 @@ pubDate: 2026-09-16
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Options Income"]
-keywords: "covered calls vs cash secured puts, which options income strategy, covered call vs put selling comparison"
 tags:
   - "covered calls vs cash secured puts"
   - "which options income strategy"

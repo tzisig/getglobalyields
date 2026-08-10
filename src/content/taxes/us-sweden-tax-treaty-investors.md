@@ -6,7 +6,6 @@ pubDate: 2026-10-06
 updatedDate: 2026-09-07
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US Sweden tax treaty, Sweden investor US stocks, IBKR Sweden, Interactive Brokers Sweden, eToro Sweden, W-8BEN Sweden, ISK Sweden US stocks"
 tags:
   - "us sweden tax treaty"
   - "sweden investor us stocks"

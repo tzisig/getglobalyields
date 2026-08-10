@@ -6,7 +6,6 @@ pubDate: 2026-09-07
 updatedDate: 2026-08-23
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US Tanzania tax treaty, Tanzania investor US stocks, Interactive Brokers Tanzania, IBKR Tanzania, eToro Tanzania, W-8BEN Tanzania, Tanzania capital gains tax US stocks, Tanzania dividend tax US stocks"
 tags:
   - "us tanzania tax treaty"
   - "tanzania investor us stocks"

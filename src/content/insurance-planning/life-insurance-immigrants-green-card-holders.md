@@ -6,7 +6,6 @@ pubDate: 2026-10-26
 updatedDate: 2026-08-07
 author: "Tzion S."
 categories: ["Insurance & Cross-Border Planning"]
-keywords: "life insurance for immigrants, green card life insurance, life insurance green card holder"
 tags:
   - "life insurance for immigrants"
   - "green card life insurance"

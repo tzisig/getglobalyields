@@ -6,7 +6,6 @@ pubDate: 2026-09-20
 updatedDate: 2026-08-30
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US Lithuania tax treaty, Lithuania investor US stocks, Interactive Brokers Lithuania, IBKR Lithuania, eToro Lithuania, W-8BEN Lithuania, Lithuania capital gains tax US stocks"
 tags:
   - "us lithuania tax treaty"
   - "lithuania investor us stocks"

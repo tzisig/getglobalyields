@@ -6,7 +6,6 @@ pubDate: 2026-08-19
 updatedDate: 2026-08-13
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US Croatia tax treaty, Croatia investor US stocks, Interactive Brokers Croatia, IBKR Croatia, eToro Croatia, W-8BEN Croatia, how to invest in US stocks from Croatia"
 tags:
   - "us croatia tax treaty"
   - "croatia investor us stocks"

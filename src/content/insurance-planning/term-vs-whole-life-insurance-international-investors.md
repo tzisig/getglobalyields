@@ -6,7 +6,6 @@ pubDate: 2026-08-06
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Insurance & Cross-Border Planning"]
-keywords: "term vs whole life insurance international investors, life insurance types comparison, whole life insurance investment"
 tags:
   - "term vs whole life insurance international investors"
   - "life insurance types comparison"

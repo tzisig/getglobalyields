@@ -6,7 +6,6 @@ pubDate: 2026-10-05
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Retirement & Pension"]
-keywords: "retiring Portugal US stocks, Portugal NHR closed retirees, US investor retire Portugal tax, Portugal retirement visa investment income"
 tags:
   - "retiring Portugal US stocks"
   - "Portugal NHR closed retirees"

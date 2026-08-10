@@ -6,7 +6,6 @@ pubDate: 2026-08-18
 updatedDate: 2026-08-05
 author: "Tzion S."
 categories: ["US Investing"]
-keywords: "Invest In US Stocks From South Korea, Korea ETF Investing 2026, Overseas Stock Tax Korea, Interactive Brokers Korea, IBKR Korea, eToro Korea, W-8BEN Korea, Best Broker Korea, Investing-Guides, Country-Guides"
 tags:
   - "invest in US stocks from South Korea"
   - "Korea ETF investing 2026"

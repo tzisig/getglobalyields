@@ -6,7 +6,6 @@ pubDate: 2026-05-23
 updatedDate: 2026-05-23
 author: "Tzion S."
 categories: ["Options Income"]
-keywords: "0DTE Options Strategy, Zero Days To Expiration Options, 0DTE SPX Trading, 0DTE risk management, Options Day Trading 2026, PDT Rule Change 2026, Iron Condor 0DTE, Credit Spread 0DTE, 0DTE Butterfly Strategy, Options Income, 0DTE Options Strategy High Risk High Reward 2026 Guide"
 tags:
   - "0DTE options strategy"
   - "zero days to expiration options"

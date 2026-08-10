@@ -6,7 +6,6 @@ pubDate: 2026-08-06
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Insurance & Cross-Border Planning"]
-keywords: "can non-us residents buy US life insurance, foreign national life insurance eligibility, non-resident alien life insurance policy"
 tags:
   - "can non-us residents buy US life insurance"
   - "foreign national life insurance eligibility"

@@ -6,7 +6,6 @@ pubDate: 2026-09-21
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Strategies"]
-keywords: "TQQQ QQQ correlation, is holding TQQQ and QQQ diversified, TQQQ QQQ same index risk, false diversification leveraged ETF"
 tags:
   - "TQQQ QQQ correlation"
   - "TQQQ QQQ same index risk"

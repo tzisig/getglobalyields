@@ -6,7 +6,6 @@ pubDate: 2026-08-27
 updatedDate: 2026-08-18
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US Costa Rica tax treaty, Costa Rica investor US stocks, Interactive Brokers Costa Rica, IBKR Costa Rica, eToro Costa Rica, W-8BEN Costa Rica, Costa Rica capital gains tax US stocks, Costa Rica colon exchange rate"
 tags:
   - "us costa rica tax treaty"
   - "costa rica investor us stocks"

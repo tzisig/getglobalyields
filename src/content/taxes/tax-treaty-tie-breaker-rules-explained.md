@@ -6,7 +6,6 @@ pubDate: 2026-08-26
 updatedDate: 2026-08-05
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "tax treaty tie-breaker rules, dual tax residency, Article 4 permanent home, center of vital interests, habitual abode"
 tags:
   - "tax treaty tie-breaker rules"
   - "dual tax residency"

@@ -6,7 +6,6 @@ pubDate: 2026-09-22
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Strategies"]
-keywords: "core satellite portfolio TQQQ, TQQQ satellite allocation, core satellite investing strategy leveraged ETF"
 tags:
   - "core satellite portfolio TQQQ"
   - "TQQQ satellite allocation"

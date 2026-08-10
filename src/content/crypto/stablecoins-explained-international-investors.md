@@ -6,7 +6,6 @@ pubDate: 2026-08-06
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Crypto & Digital Assets"]
-keywords: "stablecoins explained, USDC vs USDT, stablecoin international money transfer"
 tags:
   - "stablecoins explained"
   - "USDC vs USDT"

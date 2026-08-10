@@ -6,7 +6,6 @@ pubDate: 2026-05-20
 updatedDate: 2026-05-20
 author: "Tzion S."
 categories: ["US Investing"]
-keywords: "How To Invest 100k, 100k Investment Guide 2026, Portfolio Allocation, Index Fund Portfolio, Tax Advantaged Accounts, 401k 2026 Limits, Roth Ira 2026, Three Fund Portfolio, VWCE, International Investor Portfolio, Investing-Guides, How to Invest 100K A Step-by-Step Allocation Guide"
 tags:
   - "how to invest 100k"
   - "100k investment guide 2026"

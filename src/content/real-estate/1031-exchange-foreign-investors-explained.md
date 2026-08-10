@@ -6,7 +6,6 @@ pubDate: 2026-10-23
 updatedDate: 2026-08-07
 author: "Tzion S."
 categories: ["Real Estate & REITs"]
-keywords: "1031 exchange, 1031 exchange rules, 1031 exchange qualified intermediary"
 tags:
   - "1031 exchange"
   - "1031 exchange rules"

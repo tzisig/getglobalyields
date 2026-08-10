@@ -6,7 +6,6 @@ pubDate: 2026-09-20
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Strategies"]
-keywords: "barbell portfolio TQQQ, TQQQ bonds allocation strategy, aggressive conservative portfolio barbell, TQQQ portfolio construction"
 tags:
   - "barbell portfolio TQQQ"
   - "TQQQ bonds allocation strategy"

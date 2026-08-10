@@ -6,7 +6,6 @@ pubDate: 2026-10-28
 updatedDate: 2026-08-07
 author: "Tzion S."
 categories: ["Insurance & Cross-Border Planning"]
-keywords: "expat life insurance, cross border life insurance, international life insurance policy"
 tags:
   - "expat life insurance"
   - "cross border life insurance"

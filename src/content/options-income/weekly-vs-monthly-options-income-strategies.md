@@ -6,7 +6,6 @@ pubDate: 2026-09-15
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Options Income"]
-keywords: "weekly vs monthly options income, weekly options TQQQ, options expiration cycle income strategy, theta decay weekly options"
 tags:
   - "weekly vs monthly options income"
   - "weekly options TQQQ"

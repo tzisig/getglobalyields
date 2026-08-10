@@ -6,7 +6,6 @@ pubDate: 2026-09-10
 updatedDate: 2026-08-25
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US Guatemala tax treaty, Guatemala investor US stocks, Interactive Brokers Guatemala, IBKR Guatemala, eToro Guatemala, W-8BEN Guatemala, Guatemala capital gains tax US stocks, Guatemala quetzal exchange rate"
 tags:
   - "us guatemala tax treaty"
   - "guatemala investor us stocks"

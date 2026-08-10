@@ -6,7 +6,6 @@ pubDate: 2026-08-06
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Real Estate & REITs"]
-keywords: "REIT interest rate sensitivity, how do interest rates affect REITs, REITs and rising rates, REIT bond proxy, why do REITs fall when rates rise"
 tags:
   - "REIT interest rate sensitivity"
   - "how do interest rates affect REITs"

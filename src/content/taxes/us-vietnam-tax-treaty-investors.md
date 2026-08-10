@@ -6,7 +6,6 @@ pubDate: 2026-09-17
 updatedDate: 2026-08-27
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US Vietnam tax treaty, Vietnam investor US stocks, IBKR Vietnam, Interactive Brokers Vietnam, eToro Vietnam, W-8BEN Vietnam, how to invest in US stocks from Vietnam"
 tags:
   - "us vietnam tax treaty"
   - "vietnam investor us stocks"

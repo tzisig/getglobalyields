@@ -6,7 +6,6 @@ pubDate: 2026-08-06
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Real Estate & REITs"]
-keywords: "best US REIT ETF for international investors, VNQ vs SCHH, VNQ international investors"
 tags:
   - "best US REIT ETF for international investors"
   - "VNQ vs SCHH"

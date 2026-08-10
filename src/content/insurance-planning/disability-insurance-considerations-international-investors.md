@@ -6,7 +6,6 @@ pubDate: 2026-08-06
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Insurance & Cross-Border Planning"]
-keywords: "disability insurance international investors, income protection insurance cross-border, disability insurance expat"
 tags:
   - "disability insurance international investors"
   - "income protection insurance cross-border"

@@ -6,7 +6,6 @@ pubDate: 2026-08-13
 updatedDate: 2026-08-11
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US Greece tax treaty, Greece investor US stocks, Interactive Brokers Greece, IBKR Greece, eToro Greece, W-8BEN Greece, how to invest in US stocks from Greece"
 tags:
   - "us greece tax treaty"
   - "greece investor us stocks"

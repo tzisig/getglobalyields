@@ -6,7 +6,6 @@ pubDate: 2026-08-26
 updatedDate: 2026-08-17
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "Interactive Brokers UAE, IBKR Dubai, US UAE tax treaty, Dubai investor US stocks, eToro UAE, W-8BEN UAE, no tax treaty UAE US, US stocks Dubai tax, how to invest in US stocks from Dubai"
 tags:
   - "interactive brokers uae"
   - "ibkr dubai"

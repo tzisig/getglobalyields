@@ -6,7 +6,6 @@ pubDate: 2026-08-16
 updatedDate: 2026-08-11
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US Malaysia tax treaty, Malaysia investor US stocks, IBKR Malaysia, Interactive Brokers Malaysia, eToro Malaysia, W-8BEN Malaysia, how to invest in US stocks from Malaysia"
 tags:
   - "us malaysia tax treaty"
   - "malaysia investor us stocks"

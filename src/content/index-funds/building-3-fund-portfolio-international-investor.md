@@ -6,7 +6,6 @@ pubDate: 2026-10-14
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Index Funds & ETFs"]
-keywords: "3 fund portfolio international investor, three fund portfolio non-US, simple index portfolio international"
 tags:
   - "3 fund portfolio international investor"
   - "three fund portfolio non-US"

@@ -6,7 +6,6 @@ pubDate: 2026-08-16
 updatedDate: 2026-08-05
 author: "Tzion S."
 categories: ["US Investing"]
-keywords: "Invest In US Stocks From Turkey, Turkey ETF Investing 2026, Interactive Brokers Turkey, IBKR Turkey, eToro Turkey, W-8BEN Turkey, Turkey dividend withholding rate, Best Broker Turkey, Investing-Guides, Country-Guides"
 tags:
   - "invest in US stocks from Turkey"
   - "Turkey ETF investing 2026"

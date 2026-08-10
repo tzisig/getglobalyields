@@ -6,7 +6,6 @@ pubDate: 2026-09-06
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Best Brokers"]
-keywords: "best brokers Gulf investors, best brokers UAE Saudi Arabia, GCC investor US stocks broker, Interactive Brokers Dubai"
 tags:
   - "best brokers Gulf investors"
   - "best brokers UAE Saudi Arabia"

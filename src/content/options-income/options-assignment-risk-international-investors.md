@@ -6,7 +6,6 @@ pubDate: 2026-09-10
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Options Income"]
-keywords: "options assignment risk international investors, early assignment covered call, options assignment time zone, cash secured put assignment"
 tags:
   - "options assignment risk international investors"
   - "early assignment covered call"

@@ -6,7 +6,6 @@ pubDate: 2026-10-26
 updatedDate: 2026-08-07
 author: "Tzion S."
 categories: ["Estate Planning"]
-keywords: "revocable living trust, revocable living trust cost, revocable trust vs will"
 tags:
   - "revocable living trust"
   - "revocable living trust cost"

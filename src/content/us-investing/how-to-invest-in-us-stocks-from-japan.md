@@ -6,7 +6,6 @@ pubDate: 2026-08-18
 updatedDate: 2026-08-05
 author: "Tzion S."
 categories: ["US Investing"]
-keywords: "Invest In US Stocks From Japan, Japan ETF Investing 2026, NISA US Stocks, Interactive Brokers Japan, IBKR Japan, W-8BEN Japan, Japan dividend withholding rate, Best Broker Japan, Investing-Guides, Country-Guides"
 tags:
   - "invest in US stocks from Japan"
   - "Japan ETF investing 2026"

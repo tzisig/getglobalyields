@@ -6,7 +6,6 @@ pubDate: 2026-10-15
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Index Funds & ETFs"]
-keywords: "VWO vs IEMG emerging markets ETF, emerging markets ETF international investor, home country bias emerging market investor"
 tags:
   - "VWO vs IEMG emerging markets ETF"
   - "emerging markets ETF international investor"

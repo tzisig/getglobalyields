@@ -6,7 +6,6 @@ pubDate: 2026-08-09
 updatedDate: 2026-08-05
 author: "Tzion S."
 categories: ["US Investing"]
-keywords: "Invest In US Stocks From Brazil, Brazil ETF Investing 2026, IOF Tax US Stocks, Interactive Brokers Brazil, IBKR Brazil, eToro Brazil, W-8BEN Brazil, VOO VTI Brazil, Best Broker Brazil, Investing-Guides, Country-Guides"
 tags:
   - "invest in US stocks from Brazil"
   - "Brazil ETF investing 2026"

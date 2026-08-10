@@ -6,7 +6,6 @@ pubDate: 2026-10-22
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Index Funds & ETFs"]
-keywords: "is QQQ a good investment, QQQ dividend yield, QQQ dividend growth, QQQ valuation, QQQ core holding"
 tags:
   - "is QQQ a good investment"
   - "QQQ dividend yield"

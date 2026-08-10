@@ -6,7 +6,6 @@ pubDate: 2026-08-06
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Insurance & Cross-Border Planning"]
-keywords: "key person insurance, key man insurance, key person insurance cost, key person insurance tax deductible, business key person insurance"
 tags:
   - "key person insurance"
   - "key man insurance"

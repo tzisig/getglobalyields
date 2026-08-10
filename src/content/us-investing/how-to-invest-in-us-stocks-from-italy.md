@@ -6,7 +6,6 @@ pubDate: 2026-08-17
 updatedDate: 2026-08-05
 author: "Tzion S."
 categories: ["US Investing"]
-keywords: "Invest In US Stocks From Italy, Italy ETF Investing 2026, Quadro RW US Stocks, IVAFE Italy, Interactive Brokers Italy, IBKR Italy, eToro Italy, W-8BEN Italy, Best Broker Italy, Investing-Guides, Country-Guides"
 tags:
   - "invest in US stocks from Italy"
   - "Italy ETF investing 2026"

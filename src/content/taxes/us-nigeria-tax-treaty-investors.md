@@ -6,7 +6,6 @@ pubDate: 2026-08-25
 updatedDate: 2026-08-17
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US Nigeria tax treaty, Nigeria investor US stocks, Interactive Brokers Nigeria, IBKR Nigeria, eToro Nigeria, W-8BEN Nigeria, how to invest in US stocks from Nigeria"
 tags:
   - "us nigeria tax treaty"
   - "nigeria investor us stocks"

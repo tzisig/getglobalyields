@@ -6,7 +6,6 @@ pubDate: 2026-09-08
 updatedDate: 2026-08-24
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US Tunisia tax treaty, Tunisia investor US stocks, Interactive Brokers Tunisia, IBKR Tunisia, eToro Tunisia, W-8BEN Tunisia, Tunisia capital gains tax US stocks, Tunisia dividend tax US stocks"
 tags:
   - "us tunisia tax treaty"
   - "tunisia investor us stocks"

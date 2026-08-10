@@ -6,7 +6,6 @@ pubDate: 2026-08-06
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Real Estate & REITs"]
-keywords: "real estate portfolio allocation, non-us investor real estate portfolio allocation, real estate vs stocks diversification"
 tags:
   - "real estate portfolio allocation"
   - "non-us investor real estate portfolio allocation"

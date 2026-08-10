@@ -6,7 +6,6 @@ pubDate: 2026-04-01
 updatedDate: 2026-08-04
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "Interactive Brokers Israel, eToro Israel, Saxo Bank Israel, Best Broker Israel Us Stocks, Tqqq Broker Israel, Interactive Brokers Israel Review, Broker Comparison Israel, Ibkr Vs Etoro Vs Saxo, Investing In Us From Israel, Options Trading Broker Israel, Taxes"
 tags:
   - "interactive brokers israel"
   - "etoro israel"

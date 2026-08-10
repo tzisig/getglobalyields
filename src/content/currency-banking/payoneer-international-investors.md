@@ -6,7 +6,6 @@ pubDate: 2026-10-26
 updatedDate: 2026-08-07
 author: "Tzion S."
 categories: ["Currency & Cross-Border Banking"]
-keywords: "Payoneer business account, Payoneer US bank account, Payoneer vs Wise"
 tags:
   - "Payoneer business account"
   - "Payoneer US bank account"

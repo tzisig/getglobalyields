@@ -6,7 +6,6 @@ pubDate: 2026-08-06
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Real Estate & REITs"]
-keywords: "non traded REIT, private REIT, private REIT vs public REIT, non listed REIT, private real estate fund"
 tags:
   - "non traded REIT"
   - "private REIT"

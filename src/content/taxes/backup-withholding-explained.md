@@ -6,7 +6,6 @@ pubDate: 2026-08-25
 updatedDate: 2026-08-05
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "backup withholding explained, backup withholding 24%, backup withholding gross proceeds, avoid backup withholding W-8BEN"
 tags:
   - "backup withholding explained"
   - "backup withholding 24%"

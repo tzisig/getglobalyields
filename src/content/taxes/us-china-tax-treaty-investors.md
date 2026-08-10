@@ -16,6 +16,8 @@ tags:
   - "foreign tax credit China"
   - "QDII US stocks PFIC"
 heroImage: "/images/blog/taxes/us-china-tax-treaty-investors.webp"
+heroImageWidth: 840
+heroImageHeight: 560
 draft: false
 readingTime: "16 min read"
 featured: true

@@ -6,7 +6,6 @@ pubDate: 2026-08-09
 updatedDate: 2026-08-09
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US Bolivia tax treaty, Bolivia investor US stocks, Interactive Brokers Bolivia, IBKR Bolivia, eToro Bolivia, W-8BEN Bolivia, Bolivia capital gains tax US stocks, Bolivia boliviano exchange rate"
 tags:
   - "us bolivia tax treaty"
   - "bolivia investor us stocks"

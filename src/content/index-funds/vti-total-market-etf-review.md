@@ -6,7 +6,6 @@ pubDate: 2026-10-13
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Index Funds & ETFs"]
-keywords: "VTI review international investors, VTI vs VOO, total stock market ETF international, VTI expense ratio holdings"
 tags:
   - "VTI review international investors"
   - "VTI vs VOO"

@@ -6,7 +6,6 @@ pubDate: 2026-10-11
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Estate Planning"]
-keywords: "LLC trust hold US stocks foreign investor, entity structure estate tax avoidance, foreign trust US brokerage account"
 tags:
   - "LLC trust hold US stocks foreign investor"
   - "entity structure estate tax avoidance"

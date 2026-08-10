@@ -6,7 +6,6 @@ pubDate: 2026-09-02
 updatedDate: 2026-08-20
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US Lebanon tax treaty, Lebanon investor US stocks, Interactive Brokers Lebanon, IBKR Lebanon, eToro Lebanon, W-8BEN Lebanon, Lebanon capital gains tax US stocks, Lebanese pound exchange rate"
 tags:
   - "us lebanon tax treaty"
   - "lebanon investor us stocks"

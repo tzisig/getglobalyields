@@ -6,7 +6,6 @@ pubDate: 2026-08-04
 updatedDate: 2026-08-04
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US Bahrain tax treaty, Bahrain investor US stocks, Interactive Brokers Bahrain, IBKR Bahrain, eToro Bahrain, W-8BEN Bahrain, Bahrain capital gains tax US stocks, Bahraini dinar USD peg"
 tags:
   - "us bahrain tax treaty"
   - "bahrain investor us stocks"

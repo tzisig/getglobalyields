@@ -6,7 +6,6 @@ pubDate: 2026-10-21
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Index Funds & ETFs"]
-keywords: "QQQ vs SPY, Nasdaq-100 vs S&P 500, QQQ concentration risk, QQQ dividend yield, QQQ SPY holdings overlap"
 tags:
   - "QQQ vs SPY"
   - "Nasdaq-100 vs S&P 500"

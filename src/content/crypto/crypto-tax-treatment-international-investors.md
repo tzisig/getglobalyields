@@ -6,7 +6,6 @@ pubDate: 2026-08-06
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Crypto & Digital Assets"]
-keywords: "crypto tax treatment international investors, is cryptocurrency taxed as property, non-resident alien crypto tax"
 tags:
   - "crypto tax treatment international investors"
   - "is cryptocurrency taxed as property"

@@ -6,7 +6,6 @@ pubDate: 2026-10-08
 updatedDate: 2026-09-08
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US Ukraine tax treaty, Ukraine investor US stocks, Interactive Brokers Ukraine, IBKR Ukraine, eToro Ukraine, W-8BEN Ukraine, Ukraine capital gains tax US stocks, Ukraine dividend tax US stocks"
 tags:
   - "us ukraine tax treaty"
   - "ukraine investor us stocks"

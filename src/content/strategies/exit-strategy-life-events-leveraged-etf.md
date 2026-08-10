@@ -6,7 +6,6 @@ pubDate: 2026-09-27
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Strategies"]
-keywords: "TQQQ exit strategy life event, when to sell TQQQ before major purchase, de-risk leveraged ETF planned expense, TQQQ retirement transition"
 tags:
   - "TQQQ exit strategy life event"
   - "de-risk leveraged ETF planned expense"

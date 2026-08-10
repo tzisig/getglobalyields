@@ -6,7 +6,6 @@ pubDate: 2026-09-24
 updatedDate: 2026-09-01
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US Pakistan tax treaty, Pakistan investor US stocks, Interactive Brokers Pakistan, IBKR Pakistan, eToro Pakistan, W-8BEN Pakistan, Pakistan capital gains tax US stocks, Pakistan dividend tax US stocks"
 tags:
   - "us pakistan tax treaty"
   - "pakistan investor us stocks"

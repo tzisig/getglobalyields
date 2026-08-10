@@ -6,7 +6,6 @@ pubDate: 2026-10-14
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Index Funds & ETFs"]
-keywords: "UCITS vs US domiciled ETF tax comparison, CSPX vs VOO tax, Irish domiciled ETF withholding tax, US ETF estate tax UCITS alternative"
 tags:
   - "UCITS vs US domiciled ETF tax"
   - "CSPX vs VOO tax"

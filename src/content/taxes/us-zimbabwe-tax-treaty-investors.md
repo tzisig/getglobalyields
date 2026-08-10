@@ -6,7 +6,6 @@ pubDate: 2026-09-15
 updatedDate: 2026-08-26
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US Zimbabwe tax treaty, Zimbabwe investor US stocks, Interactive Brokers Zimbabwe, IBKR Zimbabwe, eToro Zimbabwe, W-8BEN Zimbabwe, Zimbabwe capital gains tax US stocks, Zimbabwe gold backed currency ZiG"
 tags:
   - "us zimbabwe tax treaty"
   - "zimbabwe investor us stocks"

@@ -6,7 +6,6 @@ pubDate: 2026-10-04
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Retirement & Pension"]
-keywords: "FIRE strategy international investors, financial independence retire early non-US, 4% rule international investor, FIRE US stocks abroad"
 tags:
   - "FIRE strategy international investors"
   - "financial independence retire early non-US"

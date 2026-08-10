@@ -6,7 +6,6 @@ pubDate: 2026-09-08
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Options Income"]
-keywords: "iron condors TQQQ, iron condor strategy leveraged ETF, TQQQ range-bound options strategy, four-leg options spread TQQQ"
 tags:
   - "iron condors TQQQ"
   - "iron condor strategy leveraged ETF"

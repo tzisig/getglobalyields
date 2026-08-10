@@ -6,7 +6,6 @@ pubDate: 2026-09-10
 updatedDate: 2026-08-25
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US Italy tax treaty, Italy investor US stocks, Interactive Brokers Italy, IBKR Italy, eToro Italy, W-8BEN Italy, IVAFE Italy US stocks"
 tags:
   - "us italy tax treaty"
   - "italy investor us stocks"

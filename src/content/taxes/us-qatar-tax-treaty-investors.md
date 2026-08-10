@@ -6,7 +6,6 @@ pubDate: 2026-08-18
 updatedDate: 2026-08-12
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US Qatar tax treaty, Qatar investor US stocks, Interactive Brokers Qatar, IBKR Qatar, eToro Qatar, W-8BEN Qatar, Qatar capital gains tax US stocks, Qatar territorial tax"
 tags:
   - "us qatar tax treaty"
   - "qatar investor us stocks"

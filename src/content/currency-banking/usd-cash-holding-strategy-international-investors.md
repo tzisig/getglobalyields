@@ -6,7 +6,6 @@ pubDate: 2026-10-18
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Currency & Cross-Border Banking"]
-keywords: "USD cash holding strategy international investor, should I hold USD cash, currency buffer brokerage account"
 tags:
   - "USD cash holding strategy"
   - "currency buffer brokerage account"

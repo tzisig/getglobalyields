@@ -6,7 +6,6 @@ pubDate: 2026-09-06
 updatedDate: 2026-08-23
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US Ecuador tax treaty, Ecuador investor US stocks, Interactive Brokers Ecuador, IBKR Ecuador, eToro Ecuador, W-8BEN Ecuador, Ecuador capital gains tax US stocks, Ecuador dollarization"
 tags:
   - "us ecuador tax treaty"
   - "ecuador investor us stocks"

@@ -6,7 +6,6 @@ pubDate: 2026-09-16
 updatedDate: 2026-08-27
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US Latvia tax treaty, Latvia investor US stocks, Interactive Brokers Latvia, IBKR Latvia, eToro Latvia, W-8BEN Latvia, Latvia capital gains tax US stocks"
 tags:
   - "us latvia tax treaty"
   - "latvia investor us stocks"

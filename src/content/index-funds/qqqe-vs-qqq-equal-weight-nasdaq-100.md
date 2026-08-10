@@ -6,7 +6,6 @@ pubDate: 2026-10-21
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Index Funds & ETFs"]
-keywords: "QQQE vs QQQ, Nasdaq-100 equal weight ETF, QQQE holdings, equal weighted QQQ, QQQE expense ratio"
 tags:
   - "QQQE vs QQQ"
   - "Nasdaq-100 equal weight ETF"

@@ -6,7 +6,6 @@ pubDate: 2026-09-08
 updatedDate: 2026-08-24
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US Taiwan tax treaty, Taiwan investor US stocks, Interactive Brokers Taiwan, IBKR Taiwan, eToro Taiwan, W-8BEN Taiwan, how to invest in US stocks from Taiwan"
 tags:
   - "us taiwan tax treaty"
   - "taiwan investor us stocks"

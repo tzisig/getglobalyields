@@ -6,7 +6,6 @@ pubDate: 2026-08-05
 updatedDate: 2026-08-05
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US Argentina tax treaty, Argentina investor US stocks, Interactive Brokers Argentina, IBKR Argentina, eToro Argentina, W-8BEN Argentina, how to invest in US stocks from Argentina"
 tags:
   - "us argentina tax treaty"
   - "argentina investor us stocks"

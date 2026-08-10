@@ -6,7 +6,6 @@ pubDate: 2026-10-04
 updatedDate: 2026-09-06
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US Serbia tax treaty, Serbia investor US stocks, Interactive Brokers Serbia, IBKR Serbia, eToro Serbia, W-8BEN Serbia, Serbia capital gains tax US stocks, Serbia dividend tax US stocks"
 tags:
   - "us serbia tax treaty"
   - "serbia investor us stocks"

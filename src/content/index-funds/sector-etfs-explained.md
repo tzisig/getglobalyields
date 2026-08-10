@@ -6,7 +6,6 @@ pubDate: 2026-10-14
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Index Funds & ETFs"]
-keywords: "sector ETFs explained, XLK XLF XLE, sector rotation ETF international investor, thematic ETF investing"
 tags:
   - "sector ETFs explained"
   - "XLK XLF XLE"

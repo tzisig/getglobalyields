@@ -6,7 +6,6 @@ pubDate: 2026-08-31
 updatedDate: 2026-08-19
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US Jordan tax treaty, Jordan investor US stocks, Interactive Brokers Jordan, IBKR Jordan, eToro Jordan, W-8BEN Jordan, Jordan capital gains tax US stocks, Jordan dividend tax US stocks"
 tags:
   - "us jordan tax treaty"
   - "jordan investor us stocks"

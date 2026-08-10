@@ -6,7 +6,6 @@ pubDate: 2026-08-06
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Real Estate & REITs"]
-keywords: "US REITs for international investors, REIT dividend tax non-us investors, real estate investment trust explained"
 tags:
   - "US REITs for international investors"
   - "REIT dividend tax non-us investors"

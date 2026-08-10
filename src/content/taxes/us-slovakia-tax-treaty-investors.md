@@ -6,7 +6,6 @@ pubDate: 2026-10-04
 updatedDate: 2026-09-06
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US Slovakia tax treaty, Slovakia investor US stocks, Interactive Brokers Slovakia, IBKR Slovakia, eToro Slovakia, W-8BEN Slovakia, Slovakia capital gains tax US stocks"
 tags:
   - "us slovakia tax treaty"
   - "slovakia investor us stocks"

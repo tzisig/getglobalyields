@@ -6,7 +6,6 @@ pubDate: 2026-08-19
 updatedDate: 2026-08-13
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US Philippines tax treaty, Philippines investor US stocks, IBKR Philippines, Interactive Brokers Philippines, eToro Philippines, W-8BEN Philippines, OFW invest US stocks, how to invest in US stocks from Philippines"
 tags:
   - "us philippines tax treaty"
   - "philippines investor us stocks"

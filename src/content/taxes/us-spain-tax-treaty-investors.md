@@ -6,7 +6,6 @@ pubDate: 2026-10-06
 updatedDate: 2026-09-07
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US Spain tax treaty, Spain investor US stocks, IBKR Spain, Interactive Brokers Spain, eToro Spain, W-8BEN Spain, Spain capital gains tax US stocks"
 tags:
   - "us spain tax treaty"
   - "spain investor us stocks"

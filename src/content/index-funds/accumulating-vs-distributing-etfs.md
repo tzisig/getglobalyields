@@ -6,7 +6,6 @@ pubDate: 2026-10-13
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Index Funds & ETFs"]
-keywords: "accumulating vs distributing ETF, accumulating ETF withholding tax, distributing ETF international investor, ACC vs DIST ETF"
 tags:
   - "accumulating vs distributing ETF"
   - "accumulating ETF withholding tax"

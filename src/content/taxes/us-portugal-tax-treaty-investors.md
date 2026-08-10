@@ -6,7 +6,6 @@ pubDate: 2026-09-30
 updatedDate: 2026-09-03
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US Portugal tax treaty, Portugal investor US stocks, Interactive Brokers Portugal, IBKR Portugal, eToro Portugal, W-8BEN Portugal, how to invest in US stocks from Portugal"
 tags:
   - "us portugal tax treaty"
   - "portugal investor us stocks"

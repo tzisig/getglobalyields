@@ -6,7 +6,6 @@ pubDate: 2026-09-29
 updatedDate: 2026-09-02
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US Venezuela tax treaty, Venezuela investor US stocks, Interactive Brokers Venezuela, IBKR Venezuela, eToro Venezuela, W-8BEN Venezuela, Venezuela sanctions US stocks, Venezuela bolivar exchange rate"
 tags:
   - "us venezuela tax treaty"
   - "venezuela investor us stocks"

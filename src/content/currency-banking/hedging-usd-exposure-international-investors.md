@@ -6,7 +6,6 @@ pubDate: 2026-10-19
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Currency & Cross-Border Banking"]
-keywords: "hedge USD exposure international investor, currency hedged ETF, should I hedge dollar exposure"
 tags:
   - "hedge USD exposure"
   - "currency hedged ETF"

@@ -6,7 +6,6 @@ pubDate: 2026-09-21
 updatedDate: 2026-08-30
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US Panama tax treaty, Panama investor US stocks, Interactive Brokers Panama, IBKR Panama, eToro Panama, W-8BEN Panama, Panama capital gains tax US stocks, Panama territorial tax"
 tags:
   - "us panama tax treaty"
   - "panama investor us stocks"

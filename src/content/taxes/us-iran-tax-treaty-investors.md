@@ -6,7 +6,6 @@ pubDate: 2026-09-16
 updatedDate: 2026-08-27
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US Iran tax treaty, Iran sanctions US stocks, Iran OFAC comprehensive embargo, Iranian rial exchange rate, can Iranians buy US stocks"
 tags:
   - "us iran tax treaty"
   - "iran sanctions us stocks"

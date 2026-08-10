@@ -16,6 +16,8 @@ tags:
   - "US dividends Belgium tax"
   - "roerende voorheffing"
 heroImage: "/images/blog/taxes/us-belgium-tax-treaty-investors.webp"
+heroImageWidth: 840
+heroImageHeight: 560
 draft: false
 readingTime: "16 min read"
 featured: true

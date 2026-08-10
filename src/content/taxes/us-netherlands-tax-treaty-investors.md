@@ -6,7 +6,6 @@ pubDate: 2026-09-24
 updatedDate: 2026-09-01
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US Netherlands tax treaty, Netherlands investor US stocks, Interactive Brokers Netherlands, IBKR Netherlands, eToro Netherlands, W-8BEN Netherlands, box 3 US stocks Netherlands"
 tags:
   - "us netherlands tax treaty"
   - "netherlands investor us stocks"

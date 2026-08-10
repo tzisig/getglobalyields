@@ -16,6 +16,8 @@ tags:
   - "US dividends Czech tax"
   - "Czech Republic investor guide"
 heroImage: "/images/blog/taxes/us-czech-republic-tax-treaty-investors.webp"
+heroImageWidth: 840
+heroImageHeight: 560
 draft: false
 readingTime: "14 min read"
 featured: true

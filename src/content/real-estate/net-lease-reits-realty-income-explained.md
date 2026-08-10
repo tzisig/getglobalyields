@@ -6,7 +6,6 @@ pubDate: 2026-08-06
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Real Estate & REITs"]
-keywords: "net lease REIT, Realty Income stock, O stock dividend, triple net lease REIT, monthly dividend REIT"
 tags:
   - "net lease REIT"
   - "Realty Income stock"

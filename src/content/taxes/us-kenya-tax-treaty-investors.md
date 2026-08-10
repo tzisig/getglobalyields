@@ -6,7 +6,6 @@ pubDate: 2026-08-17
 updatedDate: 2026-08-12
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US Kenya tax treaty, Kenya investor US stocks, Interactive Brokers Kenya, IBKR Kenya, eToro Kenya, W-8BEN Kenya, how to invest in US stocks from Kenya"
 tags:
   - "us kenya tax treaty"
   - "kenya investor us stocks"

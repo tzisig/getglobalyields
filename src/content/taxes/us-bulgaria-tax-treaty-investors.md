@@ -20,6 +20,8 @@ tags:
   - "Bulgaria NRA tax return"
   - "Form 1042-S Bulgaria"
 heroImage: "/images/blog/taxes/us-bulgaria-tax-treaty-investors.webp"
+heroImageWidth: 840
+heroImageHeight: 560
 draft: false
 readingTime: "15 min read"
 featured: false

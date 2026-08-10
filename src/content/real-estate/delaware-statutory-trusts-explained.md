@@ -6,7 +6,6 @@ pubDate: 2026-10-24
 updatedDate: 2026-08-07
 author: "Tzion S."
 categories: ["Real Estate & REITs"]
-keywords: "Delaware statutory trust, DST investment, DST vs 1031 exchange"
 tags:
   - "Delaware statutory trust"
   - "DST investment"

@@ -6,7 +6,6 @@ pubDate: 2026-08-12
 updatedDate: 2026-08-05
 author: "Tzion S."
 categories: ["US Investing"]
-keywords: "Invest In US Stocks From Saudi Arabia, Saudi Arabia ETF Investing 2026, Interactive Brokers Saudi Arabia, IBKR Saudi Arabia, eToro Saudi Arabia, W-8BEN Saudi Arabia, Zakat US Stocks, Best Broker Saudi Arabia, Investing-Guides, Country-Guides"
 tags:
   - "invest in US stocks from Saudi Arabia"
   - "Saudi Arabia ETF investing 2026"

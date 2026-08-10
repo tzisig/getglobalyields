@@ -6,7 +6,6 @@ pubDate: 2026-09-03
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Best Brokers"]
-keywords: "fractional shares broker international investors, buy fractional US stocks non-US resident, Interactive Brokers fractional shares, eToro fractional shares"
 tags:
   - "fractional shares broker international investors"
   - "buy fractional US stocks"

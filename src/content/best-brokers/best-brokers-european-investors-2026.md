@@ -6,7 +6,6 @@ pubDate: 2026-09-02
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Best Brokers"]
-keywords: "best brokers European investors 2026, EU broker US stocks, UCITS ETF broker, PRIIPs compliant broker Europe"
 tags:
   - "best brokers European investors 2026"
   - "EU broker US stocks"

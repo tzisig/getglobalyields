@@ -6,7 +6,6 @@ pubDate: 2026-08-06
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US Kuwait tax treaty, Kuwait investor US stocks, Interactive Brokers Kuwait, IBKR Kuwait, eToro Kuwait, W-8BEN Kuwait, Kuwait capital gains tax US stocks, Kuwaiti dinar basket peg"
 tags:
   - "us kuwait tax treaty"
   - "kuwait investor us stocks"

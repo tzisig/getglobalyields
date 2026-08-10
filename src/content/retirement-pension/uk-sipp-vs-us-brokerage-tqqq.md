@@ -6,7 +6,6 @@ pubDate: 2026-10-01
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Retirement & Pension"]
-keywords: "SIPP vs US brokerage TQQQ, can SIPP hold leveraged ETF, UK SIPP US stocks, SIPP TQQQ availability"
 tags:
   - "SIPP vs US brokerage TQQQ"
   - "can SIPP hold leveraged ETF"

@@ -6,7 +6,6 @@ pubDate: 2026-08-06
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Real Estate & REITs"]
-keywords: "single family rental REIT, INVH stock, AMH stock, Invitation Homes review, American Homes 4 Rent review"
 tags:
   - "INVH stock"
   - "AMH stock"

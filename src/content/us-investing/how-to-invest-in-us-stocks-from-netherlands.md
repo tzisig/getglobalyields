@@ -6,7 +6,6 @@ pubDate: 2026-08-06
 updatedDate: 2026-08-05
 author: "Tzion S."
 categories: ["US Investing"]
-keywords: "Invest In US Stocks From Netherlands, Netherlands ETF Investing 2026, Box 3 Wealth Tax 2026, DEGIRO US Stocks, Interactive Brokers Netherlands, W-8BEN Netherlands, UCITS ETF Netherlands, Best Broker Netherlands, Investing-Guides, Country-Guides"
 tags:
   - "invest in US stocks from Netherlands"
   - "Netherlands ETF investing 2026"

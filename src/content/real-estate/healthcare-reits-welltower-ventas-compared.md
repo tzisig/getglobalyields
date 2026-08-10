@@ -6,7 +6,6 @@ pubDate: 2026-08-06
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Real Estate & REITs"]
-keywords: "healthcare REIT, Welltower stock, Ventas stock, healthcare REIT ETF, senior living REIT"
 tags:
   - "healthcare REIT"
   - "Welltower stock"

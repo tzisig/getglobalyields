@@ -6,7 +6,6 @@ pubDate: 2026-10-20
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Currency & Cross-Border Banking"]
-keywords: "SWIFT wire vs local transfer, how does SWIFT transfer work, international wire transfer broker funding"
 tags:
   - "SWIFT wire vs local transfer"
   - "how does SWIFT transfer work"

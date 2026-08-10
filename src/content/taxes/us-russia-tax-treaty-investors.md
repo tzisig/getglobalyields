@@ -6,7 +6,6 @@ pubDate: 2026-08-04
 updatedDate: 2026-08-04
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US Russia tax treaty, Russia investor US stocks, US brokers Russia sanctions, W-8BEN Russia, US Russia tax treaty suspended"
 tags:
   - "us russia tax treaty"
   - "russia investor us stocks"

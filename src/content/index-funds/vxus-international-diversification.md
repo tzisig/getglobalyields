@@ -6,7 +6,6 @@ pubDate: 2026-10-13
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Index Funds & ETFs"]
-keywords: "VXUS international diversification, VXUS ex-US ETF international investor, do international investors need VXUS"
 tags:
   - "VXUS international diversification"
   - "VXUS ex-US ETF"

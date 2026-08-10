@@ -6,7 +6,6 @@ pubDate: 2026-08-23
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "W-8BEN vs W-8BEN-E, W-8BEN-E entity form, W-8BEN-E trust, W-8BEN-E LLC, FATCA chapter 4 status, foreign entity brokerage account"
 tags:
   - "w-8ben vs w-8ben-e"
   - "w-8ben-e entity form"

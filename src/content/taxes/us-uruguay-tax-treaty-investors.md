@@ -6,7 +6,6 @@ pubDate: 2026-09-28
 updatedDate: 2026-09-02
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US Uruguay tax treaty, Uruguay investor US stocks, Interactive Brokers Uruguay, IBKR Uruguay, eToro Uruguay, W-8BEN Uruguay, Uruguay capital gains tax US stocks, Uruguay territorial tax"
 tags:
   - "us uruguay tax treaty"
   - "uruguay investor us stocks"

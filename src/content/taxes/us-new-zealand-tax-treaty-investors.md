@@ -6,7 +6,6 @@ pubDate: 2026-08-05
 updatedDate: 2026-08-05
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US New Zealand tax treaty, New Zealand investor US stocks, Interactive Brokers New Zealand, IBKR New Zealand, eToro New Zealand, W-8BEN New Zealand, New Zealand capital gains tax US stocks"
 tags:
   - "us new zealand tax treaty"
   - "new zealand investor us stocks"

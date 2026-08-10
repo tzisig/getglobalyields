@@ -6,7 +6,6 @@ pubDate: 2026-04-01
 updatedDate: 2026-08-04
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "PFIC, Foreign Funds, US Tax, International Investors, Taxes, PFIC Rules What International Investors Must Know, PFIC Rules, What International Investors Must Know"
 tags:
   - "PFIC"
   - "foreign funds"

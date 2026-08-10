@@ -6,7 +6,6 @@ pubDate: 2026-09-09
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Options Income"]
-keywords: "poor mans covered call TQQQ, PMCC TQQQ strategy, diagonal spread TQQQ options, LEAPS covered call alternative"
 tags:
   - "poor mans covered call TQQQ"
   - "PMCC TQQQ strategy"

@@ -6,7 +6,6 @@ pubDate: 2026-10-08
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Estate Planning"]
-keywords: "gifting US stocks foreign investor, US gift tax nonresident alien stocks, gift vs estate tax intangible property, lifetime gifting US securities"
 tags:
   - "gifting US stocks foreign investor"
   - "US gift tax nonresident alien stocks"

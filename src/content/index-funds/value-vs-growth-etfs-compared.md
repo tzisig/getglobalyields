@@ -6,7 +6,6 @@ pubDate: 2026-10-15
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Index Funds & ETFs"]
-keywords: "VTV vs VUG, value vs growth ETF, growth ETF international investor, value stocks ETF comparison"
 tags:
   - "VTV vs VUG"
   - "value vs growth ETF"

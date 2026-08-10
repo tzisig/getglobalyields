@@ -6,7 +6,6 @@ pubDate: 2026-09-22
 updatedDate: 2026-08-31
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US Luxembourg tax treaty, Luxembourg investor US stocks, Interactive Brokers Luxembourg, IBKR Luxembourg, eToro Luxembourg, W-8BEN Luxembourg, Luxembourg capital gains tax US stocks"
 tags:
   - "us luxembourg tax treaty"
   - "luxembourg investor us stocks"

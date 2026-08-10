@@ -6,7 +6,6 @@ pubDate: 2026-09-27
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Retirement & Pension"]
-keywords: "foreign pension account US stocks, retirement account US ETF international, pension wrapper US investing, cross-border pension US securities"
 tags:
   - "foreign pension account US stocks"
   - "retirement account US ETF international"

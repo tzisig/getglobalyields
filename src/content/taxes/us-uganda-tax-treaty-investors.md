@@ -6,7 +6,6 @@ pubDate: 2026-06-28
 updatedDate: 2026-08-04
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "Interactive Brokers Uganda, eToro Uganda, US Uganda tax, Ugandan investor US stocks, W-8BEN Uganda, withholding tax dividends Uganda, no tax treaty Uganda"
 tags:
   - "interactive brokers uganda"
   - "etoro uganda"

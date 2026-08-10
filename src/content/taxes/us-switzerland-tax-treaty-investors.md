@@ -6,7 +6,6 @@ pubDate: 2026-10-07
 updatedDate: 2026-09-07
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US Switzerland tax treaty, Switzerland investor US stocks, Interactive Brokers Switzerland, IBKR Switzerland, eToro Switzerland, W-8BEN Switzerland, Swiss withholding tax US dividends"
 tags:
   - "us switzerland tax treaty"
   - "switzerland investor us stocks"

@@ -6,7 +6,6 @@ pubDate: 2026-08-20
 updatedDate: 2026-08-05
 author: "Tzion S."
 categories: ["US Investing"]
-keywords: "Invest In US Stocks From Colombia, Colombia ETF Investing 2026, Ganancia Ocasional US Stocks, Interactive Brokers Colombia, IBKR Colombia, eToro Colombia, W-8BEN Colombia, Best Broker Colombia, Investing-Guides, Country-Guides"
 tags:
   - "invest in US stocks from Colombia"
   - "Colombia ETF investing 2026"

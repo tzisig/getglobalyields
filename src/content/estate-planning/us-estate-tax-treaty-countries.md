@@ -6,7 +6,6 @@ pubDate: 2026-10-11
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Estate Planning"]
-keywords: "US estate tax treaty countries list, estate tax treaty relief non-resident alien, which countries have estate tax treaty US"
 tags:
   - "US estate tax treaty countries list"
   - "estate tax treaty relief non-resident alien"

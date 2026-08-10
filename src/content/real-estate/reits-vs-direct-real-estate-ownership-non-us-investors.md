@@ -6,7 +6,6 @@ pubDate: 2026-08-06
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Real Estate & REITs"]
-keywords: "REITs vs direct real estate investment, foreign investor buying US property, non-US resident buying US real estate"
 tags:
   - "REITs vs direct real estate investment"
   - "foreign investor buying US property"

@@ -6,7 +6,6 @@ pubDate: 2026-10-12
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Index Funds & ETFs"]
-keywords: "VOO vs SPY vs IVV, best S&P 500 ETF international investor, S&P 500 ETF comparison expense ratio, VOO SPY IVV differences"
 tags:
   - "VOO vs SPY vs IVV"
   - "best S&P 500 ETF international investor"

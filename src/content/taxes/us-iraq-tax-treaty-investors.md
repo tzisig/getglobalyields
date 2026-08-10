@@ -6,7 +6,6 @@ pubDate: 2026-09-14
 updatedDate: 2026-08-26
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US Iraq tax treaty, Iraq investor US stocks, Interactive Brokers Iraq, IBKR Iraq, eToro Iraq, W-8BEN Iraq, Iraq capital gains tax US stocks, Iraqi dinar exchange rate"
 tags:
   - "us iraq tax treaty"
   - "iraq investor us stocks"

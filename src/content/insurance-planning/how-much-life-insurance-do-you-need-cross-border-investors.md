@@ -6,7 +6,6 @@ pubDate: 2026-08-06
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Insurance & Cross-Border Planning"]
-keywords: "how much life insurance do I need, life insurance needs analysis cross-border, income replacement life insurance calculation"
 tags:
   - "how much life insurance do I need"
   - "life insurance needs analysis cross-border"

@@ -16,6 +16,8 @@ tags:
   - "US dividends Australian tax"
   - "franking credits US stocks"
 heroImage: "/images/blog/taxes/us-australia-tax-treaty-investors.webp"
+heroImageWidth: 840
+heroImageHeight: 560
 draft: false
 readingTime: "15 min read"
 featured: true

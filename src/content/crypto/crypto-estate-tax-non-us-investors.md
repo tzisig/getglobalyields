@@ -6,7 +6,6 @@ pubDate: 2026-08-06
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Crypto & Digital Assets"]
-keywords: "crypto estate tax non-resident alien, is cryptocurrency US-situs property, Bitcoin inheritance foreign investor"
 tags:
   - "crypto estate tax non-resident alien"
   - "is cryptocurrency US-situs property"

@@ -6,7 +6,6 @@ pubDate: 2026-09-28
 updatedDate: 2026-09-02
 author: "Tzion S."
 categories: ["Taxes"]
-keywords: "US Norway tax treaty, Norway investor US stocks, Interactive Brokers Norway, IBKR Norway, eToro Norway, W-8BEN Norway, Norway capital gains tax US stocks"
 tags:
   - "us norway tax treaty"
   - "norway investor us stocks"

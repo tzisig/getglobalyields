@@ -6,7 +6,6 @@ pubDate: 2026-10-05
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Retirement & Pension"]
-keywords: "retirement income ladder dividend stocks, dividend ladder international investor, US dividend stocks retirement income, staggered dividend payments"
 tags:
   - "retirement income ladder dividend stocks"
   - "dividend ladder international investor"
