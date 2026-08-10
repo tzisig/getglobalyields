@@ -32,6 +32,7 @@ draft: false
 readingTime: "13 min read"
 featured: false
 rating: 4.1
+affiliateLink: "https://geolink.xtb.com/4xcQo"
 schema:
   faq:
     - question: "Is XTB safe for international investors?"
