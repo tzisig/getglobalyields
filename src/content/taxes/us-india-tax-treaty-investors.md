@@ -23,13 +23,13 @@ featured: false
 seo:
   metaTitle: "US-India Tax Treaty: DTAA for Resident & NRI (2026)"
   metaDescription: "How the US-India tax treaty (DTAA) affects Indian residents and NRIs investing in US stocks. The 25% dividend rate, LRS limits, and how India taxes US capital gains as unlisted shares."
-  ogTitle: "US-India Tax Treaty Guide: DTAA for Resident & NRI Investors (2026)"
+  ogTitle: "US-India Tax Treaty: DTAA for Resident & NRI (2026)"
   ogDescription: "How the US-India tax treaty (DTAA) affects Indian residents and NRIs investing in US stocks. The 25% dividend rate, LRS limits, and how India taxes US capital gains as unlisted shares."
   ogImage: "/images/blog/taxes/us-india-tax-treaty.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"
-  headline: "US-India Tax Treaty Guide: DTAA for Resident & NRI Investors (2026)"
+  headline: "US-India Tax Treaty: DTAA for Resident & NRI (2026)"
   description: "How the US-India tax treaty (DTAA) affects Indian residents and NRIs investing in US stocks. The 25% dividend rate, LRS limits, and how India taxes US capital gains as unlisted shares."
   author: "Tzion S."
   datePublished: "2026-08-04"

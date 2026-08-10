@@ -21,7 +21,7 @@ featured: false
 seo:
   metaTitle: "PFIC Rules Explained for International Investors (2026)"
   metaDescription: "What is a PFIC and why does it matter? Learn the passive foreign investment company rules, tax implications, and how to avoid costly IRS penalties."
-  ogTitle: "PFIC Rules Explained for International Investors (2026 Guide)"
+  ogTitle: "PFIC Rules Explained for International Investors (2026)"
   ogDescription: "What is a PFIC and why does it matter? Learn the passive foreign investment company rules, tax implications, and how to avoid costly IRS penalties."
   ogImage: "/images/blog/taxes/pfic-rules-international-investors.webp"
   twitterCard: "summary_large_image"
@@ -38,7 +38,7 @@ schema:
     - question: "Is there a minimum holding before PFIC rules apply?"
       answer: "The PFIC classification itself has no minimum - even a $1 position in a qualifying fund is technically a PFIC. Form 8621's Part I reporting has a narrow exception below $25,000 ($50,000 joint) in total PFIC stock value, but it doesn't apply if you received a distribution or sold during the year, so most investors end up filing regardless. The penalties for not filing when required can exceed the value of a small holding."
   type: "article"
-  headline: "PFIC Rules Explained for International Investors (2026 Guide)"
+  headline: "PFIC Rules Explained for International Investors (2026)"
   description: "What is a PFIC and why does it matter? Learn the passive foreign investment company rules, tax implications, and how to avoid costly IRS penalties."
   author: "Tzion S."
   datePublished: "2026-04-01"

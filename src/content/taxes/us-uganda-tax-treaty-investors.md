@@ -23,13 +23,13 @@ featured: false
 seo:
   metaTitle: "Interactive Brokers Uganda: US Stock Tax Guide (2026)"
   metaDescription: "No US-Uganda tax treaty means 30% dividend withholding by default. Which brokers (IBKR, eToro) accept Ugandan residents, W-8BEN, and Uganda's foreign tax credit."
-  ogTitle: "Interactive Brokers Uganda: US Stock Investing Tax Guide (2026)"
+  ogTitle: "Interactive Brokers Uganda: US Stock Tax Guide (2026)"
   ogDescription: "No US-Uganda tax treaty means 30% dividend withholding by default. Which brokers (IBKR, eToro) accept Ugandan residents, W-8BEN, and Uganda's foreign tax credit."
   ogImage: "/images/blog/taxes/us-uganda-tax-treaty.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"
-  headline: "Interactive Brokers Uganda: US Stock Investing Tax Guide (2026)"
+  headline: "Interactive Brokers Uganda: US Stock Tax Guide (2026)"
   description: "No US-Uganda tax treaty means 30% dividend withholding by default. Which brokers (IBKR, eToro) accept Ugandan residents, W-8BEN, and Uganda's foreign tax credit."
   author: "Tzion S."
   datePublished: "2026-06-28"
