@@ -1,10 +1,18 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+
+const webPageSchema = {
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Privacy Policy",
+  "description": "How Get Global Yields collects, uses, and discloses personal information, including analytics and the site's Google Translate widget.",
+  "url": "https://getglobalyields.com/privacy-policy/",
+};
 ---
 
 <BaseLayout
   title="Privacy Policy - Get Global Yields"
-  description="Privacy Policy for Get Global Yields."
+  description="How Get Global Yields collects, uses, and discloses personal information - including the analytics and Google Translate cookies used on the site."
 >
   <div class="bg-primary-900 py-16 lg:py-24">
     <div class="container mx-auto px-4 sm:px-6 lg:px-8 max-w-4xl">
@@ -30,6 +38,15 @@ import BaseLayout from '../layouts/BaseLayout.astro';
           <li>Monitor and analyze usage and trends to improve your experience with the Site.</li>
         </ul>
 
+        <h2 class="text-slate-100">Cookies and Tracking Technologies</h2>
+        <p>We use a small number of cookies and similar technologies, specifically:</p>
+        <ul>
+          <li><strong>Google Analytics:</strong> We use Google Analytics to understand how visitors use the Site (pages viewed, general location, device type). This loads after your first interaction with the page, not immediately on load. You can opt out of Google Analytics tracking across all websites using the <a href="https://tools.google.com/dlpage/gaoptout">Google Analytics Opt-out Browser Add-on</a>.</li>
+          <li><strong>Google Translate:</strong> The Site offers an automatic translation feature powered by Google Translate. If you use it, Google sets its own cookies to remember your selected language, and your chosen language and (for automatic detection) an approximate country are also stored in a first-party cookie on this Site. Translation is handled by Google's own service, subject to <a href="https://policies.google.com/privacy">Google's Privacy Policy</a>.</li>
+          <li><strong>Theme and preference cookies:</strong> A small first-party cookie remembers whether you've chosen light or dark mode, and whether you've already made a language choice, so we don't ask again on your next visit.</li>
+        </ul>
+        <p>None of these cookies are used to sell your personal information to third parties.</p>
+
         <h2 class="text-slate-100">Disclosure of Your Information</h2>
         <p>We may share information we have collected about you in certain situations. Your information may be disclosed as follows:</p>
         <ul>
@@ -38,8 +55,10 @@ import BaseLayout from '../layouts/BaseLayout.astro';
         </ul>
 
         <h2 class="text-slate-100">Contact Us</h2>
-        <p>If you have questions or comments about this Privacy Policy, please contact us at <a href="/contact/">our contact page</a>.</p>
+        <p>If you have questions or comments about this Privacy Policy, please contact us at <a href="/contact/">our contact page</a>. See also our <a href="/disclaimer/">financial and affiliate disclaimer</a> and <a href="/accessibility-statement/">accessibility statement</a>.</p>
       </article>
     </div>
   </div>
+
+  <script type="application/ld+json" set:html={JSON.stringify(webPageSchema)} />
 </BaseLayout>

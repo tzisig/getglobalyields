@@ -1,10 +1,18 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+
+const webPageSchema = {
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Financial and Affiliate Disclaimer",
+  "description": "Get Global Yields is a publisher of financial information, not an investment advisor - what that means for our broker reviews, affiliate links, and content accuracy.",
+  "url": "https://getglobalyields.com/disclaimer/",
+};
 ---
 
 <BaseLayout
   title="Disclaimer - Get Global Yields"
-  description="Financial and Affiliate Disclaimer for Get Global Yields."
+  description="Get Global Yields is a publisher of financial information, not an investment advisor. Our financial capability disclaimer, affiliate disclosure, and accuracy policy."
 >
   <div class="bg-primary-900 py-16 lg:py-24">
     <div class="container mx-auto px-4 sm:px-6 lg:px-8 max-w-4xl">
@@ -20,7 +28,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
         <h2 class="text-slate-100">Financial Capability Disclaimer</h2>
         <p>
-          Get Global Yields is a publisher of financial information, not an investment advisor. We do not provide personalized or individualized investment advice. The strategies and investments discussed on our platform may not be suitable for all investors. You should always conduct your own research, make your own decisions, and consult a qualified financial professional before making any financial decisions or investments.
+          Get Global Yields is a publisher of financial information, not an investment advisor. We do not provide personalized or individualized investment advice. The strategies and investments discussed on our platform - including our <a href="/strategies/">leveraged ETF strategy guides</a> and <a href="/taxes/">country-specific tax treaty guides</a> - may not be suitable for all investors. You should always conduct your own research, make your own decisions, and consult a qualified financial or tax professional before making any financial decisions or investments.
         </p>
         <p>
           Past performance is not indicative of future results. All investments involve risk, including the possible loss of principal.
@@ -28,7 +36,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
         <h2 class="text-slate-100">Affiliate Disclosure</h2>
         <p>
-          In compliance with FTC guidelines, please assume that any links on Get Global Yields leading to products or services are affiliate links. This means that if you click on such a link and make a purchase or sign up for an account, we may receive a small commission at no extra cost to you. 
+          In compliance with FTC guidelines, please assume that any links on Get Global Yields leading to products or services - including our <a href="/best-brokers/">broker reviews</a> - are affiliate links. This means that if you click on such a link and make a purchase or sign up for an account, we may receive a small commission at no extra cost to you.
         </p>
         <p>
           These commissions help maintain the operations of our website and allow us to continue producing high-quality content. However, our reviews and comparisons are written objectively based on our own research and analysis. We only recommend products or services that we believe will add value to our readers.
@@ -38,7 +46,14 @@ import BaseLayout from '../layouts/BaseLayout.astro';
         <p>
           While we strive to keep the information on Get Global Yields as accurate and up-to-date as possible, the financial landscape changes rapidly. Interest rates, product features, terms, and conditions are subject to change without notice by the respective financial institutions. Always verify all information directly with the product or service provider before making any commitment.
         </p>
+
+        <h2 class="text-slate-100">Related Policies</h2>
+        <p>
+          See also our <a href="/privacy-policy/">privacy policy</a> for how we handle personal information, and our <a href="/contact/">contact page</a> if you spot something on the site that needs correcting.
+        </p>
       </article>
     </div>
   </div>
+
+  <script type="application/ld+json" set:html={JSON.stringify(webPageSchema)} />
 </BaseLayout>

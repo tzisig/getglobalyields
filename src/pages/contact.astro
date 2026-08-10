@@ -1,10 +1,18 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+
+const contactSchema = {
+  "@context": "https://schema.org",
+  "@type": "ContactPage",
+  "name": "Contact Get Global Yields",
+  "description": "Contact form for questions about broker reviews, tax treaty guides, or content corrections on GetGlobalYields.com.",
+  "url": "https://getglobalyields.com/contact/",
+};
 ---
 
 <BaseLayout
   title="Contact Us - Get Global Yields"
-  description="Get in touch with the Get Global Yields team."
+  description="Reach the Get Global Yields team with questions about broker reviews, tax treaty guides, a correction on an existing article, or a partnership inquiry."
 >
   <div class="bg-primary-900 py-16 lg:py-24">
     <div class="container mx-auto px-4 sm:px-6 lg:px-8 max-w-4xl">
@@ -49,6 +57,24 @@ import BaseLayout from '../layouts/BaseLayout.astro';
           </div>
         </form>
       </div>
+
+      <div class="mt-16">
+        <h2 class="text-2xl font-bold text-slate-100 mb-4">What We Can Help With</h2>
+        <p class="text-slate-300 mb-4">
+          Most messages we receive fall into one of a few categories - use whichever fits, or just describe your situation in the message field above:
+        </p>
+        <ul class="list-disc list-inside text-slate-300 space-y-2 mb-6">
+          <li><strong class="text-slate-100">Factual corrections</strong> - a rate, deadline, or figure in one of our guides is out of date or wrong. Tell us the article and the specific detail; we verify and update quickly.</li>
+          <li><strong class="text-slate-100">Broker or country coverage requests</strong> - a broker, tax treaty, or topic you'd like us to cover that isn't on the site yet.</li>
+          <li><strong class="text-slate-100">Partnership and press inquiries</strong> - for brokers, fintech products, or publications.</li>
+          <li><strong class="text-slate-100">General feedback</strong> - what's useful, what's missing, what could be clearer.</li>
+        </ul>
+        <p class="text-slate-400 text-sm">
+          We read every message personally and typically reply within a few business days. For a specific broker's own customer support (account issues, deposits, withdrawals), contact that broker directly rather than us - see our <a href="/best-brokers/" class="text-accent-500 hover:text-accent-400 underline">broker reviews</a> for each broker's own support channels.
+        </p>
+      </div>
     </div>
   </div>
+
+  <script type="application/ld+json" set:html={JSON.stringify(contactSchema)} />
 </BaseLayout>
