@@ -84,6 +84,7 @@ const recoveryCandles = isRecoveryChartPost ? await getRecoveryCandles() : [];
   updatedDate={post.data.updatedDate?.toISOString()}
   author={post.data.author}
   faq={post.data.schema?.faq}
+  schema={post.data.schema}
 >
   <article class="py-16 lg:py-24 bg-primary-900 border-b border-primary-700">
     <div class="container mx-auto px-4 sm:px-6 lg:px-8 max-w-7xl">

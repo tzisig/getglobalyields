@@ -25,14 +25,24 @@ export interface Props {
     ogImage?: string;
     twitterCard?: string;
   };
+  schema?: {
+    type?: string;
+    headline?: string;
+    description?: string;
+    author?: string;
+    datePublished?: string;
+    dateModified?: string;
+    image?: string;
+    mainEntityOfPage?: string;
+  };
 }
 
-const { title, description, image, type, keywords, seo, pubDate, updatedDate, author, faq } = Astro.props;
+const { title, description, image, type, keywords, seo, pubDate, updatedDate, author, faq, schema } = Astro.props;
 ---
 
 <!DOCTYPE html>
 <html lang="en" class="dark">
-  <SEOHead title={title} description={description} image={image} type={type} keywords={keywords} seo={seo} pubDate={pubDate} updatedDate={updatedDate} author={author} faq={faq} />
+  <SEOHead title={title} description={description} image={image} type={type} keywords={keywords} seo={seo} pubDate={pubDate} updatedDate={updatedDate} author={author} faq={faq} schema={schema} />
   <!-- Prevent flash of English before Google Translate applies the visitor's
        language, and the layout shift (CLS) that comes from Google Translate
        reflowing text (e.g. button widths changing) after the page is already

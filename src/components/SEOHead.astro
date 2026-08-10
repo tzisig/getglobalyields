@@ -18,6 +18,16 @@ export interface Props {
     ogImage?: string;
     twitterCard?: string;
   };
+  schema?: {
+    type?: string;
+    headline?: string;
+    description?: string;
+    author?: string;
+    datePublished?: string;
+    dateModified?: string;
+    image?: string;
+    mainEntityOfPage?: string;
+  };
 }
 
 const {
@@ -30,7 +40,8 @@ const {
   updatedDate,
   author,
   faq = [],
-  seo = {}
+  seo = {},
+  schema = {}
 } = Astro.props;
 
 const finalTitle       = seo?.metaTitle       || title;
@@ -47,15 +58,20 @@ const normalizedPathname = Astro.url.pathname.endsWith('/')
 const canonicalURL = new URL(normalizedPathname, Astro.site || Astro.url);
 const ogImageUrl   = new URL(finalImage, Astro.site || Astro.url);
 
+const articleImageUrl = schema?.image
+  ? new URL(schema.image, Astro.site || Astro.url).toString()
+  : ogImageUrl.toString();
+
 const articleSchema = type === "article" ? {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": finalTitle,
-  "description": finalDescription,
-  "image": ogImageUrl.toString(),
-  "datePublished": pubDate,
-  "dateModified": updatedDate || pubDate,
-  "author": { "@type": "Organization", "name": author || "Tzion S." },
+  "headline": schema?.headline || finalTitle,
+  "description": schema?.description || finalDescription,
+  "image": articleImageUrl,
+  "datePublished": schema?.datePublished || pubDate,
+  "dateModified": schema?.dateModified || updatedDate || pubDate,
+  "author": { "@type": "Organization", "name": schema?.author || author || "Tzion S." },
+  "mainEntityOfPage": schema?.mainEntityOfPage || canonicalURL.toString(),
   "publisher": {
     "@type": "Organization",
     "name": "Get Global Yields",
