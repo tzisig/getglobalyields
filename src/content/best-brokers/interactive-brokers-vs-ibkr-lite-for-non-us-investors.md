@@ -135,7 +135,7 @@ If you're a complete beginner looking for a simple app with guided investing - I
 
 ---
 
-## IBKR Lite vs IBKR Pro - What's the Difference? {#lite-vs-pro}
+## IBKR Lite vs IBKR Pro - What's the Difference?
 
 Interactive Brokers offers two distinct account tiers - but only one of them is available if you live outside the United States.
 
@@ -147,7 +147,7 @@ For US residents, choosing between the two involves a real trade-off. For everyo
 
 ---
 
-## Why IBKR Lite Is Not Available Outside the US {#lite-not-available}
+## Why IBKR Lite Is Not Available Outside the US
 
 > **The short answer: IBKR Lite does not exist for non-US investors. If you live outside the United States, you will get IBKR Pro - automatically, with no option to switch.**
 
@@ -163,7 +163,7 @@ The result: if you're in Israel, [Germany](/us-investing/how-to-invest-in-us-sto
 
 ---
 
-## What Non-US Investors Actually Get - IBKR Pro Features {#ibkr-pro-features}
+## What Non-US Investors Actually Get - IBKR Pro Features
 
 IBKR Pro is not a downgrade. It's what professional traders use, and it comes with capabilities that IBKR Lite doesn't even offer:
 
@@ -182,7 +182,7 @@ IBKR Pro is not a downgrade. It's what professional traders use, and it comes wi
 
 ---
 
-## Fee Breakdown - IBKR Lite vs IBKR Pro {#fee-breakdown}
+## Fee Breakdown - IBKR Lite vs IBKR Pro
 
 | Feature | IBKR Lite (US Only) | IBKR Pro (Global) |
 |---|---|---|
@@ -204,7 +204,7 @@ IBKR Pro is not a downgrade. It's what professional traders use, and it comes wi
 
 ---
 
-## Tiered vs Fixed Pricing - Which to Choose? {#tiered-vs-fixed}
+## Tiered vs Fixed Pricing - Which to Choose?
 
 Within IBKR Pro, you choose between two commission structures. This applies to all non-US investors.
 
@@ -236,7 +236,7 @@ Minimum per order: $0.35
 
 ---
 
-## Real Cost Example - What an Israeli Investor Actually Pays {#real-cost-example}
+## Real Cost Example - What an Israeli Investor Actually Pays
 
 Let's make this concrete. Here's what a typical Israeli investor might pay using IBKR Pro with Fixed pricing, compared to a popular alternative.
 
@@ -275,7 +275,7 @@ Let's make this concrete. Here's what a typical Israeli investor might pay using
 
 ---
 
-## IBKR for Israeli Investors - Key Details {#israeli-investors}
+## IBKR for Israeli Investors - Key Details
 
 For Israeli residents specifically, here's what you need to know before opening an account.
 
@@ -334,7 +334,7 @@ IBKR accepts international wire transfers via SWIFT. Your Israeli bank will char
 
 ---
 
-## Country-by-Country Availability {#country-by-country}
+## Country-by-Country Availability
 
 ### Israeli Investors
 
@@ -386,7 +386,7 @@ UK residents use **Interactive Brokers UK Ltd** (regulated by the FCA). Similar 
 
 ---
 
-## Platform & Tools {#platform-tools}
+## Platform & Tools
 
 IBKR offers three main ways to access your account:
 
@@ -402,7 +402,7 @@ IBKR offers three main ways to access your account:
 
 ---
 
-## Broker Comparison Table {#broker-comparison}
+## Broker Comparison Table
 
 | | **IBKR Pro** | **Saxo Bank** | **eToro** | **Degiro** | **[Firstrade](/best-brokers/firstrade-review-2026/)** |
 |---|---|---|---|---|---|
@@ -425,7 +425,7 @@ IBKR offers three main ways to access your account:
 
 ---
 
-## Who Should Use Interactive Brokers? {#who-should-use}
+## Who Should Use Interactive Brokers?
 
 ### IBKR is a strong choice if you:
 
@@ -452,7 +452,7 @@ IBKR offers three main ways to access your account:
 
 ---
 
-## Account Opening Process {#account-opening}
+## Account Opening Process
 
 Opening an Interactive Brokers account as a non-US investor is done entirely online and typically takes 1-3 business days for approval.
 
@@ -492,7 +492,7 @@ Once approved and funded, you have full access to all markets and features inclu
 
 ---
 
-## Is Interactive Brokers Safe? {#is-ibkr-safe}
+## Is Interactive Brokers Safe?
 
 Yes - IBKR is one of the most regulated and financially stable retail brokers in the world.
 
@@ -524,7 +524,7 @@ Yes - IBKR is one of the most regulated and financially stable retail brokers in
 
 ---
 
-## Pros and Cons {#pros-cons}
+## Pros and Cons
 
 ### Pros
 
@@ -550,7 +550,7 @@ Yes - IBKR is one of the most regulated and financially stable retail brokers in
 
 ---
 
-## Frequently Asked Questions {#faq}
+## Frequently Asked Questions
 
 ### Can non-US residents use IBKR Lite?
 
@@ -594,7 +594,7 @@ Israeli accounts held under Interactive Brokers LLC (the US entity) are protecte
 
 ---
 
-## Is IBKR Pro Right for You? - Quick Summary {#is-ibkr-right-for-you}
+## Is IBKR Pro Right for You? - Quick Summary
 
 IBKR Pro is one of the 2-3 best brokers available to serious Israeli investors today, alongside Saxo Bank and a small handful of others. But it's not for everyone. Here's a fast breakdown:
 
@@ -615,7 +615,7 @@ IBKR Pro is one of the 2-3 best brokers available to serious Israeli investors t
 
 ---
 
-## Final Verdict {#final-verdict}
+## Final Verdict
 
 **Overall Rating: 4.4 / 5**
 

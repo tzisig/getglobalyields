@@ -19,7 +19,7 @@ draft: false
 readingTime: "8 min read"
 featured: false
 seo:
-  metaTitle: "US-Russia Tax Treaty: Suspended Since 2024 - Current Status (2026)"
+  metaTitle: "US-Russia Tax Treaty: Suspended Since 2024, Current Status"
   metaDescription: "The US-Russia tax treaty's core provisions were suspended August 16, 2024. Why US brokerage access for Russian residents isn't realistically available in 2026, and what the treaty covered before suspension."
   ogTitle: "US-Russia Tax Treaty: Suspended Since 2024 - Current Status (2026)"
   ogDescription: "The US-Russia tax treaty's core provisions were suspended August 16, 2024. Why US brokerage access for Russian residents isn't realistically available in 2026, and what the treaty covered before suspension."

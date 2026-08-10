@@ -20,7 +20,7 @@ draft: false
 readingTime: "14 min read"
 featured: true
 seo:
-  metaTitle: "US-Czech Republic Tax Treaty Guide for Czech Investors (2026)"
+  metaTitle: "US-Czech Republic Tax Treaty for Investors (2026)"
   metaDescription: "How the US-Czech Republic tax treaty affects Czech residents investing in US markets. The 15% dividend rate, W-8BEN, and the 3-year capital gains exemption."
   ogTitle: "US-Czech Republic Tax Treaty Guide for Czech Investors (2026)"
   ogDescription: "How the US-Czech Republic tax treaty affects Czech residents investing in US markets. The 15% dividend rate, W-8BEN, and the 3-year capital gains exemption."

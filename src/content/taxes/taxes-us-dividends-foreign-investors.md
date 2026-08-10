@@ -25,7 +25,7 @@ draft: false
 readingTime: "15 min read"
 featured: true
 seo:
-  metaTitle: "US Dividend Withholding Tax for Foreign Investors (2026 Guide)"
+  metaTitle: "US Dividend Withholding Tax for Foreign Investors (2026)"
   metaDescription: "Complete guide to US dividend withholding tax for non-US residents. Learn how to claim tax treaty reductions, avoid default 30% rate, and reclaim tax."
   ogTitle: "US Dividend Withholding Tax for Foreign Investors (2026 Guide)"
   ogDescription: "Complete guide to US dividend withholding tax for non-US residents. Learn how to claim tax treaty reductions, avoid default 30% rate, and reclaim tax."

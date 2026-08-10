@@ -19,7 +19,7 @@ draft: false
 readingTime: "10 min read"
 featured: false
 seo:
-  metaTitle: "PFIC Rules Explained for International Investors (2026 Guide)"
+  metaTitle: "PFIC Rules Explained for International Investors (2026)"
   metaDescription: "What is a PFIC and why does it matter? Learn the passive foreign investment company rules, tax implications, and how to avoid costly IRS penalties."
   ogTitle: "PFIC Rules Explained for International Investors (2026 Guide)"
   ogDescription: "What is a PFIC and why does it matter? Learn the passive foreign investment company rules, tax implications, and how to avoid costly IRS penalties."

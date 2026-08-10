@@ -1,6 +1,6 @@
 ---
 slug: leveraged-etf-rebalancing-strategy-2026
-title: "TQQQ Rebalancing Strategy: When to Rebalance and How to Avoid the Tax Trap"
+title: "TQQQ Rebalancing Strategy: Timing and the Tax Trap"
 description: "A practical guide to rebalancing portfolios that contain TQQQ and other leveraged ETFs. Threshold bands, drift risk, contribution-first tax strategy, and what the 2022 experience taught about rebalancing discipline."
 pubDate: 2026-05-29
 updatedDate: 2026-05-29

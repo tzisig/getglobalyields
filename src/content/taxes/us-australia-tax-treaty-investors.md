@@ -20,7 +20,7 @@ draft: false
 readingTime: "15 min read"
 featured: true
 seo:
-  metaTitle: "US-Australia Tax Treaty Guide for Australian Investors (2026)"
+  metaTitle: "US-Australia Tax Treaty for Investors (2026 Guide)"
   metaDescription: "How the US-Australia tax treaty reduces withholding tax on dividends for Australian residents. Super accumulation vs pension phase, W-8BEN, and CGT rules."
   ogTitle: "US-Australia Tax Treaty Guide for Australian Investors (2026)"
   ogDescription: "How the US-Australia tax treaty reduces withholding tax on dividends for Australian residents. Super accumulation vs pension phase, W-8BEN, and CGT rules."
