@@ -212,7 +212,7 @@ const latestPosts = allPosts
                   <ThemeHeroImage
                     darkSrc={heroImageDark}
                     lightSrc={heroImageLight}
-                    alt={post.data.title}
+                    alt={post.data.tags?.[0] || post.data.title}
                     width={post.data.heroImageWidth ?? 840}
                     height={post.data.heroImageHeight ?? 560}
                     class="w-full h-48 object-cover"

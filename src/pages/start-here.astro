@@ -68,6 +68,7 @@ const startInvesting = [
           {beginnerBasics.map(post => (
             <Card
               title={post.data.title}
+              keyword={post.data.tags?.[0]}
               description={post.data.description}
               href={post.url}
               date={post.data.pubDate}
@@ -99,6 +100,7 @@ const startInvesting = [
           {brokers.map(post => (
             <Card
               title={post.data.title}
+              keyword={post.data.tags?.[0]}
               description={post.data.description}
               href={post.url}
               date={post.data.pubDate}
@@ -146,6 +148,7 @@ const startInvesting = [
           {startInvesting.map(post => (
             <Card
               title={post.data.title}
+              keyword={post.data.tags?.[0]}
               description={post.data.description}
               href={post.url}
               date={post.data.pubDate}

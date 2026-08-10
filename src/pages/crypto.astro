@@ -29,6 +29,7 @@ const posts = (await getCollection('crypto').catch(() => []))
         {posts.length > 0 ? posts.map((post, index) => (
           <Card
             title={post.data.title}
+            keyword={post.data.tags?.[0]}
             description={post.data.description}
             href={post.url}
             date={post.data.pubDate}

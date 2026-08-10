@@ -127,7 +127,7 @@ const recoveryCandles = isRecoveryChartPost ? await getRecoveryCandles() : [];
               <ThemeHeroImage
                 darkSrc={heroImageDark ?? fallbackHeroImage}
                 lightSrc={heroImageLight ?? fallbackHeroImage}
-                alt={post.data.title}
+                alt={post.data.tags?.[0] || post.data.title}
                 width={post.data.heroImageWidth ?? 840}
                 height={post.data.heroImageHeight ?? 560}
                 class="w-full h-auto rounded-xl mb-12 shadow-2xl border border-primary-700"

@@ -12,11 +12,12 @@ export interface Props {
   imageWidth?: number;
   imageHeight?: number;
   priority?: boolean;
+  keyword?: string;
 }
 
 import ThemeHeroImage from './ThemeHeroImage.astro';
 
-const { title, description, href, date, categoryName, image, imageLight, imageDark, isFeatured = false, imageWidth = 840, imageHeight = 560, priority = false } = Astro.props;
+const { title, description, href, date, categoryName, image, imageLight, imageDark, isFeatured = false, imageWidth = 840, imageHeight = 560, priority = false, keyword } = Astro.props;
 const lightImage = imageLight ?? image;
 const darkImage = imageDark ?? image;
 const fallbackImage = darkImage ?? lightImage;
@@ -29,7 +30,7 @@ const fallbackImage = darkImage ?? lightImage;
         <ThemeHeroImage
           darkSrc={darkImage ?? fallbackImage}
           lightSrc={lightImage ?? fallbackImage}
-          alt={title}
+          alt={keyword || title}
           width={imageWidth}
           height={imageHeight}
           class={`w-full transition-transform duration-700 group-hover:scale-105 ${isFeatured ? 'h-auto block' : 'h-full object-cover'}`}

@@ -111,6 +111,7 @@ const availableLetters = [...new Set(postsWithLetter.map(p => p.letter).filter((
           >
             <Card
               title={post.data.title}
+              keyword={post.data.tags?.[0]}
               description={post.data.description}
               href={post.url}
               date={post.data.pubDate}

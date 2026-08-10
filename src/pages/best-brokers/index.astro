@@ -112,7 +112,7 @@ const collectionSchema = {
               const post = allBrokerPosts.find(p => p.slug === entry.slug || p.id === entry.slug || p.id === entry.contentId || p.id === entry.slug + '.md' || p.id === entry.contentId + '.md');
               const heroImage = post?.data?.heroImage || '';
               const heroImageLight = heroImage?.replace('/images/blog/', '/images/blog/light/');
-              const altText = post?.data?.title || entry.title;
+              const altText = post?.data?.tags?.[0] || post?.data?.title || entry.title;
               return (
                 <a
                   href={`/best-brokers/${entry.slug}/`}
@@ -187,7 +187,7 @@ const collectionSchema = {
                 <ThemeHeroImage
                   darkSrc={heroImage}
                   lightSrc={heroImageLight}
-                  alt={title}
+                  alt={tags[0] || title}
                   width={post.data.heroImageWidth ?? 840}
                   height={post.data.heroImageHeight ?? 560}
                   class="w-full h-full object-cover"
