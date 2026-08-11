@@ -15,7 +15,7 @@ tags:
 heroImage: "/images/blog/taxes/us-japan-tax-treaty-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
-draft: true
+draft: false
 readingTime: "12 min read"
 featured: false
 seo:
