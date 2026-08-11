@@ -21,6 +21,21 @@ heroImageHeight: 560
 draft: false
 readingTime: "14 min read"
 featured: false
+schema:
+  faq:
+    - question: "Are REIT dividends qualified dividends?"
+      answer: "No. REIT distributions are mostly ordinary income - rental income passed through to shareholders. They cannot be qualified dividends under US tax law, and they receive less favorable treaty treatment for international investors (25% withholding under the US-Israel treaty vs. 15% for qualified corporate dividends)."
+    - question: "What is the actual breakdown of a REIT distribution?"
+      answer: "Based on NAREIT's 2024 data across all US-listed REITs: approximately 78% ordinary income, 9% long-term capital gains, 12% return of capital. The breakdown varies by REIT and year. Each REIT publishes its annual distribution breakdown on its investor relations page (Form 8937)."
+    - question: "Does W-8BEN reduce REIT withholding to 15% for Israeli investors?"
+      answer: "No. W-8BEN applies the US-Israel treaty rate to REIT ordinary dividends, which is 25% under Article 12 - not 15%. The 15% rate applies to qualified corporate dividends. Always verify the actual rate your broker applies."
+    - question: "What is FIRPTA and how does it affect REIT investors?"
+      answer: "When a foreign investor sells REIT shares, 15% of gross sale proceeds is withheld at the point of sale. This is a prepayment against actual tax owed, reconciled via a US non-resident tax return (Form 1040-NR). For retail investors owning under 10% of a publicly traded REIT, capital gain distributions received during the holding period are not subject to FIRPTA - only the share sale itself triggers FIRPTA withholding."
+    - question: "When is the yield spread attractive enough to buy REITs?"
+      answer: "The historical average spread of All Equity REIT yields over the 10-year Treasury since 2000 is approximately 1.4%. At current 10-year rates of ~4.3%, quality REITs yielding 5.7%+ offer spreads in line with historical norms. Category-average yields of ~4% do not."
+    - question: "Which is better for a Roth IRA?"
+      answer: "REITs, clearly. Inside a Roth IRA, US withholding does not apply and distributions compound tax-free. The gross yield advantage is fully realized without any drag."
+
 ---
 
 <!-- PAGE: Add to /income-investing/ -->

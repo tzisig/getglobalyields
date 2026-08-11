@@ -21,6 +21,19 @@ heroImageHeight: 560
 draft: false
 readingTime: "12 min read"
 featured: false
+schema:
+  faq:
+    - question: "Can I buy VOO or VTI as a Dutch investor?"
+      answer: "No, not through a regulated EU broker. PRIIPs regulations require a Key Information Document in an EU language for any packaged product sold to retail investors, and US ETF providers generally do not produce these. Use UCITS equivalents like CSPX (S&P 500) or VWCE (global)."
+    - question: "Does DEGIRO or Interactive Brokers calculate my Box 3 tax for me?"
+      answer: "No. Unlike Germany's automatic Abgeltungsteuer withholding, Box 3 is self-assessed once a year through your personal income tax return, based on your total qualifying assets across all accounts on January 1."
+    - question: "How much Box 3 tax will I actually pay?"
+      answer: "For 2026, the Belastingdienst assumes a 6.04% fictitious return on your investment assets, taxed at 36% - an effective rate of roughly 2.16% of asset value above your €59,357 individual allowance (doubled for tax partners). Below the allowance, the bill is €0."
+    - question: "Do I need a Dutch bank account to open a brokerage account?"
+      answer: "Most brokers serving Dutch residents, including DEGIRO, require a Dutch or other EU bank account and your BSN during registration."
+    - question: "What happens to Box 3 in 2028?"
+      answer: "A law replacing the fictitious-return system with a tax on actual returns (including unrealized gains) at 36%, with a lower €1,800 threshold, has passed the House of Representatives and is pending Senate approval, targeting January 1, 2028."
+
 ---
 
 Search "how to buy Apple stock" from the Netherlands and you will land on plenty of generic advice - most of it written for Americans, some of it recommending US-domiciled ETFs you are not actually allowed to buy as an EU retail investor. The mechanics of investing from the Netherlands are not complicated, but they are different enough from the generic advice that it is worth getting right the first time.

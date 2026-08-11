@@ -21,6 +21,19 @@ heroImageHeight: 560
 draft: false
 readingTime: "11 min read"
 featured: false
+schema:
+  faq:
+    - question: "As an OFW, do I owe Philippine tax on my US stock investments?"
+      answer: "Generally no, provided your non-resident-citizen status is correctly maintained under BIR criteria. Gains from non-Philippine shares are treated as foreign-source income and are generally outside Philippine income tax scope for a non-resident citizen, and by the same logic, US dividend income typically falls outside it too."
+    - question: "What's the US withholding rate on my dividends?"
+      answer: "25%, under the US-Philippines tax treaty (1976), once Form W-8BEN is filed with your broker - the same rate for both residents and OFWs. Without the form, the default 30% applies."
+    - question: "Is there really a US-Philippines tax treaty?"
+      answer: "Yes. It has been in force since 1976. Claims that no treaty exists are outdated or incorrect."
+    - question: "I'm a Philippine resident, not an OFW - how does my tax situation differ?"
+      answer: "You are taxed on worldwide income, including US dividends and capital gains, at progressive rates up to 35% under the TRAIN Act. The 25% US withholding is creditable against this, but Philippine tax still applies on top."
+    - question: "Which brokers accept Filipino investors and OFWs?"
+      answer: "Interactive Brokers and eToro are both confirmed to accept Philippine residents and citizens for account opening, based on standard residency/citizenship documentation."
+
 ---
 
 The single most consequential fact in this guide is not the US treaty rate - it is whether you are a **Philippine resident** or an **OFW (Overseas Filipino Worker)**, legally classified as a non-resident citizen. That status determines whether the Philippines taxes your US investment income at all, and the answer for OFWs is more favorable than most guides make clear.

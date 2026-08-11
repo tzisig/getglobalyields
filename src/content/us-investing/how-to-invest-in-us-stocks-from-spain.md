@@ -21,6 +21,19 @@ heroImageHeight: 560
 draft: false
 readingTime: "12 min read"
 featured: false
+schema:
+  faq:
+    - question: "Can I buy VOO or VTI as a Spanish investor?"
+      answer: "No, not through a regulated EU broker. PRIIPs regulations require a Key Information Document in an EU language, which US ETF providers generally do not produce. Use UCITS equivalents like CSPX (S&P 500) or VWCE (global)."
+    - question: "Do I need to file Modelo 720 for my US brokerage account?"
+      answer: "Only if the account's value exceeds €50,000 at any point during the year. If it does, file by March 31 of the following year. Below that threshold, there is nothing to file for this obligation."
+    - question: "Is Modelo 720 a tax I have to pay?"
+      answer: "No. It is a disclosure requirement. Filing it correctly does not itself create a tax bill - your actual tax on dividends and capital gains is calculated separately under Spain's progressive savings income scale."
+    - question: "What's the actual tax rate on US dividends and gains for a Spanish resident?"
+      answer: "Spain's savings income scale runs from 19% (up to €6,000) to 30% (above €300,000), applied to combined dividends and capital gains. A foreign tax credit is available for the 15% US withholding already paid."
+    - question: "Do I need an NIE to open a brokerage account in Spain?"
+      answer: "Most brokers require it if you are a foreign resident, since it is Spain's standard identification number for non-Spanish nationals dealing with any financial institution."
+
 ---
 
 Most guides to investing in US stocks are written for Americans, and most of what shows up when you search from Spain either recommends ETFs you cannot actually buy as an EU retail investor or skips the one filing requirement that carries real penalty exposure: Modelo 720. Neither omission is helpful.

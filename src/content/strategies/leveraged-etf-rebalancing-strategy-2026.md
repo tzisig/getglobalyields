@@ -21,6 +21,19 @@ heroImageHeight: 560
 draft: false
 readingTime: "13 min read"
 featured: false
+schema:
+  faq:
+    - question: "Does rebalancing more frequently reduce volatility decay?"
+      answer: "No. Volatility decay is a function of the daily variance of the underlying index multiplied by the leverage factor. It operates inside the fund regardless of how often you rebalance your allocation to it. Rebalancing frequency controls concentration risk and allocation drift - it does not affect the fund's internal decay mechanism."
+    - question: "Should I rebalance monthly or quarterly?"
+      answer: "Neither as a calendar rule. Threshold-based rebalancing - acting when the allocation drifts beyond a defined band - consistently outperforms calendar approaches in risk-adjusted return terms. Use calendar monitoring (monthly check) with threshold-based action."
+    - question: "What threshold bands should I use for TQQQ at 20% allocation?"
+      answer: "A ±25% relative band (rebalance at 25% or 15%) is appropriate for a taxable account. A ±20% relative band (rebalance at 24% or 16%) is appropriate for a tax-advantaged account where transaction costs are lower."
+    - question: "How do I rebalance without triggering large taxable gains?"
+      answer: "Use new contributions to rebalance first. Direct all new capital to underweight positions before triggering any sale. In a year with large contributions relative to portfolio size, this can handle most drift without any taxable event."
+    - question: "Is rebalancing into TQQQ after a large decline a good idea?"
+      answer: "Mechanically, yes - if it brings your allocation back to target, it is the right action under the threshold framework. Emotionally, it is the hardest rebalancing action to execute. This is exactly why the threshold is set in advance: to remove the discretion that would otherwise cause you to avoid buying after a decline."
+
 ---
 
 <!-- PAGE: Add to /etf-investing/ or /portfolio-strategy/ -->

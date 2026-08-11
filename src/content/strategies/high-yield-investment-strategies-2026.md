@@ -23,6 +23,21 @@ heroImageHeight: 560
 draft: false
 readingTime: "15 min read"
 featured: true
+schema:
+  faq:
+    - question: "What is a realistic high-yield return in 2026 without taking excessive risk?"
+      answer: "A well-diversified income portfolio in 2026 can realistically generate 5-6% blended yield using investment-grade CLO ETFs (6%), quality equity REITs (4.5-6.5%), BDCs like Main Street Capital (7.9%), and dividend growth stocks (3-5%). Yields above 7-8% require accepting meaningful credit, interest rate, or operational risk that should be understood before investing."
+    - question: "Are BDCs safe investments for income?"
+      answer: "BDCs are not safe in the way that government bonds are safe. They lend to middle-market companies, many with significant debt, and their income is directly tied to floating interest rates. In a rate-cutting environment, BDC portfolio yields compress. Quality BDCs like Main Street Capital have strong track records, but \"high yield\" always reflects real risk. Size BDC positions at 5-15% of an income portfolio, not a majority."
+    - question: "What is a yield trap and how do I spot one?"
+      answer: "A yield trap is an investment where the headline yield is unsustainable - because the payout is funded by return of capital, the underlying business is deteriorating, or the leverage supporting the distribution is fragile. Signs: payout ratio above 90% of earnings or FFO, declining net asset value over multiple years, dividend cuts in recent history, or yields significantly above sector peers without a clear explanation."
+    - question: "Are CLO ETFs appropriate for conservative investors?"
+      answer: "JAAA and CLOI hold investment-grade tranches - primarily AAA - with near-zero historical default rates. They are safer in credit terms than high-yield bonds or BDCs. The primary risks are liquidity, floating-rate exposure (yields fall as rates fall), and structural complexity. For investors who understand these risks and hold them as a bond replacement rather than an equity substitute, CLO ETFs are a reasonable component of a diversified income portfolio."
+    - question: "Should I prioritize high yield or dividend growth?"
+      answer: "Depends on your time horizon. If you need income now - in or near retirement - a higher starting yield makes sense. If you are building income for use in 10+ years, dividend growth stocks starting at 3-4% yield growing at 6-8% annually will likely generate more income in the long run than a static 6% yield. Most income portfolios benefit from combining both."
+    - question: "How does the 4.1% HYSA rate change the calculus for high-yield investing?"
+      answer: "It raises the hurdle significantly. When cash paid 0.5% in 2020, a 4% REIT yield offered 3.5% above the risk-free rate. At today's 4.1% cash rate, a 4% REIT offers negative spread versus cash. The strategies that remain compelling are those offering 5%+ with specific, understandable risks. That standard eliminates a large portion of what gets marketed as \"high yield.\""
+
 ---
 
 The most dangerous number in investing is a yield that looks too good to be true - because it usually is, and by the time you find out, the damage is done.

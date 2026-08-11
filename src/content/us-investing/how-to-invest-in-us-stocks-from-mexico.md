@@ -21,6 +21,19 @@ heroImageHeight: 560
 draft: false
 readingTime: "11 min read"
 featured: false
+schema:
+  faq:
+    - question: "Can I buy VOO and QQQ directly as a Mexican investor?"
+      answer: "Yes. Mexico is not subject to the EU's PRIIPs regulation, so any US-listed stock or ETF your broker offers is directly accessible."
+    - question: "What's the US withholding rate on my dividends?"
+      answer: "10%, under the US-Mexico tax treaty, once Form W-8BEN is filed with your broker - one of the more favorable rates among treaty countries. Without it, the default 30% applies."
+    - question: "Does the BMV's 10% capital gains rate apply to my US stock gains?"
+      answer: "No. US stock gains through a foreign broker are taxed as ordinary income at Mexico's progressive rate, up to 35% - not the BMV's preferential 10% rate."
+    - question: "Will my broker report my gains to SAT automatically?"
+      answer: "No. Foreign brokers like Interactive Brokers do not withhold Mexican tax or report to SAT. Calculating, converting to pesos, and filing is entirely your responsibility."
+    - question: "Which brokers accept Mexican residents?"
+      answer: "Interactive Brokers and eToro are both confirmed to accept Mexican residents for account opening."
+
 ---
 
 Mexican investors accustomed to trading on the Bolsa Mexicana de Valores (BMV) are used to a favorable, flat 10% tax on net gains. The natural assumption - that the same rate applies to gains on US stocks bought through a foreign broker - is wrong, and it is one of the more costly misreadings of Mexican tax law among investors moving into US markets.

@@ -19,15 +19,15 @@ draft: false
 readingTime: "10 min read"
 featured: false
 seo:
-  metaTitle: "US-France Tax Treaty Guide: Why the PEA Can't Hold US Stocks (2026)"
+  metaTitle: "US-France Tax Treaty: The PEA Can't Hold US Stocks (2026)"
   metaDescription: "How the US-France tax treaty caps dividend withholding at 15%. Why the PEA excludes direct US stocks, the 30% PFU flat tax, and Interactive Brokers/eToro access."
-  ogTitle: "US-France Tax Treaty Guide: Why the PEA Can't Hold US Stocks (2026)"
+  ogTitle: "US-France Tax Treaty: The PEA Can't Hold US Stocks (2026)"
   ogDescription: "How the US-France tax treaty caps dividend withholding at 15%. Why the PEA excludes direct US stocks, the 30% PFU flat tax, and Interactive Brokers/eToro access."
   ogImage: "/images/blog/taxes/us-france-tax-treaty.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"
-  headline: "US-France Tax Treaty Guide: Why the PEA Can't Hold US Stocks (2026)"
+  headline: "US-France Tax Treaty: The PEA Can't Hold US Stocks (2026)"
   description: "How the US-France tax treaty caps dividend withholding at 15%. Why the PEA excludes direct US stocks, the 30% PFU flat tax, and Interactive Brokers/eToro access."
   author: "Tzion S."
   datePublished: "2026-08-09"

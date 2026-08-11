@@ -22,6 +22,21 @@ heroImageHeight: 560
 draft: false
 readingTime: "14 min read"
 featured: false
+schema:
+  faq:
+    - question: "Is selling covered calls on TQQQ a safe income strategy?"
+      answer: "No. The word \"safe\" does not apply to any strategy involving TQQQ. The premium income is real, but it does not meaningfully protect against TQQQ's potential for severe drawdowns. In 2022, TQQQ fell 81.66% from its peak. No covered call premium program offsets a loss of that magnitude. The strategy generates income in normal market conditions - it does not transform a high-risk instrument into a conservative one."
+    - question: "How much premium can I realistically collect monthly?"
+      answer: "At an implied volatility of 55-60% (TQQQ's approximate range in early 2026), a 5% OTM call expiring in 30 days generates roughly 2.5-4% of the underlying's price in premium. On a $7,500 position (100 shares at $75), that is approximately $190-$300 per month. Actual amounts vary significantly with IV levels, which can spike or compress rapidly."
+    - question: "What happens if TQQQ is called away?"
+      answer: "Your shares are sold at the strike price. You keep the premium and receive the strike price per share. Your total proceeds are (strike price × 100 shares) + premium collected. Whether this is a good outcome depends on your cost basis. If TQQQ has risen far above your strike, you miss the additional upside - the most common frustration with covered calls on a volatile, upward-trending ETF."
+    - question: "Should I sell covered calls every month on TQQQ?"
+      answer: "There is no obligation to sell a call every month. Many experienced covered call sellers skip months when implied volatility is low (premium not worth the upside cap) or when they expect a strong directional move in the underlying. Mechanical monthly selling without regard to market conditions is not necessarily optimal."
+    - question: "How does volatility decay affect my covered call strategy?"
+      answer: "Volatility decay hurts the long TQQQ position over time in choppy markets. If TQQQ's underlying index moves sideways but with high daily volatility, the ETF can lose value even as the index ends flat. The covered call premium does not offset this structural drag. It is one reason why holding TQQQ long-term as a covered call platform - rather than a tactical position - requires careful consideration."
+    - question: "Can I use this strategy in a retirement account (IRA)?"
+      answer: "Covered calls are permitted in IRAs at most major brokers. The tax treatment differs: gains in a traditional IRA are tax-deferred and taxed at ordinary income rates on withdrawal; gains in a Roth IRA are tax-free on qualified withdrawal. However, many retirement account holders should consider whether TQQQ is appropriate for retirement assets given its drawdown potential - that question is separate from and more fundamental than the covered call mechanics."
+
 ---
 
 > **Important:** This guide covers an advanced options strategy on a 3x leveraged ETF. Both components - covered calls and leveraged ETFs - carry significant risk individually. Combined, the risks multiply. This article is educational, not financial advice. Read the risk sections fully before considering any trade.

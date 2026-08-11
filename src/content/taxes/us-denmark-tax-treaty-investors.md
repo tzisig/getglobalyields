@@ -24,15 +24,15 @@ featured: false
 rating: 4.6
 seo:
   metaTitle: "US-Denmark Tax Treaty Guide for Danish Investors (2026)"
-  metaDescription: "Danish investor guide to the US-Denmark tax treaty. How to reduce dividend withholding tax from 30% to 15%, avoid the aktiesparekonto PFIC trap, and claim tax credits in Denmark."
+  metaDescription: "How the US-Denmark tax treaty reduces dividend withholding from 30% to 15%, the aktiesparekonto PFIC trap, and claiming Danish tax credits."
   ogTitle: "US-Denmark Tax Treaty Guide for Danish Investors (2026)"
-  ogDescription: "Danish investor guide to the US-Denmark tax treaty. How to reduce dividend withholding tax from 30% to 15%, avoid the aktiesparekonto PFIC trap, and claim tax credits in Denmark."
+  ogDescription: "How the US-Denmark tax treaty reduces dividend withholding from 30% to 15%, the aktiesparekonto PFIC trap, and claiming Danish tax credits."
   ogImage: "/images/blog/taxes/us-denmark-tax-treaty.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"
   headline: "US-Denmark Tax Treaty Guide for Danish Investors (2026)"
-  description: "Danish investor guide to the US-Denmark tax treaty. How to reduce dividend withholding tax from 30% to 15%, avoid the aktiesparekonto PFIC trap, and claim tax credits in Denmark."
+  description: "How the US-Denmark tax treaty reduces dividend withholding from 30% to 15%, the aktiesparekonto PFIC trap, and claiming Danish tax credits."
   author: "Tzion S."
   datePublished: "2026-06-17"
   dateModified: "2026-08-04"

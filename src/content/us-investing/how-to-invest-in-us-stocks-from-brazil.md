@@ -21,6 +21,19 @@ heroImageHeight: 560
 draft: false
 readingTime: "12 min read"
 featured: false
+schema:
+  faq:
+    - question: "Can I buy VOO and QQQ directly as a Brazilian resident?"
+      answer: "Yes. Brazil is not subject to the EU's PRIIPs regulation, so any US-listed stock or ETF your broker offers is directly accessible."
+    - question: "What is IOF and how much will it cost me?"
+      answer: "IOF is Brazil's Tax on Financial Operations, applied to currency conversions. Remittances coded as investment abroad - funding a foreign brokerage account - carry a 1.1% rate on the transaction value."
+    - question: "Does the lack of a US-Brazil tax treaty mean I lose the US withholding entirely?"
+      answer: "No. Brazilian tax authorities have officially recognized reciprocity with the United States, which makes the 30% US withholding creditable against Brazilian tax on the same income, even without a formal treaty."
+    - question: "How are my capital gains taxed in Brazil?"
+      answer: "15% on gains up to BRL 5 million per sale, progressively up to 22.5% above that. Gains are exempt entirely if total sale proceeds in a given month stay at or below BRL 35,000."
+    - question: "Which brokers accept Brazilian residents?"
+      answer: "Interactive Brokers and eToro are both confirmed to accept Brazilian residents for account opening."
+
 ---
 
 Brazil and the US have never signed a comprehensive income tax treaty, so most guides stop at "expect 30% withholding and move on." That leaves out the part that actually matters for a Brazilian investor's real return: an officially recognized reciprocity arrangement that makes the US withholding creditable anyway, a real upfront cost on funding the account (IOF), and a capital gains system with its own exemption worth planning around.

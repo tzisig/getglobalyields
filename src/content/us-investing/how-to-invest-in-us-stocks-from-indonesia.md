@@ -20,6 +20,19 @@ heroImageHeight: 560
 draft: false
 readingTime: "10 min read"
 featured: false
+schema:
+  faq:
+    - question: "Can I buy VOO and QQQ directly as an Indonesian investor?"
+      answer: "Yes. Indonesia is not subject to the EU's PRIIPs regulation, so any US-listed stock or ETF your broker offers is directly accessible."
+    - question: "What's the US withholding rate on my dividends?"
+      answer: "15%, under the US-Indonesia tax treaty, once Form W-8BEN is filed with your broker. Without it, the default 30% applies."
+    - question: "Does my IDX capital gains tax treatment apply to my US stocks?"
+      answer: "No, not automatically. Foreign-source capital gains from a US brokerage account are assessed differently from IDX-listed shares - confirm the current rules with a tax advisor."
+    - question: "Which brokers accept Indonesian residents?"
+      answer: "Interactive Brokers and eToro are both confirmed to accept Indonesian residents for account opening."
+    - question: "Do I owe US tax when I sell my US stocks?"
+      answer: "No. Under the treaty and standard US non-resident-alien rules, capital gains on US securities are taxed only by your country of residence, not the US."
+
 ---
 
 Jakarta has a growing population of retail investors comfortable with the Indonesia Stock Exchange (IDX) but unsure how the rules change once US stocks enter the picture. The good news: the mechanics are simpler than most countries in this series. The one thing worth being careful about is assuming your IDX tax treatment carries over to US securities - it does not, automatically.

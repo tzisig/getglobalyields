@@ -1,7 +1,7 @@
 ﻿---
 slug: us-austria-tax-treaty-investors
 title: "US-Austria Tax Treaty: Complete Guide for Investors (2026)"
-description: "How the US-Austria tax treaty (1996) affects investors resident in Austria. Verified withholding rates on dividends, interest, capital gains, REIT treatment, Pensionskasse benefits, W-8BEN filing, and the Austrian KESt credit system."
+description: "How the US-Austria tax treaty affects Austrian investors - withholding rates, REIT treatment, Pensionskasse benefits, and W-8BEN filing."
 pubDate: 2026-05-31
 updatedDate: 2026-08-04
 author: "Tzion S."

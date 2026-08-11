@@ -22,6 +22,27 @@ draft: false
 readingTime: "12 min read"
 featured: false
 rating: 4.2
+schema:
+  faq:
+    - question: "Does the US-Egypt treaty apply to ETFs?"
+      answer: "Yes. Dividends from US-listed ETFs (SPY, VTI, QQQ, etc.) are treated as US-source dividends subject to the 15% treaty rate with a valid W-8BEN. There is no special ETF provision in the 1980 treaty - the treatment follows the same dividend article."
+    - question: "What about UCITS ETFs domiciled in Ireland?"
+      answer: "If you invest in US market exposure through an Irish-domiciled UCITS ETF (e.g., iShares Core S&P 500 UCITS ETF), the US withholding happens at the fund level (under the US-Ireland treaty's mechanics), not at your personal level. The 15% rate is applied by the US on the fund, and the dividend you receive from the UCITS may have different Egyptian tax treatment than a direct US dividend. Egypt has its own treaty with Ireland that may affect the withholding on distributions from the Irish fund to you."
+    - question: "Do I need to file a tax return in Egypt for US investment income?"
+      answer: "Yes, if you have US investment income, you should include it in your annual Egyptian tax return. Dividends, interest, and capital gains from US sources must be declared as income from foreign sources. Use the foreign tax credit to offset US withholding. If your employer already withholds income tax from your salary, you may still need to file a standalone return if your investment income exceeds the tax-free threshold."
+    - question: "What is my Egyptian Tax ID Number and do I need it for the W-8BEN?"
+      answer: "Your Egyptian Tax ID Number is your registration number with the Egyptian Tax Authority (ETA). Include it in your W-8BEN where it asks for a \"Foreign tax identifying number.\" If you do not yet have one, register with the ETA. It is required for the W-8BEN to be fully compliant."
+    - question: "What happens if I receive a US dividend without a W-8BEN on file?"
+      answer: "Your broker withholds 30%. To recover the excess 15% (the difference between the 30% withheld and the 15% treaty rate), you must file a US non-resident tax return (Form 1040-NR) with the IRS or use a tax reclaim service. The Egyptian foreign tax credit applies only up to 15% (the treaty rate) - the excess is recoverable only from the US side."
+    - question: "Are capital gains from selling US stocks taxable in Egypt?"
+      answer: "The answer is uncertain. Under Article 13 of the treaty, gains from the sale of shares by an Egyptian resident are taxable only in Egypt. However, Egyptian domestic law on this point is contradictory - PwC's Egypt Tax Summary (2026) states both that foreign share gains are taxable at progressive rates and that they should not be taxed in Egypt. The ETA has not issued a binding ruling. See the dedicated section above for a full discussion."
+    - question: "Are capital gains from selling US stocks taxable in the US?"
+      answer: "No. Under Article 13, the US cedes taxing rights on portfolio gains to Egypt - so even if Egypt does not tax them, the US does not step in."
+    - question: "Does Egypt tax foreign dividends differently from domestic dividends?"
+      answer: "Yes. Domestic dividends from EGX-listed Egyptian companies are typically subject to a 10% final withholding tax for individuals. Foreign dividends (US dividends) are included in your annual income tax return at the progressive rate, with a foreign tax credit for any treaty-rate US withholding. The effective rate may differ depending on your income bracket."
+    - question: "How does the US-Egypt treaty compare to Egypt's other tax treaties?"
+      answer: "Egypt has DTTs with over 50 countries, and rates vary by treaty and by the specific conditions attached (shareholding size, holding period, listed vs. unlisted). The US-Egypt treaty's 15% general portfolio dividend rate and 15% interest rate are on the higher end compared to some of Egypt's more modern treaties, reflecting the 1980 treaty's age. We have not independently verified exact rate figures for Egypt's other bilateral treaties for this comparison, so we are not citing specific numbers here - check the Deloitte International Tax Source or a current PwC/EY country guide for treaty-by-treaty rates before relying on a comparison."
+
 ---
 <!-- PAGE INSTRUCTIONS:
 - Add to /src/content/taxes/ as us-egypt-tax-treaty-investors.md (done)

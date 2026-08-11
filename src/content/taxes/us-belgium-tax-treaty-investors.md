@@ -23,15 +23,15 @@ readingTime: "16 min read"
 featured: true
 seo:
   metaTitle: "US-Belgium Tax Treaty Guide for Belgian Investors (2026)"
-  metaDescription: "How the US-Belgium tax treaty and the new 2026 capital gains tax affect Belgian investors in US stocks. The August 31 opt-out deadline, W-8BEN, and précompte mobilier."
+  metaDescription: "How the US-Belgium tax treaty and 2026 capital gains tax affect Belgian investors - the August 31 opt-out deadline, W-8BEN, and précompte mobilier."
   ogTitle: "US-Belgium Tax Treaty Guide for Belgian Investors (2026)"
-  ogDescription: "How the US-Belgium tax treaty and the new 2026 capital gains tax affect Belgian investors in US stocks. The August 31 opt-out deadline, W-8BEN, and précompte mobilier."
+  ogDescription: "How the US-Belgium tax treaty and 2026 capital gains tax affect Belgian investors - the August 31 opt-out deadline, W-8BEN, and précompte mobilier."
   ogImage: "/images/blog/taxes/us-belgium-tax-treaty.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"
   headline: "US-Belgium Tax Treaty Guide for Belgian Investors (2026)"
-  description: "How the US-Belgium tax treaty and the new 2026 capital gains tax affect Belgian investors in US stocks. The August 31 opt-out deadline, W-8BEN, and précompte mobilier."
+  description: "How the US-Belgium tax treaty and 2026 capital gains tax affect Belgian investors - the August 31 opt-out deadline, W-8BEN, and précompte mobilier."
   author: "Tzion S."
   datePublished: "2026-06-01"
   dateModified: "2026-08-04"

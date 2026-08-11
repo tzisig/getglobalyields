@@ -21,6 +21,21 @@ heroImageHeight: 560
 draft: false
 readingTime: "14 min read"
 featured: false
+schema:
+  faq:
+    - question: "Is selling puts during a crash the same as trying to catch a falling knife?"
+      answer: "It can be, if you sell too early and without proper sizing. The strategy works when you wait for stabilization signals, sell further out of the money than normal, and use conservative position sizing. Selling at the first VIX spike of a correction is often too early. For a full guide on the mechanics of put selling, see Cash-Secured Puts in High IV Environments."
+    - question: "What is the ideal VIX level to start selling puts?"
+      answer: "Most experienced put sellers become more active above VIX 25-30, where premiums are meaningfully elevated relative to normal. Above VIX 40, premiums are exceptional but require proportionally more caution on sizing and strike selection."
+    - question: "What happens if I get assigned during a crash?"
+      answer: "If you sold a cash-secured put and are assigned, you buy the shares at your strike price minus the premium received. Your effective cost is below the current market price, and if the underlying is a quality asset (SPY, a blue-chip stock), you now hold it at a discount. Many experienced put sellers treat assignment as a natural outcome and then sell covered calls on the assigned position to continue generating income."
+    - question: "Should I use credit spreads instead of naked puts during a crash?"
+      answer: "For most traders, yes. Credit spreads cap your maximum loss and remove the risk of a catastrophic gap-down destroying your account. You collect less premium, but defined risk is worth the tradeoff in an environment where large overnight moves are common."
+    - question: "How does volatility crush affect my position after the crash ends?"
+      answer: "When markets stabilize and IV falls, the mark-to-market value of your short put drops rapidly even before expiration. This is beneficial for put sellers - you can often close the position for 50-70% of maximum profit much earlier than expiration, freeing up capital for the next trade."
+    - question: "Can I do this with individual stocks instead of index ETFs?"
+      answer: "Yes, but it adds idiosyncratic risk. During a crash, individual stocks can face company-specific issues on top of market-wide selling. Index puts (SPX, SPY, QQQ) eliminate that risk. If you sell individual stock puts, stick to companies you have done fundamental work on and would genuinely want to own at the strike price."
+
 ---
 
 <!-- INTERNAL LINKS: Link from options basics guide, VIX explainer, credit spreads guide -->
