@@ -31,7 +31,7 @@ seo:
 schema:
   type: "article"
   headline: "Interactive Brokers Israel vs Saxo vs eToro (2026)"
-  description: "Compare Interactive Brokers, Saxo Bank, and eToro for Israeli investors trading US markets. FX conversion rates, the 25% dividend withholding rate, and options access."
+  description: "Compare Interactive Brokers (IBKR), Saxo Bank, and eToro for Israeli investors trading US markets. FX conversion rates, the 25% dividend withholding rate, and options access."
   author: "Tzion S."
   datePublished: "2026-04-01"
   dateModified: "2026-08-04"

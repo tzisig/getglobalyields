@@ -55,6 +55,18 @@ Underneath that dispute sits the more mechanical part of the picture: a 10% trea
 
 ---
 
+## How Bulgaria Taxes Foreign-Source Income, in Brief
+
+Bulgaria taxes its tax residents on worldwide income - foreign-source income from US stocks is not treated differently in principle from Bulgarian-source income, though the specific rate depends on the type of income:
+
+- **Dividends** (including US dividends): a flat **5%** final withholding tax on the gross amount, under Art. 38(1) and Art. 46(3) of the Personal Income Tax Act - the same rate that applies to domestic dividends.
+- **Capital gains** on shares: the standard flat **10%** personal income tax rate applies, unless the Art. 13(1)(3) ZDDFL exemption for EU/EEA-regulated-market securities applies - and whether that exemption reaches US-listed shares specifically is the genuinely disputed question covered in detail just below.
+- **Interest**: bank deposit interest is taxed at 8% in 2026; interest from bonds held as investment instruments is generally taxed as ordinary income at the 10% flat rate.
+
+In every case, US tax already withheld under the treaty (covered fully below for each income type) generally credits against the matching Bulgarian liability on the same income, via Bulgaria's ordinary foreign tax credit - so the two layers of tax don't simply stack on top of each other.
+
+---
+
 ## The Art. 13(1)(3) ZDDFL Exemption: What Is Settled, and What Is Not
 
 **What is settled:** capital gains realized by a Bulgarian tax-resident individual from disposing of shares, fund units, rights, or government securities on a regulated market in Bulgaria, another EU member state, or an EEA state (Iceland, Liechtenstein, Norway) are exempt from Bulgarian income tax under Art. 13(1)(3) ZDDFL. This applies to ETFs listed on Euronext, Deutsche Börse, and similar EU-regulated venues.
