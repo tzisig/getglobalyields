@@ -2,7 +2,7 @@
 slug: stablecoins-explained-international-investors
 title: "Stablecoins Explained: A Different Kind of Crypto Asset"
 description: "Stablecoins avoid crypto's typical volatility, pegged to an asset like the dollar. What they are, how the peg holds, and how they differ from Bitcoin."
-pubDate: 2026-09-01
+pubDate: 2027-01-01
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Crypto & Digital Assets"]

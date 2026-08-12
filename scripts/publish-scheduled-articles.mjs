@@ -15,6 +15,13 @@ import { fileURLToPath } from 'node:url';
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const contentRoot = path.join(__dirname, '..', 'src', 'content');
 
+// crypto, insurance-planning, and real-estate were briefly added here and
+// then deliberately pulled back out: they're a different vertical from the
+// "non-US investor accessing US markets" niche the other categories serve,
+// and expanding off-niche before that core niche is established dilutes
+// topical authority. Their drafts still exist (pubDate parked at
+// 2027-01-01, well out of the way) for whenever the site is ready to
+// revisit that expansion - don't add them back without that context.
 const ROLLOUT_CATEGORIES = [
   'taxes',
   'us-investing',
@@ -25,9 +32,6 @@ const ROLLOUT_CATEGORIES = [
   'estate-planning',
   'index-funds',
   'currency-banking',
-  'crypto',
-  'insurance-planning',
-  'real-estate',
 ];
 
 const today = new Date().toISOString().slice(0, 10); // YYYY-MM-DD, UTC

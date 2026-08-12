@@ -29,6 +29,7 @@ export interface Props {
     mainEntityOfPage?: string;
   };
   collection?: { name?: string; items: { name: string; url: string }[] };
+  noindex?: boolean;
 }
 
 const {
@@ -43,7 +44,8 @@ const {
   faq = [],
   seo = {},
   schema = {},
-  collection
+  collection,
+  noindex
 } = Astro.props;
 
 const finalTitle       = seo?.metaTitle       || title;
@@ -140,6 +142,8 @@ const collectionSchema = collection?.items?.length ? {
   <meta name="generator" content={Astro.generator} />
 
   <link rel="canonical" href={canonicalURL} />
+
+  {noindex && <meta name="robots" content="noindex, follow" />}
 
   <title>{finalTitle}</title>
   <meta name="title" content={finalTitle} />

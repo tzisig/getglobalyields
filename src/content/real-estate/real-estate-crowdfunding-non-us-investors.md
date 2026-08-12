@@ -2,7 +2,7 @@
 slug: real-estate-crowdfunding-non-us-investors
 title: "US Real Estate Crowdfunding: Why Access Is Harder for Non-US Investors"
 description: "Real estate crowdfunding platforms let US residents buy fractional stakes in specific properties or development projects - but most of these platforms restrict participation to US persons, for securities-law reasons that don't apply to publicly traded REITs. Why the access gap exists and what it means for the REIT alternative."
-pubDate: 2026-08-31
+pubDate: 2027-01-01
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Real Estate & REITs"]

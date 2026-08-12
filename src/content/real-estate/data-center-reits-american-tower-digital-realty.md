@@ -2,7 +2,7 @@
 slug: data-center-reits-american-tower-digital-realty
 title: "Data Center REITs: American Tower and Digital Realty"
 description: "American Tower and Digital Realty both ride the AI data center boom - one a tower company, the other pure-play. Both are constrained by power, not demand."
-pubDate: 2026-08-18
+pubDate: 2027-01-01
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Real Estate & REITs"]

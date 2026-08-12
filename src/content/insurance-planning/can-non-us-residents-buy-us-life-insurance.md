@@ -2,7 +2,7 @@
 slug: can-non-us-residents-buy-us-life-insurance
 title: "Can Non-US Residents Buy US Life Insurance? Access and Alternatives"
 description: "Most US life insurers require US residency or citizenship to issue a policy, which surprises international investors who've read about the favorable US-situs treatment life insurance gets in cross-border estate planning. What access actually looks like, and the alternatives that exist."
-pubDate: 2026-08-13
+pubDate: 2027-01-01
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Insurance & Cross-Border Planning"]

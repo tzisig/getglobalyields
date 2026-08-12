@@ -2,7 +2,7 @@
 slug: key-person-insurance-foreign-business-owners
 title: "Key Person Insurance for International Business Owners"
 description: "Key person insurance premiums aren't deductible under IRC 264(a)(1) - but the payout is tax-free, which matters for an owner with US ties who isn't a resident."
-pubDate: 2026-08-26
+pubDate: 2027-01-01
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Insurance & Cross-Border Planning"]

@@ -2,7 +2,7 @@
 slug: term-vs-whole-life-insurance-international-investors
 title: "Term vs Whole Life Insurance: What Actually Matters for International Investors"
 description: "Term and whole life insurance solve genuinely different problems - one covers a defined period at low cost, the other bundles permanent coverage with a savings component at a much higher price. Which one fits a cross-border investor's situation depends on what the coverage is actually meant to do."
-pubDate: 2026-08-30
+pubDate: 2027-01-01
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Insurance & Cross-Border Planning"]
