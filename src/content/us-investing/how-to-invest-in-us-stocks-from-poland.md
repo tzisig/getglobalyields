@@ -1,7 +1,7 @@
 ---
 slug: how-to-invest-in-us-stocks-from-poland
 title: "How to Invest in US Stocks from Poland (2026 Guide)"
-description: "How to invest in US stocks from Poland. Broker options, W-8BEN, the 15% treaty rate, the 19% Belka tax on top, and UCITS vs US ETFs - explained clearly for 2026."
+description: "How to invest in US stocks from Poland: broker options, W-8BEN, the 15% treaty rate, the 19% Belka tax, and UCITS vs US ETFs - explained for 2026."
 pubDate: 2026-08-16
 updatedDate: 2026-08-05
 author: "Tzion S."

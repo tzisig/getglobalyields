@@ -18,15 +18,15 @@ readingTime: "8 min read"
 featured: false
 seo:
   metaTitle: "State Tax Exposure for Non-Resident Investors (2026)"
-  metaDescription: "Does your broker's state of registration create a state tax obligation? Generally no - the actual dividing line is your own presence or property in a state, not where the broker is based."
+  metaDescription: "Does your broker's state of registration create a state tax obligation? Generally no - the dividing line is your own presence or property in that state."
   ogTitle: "State Tax Exposure for Non-Resident Investors (2026)"
-  ogDescription: "Does your broker's state of registration create a state tax obligation? Generally no - the actual dividing line is your own presence or property in a state, not where the broker is based."
+  ogDescription: "Does your broker's state of registration create a state tax obligation? Generally no - the dividing line is your own presence or property in that state."
   ogImage: "/images/blog/taxes/state-tax-exposure-non-resident-investors.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"
   headline: "State Tax Exposure for Non-Resident Investors (2026)"
-  description: "Does your broker's state of registration create a state tax obligation? Generally no - the actual dividing line is your own presence or property in a state, not where the broker is based."
+  description: "Does your broker's state of registration create a state tax obligation? Generally no - the dividing line is your own presence or property in that state."
   author: "Tzion S."
   datePublished: "2026-08-05"
   dateModified: "2026-08-05"

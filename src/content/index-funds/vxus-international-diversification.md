@@ -1,7 +1,7 @@
 ---
 slug: vxus-international-diversification
 title: "VXUS and International Diversification for a US-Focused Portfolio"
-description: "VXUS gives a US-listed portfolio exposure outside the US - genuinely useful diversification for a portfolio otherwise concentrated in American companies, but a genuinely different question for an investor who already lives outside the US and has real international economic exposure through daily life. A full walkthrough of when it does and doesn't add value."
+description: "VXUS gives a US-listed portfolio exposure outside the US - useful diversification, but a different question if you already live abroad. When it adds value."
 pubDate: 2026-10-13
 updatedDate: 2026-08-06
 author: "Tzion S."

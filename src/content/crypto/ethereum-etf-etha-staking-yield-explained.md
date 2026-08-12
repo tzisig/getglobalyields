@@ -1,7 +1,7 @@
 ---
 slug: ethereum-etf-etha-staking-yield-explained
 title: "ETHA and the Ethereum ETF Staking Question Most Holders Don't Know About"
-description: "ETHA is the largest spot Ethereum ETF by assets, and it doesn't stake its ether - meaning it forgoes the 3-4% yield a newer generation of competing products now captures after a real March 2026 regulatory shift. What changed, and what it means for choosing between them."
+description: "ETHA, the top spot Ethereum ETF, doesn't stake its ether - forgoing the 3-4% yield rivals now capture after a March 2026 rule change. What it means for holders."
 pubDate: 2026-08-06
 updatedDate: 2026-08-06
 author: "Tzion S."

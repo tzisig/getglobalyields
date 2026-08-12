@@ -1,7 +1,7 @@
 ---
 slug: what-is-sqqq-explained
 title: "What Is SQQQ? How the 3x Inverse Nasdaq ETF Actually Works"
-description: "SQQQ is built to deliver -3x the Nasdaq-100's daily return, and 'daily' is doing all the work in that sentence. The real mechanics behind the fund, the fact that it's lost 99.97% of its value since 2010, and why that number isn't a warning sign - it's the fund working as designed."
+description: "SQQQ delivers -3x the Nasdaq-100's daily return, and 'daily' does all the work. The mechanics, and why it's lost 99.97% of its value since 2010."
 pubDate: 2026-10-22
 updatedDate: 2026-08-06
 author: "Tzion S."

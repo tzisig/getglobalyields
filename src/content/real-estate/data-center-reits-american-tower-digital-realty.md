@@ -1,7 +1,7 @@
 ---
 slug: data-center-reits-american-tower-digital-realty
 title: "Data Center REITs: American Tower, Digital Realty, and the Power Bottleneck"
-description: "American Tower and Digital Realty both ride the same AI-driven data center boom, but one is a wireless-tower company with a growing data center wing and the other is a pure-play global operator - and the real constraint on both of them isn't demand, it's securing enough electricity."
+description: "American Tower and Digital Realty both ride the AI data center boom - one a tower company, the other pure-play. Both are constrained by power, not demand."
 pubDate: 2026-08-06
 updatedDate: 2026-08-06
 author: "Tzion S."

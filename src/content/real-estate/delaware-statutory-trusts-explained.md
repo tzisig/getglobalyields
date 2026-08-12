@@ -1,7 +1,7 @@
 ---
 slug: delaware-statutory-trusts-explained
 title: "Delaware Statutory Trusts (DSTs) Explained: 1031 Replacement Property Without the Landlord Work"
-description: "A DST lets a real estate investor exit active property management - tenants, toilets, and trash - while still qualifying as valid 1031 exchange replacement property. What it actually costs, the accredited-investor requirement most guides skip, and the one eligibility question no source could give a clean answer to: can a non-US investor even buy in."
+description: "A DST lets an investor exit property management while still qualifying as 1031 replacement property. Costs, the accredited-investor bar, and non-US eligibility."
 pubDate: 2026-10-24
 updatedDate: 2026-08-07
 author: "Tzion S."

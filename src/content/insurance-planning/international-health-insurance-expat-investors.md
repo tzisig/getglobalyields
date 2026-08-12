@@ -1,7 +1,7 @@
 ---
 slug: international-health-insurance-expat-investors
 title: "International Health Insurance for Expats: The 'Worldwide' Plan That Isn't"
-description: "Many international health insurance plans marketed as worldwide coverage quietly exclude the US - one of the specific countries insurers carve out to keep premiums down. For an investor with real US ties who might need to travel there, that exclusion is worth catching before you need it."
+description: "Many 'worldwide' health plans quietly exclude the US to keep premiums down. For an investor with US ties who might travel there, catch that gap early."
 pubDate: 2026-08-06
 updatedDate: 2026-08-06
 author: "Tzion S."

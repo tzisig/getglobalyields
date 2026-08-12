@@ -1,7 +1,7 @@
 ---
 slug: ibkr-vs-schwab-vs-fidelity-international-investors
 title: "IBKR vs Charles Schwab International vs Fidelity: Which Actually Works for International Investors?"
-description: "All three names come up constantly in US brokerage searches, but they are not equally accessible to a genuine international investor. Fidelity in particular is far more restrictive than its reputation suggests. A full breakdown of who each broker actually serves, and why."
+description: "IBKR, Schwab, and Fidelity aren't equally accessible internationally - Fidelity is far more restrictive than its reputation suggests. Who each broker serves."
 pubDate: 2026-09-03
 updatedDate: 2026-08-06
 author: "Tzion S."

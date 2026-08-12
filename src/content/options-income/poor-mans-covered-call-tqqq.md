@@ -1,7 +1,7 @@
 ---
 slug: poor-mans-covered-call-tqqq
 title: "The Poor Man's Covered Call on TQQQ Explained (2026)"
-description: "A poor man's covered call replaces the 100 shares in a traditional covered call with a deep-in-the-money LEAPS call, requiring far less capital. On TQQQ, this means combining two separate leverage sources in one position - here's exactly what that changes, and how the tax and rolling mechanics work for international investors."
+description: "A poor man's covered call swaps 100 shares for a deep ITM LEAPS call, needing less capital. On TQQQ it stacks two leverage sources - tax and rolling explained."
 pubDate: 2026-09-09
 updatedDate: 2026-08-06
 author: "Tzion S."

@@ -1,7 +1,7 @@
 ---
 slug: healthcare-reits-welltower-ventas-compared
 title: "Healthcare REITs: Welltower, Ventas, and Why They Don't Behave Like Realty Income"
-description: "Healthcare REITs aren't just landlords collecting rent from hospitals - a real structural quirk called RIDEA lets Welltower actually participate in senior housing operating profits, which is exactly why its yield and growth profile look nothing like a net lease REIT's."
+description: "Healthcare REITs aren't just landlords - RIDEA lets Welltower share in senior housing profits, why its yield and growth look nothing like a net lease REIT's."
 pubDate: 2026-08-06
 updatedDate: 2026-08-06
 author: "Tzion S."

@@ -1,7 +1,7 @@
 ---
 slug: avoiding-us-estate-tax-brokerage-account
 title: "Avoiding US Estate Tax on a Brokerage Account: What Actually Works"
-description: "The $60,000 non-resident alien exemption is easy to exceed. Structural approaches that can genuinely reduce US estate tax exposure - non-US-domiciled funds, treaty relief, and more complex entity structures - and a few commonly suggested ones that don't work the way people assume."
+description: "The $60,000 non-resident alien exemption is easy to exceed. Structural ways to reduce US estate tax exposure - and a few popular ones that don't work."
 pubDate: 2026-10-06
 updatedDate: 2026-08-06
 author: "Tzion S."

@@ -1,7 +1,7 @@
 ---
 slug: 1031-exchange-foreign-investors-explained
 title: "1031 Exchanges for Foreign Investors: Rules, Deadlines, and the FIRPTA Interaction"
-description: "A non-resident alien can legally do a 1031 exchange on US real property - the mechanics are identical to a US investor's. What's genuinely different is a compounding deadline problem most 1031 guides never mention: getting an ITIN and an IRS withholding certificate before the same 45-day clock that governs everyone else runs out."
+description: "A non-resident alien can do a 1031 exchange just like a US investor. The catch: an ITIN and IRS withholding certificate before the 45-day clock runs out."
 pubDate: 2026-10-23
 updatedDate: 2026-08-07
 author: "Tzion S."

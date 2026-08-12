@@ -1,7 +1,7 @@
 ---
 slug: can-non-us-residents-buy-crypto-etfs
 title: "Can Non-US Residents Buy Crypto Through US Exchanges and ETFs?"
-description: "Access to US-listed crypto ETFs generally follows the same brokerage access rules as any other US ETF - but direct crypto exchange access for non-US residents is a separate, much more fragmented picture, varying enormously by exchange and country. What actually differs between the two access paths."
+description: "US-listed crypto ETFs follow standard brokerage access rules. Direct crypto exchange access for non-US residents is far more fragmented by country."
 pubDate: 2026-08-06
 updatedDate: 2026-08-06
 author: "Tzion S."

@@ -1,7 +1,7 @@
 ---
 slug: how-to-invest-in-us-stocks-from-pakistan
 title: "How to Invest in US Stocks from Pakistan (2026 Guide)"
-description: "How to invest in US stocks from Pakistan. The real barrier is State Bank of Pakistan capital controls, not the tax rate. Broker options, W-8BEN, and the 10% treaty rate - explained clearly for 2026."
+description: "How to invest in US stocks from Pakistan: the real barrier is State Bank capital controls, not tax rate. Broker options, W-8BEN, 10% treaty rate - for 2026."
 pubDate: 2026-08-20
 updatedDate: 2026-08-05
 author: "Tzion S."

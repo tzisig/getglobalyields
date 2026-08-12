@@ -18,15 +18,15 @@ readingTime: "7 min read"
 featured: false
 seo:
   metaTitle: "Do Foreign Investors Need US Estimated Tax Payments? (2026)"
-  metaDescription: "Most non-US investors with a passive US brokerage account never need to make quarterly estimated tax payments - withholding already covers it. The narrow exceptions explained."
+  metaDescription: "Most non-US investors with a passive US brokerage account never need quarterly estimated tax payments - withholding covers it. The narrow exceptions explained."
   ogTitle: "Do Foreign Investors Need US Estimated Tax Payments? (2026)"
-  ogDescription: "Most non-US investors with a passive US brokerage account never need to make quarterly estimated tax payments - withholding already covers it. The narrow exceptions explained."
+  ogDescription: "Most non-US investors with a passive US brokerage account never need quarterly estimated tax payments - withholding covers it. The narrow exceptions explained."
   ogImage: "/images/blog/taxes/estimated-tax-payments-foreign-investors.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"
   headline: "Do Foreign Investors Need US Estimated Tax Payments? (2026)"
-  description: "Most non-US investors with a passive US brokerage account never need to make quarterly estimated tax payments - withholding already covers it. The narrow exceptions explained."
+  description: "Most non-US investors with a passive US brokerage account never need quarterly estimated tax payments - withholding covers it. The narrow exceptions explained."
   author: "Tzion S."
   datePublished: "2026-08-05"
   dateModified: "2026-08-05"

@@ -1,7 +1,7 @@
 ---
 slug: us-reits-international-investors-guide
 title: "US REITs for International Investors: Access, Tax, and Portfolio Fit"
-description: "Real estate investment trusts let international investors add US property exposure through the same brokerage account they already use for stocks - but REIT dividends are taxed differently from ordinary equity dividends. What actually changes, and how REITs fit alongside a US stock portfolio."
+description: "REITs add US property exposure through the same brokerage account used for stocks - but REIT dividends are taxed differently than ordinary equity dividends."
 pubDate: 2026-08-06
 updatedDate: 2026-08-06
 author: "Tzion S."

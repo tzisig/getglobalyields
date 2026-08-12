@@ -1,7 +1,7 @@
 ---
 slug: does-tqqq-pay-dividends
 title: "TQQQ Doesn't Really Pay Dividends: What That Means for Income-Focused Investors"
-description: "TQQQ holds dividend-paying stocks, but its own distributions to shareholders are minimal to negligible - the leverage financing cost consumes most or all of the pass-through dividend income. Why this matters for anyone approaching TQQQ expecting income, and how the withholding tax picture differs from what a dividend-focused fund would face."
+description: "TQQQ holds dividend-paying stocks, but its own distributions are minimal to negligible - leverage financing costs consume most of the pass-through income."
 pubDate: 2026-09-24
 updatedDate: 2026-08-06
 author: "Tzion S."

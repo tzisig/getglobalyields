@@ -1,7 +1,7 @@
 ---
 slug: net-lease-reits-realty-income-explained
 title: "Net Lease REITs Explained: Realty Income, NNN REIT, and the Triple Net Structure"
-description: "Net lease REITs like Realty Income hand almost all property operating costs to the tenant, which is exactly why their dividends are so predictable. Realty Income's 672-payment streak gets the attention, but a smaller peer actually has the longer streak of annual increases."
+description: "Net lease REITs like Realty Income shift costs to tenants, making dividends predictable. Its 672-payment streak is famous, but a peer's growth streak is longer."
 pubDate: 2026-08-06
 updatedDate: 2026-08-06
 author: "Tzion S."

@@ -1,7 +1,7 @@
 ---
 slug: vnqi-rwx-international-reit-etfs
 title: "VNQI vs RWX: International REIT ETFs for Diversifying Beyond US Real Estate"
-description: "VNQI and RWX both give exposure to real estate outside the US, but VNQI wins on both cost (0.12% vs 0.59%) and yield (near 4.9% vs under 4%) - a comparison that isn't close on the numbers, even though the two funds aren't built identically."
+description: "VNQI and RWX both cover real estate outside the US, but VNQI wins on cost (0.12% vs 0.59%) and yield (near 4.9% vs under 4%) - not a close call on the numbers."
 pubDate: 2026-08-06
 updatedDate: 2026-08-06
 author: "Tzion S."

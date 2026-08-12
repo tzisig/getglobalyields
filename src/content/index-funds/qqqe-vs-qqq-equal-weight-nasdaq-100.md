@@ -1,7 +1,7 @@
 ---
 slug: qqqe-vs-qqq-equal-weight-nasdaq-100
 title: "QQQE vs QQQ: Does Equal-Weighting the Nasdaq-100 Actually Reduce Risk?"
-description: "QQQE holds the same 100 companies as QQQ but weights each one equally instead of by market cap. The real cost and yield differences, a new lower-cost competitor that launched in 2026, and why QQQE's much smaller historical drawdown is a less honest comparison than it looks."
+description: "QQQE holds the same 100 companies as QQQ but weights them equally. Cost/yield differences, a new lower-cost 2026 rival, and why its smaller drawdown misleads."
 pubDate: 2026-10-21
 updatedDate: 2026-08-06
 author: "Tzion S."

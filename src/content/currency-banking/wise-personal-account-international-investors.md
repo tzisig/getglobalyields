@@ -1,7 +1,7 @@
 ---
 slug: wise-personal-account-international-investors
 title: "Wise Multi-Currency Account for International Investors: Fees, Card, and Interest"
-description: "The personal Wise account - what used to be called 'Wise Borderless' - is free to open, holds balances in 40+ currencies, and in several countries actually pays interest on idle USD sitting between transfers. What it costs to move money, use the card, and where it genuinely beats letting cash sit uninvested."
+description: "The personal Wise account is free, holds 40+ currencies, and pays interest on idle USD in some countries. Costs to move money, use the card, and beat idle cash."
 pubDate: 2026-10-25
 updatedDate: 2026-08-07
 author: "Tzion S."

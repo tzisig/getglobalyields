@@ -18,15 +18,15 @@ readingTime: "8 min read"
 featured: false
 seo:
   metaTitle: "Backup Withholding Explained: 24% and Why It's Worse (2026)"
-  metaDescription: "Backup withholding is a separate, harsher regime from ordinary dividend withholding - it can hit the full proceeds of a stock sale, not just dividends. What triggers it and how to avoid it."
+  metaDescription: "Backup withholding is a harsher regime than ordinary dividend withholding - it can hit the full proceeds of a stock sale, not just dividends. What triggers it."
   ogTitle: "Backup Withholding Explained: 24% and Why It's Worse (2026)"
-  ogDescription: "Backup withholding is a separate, harsher regime from ordinary dividend withholding - it can hit the full proceeds of a stock sale, not just dividends. What triggers it and how to avoid it."
+  ogDescription: "Backup withholding is a harsher regime than ordinary dividend withholding - it can hit the full proceeds of a stock sale, not just dividends. What triggers it."
   ogImage: "/images/blog/taxes/backup-withholding-explained.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"
   headline: "Backup Withholding Explained: 24% and Why It's Worse (2026)"
-  description: "Backup withholding is a separate, harsher regime from ordinary dividend withholding - it can hit the full proceeds of a stock sale, not just dividends. What triggers it and how to avoid it."
+  description: "Backup withholding is a harsher regime than ordinary dividend withholding - it can hit the full proceeds of a stock sale, not just dividends. What triggers it."
   author: "Tzion S."
   datePublished: "2026-08-05"
   dateModified: "2026-08-05"

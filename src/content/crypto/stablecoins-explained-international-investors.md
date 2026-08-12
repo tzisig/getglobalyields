@@ -1,7 +1,7 @@
 ---
 slug: stablecoins-explained-international-investors
 title: "Stablecoins Explained: A Different Kind of Crypto Asset"
-description: "Stablecoins are designed specifically to avoid the volatility that defines most cryptocurrency - pegged to a reference asset like the US dollar rather than trading freely. What they actually are, how the peg is maintained, and why they're a genuinely different tool than Bitcoin or Ethereum for an international investor."
+description: "Stablecoins avoid crypto's typical volatility, pegged to an asset like the dollar. What they are, how the peg holds, and how they differ from Bitcoin."
 pubDate: 2026-08-06
 updatedDate: 2026-08-06
 author: "Tzion S."

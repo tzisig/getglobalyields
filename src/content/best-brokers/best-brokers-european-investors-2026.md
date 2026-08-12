@@ -1,7 +1,7 @@
 ---
 slug: best-brokers-european-investors-2026
 title: "Best Brokers for European Investors (2026)"
-description: "The best brokers for EU-based investors in 2026, accounting for the PRIIPs restriction on US-domiciled ETFs, UCITS access, and which platforms actually handle W-8BEN and treaty documentation correctly. A full breakdown of five leading options and how to choose between them."
+description: "The best brokers for EU investors in 2026: PRIIPs restrictions on US ETFs, UCITS access, and which platforms handle W-8BEN and treaty paperwork correctly."
 pubDate: 2026-09-02
 updatedDate: 2026-08-06
 author: "Tzion S."

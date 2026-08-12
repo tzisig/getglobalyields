@@ -1,7 +1,7 @@
 ---
 slug: 401k-ira-access-non-us-citizens
 title: "401(k) and IRA Access for Non-US Citizens: Eligibility Rules Explained"
-description: "US retirement accounts aren't limited to citizens - eligibility depends on residency status and, critically, on having US-source earned income, not just US investment income. What non-resident aliens can and can't access, and what happens to the accounts if you leave the US."
+description: "401(k) and IRA eligibility for non-US citizens depends on residency and US-source earned income, not citizenship - what nonresident aliens can actually access."
 pubDate: 2026-09-28
 updatedDate: 2026-08-06
 author: "Tzion S."

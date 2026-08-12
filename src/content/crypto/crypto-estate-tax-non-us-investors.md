@@ -1,7 +1,7 @@
 ---
 slug: crypto-estate-tax-non-us-investors
 title: "Crypto and US Estate Tax: A Question Without a Clear Answer Yet"
-description: "The $60,000 non-resident alien estate tax exemption applies clearly to US-situs assets like US stock - but cryptocurrency's situs for US estate tax purposes has no equivalent settled rule. What's genuinely unclear about direct crypto holdings, and why a Bitcoin ETF sidesteps the ambiguity entirely."
+description: "The $60,000 estate tax exemption clearly covers US-situs assets like stock, but crypto's situs has no settled rule. Why a Bitcoin ETF sidesteps the ambiguity."
 pubDate: 2026-08-06
 updatedDate: 2026-08-06
 author: "Tzion S."

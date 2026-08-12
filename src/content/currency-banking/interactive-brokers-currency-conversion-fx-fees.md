@@ -1,7 +1,7 @@
 ---
 slug: interactive-brokers-currency-conversion-fx-fees
 title: "Interactive Brokers Currency Conversion and FX Fees Explained"
-description: "IBKR lets you hold and trade dozens of currencies inside one account without forcing a conversion first - but the mechanics hide a real trap: a margin account will happily let a currency balance go negative and quietly charge margin interest on it for months before anyone notices."
+description: "IBKR lets you hold dozens of currencies in one account - but a margin balance can go negative and quietly rack up margin interest for months unnoticed."
 pubDate: 2026-10-26
 updatedDate: 2026-08-07
 author: "Tzion S."

@@ -1,7 +1,7 @@
 ---
 slug: invh-amh-single-family-rental-reits
 title: "Invitation Homes vs American Homes 4 Rent: A New Law Is Reshaping Both"
-description: "INVH and AMH own and rent out single-family houses at scale - and institutional single-family ownership is actually much smaller nationally than the popular narrative suggests. A real 2026 housing law is now pushing both companies toward building new homes instead of buying existing ones."
+description: "INVH and AMH rent single-family houses at scale, though institutional ownership is smaller nationally than assumed. A 2026 law pushes both toward new builds."
 pubDate: 2026-08-06
 updatedDate: 2026-08-06
 author: "Tzion S."

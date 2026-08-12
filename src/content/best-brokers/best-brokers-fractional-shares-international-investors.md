@@ -1,7 +1,7 @@
 ---
 slug: best-brokers-fractional-shares-international-investors
 title: "Best Brokers for Fractional Shares as an International Investor (2026)"
-description: "With shares of companies like Amazon, Berkshire Hathaway, and even TQQQ costing hundreds of dollars each, fractional share access lets smaller international investors build a diversified US portfolio without needing thousands of dollars per position. A full comparison of how IBKR, eToro, and XTB actually implement fractional trading."
+description: "Fractional shares let international investors build a diversified US portfolio without thousands per position: how IBKR, eToro, and XTB implement it."
 pubDate: 2026-09-03
 updatedDate: 2026-08-06
 author: "Tzion S."

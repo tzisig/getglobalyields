@@ -1,7 +1,7 @@
 ---
 slug: crypto-tax-treatment-international-investors
 title: "How Crypto Is Taxed for International Investors: Property, Not Currency"
-description: "The IRS treats cryptocurrency as property, not currency - a classification with real consequences for how gains are taxed, and one that behaves differently for a non-US investor than the dividend-withholding framework covered throughout the rest of this site. What's settled, and what genuinely isn't."
+description: "The IRS taxes crypto as property, not currency - different from the dividend-withholding rules covered elsewhere on this site. What's settled, and what isn't."
 pubDate: 2026-08-06
 updatedDate: 2026-08-06
 author: "Tzion S."

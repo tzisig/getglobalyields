@@ -1,7 +1,7 @@
 ---
 slug: retiring-portugal-us-stock-investor
 title: "Retiring in Portugal as a US-Stock Investor: What Changed With NHR's Closure"
-description: "Portugal drew retirees for years partly on NHR's favorable tax treatment of foreign income - now closed to new applicants. What retiring to Portugal as a US-stock investor actually looks like under the current rules, not the old reputation, with a worked comparison of the tax impact."
+description: "Portugal's NHR tax break drew retirees for years but is now closed to new applicants. What retiring there as a US-stock investor looks like under current rules."
 pubDate: 2026-10-05
 updatedDate: 2026-08-06
 author: "Tzion S."

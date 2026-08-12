@@ -1,7 +1,7 @@
 ---
 slug: wise-business-account-international-investors
 title: "Wise Business Account for International Investors: Fees, Access, and Funding a Brokerage Account"
-description: "Wise Business gives non-US residents real local account details - including a US routing number - without a US bank account. What it actually costs, how the official Wise-to-IBKR integration works, and the one account-name mismatch that trips up more investors than the fees do."
+description: "Wise Business gives non-US residents a real US routing number without a US bank account. Costs, the IBKR integration, and the name-mismatch trap."
 pubDate: 2026-10-25
 updatedDate: 2026-08-07
 author: "Tzion S."
