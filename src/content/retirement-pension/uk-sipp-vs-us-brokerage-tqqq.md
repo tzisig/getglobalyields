@@ -1,6 +1,6 @@
 ---
 slug: uk-sipp-vs-us-brokerage-tqqq
-title: "UK SIPP vs US Brokerage: Where Should International Investors Hold TQQQ"
+title: "UK SIPP vs US Brokerage: Where to Hold TQQQ"
 description: "A SIPP offers real UK tax advantages and most providers allow US stocks - but leveraged ETFs like TQQQ face a separate question: are they available at all."
 pubDate: 2026-10-01
 updatedDate: 2026-08-06

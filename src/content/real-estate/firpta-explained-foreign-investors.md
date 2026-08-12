@@ -1,6 +1,6 @@
 ---
 slug: firpta-explained-foreign-investors
-title: "FIRPTA Explained: What Foreign Investors Need to Know About US Real Estate Tax"
+title: "FIRPTA Explained for Foreign Real Estate Investors"
 description: "FIRPTA creates a US withholding regime for foreign investors' real estate gains - it catches direct property buyers but generally skips a REIT ETF position."
 pubDate: 2026-08-06
 updatedDate: 2026-08-06

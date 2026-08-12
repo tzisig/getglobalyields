@@ -1,6 +1,6 @@
 ---
 slug: mortgage-reits-vs-equity-reits-agnc-explained
-title: "Mortgage REITs vs Equity REITs: Why AGNC's 13% Yield Isn't Free Money"
+title: "Mortgage REITs vs Equity REITs: Is AGNC's Yield Real?"
 description: "Every REIT here owns property except mortgage REITs like AGNC, which own none - they borrow short, lend long against MBS, the leverage behind the big yield."
 pubDate: 2026-08-06
 updatedDate: 2026-08-06

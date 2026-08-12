@@ -1,6 +1,6 @@
 ---
 slug: backup-withholding-explained
-title: "Backup Withholding Explained: Why It's 24%, Not 30%, and Why It's Worse Than It Sounds"
+title: "Backup Withholding Explained: 24% and Why It's Worse (2026)"
 description: "Backup withholding is a separate, harsher regime from ordinary NRA dividend withholding - and unlike the 30% default, it can apply to the full proceeds of a stock sale, not just dividends. What triggers it and how W-8BEN prevents it entirely."
 pubDate: 2026-08-25
 updatedDate: 2026-08-05

@@ -1,6 +1,6 @@
 ---
 slug: stablecoin-yield-genius-act-explained
-title: "Stablecoin Yield in 2026: What the GENIUS Act Actually Banned"
+title: "Stablecoin Yield: What the GENIUS Act Actually Banned"
 description: "The GENIUS Act banned stablecoin issuers from paying interest to holders. But lending platforms still offer real 3-10% yields through a different legal channel."
 pubDate: 2026-08-06
 updatedDate: 2026-08-06

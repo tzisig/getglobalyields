@@ -1,6 +1,6 @@
 ---
 slug: selling-covered-calls-qqq
-title: "Selling Covered Calls on QQQ: A Lower-Volatility Income Overlay"
+title: "Selling Covered Calls on QQQ for Lower-Volatility Income"
 description: "QQQ's implied volatility is a fraction of TQQQ's - smaller premiums, but you cap upside on a fund held for long-term growth. A worked example, and who it suits."
 pubDate: 2026-10-22
 updatedDate: 2026-08-06

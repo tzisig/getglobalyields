@@ -1,6 +1,6 @@
 ---
 slug: qqq-good-investment-dividend-yield-growth
-title: "Is QQQ a Good Investment? What the Low Dividend Yield Actually Means"
+title: "Is QQQ a Good Investment? What the Low Yield Means"
 description: "QQQ's dividend yield sits under 0.5%, unimpressive next to broad-market funds. But it's compounded at a double-digit rate for a decade - a different story."
 pubDate: 2026-10-22
 updatedDate: 2026-08-06

@@ -1,6 +1,6 @@
 ---
 slug: israeli-kupat-gemel-vs-direct-us-stock-investing
-title: "Israeli Pension Funds (Kupot Gemel) vs Direct US Stock Investing"
+title: "Israeli Pension Funds (Kupot Gemel) vs US Stocks"
 description: "Kupat Gemel Lehashkaah gives Israeli residents a capital gains tax exemption - but it's fund-based, with limited US exposure and a PFIC trap for US citizens."
 pubDate: 2026-09-30
 updatedDate: 2026-08-06

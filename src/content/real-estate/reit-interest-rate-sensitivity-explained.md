@@ -1,6 +1,6 @@
 ---
 slug: reit-interest-rate-sensitivity-explained
-title: "How Interest Rates Actually Move REIT Prices: The Cap Rate Mechanism"
+title: "How Interest Rates Move REIT Prices: The Cap Rate"
 description: "REITs and rates are correlated 77% historically, but that link flips almost as often as it holds, more so for some sectors. The mechanism, with real numbers."
 pubDate: 2026-08-06
 updatedDate: 2026-08-06

@@ -1,6 +1,6 @@
 ---
 slug: joint-accounts-estate-tax-exposure
-title: "Joint Accounts and Estate Tax Exposure: Why Joint Ownership Doesn't Halve Your Risk"
+title: "Joint Accounts and US Estate Tax Exposure"
 description: "Adding a spouse as joint owner on a US brokerage account feels like it splits estate tax exposure. For non-citizen couples, the real rule is far less favorable."
 pubDate: 2026-10-11
 updatedDate: 2026-08-06

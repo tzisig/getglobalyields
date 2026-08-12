@@ -1,6 +1,6 @@
 ---
 slug: bitcoin-etf-vs-direct-crypto-ownership
-title: "Bitcoin ETF vs Direct Crypto Ownership: What Actually Changes"
+title: "Bitcoin ETF vs Direct Crypto Ownership: What Changes"
 description: "Spot Bitcoin ETFs offer price exposure via a normal brokerage account, no custody needed. What differs from direct ownership: access, tax, and custody risk."
 pubDate: 2026-08-06
 updatedDate: 2026-08-06

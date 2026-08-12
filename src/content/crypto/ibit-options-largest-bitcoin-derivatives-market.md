@@ -1,6 +1,6 @@
 ---
 slug: ibit-options-largest-bitcoin-derivatives-market
-title: "IBIT Options: How a US ETF Became the World's Largest Bitcoin Derivatives Market"
+title: "IBIT Options: The World's Largest Bitcoin Derivatives Market"
 description: "IBIT options launched in November 2024 with $446M in first-hours volume, and within a year overtook Deribit as the world's largest bitcoin options market."
 pubDate: 2026-08-06
 updatedDate: 2026-08-06

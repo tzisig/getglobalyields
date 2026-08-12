@@ -1,6 +1,6 @@
 ---
 slug: visitor-medical-insurance-usa-investors
-title: "Visitor Medical Insurance for the US: What International Investors Should Know"
+title: "Visitor Medical Insurance for the US: What to Know"
 description: "Not legally required for most B1/B2 visitors, but a US ER visit can cost thousands. What visitor insurance covers, real costs, and substantial presence test."
 pubDate: 2026-08-06
 updatedDate: 2026-08-06

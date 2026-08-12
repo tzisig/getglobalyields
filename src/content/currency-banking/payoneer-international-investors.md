@@ -1,6 +1,6 @@
 ---
 slug: payoneer-international-investors
-title: "Payoneer for International Investors: Fees, US Receiving Accounts, and the Nuvei Acquisition"
+title: "Payoneer for International Investors: Fees and Accounts"
 description: "Payoneer gives freelancers a real US receiving account - useful if you hold USD there already. Costs, the Wise comparison, and the pending acquisition to know."
 pubDate: 2026-10-26
 updatedDate: 2026-08-07

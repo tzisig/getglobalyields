@@ -1,6 +1,6 @@
 ---
 slug: state-tax-exposure-non-resident-investors
-title: "State Tax Exposure for Non-Resident Investors: Does a US Broker's Location Matter?"
+title: "State Tax Exposure for Non-Resident Investors (2026)"
 description: "Federal tax gets all the attention, but non-US investors sometimes worry a broker's state of registration - New York for many, Illinois for Interactive Brokers - creates a separate state tax obligation. Generally it doesn't, and here's the actual dividing line."
 pubDate: 2026-09-01
 updatedDate: 2026-08-05

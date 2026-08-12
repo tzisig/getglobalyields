@@ -1,6 +1,6 @@
 ---
 slug: qqq-top-10-holdings-concentration-risk
-title: "QQQ's Top 10 Holdings and the Rule That Caps How Concentrated It Can Get"
+title: "QQQ's Top 10 Holdings and the Rule Capping Concentration"
 description: "QQQ's top 10 holdings sit near 46% of the fund - but the Nasdaq-100 has a circuit breaker forcing a rebalance at extreme levels. What happened in July 2023."
 pubDate: 2026-10-21
 updatedDate: 2026-08-06
