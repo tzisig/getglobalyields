@@ -2,7 +2,7 @@
 slug: us-lithuania-tax-treaty-investors
 title: "US-Lithuania Tax Treaty for Investors: No Holding-Period Relief (2026)"
 description: "US-Lithuania tax treaty guide for individual investors. The 15% dividend rate, and why Lithuania taxes US stock capital gains at progressive rates up to 32% with no long-term holding discount - unlike most EU peers covered in this series."
-pubDate: 2026-09-20
+pubDate: 2026-10-28
 updatedDate: 2026-08-30
 author: "Tzion S."
 categories: ["Taxes"]

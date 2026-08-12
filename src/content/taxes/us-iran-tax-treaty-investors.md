@@ -2,7 +2,7 @@
 slug: us-iran-tax-treaty-investors
 title: "US-Iran Tax Treaty and US Stocks: The Facts (2026)"
 description: "A factual explainer on Iran and US stock investing. There is no US-Iran tax treaty, and Iran is one of only four countries under a comprehensive US sanctions embargo - meaning US brokers cannot legally provide services to persons in Iran. This is reference information, not a how-to guide."
-pubDate: 2026-09-16
+pubDate: 2026-10-18
 updatedDate: 2026-08-27
 author: "Tzion S."
 categories: ["Taxes"]

@@ -2,7 +2,7 @@
 slug: us-nigeria-tax-treaty-investors
 title: "Investing in US Stocks from Nigeria: No Treaty, New 2026 Tax Act (2026)"
 description: "There is no US-Nigeria tax treaty, so 30% US dividend withholding applies with no reduction. Nigeria's new 2026 Tax Act retains a foreign dividend exemption through approved channels and overhauls capital gains - here's what's changed."
-pubDate: 2026-08-25
+pubDate: 2026-09-15
 updatedDate: 2026-08-17
 author: "Tzion S."
 categories: ["Taxes"]

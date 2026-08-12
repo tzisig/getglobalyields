@@ -2,7 +2,7 @@
 slug: bond-etfs-compared-bnd-agg-tlt
 title: "Bond ETFs for International Investors: BND, AGG, and TLT Compared"
 description: "BND, AGG, and TLT all give bond exposure, but with meaningfully different duration and credit profiles - and for a non-US investor, most of their interest income arrives with zero US withholding, a genuinely different picture from equity dividends. A full comparison of duration risk, tax treatment, and how to choose."
-pubDate: 2026-10-12
+pubDate: 2026-08-16
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Index Funds & ETFs"]

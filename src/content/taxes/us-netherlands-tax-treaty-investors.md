@@ -2,7 +2,7 @@
 slug: us-netherlands-tax-treaty-investors
 title: "US-Netherlands Tax Treaty for Investors: Box 3 Explained (2026)"
 description: "US-Netherlands tax treaty guide for individual investors. The 15% dividend rate, and why Box 3 taxes a fictitious deemed return on US stocks regardless of your actual gains or losses - plus the 2028 reform to watch."
-pubDate: 2026-09-24
+pubDate: 2026-11-03
 updatedDate: 2026-09-01
 author: "Tzion S."
 categories: ["Taxes"]

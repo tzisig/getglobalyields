@@ -2,7 +2,7 @@
 slug: delta-theta-covered-call-sellers
 title: "Delta and Theta Explained for Covered Call Sellers"
 description: "You don't need every Greek to sell covered calls, but delta and theta drive most decisions - which strike to pick and how time works for you. A plain guide."
-pubDate: 2026-09-14
+pubDate: 2026-10-07
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Options Income"]

@@ -2,7 +2,7 @@
 slug: how-to-invest-in-us-stocks-from-italy
 title: "How to Invest in US Stocks from Italy (2026 Guide)"
 description: "How to invest in US stocks from Italy: broker options, W-8BEN, the 15% treaty rate, Quadro RW reporting from €5,000, IVAFE, and UCITS vs US ETFs - for 2026."
-pubDate: 2026-08-17
+pubDate: 2026-09-08
 updatedDate: 2026-08-05
 author: "Tzion S."
 categories: ["US Investing"]

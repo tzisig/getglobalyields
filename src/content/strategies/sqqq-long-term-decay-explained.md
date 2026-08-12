@@ -2,7 +2,7 @@
 slug: sqqq-long-term-decay-explained
 title: "Holding SQQQ Long Term: Decay Worse Than TQQQ's"
 description: "SQQQ suffers the same volatility decay as any 3x leveraged fund - but unlike TQQQ, it has no uptrend offsetting the decay, just one working against it."
-pubDate: 2026-10-25
+pubDate: 2026-11-11
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Strategies"]

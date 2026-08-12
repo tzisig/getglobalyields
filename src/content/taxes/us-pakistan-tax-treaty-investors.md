@@ -2,7 +2,7 @@
 slug: us-pakistan-tax-treaty-investors
 title: "US-Pakistan Tax Treaty for Investors: The Real Barrier Isn't Tax (2026)"
 description: "US-Pakistan tax treaty guide for individual investors. The 10% dividend rate under one of the oldest US tax treaties, and why State Bank of Pakistan capital controls - not the tax rate - are the real obstacle to funding a foreign brokerage account."
-pubDate: 2026-09-24
+pubDate: 2026-11-03
 updatedDate: 2026-09-01
 author: "Tzion S."
 categories: ["Taxes"]

@@ -2,7 +2,7 @@
 slug: us-iraq-tax-treaty-investors
 title: "US-Iraq Tax Treaty for Investors: Check Your Bank First (2026)"
 description: "Iraq investor guide to US stock taxation. No US-Iraq tax treaty exists, so full 30% US dividend withholding applies. US Federal Reserve restrictions on specific Iraqi banks' dollar access - not sanctions on Iraq - make checking your bank's status essential."
-pubDate: 2026-09-14
+pubDate: 2026-10-08
 updatedDate: 2026-08-26
 author: "Tzion S."
 categories: ["Taxes"]

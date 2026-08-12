@@ -2,7 +2,7 @@
 slug: us-qatar-tax-treaty-investors
 title: "US-Qatar Tax Treaty for Investors: The Territorial Tax Question (2026)"
 description: "Qatar investor guide to US stock taxation. No US-Qatar tax treaty exists, so full 30% US dividend withholding applies. Qatar's territorial tax system generally exempts a personal investor's foreign capital gains and interest, though dividend treatment needs confirming."
-pubDate: 2026-08-18
+pubDate: 2026-09-08
 updatedDate: 2026-08-12
 author: "Tzion S."
 categories: ["Taxes"]

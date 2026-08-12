@@ -2,7 +2,7 @@
 slug: weekly-vs-monthly-options-income-strategies
 title: "Weekly vs Monthly Options for Income Strategies: Which Suits You"
 description: "Weekly options generate more premium per unit of time but demand far more active management than monthly options. The real trade-off for a covered call or cash-secured put seller, especially one investing from a different time zone than US markets, with a worked annualized comparison."
-pubDate: 2026-09-15
+pubDate: 2026-10-12
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Options Income"]

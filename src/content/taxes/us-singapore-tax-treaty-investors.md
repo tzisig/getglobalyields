@@ -2,7 +2,7 @@
 slug: us-singapore-tax-treaty-investors
 title: "Interactive Brokers Singapore: US Stock Tax Guide for Singaporeans (2026)"
 description: "There is no US-Singapore tax treaty, so 30% US dividend withholding applies with no reduction. But Singapore has no capital gains tax and generally doesn't tax foreign dividends - here's the full picture, plus why IBKR doesn't support CPF or SRS funds."
-pubDate: 2026-08-25
+pubDate: 2026-09-16
 updatedDate: 2026-08-17
 author: "Tzion S."
 categories: ["Taxes"]

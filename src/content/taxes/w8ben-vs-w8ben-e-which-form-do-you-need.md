@@ -2,7 +2,7 @@
 slug: w8ben-vs-w8ben-e-which-form-do-you-need
 title: "W-8BEN vs W-8BEN-E: Which Form Do You Actually Need?"
 description: "W-8BEN is for individuals. W-8BEN-E is for entities - trusts, LLCs, companies holding a US brokerage account. How to tell which one applies to you and what changes if you hold investments through a structure instead of your own name."
-pubDate: 2026-08-23
+pubDate: 2026-09-14
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Taxes"]

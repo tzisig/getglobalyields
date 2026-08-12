@@ -2,7 +2,7 @@
 slug: options-assignment-risk-international-investors
 title: "Options Assignment Risk: What International Investors Should Know"
 description: "Assignment - being forced to buy or sell shares because an option you sold was exercised - works the same mechanically for international investors as for US residents, but time zones, account-funding logistics, and dividend-timing quirks add real practical wrinkles worth planning around."
-pubDate: 2026-09-10
+pubDate: 2026-10-05
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Options Income"]

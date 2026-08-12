@@ -2,7 +2,7 @@
 slug: us-cyprus-tax-treaty-investors
 title: "US-Cyprus Tax Treaty for Investors: The Non-Dom 0% Story (2026)"
 description: "US-Cyprus tax treaty guide for individual investors. The 15% dividend rate, Cyprus's 0% capital gains tax on shares, and how non-domiciled tax residency can bring dividend and interest tax to 0% for up to 17 years."
-pubDate: 2026-08-23
+pubDate: 2026-09-13
 updatedDate: 2026-08-16
 author: "Tzion S."
 categories: ["Taxes"]

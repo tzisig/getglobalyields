@@ -2,7 +2,7 @@
 slug: us-taiwan-tax-treaty-investors
 title: "Investing in US Stocks from Taiwan: No Treaty, H.R. 33 Status (2026)"
 description: "Taiwan is the largest US trading partner without a tax treaty - a diplomatic-recognition issue, not a negotiation failure. The default 30% US withholding applies. What the pending US-Taiwan Expedited Double-Tax Relief Act (H.R. 33) would change, and IBKR/eToro access."
-pubDate: 2026-09-08
+pubDate: 2026-09-30
 updatedDate: 2026-08-24
 author: "Tzion S."
 categories: ["Taxes"]

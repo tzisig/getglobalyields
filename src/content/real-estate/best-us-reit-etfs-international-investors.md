@@ -2,7 +2,7 @@
 slug: best-us-reit-etfs-international-investors
 title: "US REIT ETFs Compared: VNQ, SCHH, XLRE, and the Global Alternative"
 description: "US REIT ETFs differ mainly in what they hold - broad market-cap-weighted exposure, a single real estate sector, or REITs outside the US entirely - rather than in any dramatic cost difference between the large, established options. What actually distinguishes them, and how to pick based on what's already in a portfolio."
-pubDate: 2026-08-06
+pubDate: 2026-08-13
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Real Estate & REITs"]

@@ -2,7 +2,7 @@
 slug: leaps-options-strategy-tqqq
 title: "LEAPS on TQQQ: Long-Term Options Strategy Guide (2026)"
 description: "LEAPS - options with a year or more until expiration - are sometimes pitched as a lower-cost way to get TQQQ-like exposure. The mechanics, the real cost of that leverage, why LEAPS on an already-leveraged ETF compound risk rather than reduce it, and the tax and rollover mechanics international investors need to know."
-pubDate: 2026-09-09
+pubDate: 2026-10-01
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Options Income"]

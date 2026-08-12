@@ -2,7 +2,7 @@
 slug: us-cambodia-tax-treaty-investors
 title: "US-Cambodia Tax Treaty for Investors: A Capital Gains Tax on Hold (2026)"
 description: "Cambodia investor guide to US stock taxation. No US-Cambodia tax treaty exists, so full 30% US dividend withholding applies. Cambodia's 20% capital gains tax technically covers foreign assets but has been repeatedly postponed."
-pubDate: 2026-09-22
+pubDate: 2026-11-01
 updatedDate: 2026-08-31
 author: "Tzion S."
 categories: ["Taxes"]

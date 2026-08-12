@@ -2,7 +2,7 @@
 slug: us-philippines-tax-treaty-investors
 title: "US-Philippines Tax Treaty: Resident and OFW Rules for Investors (2026)"
 description: "US-Philippines tax treaty guide for investors. The 25% dividend withholding rate, why OFWs (non-resident citizens) generally owe no Philippine tax on US investment income at all, W-8BEN filing, and Interactive Brokers/eToro access."
-pubDate: 2026-08-19
+pubDate: 2026-09-09
 updatedDate: 2026-08-13
 author: "Tzion S."
 categories: ["Taxes"]

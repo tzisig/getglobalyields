@@ -2,7 +2,7 @@
 slug: us-serbia-tax-treaty-investors
 title: "US-Serbia Tax Treaty for Investors: The 10-Year Exemption (2026)"
 description: "Serbia investor guide to US stock taxation. No US-Serbia tax treaty exists, so full 30% US dividend withholding applies. Serbia taxes worldwide income, but capital gains become fully exempt after a 10-year holding period."
-pubDate: 2026-10-04
+pubDate: 2026-11-08
 updatedDate: 2026-09-06
 author: "Tzion S."
 categories: ["Taxes"]

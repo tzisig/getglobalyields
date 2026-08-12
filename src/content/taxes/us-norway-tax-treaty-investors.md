@@ -2,7 +2,7 @@
 slug: us-norway-tax-treaty-investors
 title: "US-Norway Tax Treaty for Investors: Why ASK Can't Hold US Stocks (2026)"
 description: "US-Norway tax treaty guide for individual investors. The 15% dividend rate, why the aksjesparekonto (ASK) only allows EEA-based holdings - not direct US stocks - and Norway's wealth tax on regular share accounts."
-pubDate: 2026-09-28
+pubDate: 2026-11-04
 updatedDate: 2026-09-02
 author: "Tzion S."
 categories: ["Taxes"]

@@ -2,7 +2,7 @@
 slug: us-croatia-tax-treaty-investors
 title: "US-Croatia Tax Treaty: Signed 2022, Still Not in Force (2026)"
 description: "The US and Croatia signed their first-ever income tax treaty in December 2022. Croatia approved ratification on July 30, 2026, but the treaty still isn't in force - the 30% US default still applies. What changes once it is, and IBKR/eToro access."
-pubDate: 2026-08-19
+pubDate: 2026-09-09
 updatedDate: 2026-08-13
 author: "Tzion S."
 categories: ["Taxes"]

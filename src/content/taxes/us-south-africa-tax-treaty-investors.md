@@ -2,7 +2,7 @@
 slug: us-south-africa-tax-treaty-investors
 title: "US-South Africa Tax Treaty for Investors: The Complete 2026 Guide"
 description: "US-South Africa tax treaty guide for individual investors. The 15% dividend withholding rate, the R10 million Foreign Investment Allowance, SARS capital gains inclusion rate, and Interactive Brokers/eToro access for South African residents."
-pubDate: 2026-09-01
+pubDate: 2026-09-23
 updatedDate: 2026-08-19
 author: "Tzion S."
 categories: ["Taxes"]

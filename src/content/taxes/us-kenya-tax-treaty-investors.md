@@ -2,7 +2,7 @@
 slug: us-kenya-tax-treaty-investors
 title: "Investing in US Stocks from Kenya: No Treaty, Worldwide Tax Rules (2026)"
 description: "There is no US-Kenya tax treaty, so the default 30% US withholding applies to dividends. How Kenya taxes worldwide income for residents, the 5% capital gains rate, unilateral tax credit relief, and Interactive Brokers/eToro access."
-pubDate: 2026-08-17
+pubDate: 2026-09-07
 updatedDate: 2026-08-12
 author: "Tzion S."
 categories: ["Taxes"]

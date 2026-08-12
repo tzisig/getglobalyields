@@ -2,7 +2,7 @@
 slug: covered-calls-vs-cash-secured-puts-compared
 title: "Covered Calls vs Cash-Secured Puts: Which Income Strategy Fits You"
 description: "Both strategies collect option premium with defined risk, and both show up constantly in options-income content as if they're interchangeable. They aren't - they require different starting positions, suit different situations, and carry a genuinely different tax and capital-efficiency picture worth understanding fully."
-pubDate: 2026-09-16
+pubDate: 2026-10-18
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Options Income"]

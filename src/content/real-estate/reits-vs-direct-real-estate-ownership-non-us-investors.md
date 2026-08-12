@@ -2,7 +2,7 @@
 slug: reits-vs-direct-real-estate-ownership-non-us-investors
 title: "REITs vs Direct US Real Estate Ownership for Non-US Investors"
 description: "Buying a US rental property directly and buying US REIT shares both give a foreign investor exposure to American real estate, but the two paths differ enormously in capital required, liquidity, tax mechanics, and ongoing effort. A side-by-side look at what actually changes between them."
-pubDate: 2026-08-06
+pubDate: 2026-09-02
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Real Estate & REITs"]

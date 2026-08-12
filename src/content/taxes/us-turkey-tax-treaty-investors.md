@@ -2,7 +2,7 @@
 slug: us-turkey-tax-treaty-investors
 title: "US-Turkey Tax Treaty for Investors: The Complete 2026 Guide"
 description: "US-Turkey tax treaty guide for individual investors. The 20% portfolio dividend rate (not 15%, a figure often cited incorrectly), how Turkish residents are taxed on foreign investment income, and Interactive Brokers/eToro access."
-pubDate: 2026-10-08
+pubDate: 2026-11-10
 updatedDate: 2026-09-08
 author: "Tzion S."
 categories: ["Taxes"]

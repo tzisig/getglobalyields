@@ -25,6 +25,9 @@ const ROLLOUT_CATEGORIES = [
   'estate-planning',
   'index-funds',
   'currency-banking',
+  'crypto',
+  'insurance-planning',
+  'real-estate',
 ];
 
 const today = new Date().toISOString().slice(0, 10); // YYYY-MM-DD, UTC

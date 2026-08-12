@@ -2,7 +2,7 @@
 slug: net-lease-reits-realty-income-explained
 title: "Net Lease REITs Explained: Realty Income and NNN REIT"
 description: "Net lease REITs like Realty Income shift costs to tenants, making dividends predictable. Its 672-payment streak is famous, but a peer's growth streak is longer."
-pubDate: 2026-08-06
+pubDate: 2026-08-27
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Real Estate & REITs"]

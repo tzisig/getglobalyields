@@ -2,7 +2,7 @@
 slug: how-to-invest-in-us-stocks-from-bangladesh
 title: "How to Invest in US Stocks from Bangladesh (2026 Guide)"
 description: "How to invest in US stocks from Bangladesh: the USD 12,000/year remittance quota, broker options, W-8BEN, and the 10% treaty rate - explained for 2026."
-pubDate: 2026-08-19
+pubDate: 2026-09-10
 updatedDate: 2026-08-05
 author: "Tzion S."
 categories: ["US Investing"]

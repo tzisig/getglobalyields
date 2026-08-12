@@ -2,7 +2,7 @@
 slug: iron-condors-tqqq-strategy-guide
 title: "Iron Condors on TQQQ: Strategy Guide (2026)"
 description: "Iron condors profit from TQQQ staying inside a range - the opposite bet from most leveraged-ETF strategies. How the four-leg structure works, why TQQQ's volatility makes this harder than it looks, the honest risk profile, and what changes for a non-US trader."
-pubDate: 2026-09-08
+pubDate: 2026-09-29
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Options Income"]

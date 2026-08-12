@@ -2,7 +2,7 @@
 slug: how-much-life-insurance-do-you-need-cross-border-investors
 title: "How Much Life Insurance Do You Actually Need as a Cross-Border Investor?"
 description: "The estate-tax liquidity use case covered elsewhere in this category is a narrow, specific need. Most investors also have a broader question - how much coverage actually replaces the income and support dependents would lose - and cross-border finances add a few wrinkles to the standard needs-analysis approach."
-pubDate: 2026-08-06
+pubDate: 2026-08-20
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Insurance & Cross-Border Planning"]

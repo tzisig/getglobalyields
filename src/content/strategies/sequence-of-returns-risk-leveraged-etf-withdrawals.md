@@ -2,7 +2,7 @@
 slug: sequence-of-returns-risk-leveraged-etf-withdrawals
 title: "Sequence of Returns Risk in the Withdrawal Phase With Leveraged ETFs"
 description: "The order in which gains and losses happen matters enormously once you start withdrawing from a portfolio, not just the average return. Leveraged ETFs amplify this risk specifically because their volatility is structurally higher during the years that matter most, with a worked withdrawal-rate comparison and the currency layer international investors face on top."
-pubDate: 2026-09-23
+pubDate: 2026-11-01
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Strategies"]

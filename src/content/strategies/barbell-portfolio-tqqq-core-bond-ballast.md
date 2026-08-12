@@ -2,7 +2,7 @@
 slug: barbell-portfolio-tqqq-core-bond-ballast
 title: "Building a Barbell Portfolio: TQQQ Core Plus Bond Ballast"
 description: "A barbell portfolio pairs an aggressive, high-growth position with a genuinely safe, low-volatility one, deliberately avoiding the middle. Applied with TQQQ as the aggressive leg, the honest math on allocation, rebalancing, and what this structure actually protects against - plus the bond withholding advantage and currency considerations for international investors."
-pubDate: 2026-09-20
+pubDate: 2026-10-27
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Strategies"]

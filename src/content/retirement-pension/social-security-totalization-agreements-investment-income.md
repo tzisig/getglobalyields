@@ -2,7 +2,7 @@
 slug: social-security-totalization-agreements-investment-income
 title: "Social Security Totalization Agreements: What They Cover, and Why Investment Income Isn't Included"
 description: "Totalization agreements prevent double Social Security taxation on employment income between the US and around 30 partner countries. They have nothing to do with investment income from a US brokerage account - a common point of confusion worth clearing up directly, with the mechanics of how the agreements actually work."
-pubDate: 2026-09-29
+pubDate: 2026-08-20
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Retirement & Pension"]

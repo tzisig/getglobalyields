@@ -2,7 +2,7 @@
 slug: offshore-portfolio-bonds-private-placement-life-insurance
 title: "Offshore Portfolio Bonds and Private Placement Life Insurance, Explained"
 description: "Portfolio bonds and private placement life insurance wrap an investment portfolio inside an insurance contract, used by some internationally mobile investors for tax deferral and estate planning. What these structures actually are, who they realistically serve, and why they aren't a fit for most investors on this site."
-pubDate: 2026-08-06
+pubDate: 2026-08-27
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Insurance & Cross-Border Planning"]

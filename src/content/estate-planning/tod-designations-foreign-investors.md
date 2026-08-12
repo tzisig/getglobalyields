@@ -2,7 +2,7 @@
 slug: tod-designations-foreign-investors
 title: "Transfer on Death Designations for Foreign Investors"
 description: "A TOD designation lets a brokerage account skip probate and pass to a beneficiary - available abroad too, though claims get more complex. Set this up now."
-pubDate: 2026-10-07
+pubDate: 2026-08-18
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Estate Planning"]

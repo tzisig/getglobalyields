@@ -2,7 +2,7 @@
 slug: real-estate-portfolio-diversification-us-stocks
 title: "How Much Real Estate Should Be in a US Stock-Focused Portfolio?"
 description: "There's no single correct real estate allocation percentage - but there is a way to think through the question deliberately, based on what real estate actually adds to a portfolio otherwise concentrated in US equities, and what it doesn't."
-pubDate: 2026-08-06
+pubDate: 2026-09-01
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Real Estate & REITs"]

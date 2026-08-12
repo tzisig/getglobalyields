@@ -2,7 +2,7 @@
 slug: crypto-vs-leveraged-etf-volatility-compared
 title: "Crypto vs Leveraged ETFs Like TQQQ: Comparing Volatility"
 description: "Bitcoin and TQQQ are both called 'volatile,' but what drives losses in each is structurally different. Know this before assuming crypto is more of the same."
-pubDate: 2026-08-06
+pubDate: 2026-08-25
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Crypto & Digital Assets"]

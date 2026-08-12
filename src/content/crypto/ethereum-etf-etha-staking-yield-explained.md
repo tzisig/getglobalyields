@@ -2,7 +2,7 @@
 slug: ethereum-etf-etha-staking-yield-explained
 title: "ETHA and the Ethereum ETF Staking Yield Question"
 description: "ETHA, the top spot Ethereum ETF, doesn't stake its ether - forgoing the 3-4% yield rivals now capture after a March 2026 rule change. What it means for holders."
-pubDate: 2026-08-06
+pubDate: 2026-08-27
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Crypto & Digital Assets"]

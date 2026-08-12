@@ -2,7 +2,7 @@
 slug: crypto-wash-sale-tax-loss-harvesting
 title: "Crypto Tax-Loss Harvesting and the Wash Sale Rule"
 description: "Crypto is property, not a security, so the 30-day wash sale rule blocking stock rebuys doesn't apply to coins - a real, open 2026 loophole, one ETF exception."
-pubDate: 2026-08-06
+pubDate: 2026-08-26
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Crypto & Digital Assets"]

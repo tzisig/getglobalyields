@@ -2,7 +2,7 @@
 slug: accumulating-vs-distributing-etfs
 title: "Accumulating vs Distributing ETFs and Withholding Tax"
 description: "Accumulating ETFs reinvest dividends instead of paying them out - changing when dividend withholding tax applies and adding a real record-keeping burden."
-pubDate: 2026-10-13
+pubDate: 2026-08-23
 updatedDate: 2026-08-06
 author: "Tzion S."
 categories: ["Index Funds & ETFs"]

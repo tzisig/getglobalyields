@@ -2,7 +2,7 @@
 slug: options-trading-tax-treatment-non-us-residents
 title: "Options Trading Tax Treatment for Non-US Residents"
 description: "Selling covered calls, cash-secured puts, or trading options generally does not trigger US withholding for non-US investors - premium income is treated as capital gain, not FDAP income. The mechanics, the 183-day exception, and what your home country still taxes."
-pubDate: 2026-09-01
+pubDate: 2026-09-22
 updatedDate: 2026-08-05
 author: "Tzion S."
 categories: ["Taxes"]

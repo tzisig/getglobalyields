@@ -2,7 +2,7 @@
 slug: us-slovenia-tax-treaty-investors
 title: "US-Slovenia Tax Treaty for Investors: The 15-Year Staircase (2026)"
 description: "US-Slovenia tax treaty guide for individual investors. The 15% dividend rate, and Slovenia's declining capital gains rate - 25% under 5 years, down to 0% after 15 years of holding the same US stock."
-pubDate: 2026-10-05
+pubDate: 2026-11-09
 updatedDate: 2026-09-06
 author: "Tzion S."
 categories: ["Taxes"]

@@ -2,7 +2,7 @@
 slug: how-to-invest-in-us-stocks-from-colombia
 title: "How to Invest in US Stocks from Colombia (2026 Guide)"
 description: "How to invest in US stocks from Colombia: broker options, W-8BEN, 30% withholding, and the 2-year holding period for Colombian capital gains - for 2026."
-pubDate: 2026-08-20
+pubDate: 2026-09-10
 updatedDate: 2026-08-05
 author: "Tzion S."
 categories: ["US Investing"]

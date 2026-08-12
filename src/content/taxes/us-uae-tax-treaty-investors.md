@@ -2,7 +2,7 @@
 slug: us-uae-tax-treaty-investors
 title: "Interactive Brokers UAE: US Stock Tax Guide for Dubai & UAE Residents (2026)"
 description: "There is no US-UAE tax treaty, so 30% US dividend withholding applies with no reduction. But the UAE has no personal income, capital gains, or dividend tax of its own - here's the full picture, plus how Interactive Brokers and eToro handle UAE residents."
-pubDate: 2026-08-26
+pubDate: 2026-09-17
 updatedDate: 2026-08-17
 author: "Tzion S."
 categories: ["Taxes"]
