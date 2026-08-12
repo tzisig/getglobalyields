@@ -20,15 +20,15 @@ readingTime: "11 min read"
 featured: false
 seo:
   metaTitle: "US-New Zealand Tax Treaty: The FIF Rules Explained (2026)"
-  metaDescription: "New Zealand has no general capital gains tax, but the FIF rules can tax 5% of your US stock portfolio's opening value every year above NZD 50,000, regardless of performance."
+  metaDescription: "New Zealand has no general capital gains tax, but FIF rules can tax 5% of your US portfolio's opening value yearly above NZD 50,000, regardless of returns."
   ogTitle: "US-New Zealand Tax Treaty: The FIF Rules Explained (2026)"
-  ogDescription: "New Zealand has no general capital gains tax, but the FIF rules can tax 5% of your US stock portfolio's opening value every year above NZD 50,000, regardless of performance."
+  ogDescription: "New Zealand has no general capital gains tax, but FIF rules can tax 5% of your US portfolio's opening value yearly above NZD 50,000, regardless of returns."
   ogImage: "/images/blog/taxes/us-new-zealand-tax-treaty.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"
   headline: "US-New Zealand Tax Treaty: The FIF Rules Explained (2026)"
-  description: "New Zealand has no general capital gains tax, but the FIF rules can tax 5% of your US stock portfolio's opening value every year above NZD 50,000, regardless of performance."
+  description: "New Zealand has no general capital gains tax, but FIF rules can tax 5% of your US portfolio's opening value yearly above NZD 50,000, regardless of returns."
   author: "Tzion S."
   datePublished: "2026-08-05"
   dateModified: "2026-08-05"

@@ -1,7 +1,7 @@
 ---
 slug: how-to-invest-in-us-stocks-from-saudi-arabia
 title: "How to Invest in US Stocks from Saudi Arabia (2026 Guide)"
-description: "How to invest in US stocks from Saudi Arabia. Broker options, W-8BEN, the 30% withholding reality, 0% domestic tax, and Zakat on your portfolio - explained clearly for 2026."
+description: "How to invest in US stocks from Saudi Arabia: broker options, W-8BEN, the 30% withholding reality, 0% domestic tax, and Zakat on your portfolio."
 pubDate: 2026-08-12
 updatedDate: 2026-08-05
 author: "Tzion S."

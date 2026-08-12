@@ -28,6 +28,7 @@ export interface Props {
     image?: string;
     mainEntityOfPage?: string;
   };
+  collection?: { name?: string; items: { name: string; url: string }[] };
 }
 
 const {
@@ -41,7 +42,8 @@ const {
   author,
   faq = [],
   seo = {},
-  schema = {}
+  schema = {},
+  collection
 } = Astro.props;
 
 const finalTitle       = seo?.metaTitle       || title;
@@ -111,6 +113,24 @@ const homepageSchema = Astro.url.pathname === "/" ? {
     }
   ]
 } : null;
+
+const collectionSchema = collection?.items?.length ? {
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": collection.name || finalTitle,
+  "description": finalDescription,
+  "url": canonicalURL.toString(),
+  "mainEntity": {
+    "@type": "ItemList",
+    "numberOfItems": collection.items.length,
+    "itemListElement": collection.items.map((item, index) => ({
+      "@type": "ListItem",
+      "position": index + 1,
+      "name": item.name,
+      "url": new URL(item.url, Astro.site || Astro.url).toString()
+    }))
+  }
+} : null;
 ---
 
 <head>
@@ -154,6 +174,9 @@ const homepageSchema = Astro.url.pathname === "/" ? {
   )}
   {homepageSchema && (
     <script type="application/ld+json" set:html={JSON.stringify(homepageSchema)} />
+  )}
+  {collectionSchema && (
+    <script type="application/ld+json" set:html={JSON.stringify(collectionSchema)} />
   )}
   <meta name="p:domain_verify" content="55e6f8ad1a23e33deb0edc8cc395f68a"/>
 </head>

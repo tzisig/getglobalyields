@@ -20,15 +20,15 @@ readingTime: "10 min read"
 featured: false
 seo:
   metaTitle: "US-Bolivia Tax Treaty: After the 2026 Devaluation (2026)"
-  metaDescription: "There's no general US-Bolivia tax treaty, so full 30% US withholding applies. Bolivia abandoned its 15-year fixed exchange rate in June 2026, devaluing the boliviano ~30%."
+  metaDescription: "No US-Bolivia tax treaty means full 30% US withholding. Bolivia abandoned its 15-year fixed exchange rate in June 2026, devaluing the boliviano ~30%."
   ogTitle: "US-Bolivia Tax Treaty: After the 2026 Devaluation (2026)"
-  ogDescription: "There's no general US-Bolivia tax treaty, so full 30% US withholding applies. Bolivia abandoned its 15-year fixed exchange rate in June 2026, devaluing the boliviano ~30%."
+  ogDescription: "No US-Bolivia tax treaty means full 30% US withholding. Bolivia abandoned its 15-year fixed exchange rate in June 2026, devaluing the boliviano ~30%."
   ogImage: "/images/blog/taxes/us-bolivia-tax-treaty.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"
   headline: "US-Bolivia Tax Treaty: After the 2026 Devaluation (2026)"
-  description: "There's no general US-Bolivia tax treaty, so full 30% US withholding applies. Bolivia abandoned its 15-year fixed exchange rate in June 2026, devaluing the boliviano ~30%."
+  description: "No US-Bolivia tax treaty means full 30% US withholding. Bolivia abandoned its 15-year fixed exchange rate in June 2026, devaluing the boliviano ~30%."
   author: "Tzion S."
   datePublished: "2026-08-09"
   dateModified: "2026-08-09"

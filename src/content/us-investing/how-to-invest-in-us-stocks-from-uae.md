@@ -1,7 +1,7 @@
 ---
 slug: how-to-invest-in-us-stocks-from-uae
 title: "How to Invest in US Stocks from the UAE (2026 Guide)"
-description: "How to invest in US stocks from the UAE. Broker options, W-8BEN, the 30% withholding reality, and why Dubai and Abu Dhabi residents can buy VOO and VTI directly - explained clearly for 2026."
+description: "How to invest in US stocks from the UAE: broker options, W-8BEN, the 30% withholding reality, and buying VOO and VTI from Dubai or Abu Dhabi."
 pubDate: 2026-08-06
 updatedDate: 2026-08-05
 author: "Tzion S."

@@ -20,15 +20,15 @@ readingTime: "12 min read"
 featured: false
 seo:
   metaTitle: "US-Japan Tax Treaty Guide: 10% Dividend Rate (2026)"
-  metaDescription: "The US-Japan tax treaty delivers the best portfolio dividend rate in the network: 10%. How it works, NISA's tax-free treatment (and its US-ETF access limits), and W-8BEN filing."
+  metaDescription: "The US-Japan tax treaty delivers the best portfolio dividend rate in the network: 10%. NISA's tax-free treatment, its US-ETF limits, and W-8BEN filing."
   ogTitle: "US-Japan Tax Treaty Guide: 10% Dividend Rate (2026)"
-  ogDescription: "The US-Japan tax treaty delivers the best portfolio dividend rate in the network: 10%. How it works, NISA's tax-free treatment (and its US-ETF access limits), and W-8BEN filing."
+  ogDescription: "The US-Japan tax treaty delivers the best portfolio dividend rate in the network: 10%. NISA's tax-free treatment, its US-ETF limits, and W-8BEN filing."
   ogImage: "/images/blog/taxes/us-japan-tax-treaty.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"
   headline: "US-Japan Tax Treaty Guide: 10% Dividend Rate (2026)"
-  description: "The US-Japan tax treaty delivers the best portfolio dividend rate in the network: 10%. How it works, NISA's tax-free treatment (and its US-ETF access limits), and W-8BEN filing."
+  description: "The US-Japan tax treaty delivers the best portfolio dividend rate in the network: 10%. NISA's tax-free treatment, its US-ETF limits, and W-8BEN filing."
   author: "Tzion S."
   datePublished: "2026-08-10"
   dateModified: "2026-08-10"

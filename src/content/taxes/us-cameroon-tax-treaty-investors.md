@@ -20,15 +20,15 @@ readingTime: "9 min read"
 featured: false
 seo:
   metaTitle: "US-Cameroon Tax Treaty: The Euro-Pegged Franc (2026)"
-  metaDescription: "There's no US-Cameroon tax treaty, so full 30% US dividend withholding applies. Cameroon taxes worldwide dividends and gains at 16.5%, and the CFA franc is pegged to the euro."
+  metaDescription: "No US-Cameroon tax treaty means full 30% dividend withholding. Cameroon taxes worldwide dividends and gains at 16.5%; the CFA franc is pegged to the euro."
   ogTitle: "US-Cameroon Tax Treaty: The Euro-Pegged Franc (2026)"
-  ogDescription: "There's no US-Cameroon tax treaty, so full 30% US dividend withholding applies. Cameroon taxes worldwide dividends and gains at 16.5%, and the CFA franc is pegged to the euro."
+  ogDescription: "No US-Cameroon tax treaty means full 30% dividend withholding. Cameroon taxes worldwide dividends and gains at 16.5%; the CFA franc is pegged to the euro."
   ogImage: "/images/blog/taxes/us-cameroon-tax-treaty.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"
   headline: "US-Cameroon Tax Treaty: The Euro-Pegged Franc (2026)"
-  description: "There's no US-Cameroon tax treaty, so full 30% US dividend withholding applies. Cameroon taxes worldwide dividends and gains at 16.5%, and the CFA franc is pegged to the euro."
+  description: "No US-Cameroon tax treaty means full 30% dividend withholding. Cameroon taxes worldwide dividends and gains at 16.5%; the CFA franc is pegged to the euro."
   author: "Tzion S."
   datePublished: "2026-08-05"
   dateModified: "2026-08-05"

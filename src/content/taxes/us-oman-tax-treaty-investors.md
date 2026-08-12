@@ -19,9 +19,9 @@ draft: false
 readingTime: "9 min read"
 featured: false
 seo:
-  metaTitle: "US-Oman Tax Treaty: The 2028 Personal Income Tax Deadline (2026)"
+  metaTitle: "US-Oman Tax Treaty for Investors: The 2028 Deadline (2026)"
   metaDescription: "There's no US-Oman tax treaty, so full 30% US dividend withholding applies. Oman becomes the first GCC country with a personal income tax on January 1, 2028."
-  ogTitle: "US-Oman Tax Treaty: The 2028 Personal Income Tax Deadline (2026)"
+  ogTitle: "US-Oman Tax Treaty for Investors: The 2028 Deadline (2026)"
   ogDescription: "There's no US-Oman tax treaty, so full 30% US dividend withholding applies. Oman becomes the first GCC country with a personal income tax on January 1, 2028."
   ogImage: "/images/blog/taxes/us-oman-tax-treaty.webp"
   twitterCard: "summary_large_image"

@@ -20,15 +20,15 @@ readingTime: "9 min read"
 featured: false
 seo:
   metaTitle: "US-Ethiopia Tax Treaty: After the Birr Float (2026)"
-  metaDescription: "There's no US-Ethiopia tax treaty, so full 30% US dividend withholding applies. The 2024 birr float ended decades of currency controls; capital gains rate sourcing conflicts."
+  metaDescription: "No US-Ethiopia tax treaty means full 30% dividend withholding. The 2024 birr float ended decades of currency controls, and capital gains rules conflict."
   ogTitle: "US-Ethiopia Tax Treaty: After the Birr Float (2026)"
-  ogDescription: "There's no US-Ethiopia tax treaty, so full 30% US dividend withholding applies. The 2024 birr float ended decades of currency controls; capital gains rate sourcing conflicts."
+  ogDescription: "No US-Ethiopia tax treaty means full 30% dividend withholding. The 2024 birr float ended decades of currency controls, and capital gains rules conflict."
   ogImage: "/images/blog/taxes/us-ethiopia-tax-treaty.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"
   headline: "US-Ethiopia Tax Treaty: After the Birr Float (2026)"
-  description: "There's no US-Ethiopia tax treaty, so full 30% US dividend withholding applies. The 2024 birr float ended decades of currency controls; capital gains rate sourcing conflicts."
+  description: "No US-Ethiopia tax treaty means full 30% dividend withholding. The 2024 birr float ended decades of currency controls, and capital gains rules conflict."
   author: "Tzion S."
   datePublished: "2026-08-09"
   dateModified: "2026-08-09"

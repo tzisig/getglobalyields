@@ -20,15 +20,15 @@ readingTime: "9 min read"
 featured: false
 seo:
   metaTitle: "US-Bahrain Tax Treaty: No Treaty, No FX Risk (2026)"
-  metaDescription: "There's no US-Bahrain tax treaty, so full 30% US dividend withholding applies. Bahrain charges 0% personal tax, and its 1980 USD peg means near-zero currency risk."
+  metaDescription: "No US-Bahrain tax treaty means full 30% dividend withholding. Bahrain charges 0% personal tax, and its 1980 USD peg means near-zero currency risk."
   ogTitle: "US-Bahrain Tax Treaty: No Treaty, No FX Risk (2026)"
-  ogDescription: "There's no US-Bahrain tax treaty, so full 30% US dividend withholding applies. Bahrain charges 0% personal tax, and its 1980 USD peg means near-zero currency risk."
+  ogDescription: "No US-Bahrain tax treaty means full 30% dividend withholding. Bahrain charges 0% personal tax, and its 1980 USD peg means near-zero currency risk."
   ogImage: "/images/blog/taxes/us-bahrain-tax-treaty.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"
   headline: "US-Bahrain Tax Treaty: No Treaty, No FX Risk (2026)"
-  description: "There's no US-Bahrain tax treaty, so full 30% US dividend withholding applies. Bahrain charges 0% personal tax, and its 1980 USD peg means near-zero currency risk."
+  description: "No US-Bahrain tax treaty means full 30% dividend withholding. Bahrain charges 0% personal tax, and its 1980 USD peg means near-zero currency risk."
   author: "Tzion S."
   datePublished: "2026-08-04"
   dateModified: "2026-08-04"

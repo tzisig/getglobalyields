@@ -20,15 +20,15 @@ readingTime: "9 min read"
 featured: false
 seo:
   metaTitle: "US-Kuwait Tax Treaty: The Basket-Peg Difference (2026)"
-  metaDescription: "There's no US-Kuwait tax treaty, so full 30% US dividend withholding applies. Unlike Saudi Arabia, UAE, or Bahrain, the Kuwaiti dinar isn't pegged to the dollar alone."
+  metaDescription: "No US-Kuwait tax treaty means full 30% dividend withholding. Unlike Saudi Arabia, UAE, or Bahrain, the Kuwaiti dinar isn't pegged to the dollar alone."
   ogTitle: "US-Kuwait Tax Treaty: The Basket-Peg Difference (2026)"
-  ogDescription: "There's no US-Kuwait tax treaty, so full 30% US dividend withholding applies. Unlike Saudi Arabia, UAE, or Bahrain, the Kuwaiti dinar isn't pegged to the dollar alone."
+  ogDescription: "No US-Kuwait tax treaty means full 30% dividend withholding. Unlike Saudi Arabia, UAE, or Bahrain, the Kuwaiti dinar isn't pegged to the dollar alone."
   ogImage: "/images/blog/taxes/us-kuwait-tax-treaty.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"
   headline: "US-Kuwait Tax Treaty: The Basket-Peg Difference (2026)"
-  description: "There's no US-Kuwait tax treaty, so full 30% US dividend withholding applies. Unlike Saudi Arabia, UAE, or Bahrain, the Kuwaiti dinar isn't pegged to the dollar alone."
+  description: "No US-Kuwait tax treaty means full 30% dividend withholding. Unlike Saudi Arabia, UAE, or Bahrain, the Kuwaiti dinar isn't pegged to the dollar alone."
   author: "Tzion S."
   datePublished: "2026-08-06"
   dateModified: "2026-08-06"

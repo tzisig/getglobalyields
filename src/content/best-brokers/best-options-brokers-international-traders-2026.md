@@ -1,7 +1,7 @@
 ---
 slug: best-options-brokers-international-traders-2026
 title: "6 Best Options Brokers for International Traders (2026)"
-description: "The 6 best options brokers for non-US traders in 2026 - IBKR, tastytrade, Saxo, Firstrade, TradeZero, and MEXEM - compared on per-contract fees, platform, and country eligibility."
+description: "The 6 best options brokers for non-US traders in 2026: IBKR, tastytrade, Saxo, and more, compared on per-contract fees and country eligibility."
 pubDate: 2026-05-12
 updatedDate: 2026-05-20
 author: "Tzion S."

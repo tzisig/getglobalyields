@@ -20,15 +20,15 @@ readingTime: "10 min read"
 featured: false
 seo:
   metaTitle: "US-Estonia Tax Treaty: The Investment Account Trap (2026)"
-  metaDescription: "How the US-Estonia tax treaty caps dividend withholding at 15%. Why the investeerimiskonto tax-deferral account may not credit US withholding at withdrawal on US stocks."
+  metaDescription: "The US-Estonia tax treaty caps dividend withholding at 15%. Why the investeerimiskonto tax-deferral account may not credit that withholding at withdrawal."
   ogTitle: "US-Estonia Tax Treaty: The Investment Account Trap (2026)"
-  ogDescription: "How the US-Estonia tax treaty caps dividend withholding at 15%. Why the investeerimiskonto tax-deferral account may not credit US withholding at withdrawal on US stocks."
+  ogDescription: "The US-Estonia tax treaty caps dividend withholding at 15%. Why the investeerimiskonto tax-deferral account may not credit that withholding at withdrawal."
   ogImage: "/images/blog/taxes/us-estonia-tax-treaty.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"
   headline: "US-Estonia Tax Treaty: The Investment Account Trap (2026)"
-  description: "How the US-Estonia tax treaty caps dividend withholding at 15%. Why the investeerimiskonto tax-deferral account may not credit US withholding at withdrawal on US stocks."
+  description: "The US-Estonia tax treaty caps dividend withholding at 15%. Why the investeerimiskonto tax-deferral account may not credit that withholding at withdrawal."
   author: "Tzion S."
   datePublished: "2026-08-04"
   dateModified: "2026-08-04"

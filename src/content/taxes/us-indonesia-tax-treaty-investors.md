@@ -20,15 +20,15 @@ readingTime: "9 min read"
 featured: false
 seo:
   metaTitle: "US-Indonesia Tax Treaty Guide for Investors: 15% Rate (2026)"
-  metaDescription: "How the US-Indonesia tax treaty caps dividend withholding at 15% for individuals. How Indonesia taxes worldwide income, and IBKR/eToro access for Indonesian residents."
+  metaDescription: "The US-Indonesia tax treaty caps dividend withholding at 15% for individuals. How Indonesia taxes worldwide income, plus IBKR and eToro access details."
   ogTitle: "US-Indonesia Tax Treaty Guide for Investors: 15% Rate (2026)"
-  ogDescription: "How the US-Indonesia tax treaty caps dividend withholding at 15% for individuals. How Indonesia taxes worldwide income, and IBKR/eToro access for Indonesian residents."
+  ogDescription: "The US-Indonesia tax treaty caps dividend withholding at 15% for individuals. How Indonesia taxes worldwide income, plus IBKR and eToro access details."
   ogImage: "/images/blog/taxes/us-indonesia-tax-treaty.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"
   headline: "US-Indonesia Tax Treaty Guide for Investors: 15% Rate (2026)"
-  description: "How the US-Indonesia tax treaty caps dividend withholding at 15% for individuals. How Indonesia taxes worldwide income, and IBKR/eToro access for Indonesian residents."
+  description: "The US-Indonesia tax treaty caps dividend withholding at 15% for individuals. How Indonesia taxes worldwide income, plus IBKR and eToro access details."
   author: "Tzion S."
   datePublished: "2026-08-06"
   dateModified: "2026-08-06"

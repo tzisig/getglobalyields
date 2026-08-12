@@ -20,15 +20,15 @@ readingTime: "9 min read"
 featured: false
 seo:
   metaTitle: "Interactive Brokers Argentina: US Stock Tax Guide (2026)"
-  metaDescription: "No US-Argentina tax treaty means 30% US dividend withholding with no reduction. How Argentina taxes capital gains on foreign-currency securities at 15%, and IBKR/eToro access."
+  metaDescription: "No US-Argentina tax treaty means 30% dividend withholding, no reduction. How Argentina taxes foreign-currency capital gains at 15%, plus IBKR/eToro access."
   ogTitle: "Interactive Brokers Argentina: US Stock Tax Guide (2026)"
-  ogDescription: "No US-Argentina tax treaty means 30% US dividend withholding with no reduction. How Argentina taxes capital gains on foreign-currency securities at 15%, and IBKR/eToro access."
+  ogDescription: "No US-Argentina tax treaty means 30% dividend withholding, no reduction. How Argentina taxes foreign-currency capital gains at 15%, plus IBKR/eToro access."
   ogImage: "/images/blog/taxes/us-argentina-tax-treaty.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"
   headline: "Interactive Brokers Argentina: US Stock Tax Guide (2026)"
-  description: "No US-Argentina tax treaty means 30% US dividend withholding with no reduction. How Argentina taxes capital gains on foreign-currency securities at 15%, and IBKR/eToro access."
+  description: "No US-Argentina tax treaty means 30% dividend withholding, no reduction. How Argentina taxes foreign-currency capital gains at 15%, plus IBKR/eToro access."
   author: "Tzion S."
   datePublished: "2026-08-05"
   dateModified: "2026-08-05"
