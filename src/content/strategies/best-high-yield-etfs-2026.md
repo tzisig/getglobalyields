@@ -179,6 +179,8 @@ For investors who spend the distributions, this tradeoff can be rational - provi
 
 The practical rule used by many professional income portfolio managers: cap covered call ETF exposure at 20-40% of the equity sleeve. This preserves the income benefit without making the total portfolio dependent on a strategy that systematically caps growth.
 
+When I evaluate a high-yield ETF for my own income allocation, I always check the underlying NAV trend before looking at the headline yield figure - a fund that's paid out 12% but bled 8% of its NAV over the same period hasn't actually delivered a 12% return, whatever the distribution yield column says. It's a five-minute check (pull up a five-year price chart with dividends excluded) that would have kept early QYLD holders from an unpleasant surprise.
+
 ### Key Risk Metrics (as of May 2026)
 
 | ETF | Annualized Volatility | Max Drawdown | Sharpe Ratio (1Y) |
@@ -268,7 +270,7 @@ Vanguard has announced a competing high-yield corporate bond ETF (VCHY) for laun
 
 Non-U.S. investors face a specific cost that materially affects net yield calculations.
 
-The U.S. default [withholding tax](/taxes/taxes-us-dividends-foreign-investors/) on dividends and distributions paid to foreign investors is 30%. Under a bilateral tax treaty, this rate is typically reduced to 15% for eligible countries. The treaty rate applies only if the investor files a [W-8BEN](/taxes/w8ben-form-non-us-investors/) form with their broker. Without it, the full 30% applies by default.
+The U.S. default [withholding tax](/taxes/taxes-us-dividends-foreign-investors/) on dividends and distributions paid to foreign investors is 30%. Under a bilateral [tax treaty](https://www.irs.gov/individuals/international-taxpayers/tax-treaties), this rate is typically reduced to 15% for eligible countries. The treaty rate applies only if the investor files a [W-8BEN](/taxes/w8ben-form-non-us-investors/) ([official IRS form](https://www.irs.gov/forms-pubs/about-form-w-8-ben)) with their broker. Without it, the full 30% applies by default.
 
 **The ELN complication:** JEPI and JEPQ distributions are classified as ordinary income from debt instruments rather than as qualified dividends. The treaty rate reduction may apply differently depending on the investor's jurisdiction and the specific treaty language. This is not a theoretical concern - in some treaty structures, interest income receives different treatment than dividend income. Confirm this specific point with a local tax advisor before assuming the 15% treaty rate applies to JEPI/JEPQ in full.
 

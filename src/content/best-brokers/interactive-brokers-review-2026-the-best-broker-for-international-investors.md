@@ -80,6 +80,8 @@ This review is written specifically for non-US investors - Israelis, Canadians, 
 
 **2\. Currency conversion at interbank rates:** When you convert ILS, EUR, CAD, or AUD to USD at IBKR using the Ideal Pro marketplace, you pay approximately 0.002% - a fraction of what banks or other brokers charge. On a $20,000 conversion, that is $0.40 versus potentially $200+ at a bank.
 
+In my 4.5+ years of actively trading and managing a multi-currency portfolio between Israeli and US markets, manual conversion through IDEALPRO has consistently been the lowest-friction method I've used - noticeably cheaper than my bank's forex desk and cheaper than letting the broker convert automatically at a market order. It takes one extra step (placing a limit order on the currency pair instead of accepting the default conversion), but the savings compound meaningfully over years of regular contributions.
+
 **3\. Full product access:** IBKR gives international investors access to the same products as US clients - stocks, ETFs, options, futures, forex, bonds, and more.
 
 ## **Fees and Commissions: Detailed Breakdown**
@@ -127,7 +129,7 @@ Opening an IBKR account as an international investor takes approximately 20 to 4
 
 *   Create an account at ibkr.com and select your country of residence
 *   Complete identity verification (passport + proof of address)
-*   Fill in the [W-8BEN](/taxes/w8ben-form-non-us-investors/) form (embedded in the application)
+*   Fill in the [W-8BEN](/taxes/w8ben-form-non-us-investors/) form ([official IRS form](https://www.irs.gov/forms-pubs/about-form-w-8-ben), embedded in the application)
 *   Answer financial profile questions (income, net worth, investment experience)
 *   Sign the account agreement digitally
 *   Receive approval - typically within 1 to 3 business days

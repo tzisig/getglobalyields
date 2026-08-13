@@ -30,6 +30,8 @@ Expats managing real portfolios across borders face a different problem. Not har
 
 This guide covers what actually matters: how to stay compliant across jurisdictions, which investment structures hold up when you cross borders, where currency risk is quietly eating your returns, and how to choose a broker that won't restrict your account the moment your address changes.
 
+I've lived a version of this problem myself, managing a multi-currency portfolio across Israeli and US markets for over 4.5 years. The standard advice - "just open a brokerage account" - skips past the parts that actually matter: which fund domicile avoids PFIC treatment, which broker won't freeze your account the moment you update your address, and how much currency conversion quietly costs you every year if you're not paying attention. This guide is built from that experience, not just from reading the rules.
+
 ---
 
 ## The Tax Compliance Layer You Cannot Skip
@@ -42,21 +44,21 @@ The United States taxes its citizens and green card holders on worldwide income,
 
 **FBAR - FinCEN Form 114**
 
-If your foreign financial accounts - bank accounts, brokerage accounts, foreign money market funds - exceed $10,000 in aggregate at any point during the year, you must file an FBAR. Not $10,000 per account. $10,000 combined, across everything.
+If your foreign financial accounts - bank accounts, brokerage accounts, foreign money market funds - exceed $10,000 in aggregate at any point during the year, you must file an [FBAR](https://www.fincen.gov/report-foreign-bank-and-financial-accounts). Not $10,000 per account. $10,000 combined, across everything.
 
 The deadline is April 15, with an automatic extension to October 15. No request required - the extension is granted automatically.
 
-The penalties matter. Non-willful violations can reach $16,536 per annual filing (per form, not per account, following the Supreme Court's 2023 *Bittner* ruling). Willful violations go up to $165,353 or 50% of the account balance per account per year - with criminal prosecution possible in extreme cases. Investors who discover missed filings and correct them voluntarily through the Delinquent FBAR Submission Procedures typically avoid penalties entirely.
+The penalties matter. Non-willful violations can reach $16,536 per annual filing (per form, not per account, following the Supreme Court's 2023 *Bittner* ruling). Willful violations go up to $165,353 or 50% of the account balance per account per year - with criminal prosecution possible in extreme cases. Investors who discover missed filings and correct them voluntarily through the [Streamlined Filing Compliance Procedures](https://www.irs.gov/individuals/international-taxpayers/streamlined-filing-compliance-procedures-for-us-taxpayers-residing-outside-the-united-states-frequently-asked-questions-and-answers) typically avoid penalties entirely.
 
 **FATCA - Form 8938**
 
-Separate from FBAR, Form 8938 covers specified foreign financial assets: foreign accounts, foreign stocks held directly, interests in foreign entities, and certain foreign contracts. The thresholds for US persons living outside the United States are higher than for domestic filers - $200,000 at year-end or $300,000 at any point during the year for single filers; $400,000 at year-end or $600,000 at any point for married filing jointly.
+Separate from FBAR, [Form 8938](https://www.irs.gov/forms-pubs/about-form-8938) covers specified foreign financial assets: foreign accounts, foreign stocks held directly, interests in foreign entities, and certain foreign contracts. The thresholds for US persons living outside the United States are higher than for domestic filers - $200,000 at year-end or $300,000 at any point during the year for single filers; $400,000 at year-end or $600,000 at any point for married filing jointly.
 
 These are two separate obligations. Filing one does not satisfy the other. Under FATCA agreements now in place with over 110 countries, foreign financial institutions report US account holders directly to the IRS. There is no practical path to remaining unreported.
 
 **OBBBA: The 2026 Remittance Tax**
 
-One provision in the One Big Beautiful Bill Act (signed July 4, 2025) is worth noting: a new 1% excise tax on certain outbound remittance transfers, effective January 1, 2026. It applies specifically to cash-funded transfers - money orders, cashier's checks, Western Union-type services. Standard bank wire transfers, ACH, and US-issued debit or credit card payments are all exempt. For investors moving money through IBKR or regular bank channels, the practical impact is zero. If you still use cash-based services for international transfers, the fix is straightforward: switch to bank wires.
+One provision in the [One Big Beautiful Bill Act](https://www.congress.gov/bill/119th-congress/house-bill/1/) (signed July 4, 2025) is worth noting: a new 1% excise tax on certain outbound remittance transfers, effective January 1, 2026. It applies specifically to cash-funded transfers - money orders, cashier's checks, Western Union-type services. Standard bank wire transfers, ACH, and US-issued debit or credit card payments are all exempt. For investors moving money through IBKR or regular bank channels, the practical impact is zero. If you still use cash-based services for international transfers, the fix is straightforward: switch to bank wires.
 
 The OBBBA also raised the US federal estate tax exemption to $15 million per individual, which is covered further in the estate planning section below.
 
@@ -86,7 +88,7 @@ That rule applies strictly to US persons. For the rest of the world - the majori
 
 ## For Non-US Expats: The Irish UCITS Advantage
 
-Non-US expats in most of the world sit in the opposite position from US persons - and Irish UCITS ETFs are among the most tax-efficient structures available to them. When a US company pays a dividend, it first hits [withholding tax](/taxes/taxes-us-dividends-foreign-investors/) at the source country level (the US), then potentially at the fund domicile level, then at the investor level (see our [W-8BEN Guide](/taxes/w8ben-form-non-us-investors/) for how to claim reduced rates).
+Non-US expats in most of the world sit in the opposite position from US persons - and Irish UCITS ETFs are among the most tax-efficient structures available to them. When a US company pays a dividend, it first hits [withholding tax](/taxes/taxes-us-dividends-foreign-investors/) at the source country level (the US), then potentially at the fund domicile level, then at the investor level (see our [W-8BEN Guide](/taxes/w8ben-form-non-us-investors/), or the [official IRS Form W-8BEN page](https://www.irs.gov/forms-pubs/about-form-w-8-ben), for how to claim reduced rates).
 
 For an investor in a country without a US tax treaty using a US-domiciled ETF: the dividend faces 30% US withholding at the fund level. For the same investor using an Irish-domiciled UCITS ETF: the US-Ireland tax treaty reduces that first layer to 15%. Ireland then charges 0% withholding on distributions to non-Irish residents. The difference is 15 percentage points of every dividend, every year, automatically - before the investor's home country tax treatment even enters the picture.
 
@@ -138,6 +140,8 @@ Match the currency of assets to the currency of future spending. If you plan to 
 Use currency-hedged ETF share classes when you want equity market exposure without currency overlay. Most major Irish UCITS ETFs offer hedged share classes - CSPX versus CSP1 (GBP hedged), for example. The hedging cost runs 0.1-0.3% annually, which is cheap insurance against meaningful exchange rate moves.
 
 Convert currency in tranches rather than lump sums. Moving $200,000 of accumulated savings from USD to GBP in a single transaction is a single bet on the exchange rate that day. Converting over 12-18 months in regular installments averages the entry rate across a market cycle. Platforms like IBKR execute currency conversions at near-interbank rates - their FX conversion fee is a fraction of what retail banks charge, often 0.002% versus 1-2% at a high street bank.
+
+When I convert funds between shekels and dollars for my own portfolio, I never do it in one lump transfer. Splitting a larger conversion into smaller tranches over several weeks has more than once saved me from locking in a single bad exchange rate day - it costs nothing extra and has no real downside.
 
 Natural hedging is the most elegant solution where it applies. If you have liabilities in a foreign currency - a mortgage, school fees, ongoing rent - holding assets in that same currency creates an automatic offset without any explicit hedging instruments.
 
