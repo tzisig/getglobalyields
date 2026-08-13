@@ -4,7 +4,7 @@ title: "How to Invest in US Stocks from the Philippines (2026 Guide)"
 description: "How to invest in US stocks from the Philippines: broker options, W-8BEN, the 25% treaty rate, and why OFWs generally owe no Philippine tax."
 pubDate: 2026-08-10
 updatedDate: 2026-08-05
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["US Investing"]
 tags:
   - "invest in US stocks from Philippines"

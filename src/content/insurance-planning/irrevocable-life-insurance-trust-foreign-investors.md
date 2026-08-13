@@ -4,7 +4,7 @@ title: "Irrevocable Life Insurance Trusts (ILITs) for Foreign Investors: How The
 description: "An ILIT moves policy ownership out of the insured's own hands entirely, adding a further layer of estate and control planning on top of the base US-situs treatment life insurance already gets for a non-resident alien. When the added complexity of a trust structure is actually worth it, and when it isn't."
 pubDate: 2027-01-01
 updatedDate: 2026-08-06
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Insurance & Cross-Border Planning"]
 tags:
   - "irrevocable life insurance trust foreign investor"

@@ -4,7 +4,7 @@ title: "Tax-Loss Harvesting With TQQQ and QQQ Swaps"
 description: "Tax-loss harvesting realizes a loss for tax purposes while keeping similar market exposure. TQQQ and QQQ's shared index makes them a natural swap pair."
 pubDate: 2026-10-28
 updatedDate: 2026-08-06
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Strategies"]
 tags:
   - "tax loss harvesting TQQQ QQQ"

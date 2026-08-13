@@ -4,7 +4,7 @@ title: "US-Kuwait Tax Treaty for Investors: The Basket-Peg Difference (2026)"
 description: "Kuwait investor guide to US stock taxation. No US-Kuwait tax treaty exists, so full 30% US dividend withholding applies. Kuwait charges 0% personal tax, but unlike its GCC neighbors, the dinar is pegged to a currency basket, not the US dollar alone."
 pubDate: 2026-08-06
 updatedDate: 2026-08-06
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "us kuwait tax treaty"
@@ -29,7 +29,7 @@ schema:
   type: "article"
   headline: "US-Kuwait Tax Treaty: The Basket-Peg Difference (2026)"
   description: "No US-Kuwait tax treaty means full 30% dividend withholding. Unlike Saudi Arabia, UAE, or Bahrain, the Kuwaiti dinar isn't pegged to the dollar alone."
-  author: "Tzion S."
+  author: "Tzion Sigron"
   datePublished: "2026-08-06"
   dateModified: "2026-08-06"
   image: "/images/blog/taxes/us-kuwait-tax-treaty-investors.webp"

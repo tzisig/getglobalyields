@@ -4,7 +4,7 @@ title: "Ancillary Probate for Foreign-Owned US Brokerage Accounts"
 description: "A US brokerage account is legally domiciled where its owner lives, not the broker's HQ - yet brokers often demand a court-appointed fiduciary anyway."
 pubDate: 2026-10-27
 updatedDate: 2026-08-07
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Estate Planning"]
 tags:
   - "ancillary probate"

@@ -4,7 +4,7 @@ title: "Life Insurance vs Brokerage Assets for Cross-Border Estate Planning"
 description: "Life insurance proceeds on a non-resident alien's life are generally treated as outside US-situs and not subject to US estate tax - unlike US stocks, which are. A real, underused tool for offsetting the $60,000 exemption gap, with a worked example of how it's structured in practice."
 pubDate: 2026-10-12
 updatedDate: 2026-08-06
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Estate Planning"]
 tags:
   - "life insurance estate tax non-resident alien"

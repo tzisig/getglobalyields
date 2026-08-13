@@ -4,7 +4,7 @@ title: "How to Invest in US Stocks from Taiwan (2026 Guide)"
 description: "How to invest in US stocks from Taiwan: why there's no tax treaty (a diplomatic-recognition issue), the pending H.R. 33 bill, and the 30% withholding reality."
 pubDate: 2026-09-15
 updatedDate: 2026-08-05
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["US Investing"]
 tags:
   - "invest in US stocks from Taiwan"

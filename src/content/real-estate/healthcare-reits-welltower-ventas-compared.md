@@ -4,7 +4,7 @@ title: "Healthcare REITs: Welltower vs Ventas Compared"
 description: "Healthcare REITs aren't just landlords - RIDEA lets Welltower share in senior housing profits, why its yield and growth look nothing like a net lease REIT's."
 pubDate: 2027-01-01
 updatedDate: 2026-08-06
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Real Estate & REITs"]
 tags:
   - "healthcare REIT"

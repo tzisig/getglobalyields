@@ -4,7 +4,7 @@ title: "Risk Management for Leveraged ETF Investors (2026)"
 description: "Risk management for leveraged ETF investors. Position sizing, SMA exit rules, VIX overlays, drawdown limits, and tax-aware execution for TQQQ and UPRO traders."
 pubDate: 2026-05-30
 updatedDate: 2026-05-30
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Strategies"]
 tags:
   - "leveraged ETF risk management"

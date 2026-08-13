@@ -4,7 +4,7 @@ title: "US-Zimbabwe Tax Treaty for Investors: After the ZiG Turnaround (2026)"
 description: "Zimbabwe investor guide to US stock taxation. No US-Zimbabwe tax treaty exists, so full 30% US dividend withholding applies. The gold-backed ZiG currency has stabilized inflation to single digits for the first time since 1997, but targeted US sanctions create real banking friction."
 pubDate: 2026-10-13
 updatedDate: 2026-08-26
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "us zimbabwe tax treaty"
@@ -29,7 +29,7 @@ schema:
   type: "article"
   headline: "US-Zimbabwe Tax Treaty: After the ZiG Turnaround (2026)"
   description: "There's no US-Zimbabwe tax treaty, so full 30% US dividend withholding applies. The gold-backed ZiG has stabilized inflation, but targeted US sanctions create real banking friction."
-  author: "Tzion S."
+  author: "Tzion Sigron"
   datePublished: "2026-08-26"
   dateModified: "2026-08-26"
   image: "/images/blog/taxes/us-zimbabwe-tax-treaty-investors.webp"

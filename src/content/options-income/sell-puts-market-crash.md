@@ -4,7 +4,7 @@ title: "How to Sell Puts During a Market Crash (2026 Guide)"
 description: "Selling puts during a market crash. High IV creates rich premiums - how to size positions safely and manage the risks of selling into a falling market."
 pubDate: 2026-05-24
 updatedDate: 2026-05-24
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Options Income"]
 tags:
   - "sell puts market crash"

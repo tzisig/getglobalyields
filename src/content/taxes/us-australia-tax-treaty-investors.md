@@ -4,7 +4,7 @@ title: "US-Australia Tax Treaty for Investors: The Complete 2026 Guide"
 description: "US-Australia tax treaty guide for individual investors. Withholding rates on dividends, superannuation treatment in accumulation vs pension phase, W-8BEN filing, and how Australian account types interact with US tax rules explained."
 pubDate: 2026-05-24
 updatedDate: 2026-08-04
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "US Australia tax treaty 2026"
@@ -32,7 +32,7 @@ schema:
   type: "article"
   headline: "US-Australia Tax Treaty for Investors (2026 Guide)"
   description: "How the US-Australia tax treaty reduces withholding tax on dividends for Australian residents. Super accumulation vs pension phase, W-8BEN, and CGT rules."
-  author: "Tzion S."
+  author: "Tzion Sigron"
   datePublished: "2026-05-24"
   dateModified: "2026-08-04"
   image: "/images/blog/taxes/us-australia-tax-treaty-investors.webp"

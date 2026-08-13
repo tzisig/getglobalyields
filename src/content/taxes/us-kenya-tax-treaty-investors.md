@@ -4,7 +4,7 @@ title: "Investing in US Stocks from Kenya: No Treaty, Worldwide Tax Rules (2026)
 description: "There is no US-Kenya tax treaty, so the default 30% US withholding applies to dividends. How Kenya taxes worldwide income for residents, the 5% capital gains rate, unilateral tax credit relief, and Interactive Brokers/eToro access."
 pubDate: 2026-09-07
 updatedDate: 2026-08-12
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "us kenya tax treaty"
@@ -29,7 +29,7 @@ schema:
   type: "article"
   headline: "Interactive Brokers Kenya: US Stock Tax Guide (2026)"
   description: "No US-Kenya tax treaty means 30% US dividend withholding with no reduction. How Kenya taxes worldwide income, the 5% capital gains rate, and IBKR/eToro access for Kenyan residents."
-  author: "Tzion S."
+  author: "Tzion Sigron"
   datePublished: "2026-08-12"
   dateModified: "2026-08-12"
   image: "/images/blog/taxes/us-kenya-tax-treaty-investors.webp"

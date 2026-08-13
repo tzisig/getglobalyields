@@ -4,7 +4,7 @@ title: "How to Invest in US Stocks from Indonesia (2026 Guide)"
 description: "How to invest in US stocks from Indonesia: broker options, W-8BEN, the 15% treaty rate, and how worldwide income taxation applies to your portfolio."
 pubDate: 2026-08-10
 updatedDate: 2026-08-05
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["US Investing"]
 tags:
   - "invest in US stocks from Indonesia"

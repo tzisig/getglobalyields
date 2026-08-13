@@ -4,7 +4,7 @@ title: "US-Iceland Tax Treaty for Investors: The Complete 2026 Guide"
 description: "US-Iceland tax treaty guide for individual investors. The 15% dividend rate, Iceland's flat 22% capital income tax on both dividends and capital gains, and a 2026 change eliminating the personal deduction offset against it."
 pubDate: 2026-09-23
 updatedDate: 2026-08-20
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "us iceland tax treaty"
@@ -29,7 +29,7 @@ schema:
   type: "article"
   headline: "US-Iceland Tax Treaty: The 22% Capital Income Tax (2026)"
   description: "How the US-Iceland tax treaty caps dividend withholding at 15%. Iceland's flat 22% capital income tax on both dividends and gains, and a 2026 deduction change."
-  author: "Tzion S."
+  author: "Tzion Sigron"
   datePublished: "2026-08-20"
   dateModified: "2026-08-20"
   image: "/images/blog/taxes/us-iceland-tax-treaty-investors.webp"

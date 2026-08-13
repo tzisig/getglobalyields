@@ -4,7 +4,7 @@ title: "Financial Freedom via Leveraged Investing: Realistic Guide"
 description: "Can leveraged ETFs like TQQQ accelerate financial freedom? Honest analysis of the math, the risks, and the portfolio structures that make it viable long-term."
 pubDate: 2026-05-25
 updatedDate: 2026-05-25
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Strategies"]
 tags:
   - "leveraged investing 2026"

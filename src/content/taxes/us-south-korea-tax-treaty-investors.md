@@ -4,7 +4,7 @@ title: "US-South Korea Tax Treaty for Investors: The 22% Overseas Stock Tax (202
 description: "US-South Korea tax treaty guide for individual investors. The 15% dividend rate, Korea's 22% flat capital gains tax on overseas stocks above a KRW 2.5 million exemption, the 2026 repatriation incentive, and Interactive Brokers/eToro access."
 pubDate: 2026-09-21
 updatedDate: 2026-08-18
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "us south korea tax treaty"
@@ -29,7 +29,7 @@ schema:
   type: "article"
   headline: "US-South Korea Tax Treaty: 22% Overseas Stock Tax Explained (2026)"
   description: "How the US-South Korea tax treaty caps dividend withholding at 15%. Korea's 22% flat capital gains tax on overseas stocks, the KRW 2.5M exemption, and IBKR/eToro access."
-  author: "Tzion S."
+  author: "Tzion Sigron"
   datePublished: "2026-08-18"
   dateModified: "2026-08-18"
   image: "/images/blog/taxes/us-south-korea-tax-treaty-investors.webp"

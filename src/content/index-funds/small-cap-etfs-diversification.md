@@ -4,7 +4,7 @@ title: "Small-Cap ETFs (IJR, VB) for Genuine Diversification"
 description: "Small-cap ETFs cover a different market segment than mega-caps. Higher volatility, less coverage, an inconsistent size premium, different tax income mix."
 pubDate: 2026-10-18
 updatedDate: 2026-08-06
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Index Funds & ETFs"]
 tags:
   - "small cap ETF international investor"

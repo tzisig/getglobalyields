@@ -4,7 +4,7 @@ title: "Best High-Yield ETFs for Income Investors in 2026"
 description: "Best high-yield ETFs in 2026. Verified yields for JEPI, JEPQ, SCHD, SPYI, QQQI, JNK - NAV erosion analysis, tax mechanics, and guidance for non-US investors."
 pubDate: 2026-05-24
 updatedDate: 2026-05-24
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Strategies"]
 tags:
   - "best high yield etf 2026"

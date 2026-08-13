@@ -4,7 +4,7 @@ title: "Firstrade Review 2026: Free Options for Non-US Investors"
 description: "Firstrade reviewed for non-US investors. Zero-commission options, no account minimum, and the limitations that matter for international traders."
 pubDate: 2026-05-23
 updatedDate: 2026-05-23
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Brokers"]
 tags:
   - "firstrade review 2026"

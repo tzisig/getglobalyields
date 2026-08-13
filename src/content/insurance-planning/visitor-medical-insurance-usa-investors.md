@@ -4,7 +4,7 @@ title: "Visitor Medical Insurance for the US: What to Know"
 description: "Not legally required for most B1/B2 visitors, but a US ER visit can cost thousands. What visitor insurance covers, real costs, and substantial presence test."
 pubDate: 2027-01-01
 updatedDate: 2026-08-06
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Insurance & Cross-Border Planning"]
 tags:
   - "visitor insurance USA"

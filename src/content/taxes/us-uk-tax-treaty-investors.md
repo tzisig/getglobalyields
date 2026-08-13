@@ -4,7 +4,7 @@ title: "US-UK Tax Treaty for Investors: The Complete 2026 Guide"
 description: "US-UK tax treaty guide for individual investors. Withholding rates on dividends, ISA vs SIPP treatment, W-8BEN filing, and the 0% pension exemption explained."
 pubDate: 2026-05-24
 updatedDate: 2026-08-04
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "US UK tax treaty 2026"
@@ -33,7 +33,7 @@ schema:
   type: "article"
   headline: "Tax on US Shares in the UK: US-UK Tax Treaty (2026)"
   description: "Do you pay tax on US shares in the UK? How the US-UK tax treaty reduces dividend withholding to 15%, plus ISA, SIPP, and W-8BEN rules."
-  author: "Tzion S."
+  author: "Tzion Sigron"
   datePublished: "2026-05-24"
   dateModified: "2026-08-04"
   image: "/images/blog/taxes/us-uk-tax-treaty-investors.webp"

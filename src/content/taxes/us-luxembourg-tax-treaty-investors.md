@@ -4,7 +4,7 @@ title: "US-Luxembourg Tax Treaty for Investors: The 6-Month Exemption (2026)"
 description: "US-Luxembourg tax treaty guide for individual investors. The 15% dividend rate, and why holding US stocks past 6 months makes the capital gain fully exempt from Luxembourg tax - versus up to 45.78% if sold within 6 months."
 pubDate: 2026-11-01
 updatedDate: 2026-08-31
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "us luxembourg tax treaty"
@@ -29,7 +29,7 @@ schema:
   type: "article"
   headline: "US-Luxembourg Tax Treaty: The 6-Month Exemption (2026)"
   description: "How the US-Luxembourg tax treaty caps dividend withholding at 15%. Why holding US stocks past 6 months makes the gain fully exempt from Luxembourg tax - up to 45.78% if sold sooner."
-  author: "Tzion S."
+  author: "Tzion Sigron"
   datePublished: "2026-08-31"
   dateModified: "2026-08-31"
   image: "/images/blog/taxes/us-luxembourg-tax-treaty-investors.webp"

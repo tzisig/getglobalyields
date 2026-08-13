@@ -4,7 +4,7 @@ title: "Why TQQQ and QQQ Aren't Truly Diversified From Each Other"
 description: "Holding both TQQQ and QQQ can feel like spreading risk across two positions, but they track the identical underlying index. What actually changes between them, why it isn't diversification in any meaningful sense, and a worked example of the leverage-blending math."
 pubDate: 2026-10-29
 updatedDate: 2026-08-06
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Strategies"]
 tags:
   - "TQQQ QQQ correlation"

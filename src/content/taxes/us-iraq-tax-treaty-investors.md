@@ -4,7 +4,7 @@ title: "US-Iraq Tax Treaty for Investors: Check Your Bank First (2026)"
 description: "Iraq investor guide to US stock taxation. No US-Iraq tax treaty exists, so full 30% US dividend withholding applies. US Federal Reserve restrictions on specific Iraqi banks' dollar access - not sanctions on Iraq - make checking your bank's status essential."
 pubDate: 2026-10-08
 updatedDate: 2026-08-26
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "us iraq tax treaty"
@@ -29,7 +29,7 @@ schema:
   type: "article"
   headline: "US-Iraq Tax Treaty: Check Your Bank First (2026)"
   description: "There's no US-Iraq tax treaty, so full 30% US dividend withholding applies. Federal Reserve restrictions on specific Iraqi banks' dollar access make checking your bank essential."
-  author: "Tzion S."
+  author: "Tzion Sigron"
   datePublished: "2026-08-26"
   dateModified: "2026-08-26"
   image: "/images/blog/taxes/us-iraq-tax-treaty-investors.webp"

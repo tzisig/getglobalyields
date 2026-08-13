@@ -4,7 +4,7 @@ title: "US-Israel Tax Treaty Guide for Israeli Investors (2026)"
 description: "US-Israel tax treaty for investors. The 25% dividend withholding rate, capital gains treatment, W-8BEN filing, and how to minimize double taxation on US assets from Israel."
 pubDate: 2026-05-12
 updatedDate: 2026-08-04
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "US-Israel tax treaty"
@@ -40,7 +40,7 @@ schema:
   type: "article"
   headline: "US-Israel Tax Treaty Guide for Israeli Investors (2026)"
   description: "How the US-Israel tax treaty affects Israeli residents. Understand capital gains, the 25% dividend withholding rate, W-8BEN rules, and double tax credits."
-  author: "Tzion S."
+  author: "Tzion Sigron"
   datePublished: "2026-05-12"
   dateModified: "2026-08-04"
   image: "/images/blog/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026.webp"

@@ -4,7 +4,7 @@ title: "Rolling Covered Calls: When and How (2026)"
 description: "Rolling means closing an existing covered call and opening a new one before assignment happens. The mechanics of rolling up, out, and up-and-out - the honest math on when rolling actually helps versus when it just delays a decision, and the tax mechanics of each roll."
 pubDate: 2026-10-07
 updatedDate: 2026-08-06
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Options Income"]
 tags:
   - "rolling covered calls"

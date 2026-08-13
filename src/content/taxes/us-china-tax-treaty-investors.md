@@ -4,7 +4,7 @@ title: "US-China Tax Treaty for Investors: The Complete 2026 Guide"
 description: "US-China tax treaty guide for individual investors. Withholding rates on dividends, the broker access problem for mainland residents, the Hong Kong distinction, W-8BEN filing, and the FATCA gap explained."
 pubDate: 2026-06-04
 updatedDate: 2026-08-04
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "US China tax treaty 2026"
@@ -33,7 +33,7 @@ schema:
   type: "article"
   headline: "US-China Tax Treaty Guide for Chinese Investors (2026)"
   description: "How the US-China tax treaty reduces withholding tax on US dividends to 10% for Chinese residents. W-8BEN requirements and tax optimization explained."
-  author: "Tzion S."
+  author: "Tzion Sigron"
   datePublished: "2026-06-04"
   dateModified: "2026-08-04"
   image: "/images/blog/taxes/us-china-tax-treaty-investors.webp"

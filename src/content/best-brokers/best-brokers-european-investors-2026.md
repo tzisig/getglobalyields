@@ -4,7 +4,7 @@ title: "Best Brokers for European Investors (2026)"
 description: "The best brokers for EU investors in 2026: PRIIPs restrictions on US ETFs, UCITS access, and which platforms handle W-8BEN and treaty paperwork correctly."
 pubDate: 2026-09-23
 updatedDate: 2026-08-06
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Best Brokers"]
 tags:
   - "best brokers European investors 2026"

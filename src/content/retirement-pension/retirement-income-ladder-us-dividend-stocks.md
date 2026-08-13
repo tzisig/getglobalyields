@@ -4,7 +4,7 @@ title: "Building a Retirement Income Ladder With US Dividend Stocks"
 description: "A dividend income ladder staggers holdings by payment date to create a smoother, more predictable income stream through retirement. The mechanics, a worked example, the real limitations for an international investor, and how withholding tax changes the math."
 pubDate: 2026-10-05
 updatedDate: 2026-08-06
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Retirement & Pension"]
 tags:
   - "retirement income ladder dividend stocks"

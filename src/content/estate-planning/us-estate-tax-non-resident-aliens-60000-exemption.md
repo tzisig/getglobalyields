@@ -4,7 +4,7 @@ title: "US Estate Tax for Non-Resident Aliens: The $60,000 Exemption Trap"
 description: "US citizens get a multi-million-dollar estate tax exemption. Non-resident aliens holding US stocks get $60,000 - not indexed for inflation - with a 40% top rate above it. A real, often-overlooked exposure for any international investor with a meaningful US portfolio, with a worked tax calculation."
 pubDate: 2026-08-23
 updatedDate: 2026-08-06
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Estate Planning"]
 tags:
   - "US estate tax non-resident alien"

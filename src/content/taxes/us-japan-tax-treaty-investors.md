@@ -4,7 +4,7 @@ title: "US-Japan Tax Treaty for Investors: The Complete 2026 Guide"
 description: "US-Japan tax treaty guide for individual investors. The best portfolio dividend rate in the US treaty network (10%), the 0% interest rate, NISA's tax-free treatment and its US-ETF access limits, and W-8BEN filing."
 pubDate: 2026-08-11
 updatedDate: 2026-08-10
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "us japan tax treaty"
@@ -29,7 +29,7 @@ schema:
   type: "article"
   headline: "US-Japan Tax Treaty Guide: 10% Dividend Rate (2026)"
   description: "The US-Japan tax treaty delivers the best portfolio dividend rate in the network: 10%. NISA's tax-free treatment, its US-ETF limits, and W-8BEN filing."
-  author: "Tzion S."
+  author: "Tzion Sigron"
   datePublished: "2026-08-10"
   dateModified: "2026-08-10"
   image: "/images/blog/taxes/us-japan-tax-treaty-investors.webp"

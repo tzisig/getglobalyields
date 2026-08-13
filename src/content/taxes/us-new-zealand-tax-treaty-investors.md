@@ -4,7 +4,7 @@ title: "US-New Zealand Tax Treaty: The FIF Rules Explained (2026)"
 description: "New Zealand has no general capital gains tax - but US stocks over NZD 50,000 fall under the FIF rules, which can tax 5% of your portfolio's opening value every year regardless of actual performance. The 15% treaty dividend rate and what to know before assuming NZ stocks are tax-free."
 pubDate: 2026-08-05
 updatedDate: 2026-08-05
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "us new zealand tax treaty"
@@ -29,7 +29,7 @@ schema:
   type: "article"
   headline: "US-New Zealand Tax Treaty: The FIF Rules Explained (2026)"
   description: "New Zealand has no general capital gains tax, but FIF rules can tax 5% of your US portfolio's opening value yearly above NZD 50,000, regardless of returns."
-  author: "Tzion S."
+  author: "Tzion Sigron"
   datePublished: "2026-08-05"
   dateModified: "2026-08-05"
   image: "/images/blog/taxes/us-new-zealand-tax-treaty-investors.webp"

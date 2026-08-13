@@ -4,7 +4,7 @@ title: "US-Estonia Tax Treaty for Investors: The Investment Account Trap (2026)"
 description: "US-Estonia tax treaty guide for individual investors. The 15% dividend rate, and why the popular investeerimiskonto tax-deferral account may not credit US withholding at withdrawal - a real double-taxation risk on US stocks specifically."
 pubDate: 2026-08-04
 updatedDate: 2026-08-04
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "us estonia tax treaty"
@@ -29,7 +29,7 @@ schema:
   type: "article"
   headline: "US-Estonia Tax Treaty: The Investment Account Trap (2026)"
   description: "The US-Estonia tax treaty caps dividend withholding at 15%. Why the investeerimiskonto tax-deferral account may not credit that withholding at withdrawal."
-  author: "Tzion S."
+  author: "Tzion Sigron"
   datePublished: "2026-08-04"
   dateModified: "2026-08-04"
   image: "/images/blog/taxes/us-estonia-tax-treaty-investors.webp"

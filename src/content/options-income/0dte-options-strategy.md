@@ -4,7 +4,7 @@ title: "0DTE Options Strategy: High Risk, High Reward (2026 Guide)"
 description: "0DTE options strategy explained. How same-day expiration options work, the main strategies, real risk data, and what international investors need to know."
 pubDate: 2026-05-23
 updatedDate: 2026-05-23
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Options Income"]
 tags:
   - "0DTE options strategy"

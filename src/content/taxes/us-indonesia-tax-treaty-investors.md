@@ -4,7 +4,7 @@ title: "US-Indonesia Tax Treaty for Investors: The Complete 2026 Guide"
 description: "US-Indonesia tax treaty guide for individual investors. The 15% portfolio dividend rate, how Indonesia taxes worldwide income for residents, and Interactive Brokers/eToro access for Indonesian residents."
 pubDate: 2026-08-06
 updatedDate: 2026-08-06
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "us indonesia tax treaty"
@@ -29,7 +29,7 @@ schema:
   type: "article"
   headline: "US-Indonesia Tax Treaty Guide for Investors: 15% Rate (2026)"
   description: "The US-Indonesia tax treaty caps dividend withholding at 15% for individuals. How Indonesia taxes worldwide income, plus IBKR and eToro access details."
-  author: "Tzion S."
+  author: "Tzion Sigron"
   datePublished: "2026-08-06"
   dateModified: "2026-08-06"
   image: "/images/blog/taxes/us-indonesia-tax-treaty-investors.webp"

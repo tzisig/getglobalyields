@@ -4,7 +4,7 @@ title: "US-Paraguay Tax Treaty for Investors: 0% on Foreign Dividends and Gains 
 description: "Paraguay investor guide to US stock taxation. No US-Paraguay tax treaty exists, so full 30% US dividend withholding applies. Paraguay doesn't tax foreign dividends or foreign asset gains at all for tax residents - a real driver of its residency marketing."
 pubDate: 2026-11-02
 updatedDate: 2026-08-31
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "us paraguay tax treaty"
@@ -29,7 +29,7 @@ schema:
   type: "article"
   headline: "US-Paraguay Tax Treaty: 0% on Foreign Dividends and Gains (2026)"
   description: "There's no US-Paraguay tax treaty, so full 30% US dividend withholding applies. Paraguay doesn't tax foreign dividends or foreign asset gains at all for tax residents."
-  author: "Tzion S."
+  author: "Tzion Sigron"
   datePublished: "2026-08-31"
   dateModified: "2026-08-31"
   image: "/images/blog/taxes/us-paraguay-tax-treaty-investors.webp"

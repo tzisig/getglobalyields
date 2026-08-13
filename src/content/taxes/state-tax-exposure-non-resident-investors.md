@@ -4,7 +4,7 @@ title: "State Tax Exposure for Non-Resident Investors (2026)"
 description: "Federal tax gets all the attention, but non-US investors sometimes worry a broker's state of registration - New York for many, Illinois for Interactive Brokers - creates a separate state tax obligation. Generally it doesn't, and here's the actual dividing line."
 pubDate: 2026-09-22
 updatedDate: 2026-08-05
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "state tax non-resident alien investor"
@@ -27,7 +27,7 @@ schema:
   type: "article"
   headline: "State Tax Exposure for Non-Resident Investors (2026)"
   description: "Does your broker's state of registration create a state tax obligation? Generally no - the dividing line is your own presence or property in that state."
-  author: "Tzion S."
+  author: "Tzion Sigron"
   datePublished: "2026-08-05"
   dateModified: "2026-08-05"
   image: "/images/blog/taxes/state-tax-exposure-non-resident-investors.webp"

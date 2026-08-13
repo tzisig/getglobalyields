@@ -4,7 +4,7 @@ title: "Best Brokers for GCC and Gulf Investors (2026)"
 description: "Interactive Brokers, eToro, Saxo, and XTB serve UAE and Saudi Arabia with direct US stock and ETF access - no PRIIPs restriction, no treaty setup needed."
 pubDate: 2026-09-27
 updatedDate: 2026-08-06
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Best Brokers"]
 tags:
   - "best brokers Gulf investors"

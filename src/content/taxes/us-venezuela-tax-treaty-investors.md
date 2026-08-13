@@ -4,7 +4,7 @@ title: "US-Venezuela Tax Treaty for Investors: A Treaty That Still Exists (2026)
 description: "Venezuela investor guide to US stock taxation. The US-Venezuela tax treaty caps dividends at 15% and remains formally active - but targeted OFAC sanctions and a fast-changing post-Maduro political situation make practical broker access genuinely uncertain."
 pubDate: 2026-11-05
 updatedDate: 2026-09-02
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "us venezuela tax treaty"
@@ -29,7 +29,7 @@ schema:
   type: "article"
   headline: "US-Venezuela Tax Treaty: A Treaty That Still Exists (2026)"
   description: "The US-Venezuela tax treaty caps dividends at 15% and remains formally active - but targeted OFAC sanctions and a fast-changing political situation affect practical access."
-  author: "Tzion S."
+  author: "Tzion Sigron"
   datePublished: "2026-09-02"
   dateModified: "2026-09-02"
   image: "/images/blog/taxes/us-venezuela-tax-treaty-investors.webp"

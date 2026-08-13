@@ -4,7 +4,7 @@ title: "US-Bahrain Tax Treaty for Investors: No Treaty, No FX Risk (2026)"
 description: "Bahrain investor guide to US stock taxation. No US-Bahrain tax treaty exists, so full 30% US dividend withholding applies - but Bahrain charges 0% personal tax, and its dinar's 1980 USD peg means near-zero currency risk funding a US brokerage account."
 pubDate: 2026-08-04
 updatedDate: 2026-08-04
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "us bahrain tax treaty"
@@ -29,7 +29,7 @@ schema:
   type: "article"
   headline: "US-Bahrain Tax Treaty: No Treaty, No FX Risk (2026)"
   description: "No US-Bahrain tax treaty means full 30% dividend withholding. Bahrain charges 0% personal tax, and its 1980 USD peg means near-zero currency risk."
-  author: "Tzion S."
+  author: "Tzion Sigron"
   datePublished: "2026-08-04"
   dateModified: "2026-08-04"
   image: "/images/blog/taxes/us-bahrain-tax-treaty-investors.webp"

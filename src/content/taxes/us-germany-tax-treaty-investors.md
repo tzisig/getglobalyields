@@ -4,7 +4,7 @@ title: "US-Germany Tax Treaty for Investors: The Complete 2026 Guide"
 description: "US-Germany tax treaty for investors. Dividend withholding rates, W-8BEN filing, Abgeltungsteuer interaction, and UCITS vs US ETF tax treatment explained."
 pubDate: 2026-05-24
 updatedDate: 2026-08-04
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "us germany tax treaty"
@@ -34,7 +34,7 @@ schema:
   type: "article"
   headline: "US-Germany Tax Treaty (Double Taxation Agreement) 2026"
   description: "The US-Germany tax treaty (double taxation agreement) for German investors. Reduce US dividend withholding to 15% via Form W-8BEN."
-  author: "Tzion S."
+  author: "Tzion Sigron"
   datePublished: "2026-05-24"
   dateModified: "2026-08-04"
   image: "/images/blog/taxes/us-germany-tax-treaty-investors.webp"

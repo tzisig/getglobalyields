@@ -4,7 +4,7 @@ title: "Life Insurance for Immigrants and Green Card Holders"
 description: "A green card holder is taxed like a citizen - and underwritten for life insurance almost like one too. A visa holder is a genuinely different, harder case."
 pubDate: 2026-10-26
 updatedDate: 2026-08-07
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Insurance & Cross-Border Planning"]
 tags:
   - "life insurance for immigrants"

@@ -4,7 +4,7 @@ title: "VTI Total Market ETF Review for International Investors"
 description: "VTI tracks the entire US market - roughly 3,500-4,000 companies, not just the S&P 500's 500. What that broader exposure changes, and the overlap with VOO."
 pubDate: 2026-10-13
 updatedDate: 2026-08-06
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Index Funds & ETFs"]
 tags:
   - "VTI review international investors"

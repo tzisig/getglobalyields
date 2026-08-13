@@ -4,7 +4,7 @@ title: "Wise Multi-Currency Account for International Investors"
 description: "The personal Wise account is free, holds 40+ currencies, and pays interest on idle USD in some countries. Costs to move money, use the card, and beat idle cash."
 pubDate: 2026-10-25
 updatedDate: 2026-08-07
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Currency & Cross-Border Banking"]
 tags:
   - "Wise multi currency account"

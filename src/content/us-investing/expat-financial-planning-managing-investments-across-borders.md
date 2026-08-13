@@ -4,7 +4,7 @@ title: "Expat Financial Planning: US Investing from Abroad (2026)"
 description: "Financial planning for expats investing in US markets. Broker selection, tax treaties, W-8BEN, currency risk, and cross-border account structures explained."
 pubDate: 2026-05-20
 updatedDate: 2026-05-20
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["US Investing"]
 tags:
   - "expat financial planning"

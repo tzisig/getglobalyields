@@ -4,7 +4,7 @@ title: "Do You Need a US Bank Account to Invest in US Stocks?"
 description: "No - the vast majority of international investors buy US stocks without ever opening a US bank account. What a US brokerage account actually requires, why a genuine US bank account is difficult to open as a non-resident anyway, and the narrow cases where one genuinely helps."
 pubDate: 2026-10-19
 updatedDate: 2026-08-06
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Currency & Cross-Border Banking"]
 tags:
   - "US bank account to invest"

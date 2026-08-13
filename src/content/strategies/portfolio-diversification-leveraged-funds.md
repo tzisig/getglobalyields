@@ -4,7 +4,7 @@ title: "Portfolio Diversification with Leveraged ETFs: The 3x Guide"
 description: "How to build a diversified portfolio using leveraged ETFs. The 3x approach to balancing risk and reward for international investors."
 pubDate: 2026-04-01
 updatedDate: 2026-04-01
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Strategies"]
 tags:
   - "diversification"

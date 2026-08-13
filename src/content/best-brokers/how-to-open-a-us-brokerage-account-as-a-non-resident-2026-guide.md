@@ -4,7 +4,7 @@ title: "How to Open a US Brokerage Account as a Non-Resident (2026)"
 description: "Step-by-step guide to opening a US brokerage account from abroad. Required documents, W-8BEN, which brokers accept non-residents, and common pitfalls."
 pubDate: 2026-04-01
 updatedDate: 2026-05-12
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Best Brokers"]
 tags:
   - "open brokerage account"

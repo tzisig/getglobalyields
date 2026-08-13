@@ -4,7 +4,7 @@ title: "High-Yield Options Strategies for International Investors"
 description: "High-yield options strategies for non-US investors. Covered calls, cash-secured puts, and the Wheel on TQQQ - yields, broker requirements, and tax treatment."
 pubDate: 2026-05-23
 updatedDate: 2026-05-23
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Options Income"]
 tags:
   - "high yield options strategies"

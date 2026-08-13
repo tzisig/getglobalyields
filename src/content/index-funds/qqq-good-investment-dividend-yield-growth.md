@@ -4,7 +4,7 @@ title: "Is QQQ a Good Investment? What the Low Yield Means"
 description: "QQQ's dividend yield sits under 0.5%, unimpressive next to broad-market funds. But it's compounded at a double-digit rate for a decade - a different story."
 pubDate: 2026-10-22
 updatedDate: 2026-08-06
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Index Funds & ETFs"]
 tags:
   - "is QQQ a good investment"

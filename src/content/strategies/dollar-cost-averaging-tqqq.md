@@ -4,7 +4,7 @@ title: "Dollar-Cost Averaging TQQQ: Strategy Guide for 2026"
 description: "How to DCA into TQQQ as a non-US investor. Entry timing, position sizing, volatility decay impact, and when DCA works - and when it doesn't - on a 3x ETF."
 pubDate: 2026-05-24
 updatedDate: 2026-05-24
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Strategies"]
 tags:
   - "TQQQ DCA"

@@ -4,7 +4,7 @@ title: "US-Czech Republic Tax Treaty for Investors: The Complete 2026 Guide"
 description: "US-Czech Republic tax treaty guide for individual investors. Withholding rates on dividends, the 3-year capital gains exemption (unlimited from 2026), W-8BEN filing, and how Czech tax law interacts with US rules explained."
 pubDate: 2026-06-16
 updatedDate: 2026-08-04
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "US Czech Republic tax treaty 2026"
@@ -32,7 +32,7 @@ schema:
   type: "article"
   headline: "US-Czech Republic Tax Treaty for Investors (2026)"
   description: "How the US-Czech Republic tax treaty affects Czech residents investing in US markets. The 15% dividend rate, W-8BEN, and the 3-year capital gains exemption."
-  author: "Tzion S."
+  author: "Tzion Sigron"
   datePublished: "2026-06-16"
   dateModified: "2026-08-04"
   image: "/images/blog/taxes/us-czech-republic-tax-treaty.webp"

@@ -4,7 +4,7 @@ title: "US-Switzerland Tax Treaty for Investors: The Cantonal Wealth Tax (2026)"
 description: "US-Switzerland tax treaty guide for individual investors. The 15% dividend rate, and why Switzerland's cantonal wealth tax on net worldwide assets can cost 5x more or less depending purely on which canton you live in."
 pubDate: 2026-11-10
 updatedDate: 2026-09-07
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "us switzerland tax treaty"
@@ -29,7 +29,7 @@ schema:
   type: "article"
   headline: "US-Switzerland Tax Treaty: The Cantonal Wealth Tax (2026)"
   description: "How the US-Switzerland tax treaty caps dividend withholding at 15%. Why Switzerland's cantonal wealth tax on net worldwide assets, including US stocks, varies up to 5x by canton."
-  author: "Tzion S."
+  author: "Tzion Sigron"
   datePublished: "2026-09-07"
   dateModified: "2026-09-07"
   image: "/images/blog/taxes/us-switzerland-tax-treaty-investors.webp"

@@ -4,7 +4,7 @@ title: "Should You Hedge USD Exposure as an International Investor?"
 description: "Buying US stocks means taking on USD currency exposure alongside market exposure, whether you notice it or not. Hedging tools exist - but for most long-term individual investors, the honest answer is that hedging usually isn't worth it. The mechanics, the cost, and the narrow cases where it earns its keep."
 pubDate: 2026-10-19
 updatedDate: 2026-08-06
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Currency & Cross-Border Banking"]
 tags:
   - "hedge USD exposure"

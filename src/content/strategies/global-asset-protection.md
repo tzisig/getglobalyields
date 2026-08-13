@@ -4,7 +4,7 @@ title: "Global Asset Protection for International Investors"
 description: "How non-US investors can protect assets across borders. Covers broker safety, account structures, and legal considerations for international portfolios."
 pubDate: 2026-04-01
 updatedDate: 2026-05-25
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Strategies"]
 tags:
   - "global asset protection 2026"

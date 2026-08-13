@@ -4,7 +4,7 @@ title: "MSTR vs MARA vs RIOT: Different Bitcoin Proxy Stocks"
 description: "MicroStrategy, Marathon, and Riot get lumped together as bitcoin proxies, but they're structurally different bets. MSTR's premium flipped to a discount in 2026."
 pubDate: 2027-01-01
 updatedDate: 2026-08-06
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Crypto & Digital Assets"]
 tags:
   - "MSTR stock"

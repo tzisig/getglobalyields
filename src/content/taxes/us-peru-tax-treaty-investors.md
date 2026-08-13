@@ -4,7 +4,7 @@ title: "US-Peru Tax Treaty for Investors: No Treaty, Progressive Rates (2026)"
 description: "Peru investor guide to US stock taxation. There's no US-Peru tax treaty, so full 30% US dividend withholding applies. Peru taxes foreign dividends and capital gains as ordinary income at progressive rates up to 30%."
 pubDate: 2026-11-04
 updatedDate: 2026-09-01
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "us peru tax treaty"
@@ -29,7 +29,7 @@ schema:
   type: "article"
   headline: "US-Peru Tax Treaty: No Treaty, Progressive Rates to 30% (2026)"
   description: "There's no US-Peru tax treaty, so full 30% US dividend withholding applies. Peru taxes foreign dividends and capital gains as ordinary income at progressive rates up to 30%."
-  author: "Tzion S."
+  author: "Tzion Sigron"
   datePublished: "2026-09-01"
   dateModified: "2026-09-01"
   image: "/images/blog/taxes/us-peru-tax-treaty-investors.webp"

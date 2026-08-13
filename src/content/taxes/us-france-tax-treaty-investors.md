@@ -4,7 +4,7 @@ title: "US-France Tax Treaty for Investors: The Complete 2026 Guide"
 description: "US-France tax treaty guide for individual investors. The 15% dividend withholding rate, why the PEA can't hold direct US stocks, the 30% PFU flat tax, and Interactive Brokers/eToro access for French residents."
 pubDate: 2026-08-10
 updatedDate: 2026-08-09
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "us france tax treaty"
@@ -29,7 +29,7 @@ schema:
   type: "article"
   headline: "US-France Tax Treaty: The PEA Can't Hold US Stocks (2026)"
   description: "The US-France tax treaty caps dividend withholding at 15%. Why the PEA excludes direct US stocks, the 30% PFU flat tax, and IBKR/eToro access."
-  author: "Tzion S."
+  author: "Tzion Sigron"
   datePublished: "2026-08-09"
   dateModified: "2026-08-09"
   image: "/images/blog/taxes/us-france-tax-treaty-investors.webp"

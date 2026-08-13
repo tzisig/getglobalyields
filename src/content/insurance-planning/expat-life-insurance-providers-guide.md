@@ -4,7 +4,7 @@ title: "Expat Life Insurance: Providers, Coverage, and Costs"
 description: "A handful of Isle of Man insurers - RL360, Friends Provident, Zurich, Utmost - write most expat life insurance. Coverage limits, rates, and claims traps."
 pubDate: 2026-10-28
 updatedDate: 2026-08-07
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Insurance & Cross-Border Planning"]
 tags:
   - "expat life insurance"

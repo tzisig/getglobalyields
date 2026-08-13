@@ -4,7 +4,7 @@ title: "US-Cameroon Tax Treaty for Investors: The Euro-Pegged Franc (2026)"
 description: "Cameroon investor guide to US stock taxation. No US-Cameroon tax treaty exists, so full 30% US dividend withholding applies. Cameroon taxes worldwide dividends and capital gains at a flat 16.5%, and the CFA franc is pegged to the euro, not the dollar."
 pubDate: 2026-08-05
 updatedDate: 2026-08-05
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "us cameroon tax treaty"
@@ -29,7 +29,7 @@ schema:
   type: "article"
   headline: "US-Cameroon Tax Treaty: The Euro-Pegged Franc (2026)"
   description: "No US-Cameroon tax treaty means full 30% dividend withholding. Cameroon taxes worldwide dividends and gains at 16.5%; the CFA franc is pegged to the euro."
-  author: "Tzion S."
+  author: "Tzion Sigron"
   datePublished: "2026-08-05"
   dateModified: "2026-08-05"
   image: "/images/blog/taxes/us-cameroon-tax-treaty-investors.webp"

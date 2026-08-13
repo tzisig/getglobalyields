@@ -4,7 +4,7 @@ title: "Wise Business Account for International Investors"
 description: "Wise Business gives non-US residents a real US routing number without a US bank account. Costs, the IBKR integration, and the name-mismatch trap."
 pubDate: 2026-10-25
 updatedDate: 2026-08-07
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Currency & Cross-Border Banking"]
 tags:
   - "Wise business account"

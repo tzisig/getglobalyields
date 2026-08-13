@@ -4,7 +4,7 @@ title: "How to Invest in US Stocks from Turkey (2026 Guide)"
 description: "How to invest in US stocks from Turkey: broker options, W-8BEN, the real 20% treaty rate (not the commonly cited 15%), and currency tracking - for 2026."
 pubDate: 2026-09-07
 updatedDate: 2026-08-05
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["US Investing"]
 tags:
   - "invest in US stocks from Turkey"

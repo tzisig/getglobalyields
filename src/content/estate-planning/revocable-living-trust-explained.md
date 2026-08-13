@@ -4,7 +4,7 @@ title: "Revocable Living Trust Explained for Foreign Investors"
 description: "A revocable living trust avoids probate - not estate tax or creditor protection, despite the marketing. Setup costs, vs a will, and the tax gray area."
 pubDate: 2026-10-26
 updatedDate: 2026-08-07
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Estate Planning"]
 tags:
   - "revocable living trust"

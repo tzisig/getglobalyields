@@ -4,7 +4,7 @@ title: "Cash-Secured Puts on High-IV Stocks (2026 Guide)"
 description: "How to sell cash-secured puts in high IV environments. Strike selection, premium targets, assignment management, and risk controls for TQQQ options traders."
 pubDate: 2026-05-23
 updatedDate: 2026-05-23
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Options Income"]
 tags:
   - "cash secured puts"

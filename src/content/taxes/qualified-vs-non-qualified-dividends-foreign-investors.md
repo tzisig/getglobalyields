@@ -4,7 +4,7 @@ title: "Qualified vs Non-Qualified Dividends: Why This US Concept Doesn't Apply 
 description: "American investors care a great deal about whether a dividend is qualified or non-qualified - it determines their tax rate. For non-US investors, this distinction is almost entirely irrelevant. Here's why, and what actually determines your rate instead."
 pubDate: 2026-09-20
 updatedDate: 2026-08-05
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "qualified vs non-qualified dividends"
@@ -27,7 +27,7 @@ schema:
   type: "article"
   headline: "Qualified vs Non-Qualified Dividends for Foreign Investors (2026)"
   description: "The qualified/non-qualified dividend distinction that matters so much to US taxpayers is almost entirely irrelevant for non-US investors. Here's why, and what determines your rate instead."
-  author: "Tzion S."
+  author: "Tzion Sigron"
   datePublished: "2026-08-05"
   dateModified: "2026-08-05"
   image: "/images/blog/taxes/qualified-vs-non-qualified-dividends.webp"

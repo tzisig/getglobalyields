@@ -4,7 +4,7 @@ title: "US-Romania Tax Treaty for Investors: The 2026 Rate Change (2026)"
 description: "US-Romania tax treaty guide for individual investors. The 10% US dividend withholding rate, and Romania's own domestic dividend tax rising to 16% in 2026 (up from 8% in 2024) - what that means for US dividends received by Romanian residents."
 pubDate: 2026-11-08
 updatedDate: 2026-09-03
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "us romania tax treaty"
@@ -29,7 +29,7 @@ schema:
   type: "article"
   headline: "US-Romania Tax Treaty: The 2026 Dividend Rate Change (2026)"
   description: "The US-Romania tax treaty caps dividend withholding at 10%. Romania's own domestic dividend tax rose to 16% in 2026, up from 8% two years earlier - what that means for US dividends."
-  author: "Tzion S."
+  author: "Tzion Sigron"
   datePublished: "2026-09-03"
   dateModified: "2026-09-03"
   image: "/images/blog/taxes/us-romania-tax-treaty-investors.webp"

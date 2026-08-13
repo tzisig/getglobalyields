@@ -4,7 +4,7 @@ title: "US-Ethiopia Tax Treaty for Investors: After the Birr Float (2026)"
 description: "Ethiopia investor guide to US stock taxation. No US-Ethiopia tax treaty exists, so full 30% US dividend withholding applies. The 2024 birr float ended decades of currency controls, and Ethiopia's capital gains rate on shares has conflicting sourcing worth disclosing."
 pubDate: 2026-08-09
 updatedDate: 2026-08-09
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "us ethiopia tax treaty"
@@ -29,7 +29,7 @@ schema:
   type: "article"
   headline: "US-Ethiopia Tax Treaty: After the Birr Float (2026)"
   description: "No US-Ethiopia tax treaty means full 30% dividend withholding. The 2024 birr float ended decades of currency controls, and capital gains rules conflict."
-  author: "Tzion S."
+  author: "Tzion Sigron"
   datePublished: "2026-08-09"
   dateModified: "2026-08-09"
   image: "/images/blog/taxes/us-ethiopia-tax-treaty-investors.webp"

@@ -4,7 +4,7 @@ title: "Currency Risk vs Market Risk: Two Separate Things Stacked Together"
 description: "An international investor's total return depends on two genuinely independent variables - what the investment does, and what the currency does. Confusing the two leads to misreading your own results and drawing the wrong lesson from a good or bad year. How to actually decompose and think about each separately."
 pubDate: 2026-08-23
 updatedDate: 2026-08-06
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Currency & Cross-Border Banking"]
 tags:
   - "currency risk vs market risk"

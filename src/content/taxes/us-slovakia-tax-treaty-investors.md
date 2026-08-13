@@ -4,7 +4,7 @@ title: "US-Slovakia Tax Treaty for Investors: The 1-Year Exemption (2026)"
 description: "US-Slovakia tax treaty guide for individual investors. The 15% dividend rate, the low 7% domestic dividend tax, and why holding NYSE/NASDAQ-listed US stocks for more than a year can make the capital gain fully tax-exempt in Slovakia."
 pubDate: 2026-11-08
 updatedDate: 2026-09-06
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "us slovakia tax treaty"
@@ -29,7 +29,7 @@ schema:
   type: "article"
   headline: "US-Slovakia Tax Treaty: The 1-Year Exemption Explained (2026)"
   description: "How the US-Slovakia tax treaty caps dividend withholding at 15%. Why holding NYSE/NASDAQ stocks over a year can make the gain fully exempt from Slovak tax."
-  author: "Tzion S."
+  author: "Tzion Sigron"
   datePublished: "2026-09-06"
   dateModified: "2026-09-06"
   image: "/images/blog/taxes/us-slovakia-tax-treaty-investors.webp"

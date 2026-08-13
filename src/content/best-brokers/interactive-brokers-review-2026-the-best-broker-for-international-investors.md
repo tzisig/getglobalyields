@@ -4,7 +4,7 @@ title: "Interactive Brokers Review 2026: Best for Non-US Investors"
 description: "Honest IBKR review for non-US investors. Covers fees, account opening, options access, FX rates, W-8BEN handling, and who IBKR is and isn't right for."
 pubDate: 2026-04-05
 updatedDate: 2026-05-12
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Best Brokers"]
 tags:
   - "interactive brokers"

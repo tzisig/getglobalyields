@@ -4,7 +4,7 @@ title: "Multi-Currency Investment Accounts Guide"
 description: "How to manage currency exposure when investing in US markets from abroad. Multi-currency brokers, FX costs, hedging options, and account structures compared."
 pubDate: 2026-05-24
 updatedDate: 2026-05-24
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["US Investing"]
 tags:
   - "multi-currency investment account"

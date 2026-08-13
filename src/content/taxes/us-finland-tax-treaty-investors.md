@@ -4,7 +4,7 @@ title: "US-Finland Tax Treaty for Investors: The 30%/34% Split (2026)"
 description: "US-Finland tax treaty guide for individual investors. The 15% dividend rate, and how Finland's two-tier capital income tax (30% up to EUR 30,000, 34% above) applies to combined dividends and capital gains from US stocks."
 pubDate: 2026-08-06
 updatedDate: 2026-08-06
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "us finland tax treaty"
@@ -29,7 +29,7 @@ schema:
   type: "article"
   headline: "US-Finland Tax Treaty: 30%/34% Capital Income Split (2026)"
   description: "The US-Finland tax treaty caps dividend withholding at 15%. Finland's two-tier capital income tax runs 30% up to EUR 30,000, then 34% above that."
-  author: "Tzion S."
+  author: "Tzion Sigron"
   datePublished: "2026-08-06"
   dateModified: "2026-08-06"
   image: "/images/blog/taxes/us-finland-tax-treaty-investors.webp"

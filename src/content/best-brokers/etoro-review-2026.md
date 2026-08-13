@@ -4,7 +4,7 @@ title: "eToro Review 2026: Is It Right for International Investors?"
 description: "eToro reviewed for non-US investors: fees, copy trading, crypto access, withdrawal costs, and why experienced investors may want a more advanced broker."
 pubDate: 2026-05-19
 updatedDate: 2026-05-18
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Brokers"]
 tags:
   - "etoro review 2026"

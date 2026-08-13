@@ -4,7 +4,7 @@ title: "How to Invest in US Stocks from Israel: Step-by-Step (2026)"
 description: "How to invest in US stocks from Israel in 2026. Best brokers, W-8BEN setup, tax treaty benefits, capital gains rules, and step-by-step account opening guide."
 pubDate: 2026-04-01
 updatedDate: 2026-05-12
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["US Investing"]
 tags:
   - "israel"

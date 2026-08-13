@@ -4,7 +4,7 @@ title: "US-Chile Tax Treaty for Investors: New Since 2024 (2026 Guide)"
 description: "The US-Chile tax treaty only entered into force December 19, 2023, after decades of delay - effective for withholding since February 1, 2024. The 15% dividend rate, pension fund exemption, and Interactive Brokers/eToro access for Chilean residents."
 pubDate: 2026-09-07
 updatedDate: 2026-08-12
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "us chile tax treaty"
@@ -29,7 +29,7 @@ schema:
   type: "article"
   headline: "US-Chile Tax Treaty: New Since 2024, 15% Rate Explained (2026)"
   description: "The US-Chile tax treaty entered into force December 19, 2023 after decades of delay. The 15% dividend rate, pension fund exemption, and IBKR/eToro access for Chilean residents."
-  author: "Tzion S."
+  author: "Tzion Sigron"
   datePublished: "2026-08-12"
   dateModified: "2026-08-12"
   image: "/images/blog/taxes/us-chile-tax-treaty-investors.webp"

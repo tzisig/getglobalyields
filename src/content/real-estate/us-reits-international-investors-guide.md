@@ -4,7 +4,7 @@ title: "US REITs for International Investors: Access and Tax"
 description: "REITs add US property exposure through the same brokerage account used for stocks - but REIT dividends are taxed differently than ordinary equity dividends."
 pubDate: 2027-01-01
 updatedDate: 2026-08-06
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Real Estate & REITs"]
 tags:
   - "US REITs for international investors"

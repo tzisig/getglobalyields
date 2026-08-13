@@ -4,7 +4,7 @@ title: "US-Sri Lanka Tax Treaty for Investors: The New 15% CGT Rate (2026)"
 description: "US-Sri Lanka tax treaty guide for individual investors. The flat 15% dividend rate, a fresh June 2026 capital gains tax hike from 10% to 15%, and the Outward Investment Account mechanism for funding a foreign brokerage account."
 pubDate: 2026-09-27
 updatedDate: 2026-08-20
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "us sri lanka tax treaty"
@@ -29,7 +29,7 @@ schema:
   type: "article"
   headline: "US-Sri Lanka Tax Treaty: The New 15% CGT Rate (2026)"
   description: "The US-Sri Lanka tax treaty caps dividend withholding at 15%. Sri Lanka just raised its capital gains tax for individuals from 10% to 15% in June 2026."
-  author: "Tzion S."
+  author: "Tzion Sigron"
   datePublished: "2026-08-20"
   dateModified: "2026-08-20"
   image: "/images/blog/taxes/us-sri-lanka-tax-treaty-investors.webp"

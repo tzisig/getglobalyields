@@ -4,7 +4,7 @@ title: "TQQQ Options Chain Analysis: Reading IV and Greeks"
 description: "How to read the TQQQ options chain. IV rank, bid-ask spreads, open interest, strike selection, and what to look for before entering a covered call or put."
 pubDate: 2026-05-24
 updatedDate: 2026-05-24
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Options Income"]
 tags:
   - "TQQQ options chain"

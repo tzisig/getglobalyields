@@ -4,7 +4,7 @@ title: "US-Turkey Tax Treaty for Investors: The Complete 2026 Guide"
 description: "US-Turkey tax treaty guide for individual investors. The 20% portfolio dividend rate (not 15%, a figure often cited incorrectly), how Turkish residents are taxed on foreign investment income, and Interactive Brokers/eToro access."
 pubDate: 2026-11-10
 updatedDate: 2026-09-08
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "us turkey tax treaty"
@@ -29,7 +29,7 @@ schema:
   type: "article"
   headline: "US-Turkey Tax Treaty Guide: The 20% Rate Explained (2026)"
   description: "The US-Turkey tax treaty caps individual dividend withholding at 20%, not the 15% often cited. How Turkish residents are taxed on foreign investment income, and IBKR/eToro access."
-  author: "Tzion S."
+  author: "Tzion Sigron"
   datePublished: "2026-09-08"
   dateModified: "2026-09-08"
   image: "/images/blog/taxes/us-turkey-tax-treaty-investors.webp"

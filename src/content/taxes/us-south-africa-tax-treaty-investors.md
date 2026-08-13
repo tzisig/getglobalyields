@@ -4,7 +4,7 @@ title: "US-South Africa Tax Treaty for Investors: The Complete 2026 Guide"
 description: "US-South Africa tax treaty guide for individual investors. The 15% dividend withholding rate, the R10 million Foreign Investment Allowance, SARS capital gains inclusion rate, and Interactive Brokers/eToro access for South African residents."
 pubDate: 2026-09-23
 updatedDate: 2026-08-19
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "us south africa tax treaty"
@@ -29,7 +29,7 @@ schema:
   type: "article"
   headline: "US-South Africa Tax Treaty Guide for Investors (2026)"
   description: "How the US-South Africa tax treaty caps dividend withholding at 15%. The R10 million Foreign Investment Allowance, SARS capital gains rules, and IBKR/eToro access covered."
-  author: "Tzion S."
+  author: "Tzion Sigron"
   datePublished: "2026-08-19"
   dateModified: "2026-08-19"
   image: "/images/blog/taxes/us-south-africa-tax-treaty-investors.webp"

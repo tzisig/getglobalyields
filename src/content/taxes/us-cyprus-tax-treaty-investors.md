@@ -4,7 +4,7 @@ title: "US-Cyprus Tax Treaty for Investors: The Non-Dom 0% Story (2026)"
 description: "US-Cyprus tax treaty guide for individual investors. The 15% dividend rate, Cyprus's 0% capital gains tax on shares, and how non-domiciled tax residency can bring dividend and interest tax to 0% for up to 17 years."
 pubDate: 2026-09-13
 updatedDate: 2026-08-16
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "us cyprus tax treaty"
@@ -29,7 +29,7 @@ schema:
   type: "article"
   headline: "US-Cyprus Tax Treaty: The Non-Dom 0% Story (2026)"
   description: "How the US-Cyprus tax treaty caps dividend withholding at 15%. Cyprus's 0% capital gains tax on shares and how non-dom status can bring dividend tax to 0% for 17 years."
-  author: "Tzion S."
+  author: "Tzion Sigron"
   datePublished: "2026-08-16"
   dateModified: "2026-08-16"
   image: "/images/blog/taxes/us-cyprus-tax-treaty-investors.webp"

@@ -113,7 +113,7 @@ title:
 description:
 pubDate:
 updatedDate:
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 keywords:
 tags:
@@ -134,7 +134,7 @@ schema:
   type: "article"
   headline:
   description:
-  author: "Tzion S."
+  author: "Tzion Sigron"
   datePublished:
   dateModified:
   image: ".webp"

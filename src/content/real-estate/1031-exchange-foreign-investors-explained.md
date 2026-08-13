@@ -4,7 +4,7 @@ title: "1031 Exchanges for Foreign Investors and FIRPTA"
 description: "A non-resident alien can do a 1031 exchange just like a US investor. The catch: an ITIN and IRS withholding certificate before the 45-day clock runs out."
 pubDate: 2026-10-23
 updatedDate: 2026-08-07
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Real Estate & REITs"]
 tags:
   - "1031 exchange"

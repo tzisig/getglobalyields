@@ -4,7 +4,7 @@ title: "How to Invest in US Stocks from Morocco (2026 Guide)"
 description: "How to invest in US stocks from Morocco: broker options, W-8BEN, the 15% treaty rate, why foreign capital gains are taxed at 20%, and self-declaring dividends."
 pubDate: 2026-09-14
 updatedDate: 2026-08-05
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["US Investing"]
 tags:
   - "invest in US stocks from Morocco"

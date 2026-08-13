@@ -4,7 +4,7 @@ title: "US Estate Tax Treaty Countries: Which Offer Relief"
 description: "The US has estate tax treaties with far fewer countries than income tax treaties - about 16-18. Being listed can beat the $60,000 exemption."
 pubDate: 2026-10-11
 updatedDate: 2026-08-06
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Estate Planning"]
 tags:
   - "US estate tax treaty countries list"

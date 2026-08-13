@@ -4,7 +4,7 @@ title: "US-Oman Tax Treaty for Investors: The 2028 Deadline (2026)"
 description: "Oman investor guide to US stock taxation. No US-Oman tax treaty exists, so full 30% US dividend withholding applies. Oman becomes the first GCC country with a personal income tax on January 1, 2028 - and it will cover your US dividends and capital gains."
 pubDate: 2026-08-12
 updatedDate: 2026-08-10
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "us oman tax treaty"
@@ -29,7 +29,7 @@ schema:
   type: "article"
   headline: "US-Oman Tax Treaty: The 2028 Personal Income Tax Deadline (2026)"
   description: "There's no US-Oman tax treaty, so full 30% US dividend withholding applies. Oman becomes the first GCC country with a personal income tax on January 1, 2028."
-  author: "Tzion S."
+  author: "Tzion Sigron"
   datePublished: "2026-08-10"
   dateModified: "2026-08-10"
   image: "/images/blog/taxes/us-oman-tax-treaty-investors.webp"

@@ -4,7 +4,7 @@ title: "Options Level Approval: What International Investors Need at IBKR and Ot
 description: "Before you can sell your first covered call or cash-secured put, your broker needs to approve you for the right options trading level. What that process actually looks like for a non-US account, why higher levels aren't automatically better, and what to do if your application is initially declined."
 pubDate: 2026-10-06
 updatedDate: 2026-08-06
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Options Income"]
 tags:
   - "options trading level approval"

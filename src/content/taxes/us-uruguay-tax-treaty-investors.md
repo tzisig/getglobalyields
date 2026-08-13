@@ -4,7 +4,7 @@ title: "US-Uruguay Tax Treaty for Investors: The 2026 Capital Gains Change (2026
 description: "Uruguay investor guide to US stock taxation. No US-Uruguay tax treaty exists, so full 30% US dividend withholding applies. A 2026 reform newly brings foreign capital gains from selling US stocks into Uruguay's 12% IRPF for the first time."
 pubDate: 2026-11-04
 updatedDate: 2026-09-02
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "us uruguay tax treaty"
@@ -29,7 +29,7 @@ schema:
   type: "article"
   headline: "US-Uruguay Tax Treaty: The 2026 Capital Gains Change (2026)"
   description: "There's no US-Uruguay tax treaty, so full 30% US dividend withholding applies. A 2026 reform newly brings foreign capital gains from US stocks into Uruguay's 12% IRPF."
-  author: "Tzion S."
+  author: "Tzion Sigron"
   datePublished: "2026-09-02"
   dateModified: "2026-09-02"
   image: "/images/blog/taxes/us-uruguay-tax-treaty-investors.webp"

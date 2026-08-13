@@ -4,7 +4,7 @@ title: "IBKR vs Charles Schwab International vs Fidelity: Which Actually Works f
 description: "IBKR, Schwab, and Fidelity aren't equally accessible internationally - Fidelity is far more restrictive than its reputation suggests. Who each broker serves."
 pubDate: 2026-09-24
 updatedDate: 2026-08-06
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Best Brokers"]
 tags:
   - "IBKR vs Schwab vs Fidelity"

@@ -4,7 +4,7 @@ title: "Do Foreign Investors Need US Estimated Tax Payments? (2026)"
 description: "US taxpayers with investment income sometimes owe quarterly estimated tax. For most non-US investors holding a passive US brokerage account, the answer is no - here's why withholding already covers it, and the narrow cases where it doesn't."
 pubDate: 2026-09-21
 updatedDate: 2026-08-05
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "estimated tax payments foreign investors"
@@ -27,7 +27,7 @@ schema:
   type: "article"
   headline: "Do Foreign Investors Need US Estimated Tax Payments? (2026)"
   description: "Most non-US investors with a passive US brokerage account never need quarterly estimated tax payments - withholding covers it. The narrow exceptions explained."
-  author: "Tzion S."
+  author: "Tzion Sigron"
   datePublished: "2026-08-05"
   dateModified: "2026-08-05"
   image: "/images/blog/taxes/estimated-tax-payments-foreign-investors.webp"

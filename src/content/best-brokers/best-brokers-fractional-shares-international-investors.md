@@ -4,7 +4,7 @@ title: "Best Brokers for Fractional Shares as an International Investor (2026)"
 description: "Fractional shares let international investors build a diversified US portfolio without thousands per position: how IBKR, eToro, and XTB implement it."
 pubDate: 2026-09-24
 updatedDate: 2026-08-06
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Best Brokers"]
 tags:
   - "fractional shares broker international investors"

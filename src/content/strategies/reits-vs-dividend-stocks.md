@@ -4,7 +4,7 @@ title: "REITs vs Dividend Stocks: Best for Passive Income in 2026?"
 description: "REITs vs dividend stocks for international investors. Yield, withholding tax treatment, volatility, and which fits a non-US income portfolio better in 2026."
 pubDate: 2026-05-30
 updatedDate: 2026-05-30
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Strategies"]
 tags:
   - "REITs vs dividend stocks"

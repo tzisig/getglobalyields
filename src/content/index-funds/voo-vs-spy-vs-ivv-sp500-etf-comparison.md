@@ -4,7 +4,7 @@ title: "VOO vs SPY vs IVV: Which S&P 500 ETF for International Investors"
 description: "VOO, SPY, and IVV all track the identical S&P 500 index. The real differences are cost, structure, and liquidity - and for an international investor, one of these differences matters more than the others. A full comparison with worked cost math."
 pubDate: 2026-08-19
 updatedDate: 2026-08-06
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Index Funds & ETFs"]
 tags:
   - "VOO vs SPY vs IVV"

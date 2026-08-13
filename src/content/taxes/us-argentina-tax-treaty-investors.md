@@ -4,7 +4,7 @@ title: "Investing in US Stocks from Argentina: No Treaty, Currency Matters (2026
 description: "There is no US-Argentina tax treaty, so the default 30% US withholding applies to dividends. How Argentina taxes capital gains on foreign-currency securities at 15%, and Interactive Brokers/eToro access for Argentine residents."
 pubDate: 2026-08-05
 updatedDate: 2026-08-05
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "us argentina tax treaty"
@@ -29,7 +29,7 @@ schema:
   type: "article"
   headline: "Interactive Brokers Argentina: US Stock Tax Guide (2026)"
   description: "No US-Argentina tax treaty means 30% dividend withholding, no reduction. How Argentina taxes foreign-currency capital gains at 15%, plus IBKR/eToro access."
-  author: "Tzion S."
+  author: "Tzion Sigron"
   datePublished: "2026-08-05"
   dateModified: "2026-08-05"
   image: "/images/blog/taxes/us-argentina-tax-treaty-investors.webp"

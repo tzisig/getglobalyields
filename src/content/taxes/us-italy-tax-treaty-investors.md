@@ -4,7 +4,7 @@ title: "US-Italy Tax Treaty for Investors: IVAFE and Quadro RW Explained (2026)"
 description: "US-Italy tax treaty guide for individual investors. The 15% dividend rate, Italy's flat 26% imposta sostitutiva on dividends and capital gains, the IVAFE wealth tax on foreign accounts, and mandatory Quadro RW reporting from the first euro."
 pubDate: 2026-10-06
 updatedDate: 2026-08-25
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "us italy tax treaty"
@@ -29,7 +29,7 @@ schema:
   type: "article"
   headline: "US-Italy Tax Treaty: IVAFE and Quadro RW Explained (2026)"
   description: "How the US-Italy tax treaty caps dividend withholding at 15%. Italy's 26% flat tax on dividends and gains, the IVAFE wealth tax, and Quadro RW reporting from the first euro."
-  author: "Tzion S."
+  author: "Tzion Sigron"
   datePublished: "2026-08-25"
   dateModified: "2026-08-25"
   image: "/images/blog/taxes/us-italy-tax-treaty-investors.webp"

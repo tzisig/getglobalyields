@@ -4,7 +4,7 @@ title: "US-Russia Tax Treaty: Suspended Status and What It Means (2026)"
 description: "The US-Russia tax treaty's core provisions have been suspended since August 16, 2024, and US brokerage access for Russian residents is not realistically available under current sanctions. What the treaty covered, what's suspended, and where things stand in 2026."
 pubDate: 2026-08-04
 updatedDate: 2026-08-04
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "us russia tax treaty"
@@ -28,7 +28,7 @@ schema:
   type: "article"
   headline: "US-Russia Tax Treaty: Suspended Since 2024, Current Status"
   description: "The US-Russia tax treaty was suspended in August 2024. Why US brokerage access for Russian residents isn't realistically available, and what changed."
-  author: "Tzion S."
+  author: "Tzion Sigron"
   datePublished: "2026-08-04"
   dateModified: "2026-08-04"
   image: "/images/blog/taxes/us-russia-tax-treaty-investors.webp"

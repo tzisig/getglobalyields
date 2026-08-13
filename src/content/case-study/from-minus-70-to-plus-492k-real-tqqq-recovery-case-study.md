@@ -3,7 +3,7 @@ slug: "from-minus-70-to-plus-492k-real-tqqq-recovery-case-study"
 title: "From -72% to +250%: Real TQQQ Recovery Case Study"
 description: "Real TQQQ case study: -72% drawdown to +250% recovery. Full breakdown with numbers, the Wheel Strategy used, mistakes made, and current portfolio status."
 pubDate: 2026-04-17
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["case-study"]
 keywords: "TQQQ Recovery Case Study, TQQQ Wheel Strategy Real Results, TQQQ Drawdown Recovery, TQQQ Covered Calls Strategy, Leveraged ETF Recovery, Options Income TQQQ, Investing In TQQQ From Abroad, case-study, From -72 to 250 Real TQQQ Recovery Case Study, 72% to +250%, Real TQQQ Recovery Case Study, TQQQ"
 tags:

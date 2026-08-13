@@ -4,7 +4,7 @@ title: "US-Guatemala Tax Treaty for Investors: Territorial Tax, Stable Quetzal (
 description: "Guatemala investor guide to US stock taxation. No US-Guatemala tax treaty exists, so full 30% US dividend withholding applies. Guatemala's territorial system exempts foreign dividends and gains, and the quetzal is one of Latin America's most stable currencies."
 pubDate: 2026-10-06
 updatedDate: 2026-08-25
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "us guatemala tax treaty"
@@ -29,7 +29,7 @@ schema:
   type: "article"
   headline: "US-Guatemala Tax Treaty: Territorial Tax, Stable Quetzal (2026)"
   description: "There's no US-Guatemala tax treaty, so full 30% US dividend withholding applies. Guatemala's territorial system exempts foreign income, and the quetzal is unusually stable."
-  author: "Tzion S."
+  author: "Tzion Sigron"
   datePublished: "2026-08-25"
   dateModified: "2026-08-25"
   image: "/images/blog/taxes/us-guatemala-tax-treaty-investors.webp"

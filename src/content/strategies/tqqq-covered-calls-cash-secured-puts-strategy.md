@@ -4,7 +4,7 @@ title: "TQQQ Covered Calls & Cash-Secured Puts Strategy Guide"
 description: "How to run covered calls and cash-secured puts on TQQQ. Strike selection, premium targets, rolling rules, and risk management for non-US options traders."
 pubDate: 2026-05-30
 updatedDate: 2026-05-30
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Strategies"]
 tags:
   - "TQQQ covered calls"

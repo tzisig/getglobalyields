@@ -4,7 +4,7 @@ title: "QQQ vs SPY: Nasdaq-100 vs S&P 500 Compared"
 description: "QQQ and SPY aren't two flavors of the same trade. QQQ's top 10 holdings are near half the fund, financials excluded - real concentration numbers and overlap."
 pubDate: 2026-10-21
 updatedDate: 2026-08-06
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Index Funds & ETFs"]
 tags:
   - "QQQ vs SPY"

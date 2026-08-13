@@ -4,7 +4,7 @@ title: "US-Belgium Tax Treaty for Investors: The Complete 2026 Guide"
 description: "US-Belgium tax treaty guide for individual investors. Dividend withholding rates, Belgium's new 10% capital gains tax and its August 31, 2026 opt-out deadline, the 833 euro dividend exemption, précompte mobilier, and W-8BEN filing."
 pubDate: 2026-06-01
 updatedDate: 2026-08-04
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "US Belgium tax treaty 2026"
@@ -32,7 +32,7 @@ schema:
   type: "article"
   headline: "US-Belgium Tax Treaty Guide for Belgian Investors (2026)"
   description: "How the US-Belgium tax treaty and 2026 capital gains tax affect Belgian investors - the August 31 opt-out deadline, W-8BEN, and précompte mobilier."
-  author: "Tzion S."
+  author: "Tzion Sigron"
   datePublished: "2026-06-01"
   dateModified: "2026-08-04"
   image: "/images/blog/taxes/us-belgium-tax-treaty.webp"

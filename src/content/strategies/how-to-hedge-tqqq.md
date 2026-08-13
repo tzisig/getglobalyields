@@ -4,7 +4,7 @@ title: "How to Hedge a TQQQ Position: A Realistic Guide"
 description: "The real cost of hedging TQQQ - protective puts, collars, SQQQ, and position sizing. What works, what doesn't, and the math most guides skip."
 pubDate: 2026-05-25
 updatedDate: 2026-05-25
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Strategies"]
 keywords:   "Hedge TQQQ, TQQQ Protective Put, TQQQ Collar, TQQQ SQQQ Hedge, TQQQ risk management, Leveraged ETF Hedge, TQQQ Position Sizing, Strategies, How to Hedge a TQQQ Position A Realistic Guide, A Realistic Guide, TQQQ, QQQ"
 tags:

@@ -4,7 +4,7 @@ title: "Tastytrade Review 2026: Options Broker for Non-US Investors"
 description: "Tastytrade reviewed for international investors. Flat-fee options, powerful analytics, and who qualifies for an account outside the US."
 pubDate: 2026-05-23
 updatedDate: 2026-05-23
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Best-Brokers"]
 tags:
   - "tastytrade review 2026"

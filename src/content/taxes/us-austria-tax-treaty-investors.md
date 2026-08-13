@@ -4,7 +4,7 @@ title: "US-Austria Tax Treaty: Complete Guide for Investors (2026)"
 description: "How the US-Austria tax treaty affects Austrian investors - withholding rates, REIT treatment, Pensionskasse benefits, and W-8BEN filing."
 pubDate: 2026-05-31
 updatedDate: 2026-08-04
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "US Austria tax treaty 2026"

@@ -4,7 +4,7 @@ title: "US-Bolivia Tax Treaty for Investors: After the 2026 Devaluation (2026)"
 description: "Bolivia investor guide to US stock taxation. No general US-Bolivia tax treaty exists, so full 30% US dividend withholding applies. Bolivia abandoned its 15-year fixed exchange rate in June 2026, devaluing the boliviano roughly 30% after years of dollar shortages."
 pubDate: 2026-08-09
 updatedDate: 2026-08-09
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "us bolivia tax treaty"
@@ -29,7 +29,7 @@ schema:
   type: "article"
   headline: "US-Bolivia Tax Treaty: After the 2026 Devaluation (2026)"
   description: "No US-Bolivia tax treaty means full 30% US withholding. Bolivia abandoned its 15-year fixed exchange rate in June 2026, devaluing the boliviano ~30%."
-  author: "Tzion S."
+  author: "Tzion Sigron"
   datePublished: "2026-08-09"
   dateModified: "2026-08-09"
   image: "/images/blog/taxes/us-bolivia-tax-treaty-investors.webp"

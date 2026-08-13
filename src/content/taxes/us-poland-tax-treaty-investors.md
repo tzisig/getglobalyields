@@ -4,7 +4,7 @@ title: "US-Poland Tax Treaty for Investors: The Complete 2026 Guide"
 description: "US-Poland tax treaty guide for individual investors. The 15% dividend withholding rate, the 19% Belka tax on top, and Interactive Brokers/eToro access for Polish residents."
 pubDate: 2026-11-05
 updatedDate: 2026-09-03
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "us poland tax treaty"
@@ -29,7 +29,7 @@ schema:
   type: "article"
   headline: "US-Poland Tax Treaty Guide for Investors: 15% + Belka Tax (2026)"
   description: "How the US-Poland tax treaty caps dividend withholding at 15%, and how Poland's 19% Belka tax applies on top with a credit. Interactive Brokers/eToro access for Polish residents."
-  author: "Tzion S."
+  author: "Tzion Sigron"
   datePublished: "2026-09-03"
   dateModified: "2026-09-03"
   image: "/images/blog/taxes/us-poland-tax-treaty-investors.webp"

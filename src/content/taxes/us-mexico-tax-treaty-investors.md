@@ -4,7 +4,7 @@ title: "US-Mexico Tax Treaty for Investors: The Complete 2026 Guide"
 description: "US-Mexico tax treaty guide for individual investors. The 10% portfolio dividend rate, why US stock gains don't get Mexico's preferential BMV rate, self-assessment with foreign brokers, and Interactive Brokers/eToro access."
 pubDate: 2026-10-08
 updatedDate: 2026-08-26
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "us mexico tax treaty"
@@ -29,7 +29,7 @@ schema:
   type: "article"
   headline: "US-Mexico Tax Treaty Guide for Investors: 10% Dividend Rate (2026)"
   description: "How the US-Mexico tax treaty caps dividend withholding at 10% for individuals. Why US stock capital gains don't get Mexico's preferential BMV rate, and IBKR/eToro access."
-  author: "Tzion S."
+  author: "Tzion Sigron"
   datePublished: "2026-08-26"
   dateModified: "2026-08-26"
   image: "/images/blog/taxes/us-mexico-tax-treaty-investors.webp"

@@ -4,7 +4,7 @@ title: "Delaware Statutory Trusts (DSTs) for 1031 Exchanges"
 description: "A DST lets an investor exit property management while still qualifying as 1031 replacement property. Costs, the accredited-investor bar, and non-US eligibility."
 pubDate: 2026-10-24
 updatedDate: 2026-08-07
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Real Estate & REITs"]
 tags:
   - "Delaware statutory trust"

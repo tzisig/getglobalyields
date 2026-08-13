@@ -4,7 +4,7 @@ title: "XTB Review 2026: Zero Commission, ETF Plans & Hidden FX Fee"
 description: "XTB reviewed for international investors in 2026. Zero-commission stocks, automated ETF plans, and the FX fee that reduces real returns - full breakdown."
 pubDate: 2026-06-03
 updatedDate: 2026-06-03
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Best-Brokers"]
 tags:
   - "XTB review 2026"

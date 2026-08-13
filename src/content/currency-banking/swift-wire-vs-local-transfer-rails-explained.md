@@ -4,7 +4,7 @@ title: "SWIFT Wire vs Local Transfer Rails: How International Money Movement Act
 description: "SWIFT wires, local payment rails, and services like Wise move money internationally through genuinely different mechanisms - with different speed, cost, and transparency trade-offs. What's actually happening mechanically when you send money to a US broker, and how to choose between the options."
 pubDate: 2026-10-20
 updatedDate: 2026-08-06
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Currency & Cross-Border Banking"]
 tags:
   - "SWIFT wire vs local transfer"

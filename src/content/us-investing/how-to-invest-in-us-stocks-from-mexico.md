@@ -4,7 +4,7 @@ title: "How to Invest in US Stocks from Mexico (2026 Guide)"
 description: "How to invest in US stocks from Mexico: broker options, W-8BEN, the 10% treaty dividend rate, and why the BMV's capital gains rate doesn't apply."
 pubDate: 2026-08-11
 updatedDate: 2026-08-05
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["US Investing"]
 tags:
   - "invest in US stocks from Mexico"

@@ -4,7 +4,7 @@ title: "US-Morocco Tax Treaty for Investors: The 20% Foreign-Securities Rate (20
 description: "US-Morocco tax treaty guide for individual investors. The 15% dividend rate, why Morocco taxes gains on US stocks at 20% instead of the 15% domestic-listed rate, and the self-declaration requirement for foreign dividends."
 pubDate: 2026-09-14
 updatedDate: 2026-08-16
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "us morocco tax treaty"
@@ -29,7 +29,7 @@ schema:
   type: "article"
   headline: "US-Morocco Tax Treaty: The 20% Foreign-Securities Rate (2026)"
   description: "How the US-Morocco tax treaty caps dividend withholding at 15%. Why Morocco taxes gains on US stocks at 20%, not the 15% rate that applies to Casablanca-listed shares."
-  author: "Tzion S."
+  author: "Tzion Sigron"
   datePublished: "2026-08-16"
   dateModified: "2026-08-16"
   image: "/images/blog/taxes/us-morocco-tax-treaty-investors.webp"

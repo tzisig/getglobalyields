@@ -4,7 +4,7 @@ title: "Tax Treaty Tie-Breaker Rules: What Happens If Two Countries Both Claim Y
 description: "If you split time between two countries, moved mid-year, or work remotely from abroad, you may qualify as a tax resident of both under domestic law. Tie-breaker rules in Article 4 of most US tax treaties resolve which country actually gets to tax you."
 pubDate: 2026-09-16
 updatedDate: 2026-08-05
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "tax treaty tie-breaker rules"
@@ -27,7 +27,7 @@ schema:
   type: "article"
   headline: "Tax Treaty Tie-Breaker Rules Explained (2026)"
   description: "If two countries both claim you as a tax resident, Article 4 tie-breaker rules decide which one wins. Permanent home, center of vital interests, habitual abode, and nationality, in order."
-  author: "Tzion S."
+  author: "Tzion Sigron"
   datePublished: "2026-08-05"
   dateModified: "2026-08-05"
   image: "/images/blog/taxes/tax-treaty-tie-breaker-rules.webp"

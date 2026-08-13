@@ -4,7 +4,7 @@ title: "How to Invest in US Stocks from Malaysia (2026 Guide)"
 description: "How to invest in US stocks from Malaysia: broker options, W-8BEN, the 15% treaty rate, and the FSI exemption that can mean zero extra Malaysian tax - for 2026."
 pubDate: 2026-09-06
 updatedDate: 2026-08-05
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["US Investing"]
 tags:
   - "invest in US stocks from Malaysia"

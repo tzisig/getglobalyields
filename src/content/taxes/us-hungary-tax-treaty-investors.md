@@ -4,7 +4,7 @@ title: "US-Hungary Tax Treaty for Investors: Why It No Longer Exists (2026)"
 description: "Hungary investor guide to US stock taxation after the US terminated the US-Hungary tax treaty effective January 1, 2024. Full 30% US dividend withholding, Hungary's flat 15% PIT plus 13% Szocho, and why W-8BEN still matters even without a treaty."
 pubDate: 2026-09-20
 updatedDate: 2026-08-18
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "us hungary tax treaty"
@@ -29,7 +29,7 @@ schema:
   type: "article"
   headline: "US-Hungary Tax Treaty: Terminated Since 2024 - What It Means (2026)"
   description: "The US terminated its tax treaty with Hungary effective January 1, 2024. Full 30% US dividend withholding now applies, on top of Hungary's flat 15% PIT and 13% Szocho."
-  author: "Tzion S."
+  author: "Tzion Sigron"
   datePublished: "2026-08-18"
   dateModified: "2026-08-18"
   image: "/images/blog/taxes/us-hungary-tax-treaty-investors.webp"

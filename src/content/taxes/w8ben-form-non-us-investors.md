@@ -4,7 +4,7 @@ title: "W-8BEN Form: Complete Guide for International Investors"
 description: "How to complete and file Form W-8BEN to reduce US withholding tax from 30% to treaty rates. Common mistakes, renewal rules, and broker-specific instructions."
 pubDate: 2026-04-01
 updatedDate: 2026-08-04
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "w-8ben form"
@@ -31,7 +31,7 @@ schema:
   type: "article"
   headline: "W-8BEN Form Explained (2026)"
   description: "Complete guide to W-8BEN for international investors"
-  author: "Tzion S."
+  author: "Tzion Sigron"
   datePublished: "2026-04-01"
   dateModified: "2026-08-04"
   image: "/public/images/blog/taxes/w-8ben-form-guide.webp"

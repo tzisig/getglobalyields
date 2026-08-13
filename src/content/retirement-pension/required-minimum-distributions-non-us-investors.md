@@ -4,7 +4,7 @@ title: "Required Minimum Distributions: Do They Apply to Non-US Investors?"
 description: "RMDs apply to Traditional IRA, 401(k), and similar US retirement accounts starting at age 73-75 - and they follow the account, not your citizenship or residency. If you have a legacy US retirement account from working in the US, RMDs still apply even after you've left, with a worked example of how the calculation and penalty actually work."
 pubDate: 2026-10-01
 updatedDate: 2026-08-06
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Retirement & Pension"]
 tags:
   - "required minimum distributions non-US investors"

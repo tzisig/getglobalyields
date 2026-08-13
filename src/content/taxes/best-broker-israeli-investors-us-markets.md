@@ -4,7 +4,7 @@ title: "Interactive Brokers Israel vs Saxo vs eToro: Best Broker for US Markets 
 description: "Compare Interactive Brokers, Saxo Bank, and eToro for Israeli investors trading US stocks, ETFs, and options. FX costs, the 25% dividend withholding rate, and options access."
 pubDate: 2026-04-01
 updatedDate: 2026-08-04
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "interactive brokers israel"
@@ -32,7 +32,7 @@ schema:
   type: "article"
   headline: "Interactive Brokers Israel vs Saxo vs eToro (2026)"
   description: "Compare Interactive Brokers (IBKR), Saxo Bank, and eToro for Israeli investors trading US markets. FX conversion rates, the 25% dividend withholding rate, and options access."
-  author: "Tzion S."
+  author: "Tzion Sigron"
   datePublished: "2026-04-01"
   dateModified: "2026-08-04"
   image: "/images/blog/taxes/best-broker-israeli-investors-us-markets.webp"

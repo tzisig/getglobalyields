@@ -4,7 +4,7 @@ title: "Interactive Brokers Singapore: US Stock Tax Guide for Singaporeans (2026
 description: "There is no US-Singapore tax treaty, so 30% US dividend withholding applies with no reduction. But Singapore has no capital gains tax and generally doesn't tax foreign dividends - here's the full picture, plus why IBKR doesn't support CPF or SRS funds."
 pubDate: 2026-09-16
 updatedDate: 2026-08-17
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "ibkr singapore"
@@ -29,7 +29,7 @@ schema:
   type: "article"
   headline: "Interactive Brokers Singapore: US Stock Tax Guide (2026)"
   description: "No US-Singapore tax treaty means 30% US dividend withholding with no reduction. But Singapore has no capital gains tax. IBKR account access, SRS/CPF limits, and W-8BEN covered."
-  author: "Tzion S."
+  author: "Tzion Sigron"
   datePublished: "2026-08-17"
   dateModified: "2026-08-17"
   image: "/images/blog/taxes/us-singapore-tax-treaty-investors.webp"

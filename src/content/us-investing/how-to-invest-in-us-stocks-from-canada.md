@@ -4,7 +4,7 @@ title: "How to Invest in US Stocks from Canada (2026 Guide)"
 description: "How to invest in US stocks from Canada: broker options, US-Canada treaty withholding, RRSP treatment of dividends, and PFIC rules for Canadians."
 pubDate: 2026-05-24
 updatedDate: 2026-05-24
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["US Investing"]
 tags:
   - "how to invest in us stocks from canada"

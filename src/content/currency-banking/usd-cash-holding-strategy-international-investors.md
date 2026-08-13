@@ -4,7 +4,7 @@ title: "Should You Hold USD Cash Between Trades? A Strategy Guide"
 description: "Converting home currency to USD, then back, on every trade cycle adds up in FX costs. Holding a USD cash buffer avoids repeat conversions - but introduces its own currency exposure. The actual trade-off, worked through with real numbers."
 pubDate: 2026-08-19
 updatedDate: 2026-08-06
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Currency & Cross-Border Banking"]
 tags:
   - "USD cash holding strategy"

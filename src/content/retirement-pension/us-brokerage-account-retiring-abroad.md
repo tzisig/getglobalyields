@@ -4,7 +4,7 @@ title: "Your US Brokerage Account When You Retire Abroad"
 description: "Retiring abroad doesn't mean closing your brokerage account - but it does mean confirming your broker serves your new country and updating tax documents."
 pubDate: 2026-09-29
 updatedDate: 2026-08-06
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Retirement & Pension"]
 tags:
   - "US brokerage account retiring abroad"

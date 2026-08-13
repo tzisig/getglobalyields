@@ -4,7 +4,7 @@ title: "US-Ukraine Tax Treaty for Investors: Dividends vs. Gains Gap (2026)"
 description: "US-Ukraine tax treaty guide for individual investors. The 15% dividend rate, and why Ukraine taxes foreign dividends at 14% combined but capital gains from securities at 23% combined under the wartime military levy."
 pubDate: 2026-11-10
 updatedDate: 2026-09-08
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "us ukraine tax treaty"
@@ -29,7 +29,7 @@ schema:
   type: "article"
   headline: "US-Ukraine Tax Treaty: The Dividends-vs-Gains Tax Gap (2026)"
   description: "How the US-Ukraine tax treaty caps dividend withholding at 15%. Why Ukraine taxes foreign dividends at 14% combined but capital gains from securities at 23%."
-  author: "Tzion S."
+  author: "Tzion Sigron"
   datePublished: "2026-09-08"
   dateModified: "2026-09-08"
   image: "/images/blog/taxes/us-ukraine-tax-treaty-investors.webp"

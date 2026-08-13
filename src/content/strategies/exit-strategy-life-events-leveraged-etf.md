@@ -4,7 +4,7 @@ title: "Exit Strategy Planning: De-Risking a Leveraged ETF Position for a Major 
 description: "Technical exit signals like moving averages answer 'when should I sell based on price action.' This is a different question: how to plan de-risking a TQQQ position around a known, dated life event - a home purchase, a career change, retirement - regardless of what the chart is doing, including the currency and cross-border relocation angles."
 pubDate: 2026-11-03
 updatedDate: 2026-08-06
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Strategies"]
 tags:
   - "TQQQ exit strategy life event"

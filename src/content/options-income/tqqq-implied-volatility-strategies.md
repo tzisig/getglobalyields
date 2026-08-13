@@ -4,7 +4,7 @@ title: "TQQQ Implied Volatility Strategies for Options Traders"
 description: "TQQQ implied volatility strategies for options traders. IV rank, strike selection, expiration choice, and position sizing for non-US options income traders."
 pubDate: 2026-05-24
 updatedDate: 2026-05-24
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Options Income"]
 tags:
   - "TQQQ implied volatility"

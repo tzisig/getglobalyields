@@ -4,7 +4,7 @@ title: "US-Egypt Tax Treaty: Complete Guide for Investors (2026)"
 description: "How the US-Egypt tax treaty affects Egyptian residents: dividend withholding rates, capital gains treatment, and W-8BEN filing for US stock investors."
 pubDate: 2026-07-06
 updatedDate: 2026-08-04
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "US Egypt tax treaty 2026"

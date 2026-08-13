@@ -4,7 +4,7 @@ title: "Compounding Returns with TQQQ: Math vs Reality (2026)"
 description: "How compounding works with TQQQ. The math behind 3x leverage compounding, volatility drag impact, and realistic long-term scenarios for non-US investors."
 pubDate: 2026-05-24
 updatedDate: 2026-05-24
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Strategies"]
 tags:
   - "TQQQ compounding returns"

@@ -4,7 +4,7 @@ title: "Investing in US Stocks from Uganda: Tax Rules and Broker Access (2026)"
 description: "There is no US-Uganda tax treaty, so the default 30% US withholding applies to dividends. What that means in practice, whether Interactive Brokers or eToro accept Ugandan residents, W-8BEN filing, Uganda's unilateral foreign tax credit, and PFIC risk."
 pubDate: 2026-06-28
 updatedDate: 2026-08-04
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "interactive brokers uganda"
@@ -30,7 +30,7 @@ schema:
   type: "article"
   headline: "Interactive Brokers Uganda: US Stock Tax Guide (2026)"
   description: "No US-Uganda tax treaty means 30% dividend withholding by default. Which brokers accept Ugandan residents, W-8BEN filing, and the foreign tax credit."
-  author: "Tzion S."
+  author: "Tzion Sigron"
   datePublished: "2026-06-28"
   dateModified: "2026-08-04"
   image: "/images/blog/taxes/us-uganda-tax-treaty-investors.webp"

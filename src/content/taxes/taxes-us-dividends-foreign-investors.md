@@ -4,7 +4,7 @@ title: "US Dividend Withholding Tax for Foreign Investors (2026)"
 description: "How the US taxes dividends paid to non-residents. The 30% default rate, treaty reductions, ETF vs stock treatment, and how to reclaim overwithholding."
 pubDate: 2026-05-24
 updatedDate: 2026-08-04
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "US dividend tax foreign investors"
@@ -34,7 +34,7 @@ schema:
   type: "article"
   headline: "US Dividend Withholding Tax for Foreign Investors (2026)"
   description: "Complete guide to US dividend withholding tax for non-US residents. Learn how to claim tax treaty reductions, avoid default 30% rate, and reclaim tax."
-  author: "Tzion S."
+  author: "Tzion Sigron"
   datePublished: "2026-05-24"
   dateModified: "2026-08-04"
   image: "/images/blog/taxes/taxes-us-dividends-foreign-investors.webp"

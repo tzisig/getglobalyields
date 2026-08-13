@@ -4,7 +4,7 @@ title: "US-India Tax Treaty for Investors: Resident, NRI, and DTAA Rules (2026)"
 description: "US-India tax treaty guide for investors. The 25% dividend withholding rate, why US stocks count as 'unlisted shares' for Indian capital gains, LRS limits for residents, NRI treatment, and Form 67 foreign tax credit filing."
 pubDate: 2026-08-04
 updatedDate: 2026-08-04
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "us india tax treaty"
@@ -30,7 +30,7 @@ schema:
   type: "article"
   headline: "US-India Tax Treaty: DTAA for Resident & NRI (2026)"
   description: "How the US-India tax treaty (DTAA) affects Indian residents and NRIs: the 25% dividend rate, LRS limits, and how India taxes US capital gains."
-  author: "Tzion S."
+  author: "Tzion Sigron"
   datePublished: "2026-08-04"
   dateModified: "2026-08-04"
   image: "/images/blog/taxes/us-india-tax-treaty-investors.webp"

@@ -4,7 +4,7 @@ title: "US-Bulgaria Tax Treaty for Investors: The Complete 2026 Guide"
 description: "US-Bulgaria tax treaty guide for individual investors. Withholding rates on dividends, interest, and capital gains, W-8BEN filing, the Art. 13 ZDDFL exemption dispute over US exchanges, and the full picture for Bulgarian residents investing in US stocks."
 pubDate: 2026-06-01
 updatedDate: 2026-08-04
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "US Bulgaria tax treaty 2026"
@@ -37,7 +37,7 @@ schema:
   type: "article"
   headline: "US-Bulgaria Tax Treaty Guide for Bulgarian Investors (2026)"
   description: "Complete guide to the US-Bulgaria tax treaty for investors. The 10% dividend withholding rate, W-8BEN, and the disputed Art. 13 exemption for US-listed shares."
-  author: "Tzion S."
+  author: "Tzion Sigron"
   datePublished: "2026-06-01"
   dateModified: "2026-08-04"
   image: "/images/blog/taxes/us-bulgaria-tax-treaty.webp"

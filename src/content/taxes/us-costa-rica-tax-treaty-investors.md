@@ -4,7 +4,7 @@ title: "US-Costa Rica Tax Treaty for Investors: The Colón's 2026 Surge (2026)"
 description: "Costa Rica investor guide to US stock taxation. No US-Costa Rica tax treaty exists, so full 30% US dividend withholding applies. Costa Rica's territorial system exempts foreign income, and the colón just hit decade highs against the dollar."
 pubDate: 2026-09-17
 updatedDate: 2026-08-18
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "us costa rica tax treaty"
@@ -29,7 +29,7 @@ schema:
   type: "article"
   headline: "US-Costa Rica Tax Treaty: The Colón's 2026 Surge (2026)"
   description: "There's no US-Costa Rica tax treaty, so full 30% US dividend withholding applies. Costa Rica's territorial system exempts foreign income, and the colón just hit decade highs."
-  author: "Tzion S."
+  author: "Tzion Sigron"
   datePublished: "2026-08-18"
   dateModified: "2026-08-18"
   image: "/images/blog/taxes/us-costa-rica-tax-treaty-investors.webp"

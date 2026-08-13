@@ -4,7 +4,7 @@ title: "Investing in US Stocks from Ghana: No Treaty, What to Expect (2026)"
 description: "There is no US-Ghana tax treaty, so the default 30% US withholding applies to dividends. How Ghana taxes foreign investment income and capital gains for residents, and Interactive Brokers/eToro access."
 pubDate: 2026-08-11
 updatedDate: 2026-08-10
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "us ghana tax treaty"
@@ -29,7 +29,7 @@ schema:
   type: "article"
   headline: "Interactive Brokers Ghana: US Stock Tax Guide (2026)"
   description: "No US-Ghana tax treaty means 30% US dividend withholding with no reduction. How Ghana taxes foreign investment income and capital gains, and IBKR/eToro access."
-  author: "Tzion S."
+  author: "Tzion Sigron"
   datePublished: "2026-08-10"
   dateModified: "2026-08-10"
   image: "/images/blog/taxes/us-ghana-tax-treaty-investors.webp"

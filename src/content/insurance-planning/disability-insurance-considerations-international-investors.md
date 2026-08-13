@@ -4,7 +4,7 @@ title: "Disability Insurance for International Investors: The Overlooked Coverag
 description: "Life insurance protects dependents if you die. Disability insurance protects your own income if you can't work - a genuinely more likely event over a working lifetime, and one that's harder to access across borders. What the coverage gap looks like and how to think about it."
 pubDate: 2027-01-01
 updatedDate: 2026-08-06
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Insurance & Cross-Border Planning"]
 tags:
   - "disability insurance international investors"

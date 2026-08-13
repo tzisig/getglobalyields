@@ -4,7 +4,7 @@ title: "US-Malaysia Tax Treaty for Investors: The FSI Exemption Explained (2026)
 description: "US-Malaysia tax treaty guide for individual investors. The 15% dividend rate, and how Malaysia's Foreign-Sourced Income exemption (extended to 2036) can mean US dividends and capital gains face no Malaysian tax at all when remitted."
 pubDate: 2026-09-06
 updatedDate: 2026-08-11
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "us malaysia tax treaty"
@@ -29,7 +29,7 @@ schema:
   type: "article"
   headline: "US-Malaysia Tax Treaty: FSI Exemption Explained (2026)"
   description: "How the US-Malaysia tax treaty caps dividend withholding at 15%. Malaysia's Foreign-Sourced Income exemption (extended to 2036) and what it means for US stock investors."
-  author: "Tzion S."
+  author: "Tzion Sigron"
   datePublished: "2026-08-11"
   dateModified: "2026-08-11"
   image: "/images/blog/taxes/us-malaysia-tax-treaty-investors.webp"

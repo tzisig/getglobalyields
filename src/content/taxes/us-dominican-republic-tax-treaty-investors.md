@@ -4,7 +4,7 @@ title: "US-Dominican Republic Tax Treaty for Investors: The 3-Year Clock (2026)"
 description: "Dominican Republic investor guide to US stock taxation. No US-DR tax treaty exists, so full 30% US dividend withholding applies. Foreign dividends and capital gains are exempt for new residents' first 3 years - then worldwide income taxation kicks in."
 pubDate: 2026-09-21
 updatedDate: 2026-08-19
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "us dominican republic tax treaty"
@@ -29,7 +29,7 @@ schema:
   type: "article"
   headline: "US-Dominican Republic Tax Treaty: The 3-Year Clock (2026)"
   description: "There's no US-Dominican Republic tax treaty, so full 30% US dividend withholding applies. Foreign dividends and capital gains are exempt for new residents' first 3 years."
-  author: "Tzion S."
+  author: "Tzion Sigron"
   datePublished: "2026-08-19"
   dateModified: "2026-08-19"
   image: "/images/blog/taxes/us-dominican-republic-tax-treaty-investors.webp"

@@ -4,7 +4,7 @@ title: "Best Robo-Advisors for International Investors (2026)"
 description: "Betterment and Wealthfront are largely closed to non-US residents. Interactive Advisors is the automated option that actually serves international clients."
 pubDate: 2026-09-28
 updatedDate: 2026-08-06
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Best Brokers"]
 tags:
   - "robo advisor international investors"

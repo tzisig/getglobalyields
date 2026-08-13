@@ -4,7 +4,7 @@ title: "US-Greece Tax Treaty for Investors: A 1950 Treaty's Limits (2026)"
 description: "The US-Greece tax treaty dates to 1950 and lacks the standard dividend-reduction provisions of modern US treaties. Sources genuinely disagree on the exact individual withholding rate - here's what's confirmed and what to verify directly."
 pubDate: 2026-09-03
 updatedDate: 2026-08-11
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "us greece tax treaty"
@@ -29,7 +29,7 @@ schema:
   type: "article"
   headline: "US-Greece Tax Treaty: A 1950 Treaty's Real Limits (2026)"
   description: "The US-Greece tax treaty dates to 1950 and lacks standard modern dividend provisions. What's confirmed, what sources disagree on, and how to verify your actual withholding rate."
-  author: "Tzion S."
+  author: "Tzion Sigron"
   datePublished: "2026-08-11"
   dateModified: "2026-08-11"
   image: "/images/blog/taxes/us-greece-tax-treaty-investors.webp"

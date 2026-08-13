@@ -4,7 +4,7 @@ title: "How to Build a $10K/Month Passive Income Portfolio in 2026"
 description: "How to build a $10K/month passive income portfolio. Capital requirements, instrument selection, tax mechanics, and bear market stress tests - done honestly."
 pubDate: 2026-05-24
 updatedDate: 2026-05-24
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Strategies"]
 tags:
   - "passive income portfolio 2026"

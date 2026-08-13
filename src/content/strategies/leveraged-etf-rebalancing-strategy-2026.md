@@ -4,7 +4,7 @@ title: "TQQQ Rebalancing Strategy: Timing and the Tax Trap"
 description: "A practical guide to rebalancing TQQQ and leveraged ETF portfolios: threshold bands, drift risk, and tax-efficient rebalancing strategy."
 pubDate: 2026-05-29
 updatedDate: 2026-05-29
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Strategies"]
 tags:
 - "TQQQ rebalancing strategy"

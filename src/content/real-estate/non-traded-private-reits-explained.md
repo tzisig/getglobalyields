@@ -4,7 +4,7 @@ title: "Non-Traded REITs Explained: BREIT's Redemption Freeze"
 description: "Non-traded REITs promise real estate exposure without stock market volatility - Blackstone's $70B BREIT capping withdrawals at 2%/month in 2022 shows the cost."
 pubDate: 2027-01-01
 updatedDate: 2026-08-06
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Real Estate & REITs"]
 tags:
   - "non traded REIT"

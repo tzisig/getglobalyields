@@ -4,7 +4,7 @@ title: "Invitation Homes vs American Homes 4 Rent: New Law"
 description: "INVH and AMH rent single-family houses at scale, though institutional ownership is smaller nationally than assumed. A 2026 law pushes both toward new builds."
 pubDate: 2027-01-01
 updatedDate: 2026-08-06
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Real Estate & REITs"]
 tags:
   - "INVH stock"

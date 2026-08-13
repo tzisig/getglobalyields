@@ -4,7 +4,7 @@ title: "Investing in US Stocks from Brazil: No Treaty, But a Real Tax Credit (20
 description: "There is no US-Brazil tax treaty, so the default 30% US withholding applies to dividends. But Brazil officially recognizes tax reciprocity with the US, meaning the withholding is still creditable. IOF rates, capital gains, and broker access covered."
 pubDate: 2026-09-03
 updatedDate: 2026-08-11
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "us brazil tax treaty"
@@ -29,7 +29,7 @@ schema:
   type: "article"
   headline: "US Brazil Tax Treaty: No Agreement, But a Real Tax Credit (2026)"
   description: "No US-Brazil tax treaty exists, so 30% US dividend withholding applies. But Brazil officially recognizes reciprocity with the US, so it's still creditable. IOF rates and capital gains covered."
-  author: "Tzion S."
+  author: "Tzion Sigron"
   datePublished: "2026-08-11"
   dateModified: "2026-08-11"
   image: "/images/blog/taxes/us-brazil-tax-treaty-investors.webp"

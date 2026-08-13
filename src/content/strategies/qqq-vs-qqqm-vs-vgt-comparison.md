@@ -4,7 +4,7 @@ title: "QQQ vs QQQM vs VGT: Choosing a Core Tech Holding (2026)"
 description: "QQQ, QQQM, and VGT all give heavy tech exposure but track different indexes at different costs. The real differences in expense ratio, holdings overlap, and liquidity - and which actually fits a long-term core position, with a worked cost comparison for international investors."
 pubDate: 2026-10-22
 updatedDate: 2026-08-06
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Strategies"]
 tags:
   - "QQQ vs QQQM vs VGT"

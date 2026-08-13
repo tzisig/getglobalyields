@@ -4,7 +4,7 @@ title: "US-Ireland Tax Treaty for Investors: Exit Tax vs CGT Explained (2026)"
 description: "US-Ireland tax treaty guide for individual investors. The 15% dividend rate, why direct US stocks and US-listed ETFs can avoid Ireland's 38% exit tax and 8-year deemed disposal rule that applies to Irish/EU funds, and Interactive Brokers access."
 pubDate: 2026-09-28
 updatedDate: 2026-08-23
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "us ireland tax treaty"
@@ -29,7 +29,7 @@ schema:
   type: "article"
   headline: "US-Ireland Tax Treaty: Exit Tax vs CGT for US Stocks (2026)"
   description: "How the US-Ireland tax treaty caps dividend withholding at 15%. Why direct US stocks and US-listed ETFs can avoid Ireland's 38% exit tax and 8-year deemed disposal rule."
-  author: "Tzion S."
+  author: "Tzion Sigron"
   datePublished: "2026-08-23"
   dateModified: "2026-08-23"
   image: "/images/blog/taxes/us-ireland-tax-treaty-investors.webp"

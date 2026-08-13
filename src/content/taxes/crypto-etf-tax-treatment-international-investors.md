@@ -4,7 +4,7 @@ title: "Spot Crypto ETF Tax Treatment for International Investors"
 description: "Spot Bitcoin and Ethereum ETFs like IBIT and FBTC are structured as grantor trusts, not regulated investment companies - a structural difference that changes how they're taxed compared to an ordinary equity ETF, including for non-US investors."
 pubDate: 2026-09-17
 updatedDate: 2026-08-05
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "crypto ETF tax foreign investors"
@@ -27,7 +27,7 @@ schema:
   type: "article"
   headline: "Spot Crypto ETF Tax Treatment for International Investors (2026)"
   description: "IBIT, FBTC, and GBTC are grantor trusts, not regulated investment companies - a structural difference that changes their tax treatment, including for non-US investors."
-  author: "Tzion S."
+  author: "Tzion Sigron"
   datePublished: "2026-08-05"
   dateModified: "2026-08-05"
   image: "/images/blog/taxes/crypto-etf-tax-treatment.webp"

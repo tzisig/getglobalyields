@@ -4,7 +4,7 @@ title: "US-Denmark Tax Treaty for Investors: The Complete 2026 Guide"
 description: "US-Denmark tax treaty guide for individual investors. Withholding rates on dividends, the aktiesparekonto PFIC trap for US citizens, the 0% pension fund rate, W-8BEN filing, and how Danish aktieindkomst tax interacts with US rules."
 pubDate: 2026-06-17
 updatedDate: 2026-08-04
-author: "Tzion S."
+author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
   - "US Denmark tax treaty 2026"
@@ -33,7 +33,7 @@ schema:
   type: "article"
   headline: "US-Denmark Tax Treaty Guide for Danish Investors (2026)"
   description: "How the US-Denmark tax treaty reduces dividend withholding from 30% to 15%, the aktiesparekonto PFIC trap, and claiming Danish tax credits."
-  author: "Tzion S."
+  author: "Tzion Sigron"
   datePublished: "2026-06-17"
   dateModified: "2026-08-04"
   image: "/images/blog/taxes/us-denmark-tax-treaty-investors.webp"
