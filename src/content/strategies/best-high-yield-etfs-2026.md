@@ -82,6 +82,48 @@ All returns are annualized total return (price + dividends reinvested) through M
 
 The gap column tells the real story: every income-focused ETF that has been through a full market cycle (SCHD, JEPI, QYLD) has lagged the S&P 500 on total return. The newer funds (JEPQ, SPYI, QQQI) show apparent outperformance that is partly an artifact of their 2022 launch timing. Income investors who choose these funds are explicitly accepting a likely total return drag in exchange for current cash flow - and that tradeoff should be made with open eyes.
 
+<div style="background:#0a192f;border-radius:16px;padding:24px 24px 20px;border:1px solid #233554;font-family:system-ui,-apple-system,sans-serif;">
+  <div style="margin-bottom:16px;">
+    <div style="color:#e2e8f0;font-size:18px;font-weight:600;letter-spacing:-0.3px;">JEPI vs SPYI: Key Metrics Compared</div>
+    <div style="color:#64748b;font-size:13px;margin-top:2px;">Yield, cost, and risk side by side - the numbers from the tables above, in one view</div>
+  </div>
+  <svg viewBox="0 0 640 280" style="width:100%;height:auto;">
+    <line x1="0" y1="220" x2="640" y2="220" stroke="#233554" stroke-width="1" />
+    <rect x="36" y="129" width="40" height="91" rx="4" fill="#5eb3d6" />
+    <text x="56" y="121" text-anchor="middle" fill="#5eb3d6" font-size="13" font-weight="700">8.3%</text>
+    <rect x="84" y="88" width="40" height="132" rx="4" fill="#D4B95A" />
+    <text x="104" y="80" text-anchor="middle" fill="#D4B95A" font-size="13" font-weight="700">12.1%</text>
+    <text x="80" y="238" text-anchor="middle" fill="#94a3b8" font-size="12">Current</text>
+    <text x="80" y="254" text-anchor="middle" fill="#94a3b8" font-size="12">Yield</text>
+    <rect x="196" y="216" width="40" height="4" rx="2" fill="#5eb3d6" />
+    <text x="216" y="208" text-anchor="middle" fill="#5eb3d6" font-size="13" font-weight="700">0.35%</text>
+    <rect x="244" y="213" width="40" height="7" rx="2" fill="#D4B95A" />
+    <text x="264" y="205" text-anchor="middle" fill="#D4B95A" font-size="13" font-weight="700">0.68%</text>
+    <text x="240" y="238" text-anchor="middle" fill="#94a3b8" font-size="12">Expense</text>
+    <text x="240" y="254" text-anchor="middle" fill="#94a3b8" font-size="12">Ratio</text>
+    <rect x="356" y="100" width="40" height="120" rx="4" fill="#5eb3d6" />
+    <text x="376" y="92" text-anchor="middle" fill="#5eb3d6" font-size="13" font-weight="700">11.0%</text>
+    <rect x="404" y="56" width="40" height="164" rx="4" fill="#D4B95A" />
+    <text x="424" y="48" text-anchor="middle" fill="#D4B95A" font-size="13" font-weight="700">15.0%</text>
+    <text x="400" y="238" text-anchor="middle" fill="#94a3b8" font-size="12">Total Return</text>
+    <text x="400" y="254" text-anchor="middle" fill="#94a3b8" font-size="12">(since inception)</text>
+    <rect x="516" y="70" width="40" height="150" rx="4" fill="#5eb3d6" />
+    <text x="536" y="62" text-anchor="middle" fill="#5eb3d6" font-size="13" font-weight="700">-13.71%</text>
+    <rect x="564" y="40" width="40" height="180" rx="4" fill="#D4B95A" />
+    <text x="584" y="32" text-anchor="middle" fill="#D4B95A" font-size="13" font-weight="700">-16.47%</text>
+    <text x="560" y="238" text-anchor="middle" fill="#94a3b8" font-size="12">Max</text>
+    <text x="560" y="254" text-anchor="middle" fill="#94a3b8" font-size="12">Drawdown</text>
+  </svg>
+  <div style="display:flex;gap:20px;margin-top:4px;justify-content:center;">
+    <div style="display:flex;align-items:center;gap:6px;"><span style="width:12px;height:12px;border-radius:3px;background:#5eb3d6;display:inline-block;"></span><span style="color:#94a3b8;font-size:12px;">JEPI</span></div>
+    <div style="display:flex;align-items:center;gap:6px;"><span style="width:12px;height:12px;border-radius:3px;background:#D4B95A;display:inline-block;"></span><span style="color:#94a3b8;font-size:12px;">SPYI</span></div>
+  </div>
+  <div style="display:flex;justify-content:space-between;align-items:center;margin-top:16px;color:#475569;font-size:12px;">
+    <span>Source: fund fact sheets, JPMorgan &amp; NEOS - data verified May 2026</span>
+    <span>By Tzion Sigron</span>
+  </div>
+</div>
+
 ---
 
 <!-- ADSENSE PLACEHOLDER - IN-CONTENT 1 -->
@@ -271,6 +313,43 @@ Vanguard has announced a competing high-yield corporate bond ETF (VCHY) for laun
 Non-U.S. investors face a specific cost that materially affects net yield calculations.
 
 The U.S. default [withholding tax](/taxes/taxes-us-dividends-foreign-investors/) on dividends and distributions paid to foreign investors is 30%. Under a bilateral [tax treaty](https://www.irs.gov/individuals/international-taxpayers/tax-treaties), this rate is typically reduced to 15% for eligible countries. The treaty rate applies only if the investor files a [W-8BEN](/taxes/w8ben-form-non-us-investors/) ([official IRS form](https://www.irs.gov/forms-pubs/about-form-w-8-ben)) with their broker. Without it, the full 30% applies by default.
+
+<div style="background:#0a192f;border-radius:16px;padding:24px 24px 20px;border:1px solid #233554;font-family:system-ui,-apple-system,sans-serif;overflow-x:auto;">
+  <div style="margin-bottom:20px;">
+    <div style="color:#e2e8f0;font-size:18px;font-weight:600;letter-spacing:-0.3px;">How US Dividend Withholding Works for a Non-US Investor</div>
+    <div style="color:#64748b;font-size:13px;margin-top:2px;">Example uses a 15% treaty rate - your country's actual rate may differ</div>
+  </div>
+  <svg viewBox="0 0 900 160" style="width:100%;height:auto;min-width:620px;">
+    <defs>
+      <marker id="wtf-arrow" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+        <polygon points="0 0, 8 3, 0 6" fill="#D4B95A" />
+      </marker>
+    </defs>
+    <rect x="10" y="30" width="190" height="80" rx="10" fill="#112240" stroke="#233554" stroke-width="1.5" />
+    <text x="105" y="60" text-anchor="middle" fill="#e2e8f0" font-size="13" font-weight="700">US company pays</text>
+    <text x="105" y="78" text-anchor="middle" fill="#e2e8f0" font-size="13" font-weight="700">a dividend</text>
+    <text x="105" y="98" text-anchor="middle" fill="#64748b" font-size="11">e.g., $100</text>
+    <line x1="200" y1="70" x2="235" y2="70" stroke="#D4B95A" stroke-width="2" marker-end="url(#wtf-arrow)" />
+    <rect x="240" y="30" width="190" height="80" rx="10" fill="#112240" stroke="#233554" stroke-width="1.5" />
+    <text x="335" y="60" text-anchor="middle" fill="#e2e8f0" font-size="13" font-weight="700">Default 30%</text>
+    <text x="335" y="78" text-anchor="middle" fill="#e2e8f0" font-size="13" font-weight="700">IRS withholding</text>
+    <text x="335" y="98" text-anchor="middle" fill="#64748b" font-size="11">applies automatically</text>
+    <line x1="430" y1="70" x2="465" y2="70" stroke="#D4B95A" stroke-width="2" marker-end="url(#wtf-arrow)" />
+    <rect x="470" y="30" width="190" height="80" rx="10" fill="#112240" stroke="#D4B95A" stroke-width="1.5" />
+    <text x="565" y="60" text-anchor="middle" fill="#D4B95A" font-size="13" font-weight="700">W-8BEN on file</text>
+    <text x="565" y="78" text-anchor="middle" fill="#e2e8f0" font-size="13" font-weight="700">-&gt; treaty rate: 15%</text>
+    <text x="565" y="98" text-anchor="middle" fill="#64748b" font-size="11">reduced from 30%</text>
+    <line x1="660" y1="70" x2="695" y2="70" stroke="#D4B95A" stroke-width="2" marker-end="url(#wtf-arrow)" />
+    <rect x="700" y="30" width="190" height="80" rx="10" fill="#0d2137" stroke="#00cc88" stroke-width="1.5" />
+    <text x="795" y="60" text-anchor="middle" fill="#00d4aa" font-size="13" font-weight="700">Investor receives</text>
+    <text x="795" y="78" text-anchor="middle" fill="#00d4aa" font-size="13" font-weight="700">$85 net</text>
+    <text x="795" y="98" text-anchor="middle" fill="#64748b" font-size="11">vs. $70 without W-8BEN</text>
+  </svg>
+  <div style="display:flex;justify-content:space-between;align-items:center;margin-top:16px;color:#475569;font-size:12px;">
+    <span>Illustrative example - exact treaty rate depends on your country of residence</span>
+    <span>By Tzion Sigron</span>
+  </div>
+</div>
 
 **The ELN complication:** JEPI and JEPQ distributions are classified as ordinary income from debt instruments rather than as qualified dividends. The treaty rate reduction may apply differently depending on the investor's jurisdiction and the specific treaty language. This is not a theoretical concern - in some treaty structures, interest income receives different treatment than dividend income. Confirm this specific point with a local tax advisor before assuming the 15% treaty rate applies to JEPI/JEPQ in full.
 

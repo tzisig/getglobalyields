@@ -92,6 +92,43 @@ Non-US expats in most of the world sit in the opposite position from US persons 
 
 For an investor in a country without a US tax treaty using a US-domiciled ETF: the dividend faces 30% US withholding at the fund level. For the same investor using an Irish-domiciled UCITS ETF: the US-Ireland tax treaty reduces that first layer to 15%. Ireland then charges 0% withholding on distributions to non-Irish residents. The difference is 15 percentage points of every dividend, every year, automatically - before the investor's home country tax treatment even enters the picture.
 
+<div style="background:#0a192f;border-radius:16px;padding:24px 24px 20px;border:1px solid #233554;font-family:system-ui,-apple-system,sans-serif;overflow-x:auto;">
+  <div style="margin-bottom:20px;">
+    <div style="color:#e2e8f0;font-size:18px;font-weight:600;letter-spacing:-0.3px;">How US Dividend Withholding Works for a Non-US Investor</div>
+    <div style="color:#64748b;font-size:13px;margin-top:2px;">Example uses a 15% treaty rate - your country's actual rate may differ</div>
+  </div>
+  <svg viewBox="0 0 900 160" style="width:100%;height:auto;min-width:620px;">
+    <defs>
+      <marker id="wtf-arrow2" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
+        <polygon points="0 0, 8 3, 0 6" fill="#D4B95A" />
+      </marker>
+    </defs>
+    <rect x="10" y="30" width="190" height="80" rx="10" fill="#112240" stroke="#233554" stroke-width="1.5" />
+    <text x="105" y="60" text-anchor="middle" fill="#e2e8f0" font-size="13" font-weight="700">US company pays</text>
+    <text x="105" y="78" text-anchor="middle" fill="#e2e8f0" font-size="13" font-weight="700">a dividend</text>
+    <text x="105" y="98" text-anchor="middle" fill="#64748b" font-size="11">e.g., $100</text>
+    <line x1="200" y1="70" x2="235" y2="70" stroke="#D4B95A" stroke-width="2" marker-end="url(#wtf-arrow2)" />
+    <rect x="240" y="30" width="190" height="80" rx="10" fill="#112240" stroke="#233554" stroke-width="1.5" />
+    <text x="335" y="60" text-anchor="middle" fill="#e2e8f0" font-size="13" font-weight="700">Default 30%</text>
+    <text x="335" y="78" text-anchor="middle" fill="#e2e8f0" font-size="13" font-weight="700">IRS withholding</text>
+    <text x="335" y="98" text-anchor="middle" fill="#64748b" font-size="11">applies automatically</text>
+    <line x1="430" y1="70" x2="465" y2="70" stroke="#D4B95A" stroke-width="2" marker-end="url(#wtf-arrow2)" />
+    <rect x="470" y="30" width="190" height="80" rx="10" fill="#112240" stroke="#D4B95A" stroke-width="1.5" />
+    <text x="565" y="60" text-anchor="middle" fill="#D4B95A" font-size="13" font-weight="700">W-8BEN on file</text>
+    <text x="565" y="78" text-anchor="middle" fill="#e2e8f0" font-size="13" font-weight="700">-&gt; treaty rate: 15%</text>
+    <text x="565" y="98" text-anchor="middle" fill="#64748b" font-size="11">reduced from 30%</text>
+    <line x1="660" y1="70" x2="695" y2="70" stroke="#D4B95A" stroke-width="2" marker-end="url(#wtf-arrow2)" />
+    <rect x="700" y="30" width="190" height="80" rx="10" fill="#0d2137" stroke="#00cc88" stroke-width="1.5" />
+    <text x="795" y="60" text-anchor="middle" fill="#00d4aa" font-size="13" font-weight="700">Investor receives</text>
+    <text x="795" y="78" text-anchor="middle" fill="#00d4aa" font-size="13" font-weight="700">$85 net</text>
+    <text x="795" y="98" text-anchor="middle" fill="#64748b" font-size="11">vs. $70 without W-8BEN</text>
+  </svg>
+  <div style="display:flex;justify-content:space-between;align-items:center;margin-top:16px;color:#475569;font-size:12px;">
+    <span>Illustrative example - exact treaty rate depends on your country of residence</span>
+    <span>By Tzion Sigron</span>
+  </div>
+</div>
+
 At a 2% dividend yield on a global equity portfolio, that's 30 basis points of annual return retained simply by choosing the right fund domicile. On a $500,000 portfolio, that's $1,500 per year compounding. On a $2 million portfolio over 20 years, the difference is material.
 
 The other advantage for non-US investors: Irish UCITS ETFs are not US-situs assets for estate tax purposes. Even if the fund holds US stocks - Apple, Microsoft, S&P 500 components - the ETF itself sits outside the US estate tax net. For investors from countries without a US estate tax treaty, US-domiciled ETFs carry a potential 40% estate tax on the full value above a $60,000 exemption threshold. Irish UCITS ETFs eliminate that exposure entirely.
