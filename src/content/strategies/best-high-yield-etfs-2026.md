@@ -149,7 +149,7 @@ SPYI and QQQI from NEOS take a different approach. They write listed index optio
 
 ### JEPI - JPMorgan Equity Premium Income ETF
 
-JEPI launched in May 2020 and has grown to $45 billion in assets, making it one of the largest actively managed ETFs in the U.S. The current yield is approximately 8.3%, paid monthly. The expense ratio is 0.35%.
+JEPI launched in May 2020 and has grown to $45 billion in assets, making it one of the largest actively managed ETFs in the U.S. The current yield is approximately 8.3%, paid monthly. The expense ratio is 0.35%. (See JPMorgan's [official JEPI fact sheet](https://am.jpmorgan.com/content/dam/jpm-am-aem/americas/us/en/literature/fact-sheet/etfs/FS-JEPI.PDF) for the fund's own current numbers.)
 
 The equity sleeve holds roughly 100-130 large-cap U.S. stocks selected for lower volatility than the S&P 500 - names like Johnson & Johnson, AbbVie, Walmart, and PepsiCo. This defensive composition, combined with the ELN overlay, produces a beta of approximately 0.48. JEPI moves about half as much as the S&P 500 in either direction.
 
@@ -177,7 +177,7 @@ The YTD total return through late May 2026 is approximately 28.5%, reflecting th
 
 ### SPYI - NEOS S&P 500 High Income ETF
 
-SPYI launched in August 2022 and represents a newer generation of covered call ETF design. It holds all S&P 500 stocks and writes out-of-the-money call options directly on the index - not through ELNs. The Section 1256 tax treatment applies, providing the 60/40 blended rate described above.
+SPYI launched in August 2022 and represents a newer generation of covered call ETF design. It holds all S&P 500 stocks and writes out-of-the-money call options directly on the index - not through ELNs. The Section 1256 tax treatment applies, providing the 60/40 blended rate described above. (See NEOS's [official SPYI fact sheet](https://neosfunds.com/wp-content/uploads/SPYI-Fact-Sheet.pdf) for the fund's own current numbers.)
 
 The current yield is approximately 12.1%, paid monthly. AUM has grown to $9.7 billion. The expense ratio is 0.68% - 33 basis points higher than JEPI, partially offset by the tax efficiency for U.S. taxable account investors.
 

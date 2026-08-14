@@ -101,6 +101,36 @@ In my 4.5+ years of actively trading and managing a multi-currency portfolio bet
 | Most online brokers | $50 to $100 (0.5% to 1%) |
 | Wise | $35 to $50 (0.35% to 0.5%) |
 | Interactive Brokers | $0.20 (0.002%) |
+
+<div style="background:#0a192f;border-radius:16px;padding:24px 24px 20px;border:1px solid #233554;font-family:system-ui,-apple-system,sans-serif;">
+  <div style="margin-bottom:16px;">
+    <div style="color:#e2e8f0;font-size:18px;font-weight:600;letter-spacing:-0.3px;">Currency Conversion Cost on a $10,000 Transfer</div>
+    <div style="color:#64748b;font-size:13px;margin-top:2px;">Same table above, visualized - the IBKR bar is not a rendering error</div>
+  </div>
+  <svg viewBox="0 0 640 230" style="width:100%;height:auto;">
+    <line x1="0" y1="180" x2="640" y2="180" stroke="#233554" stroke-width="1" />
+    <rect x="50" y="40" width="60" height="140" rx="4" fill="#3a506b" />
+    <text x="80" y="32" text-anchor="middle" fill="#94a3b8" font-size="13" font-weight="700">$100-200</text>
+    <text x="80" y="198" text-anchor="middle" fill="#94a3b8" font-size="12">Israeli</text>
+    <text x="80" y="214" text-anchor="middle" fill="#94a3b8" font-size="12">Bank</text>
+    <rect x="210" y="110" width="60" height="70" rx="4" fill="#3a506b" />
+    <text x="240" y="102" text-anchor="middle" fill="#94a3b8" font-size="13" font-weight="700">$50-100</text>
+    <text x="240" y="198" text-anchor="middle" fill="#94a3b8" font-size="12">Online</text>
+    <text x="240" y="214" text-anchor="middle" fill="#94a3b8" font-size="12">Broker</text>
+    <rect x="370" y="140" width="60" height="40" rx="4" fill="#3a506b" />
+    <text x="400" y="132" text-anchor="middle" fill="#94a3b8" font-size="13" font-weight="700">$35-50</text>
+    <text x="400" y="198" text-anchor="middle" fill="#94a3b8" font-size="12">Wise</text>
+    <rect x="530" y="176" width="60" height="4" rx="2" fill="#D4B95A" />
+    <text x="560" y="168" text-anchor="middle" fill="#D4B95A" font-size="13" font-weight="700">$0.20</text>
+    <text x="560" y="198" text-anchor="middle" fill="#D4B95A" font-size="12">Interactive</text>
+    <text x="560" y="214" text-anchor="middle" fill="#D4B95A" font-size="12">Brokers</text>
+  </svg>
+  <div style="display:flex;justify-content:space-between;align-items:center;margin-top:16px;color:#475569;font-size:12px;">
+    <span>Cost to convert $10,000 to USD - figures from the table above</span>
+    <span>By Tzion Sigron</span>
+  </div>
+</div>
+
 ## **Platform and Tools**
 
 **Trader Workstation (TWS):** IBKR's flagship desktop platform - one of the most powerful retail trading platforms available anywhere. Offers real-time streaming quotes, advanced charting, options analytics, paper trading, and algorithmic order types. Exceptional but overwhelming for new investors.
@@ -127,7 +157,7 @@ The verdict: IBKR is a fully capable options platform. Many investors maintain b
 
 Opening an IBKR account as an international investor takes approximately 20 to 40 minutes online.
 
-*   Create an account at ibkr.com and select your country of residence
+*   Create an account at [ibkr.com](https://www.interactivebrokers.com/) and select your country of residence
 *   Complete identity verification (passport + proof of address)
 *   Fill in the [W-8BEN](/taxes/w8ben-form-non-us-investors/) form ([official IRS form](https://www.irs.gov/forms-pubs/about-form-w-8-ben), embedded in the application)
 *   Answer financial profile questions (income, net worth, investment experience)

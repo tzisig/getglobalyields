@@ -65,7 +65,7 @@ This guide explains exactly how the W-8BEN works, how to fill it out correctly, 
 
 ## What Is the W-8BEN Form?
 
-The W-8BEN (Certificate of Foreign Status of Beneficial Owner for United States Tax Withholding and Reporting) is an IRS form used by non-US investors to:
+The [W-8BEN](https://www.irs.gov/forms-pubs/about-form-w-8-ben) (Certificate of Foreign Status of Beneficial Owner for United States Tax Withholding and Reporting) is an IRS form used by non-US investors to:
 
 - Confirm they are not US persons
 - Claim tax treaty benefits
@@ -139,6 +139,51 @@ For a full breakdown of each country's treaty with the US, see our detailed guid
 ## How to Fill Out the W-8BEN
 
 Most brokers (especially Interactive Brokers) embed this digitally during signup.
+
+<div style="background:#0a192f;border-radius:16px;padding:24px 24px 20px;border:1px solid #233554;font-family:system-ui,-apple-system,sans-serif;overflow-x:auto;">
+  <div style="margin-bottom:20px;">
+    <div style="color:#e2e8f0;font-size:18px;font-weight:600;letter-spacing:-0.3px;">The W-8BEN Form at a Glance: 3 Parts That Matter</div>
+    <div style="color:#64748b;font-size:13px;margin-top:2px;">Based on the official IRS Form W-8BEN (Rev. October 2021)</div>
+  </div>
+  <svg viewBox="0 0 900 210" style="width:100%;height:auto;min-width:600px;">
+    <rect x="10" y="10" width="280" height="190" rx="10" fill="#112240" stroke="#233554" stroke-width="1.5" />
+    <text x="150" y="38" text-anchor="middle" fill="#D4B95A" font-size="13" font-weight="700">PART I</text>
+    <text x="150" y="58" text-anchor="middle" fill="#e2e8f0" font-size="13" font-weight="700">Identification</text>
+    <text x="30" y="86" fill="#94a3b8" font-size="12">- Name (as in passport)</text>
+    <text x="30" y="108" fill="#94a3b8" font-size="12">- Country of citizenship</text>
+    <text x="30" y="130" fill="#94a3b8" font-size="12">- Permanent residence</text>
+    <text x="30" y="152" fill="#94a3b8" font-size="12">address (no PO box)</text>
+    <text x="30" y="178" fill="#94a3b8" font-size="12">- Foreign TIN</text>
+
+    <line x1="300" y1="105" x2="325" y2="105" stroke="#D4B95A" stroke-width="2" />
+    <polygon points="325,100 335,105 325,110" fill="#D4B95A" />
+
+    <rect x="310" y="10" width="280" height="190" rx="10" fill="#112240" stroke="#D4B95A" stroke-width="1.5" />
+    <text x="450" y="38" text-anchor="middle" fill="#D4B95A" font-size="13" font-weight="700">PART II</text>
+    <text x="450" y="58" text-anchor="middle" fill="#e2e8f0" font-size="13" font-weight="700">Treaty Claim</text>
+    <text x="330" y="86" fill="#94a3b8" font-size="12">- Country of residence</text>
+    <text x="330" y="108" fill="#94a3b8" font-size="12">for tax treaty purposes</text>
+    <text x="330" y="130" fill="#94a3b8" font-size="12">- Treaty article number</text>
+    <text x="330" y="152" fill="#94a3b8" font-size="12">- Claimed withholding rate</text>
+    <text x="330" y="174" fill="#94a3b8" font-size="12">(e.g., 15% or 25%)</text>
+
+    <line x1="600" y1="105" x2="625" y2="105" stroke="#D4B95A" stroke-width="2" />
+    <polygon points="625,100 635,105 625,110" fill="#D4B95A" />
+
+    <rect x="610" y="10" width="280" height="190" rx="10" fill="#0d2137" stroke="#00cc88" stroke-width="1.5" />
+    <text x="750" y="38" text-anchor="middle" fill="#00d4aa" font-size="13" font-weight="700">PART III</text>
+    <text x="750" y="58" text-anchor="middle" fill="#e2e8f0" font-size="13" font-weight="700">Certification</text>
+    <text x="630" y="86" fill="#94a3b8" font-size="12">- Signature</text>
+    <text x="630" y="108" fill="#94a3b8" font-size="12">- Date</text>
+    <text x="630" y="130" fill="#94a3b8" font-size="12">- Confirms the form is</text>
+    <text x="630" y="152" fill="#94a3b8" font-size="12">true, correct, and complete</text>
+    <text x="630" y="178" fill="#64748b" font-size="11">Valid ~3 years + current year</text>
+  </svg>
+  <div style="display:flex;justify-content:space-between;align-items:center;margin-top:16px;color:#475569;font-size:12px;">
+    <span>Simplified guide - always refer to the <a href="https://www.irs.gov/forms-pubs/about-form-w-8-ben" style="color:#D4B95A;">official IRS form and instructions</a></span>
+    <span>By Tzion Sigron</span>
+  </div>
+</div>
 
 ### Part I - Identification
 
