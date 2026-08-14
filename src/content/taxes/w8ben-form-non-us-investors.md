@@ -154,10 +154,8 @@ Most brokers (especially Interactive Brokers) embed this digitally during signup
     <text x="30" y="130" fill="#94a3b8" font-size="12">- Permanent residence</text>
     <text x="30" y="152" fill="#94a3b8" font-size="12">address (no PO box)</text>
     <text x="30" y="178" fill="#94a3b8" font-size="12">- Foreign TIN</text>
-
     <line x1="300" y1="105" x2="325" y2="105" stroke="#D4B95A" stroke-width="2" />
     <polygon points="325,100 335,105 325,110" fill="#D4B95A" />
-
     <rect x="310" y="10" width="280" height="190" rx="10" fill="#112240" stroke="#D4B95A" stroke-width="1.5" />
     <text x="450" y="38" text-anchor="middle" fill="#D4B95A" font-size="13" font-weight="700">PART II</text>
     <text x="450" y="58" text-anchor="middle" fill="#e2e8f0" font-size="13" font-weight="700">Treaty Claim</text>
@@ -166,10 +164,8 @@ Most brokers (especially Interactive Brokers) embed this digitally during signup
     <text x="330" y="130" fill="#94a3b8" font-size="12">- Treaty article number</text>
     <text x="330" y="152" fill="#94a3b8" font-size="12">- Claimed withholding rate</text>
     <text x="330" y="174" fill="#94a3b8" font-size="12">(e.g., 15% or 25%)</text>
-
     <line x1="600" y1="105" x2="625" y2="105" stroke="#D4B95A" stroke-width="2" />
     <polygon points="625,100 635,105 625,110" fill="#D4B95A" />
-
     <rect x="610" y="10" width="280" height="190" rx="10" fill="#0d2137" stroke="#00cc88" stroke-width="1.5" />
     <text x="750" y="38" text-anchor="middle" fill="#00d4aa" font-size="13" font-weight="700">PART III</text>
     <text x="750" y="58" text-anchor="middle" fill="#e2e8f0" font-size="13" font-weight="700">Certification</text>
