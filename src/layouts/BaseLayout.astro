@@ -53,10 +53,15 @@ const { title, description, image, type, keywords, seo, pubDate, updatedDate, au
        Header.astro's triggerSelect() reveals the page as soon as translation
        is actually applied - the timeout below is only a worst-case safety net
        (e.g. Google Translate blocked or failing to load) so the page never
-       stays hidden. 2500ms (not 600ms) because on a throttled/slow connection
-       loading the translate script and its first translation call can
-       genuinely take longer than 600ms, and revealing before that finishes
-       is exactly what causes the visible CLS this is meant to prevent. -->
+       stays hidden. Base 2500ms (not 600ms) because on a throttled/slow
+       connection loading the translate script and its first translation call
+       can genuinely take longer than 600ms, and revealing before that
+       finishes is exactly what causes the visible CLS this is meant to
+       prevent - confirmed happening again under Lighthouse's own "Slow 4G"
+       mobile throttling profile (2026-08-14 PageSpeed report), so the
+       timeout now extends further specifically when the Network Information
+       API (Chrome/Edge/Android only - unsupported browsers keep the base
+       2500ms, unchanged) reports a slow connection. -->
   <script is:inline>
     (function() {
       var m = document.cookie.match(/googtrans=\/en\/([a-zA-Z-]+)/);
@@ -77,9 +82,14 @@ const { title, description, image, type, keywords, seo, pubDate, updatedDate, au
           document.head.appendChild(link);
         });
         document.documentElement.style.setProperty('visibility', 'hidden', 'important');
+        var revealDelay = 2500;
+        var conn = navigator.connection || navigator.mozConnection || navigator.webkitConnection;
+        if (conn && (conn.effectiveType === 'slow-2g' || conn.effectiveType === '2g' || conn.effectiveType === '3g')) {
+          revealDelay = 5000;
+        }
         window.__ggyRevealTimeout = setTimeout(function() {
           document.documentElement.style.removeProperty('visibility');
-        }, 2500);
+        }, revealDelay);
       }
     })();
   </script>
