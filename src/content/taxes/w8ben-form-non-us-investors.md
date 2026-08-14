@@ -138,7 +138,22 @@ For a full breakdown of each country's treaty with the US, see our detailed guid
 
 ## How to Fill Out the W-8BEN
 
-Most brokers (especially Interactive Brokers) embed this digitally during signup.
+Most brokers (especially Interactive Brokers) embed this digitally during signup. Prefer to watch it filled in field by field? Here's a 77-second walkthrough on the actual IRS form:
+
+<div style="background:#0a192f;border-radius:16px;padding:16px;border:1px solid #233554;overflow-x:auto;">
+  <video
+    controls
+    preload="metadata"
+    poster="/videos/w8ben-form-walkthrough-poster.jpg"
+    style="width:100%;height:auto;border-radius:10px;display:block;"
+  >
+    <source src="/videos/w8ben-form-walkthrough.mp4" type="video/mp4" />
+    Your browser doesn't support embedded video. <a href="/videos/w8ben-form-walkthrough.mp4">Download the walkthrough video</a> instead.
+  </video>
+  <p style="color:#94a3b8;font-size:13px;margin-top:12px;margin-bottom:0;line-height:1.5;">
+    This video is educational only and does not constitute tax, legal, or financial advice. It is not a substitute for professional guidance - consult a qualified cross-border tax professional about your own situation.
+  </p>
+</div>
 
 <div style="background:#0a192f;border-radius:16px;padding:24px 24px 20px;border:1px solid #233554;font-family:system-ui,-apple-system,sans-serif;overflow-x:auto;">
   <div style="margin-bottom:20px;">
