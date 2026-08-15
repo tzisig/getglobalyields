@@ -45,54 +45,6 @@ const { title, description, image, type, keywords, seo, pubDate, updatedDate, au
 <!DOCTYPE html>
 <html lang="en" class="dark">
   <SEOHead title={title} description={description} image={image} type={type} keywords={keywords} seo={seo} pubDate={pubDate} updatedDate={updatedDate} author={author} faq={faq} schema={schema} collection={collection} noindex={noindex} />
-  <!-- Prevent flash of English before Google Translate applies the visitor's
-       language, and the layout shift (CLS) that comes from Google Translate
-       reflowing text (e.g. button widths changing) after the page is already
-       visible. Hides the page only if a translation is actually expected
-       (saved cookie, or geo-detected country with no explicit English choice).
-       Header.astro's triggerSelect() reveals the page as soon as translation
-       is actually applied - the timeout below is only a worst-case safety net
-       (e.g. Google Translate blocked or failing to load) so the page never
-       stays hidden. Base 2500ms (not 600ms) because on a throttled/slow
-       connection loading the translate script and its first translation call
-       can genuinely take longer than 600ms, and revealing before that
-       finishes is exactly what causes the visible CLS this is meant to
-       prevent - confirmed happening again under Lighthouse's own "Slow 4G"
-       mobile throttling profile (2026-08-14 PageSpeed report), so the
-       timeout now extends further specifically when the Network Information
-       API (Chrome/Edge/Android only - unsupported browsers keep the base
-       2500ms, unchanged) reports a slow connection. -->
-  <script is:inline>
-    (function() {
-      var m = document.cookie.match(/googtrans=\/en\/([a-zA-Z-]+)/);
-      var lang = m ? m[1] : null;
-      if (!lang && document.cookie.indexOf('lang_choice_made=1') === -1) {
-        var g = document.cookie.match(/geo_country=([A-Z]{2})/);
-        if (g) {
-          var COUNTRY_LANG = { IL:'iw', ES:'es', MX:'es', AR:'es', CO:'es', CL:'es', PE:'es', VE:'es', EC:'es', GT:'es', UY:'es', PY:'es', BO:'es', DO:'es', HN:'es', SV:'es', NI:'es', CR:'es', PA:'es', FR:'fr', BE:'fr', DE:'de', AT:'de', BR:'pt', PT:'pt', IT:'it', NL:'nl', PL:'pl', RU:'ru', SA:'ar', AE:'ar', EG:'ar', QA:'ar', KW:'ar', JO:'ar', OM:'ar', BH:'ar', MA:'ar', DZ:'ar', TN:'ar', IQ:'ar', LB:'ar', CN:'zh-CN', JP:'ja', KR:'ko', TR:'tr', ID:'id', TH:'th', VN:'vi' };
-          lang = COUNTRY_LANG[g[1]] || null;
-        }
-      }
-      if (lang) {
-        ['https://translate.googleapis.com', 'https://translate.google.com', 'https://translate-pa.googleapis.com'].forEach(function (origin) {
-          var link = document.createElement('link');
-          link.rel = 'preconnect';
-          link.href = origin;
-          link.crossOrigin = 'anonymous';
-          document.head.appendChild(link);
-        });
-        document.documentElement.style.setProperty('visibility', 'hidden', 'important');
-        var revealDelay = 2500;
-        var conn = navigator.connection || navigator.mozConnection || navigator.webkitConnection;
-        if (conn && (conn.effectiveType === 'slow-2g' || conn.effectiveType === '2g' || conn.effectiveType === '3g')) {
-          revealDelay = 5000;
-        }
-        window.__ggyRevealTimeout = setTimeout(function() {
-          document.documentElement.style.removeProperty('visibility');
-        }, revealDelay);
-      }
-    })();
-  </script>
 
   <!-- Prevent flash: switch to light only if saved preference says so -->
   <script is:inline>
