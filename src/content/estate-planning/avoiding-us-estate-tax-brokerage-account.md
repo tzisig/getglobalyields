@@ -13,7 +13,7 @@ tags:
 heroImage: "/images/blog/estate-planning/avoiding-us-estate-tax-brokerage-account.webp"
 heroImageWidth: 840
 heroImageHeight: 560
-draft: true
+draft: false
 readingTime: "11 min read"
 featured: false
 ---
