@@ -13,7 +13,7 @@ tags:
 heroImage: "/images/blog/index-funds/voo-vs-spy-vs-ivv-sp500-etf-comparison.webp"
 heroImageWidth: 840
 heroImageHeight: 560
-draft: true
+draft: false
 readingTime: "11 min read"
 featured: false
 ---
