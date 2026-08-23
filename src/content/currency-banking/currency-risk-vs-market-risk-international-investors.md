@@ -13,7 +13,7 @@ tags:
 heroImage: "/images/blog/currency-banking/currency-risk-vs-market-risk-international-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
-draft: true
+draft: false
 readingTime: "10 min read"
 featured: false
 ---
