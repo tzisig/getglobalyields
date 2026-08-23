@@ -38,11 +38,21 @@ jobs:
         id: publish
         run: node scripts/publish-scheduled-articles.mjs
 
+      # Turns any plain-text cross-reference whose target just went live into a
+      # real link. Runs only when something was published, and is deliberately
+      # conservative - anything it cannot place unambiguously stays queued in
+      # relink-when-published.tsv for a human.
+      - name: Link newly published cross-references
+        id: relink
+        if: steps.publish.outputs.published != '0'
+        run: node scripts/relink-published.mjs
+
       - name: Commit and push
         if: steps.publish.outputs.published != '0'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add src/content/taxes/*.md src/content/us-investing/*.md src/content/best-brokers/*.md src/content/options-income/*.md src/content/strategies/*.md src/content/retirement-pension/*.md src/content/estate-planning/*.md src/content/index-funds/*.md src/content/currency-banking/*.md
+          git add relink-when-published.tsv
           git commit -m "chore: publish scheduled articles (${{ steps.publish.outputs.published }}) - ${{ steps.publish.outputs.published_list }}"
           git push

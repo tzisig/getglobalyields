@@ -14,7 +14,10 @@
     "openrouter:model:list": "node switch-openrouter-model.js list",
     "openrouter:model:set": "node switch-openrouter-model.js set",
     "openrouter:model:reset": "node switch-openrouter-model.js reset",
-    "openrouter:status": "node openrouter-status.js"
+    "openrouter:status": "node openrouter-status.js",
+    "sync": "node scripts/sync-from-remote.mjs",
+    "predev": "node scripts/sync-from-remote.mjs",
+    "relink": "node scripts/relink-published.mjs"
   },
   "overrides": {
     "vite": "^7"

@@ -34,9 +34,35 @@ const ROLLOUT_CATEGORIES = [
   'currency-banking',
 ];
 
-const today = new Date().toISOString().slice(0, 10); // YYYY-MM-DD, UTC
+// How many articles may go live in a single run. The pubDates already in the
+// files stay exactly as they are - this cap is what actually sets the pace, so
+// changing the rhythm is a one-line edit here rather than a rewrite of every
+// draft's frontmatter. Anything due but over the cap simply waits its turn,
+// oldest pubDate first, so nothing is skipped or lost.
+//
+// Set to 1 deliberately. The drafts queue is large and most of it has not been
+// through a full editorial read yet; a slower drip leaves room to catch a wrong
+// number before it is live rather than after.
+const DAILY_LIMIT = 1;
 
-const published = [];
+// Sun-Thu only. This used to be implicit, because pubDates were only ever
+// assigned to those days. Once a cap exists a backlog can form, and without
+// this gate the backlog would drain on Fri/Sat too.
+const PUBLISH_DAYS = [0, 1, 2, 3, 4];
+
+const now = new Date();
+const today = now.toISOString().slice(0, 10); // YYYY-MM-DD, UTC
+
+if (!PUBLISH_DAYS.includes(now.getUTCDay())) {
+  console.log('Not a publishing day (%s) - nothing to do.', today);
+  if (process.env.GITHUB_OUTPUT) {
+    fs.appendFileSync(process.env.GITHUB_OUTPUT, `published=0\n`);
+  }
+  process.exit(0);
+}
+
+// Gather everything that is due, then publish only the oldest DAILY_LIMIT.
+const due = [];
 
 for (const category of ROLLOUT_CATEGORIES) {
   const dir = path.join(contentRoot, category);
@@ -56,11 +82,25 @@ for (const category of ROLLOUT_CATEGORIES) {
     const pubDate = pubDateMatch[1];
 
     if (isDraft && pubDate <= today) {
-      const updated = content.replace(/^draft: true$/m, 'draft: false');
-      fs.writeFileSync(filePath, updated, 'utf8');
-      published.push(`${category}/${file.replace(/\.md$/, '')}`);
+      due.push({ filePath, content, pubDate, slug: `${category}/${file.replace(/\.md$/, '')}` });
     }
   }
+}
+
+// Oldest first, then alphabetically so the order is stable across runs.
+due.sort((a, b) => (a.pubDate === b.pubDate ? a.slug.localeCompare(b.slug) : a.pubDate.localeCompare(b.pubDate)));
+
+const published = [];
+
+for (const item of due.slice(0, DAILY_LIMIT)) {
+  const updated = item.content.replace(/^draft: true$/m, 'draft: false');
+  fs.writeFileSync(item.filePath, updated, 'utf8');
+  published.push(item.slug);
+}
+
+const waiting = Math.max(0, due.length - published.length);
+if (waiting > 0) {
+  console.log('Backlog: %d more due but held back by the daily cap of %d.', waiting, DAILY_LIMIT);
 }
 
 if (published.length > 0) {
