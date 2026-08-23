@@ -7,7 +7,7 @@ updatedDate: 2026-08-06
 author: "Tzion Sigron"
 categories: ["Strategies"]
 tags:
-  - "tax loss harvesting TQQQ QQQ"
+  - "Tax-Loss Harvesting With TQQQ and QQQ Swaps"
   - "TQQQ tax loss swap strategy"
   - "wash sale rule leveraged ETF"
 heroImage: "/images/blog/strategies/tax-loss-harvesting-tqqq-qqq.webp"
@@ -76,7 +76,7 @@ Not directly, since the swap is typically executed entirely within the USD-denom
 
 ---
 
-## Practical Checklist
+## Tax-Loss Harvesting With TQQQ and QQQ Swaps: What to Sort Out First
 
 - [ ] Confirm whether loss-harvesting is a relevant concept under your specific country's tax system before planning around it - many countries' rules work differently from the US domestic framework
 - [ ] If you are a US person (citizen, green card holder, or otherwise required to file US returns) considering a TQQQ/QQQ swap, get current advice on the wash sale rule's application to this specific pair, since it is not definitively settled
@@ -86,13 +86,13 @@ Not directly, since the swap is typically executed entirely within the USD-denom
 
 ---
 
-## Bottom Line
+## The Short Version of Tax-Loss Harvesting With TQQQ and QQQ Swaps
 
 TQQQ and QQQ's shared underlying index makes them a natural pair for maintaining Nasdaq-100 exposure through a tax-loss-harvesting swap, but this technique's actual tax benefit depends entirely on your country's specific rules - and for US taxpayers specifically, the wash sale rule's application to this exact pair is a genuine gray area worth professional confirmation rather than assumption. Whichever swap partner you choose, recognize that you're deliberately changing your leverage level, not executing a purely mechanical, exposure-neutral tax move.
 
 ---
 
-*This article is for informational purposes only and does not constitute tax or financial advice. Tax-loss harvesting rules vary significantly by country, and the US wash sale rule's application to TQQQ/QQQ swaps specifically has not been definitively confirmed by this guide. Consult a qualified tax professional in your country of residence before implementing this technique.*
+*This piece covers Tax-Loss Harvesting With TQQQ and QQQ Swaps in general terms and is not financial advice. Tax-loss harvesting rules vary significantly by country, and the US wash sale rule's application to TQQQ/QQQ swaps specifically has not been definitively confirmed by this guide. Consult a qualified tax professional in your country of residence before implementing this technique.*
 
 ## Related Guides
 

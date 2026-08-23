@@ -1,7 +1,7 @@
 ---
 slug: required-minimum-distributions-non-us-investors
-title: "Required Minimum Distributions: Do They Apply to Non-US Investors?"
-description: "RMDs apply to Traditional IRA, 401(k), and similar US retirement accounts starting at age 73-75 - and they follow the account, not your citizenship or residency. If you have a legacy US retirement account from working in the US, RMDs still apply even after you've left, with a worked example of how the calculation and penalty actually work."
+title: "Do RMDs Apply to Non-US Investors?"
+description: "RMDs follow the account, not your citizenship or residency. A legacy US retirement account still triggers them after you leave - the calculation and penalty."
 pubDate: 2026-10-01
 updatedDate: 2026-08-06
 author: "Tzion Sigron"
@@ -72,7 +72,7 @@ No - the RMD requirement applies based on account type and age, not account bala
 
 ---
 
-## Practical Checklist
+## Required Minimum Distributions - Your Action List
 
 - [ ] If you have a legacy Traditional IRA or 401(k) balance from working in the US and are now living abroad, confirm your current age against the applicable RMD start age (73 or 75, depending on birth year)
 - [ ] Set up a reliable system to track and take RMDs annually, since the penalty for missing one is real and applies regardless of your current country of residence
@@ -84,13 +84,13 @@ No - the RMD requirement applies based on account type and age, not account bala
 
 ---
 
-## Bottom Line
+## What to Take Away From Required Minimum Distributions
 
 RMDs are tied to the account, not to where you live or what passport you hold - a non-resident alien with a legacy Traditional IRA or 401(k) from a period of US employment remains subject to the same distribution schedule and the same real, meaningful penalties for missing it as a US resident would be. If this describes your situation, confirm your custodian can still service the account from abroad, get current guidance on your specific treaty's withholding treatment for retirement distributions, and set up a reliable tracking system well before reaching the applicable age rather than discovering the obligation after already missing a deadline.
 
 ---
 
-*This article is for informational purposes only and does not constitute financial or tax advice. RMD rules, ages, and penalty structures are set by the IRS and can change. Consult a qualified cross-border financial and tax advisor for advice specific to your situation.*
+*This describes Required Minimum Distributions broadly and is not a professional opinion. RMD rules, ages, and penalty structures are set by the IRS and can change. Discuss it with a professional familiar with your position.*
 
 ## Related Guides
 

@@ -74,7 +74,7 @@ These are structurally different tools. A leveraged ETF contains its own interna
 - **Inception:** June 23, 2009
 - **Current price:** ~$138.62 (May 21, 2026)
 - **AUM:** $4.7 billion
-- **Expense ratio:** 0.89%
+- **Expense ratio:** 0.92%
 - **Since-inception CAGR:** 31.84% (dividends reinvested, through July 2025)
 - **Maximum drawdown:** -76.8%
 - **2022 calendar year return:** -57.2% (S&P 500 was -19.5%)
@@ -194,11 +194,11 @@ A $100,000 initial investment, monthly contributions of $2,000, and UPRO's since
 
 | Year | Portfolio Value (simplified projection) |
 |------|----------------------------------------|
-| 1 | ~$165,000 |
-| 3 | ~$380,000 |
-| 5 | ~$820,000 |
-| 7 | ~$1,750,000 |
-| 10 | ~$5,200,000 |
+| 1 | ~$159,000 |
+| 3 | ~$340,000 |
+| 5 | ~$654,000 |
+| 7 | ~$1,201,000 |
+| 10 | ~$2,863,000 |
 
 **This projection is for illustrative purposes only - and the illustration is optimistic by construction.** The 31.84% CAGR used here was achieved during the strongest sustained equity bull market in modern history, with UPRO launching at the precise bottom of the 2008-2009 financial crisis. In any 3-year period, UPRO's worst rolling return was -4.37% annualized. In the 2022 calendar year alone, UPRO fell 57.2%.
 
@@ -297,7 +297,7 @@ HFEA in its original form is not an appropriate strategy for investors entering 
 
 ## The Embedded Financing Cost: What 3x ETFs Actually Charge in 2026
 
-Beyond the stated expense ratio of 0.82% and 0.89% respectively, 3x leveraged ETFs carry embedded financing costs in their swap contracts that are directly tied to short-term interest rates.
+Beyond the stated expense ratio of 0.82% and 0.92% respectively, 3x leveraged ETFs carry embedded financing costs in their swap contracts that are directly tied to short-term interest rates.
 
 To achieve 3x exposure, UPRO and TQQQ borrow an amount equal to approximately 2x the fund's net assets via total return swaps. The financing rate on those swaps is typically the overnight Fed Funds rate plus a small spread. At the current Fed Funds rate of approximately 3.62%:
 
@@ -326,7 +326,7 @@ The combined tax drag in a high-bracket taxable account can reduce effective ann
 
 Holding leveraged ETFs inside a Roth IRA eliminates both tax issues entirely. All distributions reinvest without tax, all rebalancing is tax-free, and the eventual withdrawal is tax-free.
 
-The mathematical case: on a $100,000 Roth IRA position in UPRO over 15 years at 31.84% CAGR, the after-tax value is the full compounded amount - approximately $5.2 million. The same position in a taxable account at 37% short-term gains drag (approximately 2.5% annual effective reduction) compounds to approximately $3.4 million. The Roth advantage on this single position is approximately $1.8 million over 15 years.
+The mathematical case: on a $100,000 Roth IRA position in UPRO over 15 years at 31.84% CAGR, the after-tax value is the full compounded amount - approximately $6.32 million. The same position in a taxable account at 37% short-term gains drag (approximately 2.5% annual effective reduction, so ~29.34% net) compounds to approximately $4.73 million. The Roth advantage on this single position is approximately $1.6 million over 15 years. Both figures assume the 31.84% CAGR repeats for fifteen straight years, which it almost certainly will not - the point is the size of the tax wedge, not the terminal value.
 
 ### Tax loss harvesting for leveraged ETF positions
 
@@ -415,7 +415,7 @@ Note: WisdomTree's QQQ3 is an ETP, not a UCITS fund - availability varies by bro
 
 ---
 
-## Summary
+## The Short Version of Financial Freedom via Leveraged Investing
 
 Leveraged investing can accelerate the path to financial freedom. The evidence is real: TQQQ's 43.50% since-inception CAGR and UPRO's 31.84% are not fabricated numbers - they are the outcomes of investors who held through an 81.66% and 76.8% maximum drawdown respectively, in a period of broadly strong equity markets.
 

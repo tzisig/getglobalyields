@@ -1,7 +1,7 @@
 ---
 slug: us-vietnam-tax-treaty-investors
 title: "Investing in US Stocks from Vietnam: No Treaty, New 2026 Tax Law (2026)"
-description: "There is no US-Vietnam tax treaty, so 30% US dividend withholding applies with no reduction. Vietnam's new Personal Income Tax Law (effective July 1, 2026) reshapes rates - here's what's confirmed for foreign securities and what remains unclear."
+description: "No tax treaty covers US-Vietnam, leaving dividends withheld at the full 30%. Vietnam's new Personal Income Tax Law (effective July 1, 2026) reshapes rates - here's what's confirmed for foreign securities and what remains unclear."
 pubDate: 2026-10-25
 updatedDate: 2026-08-27
 author: "Tzion Sigron"
@@ -20,17 +20,17 @@ readingTime: "9 min read"
 featured: false
 seo:
   metaTitle: "Interactive Brokers Vietnam: US Stock Tax Guide (2026)"
-  metaDescription: "No US-Vietnam tax treaty means 30% US dividend withholding with no reduction. Vietnam's new 2026 Personal Income Tax Law and what it means for US stock investors, plus IBKR/eToro access."
+  metaDescription: "No tax treaty covers US-Vietnam, leaving dividends withheld at the full 30%. Vietnam's new 2026 Personal Income Tax Law and what it means for US stock."
   ogTitle: "Interactive Brokers Vietnam: US Stock Tax Guide (2026)"
-  ogDescription: "No US-Vietnam tax treaty means 30% US dividend withholding with no reduction. Vietnam's new 2026 Personal Income Tax Law and what it means for US stock investors, plus IBKR/eToro access."
-  ogImage: "/images/blog/taxes/us-vietnam-tax-treaty.webp"
+  ogDescription: "No tax treaty covers US-Vietnam, leaving dividends withheld at the full 30%. Vietnam's new 2026 Personal Income Tax Law and what it means for US stock."
+  ogImage: "/images/blog/taxes/us-vietnam-tax-treaty-investors.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"
   headline: "Interactive Brokers Vietnam: US Stock Tax Guide (2026)"
-  description: "No US-Vietnam tax treaty means 30% US dividend withholding with no reduction. Vietnam's new 2026 Personal Income Tax Law and what it means for US stock investors, plus IBKR/eToro access."
+  description: "No tax treaty covers US-Vietnam, leaving dividends withheld at the full 30%. Vietnam's new 2026 Personal Income Tax Law and what it means for US stock."
   author: "Tzion Sigron"
-  datePublished: "2026-08-27"
+  datePublished: "2026-10-25"
   dateModified: "2026-08-27"
   image: "/images/blog/taxes/us-vietnam-tax-treaty-investors.webp"
   mainEntityOfPage: "https://getglobalyields.com/taxes/us-vietnam-tax-treaty-investors"
@@ -77,20 +77,20 @@ Here is the honest gap in this guide, stated directly rather than smoothed over:
 
 ---
 
-## Broker Access
+## Signing Up from Vietnam
 
-Both Interactive Brokers and eToro are confirmed to accept Vietnamese residents for account opening. Confirm current requirements directly before applying, as with every country in this series - and note that none of this changes the 30% US dividend withholding, which is fixed by the absence of a treaty regardless of which broker you use.
+Vietnam is supported for account opening at Interactive Brokers and eToro. Confirm current requirements directly before applying, as with every country in this series - and note that none of this changes the 30% US dividend withholding, which is fixed by the absence of a treaty regardless of which broker you use.
 
 ---
 
-## Practical Checklist
+## How Vietnam Residents Should Approach This
 
-**Vietnamese resident investing in US stocks:**
+**What a Vietnamese investor needs to have covered:**
 - [ ] Expect 30% US dividend withholding with no treaty reduction - file W-8BEN anyway to certify status and avoid backup withholding
 - [ ] Confirm your Vietnamese tax residency status (183+ days in a calendar year, or 12 consecutive months from arrival) since worldwide income taxation hinges on it
 - [ ] Get written confirmation from a Vietnamese tax advisor on how US stock capital gains are classified and taxed under the Personal Income Tax Law effective July 1, 2026 - don't assume the JSC 0.1% or LLC 20% rates apply without confirming
 - [ ] Track your personal deduction (VND 15.5 million/month, VND 186 million/year) and any dependant deductions relevant to your overall Vietnamese tax position
-- [ ] Confirm current account-opening requirements with Interactive Brokers or eToro before applying
+- [ ] Confirm what the broker asks of Vietnamese applicants before starting - and note the 2015 treaty was never ratified
 
 ---
 
@@ -101,20 +101,20 @@ Both Interactive Brokers and eToro are confirmed to accept Vietnamese residents 
 
 ---
 
-## Bottom Line
+## Reading the Vietnam Position Overall
 
 The US side is simple and fixed: no treaty, 30% withholding on dividends, nothing to optimize with a form. The Vietnamese side is genuinely in flux - a brand-new Personal Income Tax Law took effect July 1, 2026, and while it clearly defines how Vietnamese company shares are taxed, how it treats a resident's gains on foreign-listed securities like US stocks is not something this guide can state with confidence based on currently available sources. That's a real gap worth closing with a Vietnamese tax advisor before assuming any specific rate applies to your situation, not a detail to guess past.
 
 ---
 
-*This article is informational only and does not constitute tax or legal advice. There is no comprehensive income tax treaty between the United States and Vietnam as of this update. Vietnam's Personal Income Tax Law No. 109/2025/QH15 took effect July 1, 2026; how it applies specifically to foreign-listed securities held by Vietnamese residents through foreign brokers is not clearly documented in current published guidance and should be confirmed directly with a qualified Vietnamese tax advisor.*
+*Read the foregoing as a survey of investing from Vietnam, not as advice. The two countries have no comprehensive income tax treaty as things stand. Vietnam's Personal Income Tax Law No. 109/2025/QH15 took effect July 1, 2026; how it applies specifically to foreign-listed securities held by Vietnamese residents through foreign brokers is not clearly documented in current published guidance and should be confirmed directly with a qualified Vietnamese tax advisor.*
 
 *Sources: IRS Publication 515 (2026) and IRS tax treaty tables (no Vietnam listing); Vietnam Personal Income Tax Law No. 109/2025/QH15, Decree 253/2026/ND-CP, Circular 87/2026/TT-BTC; PwC Vietnam - Individual Taxes on Personal Income and Foreign Tax Relief (2026); KPMG - Vietnam New Personal Income Tax Law Reshapes Taxation for Individuals (2026); Baker McKenzie - Vietnam Decree, Circular Implementing Personal Income Tax Law; Acclime Vietnam - Capital Gains on Disposal of Shares/Capital and Double Tax Agreements guides (2026); Alitium - Vietnam Capital Gains Tax on Share Transfers and PIT Update July 2026.*
 
 ## Related Guides
 
-- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
-- [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)
 - [US-Philippines Tax Treaty: Resident and OFW Rules](/taxes/us-philippines-tax-treaty-investors/)
 - [Interactive Brokers Singapore: US Stock Tax Guide](/taxes/us-singapore-tax-treaty-investors/)
 - [Best Brokers for International Investors](/best-brokers/best-brokers-international-investors-2026/)
+- [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)
+- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)

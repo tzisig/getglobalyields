@@ -28,7 +28,7 @@ The broker she almost chose instead charged $0.03 per $100 converted. The same f
 
 That gap - between a lazy FX setup and a deliberate one - is what this guide is about. Not which broker has the prettiest app. Which one handles your money across currencies without bleeding you at the exchange rate.
 
-The numbers above aren't hypothetical. On a $100,000 portfolio with four deposits a year, a 1.5% FX markup costs roughly $6,000 over ten years. The [best brokers](/best-brokers/best-brokers-international-investors-2026/) charge 0.03 basis points - the same deposits cost about $120. The difference is $5,880, and most reviews don't mention it at all.
+The numbers above aren't hypothetical. On a $100,000 portfolio with four deposits a year, a 1.5% FX markup costs roughly $6,000 over ten years. The [best brokers](/best-brokers/best-brokers-international-investors-2026/) charge 0.20 basis points with a $2 minimum - and because the minimum binds at these sizes, the same forty deposits cost about $80. The difference is $5,920, and most reviews don't mention it at all.
 
 Here are the accounts that get this right.
 
@@ -54,7 +54,7 @@ The brokers in this guide are the ones that actually show you what FX costs, cha
 
 [IBKR](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/) is the default answer for most serious international investors, and the FX workflow is the main reason why.
 
-Currency conversion at IBKR costs 0.03 basis points (0.0003%) with a minimum commission of $2. The numbers are worth making concrete: an [Israeli](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026/) investor converting ₪20,000 (roughly $5,500) to USD pays $2 at IBKR. The same conversion at a typical Israeli bank with a 1.2% spread costs around $66. Do that eight times a year and IBKR saves you over $500 annually on funding costs alone - before a single trade.
+Currency conversion at IBKR costs 0.20 basis points (0.002%) with a minimum commission of $2, and at retail deposit sizes the minimum is almost always what you actually pay. The numbers are worth making concrete: an [Israeli](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026/) investor converting ₪20,000 (roughly $5,500) to USD pays $2 at IBKR. The same conversion at a typical Israeli bank with a 1.2% spread costs around $66. Do that eight times a year and IBKR saves you over $500 annually on funding costs alone - before a single trade.
 
 The account supports funding in 29 currencies. You can hold balances in multiple currencies simultaneously without forced conversion - euros and USD and GBP can coexist in the same account, each earning their respective interest rates, and you convert only when you choose to. That "convert on purpose" approach is one of IBKR's most underrated features. If your trading currency and funding currency match, you skip the conversion entirely.
 
@@ -62,7 +62,7 @@ IBKR also integrates directly with Wise. Make sure your [W-8BEN](/taxes/w8ben-fo
 
 Beyond the FX side: 150+ global markets across 33 countries, margin rates around 5-6% for most balances, competitive cash yields (up to 3.14% on USD balances above $100k as of May 2026), and SIPC protection plus supplemental Lloyd's of London coverage. The platform is genuinely complex - Trader Workstation is not something you open for the first time and immediately understand - but the GlobalTrader mobile app offers a more accessible entry point.
 
-**FX cost:** 0.03 basis points + $2 minimum
+**FX cost:** 0.20 basis points (0.002%) + $2 minimum
 **Supported funding currencies:** 29
 **Best for:** Serious long-term investors, anyone making regular cross-currency deposits, multi-market portfolios
 
@@ -105,9 +105,9 @@ Wise itself is regulated by the FCA in the UK and multiple other jurisdictions, 
 
 HSBC Expat is in a different category than the brokers above - it's a full-service offshore bank based in Jersey, not a discount brokerage. But for certain investors, particularly those with significant assets and complex cross-border financial lives, it solves problems the pure brokers don't.
 
-The multi-currency capability is genuine: you can hold balances across multiple currencies in one place, access international mortgages, make free transfers between Citibank accounts worldwide via HSBC's global network, and manage currency positions alongside actual banking services. The investment range includes global equities, ETFs, bonds, and funds.
+The multi-currency capability is genuine: you can hold balances across multiple currencies in one place, access international mortgages, make free transfers between HSBC accounts worldwide via its global network, and manage currency positions alongside actual banking services. The investment range includes global equities, ETFs, bonds, and funds.
 
-The significant catch is the entry point. Fee-free access requires a CitiGold account with a minimum combined balance of $200,000. Below that, monthly fees and reduced international perks change the value calculation considerably. HSBC has also been reducing its physical branch presence in a number of countries, which limits its accessibility in some markets.
+The significant catch is the entry point. Fee-free access sits behind HSBC Expat's Premier tier, which carries a substantial minimum relationship balance - confirm the current threshold with HSBC directly, as it is revised periodically and varies by booking centre. Below that, monthly fees and reduced international perks change the value calculation considerably. HSBC has also been reducing its physical branch presence in a number of countries, which limits its accessibility in some markets.
 
 For a high-net-worth investor who needs banking, investing, and multi-currency management in one place and can meet the balance threshold, HSBC Expat is a serious option. For everyone else, the balance requirement and banking overhead make it the wrong tool.
 
@@ -124,7 +124,7 @@ For a high-net-worth investor who needs banking, investing, and multi-currency m
 
 | | IBKR | Saxo (Classic) | Saxo (VIP) | HSBC Expat |
 |---|---|---|---|---|
-| FX Conversion Cost | 0.03 bps + $2 min | ±0.25% | ±0.25% (tighter) | Proprietary rate |
+| FX Conversion Cost | 0.20 bps (0.002%) + $2 min | ±0.25% | ±0.25% (tighter) | Proprietary rate |
 | Supported Currencies | 29 | 21 | 21 | Multiple |
 | Custody Fee | None | 0.15% p.a. | Reduced/waived | N/A |
 | Minimum Deposit | $0 | $0 (most countries) | €200,000 | ~$200,000 |
@@ -168,5 +168,5 @@ The first transfer tends to be the moment it clicks. Seeing $2.00 on the IBKR co
 
 ---
 
-*This article is for informational purposes only and does not constitute financial or investment advice. Fee data is sourced from official broker pricing pages and verified third-party reviews. Exchange rates, account minimums, and features are subject to change - verify current terms directly with each provider before opening an account.*
+*Treat this as background on Multi-Currency Investment Accounts Guide, not as advice for your own position. Fee data is sourced from official broker pricing pages and verified third-party reviews. Exchange rates, account minimums, and features are subject to change - verify current terms directly with each provider before opening an account.*
 

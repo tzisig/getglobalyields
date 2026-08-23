@@ -18,19 +18,19 @@ readingTime: "9 min read"
 featured: false
 seo:
   metaTitle: "Options Trading Tax Treatment for Non-US Residents (2026)"
-  metaDescription: "Options premium income is generally treated as capital gain for non-US investors, not FDAP income subject to withholding. The mechanics of covered calls, cash-secured puts, and the 183-day exception."
+  metaDescription: "Options premium income is generally treated as capital gain for non-US investors, not FDAP income subject to withholding."
   ogTitle: "Options Trading Tax Treatment for Non-US Residents (2026)"
-  ogDescription: "Options premium income is generally treated as capital gain for non-US investors, not FDAP income subject to withholding. The mechanics of covered calls, cash-secured puts, and the 183-day exception."
-  ogImage: "/images/blog/taxes/options-trading-tax-non-us-residents.webp"
+  ogDescription: "Options premium income is generally treated as capital gain for non-US investors, not FDAP income subject to withholding."
+  ogImage: "/images/blog/taxes/options-trading-tax-treatment-non-us-residents.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"
   headline: "Options Trading Tax Treatment for Non-US Residents (2026)"
-  description: "Options premium income is generally treated as capital gain for non-US investors, not FDAP income subject to withholding. The mechanics of covered calls, cash-secured puts, and the 183-day exception."
+  description: "Options premium income is generally treated as capital gain for non-US investors, not FDAP income subject to withholding."
   author: "Tzion Sigron"
-  datePublished: "2026-08-05"
+  datePublished: "2026-09-22"
   dateModified: "2026-08-05"
-  image: "/images/blog/taxes/options-trading-tax-non-us-residents.webp"
+  image: "/images/blog/taxes/options-trading-tax-treatment-non-us-residents.webp"
   mainEntityOfPage: "https://getglobalyields.com/taxes/options-trading-tax-treatment-non-us-residents"
 ---
 
@@ -100,7 +100,7 @@ The 183-day substantial presence test's capital gains consequence under §871(a)
 
 ---
 
-## Practical Checklist
+## Working Through Options Trading Step by Step
 
 - [ ] Understand that options premium is generally not FDAP income and does not face the 30%-or-treaty-rate withholding that applies to dividends
 - [ ] Track your day-count presence in the US each year - if you are approaching or exceeding 183 days, the capital gains exception under §871(a)(2) may apply to your options gains
@@ -110,13 +110,13 @@ The 183-day substantial presence test's capital gains consequence under §871(a)
 
 ---
 
-## Bottom Line
+## Options Trading: The Takeaway
 
 Options premium income - from covered calls, cash-secured puts, or most other common strategies - generally follows the same favorable "not taxed by the US" treatment that applies to ordinary stock capital gains for non-resident aliens, rather than the FDAP withholding framework that applies to dividends. The one real exception is the 183-day substantial presence test, which is worth tracking if you spend meaningful time physically present in the US in a given year.
 
 ---
 
-*This article is informational only and does not constitute tax or legal advice. NRA capital gains treatment, including for options transactions, is governed by IRC §871(a) and §865. Consult a qualified cross-border tax professional for advice specific to your situation, particularly if you spend significant time in the US.*
+*Everything here about options trading is general, not personal, information. NRA capital gains treatment, including for options transactions, is governed by IRC §871(a) and §865. Consult a qualified cross-border tax professional who can see your full picture, particularly if you spend significant time in the US.*
 
 *Sources: IRC §871(a) and §871(a)(2); IRC §865 (source rules for personal property); IRS Publication 519; IRS Publication 515 (2026).*
 

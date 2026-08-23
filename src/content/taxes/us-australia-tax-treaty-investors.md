@@ -1,6 +1,6 @@
 ---
 slug: us-australia-tax-treaty-investors
-title: "US-Australia Tax Treaty for Investors: The Complete 2026 Guide"
+title: "US-Australia Tax Treaty for Investors: Superannuation and US Stocks (2026)"
 description: "US-Australia tax treaty guide for individual investors. Withholding rates on dividends, superannuation treatment in accumulation vs pension phase, W-8BEN filing, and how Australian account types interact with US tax rules explained."
 pubDate: 2026-05-24
 updatedDate: 2026-08-04
@@ -124,7 +124,7 @@ The 10% interest rate is worth flagging on its own: IRC §871(k)(1) exempts inte
 
 ---
 
-## Filing W-8BEN
+## W-8BEN: What Australian Investors Need to File
 
 Claiming the 15% rate requires Form [W-8BEN](/taxes/w8ben-form-non-us-investors/), filed with the broker - not the IRS.
 
@@ -180,7 +180,7 @@ A 2% Medicare levy applies on top for most taxpayers, bringing the effective top
 - US withholding at 15%: $810
 - Australian tax at 37%: $1,998
 - Minus $810 foreign income tax offset: $1,188 owed to the ATO
-- Total tax: $810 + $1,188 = $1,998 (Australian rate applied once, no double taxation)
+- Total: $1,998 - the ATO's rate on the whole amount, with the US share credited rather than stacked.
 
 The offset is capped at the Australian tax otherwise payable on that income - an investor in a bracket below 15% doesn't get the excess US withholding refunded. **US dividends carry no franking credits.** Australian investors accustomed to the domestic imputation system should note the foreign tax offset works differently: it prevents double taxation but doesn't generate a refund the way an over-franked domestic dividend can. The [JEPI vs SCHD vs QYLD comparison](/strategies/jepi-vs-schd-vs-qyld/) breaks down the tax treatment differences for anyone weighing dividend-focused ETFs in a taxable account.
 
@@ -243,14 +243,14 @@ What does change is what happens to that 15% afterward - fully offset in a taxab
 
 ---
 
-*This article is informational only and does not constitute tax or legal advice. Rates are based on the US-Australia Income Tax Convention (1982) and Protocol (2001). Australian income tax brackets reflect the legislated 2026-27 change (16% to 15% on the second bracket), effective from 1 July 2026. ATO and IRS interpretations change. Always consult a qualified cross-border tax professional for advice specific to your situation.*
+*This explains investing from Australia in the abstract, not as it applies to you. Rates are based on the US-Australia Income Tax Convention (1982) and Protocol (2001). Australian income tax brackets reflect the legislated 2026-27 change (16% to 15% on the second bracket), effective from 1 July 2026. ATO and IRS interpretations change. A cross-border tax professional should see this before any real capital moves.*
 
 *Sources: US-Australia Income Tax Convention (August 6, 1982) and Protocol (September 27, 2001); ATO Double Taxation Agreement guidance; IRS Publication 515 (2026); Fenro - ATO Tax Brackets 2026-27; SuperGuide - Australian Income Tax Rates and Brackets (2026-27); austax.tools - ATO Tax Changes 2025-26 vs 2026-27; ATO Foreign Income Tax Offset rules; ATO CGT discount provisions; IRS PFIC rules (Section 1291-1298); FinCEN FBAR guidance (2025); IRS Form 8938 FATCA thresholds (2025 tax year).*
 
 ## Related Guides
 
-- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
 - [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)
+- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
 - [PFIC Rules for International Investors](/taxes/pfic-rules-international-investors/)
 - [US-UK Tax Treaty for Investors](/taxes/us-uk-tax-treaty-investors/)
 - [REITs vs Dividend Stocks: Which Fits Your Portfolio](/strategies/reits-vs-dividend-stocks/)

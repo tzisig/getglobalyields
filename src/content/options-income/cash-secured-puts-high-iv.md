@@ -203,7 +203,7 @@ Four: Set a closing order at 50% of premium collected the moment you open the tr
 
 ---
 
-## Summary
+## Cash-Secured Puts on High-IV Stocks, in Short
 
 Cash-secured puts on high-IV stocks work because implied volatility consistently overstates actual realized movement over time. The market prices in more fear than the stock ultimately delivers, and sellers of that fear collect the difference as premium.
 
@@ -220,7 +220,7 @@ Premium selling is not exciting. The Tesla trade from the opening of this guide 
 
 ---
 
-> **This article is for informational purposes only and does not constitute financial or investment advice. Options trading involves significant risk of loss and is not appropriate for all investors. Always consult a licensed financial adviser before trading options.**
+> **Everything here about Cash-Secured Puts on High-IV Stocks is educational, not personalised advice. Risk of substantial loss is inherent to options and not every investor should accept it. Licensed advice is worth having before any options strategy goes live.**
 
 *Last updated: May 2026*
 

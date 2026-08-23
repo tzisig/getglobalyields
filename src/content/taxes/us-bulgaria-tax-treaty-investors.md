@@ -1,6 +1,6 @@
 ---
 slug: us-bulgaria-tax-treaty-investors
-title: "US-Bulgaria Tax Treaty for Investors: The Complete 2026 Guide"
+title: "US-Bulgaria Tax Treaty for Investors: The Art. 13 Exemption Dispute (2026)"
 description: "US-Bulgaria tax treaty guide for individual investors. Withholding rates on dividends, interest, and capital gains, W-8BEN filing, the Art. 13 ZDDFL exemption dispute over US exchanges, and the full picture for Bulgarian residents investing in US stocks."
 pubDate: 2026-06-01
 updatedDate: 2026-08-04
@@ -28,19 +28,19 @@ featured: false
 rating: 4.6
 seo:
   metaTitle: "US-Bulgaria Tax Treaty Guide for Bulgarian Investors (2026)"
-  metaDescription: "Complete guide to the US-Bulgaria tax treaty for investors. The 10% dividend withholding rate, W-8BEN, and the disputed Art. 13 exemption for US-listed shares."
+  metaDescription: "Complete guide to the US-Bulgaria tax treaty for investors. The 10% dividend withholding rate, W-8BEN, and the disputed Art. 13 exemption for US-listed."
   ogTitle: "US-Bulgaria Tax Treaty Guide for Bulgarian Investors (2026)"
-  ogDescription: "Complete guide to the US-Bulgaria tax treaty for investors. The 10% dividend withholding rate, W-8BEN, and the disputed Art. 13 exemption for US-listed shares."
-  ogImage: "/images/blog/taxes/us-bulgaria-tax-treaty.webp"
+  ogDescription: "Complete guide to the US-Bulgaria tax treaty for investors. The 10% dividend withholding rate, W-8BEN, and the disputed Art. 13 exemption for US-listed."
+  ogImage: "/images/blog/taxes/us-bulgaria-tax-treaty-investors.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"
   headline: "US-Bulgaria Tax Treaty Guide for Bulgarian Investors (2026)"
-  description: "Complete guide to the US-Bulgaria tax treaty for investors. The 10% dividend withholding rate, W-8BEN, and the disputed Art. 13 exemption for US-listed shares."
+  description: "Complete guide to the US-Bulgaria tax treaty for investors. The 10% dividend withholding rate, W-8BEN, and the disputed Art. 13 exemption for US-listed."
   author: "Tzion Sigron"
   datePublished: "2026-06-01"
   dateModified: "2026-08-04"
-  image: "/images/blog/taxes/us-bulgaria-tax-treaty.webp"
+  image: "/images/blog/taxes/us-bulgaria-tax-treaty-investors.webp"
   mainEntityOfPage: "https://getglobalyields.com/taxes/us-bulgaria-tax-treaty-investors"
 ---
 
@@ -91,7 +91,7 @@ These are two current, named, professionally-published sources reaching opposite
 
 ---
 
-## The Treaty at a Glance
+## Bulgaria: The Treaty in Summary - 10% on Portfolio Dividends
 
 The Convention between the United States of America and the Republic of Bulgaria for the Avoidance of Double Taxation was signed on **February 23, 2007**, with an amending Protocol signed on **February 26, 2008**. The treaty entered into force on **December 15, 2008**.
 
@@ -145,7 +145,7 @@ Most brokers used by Bulgarian investors - IBKR, Firstrade, [Saxo Bank](/best-br
 
 **Check your dividend statement:** 10% confirms the correct Bulgaria-specific rate is applied. **15%** means the broker has defaulted to the generic major-treaty rate rather than Bulgaria's 10% - this happens more often than investors expect and is worth catching, since it means overpaying by the same 5 percentage points as having no form at all, relative to what the treaty actually allows. **30%** means no form is on file at all.
 
-**Validity:** three calendar years from signing - a form signed in January 2024 expires at the end of 2026. Brokers revert to 30% automatically on expiry, and reminders are not guaranteed.
+**Validity:** the year you sign plus the three calendar years after it - a form signed in January 2024 runs through 31 December 2027, not the end of 2026. Brokers revert to 30% automatically on expiry, and reminders are not guaranteed.
 
 ---
 
@@ -231,7 +231,7 @@ The interest rate at 5% is worse than the 0% offered by Austria, Czech Republic,
 
 **Not claiming the foreign tax credit on dividends.** The 10% US withholding offsets the 5% Bulgarian dividend tax in full - skipping the claim means paying both in full.
 
-**Checklist - Bulgarian resident investing in US stocks:**
+**The Bulgarian investor's short list:**
 - [ ] Confirm W-8BEN shows 10% (not 30% or 15%) on dividend statements, citing Article 10
 - [ ] Renew W-8BEN before the three-year expiry
 - [ ] File Form 201 by April 30 (or March 31 for the early-filing discount)
@@ -264,7 +264,7 @@ The capital gains side is where real judgment is required. The Art. 13(1)(3) exe
 
 ---
 
-*This article is informational only and does not constitute tax or legal advice. Treaty rates are based on the Convention between the United States and the Republic of Bulgaria for the Avoidance of Double Taxation (signed February 23, 2007, in force December 15, 2008) and the amending Protocol (February 26, 2008). Bulgarian domestic tax rates reflect the Personal Income Tax Act (ZDDFL) and Corporate Income Tax Act (CITA) as in force for the 2026 tax year. The scope of the Art. 13(1)(3) ZDDFL exemption for third-country (including US) markets is genuinely disputed between current professional sources - consult a qualified Bulgarian tax advisor before relying on either position. Always consult a qualified cross-border tax professional for advice specific to your situation.*
+*The above is an explainer on investing from Bulgaria, not professional counsel. Treaty rates are based on the Convention between the United States and the Republic of Bulgaria for the Avoidance of Double Taxation (signed February 23, 2007, in force December 15, 2008) and the amending Protocol (February 26, 2008). Bulgarian domestic tax rates reflect the Personal Income Tax Act (ZDDFL) and Corporate Income Tax Act (CITA) as in force for the 2026 tax year. The scope of the Art. 13(1)(3) ZDDFL exemption for third-country (including US) markets is genuinely disputed between current professional sources - consult a qualified Bulgarian tax advisor before relying on either position. Always consult a qualified cross-border tax professional before you commit real money.*
 
 *Sources: US-Bulgaria Income Tax Convention and Protocols (US Treasury, 2007-2008); IRS Technical Explanation of the Bulgaria Convention; Innovires Legal - Bulgaria for Trading FX, Stocks & Financial Instruments: Tax Guide (2026); PwC Tax Summaries - Bulgaria, Individual Income Determination (2026); PwC Tax Summaries - Bulgaria, Corporate Withholding Taxes (2026); IRS Publication 515 (2026); FinCEN FBAR guidance (2025).*
 

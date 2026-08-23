@@ -16,6 +16,12 @@ heroImageHeight: 560
 draft: true
 readingTime: "10 min read"
 featured: false
+seo:
+  metaTitle: "Repatriating US Investment Gains: What to Know First"
+  metaDescription: "Moving proceeds from a US brokerage account back to your home currency involves the same FX-cost mechanics as funding did - plus a few considerations."
+  ogTitle: "Repatriating US Investment Gains: What to Know First"
+  ogDescription: "Moving proceeds from a US brokerage account back to your home currency involves the same FX-cost mechanics as funding did - plus a few considerations."
+  twitterCard: "summary_large_image"
 ---
 
 A Nigerian investor who spent five years building a US equity position through steady monthly contributions eventually faces a genuinely different transaction than any of the deposits that got him there: converting the entire accumulated USD position back to naira in one shot, to fund a house purchase at home. Every funding-side lesson about minimizing conversions and avoiding markups still applies - but a single large withdrawal introduces a handful of considerations that simply don't come up when you're moving smaller, regular amounts in the other direction.
@@ -78,7 +84,7 @@ Some countries impose limits or approval requirements on large incoming (or outg
 
 ---
 
-## Practical Checklist
+## A Working List for Repatriating US Investment Gains
 
 - [ ] Apply the same low-conversion-count, transparent-rate principles to withdrawals that apply to funding
 - [ ] Consider splitting a very large, one-time repatriation into tranches rather than converting the full amount in a single transaction, if your timeline is flexible
@@ -88,13 +94,13 @@ Some countries impose limits or approval requirements on large incoming (or outg
 
 ---
 
-## Bottom Line
+## Repatriating US Investment Gains in a Paragraph
 
 Repatriating US investment proceeds follows largely the same cost-minimization logic as funding an account, applied in reverse - use a transparent, low-cost conversion path, and be deliberate about a large one-time conversion rather than treating it identically to routine periodic transfers. Tranching a large, flexible-timeline repatriation, confirming reporting requirements with your bank in advance, and keeping the currency-conversion decision entirely separate from the tax treatment of the underlying sale are the practical differences that actually matter on the withdrawal side.
 
 ---
 
-*This article is for informational purposes only and does not constitute financial, tax, or legal advice. Transfer requirements, reporting thresholds, and tax treatment vary by country and are subject to change - confirm current requirements with your bank and a qualified tax advisor before a large repatriation.*
+*Use this as orientation on Repatriating US Investment Gains rather than as a recommendation. Transfer requirements, reporting thresholds, and tax treatment vary by country and are subject to change - confirm current requirements with your bank and a qualified tax advisor before a large repatriation.*
 
 ## Related Guides
 

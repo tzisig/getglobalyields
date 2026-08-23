@@ -78,7 +78,7 @@ Portuguese tax residency generally follows specific day-count and domicile-based
 
 ---
 
-## Practical Checklist
+## Retiring in Portugal as a US-Stock Investor: What to Sort Out First
 
 - [ ] Confirm you understand NHR is closed to new applicants and does not apply to your situation unless you already held NHR status before its closure
 - [ ] Do not assume IFICI applies to you unless you have a genuine scientific research or innovation professional profile - it is not a general retiree replacement for NHR
@@ -90,13 +90,13 @@ Portuguese tax residency generally follows specific day-count and domicile-based
 
 ---
 
-## Bottom Line
+## The Practical Upshot of Retiring in Portugal as a US-Stock Investor
 
 Portugal's reputation as a tax-favorable retirement destination for internationally-invested individuals was built substantially on NHR, which is no longer available to new residents. Anyone planning a retirement move to Portugal now as a US-stock investor should model their actual tax outcome under the standard treaty rate and ordinary Portuguese resident rules, not the old regime's reputation - and treat IFICI as a narrow exception relevant to a specific professional profile, not a general retiree pathway, while recognizing Portugal's broader lifestyle appeal remains genuine and independent of this specific tax change.
 
 ---
 
-*This article is for informational purposes only and does not constitute financial or tax advice. Portugal's NHR and IFICI regimes are governed by Portuguese law and have changed materially in recent years. Consult a qualified Portuguese tax advisor before relocating for retirement.*
+*None of this is advice on Retiring in Portugal as a US-Stock Investor for your specific situation. Portugal's NHR and IFICI regimes are governed by Portuguese law and have changed materially in recent years. Consult a qualified Portuguese tax advisor before relocating for retirement.*
 
 ## Related Guides
 

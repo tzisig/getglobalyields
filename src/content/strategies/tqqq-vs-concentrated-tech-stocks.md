@@ -38,7 +38,7 @@ The appeal of stock-picking is the sense of control - choosing exactly which com
 
 ---
 
-## A Worked Comparison
+## TQQQ vs a Handful of Tech Names, Costed
 
 **TQQQ:** exposure to all 100 Nasdaq-100 constituents, weighted by the index methodology, amplified 3x daily. A severe drawdown in any single constituent affects the position only to the extent of that company's index weighting, times three.
 
@@ -76,7 +76,7 @@ The concentration-risk trade-off itself doesn't change with horizon, but the con
 
 ---
 
-## Practical Considerations
+## Applying TQQQ vs Concentrated Mega-Cap Tech Stock Positions
 
 - **Confirm your actual reason for preferring stock-picking** - if it's genuinely about avoiding leverage and decay, a hand-picked unleveraged portfolio does achieve that. If it's about "picking winners" for higher returns than the index, be honest that this requires being right about specific company selection in a way that index exposure does not.
 - **Check actual position-level concentration** in a hand-picked portfolio against the index weighting of the same companies within the Nasdaq-100 - the difference is often larger than intuition suggests.
@@ -85,13 +85,13 @@ The concentration-risk trade-off itself doesn't change with horizon, but the con
 
 ---
 
-## Bottom Line
+## What TQQQ vs Concentrated Mega-Cap Tech Stock Positions Comes Down To
 
 TQQQ and a hand-picked concentrated tech portfolio both carry real, but different, forms of concentration risk - TQQQ in the Nasdaq-100 as a whole, amplified by leverage; a stock-picked portfolio in whichever specific companies were chosen, without leverage but with genuine single-company exposure the broader index does not carry to the same degree. Neither is a straightforwardly safer choice than the other; they are different risk trades, not a spectrum from "risky" to "safe," and the ongoing research commitment a hand-picked approach requires is worth weighing honestly alongside the pure risk comparison.
 
 ---
 
-*This article is for informational purposes only and does not constitute financial advice. Both leveraged ETFs and concentrated individual stock positions carry substantial risk. Consult a licensed financial advisor before implementing any investment strategy.*
+*Educational content about TQQQ vs Concentrated Mega-Cap Tech Stock Positions; it carries no advice for your case. Both leveraged ETFs and concentrated individual stock positions carry substantial risk. Consult a licensed financial advisor before implementing any investment strategy.*
 
 ## Related Guides
 

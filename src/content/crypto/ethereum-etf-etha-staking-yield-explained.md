@@ -66,13 +66,13 @@ ETHA, BlackRock's iShares Ethereum Trust, is the largest spot Ethereum ETF by as
 
 ---
 
-## Bottom Line
+## ETHA and the Ethereum ETF Staking Yield Question, in Short
 
 ETHA remains the biggest, most liquid spot Ethereum ETF, but "biggest" and "captures ether's full real return" aren't the same thing anymore. Since March 2026's regulatory clarity, a newer generation of staking-enabled products - BlackRock's own ETHB among them - actually distributes the 3-4%-ish annual staking yield that a plain spot-holding trust like ETHA or FETH simply doesn't touch. Anyone defaulting to "the Ethereum ETF" without checking which specific product they're buying is very possibly leaving real, recurring yield on the table without realizing it.
 
 ---
 
-*This article is for informational purposes only and does not constitute financial advice. Expense ratios, AUM, staking yields, and fund structures change frequently, and staking-enabled products carry additional operational risk beyond a plain spot-holding trust - confirm current details directly with each fund's official documentation before investing.*
+*What follows explains ETHA and the Ethereum ETF Staking Yield Question without advising on it. Expense ratios, AUM, staking yields, and fund structures change frequently, and staking-enabled products carry additional operational risk beyond a plain spot-holding trust - confirm current details directly with each fund's official documentation before investing.*
 
 ## Related Guides
 

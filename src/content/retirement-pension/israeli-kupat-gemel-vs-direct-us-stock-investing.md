@@ -74,7 +74,7 @@ Very likely yes - a US person's foreign financial accounts, including an Israeli
 
 ---
 
-## Practical Checklist
+## Israeli Pension Funds (Kupot Gemel) vs US Stocks: The Practical Checklist
 
 - [ ] Confirm whether you are a US citizen, green card holder, or otherwise a US person for tax purposes - this single fact determines whether the rest of this comparison tilts toward Kupat Gemel or a direct brokerage account
 - [ ] If not a US person, evaluate Kupat Gemel Lehashkaah's specific fund menu for how much genuine US equity exposure it actually provides, and compare its management fee against direct low-cost index fund alternatives
@@ -85,13 +85,13 @@ Very likely yes - a US person's foreign financial accounts, including an Israeli
 
 ---
 
-## Bottom Line
+## The Practical Upshot of Israeli Pension Funds (Kupot Gemel) vs US Stocks
 
 Kupat Gemel Lehashkaah offers a real, meaningful Israeli tax advantage and reasonable US equity exposure through its fund menu - a genuinely good option for an Israeli resident with no US tax connection. For a US citizen or green card holder in Israel, the same product likely creates real, mechanically punitive PFIC exposure - taxed under the excess distribution regime with an added interest charge, plus an annual Form 8621 filing burden - that can outweigh its domestic tax benefit, making a direct US brokerage account the more carefully-considered choice despite forgoing the Israeli capital gains exemption.
 
 ---
 
-*This article is for informational purposes only and does not constitute financial or tax advice. Kupat Gemel product terms, deposit limits, and PFIC classification analysis are fact-specific and can change. Consult a qualified cross-border financial and tax advisor, particularly if you are a US person, before contributing to this or any similar Israeli investment product.*
+*General information about Israeli Pension Funds (Kupot Gemel) vs US Stocks - not a recommendation you should act on unaided. Kupat Gemel product terms, deposit limits, and PFIC classification analysis are fact-specific and can change. Consult a qualified cross-border financial and tax advisor, particularly if you are a US person, before contributing to this or any similar Israeli investment product.*
 
 ## Related Guides
 

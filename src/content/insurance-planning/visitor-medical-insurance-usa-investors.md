@@ -28,7 +28,7 @@ International investors sometimes need to physically travel to the US - opening 
 
 ---
 
-## What It Actually Costs
+## Pricing Visitor Medical Insurance for the US Honestly
 
 **Basic coverage runs well under $1 per day for younger travelers**, with plans offering coverage limits up to $8 million available at that price point. More concretely: a traveler in their thirties visiting from Europe might pay roughly $40 a month for a basic fixed-benefit plan, or around $60 a month for more comprehensive coverage. Cost rises meaningfully with age - a 60-year-old traveler might pay somewhere between $122 and $1,050 for six months of coverage, depending on the specific plan, coverage limits, and how pre-existing conditions are handled. **Pre-existing condition coverage is the detail most worth reading carefully before buying** - many visitor plans exclude or sharply limit coverage for conditions the traveler already had before the trip, which matters more for an older investor with an established health history than for a younger one.
 
@@ -52,13 +52,13 @@ International investors sometimes need to physically travel to the US - opening 
 
 ---
 
-## Bottom Line
+## The Practical Upshot of Visitor Medical Insurance for the US
 
 Visitor medical insurance for a US trip isn't legally required for most tourist and business visitors, which is precisely why it's easy to skip and precisely why skipping it is a real financial risk given how expensive US emergency care can be without coverage. For an international investor whose US trips are specifically tied to account-opening, advisor meetings, or managing US-based assets, the added wrinkle worth tracking is that those same travel days count toward the substantial presence test - a separate, tax-residency question from the insurance decision itself, but one worth having on the radar for anyone whose US visits start adding up.
 
 ---
 
-*This article is for informational purposes only and does not constitute financial, tax, immigration, or insurance advice. Insurance requirements, plan terms, and costs vary by provider and change over time - compare current plan details directly with providers before purchasing, and consult an immigration attorney for visa-specific requirements.*
+*What follows explains Visitor Medical Insurance for the US without advising on it. Insurance requirements, plan terms, and costs vary by provider and change over time - compare current plan details directly with providers before purchasing, and consult an immigration attorney for visa-specific requirements.*
 
 ## Related Guides
 

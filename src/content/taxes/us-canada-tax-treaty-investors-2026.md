@@ -1,4 +1,4 @@
-﻿---
+---
 slug: us-canada-tax-treaty-investors-2026
 title: "US-Canada Tax Treaty for Investors: Dividends, Capital Gains, and the RRSP Advantage (2026)"
 description: "A complete guide to the US-Canada tax treaty for Canadian investors holding US assets. Withholding rates, account-by-account breakdown, RRSP exemption, TFSA trap, and how to keep more of what you earn."
@@ -27,12 +27,12 @@ seo:
   metaDescription: "Learn how the US-Canada tax treaty affects RRSP, TFSA, and taxable accounts. How to reduce withholding tax to 15% and avoid common IRS tax traps."
   ogTitle: "US-Canada Tax Treaty Guide for Canadian Investors (2026)"
   ogDescription: "Learn how the US-Canada tax treaty affects RRSP, TFSA, and taxable accounts. How to reduce withholding tax to 15% and avoid common IRS tax traps."
-  ogImage: "/images/blog/taxes/us-canada-tax-treaty-2026.webp"
+  ogImage: "/images/blog/taxes/us-canada-tax-treaty-investors-2026.webp"
   twitterCard: "summary_large_image"
 schema:
   faq:
     - question: "Does W-8BEN reduce US withholding to 15% for Canadians on all income types?"
-      answer: "For dividends from US corporations, yes - W-8BEN applies the Article X treaty rate of 15%. For US interest income, the treaty cap is also 15% under Article XI. For capital gains from US securities, no withholding applies under Article XIII regardless of W-8BEN. The RRSP exemption is separate and does not require W-8BEN."
+      answer: "For dividends from US corporations, yes - W-8BEN applies the Article X treaty rate of 15%. For US interest income, the Fifth Protocol brought the Article XI rate down to 0% on arm's length debt, so a W-8BEN there documents your residency rather than buying you a reduced rate. For capital gains from US securities, no withholding applies under Article XIII regardless of W-8BEN. The RRSP exemption is separate and does not require W-8BEN."
     - question: "Is capital gains tax owed in the US when a Canadian sells US stocks?"
       answer: "No. Article XIII(4) of the US-Canada treaty gives Canada exclusive taxing rights on capital gains from the sale of US securities by Canadian residents. No US withholding applies at the point of sale. The gain is reported on your Canadian return and taxed at 50% inclusion."
     - question: "What is the withholding rate on US REIT distributions for Canadians?"
@@ -75,7 +75,7 @@ Canada and the United States have maintained a comprehensive tax treaty since 19
 
 For Canadian investors holding US assets, the treaty does three things:
 
-First, it reduces US withholding tax on dividends from the domestic 30% default to 15% for most investors (Article X). Second, it caps US withholding on interest income at 15%, with full exemptions for certain categories (Article XI). Third, it eliminates US withholding entirely on capital gains from selling US securities - with narrow but important exceptions involving US real property (Article XIII).
+First, it reduces US withholding tax on dividends from the domestic 30% default to 15% for most investors (Article X). Second, since the Fifth Protocol it removes US withholding on arm's length interest altogether (Article XI). Third, it eliminates US withholding entirely on capital gains from selling US securities - with narrow but important exceptions involving US real property (Article XIII).
 
 The treaty also contains a provision that most investment articles miss: a full exemption from US dividend withholding for income earned inside an RRSP. That exemption is the single most actionable planning tool available to Canadian investors in US assets.
 
@@ -87,7 +87,7 @@ The treaty also contains a provision that most investment articles miss: a full 
 
 ## Withholding Rates: What Each Income Type Costs
 
-The US applies withholding at source before income reaches a foreign investor. Without a treaty, the default rate is 30% on dividends and interest. The US-Canada treaty reduces these rates - but not to zero, and not for every account type.
+The US applies withholding at source before income reaches a foreign investor. Without a treaty, the default rate is 30% on dividends and interest. The US-Canada treaty reduces these rates - but by different amounts for different income types, and not for every account type.
 
 **Dividends from US corporations**
 
@@ -99,9 +99,9 @@ For Canadians investing in US stocks through a Canadian broker (TD Direct, RBC D
 
 **Interest income from US sources**
 
-Article XI caps US withholding on interest at **15%** for arm's length debt obligations. Several categories are fully exempt from US withholding: interest paid by the US government or a US state, interest on trade credits between arm's length parties, and interest that would have been exempt under the 1942 convention.
+Article XI, as amended by the Fifth Protocol, reduces US withholding on arm's length interest to **0%**. The protocol was signed on 21 September 2007, entered into force on 15 December 2008, and applies to arm's length interest from 1 January 2008; the rate it replaced was 10%, which is why older guides still quote a non-zero figure. Interest between related parties was phased down separately over 2008 to 2010 and now also sits at zero.
 
-In practice, most interest income Canadian investors receive from US bonds, GICs or savings accounts is subject to the 15% treaty rate. The full exemptions apply in narrow circumstances that rarely affect retail investors.
+In practice, a Canadian investor holding US Treasuries, US corporate bonds or a US savings account receives that interest with no US withholding at all. US domestic law points the same way independently of the treaty: the portfolio interest exemption under IRC §871(h) already exempts most US-source bond interest paid to non-residents.
 
 **Capital gains from selling US securities**
 
@@ -213,7 +213,7 @@ The prioritization framework:
 1. US dividend-paying stocks and US equity ETFs - maximize inside RRSP
 2. High-growth US stocks with minimal current income - TFSA is acceptable (capital gains are treaty-exempt from US withholding; the TFSA inefficiency only bites on dividend income)
 3. Canadian dividend stocks and Canadian equity ETFs - TFSA is efficient (no US withholding, no Canadian tax in TFSA)
-4. Fixed income and interest-bearing assets - RRSP or TFSA (shielded from Canadian tax; interest withholding not recoverable in TFSA)
+4. Fixed income and interest-bearing assets - RRSP or TFSA (shielded from Canadian tax; no US interest withholding to recover in either)
 5. US REITs - RRSP strongly preferred, given FIRPTA complexity on exit and 15% withholding on distributions in taxable/TFSA accounts
 
 ---
@@ -255,7 +255,7 @@ The RRSP outcome is the most favorable: the full $1,400 accumulates inside the a
 ## Frequently Asked Questions
 
 **Does W-8BEN reduce US withholding to 15% for Canadians on all income types?**
-For dividends from US corporations, yes - W-8BEN applies the Article X treaty rate of 15%. For US interest income, the treaty cap is also 15% under Article XI. For capital gains from US securities, no withholding applies under Article XIII regardless of W-8BEN. The RRSP exemption is separate and does not require W-8BEN.
+For dividends from US corporations, yes - W-8BEN applies the Article X treaty rate of 15%. For US interest income, the Fifth Protocol brought the Article XI rate down to 0% on arm's length debt, so a W-8BEN there documents your residency rather than buying you a reduced rate. For capital gains from US securities, no withholding applies under Article XIII regardless of W-8BEN. The RRSP exemption is separate and does not require W-8BEN.
 
 **Is capital gains tax owed in the US when a Canadian sells US stocks?**
 No. Article XIII(4) of the US-Canada treaty gives Canada exclusive taxing rights on capital gains from the sale of US securities by Canadian residents. No US withholding applies at the point of sale. The gain is reported on your Canadian return and taxed at 50% inclusion.
@@ -291,16 +291,20 @@ File W-8BEN with your broker. Renew it before it expires. Hold US dividend asset
 
 ---
 
-For a side-by-side comparison of rates across major US treaties, see our [tax map](/resources/tax-map/) or compare the [US-Australia](/taxes/us-australia-tax-treaty-investors/) and Canada treaties directly. While both Commonwealth countries enjoy US capital gains tax exemption (residence-only taxation) and similar 15% dividend rates, Canada's RRSP exemption (0% withholding) and 15% interest rate differ from Australia's super treatment (15% floor) and 10% interest rate.
+For a side-by-side comparison of rates across major US treaties, see our [tax map](/resources/tax-map/) or compare the [US-Australia](/taxes/us-australia-tax-treaty-investors/) and Canada treaties directly. While both Commonwealth countries enjoy US capital gains tax exemption (residence-only taxation) and similar 15% dividend rates, Canada's RRSP exemption (0% withholding) and 0% interest rate differ from Australia's super treatment (15% floor) and 10% interest rate.
 
 ---
 
-*This article is for informational and educational purposes only. It does not constitute tax or financial advice. Treaty rates are based on the United States-Canada Income Tax Convention (1980) and its five Protocols, verified from the IRS official treaty text. Canadian tax rates are from the CRA and KPMG 2026 federal and provincial tax tables. The capital gains inclusion rate confirmation reflects the March 2025 cancellation of the proposed increase. The RRSP 2026 contribution limit ($33,810) is confirmed via CRA-sourced 2026 coverage from BNN Bloomberg and Whealth. Individual tax outcomes depend on personal circumstances, province of residence, account structure, and annual income. Consult a qualified Canadian tax advisor before making investment decisions based on treaty provisions.*
+*Written to explain investing from Canada, not to steer your decisions. It does not constitute tax or financial advice. Treaty rates are based on the United States-Canada Income Tax Convention (1980) and its five Protocols, verified from the IRS official treaty text. Canadian tax rates are from the CRA and KPMG 2026 federal and provincial tax tables. The capital gains inclusion rate confirmation reflects the March 2025 cancellation of the proposed increase. The RRSP 2026 contribution limit ($33,810) is confirmed via CRA-sourced 2026 coverage from BNN Bloomberg and Whealth. Individual tax outcomes depend on personal circumstances, province of residence, account structure, and annual income. Consult a qualified Canadian tax advisor before making investment decisions based on treaty provisions.*
+
+*Sources: United States-Canada Income Tax Convention (1980) and its five Protocols, per the IRS official treaty text; CRA and KPMG 2026 federal and provincial tax tables; IRS Publication 515 (2026).*
+
+---
 
 ## Related Guides
 
-- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
-- [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)
 - [PFIC Rules for International Investors](/taxes/pfic-rules-international-investors/)
+- [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)
 - [US-UK Tax Treaty for Investors](/taxes/us-uk-tax-treaty-investors/)
 - [US-Australia Tax Treaty for Investors](/taxes/us-australia-tax-treaty-investors/)
+- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)

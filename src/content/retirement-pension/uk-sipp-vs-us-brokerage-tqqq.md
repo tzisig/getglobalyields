@@ -82,7 +82,7 @@ No - the SIPP wrapper changes the tax and access treatment of the position, not 
 
 ---
 
-## Practical Checklist
+## The UK SIPP vs US Brokerage Checklist
 
 - [ ] Confirm directly with your specific SIPP provider whether TQQQ (or leveraged ETFs generally) can be held within their platform, before planning around an assumption either way
 - [ ] Understand that a SIPP's tax advantage applies on the UK side only - US dividend withholding still applies at the treaty rate (15% with W-8BEN) exactly as it would in an ordinary account
@@ -92,13 +92,13 @@ No - the SIPP wrapper changes the tax and access treatment of the position, not 
 
 ---
 
-## Bottom Line
+## UK SIPP vs US Brokerage in a Paragraph
 
 A SIPP's UK tax advantages are real and don't require giving up US treaty-rate dividend withholding, but whether TQQQ specifically can be held inside a SIPP is a genuinely open, provider-specific question this guide cannot answer for you generally - confirm directly before assuming either availability or restriction, weigh the locked-access trade-off separately from the tax-advantage calculation, and be prepared to use a standard brokerage account for TQQQ specifically if your SIPP provider does not support it.
 
 ---
 
-*This article is for informational purposes only and does not constitute financial or tax advice. SIPP provider product availability, particularly for leveraged ETFs, varies and can change - confirm current details directly with your specific SIPP provider before assuming any product is available or restricted.*
+*Informational coverage of UK SIPP vs US Brokerage only - your own position needs its own review. SIPP provider product availability, particularly for leveraged ETFs, varies and can change - confirm current details directly with your specific SIPP provider before assuming any product is available or restricted.*
 
 ## Related Guides
 

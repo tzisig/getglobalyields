@@ -393,7 +393,7 @@ The strategy worked. Not because he picked perfect strikes. Because he understoo
 
 ---
 
-*This article is for educational purposes only and does not constitute financial, investment, or tax advice. Options trading involves significant risk of loss and is not suitable for all investors. TQQQ price data from Yahoo Finance (May 2026). IV data from Option Samurai (April 2026). Premiums calculated using Black-Scholes model with S=$75, IV=60%, r=4.5%, 30 DTE, validated against published options chain data. Tax treatment based on IRS Publication 550 (US), HMRC guidance (UK), ATO guidance (Australia), and CRA guidance (Canada), current as of May 2026. Consult a qualified financial advisor and tax professional before implementing any options strategy.
+*This article is for educational purposes only and does not constitute financial, investment, or tax advice. Options trading involves significant risk of loss and is not suitable for all investors. TQQQ price data from Yahoo Finance (May 2026). IV data from Option Samurai (April 2026). Premiums calculated using Black-Scholes model with S=$75, IV=60%, r=4.5%, 30 DTE, validated against published options chain data. Tax treatment based on IRS Publication 550 (US), HMRC guidance (UK), ATO guidance (Australia), and CRA guidance (Canada), current as of May 2026. Check the fit with a licensed adviser who can see your whole portfolio.
 
 ---
 

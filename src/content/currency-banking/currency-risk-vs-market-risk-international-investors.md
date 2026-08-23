@@ -1,7 +1,7 @@
 ---
 slug: currency-risk-vs-market-risk-international-investors
-title: "Currency Risk vs Market Risk: Two Separate Things Stacked Together"
-description: "An international investor's total return depends on two genuinely independent variables - what the investment does, and what the currency does. Confusing the two leads to misreading your own results and drawing the wrong lesson from a good or bad year. How to actually decompose and think about each separately."
+title: "Currency Risk vs Market Risk: Two Stacked Variables"
+description: "Your return depends on two independent variables: what the investment does and what the currency does. How to separate them and read your own results correctly."
 pubDate: 2026-08-23
 updatedDate: 2026-08-06
 author: "Tzion Sigron"
@@ -64,7 +64,7 @@ An Australian investor checks her brokerage app and sees her US equity position 
 
 ---
 
-## Common Mistakes to Avoid
+## Common Traps in Currency Risk vs Market Risk
 
 **Comparing your home-currency return against a benchmark quoted in USD** without adjusting for the currency difference - this compares two genuinely different things and can make your performance look better or worse than an apples-to-apples comparison would show.
 
@@ -90,7 +90,7 @@ Yes, mechanically - a sufficiently large currency tailwind can turn a negative U
 
 ---
 
-## Practical Checklist
+## Currency Risk vs Market Risk: What to Sort Out First
 
 - [ ] Separate your investment's USD return from the currency movement when reviewing your own portfolio performance, rather than reading only the blended home-currency number
 - [ ] Avoid attributing currency-driven gains or losses to investment skill, stock-picking ability, or timing
@@ -101,13 +101,13 @@ Yes, mechanically - a sufficiently large currency tailwind can turn a negative U
 
 ---
 
-## Bottom Line
+## Summing Up Currency Risk vs Market Risk
 
 Currency risk and market risk are genuinely independent forces acting on an international investor's returns, and conflating them into a single blended number obscures what's actually happening and can lead to drawing the wrong lesson from a good or bad year. Separating the two - tracking the investment's own USD performance apart from the currency movement, even at a rough level - gives a clearer, more useful picture for making both investment and currency decisions deliberately rather than reactively.
 
 ---
 
-*This article is for informational purposes only and does not constitute financial advice. The worked example uses illustrative figures to demonstrate the decomposition described, not a forecast or claim about any specific currency pair's actual historical performance. Currency movements are unpredictable and past patterns do not indicate future results. Consult a qualified financial advisor for guidance specific to your situation.*
+*Informational coverage of Currency Risk vs Market Risk only - your own position needs its own review. The worked example uses illustrative figures to demonstrate the decomposition described, not a forecast or claim about any specific currency pair's actual historical performance. Exchange-rate behaviour is unpredictable and historical patterns carry no guarantee. Run this past an adviser who can see your full financial picture.*
 
 ## Related Guides
 

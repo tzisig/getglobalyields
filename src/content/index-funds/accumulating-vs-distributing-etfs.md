@@ -58,7 +58,7 @@ Many UCITS ETFs come in two versions - accumulating (often marked "Acc" in the f
 
 ---
 
-## Practical Guidance
+## Accumulating vs Distributing ETFs and Withholding Tax: What It Means for You
 
 **Confirm how your specific country treats accumulating fund internal reinvestment before assuming either structure is automatically more tax-efficient** - the answer genuinely depends on your country's specific rules, not a universal principle. What's true for a German investor (Vorabpauschale largely neutralizes the deferral advantage, while adding record-keeping complexity) is not necessarily true for an investor in a country with no equivalent mechanism, where accumulating funds can offer genuine, meaningful tax deferral with comparatively simpler tax reporting until the eventual sale.
 
@@ -82,7 +82,7 @@ Not universally - a long holding period amplifies whatever the underlying countr
 
 ---
 
-## Practical Checklist
+## A Working List for Accumulating vs Distributing ETFs and Withholding Tax
 
 - [ ] Understand that accumulating vs distributing does not change the underlying US withholding at the fund level - that's fixed by the fund's domicile and treaty status
 - [ ] Confirm your specific country's tax treatment of accumulating fund internal reinvestment - some countries offer genuine deferral, others (like Germany) have specific mechanisms preventing it
@@ -92,13 +92,13 @@ Not universally - a long holding period amplifies whatever the underlying countr
 
 ---
 
-## Bottom Line
+## The Practical Upshot of Accumulating vs Distributing ETFs and Withholding Tax
 
 Accumulating and distributing versions of the same UCITS fund face identical US withholding at the fund level - the real difference is in how, and when, your home country taxes the internally reinvested dividends versus an actual cash distribution, and this varies meaningfully by country. The accumulating structure also introduces a genuine ongoing record-keeping burden that a distributing fund doesn't create. Confirm your specific country's rules rather than assuming a universal "accumulating is always more tax-efficient" principle, since some tax systems (Germany's Vorabpauschale being the clearest example) specifically neutralize that advantage while adding tracking complexity on top.
 
 ---
 
-*This article is for informational purposes only and does not constitute financial or tax advice. Tax treatment of accumulating fund reinvestment varies by country and can change. Consult a qualified tax advisor in your country of residence for advice specific to your situation.*
+*Context on Accumulating vs Distributing ETFs and Withholding Tax, not counsel on what you personally should do. Tax treatment of accumulating fund reinvestment varies by country and can change. Consult a qualified tax advisor in your country of residence for advice specific to your situation.*
 
 ## Related Guides
 

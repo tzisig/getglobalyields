@@ -80,7 +80,7 @@ US-situs cash held in a brokerage account can raise its own distinct situs quest
 
 ---
 
-## Practical Checklist
+## What to Actually Do About Avoiding US Estate Tax on a Brokerage Account
 
 - [ ] If estate tax exposure is a genuine concern, consider whether non-US-domiciled (UCITS-style) fund equivalents can substitute for your US-domiciled holdings without meaningfully compromising your investment strategy
 - [ ] Do not assume switching to a foreign broker resolves US estate tax exposure - it generally does not, for US-listed securities specifically
@@ -91,13 +91,20 @@ US-situs cash held in a brokerage account can raise its own distinct situs quest
 
 ---
 
-## Bottom Line
+## Closing the Loop on Avoiding US Estate Tax on a Brokerage Account
 
 The most direct, broadly-applicable way to reduce US estate tax exposure is choosing non-US-domiciled fund equivalents (UCITS-style ETFs) over their US-domiciled counterparts where your investment goals allow it - a genuine structural difference, not a workaround that merely feels like it should work. Changing brokers alone does not achieve the same effect. Life insurance can fund an otherwise-unavoidable liability, more complex entity structures exist but require professional design, and checking your specific country's estate tax treaty status is worth doing before assuming the base exemption is your only option.
 
 ---
 
-*This article is for informational purposes only and does not constitute legal or tax advice. US estate tax situs rules and planning strategies are complex and fact-specific. Consult a qualified cross-border estate planning attorney before implementing any strategy discussed here.*
+*Use this as orientation on Avoiding US Estate Tax on a Brokerage Account rather than as a recommendation. US estate tax situs rules and planning strategies are complex and fact-specific. Consult a qualified cross-border estate planning attorney before implementing any strategy discussed here.*
+
+*This sets out how Avoiding US Estate Tax on a Brokerage Account works in general. Nothing here is settled permanently - check the current position before acting.*
+---
+
+*Sources: IRC §2101-§2108 (estate tax on non-resident aliens); IRC §2102(b) unified credit equivalent to a $60,000 exemption; IRS Form 706-NA and its instructions.*
+
+---
 
 ## Related Guides
 

@@ -16,6 +16,12 @@ heroImageHeight: 560
 draft: true
 readingTime: "10 min read"
 featured: false
+seo:
+  metaTitle: "How Much Life Insurance Cross-Border Investors Need"
+  metaDescription: "The estate-tax liquidity use case covered elsewhere in this category is a narrow, specific need. Most investors also have a broader question - how much."
+  ogTitle: "How Much Life Insurance Cross-Border Investors Need"
+  ogDescription: "The estate-tax liquidity use case covered elsewhere in this category is a narrow, specific need. Most investors also have a broader question - how much."
+  twitterCard: "summary_large_image"
 ---
 
 The life insurance coverage discussed elsewhere in this category - sized specifically to offset a projected US estate tax liability - solves a narrow, specific problem. Most investors with dependents also have a broader, more foundational question the estate-tax use case doesn't address at all: if I died tomorrow, how much would my family actually need to maintain their life without my income? Cross-border finances - income earned in one currency, assets held in another country, dependents potentially living in a third - add real complexity to a needs calculation that's already not straightforward even in a single-country situation.
@@ -68,7 +74,7 @@ An online calculator can provide a reasonable starting estimate for the basic fr
 
 ---
 
-## Practical Checklist
+## Working Through How Much Life Insurance Do You Actually Need as a Cross-Border Investor Step by Step
 
 - [ ] Calculate a gross coverage need using income replacement, debt payoff, and future major expenses
 - [ ] Subtract existing resources, including your current brokerage portfolio value, to reach a net coverage gap
@@ -80,13 +86,17 @@ An online calculator can provide a reasonable starting estimate for the basic fr
 
 ---
 
-## Bottom Line
+## How Much Life Insurance Do You Actually Need as a Cross-Border Investor: The Takeaway
 
 Sizing life insurance coverage for income replacement is a subtraction exercise - future need minus existing resources - and cross-border finances add real wrinkles: currency mismatch between income and where dependents would spend, potential US estate tax exposure reducing net portfolio value, and uncertainty about where dependents would actually continue living. Working through these factors deliberately, and revisiting the calculation periodically as circumstances change, produces a far more accurate coverage target than a generic, single-country calculator or a round number chosen without reasoning through the specifics.
 
 ---
 
-*This article is for informational purposes only and does not constitute financial, tax, or insurance advice. The worked example uses illustrative figures to demonstrate the calculation approach, not a specific recommendation for any individual's coverage amount. Consult a qualified financial and insurance professional for guidance specific to your situation.*
+*Context on much life insurance, not counsel on what you personally should do. The worked example uses illustrative figures to demonstrate the calculation approach, not a specific recommendation for any individual's coverage amount. Consult a qualified financial and insurance professional for guidance specific to your situation.*
+
+*Sources: FINRA guidance on life insurance needs and coverage estimation. The 10-12x annual income figure is the standard Human Life Value / income-replacement rule of thumb, not a statutory requirement - it is a starting point to adjust, not a number to adopt unexamined.*
+
+---
 
 ## Related Guides
 

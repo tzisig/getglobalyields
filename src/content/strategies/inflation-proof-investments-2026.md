@@ -7,7 +7,7 @@ updatedDate: 2026-05-26
 author: "Tzion Sigron"
 categories: ["Strategies"]
 tags:
-  - "inflation proof investments 2026"
+  - "Inflation-Proof Investments"
   - "TIPS 2026"
   - "I bonds 2026"
   - "gold inflation hedge"
@@ -174,9 +174,7 @@ The risk to monitor: infrastructure companies typically carry significant debt t
 
 ---
 
-### Equity REITs
-
-Equity REITs - companies that own income-producing real estate - have outperformed inflation in 66% of historical high-and-rising inflation periods, delivering an average annual real return of 4.6%, according to Hartford Funds research covering periods since 1973. The mechanism is straightforward: rental income from commercial properties has historically kept pace with inflation, and the value of the underlying properties typically rises with the general price level.
+### Equity REITs - companies that own income-producing real estate - have outperformed inflation in 66% of historical high-and-rising inflation periods, delivering an average annual real return of 4.6%, according to Hartford Funds research covering periods since 1973. The mechanism is straightforward: rental income from commercial properties has historically kept pace with inflation, and the value of the underlying properties typically rises with the general price level.
 
 The important distinction between equity REITs and mortgage REITs applies here. Mortgage REITs invest in real estate debt rather than properties themselves, and their fixed coupon payments lose real value as inflation rises - essentially the same problem as holding regular bonds. Equity REITs own the assets and benefit from rising rents; mortgage REITs do not.
 
@@ -270,7 +268,7 @@ The portfolio implication is not to bet the whole position on one outcome. Holdi
 
 ---
 
-## The Bottom Line
+## The Short Version of Inflation-Proof Investments
 
 Three things are true simultaneously in 2026. Inflation is running well above target. The assets best positioned to protect against it are clearly identifiable - TIPS, commodities, infrastructure, energy equities. And the right allocation depends entirely on your time horizon, your currency of actual spending, and whether you are hedging short-run CPI shocks or long-run purchasing power erosion.
 
@@ -282,7 +280,7 @@ Inflation eventually comes down. Real-return discipline, built into a portfolio 
 
 ---
 
-*This article is for informational purposes only and does not constitute investment advice. All figures and market data reflect publicly available information as of May 2026. ISIN references are provided for identification only - verify current availability and terms with your broker before investing. Past performance of any asset class is not a guarantee of future results. Consult a qualified financial adviser before making investment decisions.*
+*Written as an overview of Inflation-Proof Investments, not as financial guidance for your circumstances. Figures and market data here reflect publicly available information as at May 2026. ISIN references are provided for identification only - verify current availability and terms with your broker before investing. Past performance of any asset class is not a guarantee of future results. Check the fit with an adviser who knows your circumstances.*
 
 *Sources: US Bureau of Labor Statistics CPI data (April 2026); Federal Reserve TIPS breakeven rates; Hartford Funds, "Which Equity Sectors Can Combat Higher Inflation?" (energy 74%, REITs 66% figures); Deutsche Finanzagentur inflation-linked bond data and annual report 2024; ECB/Bank of Greece Inflation Monitor (February 10, 2026); gilt-edge.uk UK real yield and breakeven data (May 12, 2026); Trading Economics gilt and Bund yield data (May 26, 2026); Brookfield Infrastructure Partners Q1 2026 earnings release; J.P. Morgan central bank gold demand data; Bloomberg Commodity Index Total Return data; justETF UCITS ETF data (May 2026).*
 

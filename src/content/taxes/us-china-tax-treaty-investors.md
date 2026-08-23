@@ -1,6 +1,6 @@
-﻿---
+---
 slug: us-china-tax-treaty-investors
-title: "US-China Tax Treaty for Investors: The Complete 2026 Guide"
+title: "US-China Tax Treaty for Investors: The Broker Access Problem (2026)"
 description: "US-China tax treaty guide for individual investors. Withholding rates on dividends, the broker access problem for mainland residents, the Hong Kong distinction, W-8BEN filing, and the FATCA gap explained."
 pubDate: 2026-06-04
 updatedDate: 2026-08-04
@@ -27,7 +27,7 @@ seo:
   metaDescription: "How the US-China tax treaty reduces withholding tax on US dividends to 10% for Chinese residents. W-8BEN requirements and tax optimization explained."
   ogTitle: "US-China Tax Treaty Guide for Chinese Investors (2026)"
   ogDescription: "How the US-China tax treaty reduces withholding tax on US dividends to 10% for Chinese residents. W-8BEN requirements and tax optimization explained."
-  ogImage: "/images/blog/taxes/us-china-tax-treaty.webp"
+  ogImage: "/images/blog/taxes/us-china-tax-treaty-investors.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"
@@ -219,7 +219,7 @@ For a full side-by-side comparison across every US treaty country, our [tax map]
 | [Czech Republic](/taxes/us-czech-republic-tax-treaty-investors/) | 15% | 0% | Residence only | 5% (10%+ ownership) | No |
 | [Austria](/taxes/us-austria-tax-treaty-investors/) | 15% | 0% | Residence only | 5% (10%+ ownership) | Yes |
 | [Belgium](/taxes/us-belgium-tax-treaty-investors/) | 15% | 0% | Residence only | 0% (80%+ ownership) | Yes |
-| [Israel](/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026/) | 25% | 10% | Residence only | 12.5% (10%+ ownership) | No |
+| [Israel](/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026/) | 25% | 17.5% | Residence only | 12.5% (10%+ ownership) | No |
 | Japan | 10% | 0% | Residence only | 0% (qualifying parent) | Yes |
 
 China's flat 10% dividend rate is among the lowest of any major US treaty partner, tied with Japan and meaningfully below the UK, Czech Republic, Austria, Belgium, or Australia's 15%. Where China's treaty is comparatively weaker is interest income (10%, versus 0% for the UK, Czech Republic, Austria, Belgium, and Japan) and the absence of a totalization agreement, which all of these countries except the Czech Republic have.
@@ -228,7 +228,7 @@ The rate comparison, however, is the smaller part of the China story. The access
 
 ---
 
-## Practical Checklist
+## Checklist: Investing from China
 
 Each item folds in the mistake it prevents.
 
@@ -280,14 +280,14 @@ For Chinese tax residents, the absence of preferential treatment for foreign sec
 
 ---
 
-*This article is informational only and does not constitute tax or legal advice. Rates are based on the United States-The People's Republic of China Income Tax Convention (1984). Broker policies, FX quota enforcement, and FATCA implementation status change; always verify current requirements directly with your broker and SAFE-authorized bank, and consult a qualified cross-border tax professional for advice specific to your situation.*
+*The purpose here is to explain investing from China, not to advise you on it. Rates are based on the United States-The People's Republic of China Income Tax Convention (1984). Broker policies, FX quota enforcement, and FATCA implementation status change; always verify current requirements directly with your broker and SAFE-authorized bank, and consult a qualified cross-border tax professional once you have your actual numbers in front of you.*
 
 *Sources: United States-The People's Republic of China Income Tax Convention (April 30, 1984), IRS treaty text; PwC China Tax Summaries - Individual and Corporate Withholding Taxes (as of December 31, 2025); TaxesForExpats US-China tax guide (2026); KPMG China Tax Alert 1407-21 and 1411-23 (FATCA agreements in substance); Lexology, Yicai Global, and TMTPost reporting on Interactive Brokers and other broker policy changes for mainland China accounts (2025-2026); SAFE personal foreign exchange quota guidance; State Taxation Administration individual income tax rules on investment income; IRS Form 8938 FATCA thresholds (2025 tax year); IRS FBAR guidance (FinCEN Form 114).*
 
 ## Related Guides
 
-- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
-- [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)
 - [PFIC Rules for International Investors](/taxes/pfic-rules-international-investors/)
 - [US-UK Tax Treaty for Investors](/taxes/us-uk-tax-treaty-investors/)
 - [Best Brokers for International Investors](/best-brokers/best-brokers-international-investors-2026/)
+- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
+- [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)

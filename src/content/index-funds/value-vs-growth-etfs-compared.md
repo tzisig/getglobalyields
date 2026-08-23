@@ -1,7 +1,7 @@
 ---
 slug: value-vs-growth-etfs-compared
 title: "Value vs Growth ETFs: VTV vs VUG for International Investors"
-description: "VTV and VUG split the US market into value and growth halves - genuinely different risk and return characteristics, not just a stylistic preference. What actually distinguishes them, why dividend yield differs meaningfully between the two, and when tilting toward one makes sense."
+description: "VTV and VUG split the US market into value and growth halves with genuinely different risk profiles. What separates them, why yields differ, and when to tilt."
 pubDate: 2026-10-15
 updatedDate: 2026-08-06
 author: "Tzion Sigron"
@@ -72,7 +72,7 @@ Both are subject to the same standard NRA dividend withholding framework covered
 
 ---
 
-## Practical Checklist
+## A Working List for Value vs Growth ETFs
 
 - [ ] Check actual holdings overlap between VUG and any QQQ/TQQQ position you already hold, since the overlap can be more significant than the different fund names suggest
 - [ ] Consider VTV's higher dividend yield specifically if income generation is part of your investing goal, independent of the broader value-vs-growth performance debate
@@ -82,13 +82,13 @@ Both are subject to the same standard NRA dividend withholding framework covered
 
 ---
 
-## Bottom Line
+## Reading Value vs Growth ETFs Overall
 
 VTV and VUG represent a genuine, measurable split of the market based on real fundamental differences - including a meaningfully different dividend yield profile, not just a theoretical labeling exercise - and a deliberate tilt toward either can be a reasonable allocation decision. The main things to watch for are unintentional overlap with existing growth-heavy holdings like QQQ or TQQQ, and the temptation to time a rotation between the two styles based on recent performance, which carries the same fundamental difficulty as any other market-timing attempt covered elsewhere on this site.
 
 ---
 
-*This article is for informational purposes only and does not constitute financial advice. Fund holdings and classification methodology can change - confirm current details directly with the fund provider before investing.*
+*Informational coverage of Value vs Growth ETFs only - your own position needs its own review. Fund holdings and classification methodology can change - confirm current details directly with the fund provider before investing.*
 
 ## Related Guides
 

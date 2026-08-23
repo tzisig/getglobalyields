@@ -1,7 +1,7 @@
 ---
 slug: us-bangladesh-tax-treaty-investors
 title: "US-Bangladesh Tax Treaty for Investors: The $12,000 Question (2026)"
-description: "US-Bangladesh tax treaty guide for individual investors. The 10% dividend rate, Bangladesh's domestic dividend and capital gains tax, and the USD 12,000/year personal remittance quota that funds most foreign brokerage accounts."
+description: "US-Bangladesh tax treaty guide for individual investors. Why portfolio dividends take 15% and not the widely-quoted 10%, Bangladesh's domestic dividend and capital gains tax, and the USD 12,000/year personal remittance quota that funds most foreign brokerage accounts."
 pubDate: 2026-10-27
 updatedDate: 2026-08-30
 author: "Tzion Sigron"
@@ -20,17 +20,17 @@ readingTime: "9 min read"
 featured: false
 seo:
   metaTitle: "US-Bangladesh Tax Treaty: The USD 12,000 Question (2026)"
-  metaDescription: "The US-Bangladesh tax treaty caps dividend withholding at 10%. Bangladesh's own $12,000/year personal remittance quota is what actually funds most foreign brokerage accounts."
+  metaDescription: "Individual investors get 15% on US dividends under the Bangladesh treaty, not the 10% direct-investment rate often misquoted. Plus the   2,000 remittance quota."
   ogTitle: "US-Bangladesh Tax Treaty: The USD 12,000 Question (2026)"
-  ogDescription: "The US-Bangladesh tax treaty caps dividend withholding at 10%. Bangladesh's own $12,000/year personal remittance quota is what actually funds most foreign brokerage accounts."
-  ogImage: "/images/blog/taxes/us-bangladesh-tax-treaty.webp"
+  ogDescription: "The US-Bangladesh treaty gives individual investors 15% on dividends, not the 10% direct-investment rate often misquoted. Plus the $12,000/year remittance quota."
+  ogImage: "/images/blog/taxes/us-bangladesh-tax-treaty-investors.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"
   headline: "US-Bangladesh Tax Treaty: The USD 12,000 Question (2026)"
-  description: "The US-Bangladesh tax treaty caps dividend withholding at 10%. Bangladesh's own $12,000/year personal remittance quota is what actually funds most foreign brokerage accounts."
+  description: "The US-Bangladesh treaty gives individual investors 15% on dividends, not the 10% direct-investment rate often misquoted. Plus the $12,000/year remittance quota."
   author: "Tzion Sigron"
-  datePublished: "2026-08-30"
+  datePublished: "2026-10-27"
   dateModified: "2026-08-30"
   image: "/images/blog/taxes/us-bangladesh-tax-treaty-investors.webp"
   mainEntityOfPage: "https://getglobalyields.com/taxes/us-bangladesh-tax-treaty-investors"
@@ -41,7 +41,9 @@ schema:
      Recommended: Responsive AdSense display unit or broker affiliate banner
      Replace this comment block with your AdSense tag or affiliate banner HTML -->
 
-The US-Bangladesh tax treaty caps dividend withholding at a favorable **10%** - lower than the 15% most countries in this series see. But for a Bangladeshi resident, the number that actually determines whether investing in US stocks is practical isn't the treaty rate - it's **USD 12,000**, the standard annual personal remittance quota a Bangladesh Bank-authorized dealer can process without prior approval, endorsed directly in your passport. That's a real, defined, self-service allowance - notably more accessible than the murkier capital-control regimes some neighboring countries in this series face.
+Article 10 of the US-Bangladesh treaty has two dividend rates, and the one you will find quoted around the internet is the wrong one for you. The **10%** rate belongs to direct-investment dividends - a company holding a substantial stake in the US payer. An individual holding Apple or an S&P 500 ETF gets the portfolio rate of **15%**, the same as most countries in this series. Anyone promising a Bangladeshi retail investor 10% has read the treaty's first limb and stopped there.
+
+The rate is not what makes or breaks this anyway. For a Bangladeshi resident, the number that actually determines whether investing in US stocks is practical is **USD 12,000** - the standard annual personal remittance quota a Bangladesh Bank-authorized dealer can process without prior approval, endorsed directly in your passport. That is a real, defined, self-service allowance, notably more accessible than the murkier capital-control regimes some neighboring countries in this series face.
 
 This guide covers the treaty rate, Bangladesh's own dividend and capital gains treatment, and what that remittance quota actually means for funding a brokerage account.
 
@@ -74,34 +76,37 @@ Bangladesh taxes residents on **worldwide income**, with foreign-source income i
 
 ---
 
-## The Treaty: 10% on Dividends
+## The Rate Bangladeshi Investors Actually Get
 
 | Income Type | Default US Rate | Treaty Rate |
 |---|---|---|
-| Dividends | 30% | **10%** |
+| Dividends - portfolio (individual investors) | 30% | **15%** |
+| Dividends - direct investment (corporate holder meeting the ownership threshold) | 30% | 10% |
 | Capital gains (securities) | Generally not US-taxable for non-residents | Residence country only |
 
-*Sources: US-Bangladesh Income Tax Convention and Protocol; IRS treaty text.*
+*Sources: US-Bangladesh Income Tax Convention, signed 26 September 2004, in force 7 August 2006, Article 10; IRS treaty text.*
 
-Claiming the 10% rate requires Form [W-8BEN](/taxes/w8ben-form-non-us-investors/) filed with your broker. Without it, the full 30% default applies from the first dividend payment.
+The second row is there to be ruled out, not used. Buying shares through a broker is portfolio investment however large the position, so **15%** is your rate.
 
----
-
-## Broker Access
-
-Interactive Brokers is confirmed to accept Bangladeshi residents for account opening, alongside eToro. Account opening and legally funding the account from Bangladesh are separate questions - confirm both, using the remittance guidance above.
+Form [W-8BEN](/taxes/w8ben-form-non-us-investors/) is what unlocks it; without the form the treaty never reaches your account and you pay the 30% default from the first dividend.
 
 ---
 
-## Practical Checklist
+## Bangladesh Residents and Broker Eligibility
 
-**Bangladeshi resident investing in US stocks:**
+Bangladeshi investors have Interactive Brokers and eToro available to them. Account opening and legally funding the account from Bangladesh are separate questions - confirm both, using the remittance guidance above.
+
+---
+
+## The Bangladesh Investor's Running List
+
+**Your running list as a Bangladeshi resident:**
 - [ ] Confirm with your AD bank whether the standard USD 12,000/year personal remittance quota covers funding a foreign brokerage account, before transferring
 - [ ] Get the transaction properly endorsed in your passport as required for personal remittances
-- [ ] Confirm W-8BEN is on file with your broker; verify 10%, not 30%, on dividend statements
+- [ ] Confirm W-8BEN is on file with your broker; verify 15%, not 30%, on dividend statements - and if a broker or adviser tells you to expect 10%, they have applied the direct-investment limb of Article 10 to a retail account
 - [ ] Confirm with an NBR-registered tax advisor whether your US dividends fall under Bangladesh's 10% domestic dividend rate or the general progressive income tax slabs
 - [ ] Declare foreign-source dividend and capital gains income as part of worldwide income on your Bangladeshi return, claiming relief for the US withholding already paid
-- [ ] Confirm current account-opening requirements with Interactive Brokers or eToro before applying
+- [ ] Ask the broker directly what documentation they need from you this year
 
 ---
 
@@ -112,20 +117,20 @@ Interactive Brokers is confirmed to accept Bangladeshi residents for account ope
 
 ---
 
-## Bottom Line
+## How This Adds Up for Bangladeshi Residents
 
-The treaty rate is genuinely favorable - 10% on dividends, among the lower rates in this series, claimed with W-8BEN. What determines whether this is practical day-to-day is Bangladesh's own personal remittance framework: a defined USD 12,000/year quota, processed through an AD bank with a passport endorsement, that most individual investors can use without special approval - confirmed as applicable specifically to brokerage funding rather than assumed. Pair that with confirming whether your US dividends get Bangladesh's 10% domestic rate or the ordinary progressive slabs, and the practical picture is more workable here than in several neighboring countries covered in this series.
+The treaty rate is the ordinary 15% on dividends, claimed with W-8BEN - unremarkable, and lower than the 30% you pay without the form, which is the comparison that matters. What determines whether this is practical day-to-day is Bangladesh's own personal remittance framework: a defined USD 12,000/year quota, processed through an AD bank with a passport endorsement, that most individual investors can use without special approval - confirmed as applicable specifically to brokerage funding rather than assumed. Pair that with confirming whether your US dividends get Bangladesh's 10% domestic rate or the ordinary progressive slabs, and the practical picture is more workable here than in several neighboring countries covered in this series.
 
 ---
 
-*This article is informational only and does not constitute tax or legal advice. Treaty rates are based on the US-Bangladesh Income Tax Convention. Bangladesh Bank's remittance quotas and NBR's tax rules can change - always confirm current limits with an Authorized Dealer bank and consult a qualified Bangladeshi tax advisor for advice specific to your situation.*
+*Background reading on investing from Bangladesh - decisions still need a professional. Everything quoted on rates traces to the US-Bangladesh Income Tax Convention. Bangladesh Bank's remittance quotas and NBR's tax rules can change - always confirm current limits with an Authorized Dealer bank and A Bangladeshi tax professional should look at this against your real position.*
 
 *Sources: US-Bangladesh Income Tax Convention and Protocol; IRS Publication 515 (2026); Bangladesh Bank Guidelines for Foreign Exchange Transactions, Volume 1, Chapter 5 (Outward Remittances); LegalSeba - Sending Money Abroad from Bangladesh: The Official Guide; PwC Bangladesh - Individual Taxes on Personal Income; Rashel's Law Desk - Bangladesh Income Tax 2025-2026.*
 
 ## Related Guides
 
-- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
-- [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)
 - [PFIC Rules for International Investors](/taxes/pfic-rules-international-investors/)
+- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
 - [US-Pakistan Tax Treaty for Investors](/taxes/us-pakistan-tax-treaty-investors/)
 - [US-India Tax Treaty for Investors](/taxes/us-india-tax-treaty-investors/)
+- [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)

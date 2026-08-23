@@ -1,7 +1,7 @@
 ---
 slug: how-to-invest-in-us-stocks-from-colombia
 title: "How to Invest in US Stocks from Colombia (2026 Guide)"
-description: "How to invest in US stocks from Colombia: broker options, W-8BEN, 30% withholding, and the 2-year holding period for Colombian capital gains - for 2026."
+description: "How to Invest in US Stocks from Colombia: broker options, W-8BEN, 30% withholding, and the 2-year holding period for Colombian capital gains - for 2026."
 pubDate: 2026-09-10
 updatedDate: 2026-08-05
 author: "Tzion Sigron"
@@ -42,9 +42,9 @@ Camila is 29, lives in Medellín, and works in logistics. She has COP 40,000,000
 
 ---
 
-## Step 1: What You Can Actually Buy
+## Step 1: Your Investable Universe From Colombia
 
-Colombia is not in the EU or EEA, so the PRIIPs restriction that blocks European residents from buying US-domiciled ETFs does not apply here. **Camila can buy VOO, VTI, and QQQ directly** through a broker offering US market access.
+Colombia is not covered by PRIIPs, the EU rule that forces European investors into UCITS wrappers instead of US-domiciled funds. **Camila can buy VOO, VTI, and QQQ directly** through a broker offering US market access.
 
 ---
 
@@ -79,15 +79,15 @@ Colombian tax residents are taxed on worldwide income, including dividends and c
 
 ---
 
-## Step 4: The W-8BEN Form
+## Step 4: W-8BEN: The Form That Sets Your Rate
 
 Form W-8BEN still matters even without a treaty rate to claim - it certifies Camila's non-US status to her broker and avoids the risk of backup withholding, a higher default rate applied to accounts without valid tax documentation.
 
 ---
 
-## Step 5: Choose Your Broker
+## Step 5: Broker Selection for Colombia Residents
 
-**Interactive Brokers (IBKR)** and **eToro** are both confirmed to accept Colombian residents for account opening. [See our full IBKR review →](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/) · [See our full eToro review →](/best-brokers/etoro-review-2026/)
+Account opening is available to Colombian residents at **Interactive Brokers (IBKR)** and **eToro**. [See our full IBKR review →](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/) · [See our full eToro review →](/best-brokers/etoro-review-2026/)
 
 ---
 
@@ -98,11 +98,12 @@ Form W-8BEN still matters even without a treaty rate to claim - it certifies Cam
 
 ## Step 6: What Camila's Portfolio Looks Like in Practice
 
-**Broker:** Interactive Brokers, for lower costs on a growing position.
+**Broker:** Interactive Brokers, since cost matters more as the account builds.
 
 **Portfolio allocation:**
-- 60% VOO (S&P 500, bought directly)
-- 40% QQQ (Nasdaq-100, bought directly)
+- 80% VOO (S&P 500, bought directly)
+- 20% VXUS (ex-US developed and emerging markets)
+- Deliberately low-turnover: since Camila's Colombian tax outcome hinges on how long she holds each position rather than on treaty relief, the allocation is built to be left alone rather than rebalanced actively
 - W-8BEN filed to avoid backup withholding
 
 **Annual tax situation:**
@@ -119,7 +120,7 @@ She logs the exact purchase date of every lot she buys, since crossing the two-y
 
 ---
 
-## Common Mistakes to Avoid
+## The Usual Mistakes Around Colombia
 
 **Selling just before the two-year mark.** The difference between 15% and up to 39% is large enough that waiting a few extra weeks can matter significantly.
 
@@ -131,16 +132,16 @@ She logs the exact purchase date of every lot she buys, since crossing the two-y
 
 ---
 
-## What to Do This Week
+## What to Do First From Colombia
 
 1. **Open a broker account.** IBKR or eToro, both confirmed to accept Colombian residents.
 2. **File your W-8BEN** to avoid backup withholding, even without a rate reduction.
-3. **Buy VOO or QQQ directly** - no UCITS workaround needed outside the EU.
+3. **The US-domiciled funds can be bought directly; UCITS versions are an EU requirement.**
 4. **Set up per-lot acquisition date tracking** from your very first purchase, given how much the two-year threshold matters.
 
 ---
 
-*This article is for informational purposes only and does not constitute personalized tax or financial advice. There is no comprehensive income tax treaty between the United States and Colombia as of this update. Colombian personal income tax brackets and the ganancia ocasional rate can change annually - consult a qualified Colombian tax advisor for advice specific to your situation.*
+*General information about Colombia - not a recommendation you should act on unaided. There is no comprehensive income tax treaty between the United States and Colombia as of this update. Colombian personal income tax brackets and the ganancia ocasional rate can change annually - consult a qualified Colombian tax advisor for advice specific to your situation.*
 
 ---
 
@@ -155,7 +156,7 @@ She logs the exact purchase date of every lot she buys, since crossing the two-y
 ## Frequently Asked Questions
 
 **Can I buy VOO and QQQ directly as a Colombian investor?**
-Yes. Colombia is not subject to the EU's PRIIPs regulation, so any US-listed stock or ETF your broker offers is directly accessible.
+Yes. Nothing in Colombia mirrors PRIIPs, so US-listed stocks and ETFs are directly accessible through your broker.
 
 **Does filing W-8BEN reduce my US dividend withholding?**
 No. Without a US-Colombia tax treaty, the 30% default withholding applies regardless. Filing it still matters because it prevents backup withholding.
@@ -168,3 +169,7 @@ As ordinary income at Colombia's progressive rates (0%-39%) - there is no prefer
 
 **Which brokers accept Colombian residents?**
 Interactive Brokers and eToro are both confirmed to accept Colombian residents for account opening.
+
+---
+
+*Sources: IRS Publication 515 (2026) and IRS tax treaty tables (no Colombia listing); IRC §871 (non-resident alien taxation); LegalClarity - US-Colombia Tax Treaty: Current Status and Key Rules; PwC Colombia - Individual Taxes on Personal Income (2026); nexo.legal - Double Taxation Treaties Colombia and Capital Gains Tax Colombia 2026; FileAbroad - US-Colombia Tax Treaty: What American Expats Need to Know; IRS Publication 515 (2026).*

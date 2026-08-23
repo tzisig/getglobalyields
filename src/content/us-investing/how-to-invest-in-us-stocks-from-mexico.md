@@ -1,9 +1,9 @@
 ---
 slug: how-to-invest-in-us-stocks-from-mexico
 title: "How to Invest in US Stocks from Mexico (2026 Guide)"
-description: "How to invest in US stocks from Mexico: broker options, W-8BEN, the 10% treaty dividend rate, and why the BMV's capital gains rate doesn't apply."
+description: "How to Invest in US Stocks from Mexico: broker options, W-8BEN, the 10% treaty dividend rate, and why the BMV's capital gains rate doesn't apply."
 pubDate: 2026-08-11
-updatedDate: 2026-08-05
+updatedDate: 2026-08-11
 author: "Tzion Sigron"
 categories: ["US Investing"]
 tags:
@@ -24,9 +24,9 @@ featured: false
 schema:
   faq:
     - question: "Can I buy VOO and QQQ directly as a Mexican investor?"
-      answer: "Yes. Mexico is not subject to the EU's PRIIPs regulation, so any US-listed stock or ETF your broker offers is directly accessible."
+      answer: "Yes. US-domiciled ETFs are directly available from Mexico - PRIIPs applies to European residents only."
     - question: "What's the US withholding rate on my dividends?"
-      answer: "10%, under the US-Mexico tax treaty, once Form W-8BEN is filed with your broker - one of the more favorable rates among treaty countries. Without it, the default 30% applies."
+      answer: "10%, under the US-Mexico tax treaty, once Form W-8BEN is filed with your broker - one of the more favorable rates among treaty countries. Your broker applies the treaty rate only against a current W-8BEN."
     - question: "Does the BMV's 10% capital gains rate apply to my US stock gains?"
       answer: "No. US stock gains through a foreign broker are taxed as ordinary income at Mexico's progressive rate, up to 35% - not the BMV's preferential 10% rate."
     - question: "Will my broker report my gains to SAT automatically?"
@@ -55,9 +55,9 @@ Valentina is 31, lives in Guadalajara, and has traded on the BMV for years. She 
 
 ---
 
-## Step 1: What You Can Actually Buy
+## Step 1: Which US Funds Reach Mexico
 
-Mexico is not in the EU or EEA, so the PRIIPs restriction that blocks European residents from buying US-domiciled ETFs does not apply here. **Valentina can buy VOO, VTI, and QQQ directly** through a broker offering US market access.
+Mexico is not an EU or EEA jurisdiction, which means the PRIIPs regime blocking European investors from US-domiciled ETFs simply does not reach it. **Valentina can buy VOO, VTI, and QQQ directly** through a broker offering US market access.
 
 ---
 
@@ -70,9 +70,9 @@ The US-Mexico income tax treaty (1992, amended by protocols) caps US withholding
 | Dividends | 30% | **10%** |
 | Capital gains (securities) | Generally not US-taxable for non-residents | Residence country only |
 
-Without W-8BEN on file, the full 30% applies from the first dividend. Valentina checks her first dividend statement to confirm 10%, not 30%, was withheld.
+Form W-8BEN is what turns the default rate into the treaty rate. Valentina checks her first dividend statement to confirm 10%, not 30%, was withheld.
 
-For the full treaty mechanics, see our [US-Mexico tax treaty guide](/taxes/us-mexico-tax-treaty-investors/).
+For the full treaty mechanics, see our US-Mexico tax treaty guide.
 
 ---
 
@@ -105,9 +105,9 @@ Keep the broker's Form 1042-S (issued by March 15 each year) as documentation of
 
 ---
 
-## Step 5: Choose Your Broker
+## Step 5: The Broker Decision in Mexico
 
-**Interactive Brokers (IBKR)** and **eToro** are both confirmed to accept Mexican residents for account opening. Neither changes the treaty rate or the self-assessment obligation - those are functions of the treaty and Mexican domestic law, not broker choice. [See our full IBKR review →](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/) · [See our full eToro review →](/best-brokers/etoro-review-2026/)
+Mexican is supported for account opening at **Interactive Brokers (IBKR)** and **eToro**. Neither changes the treaty rate or the self-assessment obligation - those are functions of the treaty and Mexican domestic law, not broker choice. [See our full IBKR review →](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/) · [See our full eToro review →](/best-brokers/etoro-review-2026/)
 
 ---
 
@@ -118,11 +118,12 @@ Keep the broker's Form 1042-S (issued by March 15 each year) as documentation of
 
 ## Step 6: What Valentina's Portfolio Looks Like in Practice
 
-**Broker:** Interactive Brokers, for lower costs on a growing position.
+**Broker:** Interactive Brokers, since cost matters more as the account builds.
 
 **Portfolio allocation:**
-- 60% VOO (S&P 500, bought directly)
-- 40% QQQ (Nasdaq-100, bought directly)
+- 75% VOO (S&P 500, bought directly)
+- 25% QQQ (Nasdaq-100, bought directly)
+- Valentina had planned an even split, but QQQ's largest holdings already sit near the top of VOO - the two overlap heavily, and a 50/50 would concentrate her in mega-cap tech more than she intends
 - W-8BEN filed and confirmed active (10% withholding on her dividend statement)
 
 **Annual tax situation:**
@@ -139,28 +140,28 @@ She keeps a running log of trades and dividend payments in pesos, converted at t
 
 ---
 
-## Common Mistakes to Avoid
+## The Usual Mistakes Around Mexico
 
 **Assuming the BMV's 10% capital gains rate applies to US stocks.** It does not - US stock gains are ordinary income at the progressive rate, up to 35%.
 
 **Expecting a foreign broker to withhold or report Mexican tax.** It will not. Self-assessment and SAT filing are entirely the investor's responsibility.
 
-**Forgetting W-8BEN.** Without it, 30% withholding applies instead of the treaty's 10%.
+**Forgetting W-8BEN.** An unfiled form costs the difference between 10% and 30% on every dividend you receive.
 
 **Not converting gains and dividends to pesos correctly** for Mexican reporting purposes at the appropriate exchange rate.
 
 ---
 
-## What to Do This Week
+## The First Things to Do From Mexico
 
-1. **Open a broker account.** IBKR for lower costs and broader access, eToro for a simpler entry point.
+1. **Open a broker account.** Cost and product range favour IBKR, simplicity favours eToro.
 2. **File your W-8BEN** during account opening.
-3. **Buy VOO or QQQ directly** - no UCITS workaround needed outside the EU.
+3. **PRIIPs binds EU residents, so the US-domiciled range is open to you.**
 4. **Set up a system for tracking gains and dividends in pesos**, since self-assessment is your responsibility with a foreign broker.
 
 ---
 
-*This article is for informational purposes only and does not constitute personalized tax or financial advice. Treaty rates are based on the US-Mexico Income Tax Convention (1992) and its protocols. Mexican progressive rate brackets reflect 2026 guidance and can change annually - consult a qualified Mexican tax advisor (contador) for advice specific to your situation.*
+*Everything here about Mexico is educational, not personalised advice. Treaty rates are based on the US-Mexico Income Tax Convention (1992) and its protocols. Mexican progressive rate brackets reflect 2026 guidance and can change annually - consult a qualified Mexican tax advisor (contador) for advice specific to your situation.*
 
 ---
 
@@ -175,7 +176,7 @@ She keeps a running log of trades and dividend payments in pesos, converted at t
 ## Frequently Asked Questions
 
 **Can I buy VOO and QQQ directly as a Mexican investor?**
-Yes. Mexico is not subject to the EU's PRIIPs regulation, so any US-listed stock or ETF your broker offers is directly accessible.
+Yes. US-domiciled ETFs are directly available from Mexico - PRIIPs applies to European residents only.
 
 **What's the US withholding rate on my dividends?**
 10%, under the US-Mexico tax treaty, once Form W-8BEN is filed with your broker - one of the more favorable rates among treaty countries. Without it, the default 30% applies.
@@ -188,3 +189,7 @@ No. Foreign brokers like Interactive Brokers do not withhold Mexican tax or repo
 
 **Which brokers accept Mexican residents?**
 Interactive Brokers and eToro are both confirmed to accept Mexican residents for account opening.
+
+---
+
+*Sources: US-Mexico Income Tax Convention (1992) and protocols; IRS treaty text; JCT explanation of the treaty and protocol; IRS Publication 515 (2026).*

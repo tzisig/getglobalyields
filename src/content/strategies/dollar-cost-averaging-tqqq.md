@@ -1,4 +1,4 @@
-﻿---
+---
 slug: dollar-cost-averaging-tqqq
 title: "Dollar-Cost Averaging TQQQ: Strategy Guide for 2026"
 description: "How to DCA into TQQQ as a non-US investor. Entry timing, position sizing, volatility decay impact, and when DCA works - and when it doesn't - on a 3x ETF."
@@ -8,7 +8,7 @@ author: "Tzion Sigron"
 categories: ["Strategies"]
 tags:
   - "TQQQ DCA"
-  - "dollar cost averaging TQQQ"
+  - "Dollar-Cost Averaging TQQQ"
   - "TQQQ lump sum vs DCA"
   - "TQQQ start date comparison"
   - "leveraged ETF strategy"
@@ -303,7 +303,7 @@ All figures in this article are available for independent verification in our <a
 
 ---
 
-*This article is informational only and does not constitute investment advice. TQQQ involves substantial risk including the possibility of total loss. All TQQQ scenario figures are calculated from Yahoo Finance monthly adjusted close data (Jan 2016–Dec 2025), downloaded May 2026, using a consistent methodology across all four scenarios. QQQ comparison figures use QuantFlowLab backtest data (March 2026). Past performance does not predict future results.*
+*A general account of Dollar-Cost Averaging TQQQ, not advice tailored to anyone in particular. TQQQ involves substantial risk including the possibility of total loss. All TQQQ scenario figures are calculated from Yahoo Finance monthly adjusted close data (Jan 2016–Dec 2025), downloaded May 2026, using a consistent methodology across all four scenarios. QQQ comparison figures use QuantFlowLab backtest data (March 2026). Past performance does not predict future results.*
 
 *Sources: ProShares TQQQ official data; Yahoo Finance TQQQ adjusted close history; QuantFlowLab TQQQ/QQQ Backtest (March 2026); PortfoliosLab TQQQ data (May 2026); Raw price data and scenario calculations: <a href="https://docs.google.com/spreadsheets/d/1byhijLW0jCuVON8bM549IqpMSQcXQPEA/edit?usp=sharing" target="_blank" rel="noopener noreferrer">Google Sheets</a> (Yahoo Finance adj close, Jan 2016–Dec 2025).*
 

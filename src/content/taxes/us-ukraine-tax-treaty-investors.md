@@ -20,17 +20,17 @@ readingTime: "9 min read"
 featured: false
 seo:
   metaTitle: "US-Ukraine Tax Treaty: The Dividends-vs-Gains Tax Gap (2026)"
-  metaDescription: "How the US-Ukraine tax treaty caps dividend withholding at 15%. Why Ukraine taxes foreign dividends at 14% combined but capital gains from securities at 23%."
+  metaDescription: "A US-Ukraine tax treaty caps dividend withholding at 15%. Why Ukraine taxes foreign dividends at 14% combined but capital gains from securities at 23%."
   ogTitle: "US-Ukraine Tax Treaty: The Dividends-vs-Gains Tax Gap (2026)"
-  ogDescription: "How the US-Ukraine tax treaty caps dividend withholding at 15%. Why Ukraine taxes foreign dividends at 14% combined but capital gains from securities at 23%."
-  ogImage: "/images/blog/taxes/us-ukraine-tax-treaty.webp"
+  ogDescription: "A US-Ukraine tax treaty caps dividend withholding at 15%. Why Ukraine taxes foreign dividends at 14% combined but capital gains from securities at 23%."
+  ogImage: "/images/blog/taxes/us-ukraine-tax-treaty-investors.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"
   headline: "US-Ukraine Tax Treaty: The Dividends-vs-Gains Tax Gap (2026)"
-  description: "How the US-Ukraine tax treaty caps dividend withholding at 15%. Why Ukraine taxes foreign dividends at 14% combined but capital gains from securities at 23%."
+  description: "A US-Ukraine tax treaty caps dividend withholding at 15%. Why Ukraine taxes foreign dividends at 14% combined but capital gains from securities at 23%."
   author: "Tzion Sigron"
-  datePublished: "2026-09-08"
+  datePublished: "2026-11-10"
   dateModified: "2026-09-08"
   image: "/images/blog/taxes/us-ukraine-tax-treaty-investors.webp"
   mainEntityOfPage: "https://getglobalyields.com/taxes/us-ukraine-tax-treaty-investors"
@@ -66,7 +66,7 @@ This guide covers that gap clearly, alongside the treaty's standard 15% dividend
 
 ---
 
-## The Treaty: 15% on Dividends
+## Dividends: What the Ukraine Treaty Actually Gives You
 
 | Income Type | Default US Rate | Treaty Rate (Portfolio) |
 |---|---|---|
@@ -75,7 +75,7 @@ This guide covers that gap clearly, alongside the treaty's standard 15% dividend
 
 *Sources: US-Ukraine Income Tax Convention; IRS treaty text.*
 
-Claiming the 15% rate requires Form [W-8BEN](/taxes/w8ben-form-non-us-investors/) filed with your broker. Without it, the full 30% default applies from the first dividend payment.
+File Form [W-8BEN](/taxes/w8ben-form-non-us-investors/) with the broker and the rate drops to 15%. Absent the form, withholding defaults to 30% immediately.
 
 **Worked example - a $2,000 US dividend:**
 - US withholding at 15% (treaty rate, W-8BEN on file): $300
@@ -87,21 +87,21 @@ Claiming the 15% rate requires Form [W-8BEN](/taxes/w8ben-form-non-us-investors/
 
 ---
 
-## Broker Access
+## Ukraine and the Broker Shortlist
 
-Both Interactive Brokers and eToro are confirmed to accept Ukrainian residents for account opening. Neither the dividends-vs-gains tax split nor the military levy changes based on which broker holds the position - both are functions of Ukrainian domestic law.
+Ukrainian investors have Interactive Brokers and eToro available to them. Neither the dividends-vs-gains tax split nor the military levy changes based on which broker holds the position - both are functions of Ukrainian domestic law.
 
 ---
 
-## Practical Checklist
+## A Ukraine Investor's Checklist
 
-**Ukrainian resident investing in US stocks:**
+**Before you place the first trade from Ukraine:**
 - [ ] Confirm W-8BEN is on file with your broker; verify 15%, not 30%, on dividend statements
 - [ ] Know the split: foreign dividends taxed at 14% combined (9% PIT + 5% military levy), capital gains from securities at 23% combined (18% PIT + 5% levy)
 - [ ] Factor the 9-point rate gap into buy-and-hold-for-dividends versus active-trading decisions, where Ukrainian domestic tax treatment differs meaningfully
 - [ ] Track that the 5% military levy is a wartime rate, legally set to revert to 1.5% the year after martial law is lifted - don't assume it's permanent for long-term planning
 - [ ] Claim the foreign tax credit for the 15% US withholding against your combined Ukrainian dividend liability (14%), which the US rate fully absorbs
-- [ ] Confirm current account-opening requirements with Interactive Brokers or eToro before applying
+- [ ] Check the broker's current Ukrainian documentation and eligibility position before applying
 
 ---
 
@@ -112,20 +112,20 @@ Both Interactive Brokers and eToro are confirmed to accept Ukrainian residents f
 
 ---
 
-## Bottom Line
+## Stepping Back from the Ukraine Detail
 
 The treaty rate is standard - 15% on dividends, claimed with W-8BEN, and more than enough to absorb Ukraine's own 14% combined domestic dividend rate via the foreign tax credit. The detail worth understanding is the structural gap between how Ukraine taxes dividend income (14% combined) versus capital gains from selling securities (23% combined) - a real, current difference driven partly by the temporary 5% wartime military levy layered on both. That levy is legally temporary, tied to the duration of martial law, which is worth keeping in mind for any long-horizon planning.
 
 ---
 
-*This article is informational only and does not constitute tax or legal advice. Treaty rates are based on the US-Ukraine Income Tax Convention. Ukraine's PIT rates and the military levy are set by Ukrainian law, tied to the current state of martial law, and can change - always consult a qualified Ukrainian tax advisor for advice specific to your situation.*
+*Nothing here is tax or legal advice about investing from Ukraine for your particular case. Rate information is based on the US-Ukraine Income Tax Convention. Ukraine's PIT rates and the military levy are set by Ukrainian law, tied to the current state of martial law, and can change. Get Ukrainian professional advice keyed to your own portfolio.*
 
 *Sources: US-Ukraine Income Tax Convention; IRS Publication 515 (2026); PwC Ukraine - Individual Taxes on Personal Income and Income Determination (2026); EY Ukraine - Changes in Personal Income Taxation; Azola Legal Services - What Will the Increase in Military Levy in Ukraine Affect?; TaxRavens - Ukraine Personal Income Tax 2026; First Accounting - Taxation of Dividends in Ukraine.*
 
 ## Related Guides
 
-- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
 - [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)
 - [PFIC Rules for International Investors](/taxes/pfic-rules-international-investors/)
+- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
 - [US-Russia Tax Treaty for Investors](/taxes/us-russia-tax-treaty-investors/)
 - [US-Poland Tax Treaty for Investors](/taxes/us-poland-tax-treaty-investors/)

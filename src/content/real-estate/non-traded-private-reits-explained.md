@@ -58,13 +58,13 @@ Every publicly traded REIT covered elsewhere on this site - Realty Income, Wellt
 
 ---
 
-## Bottom Line
+## Summing Up Non-Traded REITs Explained
 
 Non-traded REITs offer real estate exposure with less day-to-day price volatility than a publicly traded REIT, funded by a genuine structural trade-off: periodic, capped liquidity rather than instant access. BREIT's 2022-2024 redemption limit isn't ancient history or a cautionary tale from a different era - it's a recent, well-documented, real demonstration of exactly what that trade-off means in practice when it actually gets tested, complete with specific numbers ($5.3 billion in peak monthly requests, over a year to fully unwind) rather than an abstract warning.
 
 ---
 
-*This article is for informational purposes only and does not constitute financial advice. Fee structures, redemption limits, and fund terms vary significantly by product and change over time - review current offering documents directly before investing in any non-traded REIT.*
+*Treat this as background on Non-Traded REITs Explained, not as advice for your own position. Fee structures, redemption limits, and fund terms vary significantly by product and change over time - review current offering documents directly before investing in any non-traded REIT.*
 
 ## Related Guides
 

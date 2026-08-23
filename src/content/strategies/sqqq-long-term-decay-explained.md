@@ -66,13 +66,13 @@ SQQQ itself isn't available to most European retail investors at all. Because SQ
 
 ---
 
-## Bottom Line
+## What to Take Away From Holding SQQQ Long Term
 
 SQQQ and TQQQ share the exact same volatility-decay formula, but only one of them gets a favorable long-term trend working to partially offset it. SQQQ's trend headwind and volatility decay compound in the same direction, which is the structural, mathematical reason "how long is too long" has a much shorter answer for SQQQ than it does for its leveraged-long counterpart - measured in days for a genuine tactical trade, not the weeks or months an investor might reasonably consider for a leveraged long position on a fund riding a favorable trend.
 
 ---
 
-*This article is for informational purposes only and does not constitute financial advice. Leveraged and inverse ETFs carry substantial risk and are generally unsuitable for extended holding periods. The decay figures described are illustrative applications of a general formula, not a guarantee of any specific fund's future performance. Consult a qualified financial advisor before trading leveraged or inverse products.*
+*Context on Holding SQQQ Long Term, not counsel on what you personally should do. Leveraged and inverse ETFs carry substantial risk and are generally unsuitable for extended holding periods. The decay figures described are illustrative applications of a general formula, not a guarantee of any specific fund's future performance. Get qualified advice before putting money into leveraged or inverse products.*
 
 ## Related Guides
 

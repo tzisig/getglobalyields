@@ -1,7 +1,7 @@
 ---
 slug: us-peru-tax-treaty-investors
 title: "US-Peru Tax Treaty for Investors: No Treaty, Progressive Rates (2026)"
-description: "Peru investor guide to US stock taxation. There's no US-Peru tax treaty, so full 30% US dividend withholding applies. Peru taxes foreign dividends and capital gains as ordinary income at progressive rates up to 30%."
+description: "Peru investor guide to US stock taxation. US dividends are withheld at the full 30% - no US-Peru tax treaty reduces it. Peru taxes foreign dividends and capital gains as ordinary income at progressive rates up to 30%."
 pubDate: 2026-11-04
 updatedDate: 2026-09-01
 author: "Tzion Sigron"
@@ -19,18 +19,18 @@ draft: true
 readingTime: "9 min read"
 featured: false
 seo:
-  metaTitle: "US-Peru Tax Treaty: No Treaty, Progressive Rates to 30% (2026)"
-  metaDescription: "There's no US-Peru tax treaty, so full 30% US dividend withholding applies. Peru taxes foreign dividends and capital gains as ordinary income at progressive rates up to 30%."
+  metaTitle: "US-Peru: No Treaty, Progressive Rates to 30% (2026)"
+  metaDescription: "There's no US-Peru tax treaty, so full 30% US dividend withholding applies. Peru taxes foreign dividends and capital gains as ordinary income at progressive."
   ogTitle: "US-Peru Tax Treaty: No Treaty, Progressive Rates to 30% (2026)"
-  ogDescription: "There's no US-Peru tax treaty, so full 30% US dividend withholding applies. Peru taxes foreign dividends and capital gains as ordinary income at progressive rates up to 30%."
-  ogImage: "/images/blog/taxes/us-peru-tax-treaty.webp"
+  ogDescription: "There's no US-Peru tax treaty, so full 30% US dividend withholding applies. Peru taxes foreign dividends and capital gains as ordinary income at progressive."
+  ogImage: "/images/blog/taxes/us-peru-tax-treaty-investors.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"
   headline: "US-Peru Tax Treaty: No Treaty, Progressive Rates to 30% (2026)"
-  description: "There's no US-Peru tax treaty, so full 30% US dividend withholding applies. Peru taxes foreign dividends and capital gains as ordinary income at progressive rates up to 30%."
+  description: "There's no US-Peru tax treaty, so full 30% US dividend withholding applies. Peru taxes foreign dividends and capital gains as ordinary income at progressive."
   author: "Tzion Sigron"
-  datePublished: "2026-09-01"
+  datePublished: "2026-11-04"
   dateModified: "2026-09-01"
   image: "/images/blog/taxes/us-peru-tax-treaty-investors.webp"
   mainEntityOfPage: "https://getglobalyields.com/taxes/us-peru-tax-treaty-investors"
@@ -47,7 +47,7 @@ This guide covers both pieces clearly.
 
 ---
 
-## No Treaty: Full 30% US Withholding
+## The Missing Treaty and What It Costs Peruvian Investors
 
 Because no income tax treaty exists between the US and Peru, there's no treaty article to reduce the default US withholding rate. Every US dividend paid to a Peru-resident investor is withheld at the full **30% statutory rate**.
 
@@ -76,21 +76,41 @@ This is the detail most likely to trip up a Peru-resident investor who's seen Pe
 
 ---
 
-## Broker Access
+## Why the Progressive Bracket Is the Whole Story
 
-Both Interactive Brokers and eToro are confirmed to accept Peru-resident investors for account opening. Neither the no-treaty status nor Peru's progressive foreign-source income treatment depends on which broker holds the position.
+Peru does not give foreign investment income its own flat rate. It is bolted onto your other income and taxed at whatever bracket that lands you in - so the identical dividend costs different people very different amounts.
+
+Take a **$3,000** US dividend. The US withholds **$900** at 30% before it arrives. What Peru then adds depends on total income:
+
+| Your Peruvian bracket | Peruvian tax on the $3,000 | Combined cost | Effective rate |
+|---|---|---|---|
+| 8% | $240 | $1,140 | 38% |
+| 14% | $420 | $1,320 | 44% |
+| 30% (top) | $900 | $1,800 | **60%** |
+
+**Read that table as a ceiling, not a forecast.** It shows the two taxes stacking with nothing offsetting them, which is the worst case. Peru does grant a credit for income tax paid abroad on foreign-source income, and it is generally capped at the taxpayer's own average rate applied to that foreign income rather than refunding the full US withholding. The practical effect is that a Peruvian investor in the top bracket does not usually hand over 60 cents of every dividend dollar - but neither does the credit wipe out the US 30%, because the credit ceiling is tied to the Peruvian rate, and the US rate is higher than the Peruvian average rate for most taxpayers. Work the actual number with a Peruvian tax adviser rather than assuming either extreme; the point of the table is that the *Peruvian* bracket, not the US withholding, is what moves your outcome.
+
+The important detail is that the 5% figure most people find when they search for Peruvian dividend tax **does not appear anywhere in this table**. That rate belongs to dividends paid by Peruvian companies and withheld at source. A US dividend is foreign-source, consolidated with your salary, and taxed progressively - which for a high earner is six times the rate they were expecting.
+
+**And the same treatment reaches capital gains.** Selling US shares produces foreign-source gain, consolidated and taxed progressively. The MILA carve-out that gives separate treatment to Chilean, Mexican and Colombian securities does not extend to US-listed ones.
 
 ---
 
-## Practical Checklist
+## Broker Coverage for Peru
 
-**Peru resident investing in US stocks:**
-- [ ] File Form W-8BEN with your broker anyway - it won't reduce the 30% rate, but avoids default backup withholding treatment on an undocumented account
+Two brokers cover Peru reliably: Interactive Brokers and eToro. Neither the no-treaty status nor Peru's progressive foreign-source income treatment depends on which broker holds the position.
+
+---
+
+## How Peruvian Residents Should Approach This
+
+**The Peruvian investor's short list:**
+- [ ] File W-8BEN despite the absence of a treaty - it documents foreign status and keeps backup withholding, which hits gross proceeds, off the account
 - [ ] Expect 30% US withholding on every dividend payment, with no treaty-based reduction available
 - [ ] Don't assume Peru's flat 5% domestic dividend rate applies to your US dividends - it doesn't; foreign-source dividends are taxed progressively instead
 - [ ] Declare foreign-source dividends and capital gains from US stocks on your Annual Income Tax Return (Declaración Jurada Anual), consolidated with other income
 - [ ] Confirm with a Peruvian tax advisor how much of the 30% US withholding is creditable against your progressive Peruvian liability on the same income
-- [ ] Confirm current account-opening requirements with Interactive Brokers or eToro before applying
+- [ ] Ask the broker directly what documentation they need from you this year
 
 ---
 
@@ -101,20 +121,20 @@ Both Interactive Brokers and eToro are confirmed to accept Peru-resident investo
 
 ---
 
-## Bottom Line
+## Pulling the Peru Threads Together
 
-There's no US-Peru tax treaty, so the full 30% US withholding applies with no reduction available - W-8BEN still matters for documentation, not for a lower rate. On the Peru side, the mistake to avoid is assuming the well-known flat 5% Peruvian dividend rate applies to US dividends - it doesn't. Foreign-source dividends and capital gains are folded into your regular income and taxed progressively, up to 30%, which can mean a meaningfully different - and for higher earners, higher - liability than the flat domestic rate most quick searches turn up.
+There's no US-Peru tax treaty, so the full 30% US withholding applies with no reduction available - W-8BEN is a documentation step, not a lever on the rate. On the Peru side, the mistake to avoid is assuming the well-known flat 5% Peruvian dividend rate applies to US dividends - it doesn't. Foreign-source dividends and capital gains are folded into your regular income and taxed progressively, up to 30%, which can mean a meaningfully different - and for higher earners, higher - liability than the flat domestic rate most quick searches turn up.
 
 ---
 
-*This article is informational only and does not constitute tax or legal advice. There is no US-Peru income tax treaty currently in force. Peru's progressive tax rates and foreign-source income rules are set by Peruvian law (SUNAT) and can change - always consult a qualified Peruvian tax advisor for advice specific to your situation.*
+*Take this as context on investing from Peru and nothing more. There is no US-Peru income tax treaty currently in force. Peru's progressive tax rates and foreign-source income rules are set by Peruvian law (SUNAT) and can change. Your own case belongs with a qualified Peruvian tax adviser.*
 
 *Sources: PwC Peru - Corporate Withholding Taxes and Individual Foreign Tax Relief and Tax Treaties (2026); SUNAT - Rentas de Fuente Extranjera (2026); Inversión Simple - Impuestos Sobre Inversiones en Perú and Impuestos a Pagar por Ganancias en la Bolsa de Valores en Perú; IRS Publication 515 (2026).*
 
 ## Related Guides
 
-- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
-- [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)
 - [PFIC Rules for International Investors](/taxes/pfic-rules-international-investors/)
+- [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)
 - [US-Chile Tax Treaty for Investors](/taxes/us-chile-tax-treaty-investors/)
 - [US-Colombia Tax Treaty for Investors](/taxes/us-colombia-tax-treaty-investors/)
+- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)

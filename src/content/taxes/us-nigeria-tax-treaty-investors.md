@@ -1,7 +1,7 @@
 ---
 slug: us-nigeria-tax-treaty-investors
 title: "Investing in US Stocks from Nigeria: No Treaty, New 2026 Tax Act (2026)"
-description: "There is no US-Nigeria tax treaty, so 30% US dividend withholding applies with no reduction. Nigeria's new 2026 Tax Act retains a foreign dividend exemption through approved channels and overhauls capital gains - here's what's changed."
+description: "No tax treaty covers US-Nigeria, leaving dividends withheld at the full 30%. Nigeria's new 2026 Tax Act retains a foreign dividend exemption through approved channels and overhauls capital gains - here's what's changed."
 pubDate: 2026-09-15
 updatedDate: 2026-08-17
 author: "Tzion Sigron"
@@ -20,17 +20,17 @@ readingTime: "9 min read"
 featured: false
 seo:
   metaTitle: "Interactive Brokers Nigeria: US Stock Tax Guide (2026)"
-  metaDescription: "No US-Nigeria tax treaty means 30% US dividend withholding with no reduction. Nigeria's new 2026 Tax Act, the foreign dividend exemption, and IBKR/eToro access covered."
+  metaDescription: "Without a US-Nigeria tax treaty, dividend withholding stays at the full 30%. Nigeria's new 2026 Tax Act, the foreign dividend exemption, and IBKR/eToro."
   ogTitle: "Interactive Brokers Nigeria: US Stock Tax Guide (2026)"
-  ogDescription: "No US-Nigeria tax treaty means 30% US dividend withholding with no reduction. Nigeria's new 2026 Tax Act, the foreign dividend exemption, and IBKR/eToro access covered."
-  ogImage: "/images/blog/taxes/us-nigeria-tax-treaty.webp"
+  ogDescription: "Without a US-Nigeria tax treaty, dividend withholding stays at the full 30%. Nigeria's new 2026 Tax Act, the foreign dividend exemption, and IBKR/eToro."
+  ogImage: "/images/blog/taxes/us-nigeria-tax-treaty-investors.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"
   headline: "Interactive Brokers Nigeria: US Stock Tax Guide (2026)"
-  description: "No US-Nigeria tax treaty means 30% US dividend withholding with no reduction. Nigeria's new 2026 Tax Act, the foreign dividend exemption, and IBKR/eToro access covered."
+  description: "Without a US-Nigeria tax treaty, dividend withholding stays at the full 30%. Nigeria's new 2026 Tax Act, the foreign dividend exemption, and IBKR/eToro."
   author: "Tzion Sigron"
-  datePublished: "2026-08-17"
+  datePublished: "2026-09-15"
   dateModified: "2026-08-17"
   image: "/images/blog/taxes/us-nigeria-tax-treaty-investors.webp"
   mainEntityOfPage: "https://getglobalyields.com/taxes/us-nigeria-tax-treaty-investors"
@@ -47,9 +47,9 @@ What makes 2026 a genuinely important year to get this right: Nigeria's tax syst
 
 ---
 
-## No Treaty: The 30% Is Fixed
+## No Treaty Relief for Nigerian Residents
 
-Without a treaty, W-8BEN doesn't reduce the withholding rate the way it does in treaty countries - it still certifies non-US person status and prevents the higher backup withholding regime from applying, but the number on your dividend statement will read 30%.
+With no treaty in place, W-8BEN buys no rate reduction. What it does is certify non-US status and prevent backup withholding, which at 24% is lower but reaches gross sale proceeds rather than dividends alone. Your statement will still show 30%.
 
 **Capital gains:** the US generally does not tax capital gains realized by a non-resident alien on US securities under domestic law (IRC §871), independent of treaty status - this part of the picture doesn't depend on a US-Nigeria treaty existing at all.
 
@@ -80,21 +80,21 @@ Nigerian tax residents - determined by domicile, habitual abode, family and econ
 
 ---
 
-## Broker Access
+## Can a Nigeria Resident Open a US Brokerage Account?
 
-Both Interactive Brokers and eToro are confirmed to accept Nigerian residents for account opening. Confirm current requirements directly before applying, since broker policies for specific countries can change.
+Interactive Brokers and eToro both list Nigeria among the countries they onboard. Ask the broker what it currently requires - published country rules go stale quickly.
 
 ---
 
-## Practical Checklist
+## Things to Confirm Before You Buy from Nigeria
 
-**Nigerian resident investing in US stocks:**
+**If you're a Nigerian resident holding US stocks:**
 - [ ] Expect 30% US dividend withholding with no treaty reduction - file W-8BEN anyway to certify status and avoid backup withholding
 - [ ] Confirm with a Nigerian tax advisor whether the foreign dividend exemption (for income remitted through approved channels) applies to your specific account and remittance structure
 - [ ] Understand that capital gains are now assessed under the progressive personal income tax framework rather than a flat rate, following the 2026 Tax Act
 - [ ] Don't confuse Nigeria's new higher capital gains rates for foreign investors in Nigerian securities with the separate question of how your own gains on US stocks are taxed
 - [ ] Confirm your Nigerian tax residency status (183+ days, or domicile/habitual-abode tests) if you split time between Nigeria and another country
-- [ ] Confirm current account-opening requirements with Interactive Brokers or eToro before applying
+- [ ] Verify Nigerian residents are currently accepted before you begin; this is one of the more volatile eligibility lists
 
 ---
 
@@ -105,20 +105,20 @@ Both Interactive Brokers and eToro are confirmed to accept Nigerian residents fo
 
 ---
 
-## Bottom Line
+## What It Comes Down To in Nigeria
 
 The US side is fixed and simple: no treaty, 30% withholding on dividends, no US tax on capital gains. The Nigerian side changed meaningfully in 2026 - capital gains now run through the progressive income tax system rather than a flat rate, and the retained foreign-dividend exemption for income remitted through approved channels is a real, favorable provision worth confirming applies to your situation rather than assuming it does or doesn't without checking. Given how recent and structurally significant the 2026 Tax Act is, this is a case where getting current, specific advice from a Nigerian tax professional is worth more than relying on any general guide, including this one.
 
 ---
 
-*This article is informational only and does not constitute tax or legal advice. There is no comprehensive income tax treaty between the United States and Nigeria as of this update. Nigeria's Tax Act took effect January 1, 2026, and its application to individual foreign portfolio investors is still being clarified in practice - verify current details with a qualified Nigerian tax advisor before relying on any specific provision described here.*
+*Written as background on investing from Nigeria; it is not professional tax advice. As matters stand, no comprehensive income tax treaty links the two countries. Nigeria's Tax Act took effect January 1, 2026, and its application to individual foreign portfolio investors is still being clarified in practice - verify current details with a qualified Nigerian tax advisor before relying on any specific provision described here.*
 
 *Sources: IRS Publication 515 (2026) and IRS tax treaty tables (no Nigeria listing); PwC Nigeria - Individual Foreign Tax Relief and Tax Treaties, Individual Significant Developments (2026); Bloomberg Tax - New Nigeria Tax Law Redefines Capital Gains Tax for Individuals; Businessday NG - Nigeria Retains Foreign Investment Tax Relief as Tax Law Clarifies Treatment of Offshore Earnings; Pavestones Legal - The New Capital Gains Tax in Nigeria; Remote Solutions Africa - Nigeria's 2026 Tax Reform.*
 
 ## Related Guides
 
-- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
 - [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)
 - [Investing in US Stocks from Kenya](/taxes/us-kenya-tax-treaty-investors/)
+- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
 - [US-South Africa Tax Treaty for Investors](/taxes/us-south-africa-tax-treaty-investors/)
 - [Best Brokers for International Investors](/best-brokers/best-brokers-international-investors-2026/)

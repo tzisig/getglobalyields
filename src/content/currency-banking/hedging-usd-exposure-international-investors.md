@@ -1,7 +1,7 @@
 ---
 slug: hedging-usd-exposure-international-investors
 title: "Should You Hedge USD Exposure as an International Investor?"
-description: "Buying US stocks means taking on USD currency exposure alongside market exposure, whether you notice it or not. Hedging tools exist - but for most long-term individual investors, the honest answer is that hedging usually isn't worth it. The mechanics, the cost, and the narrow cases where it earns its keep."
+description: "Buying US stocks means taking USD exposure alongside market exposure. The hedging tools, their cost, and why most long-term individual investors skip them."
 pubDate: 2026-10-19
 updatedDate: 2026-08-06
 author: "Tzion Sigron"
@@ -26,7 +26,7 @@ Buying a US-listed stock or ETF with non-USD money creates two separate exposure
 
 If you buy a US stock that rises 10% in USD terms, but the dollar simultaneously weakens 5% against your home currency, your actual return in home-currency terms is closer to 5%, not 10% - the currency movement partially offset the investment gain. The reverse is also true: a weak year for the stock combined with dollar strength can produce a home-currency return better than the USD-denominated number suggests.
 
-**Worked example:** a Canadian investor buys $10,000 of a US ETF. Over the following year, the ETF rises 12% in USD terms, to $11,200. If the Canadian dollar simultaneously strengthens 4% against the USD over the same period, the CAD value of that $11,200 position is worth about 4% less in CAD terms than the raw 12% USD gain would suggest - the investor's actual CAD-denominated return lands closer to 7.5%, not 12%. Nothing "went wrong" with the investment; the currency simply moved in the opposite direction of the equity gain, eating into it.
+**Worked example:** a Canadian investor buys $10,000 of a US ETF. Over the following year, the ETF rises 12% in USD terms, to $11,200. If the Canadian dollar simultaneously strengthens 4% against the USD over the same period, the CAD value of that $11,200 position is worth about 4% less in CAD terms than the raw 12% USD gain would suggest - the investor's actual CAD-denominated return lands at about 7.7% (1.12 / 1.04 - 1), not 12%. Nothing "went wrong" with the investment; the currency simply moved in the opposite direction of the equity gain, eating into it.
 
 **This isn't a flaw in international investing - it's an unavoidable feature of holding assets denominated in a currency other than your own**, whether or not you think about it explicitly. Every unhedged cross-border position carries this second, independent variable.
 
@@ -84,7 +84,7 @@ Given how much market risk already dominates the return profile of a leveraged p
 
 ---
 
-## Practical Checklist
+## A Working List for Should You Hedge USD Exposure as an International Investor
 
 - [ ] Understand that unhedged USD exposure is a normal, unavoidable feature of holding US-listed assets from abroad, not something to solve by default
 - [ ] Check the current interest rate differential between your home currency and the USD, since it directly drives the ongoing cost of hedging
@@ -95,13 +95,13 @@ Given how much market risk already dominates the return profile of a leveraged p
 
 ---
 
-## Bottom Line
+## Where Should You Hedge USD Exposure as an International Investor Leaves You
 
 Every international investor holding US-listed assets carries USD currency exposure, whether or not they've thought about it directly. For most long-term, buy-and-hold investors, the honest answer is that the ongoing cost of hedging that exposure - driven by the interest rate differential between currencies - outweighs the benefit over a sufficiently long horizon. Hedging earns its cost mainly when a specific, known future need in your home currency is approaching, or when your home currency carries meaningfully higher volatility than a typical developed-market pair, not as a permanent default for a long-horizon portfolio.
 
 ---
 
-*This article is for informational purposes only and does not constitute financial advice. The worked example uses illustrative figures to demonstrate the mechanic described, not a forecast or guarantee of any specific outcome. Currency movements are unpredictable and past patterns do not indicate future results. Consult a qualified financial advisor before implementing any hedging strategy.*
+*Treat this as background on hedging usd exposure, not as advice for your own position. The worked example uses illustrative figures to demonstrate the mechanic described, not a forecast or guarantee of any specific outcome. Exchange rates move unpredictably, and past patterns are no guide to future ones. Consult a qualified financial advisor before implementing any hedging strategy.*
 
 ## Related Guides
 

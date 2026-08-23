@@ -23,19 +23,19 @@ featured: false
 seo:
   metaTitle: "W-8BEN Form Explained (2026): Reduce US Withholding Tax"
   metaDescription: "Step-by-step W-8BEN guide for non-US investors. Reduce dividend tax from 30% to treaty rates and avoid costly mistakes."
-  ogTitle: "W-8BEN Explained: Save Thousands in US Withholding Tax"
-  ogDescription: "Learn how non-US investors reduce US dividend tax using W-8BEN. Step-by-step guide + real examples."
-  ogImage: "/images/blog/taxes/w-8ben-form-guide.webp"
+  ogTitle: "W-8BEN Form Explained (2026): Reduce US Withholding Tax"
+  ogDescription: "Step-by-step W-8BEN guide for non-US investors. Reduce dividend tax from 30% to treaty rates and avoid costly mistakes."
+  ogImage: "/images/blog/taxes/w8ben-form-non-us-investors.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"
-  headline: "W-8BEN Form Explained (2026)"
-  description: "Complete guide to W-8BEN for international investors"
+  headline: "W-8BEN Form Explained (2026): Reduce US Withholding Tax"
+  description: "Step-by-step W-8BEN guide for non-US investors. Reduce dividend tax from 30% to treaty rates and avoid costly mistakes."
   author: "Tzion Sigron"
   datePublished: "2026-04-01"
   dateModified: "2026-08-04"
-  image: "/public/images/blog/taxes/w-8ben-form-guide.webp"
-  mainEntityOfPage: "https://getglobalyields.com/w8ben-form-non-us-investors"
+  image: "/images/blog/taxes/w8ben-form-non-us-investors.webp"
+  mainEntityOfPage: "https://getglobalyields.com/taxes/w8ben-form-non-us-investors"
   faq:
       - question: "What is the W-8BEN form?"
         answer: "The W-8BEN is an IRS form used by non-US investors to confirm they are not US persons, claim tax treaty benefits, and reduce US withholding tax on dividends and interest from 30% to their country's treaty rate."
@@ -155,12 +155,12 @@ Most brokers (especially Interactive Brokers) embed this digitally during signup
   </p>
 </div>
 
-<div style="background:#0a192f;border-radius:16px;padding:24px 24px 20px;border:1px solid #233554;font-family:system-ui,-apple-system,sans-serif;overflow-x:auto;">
+<div style="background:#0a192f;border-radius:16px;padding:24px 20px;border:1px solid #233554;font-family:system-ui,-apple-system,sans-serif;overflow-x:auto;">
   <div style="margin-bottom:20px;">
     <div style="color:#e2e8f0;font-size:18px;font-weight:600;letter-spacing:-0.3px;">The W-8BEN Form at a Glance: 3 Parts That Matter</div>
     <div style="color:#64748b;font-size:13px;margin-top:2px;">Based on the official IRS Form W-8BEN (Rev. October 2021)</div>
   </div>
-  <svg viewBox="0 0 900 210" style="width:100%;height:auto;min-width:600px;">
+  <svg viewBox="0 900 210" style="width:100%;height:auto;min-width:600px;">
     <rect x="10" y="10" width="280" height="190" rx="10" fill="#112240" stroke="#233554" stroke-width="1.5" />
     <text x="150" y="38" text-anchor="middle" fill="#D4B95A" font-size="13" font-weight="700">PART I</text>
     <text x="150" y="58" text-anchor="middle" fill="#e2e8f0" font-size="13" font-weight="700">Identification</text>
@@ -340,7 +340,7 @@ Next steps:
 
 ---
 
-*This article is informational only and does not constitute tax or legal advice. Form W-8BEN's current IRS revision remains October 2021 as of this update - no newer version has been issued. Treaty rates cited are per IRS Publication 515 and individual treaty texts. Always confirm your specific treaty rate and filing requirements with your broker or a qualified cross-border tax professional.*
+*This describes the W-8BEN at a general level and stops there. Form W-8BEN's current IRS revision remains October 2021 as of this update - no newer version has been issued. Treaty rates cited are per IRS Publication 515 and individual treaty texts. Always confirm your specific treaty rate and filing requirements with your broker or a qualified cross-border tax professional.*
 
 ## Related Guides
 

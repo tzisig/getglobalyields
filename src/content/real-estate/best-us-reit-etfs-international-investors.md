@@ -1,7 +1,7 @@
 ---
 slug: best-us-reit-etfs-international-investors
-title: "US REIT ETFs Compared: VNQ, SCHH, XLRE, and the Global Alternative"
-description: "US REIT ETFs differ mainly in what they hold - broad market-cap-weighted exposure, a single real estate sector, or REITs outside the US entirely - rather than in any dramatic cost difference between the large, established options. What actually distinguishes them, and how to pick based on what's already in a portfolio."
+title: "US REIT ETFs Compared: VNQ, SCHH and XLRE"
+description: "US REIT ETFs differ mainly in what they hold - broad market-cap exposure, a single sector, or REITs outside the US - not in cost. How to pick between them."
 pubDate: 2027-01-01
 updatedDate: 2026-08-06
 author: "Tzion Sigron"
@@ -76,7 +76,7 @@ The same non-resident withholding framework applies whether holding a REIT ETF o
 
 ---
 
-## Practical Checklist
+## US REIT ETFs Compared: What to Sort Out First
 
 - [ ] Decide between broad market-cap-weighted exposure and a narrower, sector- or size-specific fund based on what the rest of the portfolio already lacks
 - [ ] Check whether a US-only or global REIT fund better matches the goal - US-specific diversification versus broader geographic diversification
@@ -86,13 +86,13 @@ The same non-resident withholding framework applies whether holding a REIT ETF o
 
 ---
 
-## Bottom Line
+## What to Take Away From US REIT ETFs Compared
 
 The major US REIT ETFs are broadly similar in structure and mostly differ in what they actually hold - a broad market-cap-weighted basket, a narrower large-cap sector slice, or a global mix that adds non-US real estate and currency exposure. The right choice depends less on picking a "winner" and more on identifying what a real estate allocation is actually meant to accomplish alongside the rest of the portfolio.
 
 ---
 
-*This article is for informational purposes only and does not constitute financial advice, and does not constitute a recommendation to buy any specific fund mentioned. Fund holdings, sector weightings, and index methodologies change over time - confirm current fund details directly with the fund provider before investing.*
+*A general account of US REIT ETFs Compared, not advice tailored to anyone in particular. Fund holdings, sector weightings, and index methodologies change over time - confirm current fund details directly with the fund provider before investing.*
 
 ## Related Guides
 

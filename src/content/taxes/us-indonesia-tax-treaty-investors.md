@@ -1,6 +1,6 @@
 ---
 slug: us-indonesia-tax-treaty-investors
-title: "US-Indonesia Tax Treaty for Investors: The Complete 2026 Guide"
+title: "US-Indonesia Tax Treaty for Investors: The 15% Portfolio Rate (2026)"
 description: "US-Indonesia tax treaty guide for individual investors. The 15% portfolio dividend rate, how Indonesia taxes worldwide income for residents, and Interactive Brokers/eToro access for Indonesian residents."
 pubDate: 2026-08-06
 updatedDate: 2026-08-06
@@ -23,7 +23,7 @@ seo:
   metaDescription: "The US-Indonesia tax treaty caps dividend withholding at 15% for individuals. How Indonesia taxes worldwide income, plus IBKR and eToro access details."
   ogTitle: "US-Indonesia Tax Treaty Guide for Investors: 15% Rate (2026)"
   ogDescription: "The US-Indonesia tax treaty caps dividend withholding at 15% for individuals. How Indonesia taxes worldwide income, plus IBKR and eToro access details."
-  ogImage: "/images/blog/taxes/us-indonesia-tax-treaty.webp"
+  ogImage: "/images/blog/taxes/us-indonesia-tax-treaty-investors.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"
@@ -47,7 +47,7 @@ This guide covers that treaty rate, how Indonesia taxes the resulting worldwide 
 
 ---
 
-## The Treaty: 15% on Dividends
+## Indonesia's 15% Dividend Rate
 
 | Income Type | Default US Rate | Treaty Rate (Portfolio, under 25%) | Direct Investment (25%+) |
 |---|---|---|---|
@@ -58,7 +58,7 @@ This guide covers that treaty rate, how Indonesia taxes the resulting worldwide 
 
 The 25% direct-investment threshold in this treaty is notably higher than the 10% figure used in most other US treaties covered in this series - worth knowing if you're used to the "10% for corporate holders" pattern from other countries, since Indonesia's treaty sets the bar higher before the reduced rate applies.
 
-Claiming the 15% rate requires Form W-8BEN filed with your broker. Without it, the full 30% default applies from the first dividend payment - check your dividend statement to confirm which rate is actually withheld.
+Your broker needs Form W-8BEN before it will apply 15%. Without the form, 30% comes off from the very first distribution.
 
 ---
 
@@ -77,21 +77,60 @@ Indonesian tax residents are taxed on worldwide income, which includes gains and
 
 ---
 
-## Broker Access
+## What the 15% Is Worth Against the 30% Default
 
-Both Interactive Brokers and eToro are confirmed to accept Indonesian residents for account opening. Confirm current account-opening requirements directly before applying, since broker policies can change by country.
+The treaty rate is the whole reason the W-8BEN matters here, and its value scales directly with how much of the portfolio pays dividends.
+
+On **$6,000** of annual US dividends:
+
+| | Withheld | Reaching the account |
+|---|---|---|
+| No W-8BEN on file | $1,800 (30%) | $4,200 |
+| W-8BEN filed | **$900** (15%) | **$5,100** |
+
+**$900 a year, recovered by a form that takes minutes.** Over a decade of holding, on a portfolio of that size, the unfiled form costs $9,000 before any compounding on the money that never arrived.
+
+The 10% tier written into the treaty is not available to you: it requires owning 25% or more of the paying company, which no retail position approaches. Seeing 10% quoted in a summary table and expecting it on your statement is a straightforward misreading of who that rate is for.
+
+**On the capital gains side the US takes nothing** - Article 13 assigns those exclusively to Indonesia. What Indonesia then charges on foreign-source gains is the genuinely open question flagged above, and it is the one worth putting to an Indonesian advisor rather than assuming the IDX treatment carries over.
 
 ---
 
-## Practical Checklist
+## Account Access for Indonesian Investors
 
-**Indonesian resident investing in US stocks:**
+Interactive Brokers and eToro both onboard Indonesian residents. Confirm current account-opening requirements directly before applying, since broker policies can change by country.
+
+---
+
+## The Worldwide-Income Layer, and Why It Is the Open Question
+
+The US side of an Indonesian investor's position is settled: 15% on dividends with the form filed, nothing on capital gains. The Indonesian side is not, and that asymmetry deserves stating plainly rather than being left implicit.
+
+Indonesia taxes residents on worldwide income, so both the dividend and any gain are inside the domestic base in principle. What is unresolved is the rate applied to foreign-source investment income for an individual, and whether the 15% already withheld in the US credits against it.
+
+Three outcomes are possible on a **$10,000** dividend, and they are far apart:
+
+| Scenario | US | Indonesia | Total |
+|---|---|---|---|
+| Full credit for US tax | $1,500 | $0 additional | **$1,500** (15%) |
+| Partial credit | $1,500 | some top-up | between |
+| No credit, taxed on gross | $1,500 | domestic rate on $10,000 | **highest** |
+
+**The IDX trap is the specific thing to avoid.** Indonesia gives shares traded on the Indonesia Stock Exchange a preferential final-tax treatment that many investors assume carries across to a US brokerage account. There is no basis for that assumption, and the article above says so deliberately - the domestic-market rate is a rate for the domestic market.
+
+**What to actually do:** ask an Indonesian tax advisor two questions in writing - what rate applies to foreign-source dividends and gains for an individual, and whether the US 15% credits against it. Everything else in this guide is settled; those two answers are not.
+
+---
+
+## Indonesia: What to Sort Out First
+
+**Your running list as an Indonesian resident:**
 - [ ] Confirm W-8BEN is on file with your broker; verify 15%, not 30%, on dividend statements
 - [ ] Renew W-8BEN before the three-year expiry
 - [ ] Report US dividends and capital gains as part of worldwide income on your Indonesian tax return
 - [ ] Don't assume IDX-listed share tax treatment extends to foreign (US) securities without confirming the applicable rules with a tax advisor
 - [ ] Keep Form 1042-S as documentation of US withholding for any Indonesian filing or credit claim
-- [ ] Confirm current account-opening requirements with Interactive Brokers or eToro before applying
+- [ ] Verify current onboarding requirements with Interactive Brokers or eToro yourself
 
 ---
 
@@ -102,20 +141,20 @@ Both Interactive Brokers and eToro are confirmed to accept Indonesian residents 
 
 ---
 
-## Bottom Line
+## Indonesia, in a Paragraph
 
 The treaty side is standard and solved once W-8BEN is filed: 15% on dividends, no US tax on capital gains. The Indonesian side follows the same worldwide-taxation principle as most residence countries in this series - the specifics of how foreign-source gains are assessed relative to IDX-listed shares are worth confirming directly with an Indonesian tax advisor rather than assumed from domestic-market rules that were written with local securities in mind.
 
 ---
 
-*This article is informational only and does not constitute tax or legal advice. Treaty rates are based on the US-Indonesia Income Tax Convention (1988) and 1996 Protocol. Indonesian domestic tax rules for foreign-source investment income can change - always consult a qualified Indonesian tax advisor for advice specific to your situation.*
+*Use this to frame your questions about investing from Indonesia, not to answer them. Treaty rates are based on the US-Indonesia Income Tax Convention (1988) and 1996 Protocol. Indonesian domestic tax rules for foreign-source investment income can change. Get a qualified Indonesian tax advisor to look at your actual numbers.*
 
 *Sources: US-Indonesia Income Tax Convention (1988) and 1996 Protocol; IRS Publication 515 (2026); JCT report on the proposed Protocol to the US-Indonesia tax treaty; PwC Indonesia Tax Summaries - Corporate Withholding Taxes (2026); Viet Tonkin Consulting and Freeman Law US-Indonesia tax treaty guides (2026).*
 
 ## Related Guides
 
-- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
 - [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)
+- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
 - [PFIC Rules for International Investors](/taxes/pfic-rules-international-investors/)
-- [Interactive Brokers Singapore: US Stock Tax Guide](/taxes/us-singapore-tax-treaty-investors/)
+- Interactive Brokers Singapore: US Stock Tax Guide
 - [Best Brokers for International Investors](/best-brokers/best-brokers-international-investors-2026/)

@@ -6,7 +6,13 @@ const commonSchema = z.object({
   description: z.string(),
   pubDate: z.coerce.date(),
   updatedDate: z.coerce.date().optional(),
+  // Present in every content file and read by the page templates. Without them
+  // declared here Zod strips them, so `post.data.heroImageWidth` came back
+  // undefined and every template silently fell back to its 840x560 default.
+  slug: z.string().optional(),
   heroImage: z.string().optional(),
+  heroImageWidth: z.number().optional(),
+  heroImageHeight: z.number().optional(),
   heroImageLight: z.string().optional(),
   heroImageDark: z.string().optional(),
   author: z.string().default('Tzion Sigron'),

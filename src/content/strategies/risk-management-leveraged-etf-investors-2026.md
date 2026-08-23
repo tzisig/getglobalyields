@@ -36,12 +36,9 @@ schema:
 
 ---
 
-<!-- PAGE: Add to /etf-investing/ or /portfolio-strategy/ -->
-<!-- INTERNAL LINKS: Link from TQQQ guide, leveraged investing guide, rebalancing guide -->
-
 ---
 
-## Who This Guide Is For
+## The Reader Risk Management for Leveraged ETF Investors Is Written For
 
 In 2022, an investor who held 100% of a $300,000 portfolio in TQQQ watched it fall to approximately $55,500 by December. Not because TQQQ was a bad instrument. Because there was no risk management framework - no position sizing rule, no exit trigger, no predetermined response to a sustained drawdown.
 
@@ -51,7 +48,7 @@ If you are new to leveraged ETFs, read the [TQQQ vs QQQ guide](/strategies/buyin
 
 ---
 
-## Bottom Line
+## Risk Management for Leveraged ETF Investors: The Takeaway
 
 Three variables determine whether a leveraged ETF position survives a sustained bear market: position size relative to the total portfolio, the exit rule applied when the market breaks down, and the investor's financial and psychological ability to hold through the drawdown without a forced sale.
 
@@ -313,7 +310,7 @@ Set a price alert on your [broker platform](/best-brokers/best-brokers-internati
 
 ---
 
-## Final Verdict
+## Where Risk Management for Leveraged ETF Investors Nets Out
 
 Risk management for leveraged ETF investors is not optional. The mathematics of daily-reset leverage make sustained bear markets catastrophically expensive for unmanaged positions. TQQQ's -81.66% maximum drawdown required a +445% recovery. No amount of patience makes that acceptable without a framework that limits the damage.
 
@@ -325,4 +322,4 @@ Write the rules before you invest. The moment you are watching a position fall 4
 
 ---
 
-*This article is for informational and educational purposes only and does not constitute financial or investment advice. Leveraged ETFs involve substantial risk of loss. Past performance does not guarantee future results. Consult a qualified financial advisor before implementing any investment strategy.*
+*Educational content only; it is not financial or investment advice. Leveraged ETFs involve substantial risk of loss. Past performance does not guarantee future results. Consult a qualified financial advisor before implementing any investment strategy.*

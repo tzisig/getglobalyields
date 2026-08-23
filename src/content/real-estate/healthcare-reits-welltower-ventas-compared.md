@@ -64,13 +64,13 @@ Our [net lease REIT guide](/real-estate/net-lease-reits-realty-income-explained/
 
 ---
 
-## Bottom Line
+## Reading Healthcare REITs Overall
 
 Healthcare REITs aren't a single category behaving one way - Welltower's RIDEA-structured SHOP portfolio makes it genuinely participate in senior housing operating economics, delivering real growth (20.5% SHOP NOI growth) at the cost of a lower yield than a net lease REIT like Realty Income offers, while Ventas blends that same operating exposure with a more traditional, diversified healthcare property mix. The demographic tailwind underneath both is real and well-documented, but which company's structure actually captures it - and how much yield you give up to get growth exposure instead - is the real decision, not a simple "healthcare REIT" label.
 
 ---
 
-*This article is for informational purposes only and does not constitute financial advice. Dividend yields, NOI growth rates, and portfolio compositions change over time - confirm current figures directly with each company's investor relations disclosures before investing.*
+*Informational coverage of Healthcare REITs only - your own position needs its own review. Dividend yields, NOI growth rates, and portfolio compositions change over time - confirm current figures directly with each company's investor relations disclosures before investing.*
 
 ## Related Guides
 

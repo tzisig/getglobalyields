@@ -79,7 +79,7 @@ Naming a minor as a TOD beneficiary raises additional considerations - minors ge
 
 ---
 
-## Practical Checklist
+## What Needs Doing on Transfer on Death Designations for Foreign Investors
 
 - [ ] Confirm your broker offers TOD or an equivalent designated-beneficiary registration, and complete the designation rather than relying on a general will alone to cover the brokerage account
 - [ ] Review your specific broker's published inheritance-claims documentation requirements in advance, particularly if your named beneficiary resides outside the US
@@ -91,13 +91,17 @@ Naming a minor as a TOD beneficiary raises additional considerations - minors ge
 
 ---
 
-## Bottom Line
+## What Transfer on Death Designations for Foreign Investors Comes Down To
 
 A TOD designation is a genuinely useful, low-friction way to ensure a US brokerage account passes directly to a named beneficiary without probate, and it works for non-US beneficiaries too - but the actual claims process for a foreign beneficiary involves real documentation requirements worth understanding, and preparing your beneficiary for, in advance. It solves the probate problem specifically; it does not address US estate tax exposure, which requires separate planning covered elsewhere in this category.
 
 ---
 
-*This article is for informational purposes only and does not constitute legal advice. TOD designation rules, claims processes, and documentation requirements vary by broker and can change. Consult a qualified cross-border estate planning attorney and confirm current requirements directly with your broker.*
+*Context on Transfer on Death Designations for Foreign Investors, not counsel on what you personally should do. TOD designation rules, claims processes, and documentation requirements vary by broker and can change. Consult a qualified cross-border estate planning attorney and confirm current requirements directly with your broker.*
+
+*Sources: IRC §2101-§2108 and IRC §2102(b) for the $60,000 non-resident alien exemption; IRS Form 706-NA instructions; Uniform TOD Security Registration Act as adopted by individual states.*
+
+---
 
 ## Related Guides
 

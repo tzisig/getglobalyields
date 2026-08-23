@@ -80,7 +80,7 @@ US tax law does provide for spousal IRA contributions in some circumstances for 
 
 ---
 
-## Practical Checklist
+## 401(k) and IRA Access for Non-US Citizens Explained - Your Action List
 
 - [ ] Confirm you have qualifying US-source earned income (wages or self-employment) before assuming 401(k) or IRA eligibility - investment income from your brokerage account does not count
 - [ ] If employed by a US company, confirm directly with HR/benefits whether the specific 401(k) plan excludes nonresident aliens, since this varies by employer
@@ -91,13 +91,13 @@ US tax law does provide for spousal IRA contributions in some circumstances for 
 
 ---
 
-## Bottom Line
+## The Short Version of 401(k) and IRA Access for Non-US Citizens Explained
 
 401(k) and IRA access for non-US citizens hinges on US-source earned income and residency status, not citizenship or the size of an existing US investment portfolio. For the many international investors on this site whose only US connection is a brokerage account, these retirement-specific vehicles are generally not accessible - the standard [us-investing](/us-investing/) brokerage account route remains the relevant path for building US market exposure, with the retirement-account path only opening up for those with genuine US employment history.
 
 ---
 
-*This article is for informational purposes only and does not constitute financial or tax advice. 401(k) and IRA eligibility rules are governed by the IRS and individual plan documents, and can vary and change. Consult a qualified cross-border financial and tax advisor for advice specific to your situation.*
+*This piece covers 401(k) and IRA Access for Non-US Citizens Explained in general terms and is not financial advice. 401(k) and IRA eligibility rules are governed by the IRS and individual plan documents, and can vary and change. An adviser should confirm how this applies to you specifically.*
 
 ## Related Guides
 

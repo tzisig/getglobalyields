@@ -1,6 +1,6 @@
 ---
 slug: us-denmark-tax-treaty-investors
-title: "US-Denmark Tax Treaty for Investors: The Complete 2026 Guide"
+title: "US-Denmark Tax Treaty for Investors: The Aktiesparekonto PFIC Trap (2026)"
 description: "US-Denmark tax treaty guide for individual investors. Withholding rates on dividends, the aktiesparekonto PFIC trap for US citizens, the 0% pension fund rate, W-8BEN filing, and how Danish aktieindkomst tax interacts with US rules."
 pubDate: 2026-06-17
 updatedDate: 2026-08-04
@@ -27,7 +27,7 @@ seo:
   metaDescription: "How the US-Denmark tax treaty reduces dividend withholding from 30% to 15%, the aktiesparekonto PFIC trap, and claiming Danish tax credits."
   ogTitle: "US-Denmark Tax Treaty Guide for Danish Investors (2026)"
   ogDescription: "How the US-Denmark tax treaty reduces dividend withholding from 30% to 15%, the aktiesparekonto PFIC trap, and claiming Danish tax credits."
-  ogImage: "/images/blog/taxes/us-denmark-tax-treaty.webp"
+  ogImage: "/images/blog/taxes/us-denmark-tax-treaty-investors.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"
@@ -82,7 +82,7 @@ This does not resolve on leaving Denmark. PFIC exposure attaches to the holding,
 
 ---
 
-## The Treaty at a Glance
+## Denmark Treaty Rates, Summarised
 
 The Convention between the United States of America and the Kingdom of Denmark for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with Respect to Taxes on Income was signed in Washington on **August 19, 1999**, replacing an earlier 1948 treaty. A Protocol signed in Copenhagen on **May 2, 2006** amended several provisions and entered into force on **December 28, 2007**.
 
@@ -224,9 +224,9 @@ For an individual investor in a standard account, though, the treaty rate is clo
 
 ---
 
-## Practical Checklist
+## A Danish Investor's Checklist
 
-**Danish resident investing in US stocks:**
+**Danish resident, US portfolio - the short list:**
 - [ ] Confirm W-8BEN is on file; check dividend statements for 15%, not 30%
 - [ ] Renew W-8BEN before the three-year expiry
 - [ ] If using the ASK: confirm you are not a US citizen or Green Card holder before relying on it for fund or ETF holdings
@@ -259,15 +259,15 @@ The account side is where a Danish investor's choices actually matter. For someo
 
 ---
 
-*This article is informational only and does not constitute tax or legal advice. Treaty rates are based on the US-Denmark Income Tax Convention (August 19, 1999) and the Protocol of May 2, 2006 (in force December 28, 2007). Danish domestic tax rates and the aktiesparekonto contribution limit reflect SKAT guidance for the 2026 tax year. Danish and US tax rules change. Always consult a qualified cross-border tax professional for advice specific to your situation, particularly regarding PFIC exposure for US persons.*
+*This sets out how investing from Denmark works; it does not tell you what to do. Treaty rates are based on the US-Denmark Income Tax Convention (August 19, 1999) and the Protocol of May 2, 2006 (in force December 28, 2007). Danish domestic tax rates and the aktiesparekonto contribution limit reflect SKAT guidance for the 2026 tax year. Danish and US tax rules change. Always consult a qualified cross-border tax professional on your own position, particularly regarding PFIC exposure for US persons.*
 
 *Sources: US-Denmark Income Tax Convention (August 19, 1999) and Protocol (May 2, 2006, in force December 28, 2007); IRS Technical Explanation of the Convention and Protocol; US-Denmark Competent Authority Arrangement on pension funds (March 25, 2025, IRS.gov); PwC Tax Summaries Denmark - Individual Significant Developments and Taxes on Personal Income (2026); SKAT aktieindkomst and aktiesparekonto guidance (2026); Skatty and Finansdoktor Danish aktieindkomst/aktiesparekonto explainers (2026); Dansk Erhverv and Altinget coverage of the June 3, 2026 government proposal to raise the ASK deposit limit (2026); IRS Publication 515 (2026); FinCEN FBAR guidance (2025).*
 
 ## Related Guides
 
 - [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
-- [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)
 - [PFIC Rules for International Investors](/taxes/pfic-rules-international-investors/)
+- [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)
 - [US-UK Tax Treaty for Investors](/taxes/us-uk-tax-treaty-investors/)
 - [US-Austria Tax Treaty for Investors](/taxes/us-austria-tax-treaty-investors/)
 - [Expat Financial Planning: Managing Investments Across Borders](/us-investing/expat-financial-planning-managing-investments-across-borders/)

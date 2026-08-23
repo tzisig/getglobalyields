@@ -7,7 +7,7 @@ updatedDate: 2026-08-06
 author: "Tzion Sigron"
 categories: ["Insurance & Cross-Border Planning"]
 tags:
-  - "irrevocable life insurance trust foreign investor"
+  - "Irrevocable Life Insurance Trusts (ILITs) for Foreign Investors"
   - "ILIT cross-border estate planning"
   - "life insurance trust non-resident alien"
 heroImage: "/images/blog/insurance-planning/irrevocable-life-insurance-trust-foreign-investors.webp"
@@ -16,6 +16,12 @@ heroImageHeight: 560
 draft: true
 readingTime: "10 min read"
 featured: false
+seo:
+  metaTitle: "ILITs for Foreign Investors: How They Work"
+  metaDescription: "An ILIT moves policy ownership out of the insured's own hands entirely, adding a further layer of estate and control planning on top of the base US-situs."
+  ogTitle: "ILITs for Foreign Investors: How They Work"
+  ogDescription: "An ILIT moves policy ownership out of the insured's own hands entirely, adding a further layer of estate and control planning on top of the base US-situs."
+  twitterCard: "summary_large_image"
 ---
 
 An investor who's already structured a life insurance policy to offset the projected US estate tax liability on a brokerage account, covered in our [life insurance vs brokerage assets guide](/estate-planning/life-insurance-vs-brokerage-assets-estate-planning/), sometimes hears from an advisor that the policy itself should be owned by a trust rather than directly by the insured. This isn't a change to the underlying US-situs tax treatment already covered - it's an additional, separate layer of structure addressing a different set of questions: who controls the policy, how proceeds get distributed, and how ownership itself is treated.
@@ -74,7 +80,7 @@ This is highly situation-specific, but an independent professional trustee with 
 
 ---
 
-## Practical Checklist
+## Irrevocable Life Insurance Trusts (ILITs) for Foreign Investors - Your Action List
 
 - [ ] Understand that an ILIT's main value for a non-resident alien is control and distribution planning, not the base US-situs tax treatment, which already applies without a trust
 - [ ] Weigh the real ongoing cost and administrative complexity of an ILIT against the specific benefit it would provide for your situation
@@ -85,13 +91,13 @@ This is highly situation-specific, but an independent professional trustee with 
 
 ---
 
-## Bottom Line
+## The Short Version of Irrevocable Life Insurance Trusts (ILITs) for Foreign Investors
 
 An ILIT adds a real layer of control and multi-jurisdiction distribution planning on top of the base favorable US-situs treatment life insurance already receives for a non-resident alien - but it's a genuinely complex, costly structure that mainly earns its place for larger estates or more complicated beneficiary situations, not for every foreign investor holding a modest, targeted policy. Understanding what an ILIT actually adds - and doesn't add - matters before taking on its added complexity.
 
 ---
 
-*This article is for informational purposes only and does not constitute legal, tax, or insurance advice. Trust law, recognition, and tax treatment vary significantly by jurisdiction and change over time - consult a qualified cross-border estate planning attorney before establishing any trust structure.*
+*This describes irrevocable life insurance broadly and is not a professional opinion. Trust law, recognition, and tax treatment vary significantly by jurisdiction and change over time - consult a qualified cross-border estate planning attorney before establishing any trust structure.*
 
 ## Related Guides
 

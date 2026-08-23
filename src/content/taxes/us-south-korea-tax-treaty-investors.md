@@ -19,18 +19,18 @@ draft: true
 readingTime: "10 min read"
 featured: false
 seo:
-  metaTitle: "US-South Korea Tax Treaty: 22% Overseas Stock Tax Explained (2026)"
-  metaDescription: "How the US-South Korea tax treaty caps dividend withholding at 15%. Korea's 22% flat capital gains tax on overseas stocks, the KRW 2.5M exemption, and IBKR/eToro access."
+  metaTitle: "US-South Korea: The 22% Overseas Stock Tax (2026)"
+  metaDescription: "Under the US-South Korea tax treaty, dividends are withheld at 15% rather than 30%. Korea's 22% flat capital gains tax on overseas stocks, the KRW 2.5M."
   ogTitle: "US-South Korea Tax Treaty: 22% Overseas Stock Tax Explained (2026)"
-  ogDescription: "How the US-South Korea tax treaty caps dividend withholding at 15%. Korea's 22% flat capital gains tax on overseas stocks, the KRW 2.5M exemption, and IBKR/eToro access."
-  ogImage: "/images/blog/taxes/us-south-korea-tax-treaty.webp"
+  ogDescription: "Under the US-South Korea tax treaty, dividends are withheld at 15% rather than 30%. Korea's 22% flat capital gains tax on overseas stocks, the KRW 2.5M."
+  ogImage: "/images/blog/taxes/us-south-korea-tax-treaty-investors.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"
   headline: "US-South Korea Tax Treaty: 22% Overseas Stock Tax Explained (2026)"
-  description: "How the US-South Korea tax treaty caps dividend withholding at 15%. Korea's 22% flat capital gains tax on overseas stocks, the KRW 2.5M exemption, and IBKR/eToro access."
+  description: "Under the US-South Korea tax treaty, dividends are withheld at 15% rather than 30%. Korea's 22% flat capital gains tax on overseas stocks, the KRW 2.5M."
   author: "Tzion Sigron"
-  datePublished: "2026-08-18"
+  datePublished: "2026-09-21"
   dateModified: "2026-08-18"
   image: "/images/blog/taxes/us-south-korea-tax-treaty-investors.webp"
   mainEntityOfPage: "https://getglobalyields.com/taxes/us-south-korea-tax-treaty-investors"
@@ -72,7 +72,7 @@ South Korea introduced a temporary, notable incentive for 2026: individual inves
 
 ---
 
-## The Treaty: 15% on Dividends
+## 15% on Dividends Under the South Korea Treaty
 
 | Income Type | Default US Rate | Treaty Rate (Portfolio) | Direct Corporate (10%+) |
 |---|---|---|---|
@@ -81,24 +81,24 @@ South Korea introduced a temporary, notable incentive for 2026: individual inves
 
 *Sources: US-Korea Income Tax Convention; IRS treaty text; IRS Technical Explanation of the Convention.*
 
-Claiming the 15% rate requires Form [W-8BEN](/taxes/w8ben-form-non-us-investors/) filed with your broker. Without it, the full 30% default applies from the first dividend payment - check your dividend statement to confirm which rate is actually withheld.
+Form W-8BEN is what turns the default rate into the treaty rate. Nothing changes until the form arrives; payments before it are withheld in full.
 
 ---
 
-## Broker Access
+## Getting an Account Open from South Korea
 
-Both Interactive Brokers and eToro are confirmed to accept South Korean residents for account opening. Neither changes the 22% overseas-stock capital gains calculation, which is a function of Korean domestic law applied to gains regardless of which broker holds the position.
+Interactive Brokers and eToro both list South Korea among the countries they onboard. Neither changes the 22% overseas-stock capital gains calculation, which is a function of Korean domestic law applied to gains regardless of which broker holds the position.
 
 ---
 
-## Practical Checklist
+## Your Next Steps as a South Korea Resident
 
-**South Korean resident investing in US stocks:**
+**Before you place the first trade from South Korea:**
 - [ ] Confirm W-8BEN is on file with your broker; verify 15%, not 30%, on dividend statements
 - [ ] Track overseas stock trading gains and losses across the year - losses offset gains before the KRW 2.5 million exemption and 22% rate apply
 - [ ] Don't assume domestic Korean stock tax habits (typically no separate individual capital gains tax) carry over to US stocks - they're taxed under the separate overseas-stock regime
 - [ ] If considering selling overseas stocks and reinvesting domestically, confirm current eligibility for the 2026 repatriation incentive (up to KRW 50 million exemption) with a Korean tax advisor before relying on it
-- [ ] Confirm current account-opening requirements with Interactive Brokers or eToro before applying
+- [ ] Confirm the broker's Korean documentation requirements in advance - these tend to be stricter than average
 
 ---
 
@@ -109,20 +109,20 @@ Both Interactive Brokers and eToro are confirmed to accept South Korean resident
 
 ---
 
-## Bottom Line
+## What All of This Means from South Korea
 
 The treaty rate is standard - 15% on dividends, claimed with W-8BEN. The number that actually shapes a Korean investor's after-tax return on US stocks is the 22% overseas-stock capital gains tax, a dedicated regime distinct from how domestic Korean shares are typically taxed for individuals, with a modest standing KRW 2.5 million annual exemption and loss offsetting available within the year. The temporary 2026 repatriation incentive is worth checking if you're considering a large realization and reinvestment into Korean equities, but treat its exact terms as something to confirm currently rather than assume from general descriptions.
 
 ---
 
-*This article is informational only and does not constitute tax or legal advice. Treaty rates are based on the US-Korea Income Tax Convention. Korea's overseas stock capital gains rate, annual exemption, and the temporary 2026 repatriation incentive are set by Korean tax law and can change - always consult a qualified Korean tax advisor or the National Tax Service for advice specific to your situation.*
+*Use this to frame your questions about investing from South Korea, not to answer them. Rates are per the US-South Korea Income Tax Convention in force. Korea's overseas stock capital gains rate, annual exemption, and the temporary 2026 repatriation incentive are set by Korean tax law and can change - always consult a qualified Korean tax advisor or the National Tax Service rather than relying on a general guide.*
 
 *Sources: US-Korea Income Tax Convention and IRS Technical Explanation; IRS Publication 515 (2026); Seoul Economic Daily - Korea to Offer Tax Breaks for Policy Fund Investors (2026); KPMG - TNF Korea Tax Measures to Support Domestic Investment, Foreign Exchange Stability (2026); Bloomberg Tax - South Korea MOF Announces Tax Support Measures; PwC Korea Tax Summaries - Corporate Withholding Taxes (2026).*
 
 ## Related Guides
 
-- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
-- [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)
 - [PFIC Rules for International Investors](/taxes/pfic-rules-international-investors/)
+- [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)
 - [US-Japan Tax Treaty for Investors](/taxes/us-japan-tax-treaty-investors/)
 - [Investing in US Stocks from Taiwan](/taxes/us-taiwan-tax-treaty-investors/)
+- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)

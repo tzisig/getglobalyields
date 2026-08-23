@@ -17,20 +17,20 @@ draft: true
 readingTime: "8 min read"
 featured: false
 seo:
-  metaTitle: "Spot Crypto ETF Tax Treatment for International Investors (2026)"
-  metaDescription: "IBIT, FBTC, and GBTC are grantor trusts, not regulated investment companies - a structural difference that changes their tax treatment, including for non-US investors."
+  metaTitle: "Spot Crypto ETF Tax for Non-US Investors (2026)"
+  metaDescription: "IBIT, FBTC, and GBTC are grantor trusts, not regulated investment companies - a structural difference that changes their tax treatment, including for non-US."
   ogTitle: "Spot Crypto ETF Tax Treatment for International Investors (2026)"
-  ogDescription: "IBIT, FBTC, and GBTC are grantor trusts, not regulated investment companies - a structural difference that changes their tax treatment, including for non-US investors."
-  ogImage: "/images/blog/taxes/crypto-etf-tax-treatment.webp"
+  ogDescription: "IBIT, FBTC, and GBTC are grantor trusts, not regulated investment companies - a structural difference that changes their tax treatment, including for non-US."
+  ogImage: "/images/blog/taxes/crypto-etf-tax-treatment-international-investors.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"
   headline: "Spot Crypto ETF Tax Treatment for International Investors (2026)"
-  description: "IBIT, FBTC, and GBTC are grantor trusts, not regulated investment companies - a structural difference that changes their tax treatment, including for non-US investors."
+  description: "IBIT, FBTC, and GBTC are grantor trusts, not regulated investment companies - a structural difference that changes their tax treatment, including for non-US."
   author: "Tzion Sigron"
-  datePublished: "2026-08-05"
+  datePublished: "2026-09-17"
   dateModified: "2026-08-05"
-  image: "/images/blog/taxes/crypto-etf-tax-treatment.webp"
+  image: "/images/blog/taxes/crypto-etf-tax-treatment-international-investors.webp"
   mainEntityOfPage: "https://getglobalyields.com/taxes/crypto-etf-tax-treatment-international-investors"
 ---
 
@@ -86,7 +86,7 @@ The standard non-resident alien reporting framework (primarily driven by your br
 
 ---
 
-## Practical Checklist
+## Putting Crypto ETFs Into Practice
 
 - [ ] Understand that spot crypto ETFs are grantor trusts, not RICs - a fundamentally different tax structure from every other ETF discussed on this site
 - [ ] Be aware that US brokers may report periodic "phantom sale" events on Form 1099-B for the fund's fee-related Bitcoin sales, even for a non-US holder, regardless of the ultimate US tax outcome
@@ -96,13 +96,13 @@ The standard non-resident alien reporting framework (primarily driven by your br
 
 ---
 
-## Bottom Line
+## Crypto ETFs, in Short
 
 Spot crypto ETFs are structurally different from every other fund covered on this site, and that difference matters for tax purposes. The reasoning that would extend the standard "NRAs generally don't pay US capital gains tax" rule to these products is sound by analogy, but this is newer territory than the well-established rules governing ordinary equities - treat it as a starting point for a conversation with a tax advisor, not a settled conclusion.
 
 ---
 
-*This article is informational only and does not constitute tax or legal advice. It reflects a reasoned analysis by analogy to established NRA capital gains principles, not confirmed specific guidance for spot crypto ETF grantor trusts. Given the newer and less-documented nature of this product category's international tax treatment, consult a qualified cross-border tax professional before relying on any conclusion here.*
+*This describes crypto ETFs at a general level and stops there. It reflects a reasoned analysis by analogy to established NRA capital gains principles, not confirmed specific guidance for spot crypto ETF grantor trusts. Given the newer and less-documented nature of this product category's international tax treatment, consult a qualified cross-border tax professional before relying on any conclusion here.*
 
 *Sources: General grantor trust and NRA capital gains principles per IRC §871(a)(2) and related guidance; industry coverage of spot Bitcoin/Ethereum ETF grantor trust structure and sponsor-fee mechanics (2026).*
 

@@ -20,17 +20,17 @@ readingTime: "9 min read"
 featured: false
 seo:
   metaTitle: "US-Croatia Tax Treaty: Signed 2022, Not Yet in Force (2026)"
-  metaDescription: "The first-ever US-Croatia tax treaty was signed in 2022. Croatia approved ratification July 30, 2026, but it's not yet in force - 30% US withholding still applies for now."
+  metaDescription: "The first-ever US-Croatia tax treaty was signed in 2022. Croatia approved ratification July 30, 2026, but it's not yet in force"
   ogTitle: "US-Croatia Tax Treaty: Signed 2022, Not Yet in Force (2026)"
-  ogDescription: "The first-ever US-Croatia tax treaty was signed in 2022. Croatia approved ratification July 30, 2026, but it's not yet in force - 30% US withholding still applies for now."
-  ogImage: "/images/blog/taxes/us-croatia-tax-treaty.webp"
+  ogDescription: "The first-ever US-Croatia tax treaty was signed in 2022. Croatia approved ratification July 30, 2026, but it's not yet in force"
+  ogImage: "/images/blog/taxes/us-croatia-tax-treaty-investors.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"
   headline: "US-Croatia Tax Treaty: Signed 2022, Not Yet in Force (2026)"
-  description: "The first-ever US-Croatia tax treaty was signed in 2022. Croatia approved ratification July 30, 2026, but it's not yet in force - 30% US withholding still applies for now."
+  description: "The first-ever US-Croatia tax treaty was signed in 2022. Croatia approved ratification July 30, 2026, but it's not yet in force"
   author: "Tzion Sigron"
-  datePublished: "2026-08-13"
+  datePublished: "2026-09-09"
   dateModified: "2026-08-13"
   image: "/images/blog/taxes/us-croatia-tax-treaty-investors.webp"
   mainEntityOfPage: "https://getglobalyields.com/taxes/us-croatia-tax-treaty-investors"
@@ -51,7 +51,7 @@ Croatia and the United States signed their **first-ever income tax treaty on Dec
 
 **Current reality (2026):** with the treaty not yet in force, US dividends paid to a Croatian resident are withheld at the full 30% default rate - Form [W-8BEN](/taxes/w8ben-form-non-us-investors/) still matters for certifying non-US person status and avoiding backup withholding, but there's no treaty rate to claim yet.
 
-**On the Croatian side:** dividends received from abroad are currently taxed at a flat **10%** under Croatian domestic law for Croatian residents - a separate calculation from the US withholding, with the two combining to the total tax burden on a US dividend right now (30% to the US, plus Croatia's own domestic treatment, without the credit mechanisms a treaty would formalize).
+**On the Croatian side:** dividends received from abroad are currently taxed at a flat **12%** under Croatian domestic law for Croatian resident individuals - the rate applying to capital income including dividends, interest and capital gains. The 10% figure that circulates is Croatia's withholding rate on dividends paid *out* to non-resident entities, which is a different rule and not the one a Croatian investor holding US stock is subject to - a separate calculation from the US withholding, with the two combining to the total tax burden on a US dividend right now (30% to the US, plus Croatia's own domestic treatment, without the credit mechanisms a treaty would formalize).
 
 **What's still needed for the treaty to take effect:** US Senate advice and consent (a step that has, for other countries' treaties and protocols in recent years, taken anywhere from months to several years after signing), and ratification in the Croatian Parliament. Croatia's July 2026 government approval is a genuine, concrete step forward - but it is the Croatian side of a two-country process, not the finish line.
 
@@ -64,7 +64,7 @@ Croatia and the United States signed their **first-ever income tax treaty on Dec
 
 ---
 
-## What Changes Once the Treaty Is in Force
+## What Changes Once the Treaty Is in Force: Dividends at 15%
 
 When the treaty and its Protocol do take effect, the terms already agreed provide for standard, modern treaty relief:
 
@@ -81,21 +81,21 @@ This would bring Croatia in line with the standard 15%/5% dividend structure use
 
 ---
 
-## Broker Access
+## Account Access Comes First in Croatia
 
-Both Interactive Brokers and eToro are confirmed to accept Croatian residents for account opening. Neither broker can apply a treaty rate that isn't yet in force - the 30% default (or the future 15%, once ratification completes) is determined by the treaty's legal status, not by broker policy.
+Interactive Brokers and eToro both serve Croatian clients. Neither broker can apply a treaty rate that isn't yet in force - the 30% default (or the future 15%, once ratification completes) is determined by the treaty's legal status, not by broker policy.
 
 ---
 
-## Practical Checklist
+## Turning This Into Actions from Croatia
 
-**Croatian resident investing in US stocks:**
+**Before you place the first trade from Croatia:**
 - [ ] File W-8BEN with your broker now - it certifies non-US person status and prevents backup withholding, even though it doesn't reduce the rate below 30% until the treaty is in force
 - [ ] Expect 30% US dividend withholding for now; don't assume the treaty's future 15% rate applies before formal ratification completes
 - [ ] Track US Senate action on the treaty and Protocol, since Croatia's own approval (July 30, 2026) is already in motion
 - [ ] Report worldwide investment income, including US dividends and capital gains, on your Croatian tax return under current domestic rules
 - [ ] Revisit this guide once the treaty formally enters into force to confirm the new 15%/5% rates apply to your account
-- [ ] Confirm current account-opening requirements with Interactive Brokers or eToro before applying
+- [ ] Ask the broker directly what it currently requires from a Croatian applicant - published country lists lag internal policy
 
 ---
 
@@ -106,20 +106,20 @@ Both Interactive Brokers and eToro are confirmed to accept Croatian residents fo
 
 ---
 
-## Bottom Line
+## What Croatia Investors Are Actually Left With
 
 This is one of the more actively moving situations covered in this series: a genuinely new, first-ever US-Croatia tax treaty that would deliver standard modern relief (15% on dividends, down from 30%) is closer to reality than it has ever been, with Croatia's government approving ratification just days before this update. But it is not yet in force, and a Croatian investor today should plan around the 30% default rather than the treaty's future terms until US Senate action and Croatian parliamentary ratification are both actually complete.
 
 ---
 
-*This article is informational only and does not constitute tax or legal advice. The US-Croatia Income Tax Treaty was signed December 7, 2022, with an amending Protocol signed April 28, 2026; the Croatian government approved a ratification bill July 30, 2026, but the treaty is not yet in force as of this update, pending US Senate advice and consent and Croatian Parliament ratification. Always verify current treaty status and consult a qualified Croatian or cross-border tax advisor before relying on future rates.*
+*Use this as a reference on investing from Croatia; get advice for your own case. The US-Croatia Income Tax Treaty was signed December 7, 2022, with an amending Protocol signed April 28, 2026; the Croatian government approved a ratification bill July 30, 2026, but the treaty is not yet in force as of this update, pending US Senate advice and consent and Croatian Parliament ratification. Always verify current treaty status and consult a qualified Croatian or cross-border tax advisor before relying on future rates.*
 
 *Sources: RSM - United States and Croatia Sign First Ever Income Tax Treaty; regfollower - Croatia: Government Approves Tax Treaty, Amending Protocol; PwC - Signing of Protocol to US-Croatia Treaty; Croatia Week - US-Croatia Double Taxation Agreement Still Awaits Ratification; KPMG - TNF Croatia Tax Treaty with Australia Signed, Protocol to Treaty with Switzerland Ratified (2026); LegalClarity - US Croatia Tax Treaty: Key Provisions and Rules; PwC Croatia Tax Summaries - Corporate Withholding Taxes (2026).*
 
 ## Related Guides
 
-- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
-- [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)
 - [PFIC Rules for International Investors](/taxes/pfic-rules-international-investors/)
+- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
 - [US-Chile Tax Treaty for Investors](/taxes/us-chile-tax-treaty-investors/)
 - [US-Italy Tax Treaty for Investors](/taxes/us-italy-tax-treaty-investors/)
+- [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)

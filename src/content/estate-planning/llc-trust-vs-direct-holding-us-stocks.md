@@ -1,7 +1,7 @@
 ---
 slug: llc-trust-vs-direct-holding-us-stocks
-title: "Should Non-US Investors Use an LLC or Trust to Hold US Stocks?"
-description: "Holding US stocks through an LLC or trust is sometimes pitched as an estate tax workaround. Whether it actually works depends entirely on the structure's design and where it's set up - and getting it wrong can create complexity without the intended benefit. A closer look at what can go wrong."
+title: "Should Non-US Investors Hold US Stocks via LLC or Trust?"
+description: "Holding US stocks through an LLC or trust is often pitched as an estate tax workaround. Whether it works depends on the structure, and it can backfire."
 pubDate: 2026-10-11
 updatedDate: 2026-08-06
 author: "Tzion Sigron"
@@ -79,7 +79,7 @@ This requires a periodic review by a cross-border estate planning attorney to co
 
 ---
 
-## Practical Checklist
+## Should Non-US Investors Use an LLC or Trust to Hold US Stocks - Your Action List
 
 - [ ] Do not implement an LLC, trust, or foreign corporate structure for US stock holdings without a cross-border estate planning attorney's involvement - this is not a self-directed project
 - [ ] Confirm the structure will be respected as having genuine substance, not merely a formality that a tax authority could disregard
@@ -90,13 +90,16 @@ This requires a periodic review by a cross-border estate planning attorney to co
 
 ---
 
-## Bottom Line
+## Closing the Loop on Should Non-US Investors Use an LLC or Trust to Hold US Stocks
 
 Entity structures can genuinely reduce US estate tax exposure when properly designed and maintained, but this is meaningfully more complex, costly, and fact-dependent than the more straightforward non-US-domiciled fund approach covered elsewhere in this category - and a structure lacking genuine operational substance can fail entirely while still incurring its full cost. This is worth pursuing seriously only for investors with substantial US-situs exposure who are prepared to engage proper cross-border legal counsel and maintain the structure's genuine operational substance indefinitely - not a general recommendation for the typical international investor covered throughout this site.
 
 ---
 
-*This article is for informational purposes only and does not constitute legal or tax advice. Entity-based estate planning structures are highly fact-specific and require professional design. Consult a qualified cross-border estate planning attorney before considering any entity structure for holding US assets.*
+*This sets out how LLC trust direct works and stops short of telling you what to do. Entity-based estate planning structures are highly fact-specific and require professional design. Consult a qualified cross-border estate planning attorney before considering any entity structure for holding US assets.*
+
+*Written as general background on whether non-US investors should hold US stocks through an LLC or a trust. Nothing here is settled permanently - check the current position before acting.*
+---
 
 ## Related Guides
 

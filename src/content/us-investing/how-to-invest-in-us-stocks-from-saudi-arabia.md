@@ -1,9 +1,9 @@
 ---
 slug: how-to-invest-in-us-stocks-from-saudi-arabia
 title: "How to Invest in US Stocks from Saudi Arabia (2026 Guide)"
-description: "How to invest in US stocks from Saudi Arabia: broker options, W-8BEN, the 30% withholding reality, 0% domestic tax, and Zakat on your portfolio."
+description: "How to Invest in US Stocks from Saudi Arabia: broker options, W-8BEN, the 30% withholding reality, 0% domestic tax, and Zakat on your portfolio."
 pubDate: 2026-08-12
-updatedDate: 2026-08-05
+updatedDate: 2026-08-12
 author: "Tzion Sigron"
 categories: ["US Investing"]
 tags:
@@ -50,9 +50,9 @@ Faisal is 36, lives in Riyadh, and runs a small consulting business. He has SAR 
 
 **What this nets out to:** the entire tax cost of Faisal's US stock investing is the 30% US withholding itself. There is no double taxation to relieve on the Saudi side, because there is no second layer of Saudi tax to begin with.
 
-**One consideration beyond income tax worth flagging: US estate tax exposure.** Saudi Arabia doesn't appear on the short list of countries with a US estate tax treaty, covered in our [estate tax treaty countries guide](/estate-planning/us-estate-tax-treaty-countries/), meaning the standard $60,000 non-resident alien exemption applies in full to Faisal's US-situs holdings, without any treaty-based relief. This is a genuinely separate question from the income tax picture covered above - a Saudi investor building a substantial US stock position over time should be aware of this exposure and the mitigation options covered throughout our [estate-planning category](/estate-planning/), independent of the income-tax-free status Saudi Arabia otherwise offers.
+**One consideration beyond income tax worth flagging: US estate tax exposure.** Saudi Arabia doesn't appear on the short list of countries with a US estate tax treaty, covered in our estate tax treaty countries guide, meaning the standard $60,000 non-resident alien exemption applies in full to Faisal's US-situs holdings, without any treaty-based relief. This is a genuinely separate question from the income tax picture covered above - a Saudi investor building a substantial US stock position over time should be aware of this exposure and the mitigation options covered throughout our [estate-planning category](/estate-planning/), independent of the income-tax-free status Saudi Arabia otherwise offers.
 
-For the full mechanics, see our [US-Saudi Arabia tax treaty guide](/taxes/us-saudi-arabia-tax-treaty-investors/).
+For the full mechanics, see our US-Saudi Arabia tax treaty guide.
 
 ---
 
@@ -61,9 +61,9 @@ For the full mechanics, see our [US-Saudi Arabia tax treaty guide](/taxes/us-sau
 
 ---
 
-## Step 2: What You Can Actually Buy
+## Step 2: The Funds Available to You
 
-Saudi Arabia is not in the EU or EEA, so the PRIIPs restriction that blocks European residents from buying US-domiciled ETFs does not apply here. **Faisal can buy VOO, VTI, and QQQ directly** through a broker offering US market access.
+Saudi Arabia is not subject to PRIIPs, the European rulebook that blocks direct US-domiciled ETF purchases across the EU and EEA. **Faisal can buy VOO, VTI, and QQQ directly** through a broker offering US market access.
 
 ---
 
@@ -85,9 +85,9 @@ This is the detail most likely to get conflated with Saudi Arabia's government t
 
 ---
 
-## Step 5: Choose Your Broker
+## Step 5: Which Broker Works From Saudi Arabia
 
-**Interactive Brokers (IBKR)** and **eToro** are both confirmed to accept Saudi Arabia-based residents for account opening. IBKR generally suits larger portfolios with lower costs and broader market access; eToro offers a simpler entry point. [See our full IBKR review →](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/) · [See our full eToro review →](/best-brokers/etoro-review-2026/)
+Both **Interactive Brokers (IBKR)** and **eToro** onboard Saudi Arabia-based residents. IBKR generally suits larger portfolios with lower costs and broader market access; eToro offers a simpler entry point. [See our full IBKR review →](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/) · [See our full eToro review →](/best-brokers/etoro-review-2026/)
 
 ---
 
@@ -119,7 +119,7 @@ Faisal opens his account, files W-8BEN, and buys his two ETFs directly. His only
 
 ---
 
-## Common Mistakes to Avoid
+## Mistakes That Cost Money on Saudi Arabia
 
 **Expecting W-8BEN to lower your withholding rate.** Without a treaty, it will not. File it anyway to avoid backup withholding.
 
@@ -131,16 +131,16 @@ Faisal opens his account, files W-8BEN, and buys his two ETFs directly. His only
 
 ---
 
-## What to Do This Week
+## Starting Out From Saudi Arabia
 
-1. **Open a broker account.** IBKR for lower costs and broader access, eToro for a simpler entry point.
+1. **Open a broker account.** Choose IBKR for the cheaper, deeper platform and eToro for the gentler start.
 2. **Buy VOO, VTI, or QQQ directly** - no workaround needed.
 3. **File your W-8BEN** to avoid backup withholding, understanding it will not reduce the 30% rate itself.
 4. **If Zakat applies to you**, consult a qualified Islamic finance advisor on how to assess your specific holdings.
 
 ---
 
-*This article is for informational purposes only and does not constitute personalized tax, legal, or religious advice. There is no US-Saudi Arabia income tax treaty; the April 2026 Tax Information Exchange Agreement does not provide treaty-based rate relief. Saudi Arabia's personal tax rules are set by Saudi law and can change - consult a qualified tax advisor for current guidance, and a qualified Islamic finance or Zakat advisor for guidance specific to your religious obligations.*
+*Background reading on Saudi Arabia; decisions still belong with a professional. There is no US-Saudi Arabia income tax treaty; the April 2026 Tax Information Exchange Agreement does not provide treaty-based rate relief. Saudi Arabia's personal tax rules are set by Saudi law and can change - consult a qualified tax advisor for current guidance, and a qualified Islamic finance or Zakat advisor for guidance specific to your religious obligations.*
 
 ---
 
@@ -155,7 +155,7 @@ Faisal opens his account, files W-8BEN, and buys his two ETFs directly. His only
 ## Frequently Asked Questions
 
 **Can I buy VOO and QQQ directly as a Saudi Arabia resident?**
-Yes. Saudi Arabia is not subject to the EU's PRIIPs regulation, so any US-listed stock or ETF your broker offers is directly accessible.
+Yes. Nothing in Saudi Arabia mirrors PRIIPs, so US-listed stocks and ETFs are directly accessible through your broker.
 
 **Does filing W-8BEN reduce my US dividend withholding?**
 No. Without a US-Saudi Arabia tax treaty, the 30% default withholding applies regardless. Filing it still matters because it prevents backup withholding.
@@ -168,3 +168,7 @@ Personal Zakat is a religious obligation, self-assessed and self-paid - it is no
 
 **Which brokers accept Saudi Arabia residents?**
 Interactive Brokers and eToro are both confirmed to accept Saudi Arabia-based residents for account opening.
+
+---
+
+*Sources: Baker McKenzie - Saudi Arabia and United States: Tax Information Exchange Agreement (April 2026); Motaded - Zakat and Tax in Saudi Arabia: Business Compliance Guide and Tax System Saudi Arabia: WHT, VAT, CIT Guide; House of Saud - Saudi Arabia Tax Guide 2026; IRS Publication 515 (2026); IRS Publication 515 (2026).*

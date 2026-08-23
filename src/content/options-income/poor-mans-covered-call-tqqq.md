@@ -7,7 +7,7 @@ updatedDate: 2026-08-06
 author: "Tzion Sigron"
 categories: ["Options Income"]
 tags:
-  - "poor mans covered call TQQQ"
+  - "The Poor Man's Covered Call on TQQQ Explained"
   - "PMCC TQQQ strategy"
   - "diagonal spread TQQQ options"
 heroImage: "/images/blog/options-income/poor-mans-covered-call-tqqq.webp"
@@ -18,7 +18,7 @@ readingTime: "12 min read"
 featured: false
 ---
 
-> **Before you read further:** This article explains the poor man's covered call (PMCC) strategy on TQQQ and how it differs meaningfully from a traditional covered call in terms of capital, risk, and leverage. It is educational content, not a trading recommendation. Options trading involves the risk of significant financial loss.
+> **Before you read further:** This article explains the poor man's covered call (PMCC) strategy on TQQQ and how it differs meaningfully from a traditional covered call in terms of capital, risk, and leverage. It is educational content, not a trading recommendation. These instruments can go wrong fast and are unsuitable for many investors.
 
 A traditional [covered call](/options-income/selling-covered-calls-tqqq/) requires owning 100 shares of the underlying - $8,500 at a TQQQ price of $85. The "poor man's" version replaces those 100 shares with a deep-in-the-money [LEAPS call](/options-income/leaps-options-strategy-tqqq/) instead, cutting the capital requirement substantially while aiming to replicate a similar income structure. On TQQQ specifically, that substitution changes the strategy's actual risk profile more than it might on a calmer underlying.
 
@@ -45,7 +45,7 @@ The premium collected from the short call is the "income" side of the trade, sam
 
 ---
 
-## A Worked Comparison
+## A Worked Example, Side by Side
 
 **Traditional covered call:** own 100 TQQQ shares ($8,500 at $85/share), sell a 30-day call against them, collect premium. Capital required: $8,500.
 
@@ -93,7 +93,7 @@ For an investor who genuinely has the capital for a traditional covered call, th
 
 ---
 
-## Practical Considerations
+## The Poor Man's Covered Call on TQQQ Explained in Practical Terms
 
 - **Choose the LEAPS strike and expiration deliberately** - deeper in the money means higher delta (closer to share-like behavior) but higher upfront cost; less far in the money means lower cost but less share-like behavior and more sensitivity to the LEAPS' own time decay.
 - **Have a specific plan for assignment on the short call**, since covering it requires action on the LEAPS leg rather than simply delivering shares.
@@ -102,13 +102,13 @@ For an investor who genuinely has the capital for a traditional covered call, th
 
 ---
 
-## Bottom Line
+## The Poor Man's Covered Call on TQQQ Explained in a Paragraph
 
 The poor man's covered call genuinely reduces the capital required to run a covered-call-style income strategy - but on TQQQ specifically, it does so by substituting an already-more-leveraged position for straightforward share ownership, not by reducing risk proportionally to the capital saved. Treat the name as a description of the capital requirement, not a description of the risk level, and track both legs of the position together to get an accurate picture of actual performance.
 
 ---
 
-*This article is for informational purposes only and does not constitute financial or trading advice. Options trading carries substantial risk of loss and is not suitable for all investors. Consult a licensed financial advisor before implementing any options strategy.*
+*Use this as orientation on The Poor Man's Covered Call on TQQQ Explained rather than as a recommendation. Options can lose more than the premium paid and do not suit every investor. Have this reviewed by someone licensed before any capital is committed.*
 
 ## Related Guides
 

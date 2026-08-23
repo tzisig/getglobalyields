@@ -20,17 +20,17 @@ readingTime: "9 min read"
 featured: false
 seo:
   metaTitle: "US-Tunisia Tax Treaty: The Unusually High 20% Rate (2026)"
-  metaDescription: "The US-Tunisia tax treaty caps portfolio dividends at 20%, not the usual 15%. A 2026 Finance Law reform eases foreign currency account rules for Tunisian residents."
+  metaDescription: "The US-Tunisia tax treaty caps portfolio dividends at 20%, not the usual 15%. A 2026 Finance Law reform eases foreign currency account rules for Tunisian."
   ogTitle: "US-Tunisia Tax Treaty: The Unusually High 20% Rate (2026)"
-  ogDescription: "The US-Tunisia tax treaty caps portfolio dividends at 20%, not the usual 15%. A 2026 Finance Law reform eases foreign currency account rules for Tunisian residents."
-  ogImage: "/images/blog/taxes/us-tunisia-tax-treaty.webp"
+  ogDescription: "The US-Tunisia tax treaty caps portfolio dividends at 20%, not the usual 15%. A 2026 Finance Law reform eases foreign currency account rules for Tunisian."
+  ogImage: "/images/blog/taxes/us-tunisia-tax-treaty-investors.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"
   headline: "US-Tunisia Tax Treaty: The Unusually High 20% Rate (2026)"
-  description: "The US-Tunisia tax treaty caps portfolio dividends at 20%, not the usual 15%. A 2026 Finance Law reform eases foreign currency account rules for Tunisian residents."
+  description: "The US-Tunisia tax treaty caps portfolio dividends at 20%, not the usual 15%. A 2026 Finance Law reform eases foreign currency account rules for Tunisian."
   author: "Tzion Sigron"
-  datePublished: "2026-08-24"
+  datePublished: "2026-09-30"
   dateModified: "2026-08-24"
   image: "/images/blog/taxes/us-tunisia-tax-treaty-investors.webp"
   mainEntityOfPage: "https://getglobalyields.com/taxes/us-tunisia-tax-treaty-investors"
@@ -69,6 +69,24 @@ This guide covers both pieces.
 
 ---
 
+## What the 20% Costs Against the Series Standard
+
+Tunisia's 20% portfolio rate is five points above the 15% that most treaties in this series deliver, and the gap compounds quietly on a dividend-paying portfolio.
+
+On **$7,000** of annual dividends:
+
+| | Withheld | Reaching the account |
+|---|---|---|
+| No W-8BEN (30% default) | $2,100 | $4,900 |
+| **Tunisia's treaty rate (20%)** | **$1,400** | **$5,600** |
+| A typical 15% treaty country | $1,050 | $5,950 |
+
+Filing the form is still clearly worth **$700 a year** here. But a Tunisian investor also runs a permanent **$350 a year** disadvantage against an investor in a 15% country holding the identical portfolio - not something any form corrects.
+
+**The inversion is worth restating because it reads like an error:** a corporate shareholder with 25%+ of the payer gets **14%**, below the individual's 20%. In most treaties the large holder must clear a high bar merely to match what a retail investor receives automatically. Here the retail investor is the one paying more, and there is no election or structure available to an ordinary individual that reaches the 14%.
+
+---
+
 ## The 2026 Finance Law: Foreign Currency Accounts Without Prior BCT Approval
 
 Tunisia's foreign exchange framework is administered by the Banque Centrale de Tunisie (BCT), and it has historically required prior BCT authorization for certain foreign currency account arrangements. **Tunisia's 2026 Finance Law changed this**: foreign currency accounts (Compte Personne Physique Résidente, or PPR accounts) can now be opened through authorized financial intermediaries **without prior BCT approval** - a genuine easing compared to the previous requirement.
@@ -79,15 +97,15 @@ Tunisia's foreign exchange framework is administered by the Banque Centrale de T
 
 ---
 
-## Broker Access
+## Broker Availability in Tunisia
 
-Interactive Brokers is confirmed to accept Tunisian residents for account opening.
+Coverage for Tunisia comes from Interactive Brokers and eToro.
 
 ---
 
-## Practical Checklist
+## Action Items for Tunisian Investors
 
-**Tunisian resident investing in US stocks:**
+**If you're a Tunisian resident holding US stocks:**
 - [ ] Confirm W-8BEN is on file with your broker; verify 20%, not 30%, on dividend statements (20% is the portfolio rate here, not the usual 15%)
 - [ ] Confirm with an authorized Tunisian intermediary bank whether the eased PPR foreign currency account rules under the 2026 Finance Law cover funding a foreign brokerage account specifically
 - [ ] Track Tunisia's ongoing exchange control reform ("nouveau code des changes") for further changes, given the framework is actively being restructured
@@ -103,20 +121,20 @@ Interactive Brokers is confirmed to accept Tunisian residents for account openin
 
 ---
 
-## Bottom Line
+## The Short Version for Tunisia
 
 The US-Tunisia treaty is a genuine outlier in this series: 20% on portfolio dividends, not the 15% most readers of this series have come to expect, with W-8BEN still worth filing to avoid the full 30% default. On the practical-access side, Tunisia's 2026 Finance Law eased the rules for opening a foreign currency account - a real, recent liberalization - though whether it specifically simplifies funding a foreign brokerage account is worth confirming directly given the framework is still evolving.
 
 ---
 
-*This article is informational only and does not constitute tax or legal advice. Treaty rates are based on the US-Tunisia Income Tax Convention. Tunisia's foreign exchange rules, including the 2026 Finance Law changes and the ongoing exchange code reform, are set by the Banque Centrale de Tunisie and Tunisian law, and are actively changing - always confirm current rules with an authorized intermediary and consult a qualified Tunisian tax advisor for advice specific to your situation.*
+*Orientation on investing from Tunisia, not personalised tax or legal advice. Treaty figures are drawn from the US-Tunisia Income Tax Convention. Tunisia's foreign exchange rules, including the 2026 Finance Law changes and the ongoing exchange code reform, are set by the Banque Centrale de Tunisie and Tunisian law, and are actively changing - always confirm current rules with an authorized intermediary and Your own case belongs with a qualified Tunisian tax adviser.*
 
 *Sources: US-Tunisia Income Tax Convention; IRS Publication 515 (2026); ilBoursa - Comptes en Devises pour les Résidents: Ce que Change la Loi de Finances 2026; La Presse de Tunisie - Vers un Nouveau Code des Changes: La Tunisie Engage une Réforme Structurelle; BNA - Compte Personne Physique Résidente en Devises ou en Dinars Convertibles; Standfors - Comptes en Devises pour Résidents en Tunisie 2026; Banque Centrale de Tunisie - Réglementation des Changes.*
 
 ## Related Guides
 
-- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
-- [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)
 - [PFIC Rules for International Investors](/taxes/pfic-rules-international-investors/)
 - [US-Morocco Tax Treaty for Investors](/taxes/us-morocco-tax-treaty-investors/)
 - [US-Egypt Tax Treaty for Investors](/taxes/us-egypt-tax-treaty-investors/)
+- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
+- [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)

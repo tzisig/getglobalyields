@@ -22,7 +22,7 @@ readingTime: "15 min read"
 featured: false
 rating: 4.8
 pros: ["Available in 200+ countries", "Near-interbank currency conversion rates", "Full product range including options", "Competitive commissions"]
-cons: ["Steep learning curve", "Inaccessible IBKR Lite for internationals", "$10/m inactivity fee for <$100k", "Slow customer support"]
+cons: ["Steep learning curve", "Inaccessible IBKR Lite for internationals", "Market data subscriptions cost extra", "Slow customer support"]
 productName: "Interactive Brokers"
 schema:
   faq:
@@ -35,11 +35,11 @@ schema:
     - question: "Does Interactive Brokers offer a demo account?"
       answer: "Yes. IBKR's paper trading feature allows you to practice with virtual money on a simulated account using real market data. This is available to all clients at no cost."
     - question: "What is the minimum deposit for Interactive Brokers?"
-      answer: "There is no minimum deposit. However, to avoid the $10/month inactivity fee, aim to generate $10 or more in monthly commissions or grow your account to $100,000 or more."
+      answer: "There is no minimum deposit, and no monthly inactivity fee - Interactive Brokers eliminated that charge on 1 July 2021. The costs that remain are commissions, currency conversion, and any market data subscriptions you choose to add."
     - question: "Is Interactive Brokers available outside the US?"
       answer: "Yes. Interactive Brokers accepts clients from 200+ countries including Israel, Canada, Australia, and most of Europe. It is one of the few major brokers with genuine global availability."
     - question: "What currency conversion rate does Interactive Brokers offer?"
-      answer: "IBKR offers near-interbank currency conversion rates of approximately 0.002%. On a $10,000 conversion, that is roughly $0.20 compared to $100-$200 at a typical bank."
+      answer: "IBKR offers near-interbank currency conversion rates of approximately 0.002%, subject to a $2 minimum per conversion. On a $10,000 conversion the commission works out to $0.20, so the $2 minimum applies - compared to $100-$200 at a typical bank."
 ---
 
 ## **Overall Rating: 4.8 / 5**
@@ -100,14 +100,14 @@ In my 4.5+ years of actively trading and managing a multi-currency portfolio bet
 | Israeli bank | $100 to $200 (1% to 2%) |
 | Most online brokers | $50 to $100 (0.5% to 1%) |
 | Wise | $35 to $50 (0.35% to 0.5%) |
-| Interactive Brokers | $0.20 (0.002%) |
+| Interactive Brokers | $2 minimum (0.002%) |
 
-<div style="background:#0a192f;border-radius:16px;padding:24px 24px 20px;border:1px solid #233554;font-family:system-ui,-apple-system,sans-serif;">
+<div style="background:#0a192f;border-radius:16px;padding:24px 20px;border:1px solid #233554;font-family:system-ui,-apple-system,sans-serif;">
   <div style="margin-bottom:16px;">
     <div style="color:#e2e8f0;font-size:18px;font-weight:600;letter-spacing:-0.3px;">Currency Conversion Cost on a $10,000 Transfer</div>
     <div style="color:#64748b;font-size:13px;margin-top:2px;">Same table above, visualized - the IBKR bar is not a rendering error</div>
   </div>
-  <svg viewBox="0 0 640 230" style="width:100%;height:auto;">
+  <svg viewBox="0 640 230" style="width:100%;height:auto;">
     <line x1="0" y1="180" x2="640" y2="180" stroke="#233554" stroke-width="1" />
     <rect x="50" y="40" width="60" height="140" rx="4" fill="#3a506b" />
     <text x="80" y="32" text-anchor="middle" fill="#94a3b8" font-size="13" font-weight="700">$100-200</text>
@@ -121,7 +121,7 @@ In my 4.5+ years of actively trading and managing a multi-currency portfolio bet
     <text x="400" y="132" text-anchor="middle" fill="#94a3b8" font-size="13" font-weight="700">$35-50</text>
     <text x="400" y="198" text-anchor="middle" fill="#94a3b8" font-size="12">Wise</text>
     <rect x="530" y="176" width="60" height="4" rx="2" fill="#D4B95A" />
-    <text x="560" y="168" text-anchor="middle" fill="#D4B95A" font-size="13" font-weight="700">$0.20</text>
+    <text x="560" y="168" text-anchor="middle" fill="#D4B95A" font-size="13" font-weight="700">$2</text>
     <text x="560" y="198" text-anchor="middle" fill="#D4B95A" font-size="12">Interactive</text>
     <text x="560" y="214" text-anchor="middle" fill="#D4B95A" font-size="12">Brokers</text>
   </svg>
@@ -194,7 +194,7 @@ Opening an IBKR account as an international investor takes approximately 20 to 4
 
 *   IBKR Lite (commission-free) not available to international investors
 *   Trader Workstation has a steep learning curve
-*   $10/month inactivity fee for accounts below $100,000 (waived first year)
+*   Real-time market data is a paid subscription per exchange, unlike brokers that bundle it
 *   Customer support response times can be slow
 *   Mobile app less polished than consumer-focused competitors
 
@@ -205,13 +205,13 @@ Opening an IBKR account as an international investor takes approximately 20 to 4
 *   International investors who want access to US stocks, ETFs, and options
 *   Investors who regularly convert between currencies and want the best rates
 *   Active options traders who want low commissions and full strategy support
-*   Investors building portfolios above $25,000 where the inactivity fee is irrelevant
+*   Investors building portfolios above $25,000, where the per-trade cost advantage compounds
 
 **IBKR may not be the best choice for:**
 
 *   Complete beginners who want the simplest possible experience (consider [Firstrade](/best-brokers/firstrade-review-2026/))
 *   Investors whose sole focus is options income and want the best options UI (consider tastytrade alongside IBKR)
-*   Investors with very small portfolios under $5,000 where the inactivity fee is proportionally significant
+*   Investors with very small portfolios under $5,000, where the $2 minimum FX charge is proportionally significant
 
 ## **Interactive Brokers vs The Competition**
 
@@ -246,13 +246,13 @@ Yes. IBKR's paper trading feature allows you to practice with virtual money on a
 
 ### **What is the minimum deposit to start?**
 
-There is no minimum deposit. However, to avoid the $10/month inactivity fee, aim to generate $10+ in monthly commissions or grow your account to $100,000+.
+There is no minimum deposit, and no inactivity fee - IBKR removed it on 1 July 2021. Budget instead for commissions, the $2 minimum on currency conversions, and market data subscriptions if you need real-time quotes.
 
 ## **Final Verdict**
 
 Interactive Brokers earns its reputation as the best broker for international investors. The combination of global availability, near-interbank currency conversion rates, comprehensive product access, and competitive commissions is simply not matched by any competitor.
 
-The trade-offs - a complex platform, slow customer support, and the inactivity fee for smaller accounts - are real but manageable. For serious investors building meaningful portfolios, these are minor inconveniences compared to the structural advantages IBKR provides.
+The trade-offs - a complex platform, slow customer support, and paid market data - are real but manageable. For serious investors building meaningful portfolios, these are minor inconveniences compared to the structural advantages IBKR provides.
 
 **Rating: 4.8 / 5 - Highly Recommended for International Investors**
 

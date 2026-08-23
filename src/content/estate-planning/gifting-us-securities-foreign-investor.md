@@ -30,7 +30,7 @@ Under IRC §2501(a)(2), gifts of **intangible property** by a nonresident alien 
 
 ---
 
-## A Worked Comparison
+## Running the Numbers Both Ways
 
 **Scenario A - holding until death:** an investor with $260,000 in US-situs stock holdings dies without having done any lifetime gifting. Their estate faces US estate tax on $200,000 (the amount above the $60,000 exemption), calculated under the graduated NRA rate schedule discussed in our [$60,000 exemption guide](/estate-planning/us-estate-tax-non-resident-aliens-60000-exemption/), before the remaining assets pass to heirs.
 
@@ -76,7 +76,7 @@ US gift tax filing requirements can depend on the specific circumstances and amo
 
 ---
 
-## Practical Checklist
+## A Working List for Gifting US Securities as a Foreign Investor
 
 - [ ] If your US-situs stock holdings are approaching or exceeding the $60,000 estate tax exemption, consider whether lifetime gifting of some holdings to intended heirs could reduce your future estate tax exposure
 - [ ] Confirm your home country's own gift and inheritance tax treatment before assuming the US-side exemption means the gift is tax-free overall
@@ -87,13 +87,13 @@ US gift tax filing requirements can depend on the specific circumstances and amo
 
 ---
 
-## Bottom Line
+## Reading Gifting US Securities as a Foreign Investor Overall
 
 The asymmetry between US gift tax treatment (generally exempt for intangible property gifted by a non-resident alien) and US estate tax treatment (applicable to the same assets held at death, above the $60,000 exemption) is a real, statutory feature of US tax law - and a genuine planning lever for reducing future estate tax exposure through deliberate lifetime gifting, illustrated concretely in the worked comparison above. It requires coordinating with your home country's own gift and inheritance tax rules, and the recipient's country's rules, to get the full picture right, not applying the US-side analysis in isolation.
 
 ---
 
-*This article is for informational purposes only and does not constitute legal or tax advice. US gift tax rules for nonresident aliens are governed by IRC §2501 and related provisions, and interact with home-country tax rules that vary by jurisdiction. Consult a qualified cross-border estate planning attorney before implementing any gifting strategy.*
+*Everything here about Gifting US Securities as a Foreign Investor is educational, not personalised advice. US gift tax rules for nonresident aliens are governed by IRC §2501 and related provisions, and interact with home-country tax rules that vary by jurisdiction. Consult a qualified cross-border estate planning attorney before implementing any gifting strategy.*
 
 ## Related Guides
 

@@ -16,6 +16,12 @@ heroImageHeight: 560
 draft: true
 readingTime: "9 min read"
 featured: false
+seo:
+  metaTitle: "Disability Insurance for International Investors"
+  metaDescription: "Life insurance protects dependents if you die. Disability insurance protects your own income if you can't work - a genuinely more likely event over."
+  ogTitle: "Disability Insurance for International Investors"
+  ogDescription: "Life insurance protects dependents if you die. Disability insurance protects your own income if you can't work - a genuinely more likely event over."
+  twitterCard: "summary_large_image"
 ---
 
 Most of this category's coverage so far addresses what happens to assets and beneficiaries after an investor's death. Disability insurance addresses a different, statistically more likely scenario: what happens to the income funding the entire investment plan if the investor becomes unable to work, well before retirement. It's a coverage gap that gets far less attention than life insurance in most people's financial planning, and the cross-border version of the problem is harder to solve than the domestic one.
@@ -70,7 +76,7 @@ These address different, complementary risks - life insurance and estate plannin
 
 ---
 
-## Practical Checklist
+## Disability Insurance for International Investors: What to Sort Out First
 
 - [ ] Recognize that long-term disability is a statistically underweighted risk relative to death in most people's default financial planning
 - [ ] Review your current employer-provided disability coverage's actual benefit percentage, cap, and definition of disability, rather than assuming it's comprehensive
@@ -80,13 +86,14 @@ These address different, complementary risks - life insurance and estate plannin
 
 ---
 
-## Bottom Line
+## Closing the Loop on Disability Insurance for International Investors
 
 Disability insurance protects against a genuinely underrated risk - losing the ability to earn and continue investing, well before death - and is generally harder to access across borders than life insurance, since it's tied to your actual country of employment and residency rather than to where your investment assets sit. Reviewing what coverage you actually have, whether through an employer or privately, is worth doing as its own step, separate from the estate-planning-focused life insurance considerations covered elsewhere in this category.
 
 ---
 
-*This article is for informational purposes only and does not constitute financial, insurance, or legal advice. Disability insurance availability, terms, and coverage vary significantly by country and employer - confirm current details with a licensed insurance professional in your country of residence.*
+*General material on disability insurance for international investors. Cover terms differ sharply by insurer and country of residence - verify the current position independently before deciding.*
+---
 
 ## Related Guides
 

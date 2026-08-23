@@ -1,7 +1,7 @@
 ---
 slug: how-to-invest-in-us-stocks-from-bangladesh
 title: "How to Invest in US Stocks from Bangladesh (2026 Guide)"
-description: "How to invest in US stocks from Bangladesh: the USD 12,000/year remittance quota, broker options, W-8BEN, and the 10% treaty rate - explained for 2026."
+description: "The USD 12,000/year remittance quota, broker options, W-8BEN, and why individual investors get the 15% treaty rate rather than the 10% often quoted."
 pubDate: 2026-09-10
 updatedDate: 2026-08-05
 author: "Tzion Sigron"
@@ -23,7 +23,7 @@ readingTime: "10 min read"
 featured: false
 ---
 
-The US-Bangladesh tax treaty delivers a favorable 10% dividend rate - lower than the 15% most countries see. But for a Bangladeshi resident, the number that actually determines whether investing in US stocks is practical is not the treaty rate. It is **USD 12,000**, the standard annual personal remittance quota an Authorized Dealer bank can process without prior Bangladesh Bank approval.
+Article 10 of the US-Bangladesh treaty carries two dividend rates, and retail investors are routinely quoted the wrong one: the 10% belongs to direct-investment corporate holdings, while an individual buying shares or ETFs gets the portfolio rate of 15%. But for a Bangladeshi resident, the number that actually determines whether investing in US stocks is practical is not the treaty rate. It is **USD 12,000**, the standard annual personal remittance quota an Authorized Dealer bank can process without prior Bangladesh Bank approval.
 
 This guide covers that quota, what it means for funding a brokerage account, the treaty rate, and Bangladesh's own domestic tax treatment.
 
@@ -61,22 +61,22 @@ For the full picture, see our [US-Bangladesh tax treaty guide](/taxes/us-banglad
 
 ---
 
-## Step 2: What You Can Actually Buy
+## Step 2: What a Bangladesh Investor Can Actually Hold
 
-Bangladesh is not in the EU or EEA, so the PRIIPs restriction that blocks European residents from buying US-domiciled ETFs does not apply here. Once funded, **Nusrat can buy VOO, VTI, and QQQ directly** through a broker offering US market access.
+Bangladesh is outside PRIIPs' reach, so unlike an EU-based investor there is no UCITS-only workaround to bother with. Once funded, **Nusrat can buy VOO, VTI, and QQQ directly** through a broker offering US market access.
 
 ---
 
-## Step 3: The Treaty - A Favorable 10% on Dividends
+## Step 3: The Treaty - 15% on Dividends, Not the 10% You Will See Quoted
 
-The US-Bangladesh tax treaty caps US withholding on dividends at **10%**, lower than the 15% most countries in this series see, claimed with Form [W-8BEN](/taxes/w8ben-form-non-us-investors/).
+The US-Bangladesh tax treaty caps US withholding on portfolio dividends at **15%**, claimed with Form [W-8BEN](/taxes/w8ben-form-non-us-investors/). The 10% figure that circulates online is Article 10's direct-investment limb, which needs a corporate holder meeting an ownership threshold - not a brokerage account.
 
 | Income Type | Default US Rate | Treaty Rate |
 |---|---|---|
-| Dividends | 30% | **10%** |
+| Dividends (portfolio) | 30% | **15%** |
 | Capital gains (securities) | Generally not US-taxable for non-residents | Residence country only |
 
-Without W-8BEN on file, the full 30% applies from the first dividend.
+Miss the filing and 30% is deducted from each payment automatically.
 
 ---
 
@@ -88,7 +88,7 @@ Bangladesh taxes residents on worldwide income, with foreign-source income inclu
 
 ---
 
-## Step 5: Choose Your Broker
+## Step 5: Where to Open the Account From Bangladesh
 
 **Interactive Brokers (IBKR)** is confirmed to accept Bangladeshi residents for account opening, alongside **eToro**. Account opening and legally funding the account from Bangladesh are separate questions - confirm both, using the remittance guidance above. [See our full IBKR review →](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/) · [See our full eToro review →](/best-brokers/etoro-review-2026/)
 
@@ -106,12 +106,12 @@ Bangladesh taxes residents on worldwide income, with foreign-source income inclu
 **Broker:** Interactive Brokers, funded within her confirmed remittance quota.
 
 **Portfolio allocation:**
-- 60% VOO (S&P 500, bought directly)
-- 40% QQQ (Nasdaq-100, bought directly)
-- W-8BEN filed and confirmed active (10% withholding on her dividend statement)
+- 100% VOO (S&P 500, bought directly)
+- Splitting a balance this size across several funds adds line items without adding real diversification; with the remittance quota capping how fast the account can grow, Nusrat keeps it to one fund until the balance justifies a second
+- W-8BEN filed and confirmed active (15% withholding on her dividend statement)
 
 **Annual tax situation:**
-- 10% US withholding on dividends
+- 15% US withholding on dividends
 - Dividends and capital gains declared as part of worldwide income, with her tax advisor confirming whether the 10% domestic dividend rate or progressive slabs apply to her specific US dividends
 
 She plans her annual remittances against the USD 12,000 quota, adding to her position gradually each year rather than assuming a larger one-time transfer would be straightforward.
@@ -123,7 +123,7 @@ She plans her annual remittances against the USD 12,000 quota, adding to her pos
 
 ---
 
-## Common Mistakes to Avoid
+## What People Get Wrong About Bangladesh
 
 **Assuming the personal remittance quota automatically covers brokerage funding.** Confirm this specifically with your AD bank rather than assuming.
 
@@ -131,20 +131,20 @@ She plans her annual remittances against the USD 12,000 quota, adding to her pos
 
 **Assuming your US dividends automatically get Bangladesh's 10% domestic dividend rate.** Confirm the correct classification with an NBR-registered advisor - it may instead fall under progressive slabs.
 
-**Forgetting W-8BEN.** Without it, 30% withholding applies instead of the treaty's 10%.
+**Forgetting W-8BEN.** An unfiled form costs the difference between 15% and 30% on every dividend you receive.
 
 ---
 
-## What to Do This Week
+## Getting Started From Bangladesh: The First Steps
 
 1. **Confirm with your AD bank** whether your USD 12,000/year personal quota covers funding a foreign brokerage account.
 2. **Open a broker account.** IBKR or eToro, both confirmed to accept Bangladeshi residents.
-3. **File your W-8BEN** to secure the 10% treaty rate.
+3. **File your W-8BEN** to secure the 15% treaty rate.
 4. **Confirm your US dividend classification** with an NBR-registered tax advisor before filing.
 
 ---
 
-*This article is for informational purposes only and does not constitute tax or legal advice. Treaty rates are based on the US-Bangladesh Income Tax Convention. Bangladesh Bank's remittance quotas and NBR's tax rules can change - confirm current limits with an Authorized Dealer bank and consult a qualified Bangladeshi tax advisor for advice specific to your situation.*
+*General material on Bangladesh - it does not account for your circumstances. Treaty rates are based on the US-Bangladesh Income Tax Convention. Bangladesh Bank's remittance quotas and NBR's tax rules can change - confirm current limits with an Authorized Dealer bank and consult a qualified Bangladeshi tax advisor for advice specific to your situation.*
 
 ---
 
@@ -162,13 +162,17 @@ She plans her annual remittances against the USD 12,000 quota, adding to her pos
 Bangladesh Bank permits resident individuals to remit up to approximately USD 12,000 per calendar year for personal purposes through an Authorized Dealer bank without prior approval. Confirm with your AD bank whether this specific quota applies to brokerage funding.
 
 **What's the US withholding rate on my dividends?**
-10%, under the US-Bangladesh tax treaty, once Form W-8BEN is filed - lower than the 15% most countries in this series see.
+15%, under the US-Bangladesh tax treaty, once Form W-8BEN is filed. The 10% rate quoted in many guides applies only to direct-investment corporate shareholdings, not to individual investors.
 
 **Are my US dividends taxed at Bangladesh's 10% domestic dividend rate?**
 This is an open question worth confirming directly - it may apply the same way as Bangladeshi company dividends, or it may instead fall under regular progressive income tax slabs. Confirm with an NBR-registered tax advisor.
 
 **Can I buy VOO and QQQ directly once my account is funded?**
-Yes. Bangladesh is not subject to the EU's PRIIPs regulation, so any US-listed stock or ETF your broker offers is directly accessible.
+Yes. Nothing in Bangladesh mirrors PRIIPs, so US-listed stocks and ETFs are directly accessible through your broker.
 
 **Which brokers accept Bangladeshi residents?**
 Interactive Brokers and eToro are both confirmed to accept Bangladeshi residents for account opening.
+
+---
+
+*Sources: US-Bangladesh Income Tax Convention and Protocol; IRS treaty text; IRS Publication 515 (2026).*

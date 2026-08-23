@@ -1,6 +1,6 @@
 ---
 slug: us-uk-tax-treaty-investors
-title: "US-UK Tax Treaty for Investors: The Complete 2026 Guide"
+title: "US-UK Tax Treaty for Investors: ISA vs SIPP for US Stocks (2026)"
 description: "US-UK tax treaty guide for individual investors. Withholding rates on dividends, ISA vs SIPP treatment, W-8BEN filing, and the 0% pension exemption explained."
 pubDate: 2026-05-24
 updatedDate: 2026-08-04
@@ -27,7 +27,7 @@ seo:
   metaDescription: "Do you pay tax on US shares in the UK? How the US-UK tax treaty reduces dividend withholding to 15%, plus ISA, SIPP, and W-8BEN rules."
   ogTitle: "Tax on US Shares in the UK: US-UK Tax Treaty (2026)"
   ogDescription: "Do you pay tax on US shares in the UK? How the US-UK tax treaty reduces dividend withholding to 15%, plus ISA, SIPP, and W-8BEN rules."
-  ogImage: "/images/blog/taxes/us-uk-tax-treaty.webp"
+  ogImage: "/images/blog/taxes/us-uk-tax-treaty-investors.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"
@@ -183,7 +183,7 @@ UK dividend tax applies to the gross dividend before US withholding. You then cl
 - US withholding at 15% = $900 deducted
 - UK dividend tax at 33.75% on $6,000 = $2,025
 - Minus $900 US withholding credit = $1,125 owed to HMRC
-- Total tax: $900 + $1,125 = $2,025 (the UK higher rate applied once, no double taxation)
+- Total: $2,025 - the UK higher rate on the full dividend, with the $900 already paid to the US credited against it.
 
 ---
 
@@ -275,7 +275,7 @@ The UK treaty's genuine distinction is the pension exemption mechanism and how i
 
 ---
 
-## Practical Checklist
+## Your Next Steps as a British Resident
 
 Each item folds in the mistake it prevents.
 
@@ -330,14 +330,14 @@ The March 2025 HMRC position on US pension lump sums remains the most significan
 
 ---
 
-*This article is informational only and does not constitute tax or legal advice. Rates are based on the US-UK Income Tax Convention (2001) and Protocols (2002, 2003). HMRC and IRS interpretations change. Always consult a qualified cross-border tax professional for advice specific to your situation.*
+*General coverage of investing from the UK. Your position is not covered here. Rates are based on the US-UK Income Tax Convention (2001) and Protocols (2002, 2003). HMRC and IRS interpretations change. Always consult a qualified cross-border tax professional once you have your actual numbers in front of you.*
 
 *Sources: US-UK Income Tax Convention (July 24, 2001) and Protocols; HMRC Double Taxation Relief Manual DT19852; Congress.gov Treaty Document 107-19; AJ Bell official guidance on US withholding and W-8BEN (ajbell.co.uk); HMRC updated pension lump sum guidance (March 12, 2025) as reported by USTAXFS, PJD Tax, and Travers Smith (2026 status check); UK FIG regime guidance (HMRC, April 2025); UK CGT rates confirmed via HMRC and Gov.uk (October 2024 Budget); UK dividend tax rates 2026/27 confirmed via HMRC and multiple 2026 practitioner sources (basic 10.75%, higher 35.75%, additional 39.35%, £500 allowance unchanged); IRS Publication 515 (2026).*
 
 ## Related Guides
 
-- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
 - [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)
+- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
 - [PFIC Rules for International Investors](/taxes/pfic-rules-international-investors/)
 - [US-Canada Tax Treaty for Investors](/taxes/us-canada-tax-treaty-investors-2026/)
 - [US-Germany Tax Treaty for Investors](/taxes/us-germany-tax-treaty-investors/)

@@ -58,13 +58,13 @@ Before getting into how this works, an honest framing most crypto tax content sk
 
 ---
 
-## Bottom Line
+## The Short Version of Crypto Tax-Loss Harvesting and the Wash Sale Rule
 
 The crypto wash sale loophole is real, current, and has survived multiple serious legislative attempts to close it - you can harvest a crypto loss and immediately rebuy in a way that's flatly illegal for a stock position. The catch specific to this site's audience: it only matters if you actually owe US capital gains tax on crypto, which most non-US investors don't, and it doesn't extend to crypto ETF shares, which are securities subject to the normal rule. Know which category you're actually in before assuming this strategy applies to you.
 
 ---
 
-*This article is for informational purposes only and does not constitute tax advice. Tax law, including wash sale rules and their potential extension to digital assets, can change - confirm current rules with a qualified tax professional before implementing any tax-loss harvesting strategy.*
+*Educational content about Crypto Tax-Loss Harvesting and the Wash Sale Rule; it carries no advice for your case. Tax law, including wash sale rules and their potential extension to digital assets, can change - confirm current rules with a qualified tax professional before implementing any tax-loss harvesting strategy.*
 
 ## Related Guides
 

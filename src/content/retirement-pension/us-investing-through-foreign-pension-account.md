@@ -77,7 +77,7 @@ This is a genuinely separate, fact-specific question from the income-tax and PFI
 
 ---
 
-## Practical Checklist
+## US Investing Through a Foreign Pension Account: The Practical Checklist
 
 - [ ] Confirm directly with your pension provider whether the plan can hold US individual stocks or ETFs, not just domestic or regional funds
 - [ ] If US securities are available, confirm how dividend withholding documentation is handled - automatically, or requiring action from you
@@ -87,13 +87,13 @@ This is a genuinely separate, fact-specific question from the income-tax and PFI
 
 ---
 
-## Bottom Line
+## What to Take Away From US Investing Through a Foreign Pension Account
 
 Whether and how you can hold US stocks inside a foreign pension account depends on your specific provider's fund menu and your country's treaty treatment - there is no single answer that applies universally. For US persons specifically, the US tax classification of a foreign pension can diverge meaningfully from its home-country tax-advantaged status, and can trigger genuine PFIC exposure absent specific treaty relief, making this a genuine area for dedicated professional advice rather than assumption.
 
 ---
 
-*This article is for informational purposes only and does not constitute financial or tax advice. Foreign pension account rules and US tax treatment of foreign pensions vary significantly by country and account type. Consult a qualified cross-border financial and tax advisor for advice specific to your situation.*
+*A general account of US Investing Through a Foreign Pension Account, not advice tailored to anyone in particular. Foreign pension account rules and US tax treatment of foreign pensions vary significantly by country and account type. Get a qualified opinion keyed to your own holdings first.*
 
 ## Related Guides
 

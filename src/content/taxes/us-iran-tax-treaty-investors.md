@@ -19,17 +19,17 @@ readingTime: "7 min read"
 featured: false
 seo:
   metaTitle: "US-Iran Tax Treaty and US Stocks: The Facts (2026)"
-  metaDescription: "There is no US-Iran tax treaty. Iran is one of only four countries under a comprehensive US sanctions embargo, meaning US brokers cannot legally serve persons in Iran."
+  metaDescription: "There is no US-Iran tax treaty. Iran is one of only four countries under a comprehensive US sanctions embargo, meaning US brokers cannot legally serve."
   ogTitle: "US-Iran Tax Treaty and US Stocks: The Facts (2026)"
-  ogDescription: "There is no US-Iran tax treaty. Iran is one of only four countries under a comprehensive US sanctions embargo, meaning US brokers cannot legally serve persons in Iran."
-  ogImage: "/images/blog/taxes/us-iran-tax-treaty.webp"
+  ogDescription: "There is no US-Iran tax treaty. Iran is one of only four countries under a comprehensive US sanctions embargo, meaning US brokers cannot legally serve."
+  ogImage: "/images/blog/taxes/us-iran-tax-treaty-investors.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"
   headline: "US-Iran Tax Treaty and US Stocks: The Facts (2026)"
-  description: "There is no US-Iran tax treaty. Iran is one of only four countries under a comprehensive US sanctions embargo, meaning US brokers cannot legally serve persons in Iran."
+  description: "There is no US-Iran tax treaty. Iran is one of only four countries under a comprehensive US sanctions embargo, meaning US brokers cannot legally serve."
   author: "Tzion Sigron"
-  datePublished: "2026-08-27"
+  datePublished: "2026-10-18"
   dateModified: "2026-08-27"
   image: "/images/blog/taxes/us-iran-tax-treaty-investors.webp"
   mainEntityOfPage: "https://getglobalyields.com/taxes/us-iran-tax-treaty-investors"
@@ -94,13 +94,13 @@ The Iranian rial has experienced severe, sustained depreciation and high inflati
 
 ---
 
-## Bottom Line
+## So What Should an Iranian Investor Do?
 
 There is no US-Iran tax treaty, and more fundamentally, Iran is one of only four countries under a comprehensive US sanctions embargo - a legal framework that generally prohibits US-regulated brokers, including the ones discussed throughout this series, from providing services to persons in Iran, with real enforcement history behind it. This article exists to state that clearly and factually, not to work around it. Anyone with a genuinely complex situation should consult a qualified sanctions attorney rather than rely on general guidance.
 
 ---
 
-*This article is factual reference information only and does not constitute legal, tax, or sanctions-compliance advice, and must not be relied upon as such. US sanctions on Iran are comprehensive, actively enforced, and subject to change - consult a qualified US sanctions attorney for any question about how these rules apply to your specific circumstances.*
+*Reference material on investing from Iran, not a professional opinion on your circumstances. US sanctions on Iran are comprehensive, actively enforced, and subject to change - consult a qualified US sanctions attorney for any question about how these rules apply to your specific circumstances.*
 
 *Sources: OFAC - Iran Sanctions Program Information; US Department of State - Iran Sanctions; Greenberg Traurig - US-Iran Sanctions Update: OFAC Issues General License X Following Signing of Memorandum of Understanding (2026); Baker McKenzie Global Sanctions Blog - OFAC Reverses US Sanctions Relaxation Related to US-Iran Memorandum of Understanding; KPMG - US OFAC Settlement: Brokerage Firm Sanctions Violations (2025).*
 

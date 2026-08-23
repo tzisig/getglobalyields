@@ -259,7 +259,7 @@ Yes - but the LRS limit applies per individual, and both account holders' remitt
 
 ---
 
-## Final Thoughts
+## Closing the Loop on How to Invest in US Stocks from India
 
 Investing in US stocks from India is genuinely accessible in 2026. The LRS framework is well-established, the platforms have improved significantly, and the tax treatment - while more complex than domestic investing - is manageable with basic planning.
 

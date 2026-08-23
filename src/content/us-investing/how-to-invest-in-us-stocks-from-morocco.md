@@ -1,7 +1,7 @@
 ---
 slug: how-to-invest-in-us-stocks-from-morocco
 title: "How to Invest in US Stocks from Morocco (2026 Guide)"
-description: "How to invest in US stocks from Morocco: broker options, W-8BEN, the 15% treaty rate, why foreign capital gains are taxed at 20%, and self-declaring dividends."
+description: "How to Invest in US Stocks from Morocco: broker options, W-8BEN, the 15% treaty rate, why foreign capital gains are taxed at 20%, and self-declaring dividends."
 pubDate: 2026-09-14
 updatedDate: 2026-08-05
 author: "Tzion Sigron"
@@ -42,13 +42,13 @@ Yassine is 32, lives in Casablanca, and works in telecommunications. He already 
 
 ---
 
-## Step 1: What You Can Actually Buy
+## Step 1: What You Can Actually Buy From Morocco
 
-Morocco is not in the EU or EEA, so the PRIIPs restriction that blocks European residents from buying US-domiciled ETFs does not apply here. **Yassine can buy VOO, VTI, and QQQ directly** through a broker offering US market access.
+Morocco sits well outside the EU's PRIIPs perimeter, which is what prevents European residents from buying these funds at all. **Yassine can buy VOO, VTI, and QQQ directly** through a broker offering US market access.
 
 ---
 
-## Step 2: The Treaty - 15% on Dividends
+## Step 2: What the Morocco Treaty Gives You
 
 The US-Morocco tax treaty (1977) caps US withholding on dividends paid to Moroccan resident individuals at **15%** for portfolio investors, claimed with Form [W-8BEN](/taxes/w8ben-form-non-us-investors/).
 
@@ -57,7 +57,7 @@ The US-Morocco tax treaty (1977) caps US withholding on dividends paid to Morocc
 | Dividends | 30% | **15%** |
 | Capital gains (securities) | Generally not US-taxable for non-residents | Residence country only |
 
-Without W-8BEN on file, the full 30% applies from the first dividend.
+Lodge W-8BEN with the broker and the rate drops to the treaty level.
 
 For the full treaty mechanics, see our [US-Morocco tax treaty guide](/taxes/us-morocco-tax-treaty-investors/).
 
@@ -94,7 +94,7 @@ Morocco maintains a foreign exchange control regime administered by the Office d
 
 ---
 
-## Step 6: Choose Your Broker
+## Step 6: Choosing a Broker From Morocco
 
 **Interactive Brokers (IBKR)** is confirmed to accept Moroccan residents for account opening, alongside other options including XTB and MEXEM. Confirm current requirements directly before applying, and separately confirm the exchange-control question above before a large transfer. [See our full IBKR review →](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/)
 
@@ -112,8 +112,9 @@ Morocco maintains a foreign exchange control regime administered by the Office d
 **Broker:** Interactive Brokers, once the funding question is resolved.
 
 **Portfolio allocation:**
-- 60% VOO (S&P 500, bought directly)
-- 40% QQQ (Nasdaq-100, bought directly)
+- 80% VOO (S&P 500, bought directly)
+- 20% QQQ (Nasdaq-100, bought directly)
+- Deliberately few distributing positions: nothing is withheld at source for Yassine, so every dividend becomes a line he self-declares by hand. Fewer paying positions means a shorter annual reconciliation, not a lower tax rate
 - W-8BEN filed and confirmed active (15% withholding on his dividend statement)
 
 **Annual tax situation:**
@@ -130,7 +131,7 @@ He keeps a running log of dividends received over the year, since nothing is wit
 
 ---
 
-## Common Mistakes to Avoid
+## Morocco: Avoidable Mistakes
 
 **Assuming the 15% Casablanca capital gains rate applies to US stocks.** It does not - foreign-held securities are taxed at 20% under TPCVM.
 
@@ -138,11 +139,11 @@ He keeps a running log of dividends received over the year, since nothing is wit
 
 **Assuming an unlimited or specific transfer allowance for brokerage funding.** Confirm the current rules with Office des Changes rather than guessing.
 
-**Forgetting W-8BEN.** Without it, 30% withholding applies instead of the treaty's 15%.
+**Forgetting W-8BEN.** The treaty rate of 15% only reaches your account once the form does; otherwise it is 30%.
 
 ---
 
-## What to Do This Week
+## The First Things to Do From Morocco
 
 1. **Confirm the current foreign exchange allowance** for brokerage funding with Office des Changes or a financial advisor.
 2. **Open a broker account.** IBKR is confirmed to accept Moroccan residents.
@@ -151,7 +152,7 @@ He keeps a running log of dividends received over the year, since nothing is wit
 
 ---
 
-*This article is for informational purposes only and does not constitute personalized tax or financial advice. Treaty rates are based on the US-Morocco Income Tax Convention (1977). Morocco's TPCVM rates, foreign-source income declaration rules, and foreign exchange control regime are set by Moroccan law and can change - consult a qualified Moroccan tax advisor and Office des Changes directly for advice specific to your situation.*
+*Written as an overview of Morocco, not as financial guidance for your circumstances. Treaty rates are based on the US-Morocco Income Tax Convention (1977). Morocco's TPCVM rates, foreign-source income declaration rules, and foreign exchange control regime are set by Moroccan law and can change - consult a qualified Moroccan tax advisor and Office des Changes directly for advice specific to your situation.*
 
 ---
 
@@ -178,4 +179,8 @@ No. Foreign-source dividends arrive with no Moroccan withholding at all. You mus
 This guide could not confirm a specific allowance dedicated to brokerage funding - confirm current limits directly with Office des Changes or a Moroccan financial advisor before transferring meaningful funds.
 
 **Can I buy VOO and QQQ directly as a Moroccan investor?**
-Yes. Morocco is not subject to the EU's PRIIPs regulation, so any US-listed stock or ETF your broker offers is directly accessible.
+Yes. Because Morocco is not covered by PRIIPs, you can buy US-domiciled ETFs directly rather than hunting for UCITS versions.
+
+---
+
+*Sources: US-Morocco Income Tax Convention (1977); IRS treaty text and tables; IRS Publication 515 (2026).*

@@ -19,18 +19,18 @@ draft: true
 readingTime: "9 min read"
 featured: false
 seo:
-  metaTitle: "US-Morocco Tax Treaty: The 20% Foreign-Securities Rate (2026)"
-  metaDescription: "How the US-Morocco tax treaty caps dividend withholding at 15%. Why Morocco taxes gains on US stocks at 20%, not the 15% rate that applies to Casablanca-listed shares."
+  metaTitle: "US-Morocco: The 20% Foreign-Securities Rate (2026)"
+  metaDescription: "The US-Morocco tax treaty holds dividend withholding to 15%. Why Morocco taxes gains on US stocks at 20%, not the 15% rate that applies to Casablanca-listed."
   ogTitle: "US-Morocco Tax Treaty: The 20% Foreign-Securities Rate (2026)"
-  ogDescription: "How the US-Morocco tax treaty caps dividend withholding at 15%. Why Morocco taxes gains on US stocks at 20%, not the 15% rate that applies to Casablanca-listed shares."
-  ogImage: "/images/blog/taxes/us-morocco-tax-treaty.webp"
+  ogDescription: "The US-Morocco tax treaty holds dividend withholding to 15%. Why Morocco taxes gains on US stocks at 20%, not the 15% rate that applies to Casablanca-listed."
+  ogImage: "/images/blog/taxes/us-morocco-tax-treaty-investors.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"
   headline: "US-Morocco Tax Treaty: The 20% Foreign-Securities Rate (2026)"
-  description: "How the US-Morocco tax treaty caps dividend withholding at 15%. Why Morocco taxes gains on US stocks at 20%, not the 15% rate that applies to Casablanca-listed shares."
+  description: "The US-Morocco tax treaty holds dividend withholding to 15%. Why Morocco taxes gains on US stocks at 20%, not the 15% rate that applies to Casablanca-listed."
   author: "Tzion Sigron"
-  datePublished: "2026-08-16"
+  datePublished: "2026-09-14"
   dateModified: "2026-08-16"
   image: "/images/blog/taxes/us-morocco-tax-treaty-investors.webp"
   mainEntityOfPage: "https://getglobalyields.com/taxes/us-morocco-tax-treaty-investors"
@@ -72,7 +72,7 @@ For dividends and interest sourced abroad - a US stock's dividend included - Mor
 
 ---
 
-## The Treaty: 15% on Dividends
+## Morocco's 15% Dividend Rate
 
 | Income Type | Default US Rate | Treaty Rate (Portfolio) | Treaty Rate (25%+ Corporate) |
 |---|---|---|---|
@@ -81,7 +81,7 @@ For dividends and interest sourced abroad - a US stock's dividend included - Mor
 
 *Sources: US-Morocco Income Tax Convention (1977); IRS treaty text and tables.*
 
-Claiming the 15% rate requires Form [W-8BEN](/taxes/w8ben-form-non-us-investors/) filed with your broker. Without it, the full 30% default applies from the first dividend payment. A tax credit for the US withholding is generally available against your self-declared Moroccan liability where a treaty exists - confirm the exact mechanics of claiming it on your Moroccan return with a local tax advisor, since it isn't automatic the way source-country withholding would be.
+The reduced 15% rate is claimed through Form [W-8BEN](/taxes/w8ben-form-non-us-investors/), filed with the broker. Leave the form unfiled and every distribution takes the full 30%. A tax credit for the US withholding is generally available against your self-declared Moroccan liability where a treaty exists - confirm the exact mechanics of claiming it on your Moroccan return with a local tax advisor, since it isn't automatic the way source-country withholding would be.
 
 ---
 
@@ -91,15 +91,15 @@ Morocco maintains a foreign exchange control regime administered by the Office d
 
 ---
 
-## Broker Access
+## Who Will Actually Take Your Money in Morocco
 
-Interactive Brokers is confirmed to accept Moroccan residents for account opening, alongside other brokers such as XTB and MEXEM. Confirm current requirements directly before applying, and separately confirm the exchange-control question above before initiating a large transfer.
+Both Interactive Brokers and eToro are open to Moroccan applicants. Confirm current requirements directly before applying, and separately confirm the exchange-control question above before initiating a large transfer.
 
 ---
 
-## Practical Checklist
+## The Morocco Investor's Running List
 
-**Moroccan resident investing in US stocks:**
+**Working through it as a Moroccan resident:**
 - [ ] Confirm W-8BEN is on file with your broker; verify 15%, not 30%, on dividend statements
 - [ ] Budget for the 20% TPCVM rate on foreign-securities capital gains, not the 15% rate that applies only to Casablanca-listed shares
 - [ ] Track foreign dividend and interest income received over the year - it arrives with no Moroccan withholding and must be self-declared on your annual return at 15%
@@ -116,20 +116,20 @@ Interactive Brokers is confirmed to accept Moroccan residents for account openin
 
 ---
 
-## Bottom Line
+## What This Means for Morocco Investors
 
 The treaty rate is standard - 15% on dividends, claimed with W-8BEN. The two things worth getting right on the Moroccan side are easy to miss from a quick search: capital gains on US stocks are taxed at 20%, not the 15% rate quoted for Casablanca-listed shares, and foreign dividends arrive with no withholding at all, putting the reporting burden squarely on you rather than on an automatic system. Add Morocco's foreign exchange control framework - genuinely still in flux under the 2026 IGOC reform - and this is a jurisdiction where confirming current rules directly, rather than relying on a general summary, is worth the extra step before moving meaningful money.
 
 ---
 
-*This article is informational only and does not constitute tax or legal advice. Treaty rates are based on the US-Morocco Income Tax Convention. Morocco's TPCVM rates, foreign-source income declaration rules, and foreign exchange control regime are set by Moroccan law and can change - always consult a qualified Moroccan tax advisor and Office des Changes directly for advice specific to your situation.*
+*An explainer on investing from Morocco; it carries no advice for your situation. Rate information is based on the US-Morocco Income Tax Convention. Morocco's TPCVM rates, foreign-source income declaration rules, and foreign exchange control regime are set by Moroccan law and can change - always consult a qualified Moroccan tax advisor and Office des Changes directly rather than relying on a general guide.*
 
 *Sources: US-Morocco Income Tax Convention and IRS treaty tables; IRS Publication 515 (2026); Upsilon Consulting - Profit Cession Valeurs Mobilières Maroc and International Capital Gains in Morocco: Non-Resident Disposals & Treaties 2026 and Dotations Office des Changes Maroc 2026; Amereller - Morocco's New Foreign Exchange Rules: IGOC 2026; PwC Morocco - Individual and Corporate Income Determination and Withholding Taxes.*
 
 ## Related Guides
 
-- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
 - [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)
 - [PFIC Rules for International Investors](/taxes/pfic-rules-international-investors/)
+- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
 - [US-Kenya Tax Treaty for Investors](/taxes/us-kenya-tax-treaty-investors/)
 - [US-Nigeria Tax Treaty for Investors](/taxes/us-nigeria-tax-treaty-investors/)

@@ -32,7 +32,7 @@ A revocable living trust does exactly one thing especially well: it lets assets 
 
 ---
 
-## What It Actually Costs
+## What Revocable Living Trust Explained for Foreign Investors Costs in Practice
 
 **A DIY or online-service trust typically runs $400-$1,000.** An attorney-drafted trust costs meaningfully more - commonly $1,500-$4,000 nationally for a standard package, exceeding $5,000 for a genuinely complex estate, and running $5,000-$10,000+ specifically in higher-cost states like California. Average estate attorney rates cluster around $370/hour nationally, with high-cost metros (New York, California, Massachusetts) running $400-$800/hour against $150-$400/hour in lower-cost regions. **A full attorney-drafted package typically bundles more than just the trust document itself** - usually a pour-over will (which catches any asset accidentally left outside the trust and directs it in), a financial power of attorney, a healthcare directive, and a HIPAA authorization, all as one coordinated set rather than separate purchases.
 
@@ -80,7 +80,7 @@ Yes, this is the standard structure for most revocable trusts regardless of the 
 
 ---
 
-## Practical Checklist
+## Revocable Living Trust Explained for Foreign Investors: What to Sort Out First
 
 - [ ] Understand clearly that a revocable trust avoids probate only - it does not reduce estate tax or protect assets from creditors
 - [ ] Budget realistically: $400-$1,000 DIY, or $1,500-$4,000+ attorney-drafted (higher in high-cost states), typically bundled with a pour-over will and power of attorney documents
@@ -91,13 +91,13 @@ Yes, this is the standard structure for most revocable trusts regardless of the 
 
 ---
 
-## Bottom Line
+## Revocable Living Trust Explained for Foreign Investors, in Short
 
 A revocable living trust is a genuinely useful, well-understood tool for avoiding probate and keeping your estate's details private - and a non-resident alien can absolutely use one for US-situs assets like a brokerage account, with probate avoidance working exactly the same way it does for a US person. What it isn't is an estate-tax reduction or asset-protection tool, for anyone, regardless of citizenship. And for a foreign grantor specifically, the trust's US tax classification - domestic versus foreign, grantor versus non-grantor - is a real technical question that sources don't answer identically, making a cross-border-specialist attorney worth the cost rather than an optional upgrade.
 
 ---
 
-*This article is for informational purposes only and does not constitute legal or tax advice. Trust costs, state probate thresholds, and the tax classification rules for a foreign grantor's US trust are complex, fact-specific, and subject to change - consult a qualified estate planning attorney with cross-border experience before establishing or relying on any trust structure described above.*
+*This piece covers Revocable Living Trust Explained for Foreign Investors in general terms and is not financial advice. Trust costs, state probate thresholds, and the tax classification rules for a foreign grantor's US trust are complex, fact-specific, and subject to change - consult a qualified estate planning attorney with cross-border experience before establishing or relying on any trust structure described above.*
 
 ## Related Guides
 

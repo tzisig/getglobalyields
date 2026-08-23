@@ -70,7 +70,7 @@ Use our [Broker Finder](/resources/broker-finder/) tool to find the right broker
       </div>
     </div>
     <div class="hidden sm:flex items-center self-stretch ml-auto">
-      <svg class="h-5 w-5 shrink-0 text-slate-500 group-hover:text-accent-500 transition-colors" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+      <svg class="h-5 w-5 shrink-0 text-slate-500 group-hover:text-accent-500 transition-colors" fill="none" viewBox="0 24 24" stroke="currentColor">
         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
       </svg>
     </div>
@@ -113,7 +113,7 @@ Before ranking specific platforms, it is important to define what separates a tr
       </div>
       <span class="mt-auto text-xs font-semibold text-accent-500 group-hover:text-accent-400 flex items-center gap-1">
         Read Full Review
-        <svg class="h-3.5 w-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" /></svg>
+        <svg class="h-3.5 w-3.5" fill="none" viewBox="0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" /></svg>
       </span>
     </a>
     <!-- eToro -->
@@ -134,7 +134,7 @@ Before ranking specific platforms, it is important to define what separates a tr
       </div>
       <span class="mt-auto text-xs font-semibold text-accent-500 group-hover:text-accent-400 flex items-center gap-1">
         Read Full Review
-        <svg class="h-3.5 w-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" /></svg>
+        <svg class="h-3.5 w-3.5" fill="none" viewBox="0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" /></svg>
       </span>
     </a>
     <!-- Saxo Bank -->
@@ -155,14 +155,14 @@ Before ranking specific platforms, it is important to define what separates a tr
       </div>
       <span class="mt-auto text-xs font-semibold text-accent-500 group-hover:text-accent-400 flex items-center gap-1">
         Read Full Review
-        <svg class="h-3.5 w-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" /></svg>
+        <svg class="h-3.5 w-3.5" fill="none" viewBox="0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" /></svg>
       </span>
     </a>
     <!-- IBKR Lite coming -->
     <a href="/best-brokers/interactive-brokers-vs-ibkr-lite-for-non-us-investors/" class="group flex flex-col rounded-xl border border-primary-700 hover:border-accent-500 bg-primary-800 hover:shadow-lg hover:shadow-accent-500/10 p-5 transition-all duration-200 hover:-translate-y-0.5 no-underline">
       <div class="flex items-center gap-3 mb-3">
         <div class="flex h-10 w-10 shrink-0 items-center justify-center rounded-lg border border-primary-600 bg-primary-900 text-accent-500">
-          <svg class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6v6m0 0v6m0-6h6m-6 0H6" /></svg>
+          <svg class="h-4 w-4" fill="none" viewBox="0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6v6m0 0v6m0-6h6m-6 0H6" /></svg>
         </div>
         <div>
           <div class="font-bold text-slate-100 group-hover:text-accent-400 transition-colors text-sm leading-tight m-0">Interactive Brokers vs IBKR Lite...</div>
@@ -172,14 +172,14 @@ Before ranking specific platforms, it is important to define what separates a tr
       <p class="text-sm text-slate-400 leading-relaxed mt-0 mb-0">A focused comparison of Pro vs Lite for international account holders.</p>
       <span class="mt-auto pt-4 text-xs font-semibold text-accent-500 group-hover:text-accent-400 flex items-center gap-1">
         Open Article
-        <svg class="h-3.5 w-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" /></svg>
+        <svg class="h-3.5 w-3.5" fill="none" viewBox="0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" /></svg>
       </span>
     </a>
     <!-- tastytrade coming -->
     <a href="/best-brokers/tastytrade-review-2026/" class="group flex flex-col rounded-xl border border-primary-700 hover:border-accent-500 bg-primary-800 hover:shadow-lg hover:shadow-accent-500/10 p-5 transition-all duration-200 hover:-translate-y-0.5 no-underline">
       <div class="flex items-center gap-3 mb-3">
         <div class="flex h-10 w-10 shrink-0 items-center justify-center rounded-lg border border-primary-600 bg-primary-900 text-accent-500">
-          <svg class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6v6m0 0v6m0-6h6m-6 0H6" /></svg>
+          <svg class="h-4 w-4" fill="none" viewBox="0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6v6m0 0v6m0-6h6m-6 0H6" /></svg>
         </div>
         <div>
           <div class="font-bold text-slate-100 group-hover:text-accent-400 transition-colors text-sm leading-tight m-0">tastytrade Review 2026</div>
@@ -189,14 +189,14 @@ Before ranking specific platforms, it is important to define what separates a tr
       <p class="text-sm text-slate-400 leading-relaxed mt-0 mb-0">An options-first broker with strong platform UX. International availability depends on residency.</p>
       <span class="mt-auto pt-4 text-xs font-semibold text-accent-500 group-hover:text-accent-400 flex items-center gap-1">
         Open Article
-        <svg class="h-3.5 w-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" /></svg>
+        <svg class="h-3.5 w-3.5" fill="none" viewBox="0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" /></svg>
       </span>
     </a>
     <!-- firstrade coming -->
     <a href="/best-brokers/firstrade-review-2026/" class="group flex flex-col rounded-xl border border-primary-700 hover:border-accent-500 bg-primary-800 hover:shadow-lg hover:shadow-accent-500/10 p-5 transition-all duration-200 hover:-translate-y-0.5 no-underline">
       <div class="flex items-center gap-3 mb-3">
         <div class="flex h-10 w-10 shrink-0 items-center justify-center rounded-lg border border-primary-600 bg-primary-900 text-accent-500">
-          <svg class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6v6m0 0v6m0-6h6m-6 0H6" /></svg>
+          <svg class="h-4 w-4" fill="none" viewBox="0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6v6m0 0v6m0-6h6m-6 0H6" /></svg>
         </div>
         <div>
           <div class="font-bold text-slate-100 group-hover:text-accent-400 transition-colors text-sm leading-tight m-0">Firstrade Review 2026</div>
@@ -206,7 +206,7 @@ Before ranking specific platforms, it is important to define what separates a tr
       <p class="text-sm text-slate-400 leading-relaxed mt-0 mb-0">Zero-commission US broker for many non-US nationals - fees, platform, and what to watch for.</p>
       <span class="mt-auto pt-4 text-xs font-semibold text-accent-500 group-hover:text-accent-400 flex items-center gap-1">
         Open Article
-        <svg class="h-3.5 w-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" /></svg>
+        <svg class="h-3.5 w-3.5" fill="none" viewBox="0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" /></svg>
       </span>
     </a>
     <!-- XTB -->
@@ -227,7 +227,7 @@ Before ranking specific platforms, it is important to define what separates a tr
       </div>
       <span class="mt-auto text-xs font-semibold text-accent-500 group-hover:text-accent-400 flex items-center gap-1">
         Read Full Review
-        <svg class="h-3.5 w-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" /></svg>
+        <svg class="h-3.5 w-3.5" fill="none" viewBox="0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" /></svg>
       </span>
     </a>
   </div>
@@ -380,7 +380,7 @@ US expats are best served by Charles Schwab International, while beginner invest
     <li>
       <a href="/best-brokers/how-to-open-a-us-brokerage-account-as-a-non-resident-2026-guide/" class="group flex items-center gap-4 rounded-xl border border-primary-700 hover:border-accent-500 bg-primary-800 hover:shadow-lg hover:shadow-accent-500/10 px-5 py-4 transition-all duration-200 no-underline">
         <span class="flex h-9 w-9 shrink-0 items-center justify-center rounded-lg border border-primary-600 bg-primary-900 text-accent-500">
-          <svg class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <svg class="h-5 w-5" fill="none" viewBox="0 24 24" stroke="currentColor">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
           </svg>
         </span>
@@ -388,7 +388,7 @@ US expats are best served by Charles Schwab International, while beginner invest
           <span class="font-bold text-slate-100 group-hover:text-accent-400 transition-colors">How to Open a US Brokerage Account as a Non-Resident</span>
           <span class="mt-0.5 block text-sm text-slate-500">Guide - open article</span>
         </span>
-        <svg class="h-5 w-5 shrink-0 text-slate-500 group-hover:text-accent-500 transition-colors" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+        <svg class="h-5 w-5 shrink-0 text-slate-500 group-hover:text-accent-500 transition-colors" fill="none" viewBox="0 24 24" stroke="currentColor">
           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
         </svg>
       </a>
@@ -396,7 +396,7 @@ US expats are best served by Charles Schwab International, while beginner invest
     <li>
       <a href="/best-brokers/best-brokers-international-investors-2026/" class="group flex items-center gap-4 rounded-xl border border-primary-700 hover:border-accent-500 bg-primary-800 hover:shadow-lg hover:shadow-accent-500/10 px-5 py-4 transition-all duration-200 no-underline">
         <span class="flex h-9 w-9 shrink-0 items-center justify-center rounded-lg border border-primary-600 bg-primary-900 text-accent-500">
-          <svg class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <svg class="h-5 w-5" fill="none" viewBox="0 24 24" stroke="currentColor">
             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
           </svg>
         </span>
@@ -404,7 +404,7 @@ US expats are best served by Charles Schwab International, while beginner invest
           <span class="font-bold text-slate-100 group-hover:text-accent-400 transition-colors">Best Brokers for International Investors in 2026</span>
           <span class="mt-0.5 block text-sm text-slate-500">Guide - open article</span>
         </span>
-        <svg class="h-5 w-5 shrink-0 text-slate-500 group-hover:text-accent-500 transition-colors" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+        <svg class="h-5 w-5 shrink-0 text-slate-500 group-hover:text-accent-500 transition-colors" fill="none" viewBox="0 24 24" stroke="currentColor">
           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
         </svg>
       </a>
@@ -416,3 +416,6 @@ Whatever platform you choose, ensure it handles W-8BEN documentation properly, u
 
 For more resources on investing in US markets as an international investor or expat, visit getglobalyields.com.
 
+---
+
+*General information about brokers for international investors only. Treat what is described here as a starting point, not a conclusion about your own position.*

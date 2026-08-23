@@ -64,13 +64,13 @@ There's no single official formula for how much key person coverage a business s
 
 ---
 
-## Bottom Line
+## The Practical Upshot of Key Person Insurance for International Business Owners
 
 Key person insurance trades a denied deduction for a tax-free payout, a fair exchange under IRC 264(a)(1) rather than a punitive one - but for a business owner or key employee who isn't a US resident, actually getting the coverage is the harder problem: most insurers won't underwrite non-resident aliens at all, and the ones that will require real US financial ties and an underwriting process conducted domestically. Layer in the $60,000-versus-$15-million estate tax exemption gap for any non-resident alien with a personal ownership stake, and key person insurance for an internationally-connected business touches more of this site's cross-border planning content than the product's simple premise suggests.
 
 ---
 
-*This article is for informational purposes only and does not constitute financial, tax, or insurance advice. Insurance underwriting requirements, tax code provisions, and estate tax exemption amounts change over time and vary by insurer and individual circumstances - consult a qualified insurance professional and tax advisor before purchasing coverage.*
+*Background reading on Key Person Insurance for International Business Owners; decisions still belong with a professional. Insurance underwriting requirements, tax code provisions, and estate tax exemption amounts change over time and vary by insurer and individual circumstances - consult a qualified insurance professional and tax advisor before purchasing coverage.*
 
 ## Related Guides
 

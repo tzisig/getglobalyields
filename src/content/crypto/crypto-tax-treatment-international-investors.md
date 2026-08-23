@@ -7,7 +7,7 @@ updatedDate: 2026-08-06
 author: "Tzion Sigron"
 categories: ["Crypto & Digital Assets"]
 tags:
-  - "crypto tax treatment international investors"
+  - "How Crypto Is Taxed for International Investors"
   - "is cryptocurrency taxed as property"
   - "non-resident alien crypto tax"
 heroImage: "/images/blog/crypto/crypto-tax-treatment-international-investors.webp"
@@ -72,7 +72,7 @@ Not without professional confirmation - as this guide discusses, the sourcing an
 
 ---
 
-## Practical Checklist
+## What Needs Doing on How Crypto Is Taxed for International Investors
 
 - [ ] Understand that the IRS treats cryptocurrency as property, not currency, meaning most disposals (including crypto-to-crypto trades) are taxable events
 - [ ] Recognize that crypto generates no dividend-like income, so the withholding framework covered elsewhere on this site doesn't apply to direct holdings
@@ -83,13 +83,13 @@ Not without professional confirmation - as this guide discusses, the sourcing an
 
 ---
 
-## Bottom Line
+## Summing Up How Crypto Is Taxed for International Investors
 
 Cryptocurrency's classification as property rather than currency or a security means it follows a genuinely different tax framework than the dividend-withholding mechanics that dominate most of this site's other tax content - and for a non-resident alien holding crypto directly, the specific US tax sourcing analysis is a meaningfully less settled area than the well-established rules governing US stock capital gains. That uncertainty, more than any specific rate or rule, is the single most important thing to understand before assuming direct crypto ownership works the same way stock ownership does for tax purposes.
 
 ---
 
-*This article is for informational purposes only and does not constitute financial, tax, or legal advice. Cryptocurrency tax treatment, particularly for non-resident aliens, involves genuinely unsettled areas of guidance and is subject to change - consult a qualified tax advisor with specific cryptocurrency experience before relying on any tax treatment discussed here.*
+*Everything here about crypto tax treatment is educational, not personalised advice. Cryptocurrency tax treatment, particularly for non-resident aliens, involves genuinely unsettled areas of guidance and is subject to change - consult a qualified tax advisor with specific cryptocurrency experience before relying on any tax treatment discussed here.*
 
 ## Related Guides
 

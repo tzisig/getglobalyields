@@ -54,13 +54,17 @@ Stablecoins like USDC and USDT are pegged to the dollar, and for years the pitch
 
 ---
 
-## Bottom Line
+## What to Take Away From Stablecoin Yield
 
 The GENIUS Act didn't kill stablecoin yield - it banned one specific channel (direct issuer payments) while leaving lending-platform-generated yield, through both DeFi protocols and centralized platforms, genuinely intact and currently paying real rates in the 3-10% range. The regulatory story is more precise than "yield is banned": it's "issuer-paid interest is banned, lending-based yield through a different structure is not," and understanding which category any specific product you're considering actually falls into is the real due diligence question in 2026, not whether stablecoin yield exists at all.
 
 ---
 
-*This article is for informational purposes only and does not constitute financial, investment, or tax advice. Stablecoin yield rates, platform risk profiles, and the regulatory landscape around the GENIUS Act's implementation are changing rapidly - confirm current rates, terms, and legal status directly with any platform before depositing funds.*
+*Background reading on Stablecoin Yield; decisions still belong with a professional. Stablecoin yield rates, platform risk profiles, and the regulatory landscape around the GENIUS Act's implementation are changing rapidly - confirm current rates, terms, and legal status directly with any platform before depositing funds.*
+
+*Sources: DeFi Llama stablecoin yield pool data; Aave market rates. The 3-3.5% band tracks the US Treasury base rate, while 8.5-9%+ reflects leverage demand on protocols such as Aave, Compound and Maker/Sky - both move with market conditions and should be checked live rather than assumed.*
+
+---
 
 ## Related Guides
 

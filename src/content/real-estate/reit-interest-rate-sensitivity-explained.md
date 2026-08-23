@@ -62,13 +62,13 @@ Every REIT article on this site has referenced interest rate sensitivity somewhe
 
 ---
 
-## Bottom Line
+## What How Interest Rates Move REIT Prices Comes Down To
 
 REIT interest rate sensitivity is a real, mechanically-grounded relationship - rising rates push cap rates up, which mechanically pushes property valuations down, and the 77% long-run correlation with Treasury yields reflects that real link. But the relationship is sector-specific (net lease REITs far more sensitive than hotel REITs), inconsistent day to day (correlation direction flips close to half the time), and expressed through different mechanisms depending on structure (mortgage REITs through leveraged borrowing costs, non-traded REITs through periodic NAV appraisals rather than daily price). Understanding which specific REIT type you're holding, and through which of these mechanisms rates actually reach it, matters more than a blanket "REITs go down when rates go up" rule that's true on average and wrong close to half the time on any given day.
 
 ---
 
-*This article is for informational purposes only and does not constitute financial advice. Historical correlations, interest rate betas, and relative performance figures are drawn from specific historical periods and data sources - actual future relationships may differ. Confirm current analysis with updated data before making investment decisions.*
+*Background reading on REIT interest rate; decisions still belong with a professional. Historical correlations, interest rate betas, and relative performance figures are drawn from specific historical periods and data sources - actual future relationships may differ. Confirm current analysis with updated data before making investment decisions.*
 
 ## Related Guides
 

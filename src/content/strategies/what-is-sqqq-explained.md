@@ -76,13 +76,13 @@ SQQQ trades on NYSE Arca like any standard ETF, through any brokerage account th
 
 ---
 
-## Bottom Line
+## What Is SQQQ? How the 3x Inverse Nasdaq ETF Actually Works, in Short
 
 SQQQ delivers exactly what it's built to deliver: three times the inverse of the Nasdaq-100's daily return, reset every trading day. That daily reset is the entire story - it's why the fund can move sharply in your favor during a short, sharp decline, and it's also the mechanical reason SQQQ has lost 99.97% of its value since its 2010 launch despite the Nasdaq-100 falling plenty of times along the way. Understanding that the daily reset, not any flaw in the product, produces both outcomes is the actual prerequisite for deciding whether and how to use SQQQ at all.
 
 ---
 
-*This article is for informational purposes only and does not constitute financial or investment advice. Leveraged and inverse ETFs carry substantial risk and are generally unsuitable for long-term holding. Historical performance figures do not predict future results. Consult a qualified financial advisor before trading leveraged or inverse products.*
+*General information about SQQQ - not a recommendation you should act on unaided. Leveraged and inverse ETFs carry substantial risk and are generally unsuitable for long-term holding. Historical performance figures do not predict future results. Consult a qualified financial advisor before trading leveraged or inverse products.*
 
 ## Related Guides
 

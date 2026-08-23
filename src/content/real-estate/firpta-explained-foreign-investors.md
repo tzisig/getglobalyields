@@ -7,7 +7,7 @@ updatedDate: 2026-08-06
 author: "Tzion Sigron"
 categories: ["Real Estate & REITs"]
 tags:
-  - "FIRPTA explained foreign investors"
+  - "FIRPTA Explained for Foreign Real Estate Investors"
   - "foreign investment in real property tax act"
   - "FIRPTA withholding non-resident"
 heroImage: "/images/blog/real-estate/firpta-explained-foreign-investors.webp"
@@ -76,7 +76,7 @@ Not avoid it outright in a normal sale, but it can be reduced through an IRS wit
 
 ---
 
-## Practical Checklist
+## What Needs Doing on FIRPTA Explained for Foreign Real Estate Investors
 
 - [ ] Recognize that FIRPTA targets gain from disposing of US real property interests, not routine dividend income
 - [ ] Confirm that a REIT ETF or diversified REIT stock holding falls under the publicly traded stock exception (10% threshold for REIT stock, 5% for other publicly traded US corporation stock)
@@ -86,13 +86,17 @@ Not avoid it outright in a normal sale, but it can be reduced through an IRS wit
 
 ---
 
-## Bottom Line
+## The Practical Upshot of FIRPTA Explained for Foreign Real Estate Investors
 
 FIRPTA is a real, mechanically significant withholding regime for foreign investors selling US real property directly - but for the vast majority of international investors whose real estate exposure comes through publicly traded REITs or REIT ETFs, the publicly traded stock exception means FIRPTA's disposition-gain rules simply don't apply. Understanding where that line sits is what separates the two very different tax realities of owning US property directly versus owning it through the stock market.
 
 ---
 
-*This article is for informational purposes only and does not constitute financial, tax, or legal advice. FIRPTA withholding rates, thresholds, and exceptions are subject to change - confirm current requirements with a qualified tax advisor before any transaction involving US real property.*
+*Everything here about FIRPTA Explained for Foreign Real Estate Investors is educational, not personalised advice. FIRPTA withholding rates, thresholds, and exceptions are subject to change - confirm current requirements with a qualified tax advisor before any transaction involving US real property.*
+
+*Sources: IRC §897(c)(3) - the publicly traded exception for a holder of 5% or less of a US corporation's stock; IRC §897(h)(4)(B) as amended by the PATH Act, raising the threshold to 10% for publicly traded REITs; IRS FIRPTA withholding overview.*
+
+---
 
 ## Related Guides
 

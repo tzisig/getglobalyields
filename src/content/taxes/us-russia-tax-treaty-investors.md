@@ -22,7 +22,7 @@ seo:
   metaDescription: "The US-Russia tax treaty was suspended in August 2024. Why US brokerage access for Russian residents isn't realistically available, and what changed."
   ogTitle: "US-Russia Tax Treaty: Suspended Since 2024, Current Status"
   ogDescription: "The US-Russia tax treaty was suspended in August 2024. Why US brokerage access for Russian residents isn't realistically available, and what changed."
-  ogImage: "/images/blog/taxes/us-russia-tax-treaty.webp"
+  ogImage: "/images/blog/taxes/us-russia-tax-treaty-investors.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"
@@ -106,13 +106,13 @@ For this article to describe a genuinely different practical situation, two sepa
 
 ---
 
-*This article is informational only and does not constitute tax, legal, or sanctions compliance advice. It does not provide guidance on circumventing broker restrictions or US sanctions requirements, and none should be inferred from it. Sanctions programs, OFAC guidance, and treaty status can change; anyone with a specific situation involving Russia-connected assets or residency should consult a qualified attorney with current sanctions expertise, not a general content guide.*
+*This is what investing from Russia looks like in outline - no more than that. It does not provide guidance on circumventing broker restrictions or US sanctions requirements, and none should be inferred from it. Sanctions programs, OFAC guidance, and treaty status can change; anyone with a specific situation involving Russia-connected assets or residency should consult a qualified attorney with current sanctions expertise, not a general content guide.*
 
 *Sources: US-Russia Income Tax Convention (1992); IRS Announcement 2024-26 (suspension of treaty provisions, effective August 16, 2024); EY, KPMG, RSM, and Holland & Knight coverage of the August 2024 treaty suspension; leave-russia.org and Komersant Ukrainian reporting on Interactive Brokers' Russia-related account restrictions and closures (2022-2024); Steel-Eye reporting on Interactive Brokers' July 2025 OFAC settlement; IRC §871 (non-resident alien taxation).*
 
 ## Related Guides
 
-- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
 - [PFIC Rules for International Investors](/taxes/pfic-rules-international-investors/)
-- [Investing in US Stocks from Uganda](/taxes/us-uganda-tax-treaty-investors/)
 - [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)
+- [Investing in US Stocks from Uganda](/taxes/us-uganda-tax-treaty-investors/)
+- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)

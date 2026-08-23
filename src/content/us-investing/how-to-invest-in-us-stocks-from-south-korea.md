@@ -1,7 +1,7 @@
 ---
 slug: how-to-invest-in-us-stocks-from-south-korea
 title: "How to Invest in US Stocks from South Korea (2026 Guide)"
-description: "How to invest in US stocks from South Korea: broker options, W-8BEN, the 15% treaty rate, and Korea's 22% overseas stock capital gains tax - for 2026."
+description: "How to Invest in US Stocks from South Korea: broker options, W-8BEN, the 15% treaty rate, and Korea's 22% overseas stock capital gains tax - for 2026."
 pubDate: 2026-09-09
 updatedDate: 2026-08-05
 author: "Tzion Sigron"
@@ -42,13 +42,13 @@ Jiho is 31, lives in Seoul, and works in gaming. He has traded Korean stocks for
 
 ---
 
-## Step 1: What You Can Actually Buy
+## Step 1: Which US Funds Reach South Korea
 
-South Korea is not in the EU or EEA, so the PRIIPs restriction that blocks European residents from buying US-domiciled ETFs does not apply here. **Jiho can buy VOO, VTI, and QQQ directly** through a broker offering US market access.
+South Korea does not fall under PRIIPs, so the restriction that limits European residents to UCITS versions is irrelevant here. **Jiho can buy VOO, VTI, and QQQ directly** through a broker offering US market access.
 
 ---
 
-## Step 2: The Treaty - 15% on Dividends
+## Step 2: What the South Korea Treaty Gives You
 
 The US-Korea tax treaty caps US withholding on dividends paid to Korean resident individuals at **15%** for portfolio investors, claimed with Form [W-8BEN](/taxes/w8ben-form-non-us-investors/).
 
@@ -57,7 +57,7 @@ The US-Korea tax treaty caps US withholding on dividends paid to Korean resident
 | Dividends | 30% | **15%** |
 | Capital gains (securities) | Generally not US-taxable for non-residents | Taxed under Korean domestic law |
 
-Without W-8BEN on file, the full 30% applies from the first dividend.
+No form means 30% withheld, beginning with the first distribution.
 
 For the full treaty mechanics, see our [US-South Korea tax treaty guide](/taxes/us-south-korea-tax-treaty-investors/).
 
@@ -84,15 +84,15 @@ For a Korean tax resident, capital gains on foreign stocks - US shares included 
 
 ---
 
-## Step 4: The W-8BEN Form
+## Step 4: The W-8BEN Step for South Korea Residents
 
 Form W-8BEN goes to Jiho's broker and brings his US withholding down from the 30% default to the treaty's 15%.
 
 ---
 
-## Step 5: Choose Your Broker
+## Step 5: The Broker Decision in South Korea
 
-**Interactive Brokers (IBKR)** and **eToro** are both confirmed to accept South Korean residents for account opening. [See our full IBKR review →](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/) · [See our full eToro review →](/best-brokers/etoro-review-2026/)
+You can open an account from South Korean with **Interactive Brokers (IBKR)** or with **eToro**. [See our full IBKR review →](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/) · [See our full eToro review →](/best-brokers/etoro-review-2026/)
 
 ---
 
@@ -103,11 +103,12 @@ Form W-8BEN goes to Jiho's broker and brings his US withholding down from the 30
 
 ## Step 6: What Jiho's Portfolio Looks Like in Practice
 
-**Broker:** Interactive Brokers, for lower costs on a growing position.
+**Broker:** Interactive Brokers, chosen for cost as the position grows.
 
 **Portfolio allocation:**
-- 60% VOO (S&P 500, bought directly)
-- 40% QQQ (Nasdaq-100, bought directly)
+- 70% VOO (S&P 500, bought directly)
+- 30% QQQ (Nasdaq-100, bought directly)
+- Jiho realises gains in deliberate slices each year rather than in one large sale, because Korea's annual basic deduction on overseas capital gains is use-it-or-lose-it
 - W-8BEN filed and confirmed active (15% withholding on his dividend statement)
 
 **Annual tax situation:**
@@ -123,28 +124,28 @@ He tracks his lot-level gains and losses across the year so that, at tax time, h
 
 ---
 
-## Common Mistakes to Avoid
+## The Errors Worth Avoiding on South Korea
 
 **Assuming domestic Korean stock tax habits carry over.** They do not - overseas stocks, including US shares, fall under a separate 22% regime.
 
 **Not tracking losses across positions.** Losses on other overseas holdings can offset gains before the exemption and 22% rate apply - skipping this leaves money on the table.
 
-**Forgetting W-8BEN.** Without it, 30% withholding applies instead of the treaty's 15%.
+**Forgetting W-8BEN.** An unfiled form costs the difference between 15% and 30% on every dividend you receive.
 
 **Assuming the 2026 repatriation incentive applies automatically.** It has specific reference dates and conditions - confirm current eligibility before relying on it.
 
 ---
 
-## What to Do This Week
+## Your First Week Investing From South Korea
 
 1. **Open a broker account.** IBKR or eToro, both confirmed to accept South Korean residents.
 2. **File your W-8BEN** during account opening.
-3. **Buy VOO or QQQ directly** - no UCITS workaround needed outside the EU.
+3. **Buy VOO or QQQ in their US form** - the UCITS workaround is for EU residents.
 4. **Track gains and losses by lot** across the year to plan around the KRW 2.5 million exemption.
 
 ---
 
-*This article is for informational purposes only and does not constitute personalized tax or financial advice. Treaty rates are based on the US-Korea Income Tax Convention. Korea's overseas stock capital gains rate, annual exemption, and the temporary 2026 repatriation incentive are set by Korean tax law and can change - consult a qualified Korean tax advisor or the National Tax Service for advice specific to your situation.*
+*Educational content about South Korea; it carries no advice for your case. Treaty rates are based on the US-Korea Income Tax Convention. Korea's overseas stock capital gains rate, annual exemption, and the temporary 2026 repatriation incentive are set by Korean tax law and can change - consult a qualified Korean tax advisor or the National Tax Service for advice specific to your situation.*
 
 ---
 
@@ -159,7 +160,7 @@ He tracks his lot-level gains and losses across the year so that, at tax time, h
 ## Frequently Asked Questions
 
 **Can I buy VOO and QQQ directly as a South Korean investor?**
-Yes. South Korea is not subject to the EU's PRIIPs regulation, so any US-listed stock or ETF your broker offers is directly accessible.
+Yes. US-domiciled ETFs are directly available from South Korea - PRIIPs applies to European residents only.
 
 **What's the US withholding rate on my dividends?**
 15%, under the US-Korea tax treaty, once Form W-8BEN is filed with your broker. Without it, the default 30% applies.
@@ -172,3 +173,7 @@ Yes. Gains and losses across different overseas stock positions in the same year
 
 **Which brokers accept South Korean residents?**
 Interactive Brokers and eToro are both confirmed to accept South Korean residents for account opening.
+
+---
+
+*Sources: US-Korea Income Tax Convention; IRS treaty text; IRS Technical Explanation of the Convention; IRS Publication 515 (2026).*

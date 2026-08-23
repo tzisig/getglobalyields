@@ -102,7 +102,7 @@ QQQ doesn't publish an equally clean sector table in the same format, and third-
 
 ## Cost and Yield
 
-**QQQ's expense ratio is 0.18%.** SPY's is 0.0945% - roughly half. Neither is expensive by any historical standard, and the gap between them is small enough that cost alone isn't a strong reason to prefer one over the other, unlike the QQQ-vs-QQQM decision covered in our [QQQ vs QQQM vs VGT comparison](/strategies/qqq-vs-qqqm-vs-vgt-comparison/), where the entire point of choosing QQQM is capturing an identical index at a lower fee.
+**QQQ's expense ratio is 0.20%.** SPY's is 0.0945% - roughly half. Neither is expensive by any historical standard, and the gap between them is small enough that cost alone isn't a strong reason to prefer one over the other, unlike the QQQ-vs-QQQM decision covered in our [QQQ vs QQQM vs VGT comparison](/strategies/qqq-vs-qqqm-vs-vgt-comparison/), where the entire point of choosing QQQM is capturing an identical index at a lower fee.
 
 **The yield gap is the more interesting number.** SPY's trailing 12-month distribution yield runs around 0.98%. QQQ's trailing yield is roughly 0.42% - less than half. This isn't a fund-management difference; it's a direct consequence of what each index holds. Financial companies and consumer staples - sectors QQQ excludes or underweights - tend to pay meaningfully higher dividends than semiconductor and software companies, several of which (NVIDIA and Meta among the larger examples) pay small or no dividends at all. QQQ's low yield isn't a flaw in the fund. It's what a "no financials, heavy growth-tech" index looks like once you measure its income output instead of its price.
 
@@ -132,13 +132,21 @@ Both QQQ and SPY are US-domiciled funds, and the dividend withholding tax a non-
 
 ---
 
-## Bottom Line
+## QQQ vs SPY in a Paragraph
 
 QQQ and SPY aren't competing versions of the same trade - they're different bets wearing similar index-fund packaging. SPY spreads 504 holdings across every sector of the US economy, financials included. QQQ concentrates 100 non-financial companies, with just ten of them accounting for nearly half the fund, nine of which already show up in SPY's own top 10. The real decision isn't cost, since both are cheap - it's whether you want the broad economy or a concentrated, financial-free bet on a much smaller set of large-cap names, and whether you understand that combining both funds adds less genuine diversification than the two separate ticker symbols suggest.
 
 ---
 
-*This article is for informational purposes only and does not constitute financial advice. Holdings weights, sector allocations, expense ratios, and yields change regularly - confirm current figures directly with each fund provider before investing. Historical drawdown and volatility figures describe past performance and do not predict future results.*
+*This describes QQQ vs SPY broadly and is not a professional opinion. Holdings weights, sector allocations, expense ratios, and yields change regularly - confirm current figures directly with each fund provider before investing. Historical drawdown and volatility figures describe past performance and do not predict future results.*
+
+*This article explains QQQ vs SPY in general terms. General coverage of QQQ vs SPY cannot account for your own tax position or timing.*
+
+---
+
+*Sources: Invesco QQQ Trust fund page (expense ratio 0.20%); State Street SPDR S&P 500 ETF Trust fund page (expense ratio 0.0945%). Index and performance figures are point-in-time - verify against the provider fact sheets for a current date.*
+
+---
 
 ## Related Guides
 

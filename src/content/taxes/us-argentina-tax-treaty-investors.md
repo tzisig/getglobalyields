@@ -1,7 +1,7 @@
 ---
 slug: us-argentina-tax-treaty-investors
 title: "Investing in US Stocks from Argentina: No Treaty, Currency Matters (2026)"
-description: "There is no US-Argentina tax treaty, so the default 30% US withholding applies to dividends. How Argentina taxes capital gains on foreign-currency securities at 15%, and Interactive Brokers/eToro access for Argentine residents."
+description: "Without a US-Argentina tax treaty, dividend withholding stays at the full 30%. How Argentina taxes capital gains on foreign-currency securities at 15%, and Interactive Brokers/eToro access for Argentine residents."
 pubDate: 2026-08-05
 updatedDate: 2026-08-05
 author: "Tzion Sigron"
@@ -23,7 +23,7 @@ seo:
   metaDescription: "No US-Argentina tax treaty means 30% dividend withholding, no reduction. How Argentina taxes foreign-currency capital gains at 15%, plus IBKR/eToro access."
   ogTitle: "Interactive Brokers Argentina: US Stock Tax Guide (2026)"
   ogDescription: "No US-Argentina tax treaty means 30% dividend withholding, no reduction. How Argentina taxes foreign-currency capital gains at 15%, plus IBKR/eToro access."
-  ogImage: "/images/blog/taxes/us-argentina-tax-treaty.webp"
+  ogImage: "/images/blog/taxes/us-argentina-tax-treaty-investors.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"
@@ -47,9 +47,9 @@ On the Argentine side, the domestic tax framework treats foreign-currency-denomi
 
 ---
 
-## No Treaty: The 30% Is Fixed
+## No Treaty Relief for Argentine Residents
 
-Without a treaty, W-8BEN doesn't reduce the withholding rate the way it does in treaty countries - it still certifies non-US person status and prevents the higher backup withholding regime from applying, but the number on your dividend statement will read 30%.
+No treaty means no rate relief from W-8BEN. The form certifies you as a non-US person and keeps backup withholding off the account - that regime is 24%, lower than 30%, but applied to gross sale proceeds too - while the dividend line still reads 30%.
 
 **Capital gains:** the US generally does not tax capital gains realized by a non-resident alien on US securities under domestic law (IRC §871), independent of treaty status - this part of the picture doesn't depend on a US-Argentina treaty existing at all.
 
@@ -77,20 +77,38 @@ Argentine tax residents are taxed on worldwide income, meaning US dividends and 
 
 ---
 
-## Broker Access
+## Putting the 15% Against a Real Sale
 
-Both Interactive Brokers and eToro are confirmed to accept Argentine residents for account opening. Confirm current requirements directly before applying, since broker policies for specific countries can change - and given Argentina's history of capital control changes, it's also worth confirming current rules on funding a foreign brokerage account from Argentine pesos directly with your bank or a tax/forex advisor before initiating a transfer.
+The currency-denomination rule is easy to nod along to and easy to get expensively wrong, so it is worth seeing on an actual position.
+
+Suppose you buy **$10,000** of a US-listed stock and sell it three years later for **$18,000**, a gain of **$8,000**.
+
+| | Peso instrument (5%) | US stock, USD-denominated (15%) |
+|---|---|---|
+| Gain | $8,000 | $8,000 |
+| Argentine tax | $400 | **$1,200** |
+| Net gain kept | $7,600 | **$6,800** |
+
+The $800 difference is entirely a question of which rate applies - and for a US-listed, dollar-denominated share, it is the 15% column. An investor who mentally files US stocks alongside their peso holdings under-provisions by two-thirds of the actual liability.
+
+Dividends run separately. A **$1,000** US dividend is withheld at the full **30%** at source, leaving **$700** in the account before Argentina's own treatment of the income is applied - and with no treaty, there is no mechanism written down that guarantees the US tax credits against the Argentine charge. That gap is the question to put to your contador.
 
 ---
 
-## Practical Checklist
+## How Argentine Investors Get an Account
 
-**Argentine resident investing in US stocks:**
+You can apply from Argentina at either Interactive Brokers or eToro. Confirm current requirements directly before applying, since broker policies for specific countries can change - and given Argentina's history of capital control changes, it's also worth confirming current rules on funding a foreign brokerage account from Argentine pesos directly with your bank or a tax/forex advisor before initiating a transfer.
+
+---
+
+## The Short List for Argentina Investors
+
+**Holding US stocks from Argentina - cover these:**
 - [ ] Expect 30% US dividend withholding with no treaty reduction - file W-8BEN anyway to certify status and avoid backup withholding
 - [ ] Apply the 15% Argentine capital gains rate for foreign-currency (USD) denominated securities like US stocks, not the lower 5% peso-instrument rate
 - [ ] Report worldwide investment income, including US dividends and capital gains, on your Argentine return regardless of repatriation
 - [ ] Confirm current capital-control and remittance rules for funding a foreign brokerage account from Argentina, given the country's history of changes in this area
-- [ ] Confirm current account-opening requirements with Interactive Brokers or eToro before applying
+- [ ] Re-check broker eligibility for Argentina before you apply - the country lists are revised more often than the tax rules are
 
 ---
 
@@ -101,20 +119,20 @@ Both Interactive Brokers and eToro are confirmed to accept Argentine residents f
 
 ---
 
-## Bottom Line
+## Argentina, in a Paragraph
 
 No treaty means the 30% US withholding on dividends is fixed - there's no form that improves it. On the Argentine side, US stocks fall into the 15% foreign-currency capital gains category rather than the lower 5% peso-instrument rate, a distinction worth getting right when estimating total tax owed. Given Argentina's history of economic and currency-control volatility, confirming current remittance and reporting rules with a local tax advisor before committing significant capital is worth the extra step relative to more stable jurisdictions covered elsewhere in this series.
 
 ---
 
-*This article is informational only and does not constitute tax or legal advice. There is no comprehensive income tax treaty between the United States and Argentina as of this update. Argentine capital gains rates, currency-denomination rules, and capital controls change relatively frequently - verify current details with a qualified Argentine tax advisor (contador) before acting.*
+*This walks through investing from Argentina generally and makes no recommendation. At the date of this update, no comprehensive US-Argentina income tax convention is in effect. Argentine capital gains rates, currency-denomination rules, and capital controls change relatively frequently - verify current details with a qualified Argentine tax advisor (contador) before acting.*
 
 *Sources: IRS Publication 515 (2026) and IRS tax treaty tables (no Argentina listing); IRC §871 (non-resident alien taxation); Chambers and Partners - International Tax 2026, Argentina; Accounting Insights - The US-Argentina Tax Treaty: Status and Key Provisions; Golden Harbors - Argentina Tax Regime 2026; taxtreaties.tax-consultants-international.com - Argentina Dividend guidance.*
 
 ## Related Guides
 
-- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
+- Investing in US Stocks from Brazil
 - [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)
-- [Investing in US Stocks from Brazil](/taxes/us-brazil-tax-treaty-investors/)
-- [US-Mexico Tax Treaty for Investors](/taxes/us-mexico-tax-treaty-investors/)
+- US-Mexico Tax Treaty for Investors
 - [Best Brokers for International Investors](/best-brokers/best-brokers-international-investors-2026/)
+- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)

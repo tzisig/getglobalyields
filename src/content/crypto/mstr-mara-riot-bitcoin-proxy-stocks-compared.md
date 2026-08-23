@@ -81,13 +81,14 @@ Marathon Digital (MARA) and Riot Platforms (RIOT) are structurally different ani
 
 ---
 
-## Bottom Line
+## Where MSTR vs MARA vs RIOT Leaves You
 
 MSTR, MARA, and RIOT get grouped together as bitcoin proxy stocks, but they're fundamentally different vehicles: a leveraged bitcoin holding company whose entire capital-raising model just lost the premium it depends on, and two mining operators whose profitability runs through real, disclosed production costs and a difficulty treadmill that has nothing to do with a chart pattern - with one of them now actively redirecting resources toward an entirely different business. The 2026 mNAV reversal on MSTR specifically is the single most important, current fact for anyone evaluating it today, and it's a fact a lot of older coverage of this stock simply doesn't reflect yet.
 
 ---
 
-*This article is for informational purposes only and does not constitute financial advice. MSTR, MARA, and RIOT are volatile individual equities with risks extending well beyond bitcoin's own price movement. Bitcoin holdings, mNAV ratios, hash rates, and financial figures change frequently - confirm current data directly with each company's investor relations disclosures before investing.*
+*This is an overview of MSTR, MARA and RIOT, not advice. These are volatile single stocks whose financing structures change frequently - verify the current position on each before acting.*
+---
 
 ## Related Guides
 

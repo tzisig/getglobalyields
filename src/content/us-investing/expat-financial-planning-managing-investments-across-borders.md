@@ -76,7 +76,7 @@ The OBBBA also raised the US federal estate tax exemption to $15 million per ind
 
 A Passive Foreign Investment Company ([PFIC](/taxes/pfic-rules-international-investors/)) is any non-US fund-like entity where at least 75% of gross income is passive, or at least 50% of assets produce [passive income](/strategies/build-10k-month-passive-income/). In practice, almost every non-US mutual fund and ETF qualifies - including the ones your local bank or financial adviser in your country of residence will enthusiastically recommend.
 
-The key point that catches people out: PFIC classification is based on where the fund is legally domiciled, not what it holds. Vanguard's S&P 500 ETF (VTI), registered in the US, is not a PFIC. Vanguard's S&P 500 UCITS ETF (VUSA), registered in Ireland, is a PFIC - even though both track the same index and hold the same underlying stocks.
+The key point that catches people out: PFIC classification is based on where the fund is legally domiciled, not what it holds. Vanguard's S&P 500 ETF (VOO), registered in the US, is not a PFIC. Vanguard's S&P 500 UCITS ETF (VUSA), registered in Ireland, is a PFIC - even though both track the same index and hold the same underlying stocks.
 
 Without proper elections, PFIC gains are taxed at the highest ordinary income rate plus an interest charge going back to when each gain accrued - no long-term capital gains treatment, no favorable rates. Two elections exist to avoid this: the QEF election (requires the fund to issue annual information statements, which most foreign ETFs simply don't do) and the Mark-to-Market election (available for publicly traded PFICs, but treats unrealized gains as ordinary income annually). In practice, neither election is easy to apply to the funds a foreign bank will recommend.
 
@@ -92,12 +92,12 @@ Non-US expats in most of the world sit in the opposite position from US persons 
 
 For an investor in a country without a US tax treaty using a US-domiciled ETF: the dividend faces 30% US withholding at the fund level. For the same investor using an Irish-domiciled UCITS ETF: the US-Ireland tax treaty reduces that first layer to 15%. Ireland then charges 0% withholding on distributions to non-Irish residents. The difference is 15 percentage points of every dividend, every year, automatically - before the investor's home country tax treatment even enters the picture.
 
-<div style="background:#0a192f;border-radius:16px;padding:24px 24px 20px;border:1px solid #233554;font-family:system-ui,-apple-system,sans-serif;overflow-x:auto;">
+<div style="background:#0a192f;border-radius:16px;padding:24px 20px;border:1px solid #233554;font-family:system-ui,-apple-system,sans-serif;overflow-x:auto;">
   <div style="margin-bottom:20px;">
     <div style="color:#e2e8f0;font-size:18px;font-weight:600;letter-spacing:-0.3px;">How US Dividend Withholding Works for a Non-US Investor</div>
     <div style="color:#64748b;font-size:13px;margin-top:2px;">Example uses a 15% treaty rate - your country's actual rate may differ</div>
   </div>
-  <svg viewBox="0 0 900 160" style="width:100%;height:auto;min-width:620px;">
+  <svg viewBox="0 900 160" style="width:100%;height:auto;min-width:620px;">
     <defs>
       <marker id="wtf-arrow2" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
         <polygon points="0 0, 8 3, 0 6" fill="#D4B95A" />
@@ -264,7 +264,7 @@ Not a generic list of things to consider. Specific actions that matter for cross
 
 ---
 
-## The Bottom Line
+## Where Expat Financial Planning Leaves You
 
 Cross-border investing is not categorically more difficult than single-jurisdiction investing. It has more variables, more moving parts, and more specific rules to know - but those rules are documented, and they can be navigated correctly.
 
@@ -280,4 +280,4 @@ Everything else - asset allocation, return optimization, yield maximization - wo
 
 ---
 
-*This article is for informational purposes only and does not constitute tax, legal, or investment advice. Tax rules and reporting requirements vary by individual circumstance and jurisdiction. Consult a qualified cross-border tax adviser and financial planner for advice specific to your situation. All figures and regulatory thresholds reflect publicly available information as of May 2026.*
+*None of this is advice on Expat Financial Planning for your specific situation. Tax rules and reporting requirements vary by individual circumstance and jurisdiction. Consult a qualified cross-border tax adviser and financial planner for advice specific to your situation. All figures and regulatory thresholds reflect publicly available information as of May 2026.*

@@ -1,7 +1,7 @@
 ---
 slug: real-estate-portfolio-diversification-us-stocks
-title: "How Much Real Estate Should Be in a US Stock-Focused Portfolio?"
-description: "There's no single correct real estate allocation percentage - but there is a way to think through the question deliberately, based on what real estate actually adds to a portfolio otherwise concentrated in US equities, and what it doesn't."
+title: "How Much Real Estate in a US Stock Portfolio?"
+description: "No single real estate allocation is correct, but there is a way to reason it through: what property adds to a US-equity-heavy portfolio, and what it does not."
 pubDate: 2027-01-01
 updatedDate: 2026-08-06
 author: "Tzion Sigron"
@@ -68,7 +68,7 @@ This follows the same general logic covered in our [sequence of returns risk gui
 
 ---
 
-## Practical Checklist
+## Putting How Much Real Estate Should Be in a US Stock-Focused Portfolio Into Practice
 
 - [ ] Identify the specific goal behind adding real estate exposure - sector diversification, income, or both
 - [ ] Choose an allocation percentage deliberately based on that goal, rather than defaulting to a round number without reasoning through it
@@ -78,13 +78,13 @@ This follows the same general logic covered in our [sequence of returns risk gui
 
 ---
 
-## Bottom Line
+## How Much Real Estate Should Be in a US Stock-Focused Portfolio: The Takeaway
 
 There's no universally correct real estate allocation percentage - the right size depends on what an investor actually wants the allocation to accomplish, whether that's sector diversification away from a tech-heavy core, an income-oriented holding, or some combination of both. Sizing it deliberately, and rebalancing back to that target over time, matters more than finding the theoretically optimal number.
 
 ---
 
-*This article is for informational purposes only and does not constitute financial advice. The worked example uses illustrative figures to demonstrate the reasoning process, not a specific recommendation for any individual's portfolio. Consult a qualified financial advisor for guidance specific to your situation.*
+*Informational coverage of real estate portfolio only - your own position needs its own review. The worked example uses illustrative figures to demonstrate the reasoning process, not a specific recommendation for any individual's portfolio. Let a qualified professional judge how it sits against your circumstances.*
 
 ## Related Guides
 

@@ -221,7 +221,7 @@ The most subtle mistake is over-optimizing the moving average period. The 225-da
 
 ---
 
-## The Verdict
+## The Verdict on QQQ 225-Day Moving Average Strategy
 
 The QQQ 225-day moving average strategy is real, verified, and genuinely impressive for its intended instrument. For QQQ over 25 years, it delivered 1,061% total return with a 28.6% maximum drawdown - compared to 628% and an 83% maximum drawdown for buy-and-hold. The downside protection during the 2000-2002 and 2022 declines was substantial and real.
 

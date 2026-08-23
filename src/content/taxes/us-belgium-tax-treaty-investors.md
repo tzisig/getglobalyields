@@ -1,6 +1,6 @@
 ---
 slug: us-belgium-tax-treaty-investors
-title: "US-Belgium Tax Treaty for Investors: The Complete 2026 Guide"
+title: "US-Belgium Tax Treaty for Investors: The New 10% Capital Gains Tax (2026)"
 description: "US-Belgium tax treaty guide for individual investors. Dividend withholding rates, Belgium's new 10% capital gains tax and its August 31, 2026 opt-out deadline, the 833 euro dividend exemption, précompte mobilier, and W-8BEN filing."
 pubDate: 2026-06-01
 updatedDate: 2026-08-04
@@ -26,7 +26,7 @@ seo:
   metaDescription: "How the US-Belgium tax treaty and 2026 capital gains tax affect Belgian investors - the August 31 opt-out deadline, W-8BEN, and précompte mobilier."
   ogTitle: "US-Belgium Tax Treaty Guide for Belgian Investors (2026)"
   ogDescription: "How the US-Belgium tax treaty and 2026 capital gains tax affect Belgian investors - the August 31 opt-out deadline, W-8BEN, and précompte mobilier."
-  ogImage: "/images/blog/taxes/us-belgium-tax-treaty.webp"
+  ogImage: "/images/blog/taxes/us-belgium-tax-treaty-investors.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"
@@ -35,7 +35,7 @@ schema:
   author: "Tzion Sigron"
   datePublished: "2026-06-01"
   dateModified: "2026-08-04"
-  image: "/images/blog/taxes/us-belgium-tax-treaty.webp"
+  image: "/images/blog/taxes/us-belgium-tax-treaty-investors.webp"
   mainEntityOfPage: "https://getglobalyields.com/taxes/us-belgium-tax-treaty-investors"
 ---
 
@@ -60,7 +60,7 @@ Belgium introduced a **10% tax on realized capital gains from financial assets**
 2. **June 1 - August 31, 2026:** brokers can apply automatic withholding on realized gains, but an individual investor can opt out in writing, by a deadline the broker sets no later than **August 31, 2026**, and instead settle the tax via the annual return. Opting out for a given account or product is binding for the rest of 2026 - it cannot be switched back mid-year.
 3. **From September 1, 2026 onward:** the standard mechanism applies - brokers withhold 10% at source by default unless a valid opt-out is on file for that account.
 
-**The rate and exemption:** capital gains on financial assets - shares, ETFs, and similar instruments held as part of normal private wealth management - are taxed at **10%**. The first **€10,000** of gains per taxpayer per year is exempt (**€30,000** for a married couple or legal cohabitants filing together).
+**The rate and exemption:** capital gains on financial assets - shares, ETFs, and similar instruments held as part of normal private wealth management - are taxed at **10%**. The first **€10,000** of gains per taxpayer per year is exempt (**€20,000** for a married couple or legal cohabitants filing together).
 
 **The exemption isn't just €10,000 - it can grow to €15,000 with no action beyond simply not using it.** Up to €1,000 of an unused annual exemption carries forward, on a five-year, first-in-first-out basis. An investor who realizes, say, €900 in gains in one year uses only part of that year's exemption - the unused €100 (capped at €1,000 regardless of how much of the exemption actually went unused) rolls into next year's allowance. Carried forward consistently over five years, this can lift an individual's effective exemption to €15,000 (€30,000 for a couple) without requiring any gains to be realized at all in the interim - it accrues from simply not selling.
 
@@ -150,7 +150,7 @@ Because dividends face this 30% combined rate while accumulating ETFs defer that
 
 ---
 
-## Filing W-8BEN
+## Filing Your W-8BEN from Belgium
 
 Belgian brokers vary in how they handle Form [W-8BEN](/taxes/w8ben-form-non-us-investors/):
 
@@ -194,9 +194,9 @@ The treaty rates put Belgium squarely alongside the UK, Germany, Austria, and De
 
 ---
 
-## Practical Checklist
+## The Belgium Investor's Running List
 
-**Belgian resident investing in US stocks:**
+**The Belgian investor's short list:**
 - [ ] Confirm W-8BEN is on file - check for 15%, not 30%, US withholding on dividend statements, and renew before the three-year expiry
 - [ ] Verify the broker is crediting US withholding against the Belgian précompte mobilier rather than deducting both in full (effective total should be 30% on the gross, not 45%)
 - [ ] Claim the €833 annual dividend exemption on foreign (US) dividends - not automatic, and not pre-filled by the tax administration for foreign-source income
@@ -230,15 +230,15 @@ The treaty side of this hasn't moved: 15% on dividends with a W-8BEN filed, 0% o
 
 ---
 
-*This article is informational only and does not constitute tax or legal advice. Rates are based on the US-Belgium Income Tax Convention (November 27, 2006). The Belgian capital gains tax was adopted by parliament on April 3, 2026, published in the Belgian Official Gazette on April 21, 2026, and applies retroactively from January 1, 2026. Belgian and US tax rules change, and the CGT withholding mechanics in particular remain new enough that broker implementation may vary. Always consult a qualified cross-border tax professional for advice specific to your situation.*
+*An overview of investing from Belgium, not a recommendation for your circumstances. Rates are based on the US-Belgium Income Tax Convention (November 27, 2006). The Belgian capital gains tax was adopted by parliament on April 3, 2026, published in the Belgian Official Gazette on April 21, 2026, and applies retroactively from January 1, 2026. Belgian and US tax rules change, and the CGT withholding mechanics in particular remain new enough that broker implementation may vary. Always consult a qualified cross-border tax professional on the specifics of your own holdings.*
 
 *Sources: US-Belgium Income Tax Convention (November 27, 2006); US Senate Executive Report 110-2; IRS Publication 515 (2026); SPF Finances (Belgian Federal Public Service Finance) - dividend exemption guidance (2026); KPMG Belgium - Belgian Capital Gains Tax Approved by Parliament, Royal Decrees on Belgian Capital Gains Tax Published, and GMS Flash Alert 2026-160 (2026); PwC Belgium - Belgium's Comprehensive Capital Gains Tax Changes (2026); EY Belgium - The New Belgian Capital Gains Tax: What Changes in 2026; RSM Belgium - Law Introducing a Capital Gains Tax on Financial Assets (2026); Grant Thornton Belgium - Belgium's New Capital Gains Tax: What You Need to Know (2026); Fieldfisher - Belgium Introduces Capital Gains Tax on Financial Assets as from 1 January 2026; Loyens & Loeff - Capital Gains Tax in Belgium Becomes Reality as of 1 January 2026; Taxpatria - Opt-in or Opt-out, That's the Question (2026); FinCEN FBAR guidance (2025); IRS Form 8938 FATCA thresholds (2025 tax year).*
 
 ## Related Guides
 
-- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
-- [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)
 - [PFIC Rules for International Investors](/taxes/pfic-rules-international-investors/)
+- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
 - [US-Denmark Tax Treaty for Investors](/taxes/us-denmark-tax-treaty-investors/)
 - [US-Austria Tax Treaty for Investors](/taxes/us-austria-tax-treaty-investors/)
 - [Expat Financial Planning: Managing Investments Across Borders](/us-investing/expat-financial-planning-managing-investments-across-borders/)
+- [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)

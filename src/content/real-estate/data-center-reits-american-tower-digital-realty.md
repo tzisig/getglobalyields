@@ -73,19 +73,19 @@ Data center REITs get talked about as a single AI-boom trade, but the two larges
 
 ---
 
-## Dividend Withholding for International Investors
+## Data Center REITs and Non-Resident Withholding
 
 **American Tower and Digital Realty are both US-domiciled REITs**, subject to the same NRA dividend withholding framework covered throughout this site's [taxes category](/taxes/) - treaty rate or 30% default, based on your country of residence and W-8BEN status, unaffected by either company's specific business model or growth stage.
 
 ---
 
-## Bottom Line
+## Summing Up Data Center REITs
 
 American Tower and Digital Realty both benefit from the same AI-driven data center demand surge, but they're different vehicles for capturing it: American Tower a diversified, higher-yielding tower company with a genuinely growing data center wing, Digital Realty a global, pure-play operator trading current income for faster reinvestment-driven growth. Both face the same real ceiling on how fast either one can actually expand - not tenant demand, which appears abundant, but the multi-year process of physically securing enough electricity to build the next wave of capacity.
 
 ---
 
-*This article is for informational purposes only and does not constitute financial advice. Dividend yields, AFFO guidance, and development pipelines change over time - confirm current figures directly with each company's investor relations disclosures before investing.*
+*This explains Data Center REITs; it does not advise you on what to do about it. Dividend yields, AFFO guidance, and development pipelines change over time - confirm current figures directly with each company's investor relations disclosures before investing.*
 
 ## Related Guides
 

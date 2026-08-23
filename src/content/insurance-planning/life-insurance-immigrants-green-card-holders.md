@@ -74,7 +74,7 @@ Not directly - the country-of-origin risk classification is set by the carrier's
 
 ---
 
-## Practical Checklist
+## What Needs Doing on Life Insurance for Immigrants and Green Card Holders
 
 - [ ] If you're a green card holder with over a year of US residency, expect citizen-equivalent underwriting and pricing - don't assume a status-based surcharge exists
 - [ ] If you're on a visa, confirm your specific visa type is on the carrier's accepted list before applying, since F-1 and some other categories face real restrictions
@@ -84,13 +84,13 @@ Not directly - the country-of-origin risk classification is set by the carrier's
 
 ---
 
-## Bottom Line
+## The Short Version of Life Insurance for Immigrants and Green Card Holders
 
 A green card holder is underwritten for US life insurance almost exactly like a citizen once past an initial residency window, with immigration status itself not functioning as a separate cost factor - the common assumption that being an immigrant automatically means higher premiums generally doesn't hold for lawful permanent residents. A visa holder's situation is genuinely more complex: real restrictions exist by visa category, pricing is shaped more by country-of-origin classification than the visa itself, and what happens to coverage after a later departure from the US is thinly documented enough that it's worth a direct conversation with your specific carrier rather than an assumption either way.
 
 ---
 
-*This article is for informational purposes only and does not constitute insurance or financial advice. Underwriting criteria, accepted visa categories, waiting periods, and carrier policies referenced here vary by insurer and are subject to change - confirm current terms directly with a specific insurance provider before applying.*
+*This piece covers Life Insurance for Immigrants and Green Card Holders in general terms and is not financial advice. Underwriting criteria, accepted visa categories, waiting periods, and carrier policies referenced here vary by insurer and are subject to change - confirm current terms directly with a specific insurance provider before applying.*
 
 ## Related Guides
 

@@ -52,7 +52,7 @@ schema:
 
 ---
 
-## Bottom Line
+## IBKR Pro vs IBKR Lite for Non-US Investors, in Short
 
 **Interactive Brokers (IBKR Pro) is one of the best brokers available to non-US investors** - with unmatched global market access, low commissions, competitive cash interest rates, and genuine multi-currency functionality. The catch: IBKR Lite (the commission-free version you may have read about) is **not available outside the United States**, full stop. Every investor outside the US gets IBKR Pro by default - and for serious investors, that's actually the better deal.
 
@@ -72,7 +72,7 @@ schema:
 
 ---
 
-## Who This Review Is For
+## Who Should Read This Review
 
 This review is written for:
 
@@ -86,7 +86,7 @@ If you're a complete beginner looking for a simple app with guided investing - I
 
 ---
 
-## Quick Facts
+## IBKR Pro vs IBKR Lite for Non-US Investors at a Glance
 
 | | |
 |---|---|
@@ -293,7 +293,7 @@ The application will usually route Israeli residents to the LLC entity automatic
 
 When opening an IBKR account as an Israeli investor, you'll be required to complete a **Form W-8BEN** online - a US tax form certifying that you are not a US taxpayer. This is standard for all non-US investors and has two important effects:
 
-- **US dividend withholding:** Without a W-8BEN, IBKR withholds 30% on US dividends. Under the Israel-US tax treaty, Israeli residents who submit a W-8BEN and claim treaty benefits are eligible for a **reduced rate of 25%** (or 15% in some qualifying cases). IBKR applies the reduced rate automatically once the form is on file.
+- **US dividend withholding:** Without a W-8BEN, IBKR withholds 30% on US dividends. Under the Israel-US tax treaty, Israeli residents who submit a W-8BEN and claim treaty benefits are eligible for a **reduced rate of 25%**. There is no 15% tier for an individual - the treaty's lower 12.5% rate applies only to a company holding 10%+ of the payer's voting stock. IBKR applies the reduced rate automatically once the form is on file.
 - **Capital gains:** The US does not tax non-US persons on capital gains from US securities. You handle capital gains reporting in Israel according to Israeli law.
 
 ### Taxation for Israeli Investors
@@ -301,8 +301,8 @@ When opening an IBKR account as an Israeli investor, you'll be required to compl
 | Tax Type | Rate | Where Paid |
 |---|---|---|
 | Capital gains on US stocks | 25% | Israel (to the ITA - רשות המסים) |
-| Dividends from US stocks | 15%-25%* | Withheld at source by IBKR |
-| Interest income | 15%-25% | Israel |
+| Dividends from US stocks | 25%* | Withheld at source by IBKR |
+| Interest income | 17.5%* | Israel |
 | Currency gains (ILS/USD) | 25% | Israel |
 
 *The exact dividend withholding rate depends on your W-8BEN treaty claim and the dividend type. IBKR applies the treaty rate; reconcile any differences when filing your annual Israeli tax return.
@@ -450,7 +450,7 @@ IBKR offers three main ways to access your account:
 
 ---
 
-## Account Opening Process
+## Getting Signed Up
 
 Opening an Interactive Brokers account as a non-US investor is done entirely online and typically takes 1-3 business days for approval.
 
@@ -472,7 +472,7 @@ Choose which asset classes you want access to: stocks and ETFs, options, futures
 
 **Step 5 - Complete your W-8BEN form**
 
-As a non-US person (including Israelis), you complete a **W-8BEN form** online during the application. This certifies your non-US status and allows you to claim the Israel-US tax treaty dividend withholding rate (15%-25% instead of the default 30%).
+As a non-US person (including Israelis), you complete a **W-8BEN form** online during the application. This certifies your non-US status and allows you to claim the Israel-US tax treaty dividend withholding rate of 25% instead of the default 30%.
 
 **Step 6 - Upload your documents**
 
@@ -568,7 +568,7 @@ You are not a US taxpayer, so you don't file a US tax return. IBKR withholds US 
 
 ### What exactly does the W-8BEN do for Israeli investors?
 
-The W-8BEN certifies to IBKR and the IRS that you are not a US person. It allows you to claim the Israel-US tax treaty dividend withholding rate (15%-25%) instead of the standard 30% withheld from non-US investors without a treaty claim. Without a W-8BEN on file, IBKR would withhold 30% from every US dividend payment.
+The W-8BEN certifies to IBKR and the IRS that you are not a US person. It allows you to claim the Israel-US tax treaty dividend withholding rate of 25% instead of the standard 30% withheld from non-US investors without a treaty claim. Without a W-8BEN on file, IBKR would withhold 30% from every US dividend payment.
 
 ### Does IBKR offer real shares or CFDs?
 
@@ -613,7 +613,7 @@ IBKR Pro is one of the 2-3 best brokers available to serious Israeli investors t
 
 ---
 
-## Final Verdict
+## Our Call on IBKR Pro vs IBKR Lite for Non-US Investors
 
 **Overall Rating: 4.4 / 5**
 

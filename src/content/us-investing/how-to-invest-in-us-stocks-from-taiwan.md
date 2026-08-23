@@ -1,7 +1,7 @@
 ---
 slug: how-to-invest-in-us-stocks-from-taiwan
 title: "How to Invest in US Stocks from Taiwan (2026 Guide)"
-description: "How to invest in US stocks from Taiwan: why there's no tax treaty (a diplomatic-recognition issue), the pending H.R. 33 bill, and the 30% withholding reality."
+description: "How to Invest in US Stocks from Taiwan: why there's no tax treaty (a diplomatic-recognition issue), the pending H.R. 33 bill, and the 30% withholding reality."
 pubDate: 2026-09-15
 updatedDate: 2026-08-05
 author: "Tzion Sigron"
@@ -61,15 +61,15 @@ For the full picture, see our [US-Taiwan tax treaty guide](/taxes/us-taiwan-tax-
 
 ---
 
-## Step 2: What You Can Actually Buy
+## Step 2: What's Purchasable From Taiwan
 
-Taiwan is not in the EU or EEA, so the PRIIPs restriction that blocks European residents from buying US-domiciled ETFs does not apply here. **Wei-Ting can buy VOO, VTI, and QQQ directly** through a broker offering US market access.
+Taiwan is neither EU nor EEA, so the disclosure rule that shuts European buyers out of US-domiciled ETFs is not in force here. **Wei-Ting can buy VOO, VTI, and QQQ directly** through a broker offering US market access.
 
 ---
 
 ## Step 3: Until H.R. 33 Passes - The 30% Default
 
-Without treaty-like relief in force, dividends from US stocks are withheld at the full **30%**, regardless of how Form [W-8BEN](/taxes/w8ben-form-non-us-investors/) is completed - the form still certifies non-US person status and prevents the higher backup withholding regime from applying, but there is no reduced rate to claim yet.
+Without treaty-like relief in force, dividends from US stocks are withheld at the full **30%**, regardless of how Form [W-8BEN](/taxes/w8ben-form-non-us-investors/) is completed - the form still certifies non-US person status and prevents the backup withholding regime from applying - a lower 24% rate, but one that can reach gross sale proceeds, not just dividends, but there is no reduced rate to claim yet.
 
 **Capital gains:** the US generally does not tax capital gains realized by a non-resident alien on US securities under domestic law, independent of treaty status - this part is unaffected by whether H.R. 33 eventually passes.
 
@@ -77,9 +77,9 @@ Without treaty-like relief in force, dividends from US stocks are withheld at th
 
 ---
 
-## Step 4: Choose Your Broker
+## Step 4: Picking the Platform From Taiwan
 
-**Interactive Brokers (IBKR)** and **eToro** are both confirmed to accept Taiwanese residents for account opening. [See our full IBKR review →](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/) · [See our full eToro review →](/best-brokers/etoro-review-2026/)
+Taiwanese residents are eligible at both **Interactive Brokers (IBKR)** and **eToro**. [See our full IBKR review →](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/) · [See our full eToro review →](/best-brokers/etoro-review-2026/)
 
 ---
 
@@ -90,11 +90,11 @@ Without treaty-like relief in force, dividends from US stocks are withheld at th
 
 ## Step 5: What Wei-Ting's Portfolio Looks Like in Practice
 
-**Broker:** Interactive Brokers, for lower costs on a growing position.
+**Broker:** Interactive Brokers - cheaper to run once contributions are regular.
 
 **Portfolio allocation:**
-- 60% VOO (S&P 500, bought directly)
-- 40% QQQ (Nasdaq-100, bought directly)
+- 100% VOO (S&P 500, bought directly)
+- Wei-Ting deliberately skips QQQ: his salary already tracks the semiconductor cycle, and the Nasdaq-100's largest weights would stack a second helping of the same risk on top of his career
 - W-8BEN filed to certify status and avoid backup withholding, even without a rate benefit yet
 
 **Annual tax situation:**
@@ -110,7 +110,7 @@ He bookmarks the status of H.R. 33 and plans to revisit his withholding expectat
 
 ---
 
-## Common Mistakes to Avoid
+## Where Investors Slip Up on Taiwan
 
 **Assuming H.R. 33 is already in effect.** It passed the House but is not yet law - the 30% default still applies.
 
@@ -120,16 +120,16 @@ He bookmarks the status of H.R. 33 and plans to revisit his withholding expectat
 
 ---
 
-## What to Do This Week
+## What to Do First From Taiwan
 
 1. **Open a broker account.** IBKR or eToro, both confirmed to accept Taiwanese residents.
 2. **File your W-8BEN** to certify your status and avoid backup withholding.
-3. **Buy VOO or QQQ directly** - no UCITS workaround needed outside the EU.
+3. **Buy VOO or QQQ as listed** - no UCITS wrapper stands in the way.
 4. **Check the status of H.R. 33 periodically** - of everything covered on this site, this is one of the situations most likely to improve materially in the near term.
 
 ---
 
-*This article is for informational purposes only and does not constitute personalized tax or financial advice. There is no comprehensive income tax treaty between the United States and Taiwan as of this update; H.R. 33 passed the House on January 15, 2025, but has not been enacted into law. Consult a qualified Taiwanese tax advisor for advice specific to your situation.*
+*Everything here about Taiwan is educational, not personalised advice. There is no comprehensive income tax treaty between the United States and Taiwan as of this update; H.R. 33 passed the House on January 15, 2025, but has not been enacted into law. Consult a qualified Taiwanese tax advisor for advice specific to your situation.*
 
 ---
 
@@ -153,7 +153,11 @@ Because the US does not formally recognize Taiwan as a sovereign state, the stan
 Yes. It certifies your non-US person status and avoids backup withholding, and having it on file means you are ready immediately if H.R. 33 passes.
 
 **Can I buy VOO and QQQ directly as a Taiwanese investor?**
-Yes. Taiwan is not subject to the EU's PRIIPs regulation, so any US-listed stock or ETF your broker offers is directly accessible.
+Yes. Taiwan is not an EU or EEA jurisdiction, so no PRIIPs restriction stands between you and US-listed funds.
 
 **Which brokers accept Taiwanese residents?**
 Interactive Brokers and eToro are both confirmed to accept Taiwanese residents for account opening.
+
+---
+
+*Sources: IRS Publication 515 (2026) and IRS tax treaty tables (no Taiwan listing); IRC §871 (non-resident alien taxation); RSM - House Passes US-Taiwan Expedited Double-Tax Relief Act With Bipartisan Support; House Ways and Means Committee - Summary of the United States-Taiwan Expedited Double-Tax Relief Act; Congress.gov - S. Rept. 118-107; Wolf & Company - Understanding the United States-Taiwan Expedited Double-Tax Relief Act; IRS Publication 515 (2026).*

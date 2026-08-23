@@ -125,7 +125,7 @@ All three funds converged at 7-9% annually over five years - similar total retur
 
 SCHD tracks the **Dow Jones U.S. Dividend 100 Index** - 100 US equities selected for demonstrated dividend payment history and underlying financial strength. The fund holds 103 stocks, with sector weights concentrated in energy (19%), consumer defensive (18.5%), and healthcare (16%).
 
-The core mechanism is compounding dividend growth. Dividends have grown at approximately 10-12% annually since inception in 2011. A $10,000 investment at launch has grown to over $32,000 in current value - approximately 13% annualized total return since inception, per TotalRealReturns.com. The expense ratio of 0.06% is among the lowest available anywhere in the ETF market.
+The core mechanism is compounding dividend growth. Dividends have grown at approximately 10-12% annually since inception in 2011. A $10,000 investment at launch has grown to roughly $66,000 in current value - approximately 13.6% annualized total return since inception, per TotalRealReturns.com. The expense ratio of 0.06% is among the lowest available anywhere in the ETF market.
 
 The limitation is current income: a 3-4% yield means SCHD is poorly suited for investors who need significant cash flow today. It is a wealth-building instrument, not an income-extraction instrument.
 
@@ -229,7 +229,7 @@ A widely used combination: **SCHD (40%) + JEPI (40%) + QYLD (20%)** - balancing 
 
 ---
 
-*This article is for informational purposes only and does not constitute investment advice. Withholding tax rates depend on the tax treaty between the US and your country of residence - verify the applicable rate with a qualified tax adviser. All yield figures are gross of local income tax. Market data as of May 2026. Past performance does not predict future results.*
+*General material on JEPI vs SCHD vs QYLD - it does not account for your circumstances. Withholding tax rates depend on the tax treaty between the US and your country of residence - verify the applicable rate with a qualified tax adviser. All yield figures are gross of local income tax. Market data as of May 2026. Past performance does not predict future results.*
 
 *Sources: JPMorgan JEPI Fact Sheet (30/4/2026); Schwab Asset Management (SCHD); Yahoo Finance (May 26-27, 2026); TotalRealReturns.com (TTM figures, May 27, 2026); FinanceCharts.com (5Y CAGR and performance data); Global X QYLD fund page (distribution rate, May 26, 2026); PortfoliosLab (drawdown and beta data, May 2026); IRS Publication 515 (withholding tax rates).*
 

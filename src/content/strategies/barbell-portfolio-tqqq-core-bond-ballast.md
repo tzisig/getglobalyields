@@ -1,7 +1,7 @@
 ---
 slug: barbell-portfolio-tqqq-core-bond-ballast
 title: "Building a Barbell Portfolio: TQQQ Core Plus Bond Ballast"
-description: "A barbell portfolio pairs an aggressive, high-growth position with a genuinely safe, low-volatility one, deliberately avoiding the middle. Applied with TQQQ as the aggressive leg, the honest math on allocation, rebalancing, and what this structure actually protects against - plus the bond withholding advantage and currency considerations for international investors."
+description: "A barbell pairs an aggressive position with a safe one and avoids the middle. With TQQQ as the aggressive leg: allocation, rebalancing, and the bond side."
 pubDate: 2026-10-27
 updatedDate: 2026-08-06
 author: "Tzion Sigron"
@@ -84,7 +84,7 @@ Yes - both legs (a Nasdaq-100-tracking leveraged fund and a Treasury-bond fund) 
 
 ---
 
-## Practical Checklist
+## Building a Barbell Portfolio: The Practical Checklist
 
 - [ ] Choose the conservative leg specifically for safety and liquidity, not yield - Treasury bonds or Treasury ETFs are the standard choice for this reason
 - [ ] Size the aggressive TQQQ leg at a percentage you would genuinely be comfortable losing entirely, since that is the scenario the barbell structure is explicitly designed to survive
@@ -95,13 +95,13 @@ Yes - both legs (a Nasdaq-100-tracking leveraged fund and a Treasury-bond fund) 
 
 ---
 
-## Bottom Line
+## Reading Building a Barbell Portfolio Overall
 
 A barbell portfolio with TQQQ as the aggressive leg is a deliberate, disciplined structure - not simply "some TQQQ plus some bonds" without a specific allocation and rebalancing plan behind it. It genuinely limits catastrophic-loss risk by capping the aggressive leg's size, and the bond leg offers a genuine, often-overlooked withholding-tax advantage for international investors on top of its stability role - but it does not eliminate TQQQ's structural volatility decay or currency risk, and its overall performance still depends heavily on how the aggressive leg actually performs over the holding period.
 
 ---
 
-*This article is for informational purposes only and does not constitute financial advice. Leveraged ETFs carry substantial risk. Consult a licensed financial advisor before implementing any portfolio strategy.*
+*Everything here about Building a Barbell Portfolio is educational, not personalised advice. Leveraged ETFs carry substantial risk. Speak to a licensed adviser about whether this fits your position.*
 
 ## Related Guides
 

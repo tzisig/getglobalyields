@@ -23,7 +23,7 @@ seo:
   metaDescription: "New Zealand has no general capital gains tax, but FIF rules can tax 5% of your US portfolio's opening value yearly above NZD 50,000, regardless of returns."
   ogTitle: "US-New Zealand Tax Treaty: The FIF Rules Explained (2026)"
   ogDescription: "New Zealand has no general capital gains tax, but FIF rules can tax 5% of your US portfolio's opening value yearly above NZD 50,000, regardless of returns."
-  ogImage: "/images/blog/taxes/us-new-zealand-tax-treaty.webp"
+  ogImage: "/images/blog/taxes/us-new-zealand-tax-treaty-investors.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"
@@ -74,7 +74,7 @@ Once your overseas share portfolio's cost exceeds NZD 50,000, the FIF rules appl
 
 ---
 
-## The Treaty: 15% on Dividends
+## 15% on Dividends Under the New Zealand Treaty
 
 | Income Type | Default US Rate | Treaty Rate (Portfolio) |
 |---|---|---|
@@ -83,25 +83,25 @@ Once your overseas share portfolio's cost exceeds NZD 50,000, the FIF rules appl
 
 *Sources: US-New Zealand Income Tax Convention; IRS treaty text; PwC New Zealand Tax Summaries (2026).*
 
-Claiming the 15% rate requires Form [W-8BEN](/taxes/w8ben-form-non-us-investors/) filed with your broker. Without it, the full 30% default applies from the first dividend payment. Note that under FIF's FDR method above the NZD 50,000 threshold, actual dividends received are generally not taxed separately from the deemed 5% FIF income - confirm the interaction with a New Zealand tax advisor to avoid double-counting dividend income against both the FIF calculation and an ordinary dividend assessment.
+Your broker needs Form [W-8BEN](/taxes/w8ben-form-non-us-investors/) before it will apply 15%. No form means the 30% statutory default, beginning with the first payment. Note that under FIF's FDR method above the NZD 50,000 threshold, actual dividends received are generally not taxed separately from the deemed 5% FIF income - confirm the interaction with a New Zealand tax advisor to avoid double-counting dividend income against both the FIF calculation and an ordinary dividend assessment.
 
 ---
 
-## Broker Access
+## Can a New Zealand Resident Open a US Brokerage Account?
 
-Both Interactive Brokers and eToro are confirmed to accept New Zealand residents for account opening. Neither broker calculates your FIF obligation for you - that's a New Zealand tax return calculation the investor (or their accountant) performs based on account statements, regardless of which platform holds the shares.
+Both Interactive Brokers and eToro are open to New Zealand applicants. Neither broker calculates your FIF obligation for you - that's a New Zealand tax return calculation the investor (or their accountant) performs based on account statements, regardless of which platform holds the shares.
 
 ---
 
-## Practical Checklist
+## What a New Zealand Investor Should Actually Do
 
-**New Zealand resident investing in US stocks:**
+**Your running list as a New Zealand resident:**
 - [ ] Confirm W-8BEN is on file with your broker; verify 15%, not 30%, on dividend statements
 - [ ] Track your total overseas share portfolio cost against the NZD 50,000 FIF threshold
 - [ ] If above the threshold, choose between FDR (5% of opening value, taxed regardless of actual performance) and CV (actual increase, if lower than 5%) deliberately - not by default
 - [ ] Remember switching from CV back to FDR is not permitted once you've made that choice
 - [ ] Consider NZ-domiciled PIE funds as an alternative if you want US market exposure without direct FIF calculation responsibility
-- [ ] Confirm current account-opening requirements with Interactive Brokers or eToro before applying
+- [ ] Confirm the broker's current New Zealand requirements before starting - the paperwork list shifts
 
 ---
 
@@ -112,20 +112,19 @@ Both Interactive Brokers and eToro are confirmed to accept New Zealand residents
 
 ---
 
-## Bottom Line
+## What All of This Means from New Zealand
 
 "No capital gains tax" is accurate for New Zealand in general, but it's the wrong mental model once a US stock portfolio crosses NZD 50,000 in cost - at that point, the FIF rules' default FDR method taxes a deemed 5% of opening portfolio value every year, independent of what the portfolio actually did. Understanding FDR versus CV, and choosing deliberately between them, matters more to a serious New Zealand investor in US stocks than the treaty's dividend rate, which is otherwise a standard, unremarkable 15%.
 
 ---
 
-*This article is informational only and does not constitute tax or legal advice. Treaty rates are based on the US-New Zealand Income Tax Convention. FIF rules, thresholds, and calculation methods are set by New Zealand tax law (Inland Revenue) and can change - always consult a qualified New Zealand tax advisor for advice specific to your situation.*
-
+*A general account of investing from New Zealand - not tailored advice. Rate figures above are those of the US-New Zealand Income Tax Convention. FIF rules, thresholds, and calculation methods are set by New Zealand tax law (Inland Revenue) and can change. Get a qualified New Zealand tax advisor to look at your actual numbers.*
 *Sources: US-New Zealand Income Tax Convention; IRS Publication 515 (2026); MoneyHub NZ - Tax on Investments and Savings in a Nutshell 2026; MoneyBalance - FIF Tax NZ 2026: Foreign Investment Fund Guide; Become.nz - NZ FIF Rules: 2026 Changes, Thresholds, FDR, CV, RAM Methods; NZTaxTools - FIF Tax NZ: Overseas Investment Tax Rules; PwC New Zealand Tax Summaries (2026).*
 
 ## Related Guides
 
 - [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
-- [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)
 - [PFIC Rules for International Investors](/taxes/pfic-rules-international-investors/)
+- [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)
 - [US-Australia Tax Treaty for Investors](/taxes/us-australia-tax-treaty-investors/)
-- [Interactive Brokers Singapore: US Stock Tax Guide](/taxes/us-singapore-tax-treaty-investors/)
+- Interactive Brokers Singapore: US Stock Tax Guide

@@ -20,17 +20,17 @@ readingTime: "10 min read"
 featured: false
 seo:
   metaTitle: "US-Switzerland Tax Treaty: The Cantonal Wealth Tax (2026)"
-  metaDescription: "How the US-Switzerland tax treaty caps dividend withholding at 15%. Why Switzerland's cantonal wealth tax on net worldwide assets, including US stocks, varies up to 5x by canton."
+  metaDescription: "Dividend withholding drops to 15% under the US-Switzerland tax treaty. Why Switzerland's cantonal wealth tax on net worldwide assets, including US stocks."
   ogTitle: "US-Switzerland Tax Treaty: The Cantonal Wealth Tax (2026)"
-  ogDescription: "How the US-Switzerland tax treaty caps dividend withholding at 15%. Why Switzerland's cantonal wealth tax on net worldwide assets, including US stocks, varies up to 5x by canton."
-  ogImage: "/images/blog/taxes/us-switzerland-tax-treaty.webp"
+  ogDescription: "Dividend withholding drops to 15% under the US-Switzerland tax treaty. Why Switzerland's cantonal wealth tax on net worldwide assets, including US stocks."
+  ogImage: "/images/blog/taxes/us-switzerland-tax-treaty-investors.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"
   headline: "US-Switzerland Tax Treaty: The Cantonal Wealth Tax (2026)"
-  description: "How the US-Switzerland tax treaty caps dividend withholding at 15%. Why Switzerland's cantonal wealth tax on net worldwide assets, including US stocks, varies up to 5x by canton."
+  description: "Dividend withholding drops to 15% under the US-Switzerland tax treaty. Why Switzerland's cantonal wealth tax on net worldwide assets, including US stocks."
   author: "Tzion Sigron"
-  datePublished: "2026-09-07"
+  datePublished: "2026-11-10"
   dateModified: "2026-09-07"
   image: "/images/blog/taxes/us-switzerland-tax-treaty-investors.webp"
   mainEntityOfPage: "https://getglobalyields.com/taxes/us-switzerland-tax-treaty-investors"
@@ -66,7 +66,7 @@ Switzerland's net wealth tax is assessed at the cantonal and communal level on y
 
 ---
 
-## The Treaty: 15% on Dividends
+## The Treaty Rate for Swiss Residents Is 15%
 
 | Income Type | Default US Rate | Treaty Rate (Portfolio) | Direct Corporate (10%+) |
 |---|---|---|---|
@@ -75,27 +75,27 @@ Switzerland's net wealth tax is assessed at the cantonal and communal level on y
 
 *Sources: US-Switzerland Income Tax Convention; IRS treaty text; PwC Switzerland Tax Summaries (2026).*
 
-Claiming the 15% rate requires Form [W-8BEN](/taxes/w8ben-form-non-us-investors/) filed with your broker. Without it, the full 30% default applies from the first dividend payment.
+Form [W-8BEN](/taxes/w8ben-form-non-us-investors/), filed with your broker, is the mechanism for claiming 15%. Until it is on file, the 30% default governs every payment.
 
 **A note on the reverse direction, since it's a common point of confusion:** Switzerland's own domestic dividend withholding (the Verrechnungssteuer, or anticipatory tax) is a steep 35% on dividends paid by Swiss companies - but that applies to Swiss-source dividends, not to US dividends received by a Swiss resident, which follow the treaty rate above instead. Don't confuse the two directions when researching this topic; Swiss withholding tax and US withholding tax under the treaty are separate calculations covering different income flows.
 
 ---
 
-## Broker Access
+## Getting an Account Open from Switzerland
 
-Both Interactive Brokers and eToro are confirmed to accept Swiss residents for account opening. Neither changes the cantonal wealth tax calculation, which applies to your total net worldwide assets regardless of which broker holds them.
+You can apply from Switzerland at either Interactive Brokers or eToro. Neither changes the cantonal wealth tax calculation, which applies to your total net worldwide assets regardless of which broker holds them.
 
 ---
 
-## Practical Checklist
+## A Working List for Swiss Residents
 
-**Swiss resident investing in US stocks:**
+**The Swiss investor's short list:**
 - [ ] Confirm W-8BEN is on file with your broker; verify 15%, not 30%, on dividend statements
 - [ ] Report US stock holdings at year-end market value as part of your net worldwide wealth for cantonal wealth tax purposes
 - [ ] Confirm your specific canton's wealth tax rates and exemption thresholds - these vary substantially and directly affect your annual tax cost independent of investment performance
 - [ ] Don't confuse Switzerland's own 35% Verrechnungssteuer on Swiss-source dividends with the 15% US treaty rate on US-source dividends - they're separate calculations
 - [ ] Claim ordinary Swiss income tax treatment (federal and cantonal) on US dividend income, with the foreign tax credit for the 15% US withholding
-- [ ] Confirm current account-opening requirements with Interactive Brokers or eToro before applying
+- [ ] Confirm what the broker requires from a Swiss resident before you begin
 
 ---
 
@@ -106,20 +106,20 @@ Both Interactive Brokers and eToro are confirmed to accept Swiss residents for a
 
 ---
 
-## Bottom Line
+## The Upshot of the Switzerland Rules
 
 The treaty rate is standard - 15% on dividends, claimed with W-8BEN. What makes Switzerland genuinely distinctive among countries covered in this series is the wealth tax: a real, annual levy on the year-end value of your US stock holdings (and all other net worldwide assets), set independently by each of 26 cantons at rates that can differ by several multiples for identical wealth. For a Swiss-resident investor - and especially anyone with flexibility in choosing which canton to live in - that cantonal variation matters more to the long-run cost of holding US stocks than the treaty rate itself.
 
 ---
 
-*This article is informational only and does not constitute tax or legal advice. Treaty rates are based on the US-Switzerland Income Tax Convention. Cantonal wealth tax rates and thresholds are set independently by each of Switzerland's 26 cantons and change periodically - always consult a qualified Swiss tax advisor for advice specific to your canton and situation.*
+*This sets out how investing from Switzerland works; it does not tell you what to do. Rates reflect the terms of the US-Switzerland Income Tax Convention. Cantonal wealth tax rates and thresholds are set independently by each of Switzerland's 26 cantons and change periodically - always consult a qualified Swiss tax advisor for advice specific to your canton and situation.*
 
 *Sources: US-Switzerland Income Tax Convention; IRS Publication 515 (2026); PwC Switzerland Tax Summaries - Corporate Withholding Taxes (2026); The Poor Swiss - Wealth Tax in Switzerland 2026; Taxolution Advisory - Swiss Wealth Tax 2026: Rates by Canton; Stateless - Wealth Tax in Switzerland: Fiscal Overview 2026; Goldblum - Dividend Tax in Switzerland: 35% Withholding and Refunds.*
 
 ## Related Guides
 
-- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
-- [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)
 - [PFIC Rules for International Investors](/taxes/pfic-rules-international-investors/)
+- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
 - [US-Netherlands Tax Treaty for Investors](/taxes/us-netherlands-tax-treaty-investors/)
 - [US-Austria Tax Treaty for Investors](/taxes/us-austria-tax-treaty-investors/)
+- [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)

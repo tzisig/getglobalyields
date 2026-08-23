@@ -26,7 +26,7 @@ Most people who want $10,000 a month in passive income don't realize they need b
 
 This article takes the arithmetic seriously - including the parts most passive income guides skip. The gross yield numbers look straightforward. The capital requirements are sobering. What the portfolio actually delivers after taxes, after inflation, and after a 25-30% drawdown is a different and harder calculation, and this article works through all three explicitly.
 
-The minimum capital for a sustainable, diversified version is approximately $1.5 million at an 8% blended yield. A structure built to hold through a bear market without permanent income damage requires $2-2.4 million. How much you need depends on the yield you are willing to accept and the risk you are willing to carry - and those two variables are not independent.
+The minimum capital for a sustainable, diversified version is approximately $1.5 million, which at a realistic 6.9% blended yield produces about $8,600/month rather than a clean $10,000 - reaching the full $10,000 at that yield takes closer to $1.74 million. A structure built to hold through a bear market without permanent income damage requires $2-2.4 million. How much you need depends on the yield you are willing to accept and the risk you are willing to carry - and those two variables are not independent.
 
 ---
 
@@ -179,7 +179,7 @@ Investors sizing ARCC above 10% of a $10K/month income portfolio are concentrati
 
 ## Portfolio Construction: Three Models by Capital Level
 
-### Model A: $1.5 Million Portfolio - Target ~$10,000/Month (~8% blended yield)
+### Model A: $1.5 Million Portfolio - ~$8,600/Month (6.9% blended yield)
 
 | Allocation | Instrument | Amount | Yield | Monthly Income |
 |------------|-----------|--------|-------|----------------|
@@ -189,7 +189,7 @@ Investors sizing ARCC above 10% of a $10K/month income portfolio are concentrati
 | 15% | JEPQ | $225,000 | 10.4% | $1,950 |
 | 15% | Realty Income (O) | $225,000 | 5.3% | $994 |
 | 10% | ARCC | $150,000 | 10.3% | $1,288 |
-| **100%** | **Total** | **$1,500,000** | **7.7%** | **$8,583** |
+| **100%** | **Total** | **$1,500,000** | **6.9%** | **$8,583** |
 
 Annualized income: approximately $103,000 gross. This falls short of $120K by approximately $17,000. The gap reflects a deliberate decision: capping ARCC at 10% rather than 15% reduces BDC credit risk, and the shortfall is preferable to the income concentration risk that a larger ARCC position creates.
 
@@ -294,7 +294,7 @@ The practical recommendation: allocate at least 15-20% of the income portfolio t
 | | Model A ($1.5M) | Model B ($2.4M) | Model C ($2M) |
 |--|--|--|--|
 | Starting capital | $1,500,000 | $2,400,000 | $2,000,000 |
-| After 30% decline | ~$1,230,000* | ~$2,016,000* | ~$1,680,000* |
+| After a 30% *market* decline (blended portfolio effect) | ~$1,230,000* | ~$2,016,000* | ~$1,680,000* |
 | Monthly income (gross, compressed) | ~$7,200-$7,800 | ~$8,800-$9,400 | ~$8,000-$8,600 |
 
 *Estimated. Not all positions fall equally: SGOV is unchanged, SCHD falls less than JEPQ, ARCC potentially falls 40-50% in a credit-stress scenario.
@@ -333,7 +333,7 @@ Research by Wade Pfau, Ph.D., CFA at The American College of Financial Services 
 
 ---
 
-## Common Mistakes
+## What People Get Wrong About How to Build a $10K/Month Passive Income Portfolio in
 
 **Chasing the highest yield without examining the source.** A 15% yield often means NAV erosion, unsustainable payout ratios, or credit distress. The question is not "what is the yield?" but "where does the yield come from and is it sustainable?"
 
@@ -360,7 +360,7 @@ After federal taxes, the $2.4M Model B generates approximately $9,388/month net.
 
 Sequence of returns risk is the most underappreciated structural threat. A 25% portfolio decline in Year 1 of withdrawal, combined with continued $10K/month drawdowns, permanently shrinks the capital base in ways that a later recovery cannot fully undo. The two-year SGOV cash buffer and the withdrawal rate guardrail rule are structural requirements, not options.
 
-The minimum realistic capital for a sustainable version is $1.5 million at an 8% blended yield - Model A - with explicit understanding that this model concentrates 45% in covered call ETFs with no pre-2022 bear market data, and 15% in BDC credit risk that could fall 50% and compress dividends in a hard recession. A more conservatively positioned version requires $2-2.4 million.
+The minimum realistic capital for a sustainable version is $1.5 million at a 6.9% blended yield - Model A, which lands at roughly $8,600/month rather than the full $10,000 - with explicit understanding that this model concentrates 45% in covered call ETFs with no pre-2022 bear market data, and 15% in BDC credit risk that could fall 50% and compress dividends in a hard recession. A more conservatively positioned version requires $2-2.4 million.
 
 $10,000 a month gross is a yield calculation. $10,000 a month after taxes, in real purchasing power, sustained through a bear market without permanent portfolio damage over 20 years - that is a portfolio construction problem. The framework above starts that problem honestly.
 

@@ -1,7 +1,7 @@
 ---
 slug: us-lithuania-tax-treaty-investors
 title: "US-Lithuania Tax Treaty for Investors: No Holding-Period Relief (2026)"
-description: "US-Lithuania tax treaty guide for individual investors. The 15% dividend rate, and why Lithuania taxes US stock capital gains at progressive rates up to 32% with no long-term holding discount - unlike most EU peers covered in this series."
+description: "US-Lithuania tax treaty guide for individual investors. The 15% dividend rate, how the 2026 progressive rates up to 32% hit short-held US stock gains, and the five-year rule that keeps long-held shares at a flat 15%."
 pubDate: 2026-10-28
 updatedDate: 2026-08-30
 author: "Tzion Sigron"
@@ -20,17 +20,17 @@ readingTime: "9 min read"
 featured: false
 seo:
   metaTitle: "US-Lithuania Tax Treaty: No Holding-Period Relief (2026)"
-  metaDescription: "How the US-Lithuania tax treaty caps dividend withholding at 15%. Lithuania taxes US stock gains at progressive rates up to 32% with no long-term holding discount."
+  metaDescription: "The treaty rate on US dividends for Lithuania residents is 15%. Gains on US stocks held under five years can reach 32%; hold five years and it stays 15%."
   ogTitle: "US-Lithuania Tax Treaty: No Holding-Period Relief (2026)"
-  ogDescription: "How the US-Lithuania tax treaty caps dividend withholding at 15%. Lithuania taxes US stock gains at progressive rates up to 32% with no long-term holding discount."
-  ogImage: "/images/blog/taxes/us-lithuania-tax-treaty.webp"
+  ogDescription: "The treaty rate on US dividends for Lithuania residents is 15%. Gains on US stocks held under five years can reach 32%; hold five years and it stays 15%."
+  ogImage: "/images/blog/taxes/us-lithuania-tax-treaty-investors.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"
   headline: "US-Lithuania Tax Treaty: No Holding-Period Relief (2026)"
-  description: "How the US-Lithuania tax treaty caps dividend withholding at 15%. Lithuania taxes US stock gains at progressive rates up to 32% with no long-term holding discount."
+  description: "The treaty rate on US dividends for Lithuania residents is 15%. Gains on US stocks held under five years can reach 32%; hold five years and it stays 15%."
   author: "Tzion Sigron"
-  datePublished: "2026-08-30"
+  datePublished: "2026-10-28"
   dateModified: "2026-08-30"
   image: "/images/blog/taxes/us-lithuania-tax-treaty-investors.webp"
   mainEntityOfPage: "https://getglobalyields.com/taxes/us-lithuania-tax-treaty-investors"
@@ -41,19 +41,21 @@ schema:
      Recommended: Responsive AdSense display unit or broker affiliate banner
      Replace this comment block with your AdSense tag or affiliate banner HTML -->
 
-Several countries covered in this series reward patience: hold a US stock long enough, and Czech Republic exempts the gain after three years, Luxembourg after six months, Slovenia on a sliding scale out to fifteen years. **Lithuania offers no equivalent relief at all.** Capital gains from selling securities - US stocks included - are taxed as ordinary income at Lithuania's progressive rates, regardless of how long the position was held. A share sold the day after purchase and one sold after twenty years face exactly the same tax treatment.
+Several countries covered in this series reward patience: Czech Republic exempts a gain after three years, Luxembourg after six months, Slovenia on a sliding scale out to fifteen years. **Lithuania rewards it too, but it caps rather than exempts** - and the 2026 reform made that distinction expensive. Sell a US stock you have held under five years and the gain stacks with your other income on the new progressive ladder, reaching 32% at the top. Hold the shares five years or more and the gain keeps its own flat 15% rate no matter how much else you earned that year. Same shares, same profit, up to 17 percentage points apart.
 
-This guide covers that structure clearly, alongside the treaty's standard 15% dividend rate and a small annual exemption worth knowing about.
+This guide covers that five-year line clearly, alongside the treaty's standard 15% dividend rate, the small annual exemption, and the investment-account regime that defers the question entirely.
 
 ---
 
-## Capital Gains: Progressive Rates, No Holding-Period Discount
+## Capital Gains: The Five-Year Line Between 15% and 32%
 
-Lithuania's 2026 tax reform introduced a new progressive personal income tax structure with rates of **20%, 25%, and 32%** depending on income level. Capital gains from selling securities are folded into this same progressive schedule as ordinary income - there is no reduced rate, no preferential long-term category, and no holding-period exemption of any kind for US stock gains.
+Lithuania's 2026 tax reform introduced a progressive personal income tax structure with rates of **20%, 25%, and 32%** depending on total income. Gains on securities held for less than five years are folded into that schedule as ordinary income, so a strong year at work can push a modest stock gain into the 32% band. Gains on shares held **five years or more** are carved out and keep a flat **15%**, independent of the rest of your income for the year. There is no full exemption at any holding period - the reward for patience here is a rate ceiling, not a zero.
 
-**The one piece of relief:** capital gains up to **€2,500** in a tax period are exempt. This is a small, flat annual allowance rather than a meaningful long-term planning tool - useful for trimming a small position tax-free, but not comparable to the multi-year exemptions available in several neighboring countries covered elsewhere in this series.
+**A second, smaller piece of relief:** net gains on financial instruments up to **€500** in a tax period are exempt outside the investment-account regime; above that, only the excess is taxable. It is an allowance for trimming a small position, not a planning tool.
 
-**What this means for a Lithuanian investor:** unlike Czech Republic, Luxembourg, or Slovenia, there's no incentive within Lithuanian tax law to hold a US stock position longer specifically for tax purposes - the rate is the same whether sold immediately or after decades. Tax planning for Lithuanian investors in US stocks centers more on managing which progressive bracket a given year's total gains land in (since gains stack with other income toward the 20%/25%/32% thresholds) than on timing a sale around a holding-period milestone.
+**Third, and easiest to overlook:** Lithuania has offered an investment account since 2025 that defers tax until you withdraw more than you paid in, at which point the excess is taxed at a flat 15%. For an investor who expects to rebalance often inside a five-year window, that account does more work than either the five-year rule or the €500 allowance.
+
+**What this means for a Lithuanian investor:** there are two planning levers, not none. The first is the five-year clock on each lot - crossing it converts a gain that would stack toward the 32% band into one taxed at a flat 15%, which matters most in a year when your other income is already high. The second is the investment account, which sidesteps the timing question for anyone trading inside that window. What Lithuania does not offer, unlike Czech Republic or Luxembourg, is a point at which the gain becomes tax-free.
 
 ---
 
@@ -70,7 +72,7 @@ Unlike capital gains, dividend income in Lithuania - domestic and foreign, US di
 
 ---
 
-## The Treaty: 15% on Dividends
+## Lithuania's 15% Dividend Rate
 
 | Income Type | Default US Rate | Treaty Rate (Portfolio) |
 |---|---|---|
@@ -79,25 +81,25 @@ Unlike capital gains, dividend income in Lithuania - domestic and foreign, US di
 
 *Sources: US-Lithuania Income Tax Convention; IRS treaty text; PwC Lithuania Tax Summaries (2026).*
 
-Claiming the 15% rate requires Form [W-8BEN](/taxes/w8ben-form-non-us-investors/) filed with your broker. Without it, the full 30% default applies from the first dividend payment - a straightforward foreign tax credit generally applies against Lithuania's own flat 15% dividend rate, matching almost exactly and largely eliminating any additional Lithuanian dividend tax on top.
+Treaty relief is claimed through the form, never granted automatically. Without it, the full 30% default applies from the first dividend payment - a straightforward foreign tax credit generally applies against Lithuania's own flat 15% dividend rate, matching almost exactly and largely eliminating any additional Lithuanian dividend tax on top.
 
 ---
 
-## Broker Access
+## Lithuania and the Broker Shortlist
 
-Both Interactive Brokers and eToro are confirmed to accept Lithuanian residents for account opening. Neither changes the progressive capital gains treatment or the flat dividend rate described above, both of which are functions of Lithuanian domestic law.
+Two brokers cover Lithuania reliably: Interactive Brokers and eToro. Neither changes the progressive capital gains treatment or the flat dividend rate described above, both of which are functions of Lithuanian domestic law.
 
 ---
 
-## Practical Checklist
+## The Short List for Lithuanian Investors
 
-**Lithuanian resident investing in US stocks:**
+**Before you place the first trade from Lithuania:**
 - [ ] Confirm W-8BEN is on file with your broker; verify 15%, not 30%, on dividend statements
-- [ ] Don't plan around a holding-period tax exemption for capital gains - Lithuania offers none; gains are taxed the same regardless of how long a position was held
-- [ ] Use the €2,500 annual capital gains exemption where it fits, but treat it as a modest allowance, not a long-term planning tool
+- [ ] Track the five-year holding date on each lot - crossing it holds the gain at a flat 15% instead of letting it stack toward the 32% progressive band
+- [ ] Use the €500 annual exemption on net financial-instrument gains where it fits, and check whether Lithuania's investment account (available since 2025) suits your rebalancing pattern better than tracking holding periods
 - [ ] Track which of the 20%/25%/32% progressive brackets your total annual income (including capital gains) falls into when planning the timing of a sale
 - [ ] Claim the foreign tax credit for the 15% US withholding against Lithuania's flat 15% domestic dividend rate
-- [ ] Confirm current account-opening requirements with Interactive Brokers or eToro before applying
+- [ ] Ask the broker directly what documentation they need from you this year
 
 ---
 
@@ -108,13 +110,13 @@ Both Interactive Brokers and eToro are confirmed to accept Lithuanian residents 
 
 ---
 
-## Bottom Line
+## Lithuania Investors: The Realistic View
 
-The treaty rate is standard - 15% on dividends, claimed with W-8BEN, and largely absorbed by Lithuania's own matching 15% flat dividend rate via the foreign tax credit. Capital gains are the area where Lithuania stands apart from several neighbors covered in this series: no holding-period exemption of any kind, just Lithuania's new 2026 progressive rate structure (20%/25%/32%) applied to gains the same as ordinary income, with only a modest €2,500 annual allowance for relief. Anyone comparing notes with a Czech, Luxembourg, or Slovenian investor about "how long to hold before selling" should know that question simply doesn't have a tax-driven answer in Lithuania.
+The treaty rate is standard - 15% on dividends, claimed with W-8BEN, and largely absorbed by Lithuania's own matching 15% flat dividend rate via the foreign tax credit. Capital gains are where Lithuania differs from its neighbours: the 2026 reform runs short-held gains up the progressive ladder to 32%, while shares held five years or more stay at a flat 15%. Anyone comparing notes with a Czech, Luxembourg or Slovenian investor should know the Lithuanian answer to "how long before selling" is five years - and that unlike theirs, it caps the rate rather than removing the tax.
 
 ---
 
-*This article is informational only and does not constitute tax or legal advice. Treaty rates are based on the US-Lithuania Income Tax Convention. Lithuania's 2026 progressive tax reform, capital gains treatment, and the EUR 2,500 exemption are set by Lithuanian law and can change - always consult a qualified Lithuanian tax advisor for advice specific to your situation.*
+*Nothing here is tax or legal advice about investing from Lithuania for your particular case. The US-Lithuania Income Tax Convention sets the rates quoted here. Lithuania's 2026 progressive tax reform, the five-year rule for share gains, the EUR 500 exemption and the investment-account regime are set by Lithuanian law and can change. Get a qualified Lithuanian tax advisor to look at your actual numbers.*
 
 *Sources: US-Lithuania Income Tax Convention; IRS Publication 515 (2026); Work in Lithuania - Lithuania Tax Rates in 2026; Eurofast - Lithuania's 2026 Tax Reform; Lawhill - Lithuania Dividend Tax Rates and Rules 2026; PwC Lithuania Tax Summaries - Individual Income Determination (2026); countrytaxcalc.com - Lithuania Tax Calculator 2026.*
 

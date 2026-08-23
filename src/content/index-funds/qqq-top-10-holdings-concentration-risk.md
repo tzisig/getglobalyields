@@ -93,13 +93,13 @@ The special rebalance rule is a real constraint, and it means QQQ cannot legally
 
 ---
 
-## Bottom Line
+## The Net Position on QQQ's Top 10 Holdings and the Rule Capping Concentration
 
 QQQ's top-10 concentration isn't drifting unchecked - the Nasdaq-100 has a real, three-times-used mechanism that forces a rebalance if individually large holdings collectively cross 48% of the index, rooted in a decades-old IRS diversification requirement rather than investor protection. Today's index sits well clear of that line, with its four largest names collectively around 26%. But clear of the trigger point isn't the same as low-risk: those same four names moving together in a bad quarter can still swing QQQ's value meaningfully, which is the concentration risk that actually matters day to day, rule or no rule.
 
 ---
 
-*This article is for informational purposes only and does not constitute financial advice. Index holdings, weightings, and rebalancing outcomes change over time - confirm current figures directly with Nasdaq or Invesco before making investment decisions. The drawdown scenario described is an illustrative calculation, not a prediction of future performance.*
+*None of this is advice on QQQ's Top 10 Holdings and the Rule Capping Concentration for your specific situation. Index holdings, weightings, and rebalancing outcomes change over time - confirm current figures directly with Nasdaq or Invesco before making investment decisions. The drawdown scenario described is an illustrative calculation, not a prediction of future performance.*
 
 ## Related Guides
 

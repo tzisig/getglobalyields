@@ -257,7 +257,7 @@ Track your net P&L on the combined position (shares + option), not just the opti
 
 ---
 
-## Summary
+## The Short Version of Selling Covered Calls on TQQQ
 
 Selling covered calls on TQQQ generates premium income that is genuinely higher than on almost any comparable ETF. The strategy has a clear mechanical logic: collect elevated premiums from TQQQ's high implied volatility, repeat monthly, and build an income stream on top of your position.
 
@@ -269,7 +269,7 @@ The premium is high for a reason.
 
 ---
 
-*This article is for educational purposes only and does not constitute financial, investment, or tax advice. Options trading involves significant risk and is not suitable for all investors. Past performance of TQQQ and options strategies does not guarantee future results. TQQQ maximum drawdown data sourced from PortfoliosLab (portfolioslab.com). Tax treatment based on IRS Publication 550 and Fidelity's tax guidance on covered calls, current as of May 2026. Consult a qualified financial advisor and tax professional before implementing any options strategy.*
+*This article is for educational purposes only and does not constitute financial, investment, or tax advice. An options position can sour quickly, which makes suitability an individual question. Past performance of TQQQ and options strategies does not guarantee future results. TQQQ maximum drawdown data sourced from PortfoliosLab (portfolioslab.com). Tax treatment based on IRS Publication 550 and Fidelity's tax guidance on covered calls, current as of May 2026. Take this to someone licensed who can assess it against your own position.*
 
 <!-- AFFILIATES PLACEHOLDER: BROKER CTA SECTION -->
 <!-- Place immediately below the disclaimer -->

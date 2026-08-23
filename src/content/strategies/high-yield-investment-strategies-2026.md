@@ -237,7 +237,7 @@ Every income investment should pass four questions before capital goes in.
 
 ---
 
-## Summary
+## High-Yield Investment Strategies That Actually Work in a Paragraph
 
 High-yield investing in 2026 is not about finding the largest number. The risk-free rate has risen enough that the opportunity cost of reckless yield-chasing is real, and the range of genuinely attractive income options - CLO ETFs at 6%, quality REITs at 5-6.5%, BDCs at 7-10%, covered calls at 8-12% combined - is wide enough that there is no reason to reach into territory where the yield is a warning rather than a reward.
 
@@ -245,7 +245,7 @@ The strategies that actually work share one characteristic: the yield is compens
 
 ---
 
-*This article is for informational purposes only and does not constitute personalized financial or tax advice. All yield figures are sourced from public disclosures and financial data providers as of May 2026: MAIN yield from SEC filing May 4, 2026; ARCC yield from Yahoo Finance May 2026; HYSA rates from NerdWallet/Bankrate May 22, 2026; REIT yields from Motley Fool May 2026; JAAA/CLOI yields from StockAnalysis; PG dividend from SEC filing April 14, 2026; JNJ data from CoinCentral May 2026. Yields change frequently. Consult a qualified financial advisor before making investment decisions.*
+*This piece covers High-Yield Investment Strategies That Actually Work in general terms and is not financial advice. All yield figures are sourced from public disclosures and financial data providers as of May 2026: MAIN yield from SEC filing May 4, 2026; ARCC yield from Yahoo Finance May 2026; HYSA rates from NerdWallet/Bankrate May 22, 2026; REIT yields from Motley Fool May 2026; JAAA/CLOI yields from StockAnalysis; PG dividend from SEC filing April 14, 2026; JNJ data from CoinCentral May 2026. Yields change frequently. Have a qualified professional weigh this against your own situation.*
 
 <!-- AFFILIATES PLACEHOLDER: BROKER CTA SECTION -->
 <!-- [AFFILIATE_UNIT: BROKER_COMPARISON_TABLE] -->

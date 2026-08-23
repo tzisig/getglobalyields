@@ -82,12 +82,12 @@ All returns are annualized total return (price + dividends reinvested) through M
 
 The gap column tells the real story: every income-focused ETF that has been through a full market cycle (SCHD, JEPI, QYLD) has lagged the S&P 500 on total return. The newer funds (JEPQ, SPYI, QQQI) show apparent outperformance that is partly an artifact of their 2022 launch timing. Income investors who choose these funds are explicitly accepting a likely total return drag in exchange for current cash flow - and that tradeoff should be made with open eyes.
 
-<div style="background:#0a192f;border-radius:16px;padding:24px 24px 20px;border:1px solid #233554;font-family:system-ui,-apple-system,sans-serif;">
+<div style="background:#0a192f;border-radius:16px;padding:24px 20px;border:1px solid #233554;font-family:system-ui,-apple-system,sans-serif;">
   <div style="margin-bottom:16px;">
     <div style="color:#e2e8f0;font-size:18px;font-weight:600;letter-spacing:-0.3px;">JEPI vs SPYI: Key Metrics Compared</div>
     <div style="color:#64748b;font-size:13px;margin-top:2px;">Yield, cost, and risk side by side - the numbers from the tables above, in one view</div>
   </div>
-  <svg viewBox="0 0 640 280" style="width:100%;height:auto;">
+  <svg viewBox="0 640 280" style="width:100%;height:auto;">
     <line x1="0" y1="220" x2="640" y2="220" stroke="#233554" stroke-width="1" />
     <rect x="36" y="129" width="40" height="91" rx="4" fill="#5eb3d6" />
     <text x="56" y="121" text-anchor="middle" fill="#5eb3d6" font-size="13" font-weight="700">8.3%</text>
@@ -185,7 +185,7 @@ The current yield is approximately 12.1%, paid monthly. AUM has grown to $9.7 bi
 
 The fund's use of out-of-the-money options rather than at-the-money options preserves more upside capture than QYLD's approach, explaining the NAV stability.
 
-**Risks:** The 0.68% expense ratio is 33 basis points higher than JEPI/JEPQ - not trivial over a 10-year compounding period. At 3.5 years old, SPYI has never been tested in a sustained bear market. Its maximum drawdown of -16.47% was recorded during the sharp but short 2022 reset; a prolonged bear market of 30-40% would likely produce a proportionally deeper drawdown with limited premium income to offset it. Some analysts argue SPYI provides insufficient downside protection relative to its yield premium - the options overlay cushions only a few percentage points of decline before the underlying S&P 500 exposure dominates. The 0.68% expense ratio also means SPYI is consistently starting each year at a 59 basis point disadvantage versus JEPI in a tax-deferred account.
+**Risks:** The 0.68% expense ratio is 33 basis points higher than JEPI/JEPQ - not trivial over a 10-year compounding period. At 3.5 years old, SPYI has never been tested in a sustained bear market. Its maximum drawdown of -16.47% was recorded during the sharp but short 2022 reset; a prolonged bear market of 30-40% would likely produce a proportionally deeper drawdown with limited premium income to offset it. Some analysts argue SPYI provides insufficient downside protection relative to its yield premium - the options overlay cushions only a few percentage points of decline before the underlying S&P 500 exposure dominates. The 0.68% expense ratio also means SPYI starts each year at a 33 basis point disadvantage versus JEPI in a tax-deferred account - where the Section 1256 treatment that justifies the higher fee in a taxable account buys you nothing.
 
 ---
 
@@ -314,12 +314,12 @@ Non-U.S. investors face a specific cost that materially affects net yield calcul
 
 The U.S. default [withholding tax](/taxes/taxes-us-dividends-foreign-investors/) on dividends and distributions paid to foreign investors is 30%. Under a bilateral [tax treaty](https://www.irs.gov/individuals/international-taxpayers/tax-treaties), this rate is typically reduced to 15% for eligible countries. The treaty rate applies only if the investor files a [W-8BEN](/taxes/w8ben-form-non-us-investors/) ([official IRS form](https://www.irs.gov/forms-pubs/about-form-w-8-ben)) with their broker. Without it, the full 30% applies by default.
 
-<div style="background:#0a192f;border-radius:16px;padding:24px 24px 20px;border:1px solid #233554;font-family:system-ui,-apple-system,sans-serif;overflow-x:auto;">
+<div style="background:#0a192f;border-radius:16px;padding:24px 20px;border:1px solid #233554;font-family:system-ui,-apple-system,sans-serif;overflow-x:auto;">
   <div style="margin-bottom:20px;">
     <div style="color:#e2e8f0;font-size:18px;font-weight:600;letter-spacing:-0.3px;">How US Dividend Withholding Works for a Non-US Investor</div>
     <div style="color:#64748b;font-size:13px;margin-top:2px;">Example uses a 15% treaty rate - your country's actual rate may differ</div>
   </div>
-  <svg viewBox="0 0 900 160" style="width:100%;height:auto;min-width:620px;">
+  <svg viewBox="0 900 160" style="width:100%;height:auto;min-width:620px;">
     <defs>
       <marker id="wtf-arrow" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto">
         <polygon points="0 0, 8 3, 0 6" fill="#D4B95A" />
@@ -402,7 +402,7 @@ SCHD and VYM distributions are qualified dividends - the treaty rate of 15% appl
 
 ---
 
-## Summary
+## The Net Position on Best High-Yield ETFs for Income Investors in
 
 High-yield ETFs in 2026 offer genuine income opportunities across a wide yield spectrum, but the yield number alone does not determine which fund is appropriate.
 
@@ -421,5 +421,5 @@ The goal is not the highest number in the yield column. It is the most durable i
 
 ---
 
-*All yield, AUM, and expense ratio data verified as of May 2026. Past performance does not guarantee future results. This article is for informational and educational purposes only and does not constitute investment advice. Consult a qualified financial or tax advisor before making investment decisions.*
+*All yield, AUM, and expense ratio data verified as of May 2026. Past performance does not guarantee future results. Informational and educational only; nothing here is investment advice. Consult a qualified financial or tax advisor before making investment decisions.*
 

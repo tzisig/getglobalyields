@@ -32,7 +32,7 @@ schema:
       answer: "Yes, if you have US investment income, you should include it in your annual Egyptian tax return. Dividends, interest, and capital gains from US sources must be declared as income from foreign sources. Use the foreign tax credit to offset US withholding. If your employer already withholds income tax from your salary, you may still need to file a standalone return if your investment income exceeds the tax-free threshold."
     - question: "What is my Egyptian Tax ID Number and do I need it for the W-8BEN?"
       answer: "Your Egyptian Tax ID Number is your registration number with the Egyptian Tax Authority (ETA). Include it in your W-8BEN where it asks for a \"Foreign tax identifying number.\" If you do not yet have one, register with the ETA. It is required for the W-8BEN to be fully compliant."
-    - question: "What happens if I receive a US dividend without a W-8BEN on file?"
+    - question: "What happens to a dividend paid while no W-8BEN is on file?"
       answer: "Your broker withholds 30%. To recover the excess 15% (the difference between the 30% withheld and the 15% treaty rate), you must file a US non-resident tax return (Form 1040-NR) with the IRS or use a tax reclaim service. The Egyptian foreign tax credit applies only up to 15% (the treaty rate) - the excess is recoverable only from the US side."
     - question: "Are capital gains from selling US stocks taxable in Egypt?"
       answer: "The answer is uncertain. Under Article 13 of the treaty, gains from the sale of shares by an Egyptian resident are taxable only in Egypt. However, Egyptian domestic law on this point is contradictory - PwC's Egypt Tax Summary (2026) states both that foreign share gains are taxable at progressive rates and that they should not be taxed in Egypt. The ETA has not issued a binding ruling. See the dedicated section above for a full discussion."
@@ -44,22 +44,12 @@ schema:
       answer: "Egypt has DTTs with over 50 countries, and rates vary by treaty and by the specific conditions attached (shareholding size, holding period, listed vs. unlisted). The US-Egypt treaty's 15% general portfolio dividend rate and 15% interest rate are on the higher end compared to some of Egypt's more modern treaties, reflecting the 1980 treaty's age. We have not independently verified exact rate figures for Egypt's other bilateral treaties for this comparison, so we are not citing specific numbers here - check the Deloitte International Tax Source or a current PwC/EY country guide for treaty-by-treaty rates before relying on a comparison."
 
 ---
-<!-- PAGE INSTRUCTIONS:
-- Add to /src/content/taxes/ as us-egypt-tax-treaty-investors.md (done)
-- URL: /taxes/us-egypt-tax-treaty-investors
-- Hero image: /public/images/blog/taxes/us-egypt-tax-treaty.webp (840x560)
-- Internal links: link FROM the Egypt tax treaty page, the taxes overview page, and the tax treaty comparison page
-- This article pairs well with: US Dividend Withholding Tax, W-8BEN Guide, Best Brokers for International Investors
-- IMPORTANT: update the "updatedDate" frontmatter field AND schema.dateModified together, every time this file is edited - do not leave them stale
-- KNOWN OPEN ITEM (published anyway, per site owner decision 2026-08-04): the capital gains section (foreign securities) reflects a genuine, unresolved contradiction in PwC's Egypt Tax Summary that a July 2026 ETA reform announcement did not address (it covered EGX-listed securities only). No Egyptian accountant relationship exists to resolve this further. The article discloses the conflict openly to readers and recommends they verify independently rather than presenting either position as settled - this is the intended permanent treatment of this section, not a placeholder.
--->
-
 <!-- ADSENSE / AFFILIATE PLACEHOLDER
      Position: Top of article, before content
      Recommended: Responsive AdSense display unit or broker affiliate banner
      Replace this comment block with your AdSense tag or affiliate banner HTML -->
 
-If you live in Egypt and invest in US stocks, ETFs, or bonds, the tax treaty between the United States and Egypt determines how much US withholding tax applies to your investment income at source. Without a valid [W-8BEN](/taxes/w8ben-form-non-us-investors/) on file, the default 30% rate applies to every dividend and interest payment - even though the treaty caps those rates at 15% for dividends and 5% for interest.
+If you live in Egypt and invest in US stocks, ETFs, or bonds, the tax treaty between the United States and Egypt determines how much US withholding tax applies to your investment income at source. Without a valid [W-8BEN](/taxes/w8ben-form-non-us-investors/) on file, the default 30% rate applies to every dividend and interest payment - even though the treaty caps those rates at 15% for dividends and 15% for interest.
 
 The treaty between the US and Egypt was signed in **1980** and entered into force in **1982**. It is one of the oldest US tax treaties in the Middle East region, and while its rates are less generous than some newer treaties (the [US-Bulgaria treaty](/taxes/us-bulgaria-tax-treaty-investors/) offers 10% on dividends; the [US-UK treaty](/taxes/us-uk-tax-treaty-investors/) offers 15% with a 0% interest rate), it still cuts the default US withholding by half for portfolio investors - and more importantly, it eliminates most double taxation through Egypt's foreign tax credit system.
 
@@ -69,7 +59,7 @@ This guide covers what the treaty actually says, how it applies to individual in
 
 ---
 
-## The Treaty at a Glance
+## Egypt: The Treaty in Summary
 
 The Convention between the Government of the United States of America and the Government of the Arab Republic of Egypt for the Avoidance of Double Taxation and the Prevention of Fiscal Evasion with Respect to Taxes on Income was signed in Cairo on **August 24, 1980**, and entered into force in 1982.
 
@@ -241,7 +231,7 @@ This is a fact-specific determination that depends on your individual circumstan
 
 ## W-8BEN: How to Claim Treaty Benefits
 
-The W-8BEN (Certificate of Foreign Status of Beneficial Owner for United States Tax Withholding) is the form that activates treaty benefits with your US broker or custodian. Without it, the default 30% withholding applies to all US-source income.
+The W-8BEN (Certificate of Foreign Status of Beneficial Owner for United States Tax Withholding) is the form that activates treaty benefits with your US broker or custodian. The paperwork, not the treaty, changes the number on your statement.
 
 **How to file:**
 
@@ -251,7 +241,7 @@ The W-8BEN (Certificate of Foreign Status of Beneficial Owner for United States 
 4. In Part II, identify Egypt as the treaty country and claim Article 10 (15%) for dividends
 5. Submit electronically or by mail, depending on the broker
 
-**Validity:** The W-8BEN is valid for three years from the date of signing, or until a change in circumstances (such as moving to a different country) makes the information inaccurate. Your broker will remind you when it expires.
+**Validity:** The W-8BEN stays valid through the end of the third calendar year following the year you sign it, or until a change in circumstances (such as moving to a different country) makes the information inaccurate. Your broker will remind you when it expires.
 
 **Important:** W-8BEN applies to your treaty residency, not citizenship. If you are an Egyptian tax resident but hold a different passport, you still file W-8BEN claiming Egypt as your country of residence. The treaty benefit follows residency.
 
@@ -375,19 +365,19 @@ The treaty ensures Egyptian tax residents do not face double taxation on US inve
 
 ---
 
-*This article is for informational and educational purposes only. It does not constitute tax or legal advice. Treaty provisions and Egyptian domestic tax law are subject to change. Verify current rules with the Egyptian Tax Authority (ETA) or a qualified tax advisor before making investment decisions. The US-Egypt treaty text is publicly available at irs.gov. The EGX-listed capital gains exemption reflects the ETA's July 26, 2026 announcement as reported by Daily News Egypt and Zawya; the foreign-securities capital gains question remains unresolved by that reform and is disclosed as such above. Information verified as of August 2026.*
+*Nothing here is tax or legal advice about investing from Egypt for your particular case. It does not constitute tax or legal advice. Treaty provisions and Egyptian domestic tax law are subject to change. Verify current rules with the Egyptian Tax Authority (ETA) or a qualified tax advisor before making investment decisions. The US-Egypt treaty text is publicly available at irs.gov. The EGX-listed capital gains exemption reflects the ETA's July 26, 2026 announcement as reported by Daily News Egypt and Zawya; the foreign-securities capital gains question remains unresolved by that reform and is disclosed as such above. Information verified as of August 2026.*
 
 ### How the US-Egypt Treaty Compares
 
-For a full side-by-side view across every US treaty country, our [tax map](/tax-map/) tool visualizes all the rates. Egypt's 15% portfolio dividend rate matches Western European treaties like the [US-UK](/taxes/us-uk-tax-treaty-investors/) and [US-Austria](/taxes/us-austria-tax-treaty-investors/) but its 15% interest rate is higher than the 0% offered by modern treaties such as the [US-Germany](/taxes/us-germany-tax-treaty-investors/) and [US-Belgium](/taxes/us-belgium-tax-treaty-investors/) conventions.
+For a full side-by-side view across every US treaty country, our [tax map](/resources/tax-map/) tool visualizes all the rates. Egypt's 15% portfolio dividend rate matches Western European treaties like the [US-UK](/taxes/us-uk-tax-treaty-investors/) and [US-Austria](/taxes/us-austria-tax-treaty-investors/) but its 15% interest rate is higher than the 0% offered by modern treaties such as the [US-Germany](/taxes/us-germany-tax-treaty-investors/) and [US-Belgium](/taxes/us-belgium-tax-treaty-investors/) conventions.
 
 ## Related Guides
 
-- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
-- [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)
 - [PFIC Rules for International Investors](/taxes/pfic-rules-international-investors/)
 - [US-Israel Tax Treaty Explained](/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026/)
 - [US-Belgium Tax Treaty for Investors](/taxes/us-belgium-tax-treaty-investors/)
 - [US-Bulgaria Tax Treaty for Investors](/taxes/us-bulgaria-tax-treaty-investors/)
 - [Best Brokers for International Investors](/best-brokers/best-brokers-international-investors-2026/)
 - [How to Open a US Brokerage Account as a Non-Resident](/best-brokers/how-to-open-a-us-brokerage-account-as-a-non-resident-2026-guide/)
+- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
+- [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)

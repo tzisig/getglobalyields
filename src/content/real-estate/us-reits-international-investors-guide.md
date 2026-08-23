@@ -78,7 +78,7 @@ Many REITs pay monthly or quarterly distributions rather than the standard quart
 
 ---
 
-## Practical Checklist
+## Working Through US REITs for International Investors Step by Step
 
 - [ ] Understand that REIT dividends are generally taxed as ordinary, non-qualified income at your treaty (or 30% default) withholding rate, not the reduced qualified-dividend rate
 - [ ] Confirm your specific country's tax treaty doesn't carve out a different rate for REIT dividends specifically
@@ -89,13 +89,13 @@ Many REITs pay monthly or quarterly distributions rather than the standard quart
 
 ---
 
-## Bottom Line
+## What to Take Away From US REITs for International Investors
 
 REITs give international investors a straightforward way to add US real estate exposure through the same brokerage account already used for stocks, with genuine historical diversification benefits against a broader equity portfolio - but the tax treatment of REIT dividends differs meaningfully from ordinary qualified dividends, generally landing in the higher, non-qualified withholding category. Understanding that distinction, and confirming how it interacts with your specific country's tax treaty, matters more for REITs than it does for most other US equity holdings.
 
 ---
 
-*This article is for informational purposes only and does not constitute financial, tax, or legal advice. Tax treatment, treaty rates, and withholding rules vary by country and are subject to change - confirm current requirements with a qualified tax advisor before investing.*
+*What follows explains US REITs for International Investors without advising on it. Tax treatment, treaty rates, and withholding rules vary by country and are subject to change - confirm current requirements with a qualified tax advisor before investing.*
 
 ## Related Guides
 

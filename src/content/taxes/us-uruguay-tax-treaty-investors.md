@@ -20,17 +20,17 @@ readingTime: "9 min read"
 featured: false
 seo:
   metaTitle: "US-Uruguay Tax Treaty: The 2026 Capital Gains Change (2026)"
-  metaDescription: "There's no US-Uruguay tax treaty, so full 30% US dividend withholding applies. A 2026 reform newly brings foreign capital gains from US stocks into Uruguay's 12% IRPF."
+  metaDescription: "US-Uruguay: no tax treaty, so the full 30% dividend withholding applies. A 2026 reform newly brings foreign capital gains from US stocks into Uruguay's 12%."
   ogTitle: "US-Uruguay Tax Treaty: The 2026 Capital Gains Change (2026)"
-  ogDescription: "There's no US-Uruguay tax treaty, so full 30% US dividend withholding applies. A 2026 reform newly brings foreign capital gains from US stocks into Uruguay's 12% IRPF."
-  ogImage: "/images/blog/taxes/us-uruguay-tax-treaty.webp"
+  ogDescription: "US-Uruguay: no tax treaty, so the full 30% dividend withholding applies. A 2026 reform newly brings foreign capital gains from US stocks into Uruguay's 12%."
+  ogImage: "/images/blog/taxes/us-uruguay-tax-treaty-investors.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"
   headline: "US-Uruguay Tax Treaty: The 2026 Capital Gains Change (2026)"
-  description: "There's no US-Uruguay tax treaty, so full 30% US dividend withholding applies. A 2026 reform newly brings foreign capital gains from US stocks into Uruguay's 12% IRPF."
+  description: "US-Uruguay: no tax treaty, so the full 30% dividend withholding applies. A 2026 reform newly brings foreign capital gains from US stocks into Uruguay's 12%."
   author: "Tzion Sigron"
-  datePublished: "2026-09-02"
+  datePublished: "2026-11-04"
   dateModified: "2026-09-02"
   image: "/images/blog/taxes/us-uruguay-tax-treaty-investors.webp"
   mainEntityOfPage: "https://getglobalyields.com/taxes/us-uruguay-tax-treaty-investors"
@@ -47,11 +47,11 @@ There's also no US-Uruguay income tax treaty, so full 30% US withholding applies
 
 ---
 
-## No Treaty: Full 30% US Withholding
+## Why Uruguayan Investors Pay the Full 30%
 
-With no income tax treaty between the US and Uruguay, there's no treaty article to reduce the default rate. Every US dividend paid to a Uruguay-resident investor is withheld at the full **30% statutory rate**.
+Uruguay has no income tax treaty with the United States. The full **30% statutory withholding** applies to every US dividend, which makes the Uruguayan side of the calculation the only part you can actually influence.
 
-**Filing Form [W-8BEN](/taxes/w8ben-form-non-us-investors/) is still worth doing.** It won't bring the rate below 30%, but it certifies your non-US status to your broker and avoids the risk of default backup withholding treatment on an undocumented account.
+**Filing Form [W-8BEN](/taxes/w8ben-form-non-us-investors/) is still worth doing.** There is no lower rate here - only correct classification, which is still worth having.
 
 ---
 
@@ -85,21 +85,21 @@ Because there's no treaty, there's no built-in credit mechanism specifying exact
 
 ---
 
-## Broker Access
+## Broker Availability in Uruguay
 
-Both Interactive Brokers and eToro are confirmed to accept Uruguay-resident investors for account opening, with Interactive Brokers showing particularly fast-growing search interest from Uruguay.
+Both Interactive Brokers and eToro onboard Uruguay-resident investors for account opening, with Interactive Brokers showing particularly fast-growing search interest from Uruguay.
 
 ---
 
-## Practical Checklist
+## The Operational Side for Uruguay Investors
 
-**Uruguayan resident investing in US stocks:**
-- [ ] File Form W-8BEN with your broker anyway - it won't reduce the 30% rate, but avoids default backup withholding treatment on an undocumented account
+**The Uruguayan investor's short list:**
+- [ ] File W-8BEN even with nothing to claim - it establishes foreign status and avoids backup withholding on an undocumented account
 - [ ] Expect 30% US withholding on every dividend payment, with no treaty-based reduction available
 - [ ] Track capital gains from any US stock sale from 2026 onward - these are no longer outside Uruguay's tax net the way they were before this year
 - [ ] Confirm whether you qualify for the new-resident tax holiday and what the current threshold is, if you relocated to Uruguay relatively recently
 - [ ] Confirm with a Uruguayan tax advisor how the 12% IRPF and the 30% US withholding interact on the same dividend or gain, given there's no treaty specifying the mechanism
-- [ ] Confirm current account-opening requirements with Interactive Brokers or eToro before applying
+- [ ] Check the broker's Uruguay requirements on the day you apply - country policies get revised quietly
 
 ---
 
@@ -110,20 +110,20 @@ Both Interactive Brokers and eToro are confirmed to accept Uruguay-resident inve
 
 ---
 
-## Bottom Line
+## Where This Leaves You in Uruguay
 
-There's no US-Uruguay tax treaty, so the full 30% US withholding applies with no reduction available - W-8BEN still matters for documentation, not for a lower rate. What genuinely changed for 2026 is on the Uruguayan side: capital gains from selling US stocks, previously untouched by Uruguay's foreign-income tax, are now folded into the same 12% IRPF that has applied to foreign dividends and interest since 2011. Anyone still working from an older description of Uruguay as a country that doesn't tax foreign capital gains at all is working from outdated information as of this year.
+There's no US-Uruguay tax treaty, so the full 30% US withholding applies with no reduction available - file W-8BEN for documentation - it does not touch the rate. What genuinely changed for 2026 is on the Uruguayan side: capital gains from selling US stocks, previously untouched by Uruguay's foreign-income tax, are now folded into the same 12% IRPF that has applied to foreign dividends and interest since 2011. Anyone still working from an older description of Uruguay as a country that doesn't tax foreign capital gains at all is working from outdated information as of this year.
 
 ---
 
-*This article is informational only and does not constitute tax or legal advice. There is no US-Uruguay income tax treaty. Uruguay's foreign-income IRPF rules, including the 2026 capital gains expansion and the new-resident tax holiday, are set by Uruguayan law and can change - always consult a qualified Uruguayan tax advisor for advice specific to your situation.*
+*Background on investing from Uruguay - not a substitute for professional advice. There is no US-Uruguay income tax treaty. Uruguay's foreign-income IRPF rules, including the 2026 capital gains expansion and the new-resident tax holiday, are set by Uruguayan law and can change. Your own case belongs with a qualified Uruguayan tax adviser.*
 
 *Sources: EY - Uruguay Regulates Application of Personal Income Tax on Foreign-Source Investment Income and Capital Gains; Guyer & Regules - Tax Regime Applicable to Individuals Residing in Uruguay for Their Foreign Income; Rio Times - Uruguay Foreign-Income Tax July 1: 12% Rate Starts; Outbound Investment Group - Uruguay Raises Tax Holiday Threshold to US$2 Million and Introduces 12% Tax on Foreign Income; PwC Uruguay - Individual Income Determination (2026); Greenback Tax Services - US Taxes in Uruguay: The Tax Holiday, No Treaty, and Totalization Relief; IRS Publication 515 (2026).*
 
 ## Related Guides
 
-- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
-- [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)
 - [PFIC Rules for International Investors](/taxes/pfic-rules-international-investors/)
+- [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)
 - [US-Chile Tax Treaty for Investors](/taxes/us-chile-tax-treaty-investors/)
 - [US-Argentina Tax Treaty for Investors](/taxes/us-argentina-tax-treaty-investors/)
+- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)

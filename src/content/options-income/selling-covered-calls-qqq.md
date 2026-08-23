@@ -80,13 +80,13 @@ The Greeks behave the same way directionally as they do on any covered call - de
 
 ---
 
-## Bottom Line
+## The Net Position on Selling Covered Calls on QQQ for Lower-Volatility Income
 
 QQQ covered calls trade TQQQ's decay and leverage risk for a much smaller premium and a different problem: capping the upside on a fund most holders own specifically because they expect it to compound for years. The mechanics - Greeks, rolling, tax treatment - are identical to TQQQ's version of the strategy; the volatility, the premium size, and the reason someone would actually choose to run it are not. It fits an investor supplementing a long-term QQQ position with modest extra income more than it fits anyone chasing meaningful monthly cash flow, and the choice of QQQ over QQQM as the specific underlying is itself worth a deliberate decision once you're writing calls regularly rather than just holding.
 
 ---
 
-*This article is for informational purposes only and does not constitute financial, investment, or tax advice. Options trading involves significant risk and is not suitable for all investors. Implied volatility and premium figures change continuously - confirm current data with your broker before trading. The worked example uses illustrative approximations based on QQQ's IV as of late July 2026, not a live quote. Consult a qualified financial advisor and tax professional before implementing any options strategy.*
+*None of this is advice on Selling Covered Calls on QQQ for Lower-Volatility Income for your specific situation. Risk of substantial loss is inherent to options and not every investor should take it. Implied volatility and premium figures change continuously - confirm current data with your broker before trading. The worked example uses illustrative approximations based on QQQ's IV as of late July 2026, not a live quote. Licensed review first, trade second - in that order.*
 
 ## Related Guides
 

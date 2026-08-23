@@ -250,7 +250,7 @@ Non-US residents holding US-domiciled assets above approximately $60,000 are sub
 
 ---
 
-## Final Thoughts
+## How to Buy US Stocks (Shares) from the UK: The Takeaway
 
 UK investors are genuinely well-positioned to own US stocks. The ISA and SIPP wrappers eliminate UK tax on investments held within them, the US-UK treaty cuts withholding to 15% in an ISA and 0% in a SIPP, and the broker options are competitive and well-regulated.
 

@@ -249,7 +249,7 @@ That is what investing $100,000 well actually looks like.
 
 ---
 
-*This article is for informational purposes only and does not constitute personalized financial or tax advice. US contribution limits are sourced from IRS Notice 2025-67 and IRS Revenue Procedure 2025-19, current as of May 2026. Tax treatment for non-US investors varies significantly by jurisdiction. Consult a qualified financial advisor or tax professional for guidance specific to your situation.*
+*Written as an overview of 100k, not as financial guidance for your circumstances. US contribution limits are sourced from IRS Notice 2025-67 and IRS Revenue Procedure 2025-19, current as of May 2026. Tax treatment for non-US investors varies significantly by jurisdiction. Consult a qualified financial advisor or tax professional for guidance specific to your situation.*
 
 ---
 

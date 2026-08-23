@@ -159,11 +159,11 @@ Position sizing is the foundation. The other two work better on a correctly size
 
 TQQQ is a US-domiciled ETF and a US-situs asset for estate tax purposes. Non-US persons hold TQQQ subject to potential US estate tax on the full value above a $60,000 threshold, at rates up to 40%, unless a bilateral tax treaty provides higher protection.
 
-At 28.91% annualized - the worst 10-year rolling return in TQQQ's history (MyPlanIQ, May 2026) - a $50,000 position reaches approximately $676,000 after 10 years. There is no Irish UCITS equivalent for 3x leveraged Nasdaq ETFs - UCITS regulations cap leverage at 2x for retail-eligible products. Non-US investors holding TQQQ for the long term accept an estate tax exposure that has no clean structural solution. For investors from countries without a US estate tax treaty, this belongs in position sizing calculations from the start. For options strategies on TQQQ, see [Selling Covered Calls on TQQQ](/options-income/selling-covered-calls-tqqq/) and the [Wheel Strategy on TQQQ](/options-income/wheel-strategy-tqqq/). For the full recovery example, read our [Case Study](/case-study/from-minus-70-to-plus-492k-real-tqqq-recovery-case-study/).
+At 28.91% annualized - the worst 10-year rolling return in TQQQ's history (MyPlanIQ, May 2026) - a $50,000 position reaches approximately $634,000 after 10 years. There is no Irish UCITS equivalent for 3x leveraged Nasdaq ETFs - UCITS regulations cap leverage at 2x for retail-eligible products. Non-US investors holding TQQQ for the long term accept an estate tax exposure that has no clean structural solution. For investors from countries without a US estate tax treaty, this belongs in position sizing calculations from the start. For options strategies on TQQQ, see [Selling Covered Calls on TQQQ](/options-income/selling-covered-calls-tqqq/) and the [Wheel Strategy on TQQQ](/options-income/wheel-strategy-tqqq/). For the full recovery example, read our [Case Study](/case-study/from-minus-70-to-plus-492k-real-tqqq-recovery-case-study/).
 
 ---
 
-## The Bottom Line
+## What TQQQ Long-Term Strategy Comes Down To
 
 The $10.85 billion that left TQQQ in a year when it returned 131% is not evidence that the product is broken or that buy-and-hold is impossible. It is evidence that unstructured buy-and-hold - no allocation limits, no rebalancing, no exit rules - produces inconsistent outcomes that depend more on when you happened to enter than on whether your long-term thesis was correct.
 
@@ -182,5 +182,5 @@ For a deeper look at the underlying performance data and long-term return histor
 
 ---
 
-*This article is for informational purposes only and does not constitute investment advice. Leveraged ETFs are complex instruments with significant risk of capital loss. All figures reflect publicly available data as of May 2026. TQQQ 2025 price data: StockScan historical prices. Nasdaq 100 PE percentile: GuruFocus, May 27, 2026. TQQQ AUM and fund flow data: ETFdb and TradingView. 225-day MA backtest (1,061% vs 628%, max drawdown 28.6% vs 83%): Les Masonson backtest as reviewed by FinancialWisdomTV, January 2026. Behavioral finance references: Kahneman & Tversky, "Prospect Theory: An Analysis of Decision under Risk," Econometrica, 1979. Past performance is not a guarantee of future results. Consult a qualified financial adviser before making investment decisions.*
+*Educational content about TQQQ Long-Term Strategy; it carries no advice for your case. Leveraged ETFs are complex instruments with significant risk of capital loss. All figures reflect publicly available data as of May 2026. TQQQ 2025 price data: StockScan historical prices. Nasdaq 100 PE percentile: GuruFocus, May 27, 2026. TQQQ AUM and fund flow data: ETFdb and TradingView. 225-day MA backtest (1,061% vs 628%, max drawdown 28.6% vs 83%): Les Masonson backtest as reviewed by FinancialWisdomTV, January 2026. Behavioral finance references: Kahneman & Tversky, "Prospect Theory: An Analysis of Decision under Risk," Econometrica, 1979. Past performance is not a guarantee of future results. A qualified adviser should review this against your circumstances.*
 

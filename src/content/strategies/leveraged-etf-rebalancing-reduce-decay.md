@@ -235,7 +235,7 @@ The fourth is account selection. For any rebalancing-intensive strategy, a tax-d
 
 ---
 
-## The Bottom Line
+## Summing Up Volatility Decay in Leveraged ETFs
 
 Volatility decay is real, mathematically precise, and manageable - but only if you understand what is actually causing it. It is not a hidden fee or a product defect. It is the cost of daily leverage in a world where markets do not move in straight lines.
 
@@ -247,7 +247,7 @@ TQQQ's 10-year CAGR of 44% is real. So is the -79% it delivered in 2022. The inv
 
 ---
 
-*This article is for informational purposes only and does not constitute investment advice. Leveraged ETFs are complex instruments and carry significant risk of capital loss. All figures and market data reflect publicly available information as of May 2026. Past performance is not a guarantee of future results. Consult a qualified financial adviser before making investment decisions.*
+*This explains Volatility Decay in Leveraged ETFs; it does not advise you on what to do about it. Leveraged ETFs are complex instruments and carry significant risk of capital loss. All figures and market data reflect publicly available information as of May 2026. Past performance is not a guarantee of future results. Get advice specific to your position before deciding.*
 
 ---
 

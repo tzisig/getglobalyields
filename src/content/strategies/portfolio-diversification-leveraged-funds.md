@@ -139,3 +139,6 @@ Consider 2x leveraged ETFs if available, or use [options strategies](/options-in
 
 Reliable backtesting data, including CAGR and Max Drawdown spanning specific timeframes (like 2020 to present), can be sourced from <a href="https://www.portfoliovisualizer.com/" target="_blank" rel="noopener noreferrer">Portfolio Visualizer Backtesting Tool</a> or by analyzing historical data feeds from <a href="https://finance.yahoo.com/" target="_blank" rel="noopener noreferrer">Yahoo Finance Portfolio Data</a> or the ETF issuer's official website.
 
+---
+
+*This article explains Portfolio Diversification with Leveraged ETFs in general terms. General coverage cannot account for your own tax position or timing.*

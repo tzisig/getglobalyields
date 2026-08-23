@@ -46,7 +46,7 @@ Our [needs-analysis guide](/insurance-planning/how-much-life-insurance-do-you-ne
 
 ---
 
-## What It Actually Costs
+## What Expat Life Insurance Costs in Practice
 
 **International/offshore policies commonly run 25-75% more expensive than a comparable domestic policy** - broker-sourced figures, not independently audited actuarial data, but consistent across multiple sources reviewed - reflecting broader underwriting standards, genuine cross-border mortality risk, multi-jurisdiction claims exposure, and simply thinner competition among the small number of insurers actually writing this business. One broker's own ranking of Isle of Man term products from cheapest to most expensive placed FPI Protector below Zurich International's term product, below RL360's LifePlan, below Zurich Futura specifically - treat this ordering as one broker's opinion rather than an independently verified ranking, since pricing on any specific policy depends heavily on your individual age, health, and coverage amount.
 
@@ -80,7 +80,7 @@ Both exist, but the products and sample pricing referenced throughout this artic
 
 ---
 
-## Practical Checklist
+## A Working List for Expat Life Insurance
 
 - [ ] Start with the Isle of Man-domiciled insurers (RL360, FPI, Zurich International Life, Canada Life International, Utmost) and a specialist broker like Expat Financial, rather than assuming your home-country or US insurer will cover you abroad
 - [ ] Confirm directly whether your specific country of residence is on any insurer's or broker's excluded list before spending time on a full quote
@@ -91,13 +91,13 @@ Both exist, but the products and sample pricing referenced throughout this artic
 
 ---
 
-## Bottom Line
+## Reading Expat Life Insurance Overall
 
 Expat life insurance is a genuinely real, purchasable product - but it's written by a small cluster of specialist insurers most people have never heard of, at a real 25-75% premium over a comparable domestic policy, with meaningfully different consumer-protection guarantees than a purely domestic product carries. The coverage and underwriting side is generally the easier part; the part worth preparing for while you're still healthy is the claims process itself, since certified translation requirements and country-of-residence disclosure are the practical details that actually delay or complicate a claim, far more often than any dramatic underwriting dispute.
 
 ---
 
-*This article is for informational purposes only and does not constitute insurance or financial advice. Insurer availability, coverage limits, premiums, and country restrictions referenced here are current as of the article's publication date and are subject to change - confirm current terms directly with a specific insurer or licensed broker before purchasing any policy.*
+*A general account of Expat Life Insurance, not advice tailored to anyone in particular. Insurer availability, coverage limits, premiums, and country restrictions referenced here are current as of the article's publication date and are subject to change - confirm current terms directly with a specific insurer or licensed broker before purchasing any policy.*
 
 ## Related Guides
 

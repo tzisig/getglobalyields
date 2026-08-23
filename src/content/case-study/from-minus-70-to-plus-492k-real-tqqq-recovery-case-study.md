@@ -5,7 +5,6 @@ description: "Real TQQQ case study: -72% drawdown to +250% recovery. Full breakd
 pubDate: 2026-04-17
 author: "Tzion Sigron"
 categories: ["case-study"]
-keywords: "TQQQ Recovery Case Study, TQQQ Wheel Strategy Real Results, TQQQ Drawdown Recovery, TQQQ Covered Calls Strategy, Leveraged ETF Recovery, Options Income TQQQ, Investing In TQQQ From Abroad, case-study, From -72 to 250 Real TQQQ Recovery Case Study, 72% to +250%, Real TQQQ Recovery Case Study, TQQQ"
 tags:
   - "TQQQ recovery case study"
   - "TQQQ wheel strategy real results"
@@ -15,8 +14,8 @@ tags:
   - "options income TQQQ"
   - "investing in TQQQ from abroad"
 heroImage: "/images/blog/case-study/tqqq_recovery_light.webp"
-heroImageWidth: 840
-heroImageHeight: 560
+heroImageWidth: 1200
+heroImageHeight: 675
 heroImageLight: "/images/blog/case-study/tqqq_recovery_light.webp"
 heroImageDark: "/images/blog/case-study/tqqq_recovery_dark.webp"
 products: ["TQQQ", "Options"]
@@ -38,7 +37,7 @@ products: ["TQQQ", "Options"]
 > 
 > *This is not a success story. It's a reconstruction after a near wipeout.*
 
-<div id="prt-outer" style="background:#0a192f;border-radius:16px;padding:24px 24px 16px;border:1px solid #1e3a5f;font-family:system-ui,-apple-system,sans-serif;position:relative;">
+<div id="prt-outer" style="background:#0a192f;border-radius:16px;padding:24px 16px;border:1px solid #1e3a5f;font-family:system-ui,-apple-system,sans-serif;position:relative;">
   <div style="margin-bottom:16px;">
     <div style="color:#e2e8f0;font-size:18px;font-weight:600;letter-spacing:-0.3px;">Portfolio Recovery Timeline</div>
     <div style="color:#64748b;font-size:13px;margin-top:2px;">From 01/01/2022 to today</div>
@@ -57,7 +56,7 @@ products: ["TQQQ", "Options"]
     </svg>
     <div id="prt-bubbles" style="position:absolute;top:0;left:0;width:100%;height:100%;pointer-events:none;overflow:visible;"></div>
     <div id="prt-loading" style="position:absolute;inset:0;display:flex;align-items:center;justify-content:center;background:rgba(10,25,47,0.92);color:#64ffda;border-radius:8px;font-size:14px;gap:10px;">
-      <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+      <svg width="20" height="20" viewBox="0 24 24" fill="none" stroke="currentColor" stroke-width="2">
         <path d="M12 2v4M12 18v4M4.93 4.93l2.83 2.83M16.24 16.24l2.83 2.83M2 12h4M18 12h4M4.93 19.07l2.83-2.83M16.24 7.76l2.83-2.83"/>
       </svg>
       Loading chart data…
@@ -416,11 +415,10 @@ Current portfolio value: $492,000
 ### The Three Scenarios - January 2027
 
 **Scenario 1: TQQQ above $62.5 → Portfolio ~$620,000**
-*   Shares called away at $62.5
-*   Options expire worthless → $114,150 liability disappears
-*   Gain from price move: 6,000 × $3.91 = $23,460
-*   Immediately sell 120 new Calls + 120 new Puts @ ~$10
-*   New premium locked in: $240,000
+*   The 60 covered calls are assigned - 6,000 shares sold at $62.50
+*   The 60 short puts (strike $50) expire worthless, and that premium is kept
+*   Gain from the price move: 6,000 × $3.91 = $23,460
+*   The position converts to cash. **Note what this does not allow:** with no shares left, writing new calls would be writing them naked, which is a different risk profile entirely and not what this strategy does. The realistic next step is redeploying the cash - either buying back in, or selling cash-secured puts against it to re-enter at a lower basis.
 
 **Scenario 2: TQQQ stays flat (~$58.59) → Portfolio ~$597,000**
 *   Both options expire worthless
@@ -428,7 +426,7 @@ Current portfolio value: $492,000
 *   Portfolio value: ~$597,000
 
 **Scenario 3: TQQQ below $50 → Strategy continues**
-*   Puts assigned → receive 6,000 more shares at effective cost ~$30
+*   Puts assigned → receive 6,000 more shares at the $50 strike, less the $10.10 premium already collected = **effective cost ~$39.90/share**
 *   Now holding 12,000 shares total
 *   Sell 120 new Puts @ ~$10 → $120,000 additional premium
 *   Wait for recovery to $50 → Portfolio: ~$720,000+

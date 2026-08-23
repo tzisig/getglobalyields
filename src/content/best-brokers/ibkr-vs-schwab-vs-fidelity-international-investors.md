@@ -16,6 +16,12 @@ heroImageHeight: 560
 draft: true
 readingTime: "11 min read"
 featured: false
+seo:
+  metaTitle: "IBKR vs Schwab vs Fidelity for International Investors"
+  metaDescription: "IBKR, Schwab, and Fidelity aren't equally accessible internationally - Fidelity is far more restrictive than its reputation suggests. Who each broker serves."
+  ogTitle: "IBKR vs Schwab vs Fidelity for International Investors"
+  ogDescription: "IBKR, Schwab, and Fidelity aren't equally accessible internationally - Fidelity is far more restrictive than its reputation suggests. Who each broker serves."
+  twitterCard: "summary_large_image"
 ---
 
 Interactive Brokers, Charles Schwab, and Fidelity are the three names that come up most often when researching US brokers - they are the giants of the US retail brokerage industry. Naturally, international investors researching where to open a US-facing account run into all three. The honest answer: they are not equally accessible, and Fidelity in particular is far more closed to genuine non-US residents than its size and reputation would suggest, which is exactly the kind of mismatch this site exists to correct.
@@ -61,7 +67,7 @@ This is the comparison most guides get wrong. Fidelity's main US operation **doe
 
 ---
 
-## Practical Guidance
+## The Practical Side of IBKR vs Charles Schwab International vs Fidelity
 
 **If you are a foreign national with no US citizenship or residency history:** Interactive Brokers is almost always the right starting point among these three. Schwab is worth checking only if your specific country is on its non-expat international eligibility list. Fidelity is very unlikely to be an option at all - confirm this before spending time on an application, since the account-opening process itself can take meaningful time and effort you'd rather not spend on an application likely to be rejected outright.
 
@@ -85,7 +91,7 @@ A green card holder is generally treated similarly to a US citizen for US tax pu
 
 ---
 
-## Practical Checklist
+## Turning IBKR vs Charles Schwab International vs Fidelity Into Actions
 
 - [ ] If you're a foreign national with no US citizenship, confirm your specific country's eligibility with IBKR first, as the most broadly accessible of the three
 - [ ] Don't assume Fidelity is accessible simply because it's a major, well-known US broker - confirm against Fidelity International's specific, narrower eligibility list before applying
@@ -95,13 +101,13 @@ A green card holder is generally treated similarly to a US citizen for US tax pu
 
 ---
 
-## Bottom Line
+## IBKR vs Charles Schwab International vs Fidelity, in Short
 
 These three brokers get grouped together constantly in general "best US broker" content, but they serve meaningfully different audiences. For the typical international investor this site is written for - a non-US citizen with no prior US tax presence - Interactive Brokers is the broker actually built for that situation, Schwab is a secondary option worth checking against your specific country (and the natural choice for a US expat abroad), and Fidelity is, for most readers, simply not accessible.
 
 ---
 
-*This article is informational only and does not constitute financial advice. Broker country eligibility and account policies change - confirm current details directly with each broker before applying.*
+*Treat this as background on IBKR vs Charles Schwab International vs Fidelity, not as advice for your own position. Broker country eligibility and account policies change - confirm current details directly with each broker before applying.*
 
 ## Related Guides
 

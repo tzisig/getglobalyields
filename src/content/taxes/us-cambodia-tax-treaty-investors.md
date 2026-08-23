@@ -20,17 +20,17 @@ readingTime: "9 min read"
 featured: false
 seo:
   metaTitle: "US-Cambodia Tax Treaty: A Capital Gains Tax on Hold (2026)"
-  metaDescription: "There's no US-Cambodia tax treaty, so full 30% US dividend withholding applies. Cambodia's 20% capital gains tax technically covers foreign assets but has been repeatedly postponed."
+  metaDescription: "With no US-Cambodia tax treaty, US dividends face the full 30% withholding. Cambodia's 20% capital gains tax technically covers foreign assets but has been."
   ogTitle: "US-Cambodia Tax Treaty: A Capital Gains Tax on Hold (2026)"
-  ogDescription: "There's no US-Cambodia tax treaty, so full 30% US dividend withholding applies. Cambodia's 20% capital gains tax technically covers foreign assets but has been repeatedly postponed."
-  ogImage: "/images/blog/taxes/us-cambodia-tax-treaty.webp"
+  ogDescription: "With no US-Cambodia tax treaty, US dividends face the full 30% withholding. Cambodia's 20% capital gains tax technically covers foreign assets but has been."
+  ogImage: "/images/blog/taxes/us-cambodia-tax-treaty-investors.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"
   headline: "US-Cambodia Tax Treaty: A Capital Gains Tax on Hold (2026)"
-  description: "There's no US-Cambodia tax treaty, so full 30% US dividend withholding applies. Cambodia's 20% capital gains tax technically covers foreign assets but has been repeatedly postponed."
+  description: "With no US-Cambodia tax treaty, US dividends face the full 30% withholding. Cambodia's 20% capital gains tax technically covers foreign assets but has been."
   author: "Tzion Sigron"
-  datePublished: "2026-08-31"
+  datePublished: "2026-11-01"
   dateModified: "2026-08-31"
   image: "/images/blog/taxes/us-cambodia-tax-treaty-investors.webp"
   mainEntityOfPage: "https://getglobalyields.com/taxes/us-cambodia-tax-treaty-investors"
@@ -43,15 +43,15 @@ schema:
 
 There's no US-Cambodia income tax treaty - the two countries signed a reciprocal trade agreement in October 2025 and have a FATCA information-sharing arrangement, but neither is a tax treaty - so the full **30% US statutory withholding** applies to every US dividend paid to a Cambodia-resident investor. Cambodia's law technically imposes a flat **20% capital gains tax** on residents' gains from capital located both inside and outside the country, explicitly reaching a US stock sale - but the tax's actual implementation has been **postponed repeatedly**, most recently pushed further back in January 2026. Separately, Cambodia's well-known heavy US dollar usage is itself in a genuine state of change, as the government actively promotes riel use for the first time in years.
 
-This guide covers all three pieces.
+Each of those is worked through below.
 
 ---
 
-## No Treaty: Full 30% US Withholding
+## The Missing Treaty and What It Costs Cambodian Investors
 
-With no income tax treaty between the US and Cambodia, there's no treaty article to reduce the default rate. Every US dividend paid to a Cambodia-resident investor is withheld at the full **30% statutory rate**.
+The US and Cambodia have never concluded an income tax treaty, so there is no article to invoke and nothing to claim. A US dividend reaching a Cambodian resident arrives already reduced by the full **30% statutory rate**.
 
-**Filing Form [W-8BEN](/taxes/w8ben-form-non-us-investors/) is still worth doing.** It won't bring the rate below 30%, but it certifies your non-US status to your broker and avoids the risk of default backup withholding treatment on an undocumented account.
+**Filing Form [W-8BEN](/taxes/w8ben-form-non-us-investors/) is still worth doing.** The rate is unchanged; the form secures classification and freedom from backup withholding.
 
 ---
 
@@ -84,21 +84,21 @@ Cambodia has long been one of the most heavily dollarized economies outside a fo
 
 ---
 
-## Broker Access
+## The Broker Question for Cambodia
 
-Interactive Brokers is confirmed to accept Cambodia-resident investors for account opening, alongside eToro.
+Cambodia is supported for account opening at Interactive Brokers and eToro.
 
 ---
 
-## Practical Checklist
+## What This Looks Like in Practice for Cambodian Residents
 
-**Cambodian resident investing in US stocks:**
-- [ ] File Form W-8BEN with your broker anyway - it won't reduce the 30% rate, but avoids default backup withholding treatment on an undocumented account
+**Your running list as a Cambodian resident:**
+- [ ] File W-8BEN even though it buys you nothing on rate - an undocumented account risks backup withholding, which reaches sale proceeds and not just dividends
 - [ ] Expect 30% US withholding on every dividend payment, with no treaty-based reduction available
 - [ ] Confirm the current implementation status of Cambodia's 20% capital gains tax before selling a significant US stock position - it has been postponed multiple times but could take effect
 - [ ] Confirm with a Cambodian tax advisor exactly how your US dividend income is classified under the territorial system, rather than assuming a blanket exemption
 - [ ] Don't assume USD banking access will remain exactly as frictionless as in past years, given the government's active de-dollarization push
-- [ ] Confirm current account-opening requirements with Interactive Brokers or eToro before applying
+- [ ] Verify Cambodia is still on the broker's accepted-country list on the day you apply, not the day you researched
 
 ---
 
@@ -109,13 +109,13 @@ Interactive Brokers is confirmed to accept Cambodia-resident investors for accou
 
 ---
 
-## Bottom Line
+## What Cambodia Investors Are Actually Left With
 
-There's no US-Cambodia tax treaty, so the full 30% US withholding applies with no reduction available - W-8BEN still matters for documentation, not for a lower rate. Cambodia's own 20% capital gains tax technically reaches a US stock sale, but its implementation has been delayed enough times that "check the current status before you sell" is the only responsible advice right now. And the heavily dollarized banking environment that's made Cambodia relatively easy for USD-based investing is itself in a genuine state of transition as the government pushes riel adoption.
+There's no US-Cambodia tax treaty, so the full 30% US withholding applies with no reduction available - the W-8BEN you file is a status document, not a rate claim. Cambodia's own 20% capital gains tax technically reaches a US stock sale, but its implementation has been delayed enough times that "check the current status before you sell" is the only responsible advice right now. And the heavily dollarized banking environment that's made Cambodia relatively easy for USD-based investing is itself in a genuine state of transition as the government pushes riel adoption.
 
 ---
 
-*This article is informational only and does not constitute tax or legal advice. There is no US-Cambodia income tax treaty. Cambodia's capital gains tax implementation timeline and de-dollarization policies are actively changing - always confirm current status directly with the General Department of Taxation or a qualified Cambodian tax advisor before relying on anything in this guide.*
+*Treat this as a map of investing from Cambodia, not as professional guidance. There is no US-Cambodia income tax treaty. Cambodia's capital gains tax implementation timeline and de-dollarization policies are actively changing - always confirm current status directly with the General Department of Taxation or a qualified Cambodian tax advisor before relying on anything in this guide.*
 
 *Sources: Emerhub - Capital Gains Tax in Cambodia: What Foreign Investors Must Know; PwC Cambodia - Corporate Significant Developments and Individual Foreign Tax Relief and Tax Treaties (2026); iLawAsia - Capital Gains Tax Under Cambodian Law; Cambodianess - Cambodia's Dual Currency System and De-Dollarization Back on the Agenda; Khmer Times - Strengthening Riel for a Resilient Economy; IRS Publication 515 (2026).*
 

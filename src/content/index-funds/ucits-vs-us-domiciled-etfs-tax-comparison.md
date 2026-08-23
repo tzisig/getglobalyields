@@ -1,7 +1,7 @@
 ---
 slug: ucits-vs-us-domiciled-etfs-tax-comparison
 title: "UCITS vs US-Domiciled ETFs: The Complete Tax Comparison"
-description: "Irish-domiciled UCITS ETFs and US-domiciled ETFs tracking the identical index deliver genuinely different after-tax outcomes for international investors - in dividend withholding, estate tax exposure, cost, and access. The full comparison, with worked numbers, in one place."
+description: "Irish UCITS and US-domiciled ETFs tracking the same index give different after-tax outcomes: withholding, estate tax, cost and access. Compared with numbers."
 pubDate: 2026-10-14
 updatedDate: 2026-08-06
 author: "Tzion Sigron"
@@ -93,7 +93,7 @@ The general principle - that non-US-domiciled funds are generally not treated as
 
 ---
 
-## Practical Checklist
+## UCITS vs US-Domiciled ETFs: What to Sort Out First
 
 - [ ] If you're in the EU or UK, UCITS access is not optional - confirm which specific UCITS funds are available on your broker
 - [ ] If outside the EU/UK, compare your country's actual treaty rate against the UCITS fund's embedded 15% rate before assuming either option is automatically better
@@ -103,13 +103,13 @@ The general principle - that non-US-domiciled funds are generally not treated as
 
 ---
 
-## Bottom Line
+## What to Take Away From UCITS vs US-Domiciled ETFs
 
 The choice between UCITS and US-domiciled ETFs tracking the identical index is a genuine, multi-dimensional trade-off - access (forced for EU/UK investors, optional elsewhere), dividend withholding (favors UCITS specifically for investors from high-withholding or no-treaty countries), estate tax situs (favors UCITS broadly), and share class structure - weighed against UCITS funds' modestly higher ongoing cost and somewhat thinner liquidity. For investors outside the EU/UK with a treaty rate already at or below 15%, the case for UCITS narrows to the estate tax consideration alone; for investors with a worse treaty rate, the case is genuinely stronger on both major dimensions.
 
 ---
 
-*This article is for informational purposes only and does not constitute financial or tax advice. Withholding rates, expense ratios, and estate tax situs rules can change. Consult a qualified cross-border tax advisor for advice specific to your situation.*
+*General material on UCITS vs US-Domiciled ETFs - it does not account for your circumstances. Withholding rates, expense ratios, and estate tax situs rules can change. Consult a qualified cross-border tax advisor for advice specific to your situation.*
 
 ## Related Guides
 

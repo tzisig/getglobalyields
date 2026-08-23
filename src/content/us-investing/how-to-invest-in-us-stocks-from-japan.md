@@ -1,7 +1,7 @@
 ---
 slug: how-to-invest-in-us-stocks-from-japan
 title: "How to Invest in US Stocks from Japan (2026 Guide)"
-description: "How to invest in US stocks from Japan: broker options, W-8BEN, the best treaty dividend rate (10%), and NISA's real limits for ETF holders - for 2026."
+description: "How to Invest in US Stocks from Japan: broker options, W-8BEN, the best treaty dividend rate (10%), and NISA's real limits for ETF holders - for 2026."
 pubDate: 2026-09-08
 updatedDate: 2026-08-05
 author: "Tzion Sigron"
@@ -41,9 +41,9 @@ Yuki is 32, lives in Tokyo, and works in product management. She has ¥3,000,000
 
 ---
 
-## Step 1: What You Can Actually Buy
+## Step 1: The Funds Available to You in Japan
 
-Japan is not in the EU or EEA, so the PRIIPs restriction that blocks European residents from buying US-domiciled ETFs does not apply here. **Yuki can buy VOO, VTI, and QQQ directly** in a standard taxable brokerage account.
+Japan is neither EU nor EEA, so the disclosure rule that shuts European buyers out of US-domiciled ETFs is not in force here. **Yuki can buy VOO, VTI, and QQQ directly** in a standard taxable brokerage account.
 
 ---
 
@@ -57,7 +57,7 @@ The US-Japan tax treaty (2003, substantially amended by a Protocol in force sinc
 | Interest | 30% | **0%** |
 | Capital gains (securities) | Generally not US-taxable for non-residents | Residence country only |
 
-Without W-8BEN on file, the full 30% applies from the first dividend. The 0% interest rate is a genuinely strong feature for anyone holding US Treasury or corporate bonds alongside equities.
+Without it lodged, each dividend arrives 30% lighter than it needs to. The 0% interest rate is a genuinely strong feature for anyone holding US Treasury or corporate bonds alongside equities.
 
 For the full treaty mechanics, see our [US-Japan tax treaty guide](/taxes/us-japan-tax-treaty-investors/).
 
@@ -95,7 +95,7 @@ Because Japan's domestic rate already exceeds the treaty withholding rate, the f
 
 ---
 
-## Step 5: Choose Your Broker
+## Step 5: Which Broker Works From Japan
 
 **Interactive Brokers Securities Japan** is a strong option, offering both a standard taxable account with direct access to VOO, VTI, and QQQ, and an English-language NISA option for the specific funds it supports. [See our full IBKR review →](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/)
 
@@ -128,19 +128,19 @@ She checks each specific ETF's NISA eligibility with her broker before buying, r
 
 ---
 
-## Common Mistakes to Avoid
+## Japan: Avoidable Mistakes
 
 **Assuming any US ETF can go into NISA.** Each fund needs broker-level regulatory approval - confirm before buying, not after.
 
 **Overlooking the 0% treaty rate on interest.** A genuinely strong feature for bond holdings, easy to miss if focused only on the dividend rate.
 
-**Forgetting W-8BEN on the taxable account.** Without it, 30% withholding applies instead of the treaty's 10%.
+**Forgetting W-8BEN on the taxable account.** The rate falls once the form lands, and not a payment before.
 
 **If you're a US citizen or Green Card holder:** NISA's Japan-side tax exemption does not apply for US tax purposes - dividends and gains inside NISA remain fully taxable on your US return, the same as a regular account.
 
 ---
 
-## What to Do This Week
+## Starting Out From Japan
 
 1. **Open a broker account.** Interactive Brokers Securities Japan for both NISA and taxable access with an English-language interface.
 2. **Confirm which specific US ETFs are NISA-eligible** with your broker before assuming general availability.
@@ -149,7 +149,7 @@ She checks each specific ETF's NISA eligibility with her broker before buying, r
 
 ---
 
-*This article is for informational purposes only and does not constitute personalized tax or financial advice. Treaty rates are based on the US-Japan Income Tax Convention (2003) and the Protocol in force since August 30, 2019. NISA rules reflect the structure in force since the 2024 overhaul. US citizens and Green Card holders remain subject to US tax on worldwide income, including inside NISA. Consult a qualified cross-border tax professional for advice specific to your situation.*
+*This piece covers Japan in general terms and is not financial advice. Treaty rates are based on the US-Japan Income Tax Convention (2003) and the Protocol in force since August 30, 2019. NISA rules reflect the structure in force since the 2024 overhaul. US citizens and Green Card holders remain subject to US tax on worldwide income, including inside NISA. Consult a qualified cross-border tax professional for advice specific to your situation.*
 
 ---
 
@@ -177,3 +177,7 @@ No. The US does not recognize NISA as tax-advantaged - dividends and gains insid
 
 **What's the tax rate outside NISA?**
 A flat 20.315% on dividends and capital gains, with a credit available for the 10% US withholding already paid on dividends.
+
+---
+
+*Sources: US-Japan Income Tax Convention (2003), Protocol (in force August 30, 2019); IRS treaty text; PwC Japan Tax Summaries (2026); IRS Publication 515 (2026).*

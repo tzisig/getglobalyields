@@ -112,6 +112,24 @@ The key difference: QQQ generates fewer taxable events since it's typically held
 
 TQQQ's lower dividend yield does mean less withholding impact - but that's offset by the added complexity of higher turnover.
 
+## **The Fee and Withholding Gap, Costed**
+
+The two funds are usually compared on volatility alone, but they also differ on two recurring costs that compound quietly over a decade.
+
+**Expense ratio.** QQQ charges **0.20%**; TQQQ charges **0.82%** - roughly four times as much. On a $50,000 position that is $100 a year against $410, and the gap widens as the position grows. Over ten years, before any market movement, TQQQ's fee alone consumes several thousand dollars more.
+
+**Dividend withholding.** QQQ distributes more than TQQQ, so a non-US investor meets the withholding more often holding QQQ. On a portfolio throwing off $500 of QQQ dividends a year at the 30% default, that is $150 withheld annually - reduced to $75 in a 15% treaty country with W-8BEN filed.
+
+| | QQQ | TQQQ |
+|---|---|---|
+| Expense ratio | 0.20% | 0.82% |
+| Annual fee on $50,000 | $100 | $410 |
+| Dividend exposure | Higher - more withholding events | Lower - little to withhold |
+
+**The two costs pull in opposite directions**, which is why neither fund is cleanly "cheaper" for an international investor. QQQ costs less to hold and more to receive income from; TQQQ costs far more to hold and distributes little. For a long-horizon investor the expense ratio dominates, because it is charged on the whole position every year regardless of what the market does - while withholding only ever touches the distribution.
+
+---
+
 ## **When QQQ Makes Sense**
 
 Choose QQQ if:
@@ -172,3 +190,6 @@ QQQ and TQQQ track the same index, but behave very differently: QQQ delivers lon
 
 **The biggest mistake isn't choosing the wrong ETF. It's using the right one at the wrong time.**
 
+---
+
+*This is an overview of TQQQ vs QQQ, not advice. The figures move, and no guide substitutes for advice on your own holdings.*

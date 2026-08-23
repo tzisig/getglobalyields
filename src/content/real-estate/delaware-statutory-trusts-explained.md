@@ -72,7 +72,7 @@ A limited number of DST sponsors extend a portion of an offering to non-accredit
 
 ---
 
-## Practical Checklist
+## What Needs Doing on Delaware Statutory Trusts (DSTs) for 1031 Exchanges
 
 - [ ] Confirm you meet accredited-investor status before evaluating specific DST offerings, since most require it
 - [ ] Ask each sponsor directly about total fee load - selling commissions, offering costs, acquisition fees, and ongoing management fees - rather than relying on marketing summaries
@@ -82,13 +82,13 @@ A limited number of DST sponsors extend a portion of an offering to non-accredit
 
 ---
 
-## Bottom Line
+## The Short Version of Delaware Statutory Trusts (DSTs) for 1031 Exchanges
 
 A DST genuinely solves the "I want out of active property management but still need valid 1031 replacement property" problem, at real minimums most investors can meet and with real diversification benefits a single directly-owned property can't offer. But it comes with a meaningful fee load, an accredited-investor bar, illiquidity most buyers underestimate going in, and - for a non-US investor specifically - a genuine, deal-by-deal eligibility question that no general guide, this one included, can answer for you in advance. Confirm directly with the sponsor before treating a DST as your exchange's fallback plan.
 
 ---
 
-*This article is for informational purposes only and does not constitute investment, tax, or legal advice. DST availability, accreditation requirements, fee structures, and eligibility for non-US investors vary by sponsor and offering and are subject to change - confirm current terms directly with a specific DST sponsor and qualified securities counsel before investing.*
+*This piece covers Delaware Statutory Trusts (DSTs) for 1031 Exchanges in general terms and is not financial advice. DST availability, accreditation requirements, fee structures, and eligibility for non-US investors vary by sponsor and offering and are subject to change - confirm current terms directly with a specific DST sponsor and qualified securities counsel before investing.*
 
 ## Related Guides
 

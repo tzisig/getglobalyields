@@ -18,19 +18,19 @@ readingTime: "8 min read"
 featured: false
 seo:
   metaTitle: "Municipal Bonds and Foreign Investors: Tax Treatment (2026)"
-  metaDescription: "US municipal bond interest is tax-exempt for Americans - and most of that exemption extends to non-US investors too. What's exempt, what needs the portfolio interest exception, and what your home country still taxes."
+  metaDescription: "US municipal bond interest is tax-exempt for Americans - and most of that exemption extends to non-US investors too. What's exempt, what needs the portfolio."
   ogTitle: "Municipal Bonds and Foreign Investors: Tax Treatment (2026)"
-  ogDescription: "US municipal bond interest is tax-exempt for Americans - and most of that exemption extends to non-US investors too. What's exempt, what needs the portfolio interest exception, and what your home country still taxes."
-  ogImage: "/images/blog/taxes/municipal-bonds-foreign-investors.webp"
+  ogDescription: "US municipal bond interest is tax-exempt for Americans - and most of that exemption extends to non-US investors too. What's exempt, what needs the portfolio."
+  ogImage: "/images/blog/taxes/municipal-bonds-foreign-investors-tax-treatment.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"
   headline: "Municipal Bonds and Foreign Investors: Tax Treatment (2026)"
-  description: "US municipal bond interest is tax-exempt for Americans - and most of that exemption extends to non-US investors too. What's exempt, what needs the portfolio interest exception, and what your home country still taxes."
+  description: "US municipal bond interest is tax-exempt for Americans - and most of that exemption extends to non-US investors too. What's exempt, what needs the portfolio."
   author: "Tzion Sigron"
-  datePublished: "2026-08-05"
+  datePublished: "2026-09-20"
   dateModified: "2026-08-05"
-  image: "/images/blog/taxes/municipal-bonds-foreign-investors.webp"
+  image: "/images/blog/taxes/municipal-bonds-foreign-investors-tax-treatment.webp"
   mainEntityOfPage: "https://getglobalyields.com/taxes/municipal-bonds-foreign-investors-tax-treatment"
 ---
 
@@ -102,7 +102,7 @@ The US-side tax exemption discussed in this guide is generally tied to the bond'
 
 ---
 
-## Practical Checklist
+## Putting Municipal Bonds Into Practice
 
 - [ ] Confirm whether a specific municipal bond is tax-exempt (Section 103) or taxable before assuming either treatment
 - [ ] File Form W-8BEN with your broker regardless - it is what secures the portfolio interest exception for taxable municipal bonds, and it is good practice to have on file in any case
@@ -112,15 +112,16 @@ The US-side tax exemption discussed in this guide is generally tied to the bond'
 
 ---
 
-## Bottom Line
+## Where Municipal Bonds Leaves You
 
 Municipal bonds are one of the few areas of US investing where the tax treatment for a non-US investor is genuinely as favorable as it is for an American one - not through a treaty negotiation, but because the interest is either excluded from taxable income entirely (tax-exempt munis) or covered by the portfolio interest exception (taxable munis), with W-8BEN as the only documentation required either way. The one thing this does not change is your own country's tax on the same income, which most worldwide-income tax systems will still apply in full.
 
 ---
 
-*This article is informational only and does not constitute tax or legal advice. Municipal bond tax treatment is governed by IRC §103 (tax-exempt interest) and §871(h) (portfolio interest exception). Consult a qualified cross-border tax professional and your home country's tax rules before relying on this treatment.*
-
+*General information about municipal bonds and foreign investors only. The treatment of muni interest for a non-resident turns on the specific bond and your residence - verify both before relying on it.*
 *Sources: IRC §103; IRC §871(h); 26 CFR §1.871-14; IRS Publication 515 (2026).*
+
+---
 
 ## Related Guides
 

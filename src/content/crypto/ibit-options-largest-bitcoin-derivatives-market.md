@@ -60,13 +60,17 @@ Deribit, an offshore exchange most casual crypto investors have never heard of, 
 
 ---
 
-## Bottom Line
+## The Net Position on IBIT Options
 
 IBIT's options market didn't just launch successfully - it took over as the largest bitcoin options venue in the world within about a year, overtaking an offshore exchange that had dominated the space for years before IBIT existed. That's a genuine structural shift in where bitcoin derivatives trading actually happens, driven by the simple advantage of a regulated, familiar, US-brokerage-accessible product beating a specialized offshore venue once given a real chance to compete on the same playing field.
 
 ---
 
-*This article is for informational purposes only and does not constitute financial or investment advice. Options trading involves significant risk and is not suitable for all investors. Open interest, volume, and position limit figures change frequently - confirm current data directly with your broker or exchange before trading.*
+*This describes IBIT Options broadly and is not a professional opinion. There is substantial loss potential here, and suitability varies from investor to investor. Open interest, volume, and position limit figures change frequently - confirm current data directly with your broker or exchange before trading.*
+
+*Background reading on IBIT Options rather than advice. The specifics of IBIT Options shift; your own case needs its own review.*
+
+---
 
 ## Related Guides
 

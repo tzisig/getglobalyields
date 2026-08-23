@@ -1,7 +1,7 @@
 ---
 slug: fire-strategy-international-investors-us-markets
 title: "FIRE Strategy for International Investors Using US Markets"
-description: "The FIRE (Financial Independence, Retire Early) framework was built around US-specific assumptions - the 4% rule, US tax-advantaged accounts, US withdrawal norms. What actually changes when you build a FIRE plan around a US brokerage account from outside the US, worked through with the specific adjustments that matter."
+description: "FIRE was built on US assumptions - the 4% rule, US tax-advantaged accounts, US withdrawal norms. What changes when the portfolio sits abroad, worked through."
 pubDate: 2026-10-04
 updatedDate: 2026-08-06
 author: "Tzion Sigron"
@@ -80,7 +80,7 @@ This is a genuinely common scenario for internationally mobile FIRE practitioner
 
 ---
 
-## Practical Checklist
+## Working Through FIRE Strategy for International Investors Using US Markets Step by Step
 
 - [ ] Maximize your own country's tax-advantaged accounts first, since US retirement accounts are generally unavailable without US-source earned income
 - [ ] Recalculate your safe withdrawal rate accounting for your home country's specific tax treatment of investment income, rather than assuming the US-derived 4% rule applies unmodified
@@ -91,13 +91,13 @@ This is a genuinely common scenario for internationally mobile FIRE practitioner
 
 ---
 
-## Bottom Line
+## What FIRE Strategy for International Investors Using US Markets Comes Down To
 
 FIRE's core accumulation-and-withdrawal logic is genuinely universal, but the specific numbers - the tax-advantaged account structure, the 4% rule's derivation, the currency assumptions, and the underlying cost-of-living data - are built around a US resident's situation. An international investor pursuing FIRE through US markets should adopt the framework's underlying discipline while recalculating the specific parameters (safe withdrawal rate, account prioritization, currency risk, expected costs) for their own country's tax and currency reality, rather than importing the US numbers unchanged.
 
 ---
 
-*This article is for informational purposes only and does not constitute financial advice. FIRE strategy involves substantial long-term planning risk and should be tailored to your specific country's tax rules and your personal financial situation. Consult a qualified financial advisor before committing to an early-retirement plan.*
+*Informational coverage of FIRE Strategy for International Investors Using US Markets only - your own position needs its own review. FIRE strategy involves substantial long-term planning risk and should be tailored to your specific country's tax rules and your personal financial situation. Consult a qualified financial advisor before committing to an early-retirement plan.*
 
 ## Related Guides
 

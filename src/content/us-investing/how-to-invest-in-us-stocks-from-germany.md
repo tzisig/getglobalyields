@@ -64,7 +64,7 @@ We will follow Lukas through every decision in this guide. By the end, he has a 
 
 ---
 
-## Step 1: Understand What You Can Actually Buy
+## Step 1: What You Can Actually Buy From Germany
 
 This is where most German investors get confused, so it is worth being precise.
 
@@ -167,7 +167,7 @@ Lukas decides: CSPX for his US core, VWCE for his monthly savings plan. Simple, 
 
 ---
 
-## Step 4: Choose Your Broker
+## Step 4: Choosing a Broker From Germany
 
 ### The Main Options in Germany
 
@@ -240,7 +240,7 @@ He spent one weekend reading, one evening setting up accounts, and five minutes 
 
 ---
 
-## Common Mistakes to Avoid
+## The Errors Worth Avoiding on Best Platform to Invest in US Stocks from Germany
 
 **Forgetting the Freistellungsauftrag.** This is the most common and most unnecessary mistake. Without it, your broker withholds 26.375% from the first euro of investment income. You can reclaim it via your Steuererklärung, but that requires filing Anlage KAP and waiting months. Submit the form on day one.
 
@@ -254,7 +254,7 @@ He spent one weekend reading, one evening setting up accounts, and five minutes 
 
 ---
 
-## What to Do This Week
+## Starting Out From Germany
 
 If you have read this far and want to act, here are four concrete steps.
 
@@ -270,7 +270,7 @@ That is the entire setup. Lukas did it in a weekend. So can you.
 
 ---
 
-*This article is for informational purposes only and does not constitute personalized tax or financial advice. The Basiszins of 3.20% for 2026 is confirmed by the German Federal Ministry of Finance (BMF, published January 13, 2026) and the Deutsche Bundesbank. All tax rates are based on sources current as of May 2026. German tax law changes regularly. Consult a qualified Steuerberater for advice specific to your situation.*
+*General material on investing in US stocks from Germany - it does not account for your circumstances. The Basiszins of 3.20% for 2026 is confirmed by the German Federal Ministry of Finance (BMF, published January 13, 2026) and the Deutsche Bundesbank. All tax rates are based on sources current as of May 2026. German tax law changes regularly. Consult a qualified Steuerberater for advice specific to your situation.*
 
 ---
 
@@ -301,3 +301,7 @@ All Vorabpauschale amounts paid in previous years are credited against your fina
 
 **Is the Solidaritätszuschlag still charged on investment income?**
 Yes. Since 2021 the Soli has been abolished for most wage income, but it still applies to capital gains and investment income for all taxpayers. The effective combined rate remains 26.375% (25% Abgeltungsteuer + 5.5% Soli on that tax) for non-church members.
+
+---
+
+*Sources: US-Germany Income Tax Convention (1989), Protocol (June 1, 2006), IRS Treaty Documentation and Publication (IRS.gov), KPMG Germany Tax News Flash (December 2025), Grant Thornton Germany - Withholding Tax Relief for US-Owned Disregarded Entities at Risk? and Federal Fiscal Court Confirms 0% Withholding Tax Relief for US S-Corporations (2026), King & Spalding and Norton Rose Fulbright coverage of the BZSt disregarded-entity practice shift (2026), German Federal Central Tax Office (BZSt) guidance, IRS Form W-8BEN Instructions (Rev. October 2021), IRS FATCA Information for Individuals, FinCEN FBAR guidance, taxesforexpats.com and how-to-germany.com Abgeltungsteuer/Sparerpauschbetrag guidance (2026); IRS Publication 515 (2026).*

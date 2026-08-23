@@ -1,7 +1,7 @@
 ---
 slug: reits-vs-direct-real-estate-ownership-non-us-investors
-title: "REITs vs Direct US Real Estate Ownership for Non-US Investors"
-description: "Buying a US rental property directly and buying US REIT shares both give a foreign investor exposure to American real estate, but the two paths differ enormously in capital required, liquidity, tax mechanics, and ongoing effort. A side-by-side look at what actually changes between them."
+title: "REITs vs Direct US Property for Non-US Investors"
+description: "A US rental property and US REIT shares both give foreign investors property exposure, but differ in capital, liquidity, tax and effort. A side-by-side look."
 pubDate: 2027-01-01
 updatedDate: 2026-08-06
 author: "Tzion Sigron"
@@ -82,7 +82,7 @@ Yes - the two aren't mutually exclusive, and many investors use REITs specifical
 
 ---
 
-## Practical Checklist
+## What to Actually Do About REITs vs Direct US Real Estate Ownership for Non-US Investors
 
 - [ ] Compare the actual capital required for a meaningful direct property purchase against the ease of building a REIT position at any size
 - [ ] Weigh the liquidity difference seriously if the capital might need to be accessed on short notice
@@ -93,13 +93,13 @@ Yes - the two aren't mutually exclusive, and many investors use REITs specifical
 
 ---
 
-## Bottom Line
+## The Short Version of REITs vs Direct US Real Estate Ownership for Non-US Investors
 
 REITs and direct property ownership both give a foreign investor real exposure to US real estate, but they differ enormously in capital requirements, liquidity, ongoing effort, and tax complexity. For an investor whose goal is simply diversified real estate exposure within an existing portfolio, a REIT ETF accomplishes that with a fraction of the capital, effort, and compliance burden that direct ownership requires - direct ownership earns its place mainly when there's a specific, non-diversification reason for wanting an actual physical property.
 
 ---
 
-*This article is for informational purposes only and does not constitute financial, tax, or legal advice. Financing availability, tax filing requirements, and closing costs vary by lender, state, and individual circumstances - confirm current details with a qualified professional before any real estate transaction.*
+*This explains REITs direct real; it does not advise you on what to do about it. Financing availability, tax filing requirements, and closing costs vary by lender, state, and individual circumstances - confirm current details with a qualified professional before any real estate transaction.*
 
 ## Related Guides
 

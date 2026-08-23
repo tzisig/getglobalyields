@@ -219,3 +219,7 @@ Tip: Call your bank before initiating your first international wire to confirm t
 **Financial Disclaimer**
 
 _The content on GetGlobalYields.com is for informational and educational purposes only and does not constitute financial, investment, or tax advice. Tax laws, broker terms, and regulatory requirements change over time. Always consult a licensed Israeli tax professional and verify current broker requirements before opening an account._
+
+---
+
+*Sources: US-Israel Income Tax Treaty (1975) and 1993 Protocol; IRS treaty text (irs.gov/pub/irs-trty/israel.pdf); Joint Committee on Taxation explanation of the 1993 Protocol; PwC Israel - Corporate Withholding Taxes (2026); IRS Publication 515 (2026).*

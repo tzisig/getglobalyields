@@ -3,7 +3,7 @@ slug: us-bolivia-tax-treaty-investors
 title: "US-Bolivia Tax Treaty for Investors: After the 2026 Devaluation (2026)"
 description: "Bolivia investor guide to US stock taxation. No general US-Bolivia tax treaty exists, so full 30% US dividend withholding applies. Bolivia abandoned its 15-year fixed exchange rate in June 2026, devaluing the boliviano roughly 30% after years of dollar shortages."
 pubDate: 2026-08-09
-updatedDate: 2026-08-09
+updatedDate: 2026-08-16
 author: "Tzion Sigron"
 categories: ["Taxes"]
 tags:
@@ -23,7 +23,7 @@ seo:
   metaDescription: "No US-Bolivia tax treaty means full 30% US withholding. Bolivia abandoned its 15-year fixed exchange rate in June 2026, devaluing the boliviano ~30%."
   ogTitle: "US-Bolivia Tax Treaty: After the 2026 Devaluation (2026)"
   ogDescription: "No US-Bolivia tax treaty means full 30% US withholding. Bolivia abandoned its 15-year fixed exchange rate in June 2026, devaluing the boliviano ~30%."
-  ogImage: "/images/blog/taxes/us-bolivia-tax-treaty.webp"
+  ogImage: "/images/blog/taxes/us-bolivia-tax-treaty-investors.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"
@@ -31,7 +31,7 @@ schema:
   description: "No US-Bolivia tax treaty means full 30% US withholding. Bolivia abandoned its 15-year fixed exchange rate in June 2026, devaluing the boliviano ~30%."
   author: "Tzion Sigron"
   datePublished: "2026-08-09"
-  dateModified: "2026-08-09"
+  dateModified: "2026-08-16"
   image: "/images/blog/taxes/us-bolivia-tax-treaty-investors.webp"
   mainEntityOfPage: "https://getglobalyields.com/taxes/us-bolivia-tax-treaty-investors"
 ---
@@ -47,11 +47,11 @@ There's also no general US-Bolivia income tax treaty - only a narrow agreement c
 
 ---
 
-## No General Treaty: Full 30% US Withholding
+## No Treaty Exists - Dividends Stay at the Standard 30%
 
-The US and Bolivia have signed only a limited tax agreement covering income from the international operation of ships and aircraft - not a comprehensive income tax treaty. There's no treaty article reducing the default US withholding rate on dividends. Every US dividend paid to a Bolivia-resident investor is withheld at the full **30% statutory rate**.
+Bolivia and the US have never completed a comprehensive income tax treaty. The one agreement that exists between the two countries covers shipping and aircraft income specifically, nothing broader - it has no bearing on dividends from a US brokerage account. So every US dividend paid to a Bolivia-resident investor is withheld at the standard **30% rate**, and no treaty article exists to bring that number down.
 
-**Filing Form [W-8BEN](/taxes/w8ben-form-non-us-investors/) is still worth doing.** It won't bring the rate below 30%, but it certifies your non-US status to your broker and avoids the risk of default backup withholding treatment on an undocumented account.
+File Form [W-8BEN](/taxes/w8ben-form-non-us-investors/) regardless. It has no effect on the 30% rate itself, but skipping it leaves your account documented as unverified with your broker - a separate problem worth avoiding even when there's no rate benefit on the table.
 
 ---
 
@@ -78,21 +78,21 @@ Bolivia withholds tax on dividends paid by Bolivian companies to non-residents a
 
 ---
 
-## Broker Access
+## Bolivian Residents and Broker Eligibility
 
-Interactive Brokers is confirmed to accept Bolivia-resident investors for account opening, alongside eToro - though, as above, confirm the practical funding mechanics given the current currency transition before relying on either.
+Interactive Brokers and eToro both take on Bolivian account holders. Document and verification requirements can shift without much public notice, so confirm the current list directly with whichever broker you're applying to.
 
 ---
 
-## Practical Checklist
+## Your Next Steps as a Bolivia Resident
 
-**Bolivian resident investing in US stocks:**
-- [ ] Confirm the current official exchange rate and legal channels for converting bolivianos to dollars directly with a Bolivian bank before attempting to fund a foreign brokerage account
-- [ ] File Form W-8BEN with your broker anyway - it won't reduce the 30% rate, but avoids default backup withholding treatment on an undocumented account
-- [ ] Expect 30% US withholding on every dividend payment, with no treaty-based reduction available
-- [ ] Confirm with a Bolivian tax advisor how your specific US dividend and capital gains income is treated domestically, given the general lack of clear public guidance on this point
-- [ ] Follow Bolivian financial news closely for further exchange-rate policy developments - the June 2026 reform is recent and the system is still adjusting
-- [ ] Confirm current account-opening requirements with Interactive Brokers or eToro before applying
+**Working through it as a Bolivian resident:**
+- [ ] Get the current legal exchange rate and conversion process from a Bolivian bank before anything else - this matters more right now than the tax question below
+- [ ] File W-8BEN regardless of the 30% rate - it documents your account correctly even without lowering anything
+- [ ] Budget for 30% withholding on every dividend paid - there's no treaty path around it
+- [ ] Ask a Bolivian tax advisor directly how your US investment income is treated domestically - public guidance on this specific point is thin
+- [ ] Watch Bolivian financial news for further exchange-rate developments - June 2026 was the start of this reform, not necessarily the end of it
+- [ ] Ask Interactive Brokers or eToro directly whether anything about their Bolivia onboarding has changed recently - a two-minute question that avoids a wasted application
 
 ---
 
@@ -103,20 +103,20 @@ Interactive Brokers is confirmed to accept Bolivia-resident investors for accoun
 
 ---
 
-## Bottom Line
+## Where Bolivian Investors Stand
 
-There's no general US-Bolivia tax treaty, so the full 30% US withholding applies with no reduction available - W-8BEN still matters for documentation, not for a lower rate. But for a Bolivian investor right now, the treaty gap is the smaller story: Bolivia just ended a 15-year fixed exchange rate in June 2026, devaluing roughly 30% after years of a dollar shortage that made official-rate currency conversion difficult in practice. Confirm the current, legal path to converting bolivianos into dollars directly with a bank before anything else - the tax question is straightforward by comparison.
+Two months before this was written, Bolivia ended a currency peg that had held for fifteen years. That's still the live story here - official rates, parallel-market activity, and what a bank will actually let you legally convert are all things worth confirming this week, not trusted from whatever this guide says by the time you're reading it. Against that backdrop, the US tax question is almost a footnote: 30% withholding on dividends, no treaty to change it, and a W-8BEN form that documents your account correctly without moving that number at all.
 
 ---
 
-*This article is informational only and does not constitute tax or financial advice. There is no comprehensive US-Bolivia income tax treaty. Bolivia's exchange rate regime changed materially in mid-2026 and remains in transition - confirm current conditions directly with a Bolivian bank or financial advisor, and consult a qualified Bolivian tax advisor for advice specific to your situation, before acting on anything in this guide.*
+*This explains investing from Bolivia in the abstract, not as it applies to you. There is no comprehensive US-Bolivia income tax treaty. Bolivia's exchange rate regime changed materially in mid-2026 and remains in transition - confirm current conditions directly with a Bolivian bank or financial advisor, and consult a qualified Bolivian tax advisor about how any of this applies to you, before acting on anything in this guide.*
 
 *Sources: Rio Times Online - Bolivia Is Ending Its Fixed Dollar Rate and Bolivia Ends Its Dollar Peg, Devaluing the Boliviano 30%; FXStreet - Bolivia Ends Dollar Peg, Devalues Currency; CEIC - Bolivia's Crisis: A Dollar Shortage, Surging Inflation and Sinking Gas Exports; Economics Observatory - From Crisis to Stability: What Next for Bolivia's Economy?; PwC Bolivia - Corporate and Individual Withholding Taxes and Foreign Tax Relief (2026); IRS Publication 515 (2026).*
 
 ## Related Guides
 
-- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
-- [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)
 - [PFIC Rules for International Investors](/taxes/pfic-rules-international-investors/)
-- [US-Ecuador Tax Treaty for Investors](/taxes/us-ecuador-tax-treaty-investors/)
+- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
+- US-Ecuador Tax Treaty for Investors
 - [US-Argentina Tax Treaty for Investors](/taxes/us-argentina-tax-treaty-investors/)
+- [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)

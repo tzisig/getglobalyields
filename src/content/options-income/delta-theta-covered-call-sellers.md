@@ -88,7 +88,7 @@ For the specific covered call and cash-secured put strategies at the core of thi
 
 ---
 
-## Practical Checklist
+## What Needs Doing on Delta and Theta Explained for Covered Call Sellers
 
 - [ ] Check the delta of any strike you're considering before selling - it's a genuinely useful, intuitive proxy for assignment probability, available on virtually every broker's options chain
 - [ ] Understand that theta works in your favor as a seller - the position's value should erode in your favor simply from time passing, all else equal
@@ -98,13 +98,13 @@ For the specific covered call and cash-secured put strategies at the core of thi
 
 ---
 
-## Bottom Line
+## The Net Position on Delta and Theta Explained for Covered Call Sellers
 
 You do not need to master the full Greek alphabet to sell covered calls competently - delta and theta cover the two decisions that actually matter: which strike to choose (delta, as an assignment-probability proxy) and why time genuinely works in your favor as a premium seller (theta). Everything else in the Greeks becomes relevant only once you move into more complex, multi-leg strategies like the [iron condors](/options-income/iron-condors-tqqq-strategy-guide/) covered elsewhere in this category.
 
 ---
 
-*This article is for informational purposes only and does not constitute financial or trading advice. Options trading carries substantial risk of loss and is not suitable for all investors. Consult a licensed financial advisor before implementing any options strategy.*
+*General information about Delta and Theta Explained for Covered Call Sellers - not a recommendation you should act on unaided. There is substantial loss potential here, and suitability differs by investor. Licensed guidance belongs ahead of the first options trade, not after it.*
 
 ## Related Guides
 

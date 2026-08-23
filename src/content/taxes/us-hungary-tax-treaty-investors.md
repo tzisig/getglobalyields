@@ -19,18 +19,18 @@ draft: true
 readingTime: "9 min read"
 featured: false
 seo:
-  metaTitle: "US-Hungary Tax Treaty: Terminated Since 2024 - What It Means (2026)"
-  metaDescription: "The US terminated its tax treaty with Hungary effective January 1, 2024. Full 30% US dividend withholding now applies, on top of Hungary's flat 15% PIT and 13% Szocho."
+  metaTitle: "US-Hungary Tax Treaty: Terminated Since 2024 (2026)"
+  metaDescription: "The US terminated its tax treaty with Hungary effective January 1, 2024. Full 30% US dividend withholding now applies, on top of Hungary's flat 15% PIT."
   ogTitle: "US-Hungary Tax Treaty: Terminated Since 2024 - What It Means (2026)"
-  ogDescription: "The US terminated its tax treaty with Hungary effective January 1, 2024. Full 30% US dividend withholding now applies, on top of Hungary's flat 15% PIT and 13% Szocho."
-  ogImage: "/images/blog/taxes/us-hungary-tax-treaty.webp"
+  ogDescription: "The US terminated its tax treaty with Hungary effective January 1, 2024. Full 30% US dividend withholding now applies, on top of Hungary's flat 15% PIT."
+  ogImage: "/images/blog/taxes/us-hungary-tax-treaty-investors.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"
   headline: "US-Hungary Tax Treaty: Terminated Since 2024 - What It Means (2026)"
-  description: "The US terminated its tax treaty with Hungary effective January 1, 2024. Full 30% US dividend withholding now applies, on top of Hungary's flat 15% PIT and 13% Szocho."
+  description: "The US terminated its tax treaty with Hungary effective January 1, 2024. Full 30% US dividend withholding now applies, on top of Hungary's flat 15% PIT."
   author: "Tzion Sigron"
-  datePublished: "2026-08-18"
+  datePublished: "2026-09-20"
   dateModified: "2026-08-18"
   image: "/images/blog/taxes/us-hungary-tax-treaty-investors.webp"
   mainEntityOfPage: "https://getglobalyields.com/taxes/us-hungary-tax-treaty-investors"
@@ -91,21 +91,21 @@ Every other country guide in this series includes a table comparing the US defau
 
 ---
 
-## Broker Access
+## Where Hungarian Residents Can Open an Account
 
-Both Interactive Brokers and eToro are confirmed to accept Hungarian residents for account opening. Neither broker's policies are affected by the treaty termination - it changes what happens at the tax-withholding and filing level, not account eligibility.
+Interactive Brokers and eToro each accept Hungarian residents. Neither broker's policies are affected by the treaty termination - it changes what happens at the tax-withholding and filing level, not account eligibility.
 
 ---
 
-## Practical Checklist
+## What Needs Doing Before You Invest from Hungary
 
-**Hungarian resident investing in US stocks:**
-- [ ] File Form W-8BEN with your broker anyway - it won't reduce the 30% rate, but avoids default backup withholding treatment on an undocumented account
+**Holding US stocks from Hungary - cover these:**
+- [ ] File W-8BEN even though the treaty is gone - it certifies foreign status, and an undocumented account adds backup withholding on top of the 30%
 - [ ] Expect 30% US withholding on every dividend payment, with no treaty-based reduction available
 - [ ] Track your combined annual employment + capital income against the HUF 7,747,200 (2026) Szocho cap to know whether the extra 13% applies to a given dividend
 - [ ] Confirm with a Hungarian tax advisor exactly how much of the US withholding is creditable against your Hungarian SZJA/Szocho liability, since the termination removed the treaty article that used to define this
 - [ ] Don't rely on outdated guides or broker documentation citing a reduced Hungary treaty rate - anything referencing a rate below 30% predates January 1, 2024
-- [ ] Confirm current account-opening requirements with Interactive Brokers or eToro before applying
+- [ ] Confirm the broker's Hungarian documentation list first - and note the treaty is gone, so expect 30%
 
 ---
 
@@ -116,20 +116,20 @@ Both Interactive Brokers and eToro are confirmed to accept Hungarian residents f
 
 ---
 
-## Bottom Line
+## Hungary, in a Paragraph
 
 Hungary stands apart from every other country in this series: there is no treaty rate to claim, because the US Treasury terminated the underlying treaty effective January 1, 2024, over a dispute about the global minimum tax. A Hungarian investor now faces the full 30% US dividend withholding rate, stacked against Hungary's own flat 15% PIT plus a conditional 13% Szocho on capital income - all without a treaty mechanism spelling out how the two sides interact. W-8BEN is still worth filing for documentation purposes, but it no longer does the job it does everywhere else in this series. This is the rare case in the series where the honest answer to "what's the treaty rate" is that the question no longer has an answer.
 
 ---
 
-*This article is informational only and does not constitute tax or legal advice. The US-Hungary income tax treaty was terminated effective January 1, 2024; there is no reduced US withholding rate currently available to Hungarian residents. Hungary's SZJA and Szocho rates and thresholds are set by Hungarian law and can change - always consult a qualified Hungarian tax advisor for advice specific to your situation, particularly regarding foreign tax credit treatment in the absence of a treaty.*
+*This explains investing from Hungary in the abstract, not as it applies to you. The US-Hungary income tax treaty was terminated effective January 1, 2024; there is no reduced US withholding rate currently available to Hungarian residents. Hungary's SZJA and Szocho rates and thresholds are set by Hungarian law and can change - always consult a qualified Hungarian tax advisor on the specifics of your holdings, particularly regarding foreign tax credit treatment in the absence of a treaty.*
 
 *Sources: CMS Law Hungary - US Terminates Double Tax-Treaty with Hungary; RSM Hungary - Tax Consequences of the Termination of the US-Hungarian Tax Treaty; BDO Hungary - The United States Has Terminated Its Tax Treaty; PKF Hungary - Tax Consequences of the Termination of the US-Hungarian Double Tax Treaty on PIT; Andersen Hungary - Personal Income Tax Returns: The Effects of the Termination; TaxRavens - Hungary Personal Taxation 2026; iocharts.io - Dividend Taxation 2025: SZJA, SZOCHO and Double Taxation; IRS Publication 515 (2026).*
 
 ## Related Guides
 
-- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
 - [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)
+- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
 - [PFIC Rules for International Investors](/taxes/pfic-rules-international-investors/)
 - [US-Russia Tax Treaty for Investors](/taxes/us-russia-tax-treaty-investors/)
 - [US-Slovakia Tax Treaty for Investors](/taxes/us-slovakia-tax-treaty-investors/)

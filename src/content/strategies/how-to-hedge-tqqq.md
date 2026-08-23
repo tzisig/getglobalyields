@@ -1,4 +1,4 @@
-﻿---
+---
 slug: how-to-hedge-tqqq
 title: "How to Hedge a TQQQ Position: A Realistic Guide"
 description: "The real cost of hedging TQQQ - protective puts, collars, SQQQ, and position sizing. What works, what doesn't, and the math most guides skip."
@@ -6,7 +6,6 @@ pubDate: 2026-05-25
 updatedDate: 2026-05-25
 author: "Tzion Sigron"
 categories: ["Strategies"]
-keywords:   "Hedge TQQQ, TQQQ Protective Put, TQQQ Collar, TQQQ SQQQ Hedge, TQQQ risk management, Leveraged ETF Hedge, TQQQ Position Sizing, Strategies, How to Hedge a TQQQ Position A Realistic Guide, A Realistic Guide, TQQQ, QQQ"
 tags:
   - "hedge TQQQ"
   - "TQQQ protective put"
@@ -29,7 +28,7 @@ Imagine you bought TQQQ near $85 in late 2021, watched it fall to $16 by Decembe
 
 For the fundamental TQQQ comparison, see [TQQQ vs QQQ](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026/). For the long-term outlook, see [TQQQ Long-Term Outlook](/strategies/tqqq-long-term-outlook/) and [TQQQ Long-Term Strategy: Buy and Hold](/strategies/tqqq-long-term-strategy-buy-and-hold/).
 
-That's the honest starting point for this guide: not "how to hedge TQQQ" in the abstract, but what hedging a leveraged ETF position costs in practice, when those costs make sense, and when they don't.
+That's the honest starting point for this guide: not "How to Hedge a TQQQ Position" in the abstract, but what hedging a leveraged ETF position costs in practice, when those costs make sense, and when they don't.
 
 The short answer, before you read further: hedging TQQQ is expensive. The high implied volatility that makes TQQQ options exciting for premium sellers makes them brutal for premium buyers. That doesn't mean hedging is wrong - it means the decision requires honest math, not just a strategy name.
 
@@ -200,7 +199,7 @@ If you've done that sizing work and concluded you hold the right amount of TQQQ 
 
 Two costs that US-based guides typically omit.
 
-**FX on option premiums:** If you're funding a [US brokerage account](/best-brokers/how-to-open-a-us-brokerage-account-as-a-non-resident-2026-guide/) from a non-USD bank account, every option premium you pay involves a currency conversion. At a broker like [IBKR](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/) the conversion cost is minimal (0.03 basis points). At a USD-only broker that charges a 1-1.5% FX spread, a $300 monthly put premium carries an additional $3-$4.50 in hidden FX cost - small individually, meaningful over a year of rolling hedges.
+**FX on option premiums:** If you're funding a [US brokerage account](/best-brokers/how-to-open-a-us-brokerage-account-as-a-non-resident-2026-guide/) from a non-USD bank account, every option premium you pay involves a currency conversion. At a broker like [IBKR](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/) the conversion cost is minimal (0.20 basis points, $2 minimum). At a USD-only broker that charges a 1-1.5% FX spread, a $300 monthly put premium carries an additional $3-$4.50 in hidden FX cost - small individually, meaningful over a year of rolling hedges.
 
 **Tax treatment of option gains and losses:** Options on TQQQ held in a US brokerage account by a non-US person are generally exempt from US capital gains tax under the same [W-8BEN](/taxes/w8ben-form-non-us-investors/) framework that covers stock gains. Also see our [TQQQ Tax Guide for International Investors](/taxes/tqqq-tax-international-investors/) for specific tax treatment. However, your home country may tax option premiums and gains differently from equity gains - some jurisdictions treat short-term option income as ordinary income rather than capital gains. This is a question for a local tax advisor in your jurisdiction, not something to assume matches US treatment.
 

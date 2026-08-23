@@ -76,7 +76,7 @@ Yes, substantially - since an ETF share is a single security position, buying an
 
 ---
 
-## Practical Checklist
+## Putting Bitcoin ETF vs Direct Crypto Ownership Into Practice
 
 - [ ] Decide whether direct custody and unmediated ownership genuinely matters to you, or whether price exposure alone meets your goal
 - [ ] Compare a Bitcoin ETF's expense ratio against the practical costs of direct ownership (exchange fees, potential custody costs) for your specific situation
@@ -86,13 +86,16 @@ Yes, substantially - since an ETF share is a single security position, buying an
 
 ---
 
-## Bottom Line
+## Where Bitcoin ETF vs Direct Crypto Ownership Leaves You
 
 A spot Bitcoin ETF and direct cryptocurrency ownership provide the same underlying price exposure through genuinely different mechanics - custody shifts from the individual to a professional custodian, access simplifies to the same brokerage account already used for stocks, and the tax analysis becomes meaningfully more settled and predictable. For an international investor whose goal is price exposure without the custody responsibility and tax-sourcing ambiguity of direct ownership, the ETF path is generally the more practical default - direct ownership earns its added complexity mainly for an investor with a specific reason to want unmediated, self-custodied ownership of the underlying asset itself.
 
 ---
 
-*This article is for informational purposes only and does not constitute financial, tax, or legal advice, and does not constitute a recommendation to buy any specific fund mentioned. Fund availability, fees, and structures change over time - confirm current details directly with the fund provider before investing.*
+*Use this as orientation on Bitcoin ETF vs Direct Crypto Ownership rather than as a recommendation. Fund availability, fees, and structures change over time - confirm current details directly with the fund provider before investing.*
+
+*General material on Bitcoin ETF vs Direct Crypto Ownership. Have someone qualified apply this to your real numbers before you move.*
+---
 
 ## Related Guides
 

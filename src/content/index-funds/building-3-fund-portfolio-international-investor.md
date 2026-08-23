@@ -1,7 +1,7 @@
 ---
 slug: building-3-fund-portfolio-international-investor
 title: "Building a 3-Fund Portfolio as an International Investor"
-description: "The classic 3-fund portfolio - US stocks, international stocks, bonds - was designed for US residents. Adapting it for an international investor means rethinking each piece from your actual starting position, not just swapping tickers. A full worked-through framework, including rebalancing and maintenance."
+description: "The 3-fund portfolio was designed for US residents. Adapting it abroad means rethinking each piece, not swapping tickers. A framework, with rebalancing."
 pubDate: 2026-10-14
 updatedDate: 2026-08-06
 author: "Tzion Sigron"
@@ -86,7 +86,7 @@ Worth considering together rather than in isolation - your home-country retireme
 
 ---
 
-## Practical Checklist
+## The Building a 3-Fund Portfolio as an International Investor Checklist
 
 - [ ] Choose your three funds based on your actual home-country financial exposure, not a default US-resident allocation split
 - [ ] Select bond exposure specifically for stability (BND/AGG) rather than yield-chasing (TLT), unless you have a specific reason to want long-duration exposure
@@ -98,13 +98,13 @@ Worth considering together rather than in isolation - your home-country retireme
 
 ---
 
-## Bottom Line
+## Summing Up Building a 3-Fund Portfolio as an International Investor
 
 A 3-fund portfolio remains a genuinely sound, low-maintenance structure for an international investor - but each piece deserves reconsideration from your actual starting position rather than a direct import of US-resident advice. Your "US" fund may already be your international diversification; your bond fund should be chosen for stability specifically, with currency risk factored in; your fund domicile choice depends on where you live, not a universal default; and a simple periodic rebalancing habit keeps the whole structure aligned with your goals without undermining its core appeal of simplicity.
 
 ---
 
-*This article is for informational purposes only and does not constitute financial advice. Portfolio allocation should be tailored to your individual circumstances, risk tolerance, and time horizon. Consult a qualified financial advisor before implementing any portfolio strategy.*
+*General information about Building a 3-Fund Portfolio as an International Investor - not a recommendation you should act on unaided. Portfolio allocation should be tailored to your individual circumstances, risk tolerance, and time horizon. Consult a qualified financial advisor before implementing any portfolio strategy.*
 
 ## Related Guides
 

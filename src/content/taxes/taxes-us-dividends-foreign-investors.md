@@ -143,7 +143,7 @@ The table below shows verified rates for major countries based on the IRS treaty
 
 Countries without a US income tax treaty include Brazil, Singapore, UAE, Saudi Arabia, Hong Kong, and Argentina. Investors from these countries pay the full 30% default on US dividends. There is no mechanism to reduce this short of restructuring through a treaty-country entity, which raises its own anti-abuse questions.
 
-**A note on [Israel](/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026/):** The US-Israel tax treaty (signed 1975, updated multiple times) is notably less favorable than the treaties with European partners. Portfolio investors receive no reduction from Israel's domestic 25% withholding rate on dividends. Only corporate investors holding 10% or more receive a meaningful reduction to 12.5%. This contrasts sharply with the 15% treaty rate that [German](/taxes/us-germany-tax-treaty-investors/), British, or [Canadian]( /taxes/us-canada-tax-treaty-investors-2026 /) investors enjoy. Israeli investors holding US stocks face the full 30% US withholding unless they can claim treaty benefits - and even then, the treaty is limited compared to Europe.
+**A note on [Israel](/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026/):** The US-Israel tax treaty (signed 1975, updated multiple times) is notably less favorable than the treaties with European partners. An individual portfolio investor gets the treaty's 25% rate - a reduction from the 30% statutory default, but the weakest dividend rate of any major US treaty partner. Only a corporate investor holding 10% or more reaches the lower 12.5% tier. This contrasts sharply with the 15% treaty rate that [German](/taxes/us-germany-tax-treaty-investors/), British, or [Canadian](/taxes/us-canada-tax-treaty-investors-2026/) investors enjoy. An Israeli investor who has not filed a W-8BEN faces the full 30% until they claim treaty benefits - and even then, the treaty is limited compared to Europe.
 
 **Japan is the notable positive exception** in the table - the 2003 treaty, updated by a 2019 Protocol, delivers a 10% portfolio rate instead of the usual 15%, and a 0% rate on interest. This makes Japan one of the more favorable US treaty partners for investors.
 
@@ -168,7 +168,7 @@ The form is not filed with the IRS. It is held by the withholding agent as docum
 - Line 6: Your foreign taxpayer identification number (tax ID from your country of residence)
 - Part II (Treaty Claim): Your country of residence, the treaty article under which you claim a reduced rate, and the rate itself
 
-For most investors from treaty countries claiming a 15% rate on US dividends, Line 9 will reference the Dividends article of the relevant treaty (e.g., Article 10 for the US-Germany treaty) and state the 15% rate.
+The split between the two lines trips people up. **Line 9** takes only your country of residence for treaty purposes - nothing else. **Line 10** is where a treaty article, paragraph and rate go, and the IRS instructions say to use it *only* when your claim depends on conditions Line 9 and Part III do not already cover. A standard 15% dividend claim is not one of those cases: naming your country on Line 9 is enough, and Line 10 stays empty.
 
 **Operational rules:**
 
@@ -290,7 +290,7 @@ For publicly traded US REITs, the FIRPTA exemption for domestically controlled e
 - [ ] Confirm your NRA status (not a US citizen, green card holder, or substantial presence test passer)
 - [ ] Check whether your country has a US tax treaty and what the dividend rate is — use the [Tax Map](/resources/tax-map/) for a quick overview
 - [ ] Complete Form [W-8BEN](/taxes/w8ben-form-non-us-investors/) and submit it to your broker
-- [ ] On Line 9, cite the correct treaty article and reduced rate (for most European investors: 15%, Article 10 of the relevant treaty)
+- [ ] Name your country of residence on Line 9 - that is what claims the treaty rate (15% for most European investors, under Article 10); leave Line 10 blank unless your claim needs conditions Line 9 does not cover
 - [ ] Choose a [broker that handles treaty documentation correctly](/best-brokers/best-brokers-international-investors-2026/) for your country
 
 **Annually:**
@@ -343,9 +343,12 @@ Before you invest, it helps to know exactly where you stand:
 
 ---
 
-*This article is informational only and does not constitute tax or legal advice. Rates and rules are based on IRC Section 871, IRS Publication 515 (2026 edition), IRS Treaty Tables (updated February 23, 2026), and individual treaty texts as published by the US Treasury and IRS. Tax rules change. Consult a qualified cross-border tax professional for advice specific to your situation.*
+*Take this as context on US dividend withholding and nothing more. Rates and rules are based on IRC Section 871, IRS Publication 515 (2026 edition), IRS Treaty Tables (updated February 23, 2026), and individual treaty texts as published by the US Treasury and IRS. Tax rules change. Consult a qualified cross-border tax professional once you have your actual numbers in front of you.*
 
 *Sources: IRC §871(a), §871(k)(1), §871(k)(2), §897 (FIRPTA); IRS Publication 515 (2026); IRS Publication 519 (2025); IRS Tax Treaty Tables (IRS.gov, February 2026); IRS FIRPTA Withholding guidance (irs.gov); PWC Tax Summaries - United States Corporate Withholding Taxes (March 2026); US-Israel Tax Treaty (IRS.gov/pub/irs-trty/israel.pdf); US-Japan Income Tax Convention and 2019 Protocol; taxesforexpats.com and Congress.gov reporting on the terminated Hungary treaty and suspended Russia treaty provisions.*
+
+*Educational coverage of US Dividend Withholding Tax for Foreign Investors. General coverage cannot account for your own tax position or timing.*
+---
 
 ## Related Guides
 

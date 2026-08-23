@@ -62,19 +62,19 @@ Invitation Homes (INVH) and American Homes 4 Rent (AMH) own tens of thousands of
 
 ---
 
-## Dividend Withholding for International Investors
+## The Withholding Position on Invitation Homes vs American Homes 4 Rent
 
 **Invitation Homes and American Homes 4 Rent are both US-domiciled REITs**, subject to the standard NRA dividend withholding framework covered throughout this site's [taxes category](/taxes/) - treaty rate or 30% default based on your country of residence and W-8BEN status, the same mechanics covered for every other REIT on this site regardless of property type or acquisition strategy.
 
 ---
 
-## Bottom Line
+## Summing Up Invitation Homes vs American Homes 4 Rent
 
 Invitation Homes and American Homes 4 Rent both rent out single-family houses at real institutional scale, with Invitation Homes offering a higher current yield and a longer dividend-increase streak, and both facing the same real, new constraint: a 2026 federal law that blocks large investors from buying more existing homes while explicitly exempting build-to-rent development. Institutional single-family ownership remains a small share of the national housing stock despite the popular narrative - but that's now less relevant than where the new legal incentive is pushing large operators like these two, which is toward building new rental communities rather than continuing to acquire existing houses.
 
 ---
 
-*This article is for informational purposes only and does not constitute financial advice. Occupancy rates, dividend yields, and regulatory requirements change over time - confirm current figures directly with each company's investor relations disclosures before investing.*
+*Context on Invitation Homes vs American Homes 4 Rent, not counsel on what you personally should do. Occupancy rates, dividend yields, and regulatory requirements change over time - confirm current figures directly with each company's investor relations disclosures before investing.*
 
 ## Related Guides
 

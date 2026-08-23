@@ -1,7 +1,7 @@
 ---
 slug: can-non-us-residents-buy-us-life-insurance
-title: "Can Non-US Residents Buy US Life Insurance? Access and Alternatives"
-description: "Most US life insurers require US residency or citizenship to issue a policy, which surprises international investors who've read about the favorable US-situs treatment life insurance gets in cross-border estate planning. What access actually looks like, and the alternatives that exist."
+title: "Can Non-US Residents Buy US Life Insurance?"
+description: "Most US insurers require residency or citizenship to issue a policy, which surprises investors who read about its favorable estate treatment. The alternatives."
 pubDate: 2027-01-01
 updatedDate: 2026-08-06
 author: "Tzion Sigron"
@@ -68,7 +68,7 @@ Yes, in principle - a properly issued US life insurance policy on a foreign nati
 
 ---
 
-## Practical Checklist
+## Turning Can Non-US Residents Buy US Life Insurance? Access and Alternatives Into Actions
 
 - [ ] Understand that most mainstream US insurers restrict or decline applications from foreign nationals with no US residency status
 - [ ] Identify a genuine, documentable US connection (property, business, family ties) if pursuing a US-issued policy, since insurable interest requirements are real
@@ -79,13 +79,15 @@ Yes, in principle - a properly issued US life insurance policy on a foreign nati
 
 ---
 
-## Bottom Line
+## What Can Non-US Residents Buy US Life Insurance? Access and Alternatives Comes Down To
 
 US life insurance access for foreign nationals is real but meaningfully harder than for US residents - most mainstream insurers restrict foreign applications, and accessing a policy generally requires a documented US connection, specialized broker guidance, and more extensive underwriting documentation. Understanding this access gap in advance, and identifying the specific path (foreign national specialist market, offshore policy, or home-country policy) that fits your actual situation, matters before assuming the favorable estate tax treatment is simply available for the asking.
 
 ---
 
-*This article is for informational purposes only and does not constitute insurance, legal, or tax advice. Insurer eligibility requirements, underwriting standards, and documentation requirements vary by company and change over time - confirm current requirements directly with a licensed insurance professional before applying for coverage.*
+*General material on US life insurance for non-US residents - it does not account for your circumstances. Insurer eligibility requirements, underwriting standards, and documentation requirements vary by company and change over time - confirm current requirements directly with a licensed insurance professional before applying for coverage.*
+
+---
 
 ## Related Guides
 

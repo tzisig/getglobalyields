@@ -1,7 +1,7 @@
 ---
 slug: bond-etfs-compared-bnd-agg-tlt
-title: "Bond ETFs for International Investors: BND, AGG, and TLT Compared"
-description: "BND, AGG, and TLT all give bond exposure, but with meaningfully different duration and credit profiles - and for a non-US investor, most of their interest income arrives with zero US withholding, a genuinely different picture from equity dividends. A full comparison of duration risk, tax treatment, and how to choose."
+title: "BND vs AGG vs TLT: Bond ETFs for Global Investors"
+description: "BND, AGG and TLT differ in duration and credit profile - and for a non-US investor most of their interest arrives with zero US withholding. A full comparison."
 pubDate: 2026-08-16
 updatedDate: 2026-08-06
 author: "Tzion Sigron"
@@ -86,7 +86,7 @@ An investor expecting rates to fall meaningfully would see TLT benefit more than
 
 ---
 
-## Practical Checklist
+## A Working List for Bond ETFs for International Investors
 
 - [ ] Understand that BND and AGG are close substitutes for broad, diversified bond exposure, while TLT is a meaningfully different, more volatile, long-duration-specific instrument
 - [ ] Check your Form 1042-S to confirm interest-related distributions from these funds are receiving the reduced or zero withholding they're generally entitled to under IRC §871(k)(1) - and pursue a refund via Form 1040-NR if withholding was applied incorrectly
@@ -96,13 +96,17 @@ An investor expecting rates to fall meaningfully would see TLT benefit more than
 
 ---
 
-## Bottom Line
+## The Practical Upshot of Bond ETFs for International Investors
 
 BND, AGG, and TLT are not interchangeable "bond ETF" options - BND and AGG offer diversified, moderate-duration exposure with some corporate credit risk, while TLT is a distinctly more volatile, long-duration, credit-risk-free instrument suited to a specific rate view or portfolio role rather than default stability. For a non-US investor, all three offer a genuinely favorable tax feature equity funds don't share: much of their interest income can arrive with little to no US withholding under the portfolio interest exemption, worth confirming on your actual dividend statements rather than assuming it's been applied correctly.
 
 ---
 
-*This article is for informational purposes only and does not constitute financial advice. Duration figures cited are illustrative and change with market conditions and fund composition - confirm current details directly with the fund provider and your broker.*
+*General information about Bond ETFs for International Investors - not a recommendation you should act on unaided. Duration figures cited are illustrative and change with market conditions and fund composition - confirm current details directly with the fund provider and your broker.*
+
+*Sources: iShares 20+ Year Treasury Bond ETF (TLT) product page - effective duration has run in the 16.5-17.5 year range, most recently around 16.8 years. Duration changes as the underlying holdings roll; verify the current figure on the fund page.*
+
+---
 
 ## Related Guides
 

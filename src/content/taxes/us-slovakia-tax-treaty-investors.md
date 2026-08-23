@@ -19,18 +19,18 @@ draft: true
 readingTime: "9 min read"
 featured: false
 seo:
-  metaTitle: "US-Slovakia Tax Treaty: The 1-Year Exemption Explained (2026)"
+  metaTitle: "US-Slovakia: The 1-Year Exemption Explained (2026)"
   metaDescription: "How the US-Slovakia tax treaty caps dividend withholding at 15%. Why holding NYSE/NASDAQ stocks over a year can make the gain fully exempt from Slovak tax."
   ogTitle: "US-Slovakia Tax Treaty: The 1-Year Exemption Explained (2026)"
   ogDescription: "How the US-Slovakia tax treaty caps dividend withholding at 15%. Why holding NYSE/NASDAQ stocks over a year can make the gain fully exempt from Slovak tax."
-  ogImage: "/images/blog/taxes/us-slovakia-tax-treaty.webp"
+  ogImage: "/images/blog/taxes/us-slovakia-tax-treaty-investors.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"
   headline: "US-Slovakia Tax Treaty: The 1-Year Exemption Explained (2026)"
   description: "How the US-Slovakia tax treaty caps dividend withholding at 15%. Why holding NYSE/NASDAQ stocks over a year can make the gain fully exempt from Slovak tax."
   author: "Tzion Sigron"
-  datePublished: "2026-09-06"
+  datePublished: "2026-11-08"
   dateModified: "2026-09-06"
   image: "/images/blog/taxes/us-slovakia-tax-treaty-investors.webp"
   mainEntityOfPage: "https://getglobalyields.com/taxes/us-slovakia-tax-treaty-investors"
@@ -74,7 +74,7 @@ Slovakia taxes dividends at a flat **7%** for individuals - a lower domestic rat
 
 ---
 
-## The Treaty: 15% on Dividends
+## Dividends: What the Slovakia Treaty Actually Gives You
 
 | Income Type | Default US Rate | Treaty Rate (Portfolio) |
 |---|---|---|
@@ -83,25 +83,25 @@ Slovakia taxes dividends at a flat **7%** for individuals - a lower domestic rat
 
 *Sources: US-Slovakia tax arrangements and IRS treaty tables; PwC Slovak Republic Tax Summaries (2026).*
 
-Claiming the 15% rate requires Form [W-8BEN](/taxes/w8ben-form-non-us-investors/) filed with your broker. Without it, the full 30% default applies from the first dividend payment.
+Everything about the rate turns on whether the form is on file. Leave it undone and the rate never drops below the 30% statutory default.
 
 ---
 
-## Broker Access
+## Who Will Actually Take Your Money in Slovakia
 
-Both Interactive Brokers and eToro are confirmed to accept Slovak residents for account opening, alongside XTB and Trade Republic, both also commonly used by Slovak investors. Confirm current requirements directly before applying, since broker policies for specific countries can change.
+Interactive Brokers and eToro both take on Slovak account holders. Broker country policies get revised quietly, so confirm what is required before starting an application.
 
 ---
 
-## Practical Checklist
+## A Working List for Slovakia Residents
 
-**Slovak resident investing in US stocks:**
+**Working through it as a Slovak resident:**
 - [ ] Confirm W-8BEN is on file with your broker; verify 15%, not 30%, on dividend statements
 - [ ] Track acquisition dates per lot - clearing 1 year of your own holding period is the practical condition to watch for the capital gains exemption
 - [ ] Get written confirmation from a Slovak tax advisor that your specific NYSE/NASDAQ-listed holdings qualify as "similar foreign regulated market" securities before relying on the exemption for a large sale
 - [ ] Use the €500 annual exemption for gains realized within a year of purchase, with progressive rates (19% up to ~€48,441 of total income, higher above) applying to the remainder
 - [ ] Claim the foreign tax credit for the 15% US withholding against Slovakia's 7% domestic dividend rate - the credit fully absorbs the domestic layer given the US rate is higher
-- [ ] Confirm current account-opening requirements with Interactive Brokers or eToro before applying
+- [ ] Check what the broker asks of Slovak applicants before opening the application
 
 ---
 
@@ -112,20 +112,20 @@ Both Interactive Brokers and eToro are confirmed to accept Slovak residents for 
 
 ---
 
-## Bottom Line
+## So What Should a Slovakia Investor Do?
 
 The treaty rate is standard - 15% on dividends, claimed with W-8BEN, and effectively the entire tax cost on dividends given Slovakia's low 7% domestic rate is fully absorbed by the credit. The real prize for a Slovak investor in US stocks is the 1-year capital gains exemption, which - unlike some neighboring countries' EU/EEA-only versions of the same idea - is understood to extend to NYSE- and NASDAQ-listed securities. Clearing a single year of holding time converts a capital gain from taxable to fully exempt, making Slovakia one of the more accessible long-term-holding exemptions in this series.
 
 ---
 
-*This article is informational only and does not constitute tax or legal advice. Treaty rates are based on the US-Slovakia tax arrangement per IRS treaty tables. Slovakia's 1-year exemption conditions, the 7% dividend rate, and progressive tax brackets are set by Slovak law and can change - always consult a qualified Slovak tax advisor for advice specific to your situation, particularly to confirm the exemption applies to your specific US-listed holdings.*
+*General information on investing from Slovakia; your own circumstances need a professional's eyes. Rates follow the US-Slovakia tax arrangement as shown in IRS treaty tables. Slovakia's 1-year exemption conditions, the 7% dividend rate, and progressive tax brackets are set by Slovak law and can change - always consult a qualified Slovak tax advisor with your actual numbers in hand, particularly to confirm the exemption applies to your specific US-listed holdings.*
 
 *Sources: IRS Publication 515 (2026) and IRS tax treaty tables; PwC Slovak Republic Tax Summaries - Individual and Corporate Income Determination (2026); Accace - 2026 Tax Guideline for Slovakia; Finsider.sk - Daň z Investovania: Akcie a ETF; NeoTax - Predaj Cenných Papierov: Kedy Je Príjem Oslobodený od Dane; Financial Administration of the Slovak Republic - Oslobodenie Príjmu z Predaja Cenných Papierov.*
 
 ## Related Guides
 
-- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
-- [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)
 - [PFIC Rules for International Investors](/taxes/pfic-rules-international-investors/)
+- [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)
 - [US-Bulgaria Tax Treaty for Investors](/taxes/us-bulgaria-tax-treaty-investors/)
 - [US-Czech Republic Tax Treaty for Investors](/taxes/us-czech-republic-tax-treaty-investors/)
+- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)

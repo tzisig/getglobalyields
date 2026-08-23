@@ -24,7 +24,7 @@ seo:
   metaDescription: "How the US-India tax treaty (DTAA) affects Indian residents and NRIs: the 25% dividend rate, LRS limits, and how India taxes US capital gains."
   ogTitle: "US-India Tax Treaty: DTAA for Resident & NRI (2026)"
   ogDescription: "How the US-India tax treaty (DTAA) affects Indian residents and NRIs: the 25% dividend rate, LRS limits, and how India taxes US capital gains."
-  ogImage: "/images/blog/taxes/us-india-tax-treaty.webp"
+  ogImage: "/images/blog/taxes/us-india-tax-treaty-investors.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"
@@ -122,7 +122,7 @@ To credit the US withholding against Indian tax, you file **Form 67** electronic
 
 ---
 
-## Filing W-8BEN
+## Claiming the Rate: Your W-8BEN
 
 Form W-8BEN goes to your US broker, not the IRS, and activates the 25% DTAA rate in place of the 30% default.
 
@@ -130,7 +130,7 @@ Form W-8BEN goes to your US broker, not the IRS, and activates the 25% DTAA rate
 
 ---
 
-## Practical Checklist
+## Your Next Steps as an Indian Resident
 
 **Resident Indian investing in US stocks:**
 - [ ] Track outward remittances against the $250,000 LRS annual cap
@@ -161,14 +161,16 @@ The DTAA itself is a single, fixed number - 25% on dividends, claimed with a W-8
 
 ---
 
-*This article is informational only and does not constitute tax or legal advice. Rates are based on the India-US Double Taxation Avoidance Agreement (1989) and Indian Income Tax Act provisions (Sections 112, 112A) as confirmed for FY 2026-27 in the Union Budget. LRS limits and TCS rates are set by the Reserve Bank of India and Indian tax law and can change. Always consult a qualified cross-border tax professional, particularly a chartered accountant familiar with NRI taxation, for advice specific to your situation.*
+*General information on investing from India; your own circumstances need a professional's eyes. Rates are based on the India-US Double Taxation Avoidance Agreement (1989) and Indian Income Tax Act provisions (Sections 112, 112A) as confirmed for FY 2026-27 in the Union Budget. LRS limits and TCS rates are set by the Reserve Bank of India and Indian tax law and can change. Always consult a qualified cross-border tax professional, particularly a chartered accountant familiar with NRI taxation, before you commit real money.*
 
 *Sources: India-US Double Taxation Avoidance Agreement (1989); IRS Publication 515 (2026); RSM - Impact of India's New Dividend Withholding Tax on US Investors; Winvesta, INDmoney, Zerodha Varsity, and Tax2win 2026 guides to US stock taxation for Indian investors; NoBroker, ClearTax, and IDFC FIRST Bank 2026 LRS guides; Bajaj Finserv LTCG Tax Rate FY 2026-27 guidance.*
 
+---
+
 ## Related Guides
 
-- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
-- [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)
 - [PFIC Rules for International Investors](/taxes/pfic-rules-international-investors/)
+- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
 - [US-Israel Tax Treaty Explained](/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026/)
 - [US-China Tax Treaty for Investors](/taxes/us-china-tax-treaty-investors/)
+- [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)

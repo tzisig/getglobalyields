@@ -16,6 +16,12 @@ heroImageHeight: 560
 draft: true
 readingTime: "11 min read"
 featured: false
+seo:
+  metaTitle: "Exit Strategy: De-Risking a Leveraged ETF Position"
+  metaDescription: "Technical exit signals like moving averages answer 'when should I sell based on price action.' This is a different question: how to plan de-risking a TQQQ."
+  ogTitle: "Exit Strategy: De-Risking a Leveraged ETF Position"
+  ogDescription: "Technical exit signals like moving averages answer 'when should I sell based on price action.' This is a different question: how to plan de-risking a TQQQ."
+  twitterCard: "summary_large_image"
 ---
 
 This site's [225-day moving average strategy](/strategies/tqqq-qqq-225-day-moving-average-strategy/) and [risk management](/strategies/risk-management-leveraged-etf-investors-2026/) content cover technical exit signals - rules-based approaches for deciding when to reduce a TQQQ position based on price action. This article covers a different question entirely: how to plan de-risking around a **known, dated life event** - a home down payment, a career transition, retirement - where the calendar, not the chart, is what actually matters.
@@ -84,7 +90,7 @@ Yes, with proportional adjustment - if only a portion of the leveraged position 
 
 ---
 
-## Practical Checklist
+## The Exit Strategy Planning Checklist
 
 - [ ] Identify any known, dated expenses or life events the portfolio (or a specific portion of it) is earmarked for
 - [ ] Set a de-risking timeline based on the calendar distance to that event, not on current price trends
@@ -96,13 +102,13 @@ Yes, with proportional adjustment - if only a portion of the leveraged position 
 
 ---
 
-## Bottom Line
+## Exit Strategy Planning in a Paragraph
 
 Technical exit signals and life-event-driven de-risking answer different questions and should not be conflated. When a leveraged position is earmarked for a known, dated goal, the calendar - not the chart - should drive the de-risking schedule, with the timeline growing more conservative as the date approaches, independent of whatever the current price trend happens to suggest. For international investors specifically, the currency-conversion step deserves the same deliberate planning as the market-risk de-risking itself.
 
 ---
 
-*This article is for informational purposes only and does not constitute financial advice. Leveraged ETFs carry substantial risk. Consult a licensed financial advisor to build a de-risking plan specific to your goals and timeline.*
+*Background reading on Exit Strategy Planning; decisions still belong with a professional. Leveraged ETFs carry substantial risk. Consult a licensed financial advisor to build a de-risking plan specific to your goals and timeline.*
 
 ## Related Guides
 

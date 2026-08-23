@@ -19,18 +19,18 @@ draft: true
 readingTime: "10 min read"
 featured: false
 seo:
-  metaTitle: "US-Philippines Tax Treaty Guide: Resident vs OFW Rules (2026)"
-  metaDescription: "How the US-Philippines tax treaty affects resident and OFW investors differently. The 25% dividend rate, why OFWs generally owe no Philippine tax on US income, and IBKR/eToro access."
+  metaTitle: "US-Philippines Treaty: Resident vs OFW Rules (2026)"
+  metaDescription: "How the US-Philippines tax treaty affects resident and OFW investors differently. The 25% dividend rate, why OFWs generally owe no Philippine tax on US."
   ogTitle: "US-Philippines Tax Treaty Guide: Resident vs OFW Rules (2026)"
-  ogDescription: "How the US-Philippines tax treaty affects resident and OFW investors differently. The 25% dividend rate, why OFWs generally owe no Philippine tax on US income, and IBKR/eToro access."
-  ogImage: "/images/blog/taxes/us-philippines-tax-treaty.webp"
+  ogDescription: "How the US-Philippines tax treaty affects resident and OFW investors differently. The 25% dividend rate, why OFWs generally owe no Philippine tax on US."
+  ogImage: "/images/blog/taxes/us-philippines-tax-treaty-investors.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"
   headline: "US-Philippines Tax Treaty Guide: Resident vs OFW Rules (2026)"
-  description: "How the US-Philippines tax treaty affects resident and OFW investors differently. The 25% dividend rate, why OFWs generally owe no Philippine tax on US income, and IBKR/eToro access."
+  description: "How the US-Philippines tax treaty affects resident and OFW investors differently. The 25% dividend rate, why OFWs generally owe no Philippine tax on US."
   author: "Tzion Sigron"
-  datePublished: "2026-08-13"
+  datePublished: "2026-09-09"
   dateModified: "2026-08-13"
   image: "/images/blog/taxes/us-philippines-tax-treaty-investors.webp"
   mainEntityOfPage: "https://getglobalyields.com/taxes/us-philippines-tax-treaty-investors"
@@ -88,15 +88,15 @@ Domestic Philippine dividends, by contrast, are typically subject to a flat 10% 
 
 ---
 
-## Broker Access
+## Getting Set Up as a Filipino Investor
 
-Both Interactive Brokers and eToro are confirmed to accept Philippine residents for account opening - relevant for both resident investors and OFWs funding an account, since account eligibility is generally based on residency/citizenship documentation rather than employment-abroad status specifically. Confirm current requirements directly before applying, since broker policies for specific countries can change.
+Both Interactive Brokers and eToro onboard Philippine residents for account opening - relevant for both resident investors and OFWs funding an account, since account eligibility is generally based on residency/citizenship documentation rather than employment-abroad status specifically. Confirm today's requirements with the broker; country policies are reviewed regularly.
 
 ---
 
-## Practical Checklist
+## Your Philippine Checklist
 
-**Philippine resident investing in US stocks:**
+**Your running list as a Filipino resident:**
 - [ ] Confirm W-8BEN is on file with your broker; verify 25%, not 30%, on dividend statements
 - [ ] Report US dividends and capital gains as part of worldwide income on your Philippine return
 - [ ] Claim the foreign tax credit for the 25% US withholding already paid on dividends
@@ -116,15 +116,18 @@ Both Interactive Brokers and eToro are confirmed to accept Philippine residents 
 
 ---
 
-## Bottom Line
+## The Philippine Position, Condensed
 
 The treaty rate - 25% on dividends, claimed with W-8BEN - is the same for every Philippine investor regardless of residency status. What differs enormously is what happens after that: a Philippine resident faces worldwide taxation up to 35% on top of the US withholding, credited but not eliminated, while an OFW correctly classified as a non-resident citizen generally faces no additional Philippine tax on US investment income at all. Getting your residency classification right - not the treaty article - is the single most consequential fact in this guide for most readers.
 
 ---
 
-*This article is informational only and does not constitute tax or legal advice. Treaty rates are based on the United States-Philippines Income Tax Treaty (1976). Philippine resident-vs-non-resident-citizen classification rules are set by the BIR and depend on individual facts and circumstances - always confirm your specific status with a qualified Philippine tax professional. FBAR and FATCA obligations for US citizens are separate and apply regardless of Philippine residency status.*
+*This is what investing from the Philippines looks like in outline - no more than that. Treaty rates are based on the United States-Philippines Income Tax Treaty (1976). Philippine resident-vs-non-resident-citizen classification rules are set by the BIR and depend on individual facts and circumstances - always confirm your specific status with a qualified Philippine tax professional. FBAR and FATCA obligations for US citizens are separate and apply regardless of Philippine residency status.*
 
 *Sources: United States-Philippines Income Tax Treaty (1976), IRS treaty text; IRS Publication 515 (2026); PwC Philippines Tax Summaries - Individual and Corporate Income Determination and Withholding Taxes (2026); ASEAN Briefing - Understanding Withholding Tax on Dividends in the Philippines; Tohme Accounting - Guide to Income Tax Treaty Between US and Philippines; countrytaxcalc.com - Philippines to USA Tax Guide 2026 (OFW rules).*
+
+*This sets out how US-Philippines Tax Treaty works in general. The figures move, and no guide substitutes for advice on your own holdings.*
+---
 
 ## Related Guides
 

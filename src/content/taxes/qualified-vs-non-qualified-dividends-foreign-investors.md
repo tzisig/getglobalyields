@@ -17,20 +17,20 @@ draft: true
 readingTime: "7 min read"
 featured: false
 seo:
-  metaTitle: "Qualified vs Non-Qualified Dividends for Foreign Investors (2026)"
-  metaDescription: "The qualified/non-qualified dividend distinction that matters so much to US taxpayers is almost entirely irrelevant for non-US investors. Here's why, and what determines your rate instead."
+  metaTitle: "Qualified vs Non-Qualified Dividends Abroad (2026)"
+  metaDescription: "The qualified/non-qualified dividend distinction that matters so much to US taxpayers is almost entirely irrelevant for non-US investors."
   ogTitle: "Qualified vs Non-Qualified Dividends for Foreign Investors (2026)"
-  ogDescription: "The qualified/non-qualified dividend distinction that matters so much to US taxpayers is almost entirely irrelevant for non-US investors. Here's why, and what determines your rate instead."
-  ogImage: "/images/blog/taxes/qualified-vs-non-qualified-dividends.webp"
+  ogDescription: "The qualified/non-qualified dividend distinction that matters so much to US taxpayers is almost entirely irrelevant for non-US investors."
+  ogImage: "/images/blog/taxes/qualified-vs-non-qualified-dividends-foreign-investors.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"
   headline: "Qualified vs Non-Qualified Dividends for Foreign Investors (2026)"
-  description: "The qualified/non-qualified dividend distinction that matters so much to US taxpayers is almost entirely irrelevant for non-US investors. Here's why, and what determines your rate instead."
+  description: "The qualified/non-qualified dividend distinction that matters so much to US taxpayers is almost entirely irrelevant for non-US investors."
   author: "Tzion Sigron"
-  datePublished: "2026-08-05"
+  datePublished: "2026-09-20"
   dateModified: "2026-08-05"
-  image: "/images/blog/taxes/qualified-vs-non-qualified-dividends.webp"
+  image: "/images/blog/taxes/qualified-vs-non-qualified-dividends-foreign-investors.webp"
   mainEntityOfPage: "https://getglobalyields.com/taxes/qualified-vs-non-qualified-dividends-foreign-investors"
 ---
 
@@ -100,7 +100,7 @@ Not entirely - understanding the concept helps you recognize when a piece of con
 
 ---
 
-## Practical Checklist
+## Working Through Qualified Dividends Step by Step
 
 - [ ] Stop researching whether a specific dividend is "qualified" for US tax purposes - as a non-US investor, this does not determine your withholding rate
 - [ ] Focus instead on confirming your [W-8BEN](/taxes/w8ben-form-non-us-investors/) is current and correctly claims your country's treaty rate
@@ -109,15 +109,17 @@ Not entirely - understanding the concept helps you recognize when a piece of con
 
 ---
 
-## Bottom Line
+## Summing Up Qualified Dividends
 
 The qualified vs. non-qualified dividend distinction is one of the most-discussed concepts in US investing content, and almost entirely inapplicable to a non-US investor's actual tax bill. Your US withholding rate is set by whether you have a valid W-8BEN and what your country's treaty rate is - a flat rate applied uniformly, with none of the holding-period or payer-type nuance that makes the qualified/non-qualified question matter so much to American taxpayers.
 
 ---
 
-*This article is informational only and does not constitute tax or legal advice. NRA dividend taxation is governed by IRC §871(a); the qualified dividend framework for US taxpayers is governed by IRC §1(h)(11) and does not apply to non-resident aliens' FDAP income. Consult a qualified cross-border tax professional for advice specific to your situation.*
-
+*Use this to frame your questions about dividend classification, not to answer them. NRA dividend taxation is governed by IRC §871(a); the qualified dividend framework for US taxpayers it §1(h)(11) and does not apply to non-resident aliens' FDAP income. Consult a qualified cross-border tax professional on the specifics of your own holdings.*
 *Sources: IRC §871(a); IRC §1(h)(11); IRC §871(k); IRS Publication 515 (2026).*
+
+*Background reading on Qualified vs Non-Qualified Dividends rather than advice. Confirm anything here against a current source and a professional opinion.*
+---
 
 ## Related Guides
 

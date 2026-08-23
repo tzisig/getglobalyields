@@ -16,6 +16,12 @@ heroImageHeight: 560
 draft: false
 readingTime: "10 min read"
 featured: false
+seo:
+  metaTitle: "Totalization Agreements and Investment Income"
+  metaDescription: "Totalization agreements prevent double Social Security taxation on employment income between the US and around 30 partner countries."
+  ogTitle: "Totalization Agreements and Investment Income"
+  ogDescription: "Totalization agreements prevent double Social Security taxation on employment income between the US and around 30 partner countries."
+  twitterCard: "summary_large_image"
 ---
 
 Totalization agreements come up frequently in cross-border financial planning content, and international investors researching their US tax and Social Security position sometimes wonder whether these agreements offer any protection or benefit for their US brokerage account. They don't - totalization agreements are specifically about Social Security tax on employment income, and have no bearing on investment income at all. This is a genuinely common point of research confusion worth addressing directly, since the two topics sound related but govern entirely separate categories of income under entirely separate legal frameworks.
@@ -74,7 +80,7 @@ The Social Security Administration maintains the current official list of totali
 
 ---
 
-## Practical Checklist
+## Turning Social Security Totalization Agreements Into Actions
 
 - [ ] If you're researching totalization agreements specifically to understand your investment income tax treatment, redirect your research to the relevant income tax treaty instead - they are entirely separate frameworks
 - [ ] If you have cross-border employment income specifically, confirm whether your country has a totalization agreement with the US and how it applies to your specific work arrangement
@@ -84,14 +90,13 @@ The Social Security Administration maintains the current official list of totali
 
 ---
 
-## Bottom Line
+## Social Security Totalization Agreements: The Takeaway
 
 Totalization agreements are a genuinely useful protection against double Social Security taxation for cross-border workers, and can meaningfully help combine benefit eligibility across two countries' work histories, but they have no relevance to an international investor's US brokerage account or investment income - that's governed entirely by income tax treaties and domestic tax rules, a separate framework covered throughout this site's [taxes category](/taxes/). If your research led you to totalization agreements while trying to understand your investment tax situation, the country-specific tax treaty guide is the resource that actually answers your question.
 
 ---
 
-*This article is for informational purposes only and does not constitute financial or tax advice. Totalization agreement terms and Social Security rules can change. Consult a qualified cross-border tax and Social Security advisor for advice specific to your situation.*
-
+*Everything here about Social Security Totalization Agreements is educational, not personalised advice. Totalization agreement terms and Social Security rules can change. Consult a qualified cross-border tax it advisor for advice specific to your situation.*
 ## Related Guides
 
 - [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)

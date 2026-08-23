@@ -58,13 +58,13 @@ Every REIT covered elsewhere on this site - Realty Income, Welltower, American T
 
 ---
 
-## Bottom Line
+## Mortgage REITs vs Equity REITs: The Takeaway
 
 AGNC's roughly 13% yield isn't a free lunch or a mispriced opportunity - it's the direct output of a leveraged borrow-short-lend-long spread business, running 7x-plus leverage against a spread that can compress by half from a financing-cost move that wouldn't even register as major news for an equity REIT. Mortgage REITs and the equity REITs covered throughout the rest of this category share a tax structure and not much else - understanding that the businesses are fundamentally different, not just differently risky versions of the same thing, is the actual prerequisite for deciding whether AGNC's yield is worth what it's compensating for.
 
 ---
 
-*This article is for informational purposes only and does not constitute financial advice. Yields, leverage ratios, book values, and spread figures change quarter to quarter and can move significantly with interest rate conditions - confirm current figures directly with each company's investor relations disclosures before investing.*
+*Everything here about Mortgage REITs vs Equity REITs is educational, not personalised advice. Yields, leverage ratios, book values, and spread figures change quarter to quarter and can move significantly with interest rate conditions - confirm current figures directly with each company's investor relations disclosures before investing.*
 
 ## Related Guides
 

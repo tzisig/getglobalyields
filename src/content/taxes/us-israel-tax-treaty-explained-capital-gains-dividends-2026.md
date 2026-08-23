@@ -120,7 +120,7 @@ The form is one page. You:
 - **[Interactive Brokers](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/):** Account Management → Tax Forms → W-8BEN
 - **[eToro](/best-brokers/etoro-review-2026/):** Settings → Account → Tax Forms
 - **[Firstrade](/best-brokers/firstrade-review-2026/):** My Account → Tax Information → W-8BEN
-- **TD Ameritrade/Charles Schwab:** Similar sections in account settings
+- **Charles Schwab:** Similar sections in account settings
 
 The form is valid for three calendar years from signing. After that, renew it - if you don't, your broker reverts to the 30% default.
 
@@ -191,7 +191,6 @@ Most brokers process W-8BEN within 1-3 business days; the reduced rate applies f
 | Interactive Brokers | Yes | Full | Clearly displays the treaty withholding rate in tax documents |
 | eToro | Yes | Full | Simple interface, good for beginners |
 | Firstrade | Yes | Full | Commission-free US stocks |
-| TD Ameritrade | Limited | Full | Requires $25,000 minimum for non-US |
 | Charles Schwab | Limited | Full | International account available |
 | [Saxo Bank](/best-brokers/saxo-bank-review-2026/) | Yes | Full | European broker with US access |
 
@@ -245,9 +244,9 @@ The US-Israel treaty is real, but it is not one of the generous ones - understan
 
 ## Related Guides
 
-- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
-- [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)
 - [PFIC Rules for International Investors](/taxes/pfic-rules-international-investors/)
+- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
 - [Best Brokers for Israeli Investors in US Markets](/taxes/best-broker-israeli-investors-us-markets/)
 - [US-UK Tax Treaty for Investors](/taxes/us-uk-tax-treaty-investors/)
 - [TQQQ Tax Guide for International Investors](/taxes/tqqq-tax-international-investors/)
+- [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)

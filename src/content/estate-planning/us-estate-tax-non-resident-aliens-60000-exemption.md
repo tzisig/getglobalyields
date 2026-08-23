@@ -1,7 +1,7 @@
 ---
 slug: us-estate-tax-non-resident-aliens-60000-exemption
-title: "US Estate Tax for Non-Resident Aliens: The $60,000 Exemption Trap"
-description: "US citizens get a multi-million-dollar estate tax exemption. Non-resident aliens holding US stocks get $60,000 - not indexed for inflation - with a 40% top rate above it. A real, often-overlooked exposure for any international investor with a meaningful US portfolio, with a worked tax calculation."
+title: "Non-Resident Estate Tax: The $60,000 Exemption Trap"
+description: "Non-resident aliens holding US stocks get a $60,000 exemption, not indexed for inflation, with a 40% top rate above it. The exposure, with a worked calculation."
 pubDate: 2026-08-23
 updatedDate: 2026-08-06
 author: "Tzion Sigron"
@@ -24,7 +24,7 @@ Every article on this site about buying US stocks focuses on income tax - divide
 
 ## The Exemption Gap That Catches People Off Guard
 
-US citizens and domiciliaries receive a substantial estate tax exemption - in the millions of dollars, adjusted periodically under current law (the One Big Beautiful Bill Act's provisions, in effect for 2026). **Non-resident aliens receive a $60,000 exemption on US-situs assets - a figure that is not indexed for inflation and has remained fixed for decades.** This is not a rounding difference from the citizen exemption; it is a categorically different, dramatically smaller threshold, roughly two orders of magnitude apart from the citizen figure.
+US citizens and domiciliaries receive an estate tax exemption of **$15 million** per individual for 2026, indexed going forward under the One Big Beautiful Bill Act. **Non-resident aliens receive a $60,000 exemption on US-situs assets - a figure that is not indexed for inflation and has remained fixed for decades.** This is not a rounding difference from the citizen exemption; it is a categorically different, dramatically smaller threshold, roughly two orders of magnitude apart from the citizen figure.
 
 **What this means concretely:** a non-US investor with a $200,000 US brokerage account - not an unusual amount for someone who has been investing steadily for a decade or more, as covered throughout this site's [strategies](/strategies/) content - has $140,000 exposed above the exemption, taxed at graduated rates that reach 40% on the amount above the threshold. This is a real, calculable liability, not a hypothetical concern for only the wealthiest investors.
 
@@ -32,7 +32,22 @@ US citizens and domiciliaries receive a substantial estate tax exemption - in th
 
 ## A Worked Calculation
 
-**The NRA estate tax rate schedule is graduated**, starting at 18% on the first taxable dollars above the exemption and rising to a 40% top rate on larger taxable amounts. For an investor whose US-situs assets total $260,000 at death - $200,000 above the $60,000 exemption - the tax is calculated by applying the graduated schedule to that $200,000 taxable amount, not a flat 40% on the entire excess. The graduated structure means the effective rate on the taxable portion is meaningfully below the 40% top marginal rate for smaller taxable estates, but climbs toward that top rate as the taxable amount grows larger - the same graduated-bracket logic that applies to US income tax, applied here to the estate tax calculation instead.
+**The NRA estate tax rate schedule is graduated**, running from 18% to a 40% top rate - but the way the exemption is delivered means you never actually pay the bottom brackets.
+
+There is no $60,000 deduction as such. IRC §2102(b) gives a **unified credit of $13,000**, and $13,000 is precisely the tentative tax on $60,000 under the §2001(c) schedule. The credit therefore consumes the 18%, 20%, 22% and 24% bands in full. **The first taxable dollar above $60,000 is taxed at 26%**, not 18% - a distinction that matters, because 18% is the figure most summaries quote.
+
+Worked properly, for an investor whose US-situs assets total **$260,000** at death:
+
+| Step | Amount |
+|---|---|
+| Gross US-situs estate | $260,000 |
+| Tentative tax on $260,000 (§2001(c) schedule) | $74,200 |
+| Less §2102(b) unified credit | −$13,000 |
+| **Estate tax due** | **$61,200** |
+
+That is **30.6%** of the $200,000 above the exemption - well under the 40% headline, but nowhere near the 18% the bottom of the schedule suggests.
+
+A smaller estate shows the same shape. On **$150,000** of US-situs assets, the tentative tax is $38,800, less the $13,000 credit leaves **$25,800** - **28.7%** of the $90,000 taxable amount. The effective rateount grows larger - the same graduated-bracket logic that applies to US income tax, applied here to the estate tax calculation instead.
 
 **Why this matters for planning purposes:** understanding that the tax is graduated, not a flat 40% on everything above $60,000, changes the urgency calculus somewhat for a moderate-sized portfolio - a $150,000 US-situs position facing a $90,000 taxable amount owes meaningfully less than 40% of that $90,000 in practice, even though the top rate does apply once the taxable amount grows large enough to reach the highest bracket.
 
@@ -78,7 +93,7 @@ Yes - several structural approaches exist, covered throughout this category, inc
 
 ---
 
-## Practical Checklist
+## Working Through US Estate Tax for Non-Resident Aliens Step by Step
 
 - [ ] Estimate your current US-situs asset value (US-listed stocks and ETFs, regardless of which broker holds them) against the $60,000 threshold
 - [ ] Do not assume moving your account to a non-US broker changes your US estate tax exposure - it generally does not, for US-listed securities specifically
@@ -89,13 +104,13 @@ Yes - several structural approaches exist, covered throughout this category, inc
 
 ---
 
-## Bottom Line
+## The Short Version of US Estate Tax for Non-Resident Aliens
 
 The $60,000 non-resident alien estate tax exemption is dramatically smaller than most international investors assume, is not adjusted for inflation, and applies regardless of where your brokerage account is held - only what it holds. For any investor building a meaningful long-term US stock position, this is worth understanding and planning around well before it becomes an urgent concern, not treated as a footnote, given how easily a steadily growing portfolio can cross this fixed, decades-old threshold.
 
 ---
 
-*This article is for informational purposes only and does not constitute legal or tax advice. US estate tax rules, exemption amounts, and rates are set by federal law and can change. Consult a qualified cross-border estate planning attorney for advice specific to your situation.*
+*None of this is advice on US Estate Tax for Non-Resident Aliens for your specific situation. US estate tax rules, exemption amounts, and rates are set by federal law and can change. Your position deserves a professional's review before you commit.*
 
 ## Related Guides
 

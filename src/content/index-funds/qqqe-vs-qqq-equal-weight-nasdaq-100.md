@@ -42,7 +42,7 @@ The mechanic itself is simple: instead of Apple's weight being determined by its
 
 | Fund | Manager | Expense Ratio |
 |---|---|---|
-| QQQ | Invesco | 0.18% |
+| QQQ | Invesco | 0.20% |
 | QEW | Invesco | 0.25% |
 | QQQE | Direxion | 0.35% |
 
@@ -90,13 +90,13 @@ QQQ, QQQE, and QEW are all US-domiciled funds subject to the identical NRA divid
 
 ---
 
-## Bottom Line
+## Reading QQQE vs QQQ Overall
 
 QQQE and the newer, cheaper QEW give real exposure to the Nasdaq-100's smaller constituents that QQQ's market-cap weighting mostly ignores, and that's a legitimate reason to consider either one. What they don't reliably deliver is the crash protection their headline drawdown numbers suggest - QQQE's smaller since-inception decline is largely an artifact of not having existed during the dot-com crash, and its actual 2022 performance landed close to QQQ's own. The real decision is whether you're comfortable trading away a decade of mega-cap-driven outperformance for reduced single-name concentration, not whether equal-weighting will cushion the next downturn.
 
 ---
 
-*This article is for informational purposes only and does not constitute financial advice. Expense ratios, yields, and historical performance figures change over time and vary by data provider - confirm current figures directly with each fund provider before investing. Past performance does not predict future results.*
+*This explains QQQE vs QQQ; it does not advise you on what to do about it. Expense ratios, yields, and historical performance figures change over time and vary by data provider - confirm current figures directly with each fund provider before investing. Past performance does not predict future results.*
 
 ## Related Guides
 

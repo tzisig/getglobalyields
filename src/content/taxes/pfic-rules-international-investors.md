@@ -121,7 +121,7 @@ Israelis who hold Keren Hishtalmut funds, [Israeli](/taxes/us-israel-tax-treaty-
 
 ### Canadian Investors
 
-Canadian mutual funds and [Canadian]( /taxes/us-canada-tax-treaty-investors-2026 /) ETFs are PFICs for US persons living in Canada or with US tax obligations. This catches a lot of people - especially dual citizens who thought their TFSA or RRSP accounts were protected. (Spoiler: some of them aren't, depending on treaty elections.)
+Canadian mutual funds and [Canadian](/taxes/us-canada-tax-treaty-investors-2026/) ETFs are PFICs for US persons living in Canada or with US tax obligations. This catches a lot of people - especially dual citizens who thought their TFSA or RRSP accounts were protected. (Spoiler: some of them aren't, depending on treaty elections.)
 
 ### Australian Investors
 
@@ -234,13 +234,13 @@ If you already hold PFICs, get professional advice before exiting - the right se
 
 ---
 
-*This article is informational only and does not constitute tax or legal advice. PFIC rules are governed by IRC Sections 1291-1298. Form 8621's $25,000/$50,000 de minimis exception is per the current IRS instructions to Form 8621 (Part I); the December 2025 form revision and January 2026 instructions update are confirmed directly from irs.gov. Rules and thresholds can change - always consult a qualified cross-border tax professional before making decisions about PFIC holdings or elections.*
+*Treat this as a map of the PFIC rules, not as professional guidance. PFIC rules are governed by IRC Sections 1291-1298. Form 8621's $25,000/$50,000 de minimis exception is per the current IRS instructions to Form 8621 (Part I); the December 2025 form revision and January 2026 instructions update are confirmed directly from irs.gov. Rules and thresholds can change - always consult a qualified cross-border tax professional before making decisions about PFIC holdings or elections.*
 
 ## Related Guides
 
-- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
-- [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)
 - [US-Israel Tax Treaty Explained](/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026/)
 - [US-Canada Tax Treaty for Investors](/taxes/us-canada-tax-treaty-investors-2026/)
 - [US-Australia Tax Treaty for Investors](/taxes/us-australia-tax-treaty-investors/)
 - [Best Brokers for International Investors](/best-brokers/best-brokers-international-investors-2026/)
+- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
+- [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)

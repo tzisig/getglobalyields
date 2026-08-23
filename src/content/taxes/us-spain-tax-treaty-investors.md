@@ -19,18 +19,18 @@ draft: true
 readingTime: "10 min read"
 featured: false
 seo:
-  metaTitle: "US-Spain Tax Treaty: Modelo 720 Explained for US Stocks (2026)"
-  metaDescription: "How the US-Spain tax treaty caps dividend withholding at 15%. Why a US brokerage account over EUR 50,000 requires filing Modelo 720, and Spain's savings income tax scale."
+  metaTitle: "US-Spain Tax Treaty: Modelo 720 and US Stocks (2026)"
+  metaDescription: "A US-Spain tax treaty caps dividend withholding at 15%. Why a US brokerage account over EUR 50,000 requires filing Modelo 720, and Spain's savings income tax."
   ogTitle: "US-Spain Tax Treaty: Modelo 720 Explained for US Stocks (2026)"
-  ogDescription: "How the US-Spain tax treaty caps dividend withholding at 15%. Why a US brokerage account over EUR 50,000 requires filing Modelo 720, and Spain's savings income tax scale."
-  ogImage: "/images/blog/taxes/us-spain-tax-treaty.webp"
+  ogDescription: "A US-Spain tax treaty caps dividend withholding at 15%. Why a US brokerage account over EUR 50,000 requires filing Modelo 720, and Spain's savings income tax."
+  ogImage: "/images/blog/taxes/us-spain-tax-treaty-investors.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"
   headline: "US-Spain Tax Treaty: Modelo 720 Explained for US Stocks (2026)"
-  description: "How the US-Spain tax treaty caps dividend withholding at 15%. Why a US brokerage account over EUR 50,000 requires filing Modelo 720, and Spain's savings income tax scale."
+  description: "A US-Spain tax treaty caps dividend withholding at 15%. Why a US brokerage account over EUR 50,000 requires filing Modelo 720, and Spain's savings income tax."
   author: "Tzion Sigron"
-  datePublished: "2026-09-07"
+  datePublished: "2026-11-09"
   dateModified: "2026-09-07"
   image: "/images/blog/taxes/us-spain-tax-treaty-investors.webp"
   mainEntityOfPage: "https://getglobalyields.com/taxes/us-spain-tax-treaty-investors"
@@ -79,7 +79,7 @@ If your US brokerage account (Category C2) exceeds €50,000 at any point, you m
 
 *Sources: US-Spain Income Tax Convention, Protocol entered into force November 27, 2019; IRS treaty text.*
 
-The 2019 Protocol modernized the original treaty and reduced or eliminated withholding on several income categories. For an individual portfolio investor, the operative rate is **15%**, claimed with Form [W-8BEN](/taxes/w8ben-form-non-us-investors/). Without it, the full 30% default applies from the first dividend payment.
+The 2019 Protocol modernized the original treaty and reduced or eliminated withholding on several income categories. For an individual portfolio investor, the operative rate is **15%**, claimed with Form [W-8BEN](/taxes/w8ben-form-non-us-investors/). The 30% persists for every payment the form is not on file.
 
 ---
 
@@ -101,21 +101,21 @@ This is a genuine progressive scale, not a flat rate - dividends and capital gai
 
 ---
 
-## Broker Access
+## Onboarding from Spain
 
-Both Interactive Brokers and eToro are confirmed to accept Spanish residents for account opening. Neither changes the Modelo 720 filing obligation, which is triggered by account value regardless of which broker holds the assets.
+Interactive Brokers and eToro each accept Spanish residents. Neither changes the Modelo 720 filing obligation, which is triggered by account value regardless of which broker holds the assets.
 
 ---
 
-## Practical Checklist
+## What to Get Right from Spain
 
-**Spanish resident investing in US stocks:**
+**Your running list as a Spanish resident:**
 - [ ] Confirm W-8BEN is on file with your broker; verify 15%, not 30%, on dividend statements
 - [ ] Track your US brokerage account value against the €50,000 Modelo 720 threshold for Category C2
 - [ ] File Modelo 720 by March 31 if the threshold is crossed, and re-file if the value changes by more than €20,000 in a later year
 - [ ] Report US dividends and capital gains under Spain's progressive savings income scale (19%-30%), combining both income types into the same base
 - [ ] Claim the foreign tax credit for the 15% US withholding on dividends
-- [ ] Confirm current account-opening requirements with Interactive Brokers or eToro before applying
+- [ ] Re-check account-opening requirements with the broker directly before you apply
 
 ---
 
@@ -126,20 +126,20 @@ Both Interactive Brokers and eToro are confirmed to accept Spanish residents for
 
 ---
 
-## Bottom Line
+## How This Adds Up for Spain Residents
 
 The treaty rate is settled and favorable - 15% on dividends, confirmed by the 2019 Protocol modernization. The detail most likely to catch a Spanish resident off guard is procedural, not a tax rate at all: Modelo 720's €50,000 reporting threshold applies to an ordinary US brokerage account, and missing it is a compliance risk independent of how much tax is actually owed. Combined with Spain's progressive savings income scale reaching 30% at the top, getting both the treaty mechanics and the reporting obligation right is worth real attention for anyone relocating to Spain with an existing US investment portfolio.
 
 ---
 
-*This article is informational only and does not constitute tax or legal advice. Treaty rates are based on the US-Spain Income Tax Convention as amended by the Protocol in force November 27, 2019. Modelo 720 thresholds, deadlines, and Spain's savings income tax brackets are set by Spanish law and can change - always consult a qualified Spanish tax advisor (asesor fiscal) for advice specific to your situation.*
+*None of this is advice on investing from Spain for your own circumstances. Treaty rates are based on the US-Spain Income Tax Convention as amended by the Protocol in force November 27, 2019. Modelo 720 thresholds, deadlines, and Spain's savings income tax brackets are set by Spanish law and can change - always consult a qualified Spanish tax advisor (asesor fiscal) before you act on any of it.*
 
 *Sources: US-Spain Income Tax Convention and 2019 Protocol; IRS Publication 515 (2026); PwC Spain Tax Summaries - Individual Taxes on Personal Income and Income Determination (2026); LegalClarity - US-Spain Tax Treaty Withholding Rates; Waypoint Sur and Lawants - Modelo 720 Spain Foreign Asset Declaration Guides (2026).*
 
 ## Related Guides
 
-- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
 - [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)
+- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
 - [PFIC Rules for International Investors](/taxes/pfic-rules-international-investors/)
 - [US-France Tax Treaty for Investors](/taxes/us-france-tax-treaty-investors/)
 - [US-Switzerland Tax Treaty for Investors](/taxes/us-switzerland-tax-treaty-investors/)

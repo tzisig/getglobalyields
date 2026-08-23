@@ -1,13 +1,13 @@
 ---
 slug: reits-vs-dividend-stocks
 title: "REITs vs Dividend Stocks: Best for Passive Income in 2026?"
-description: "REITs vs dividend stocks for international investors. Yield, withholding tax treatment, volatility, and which fits a non-US income portfolio better in 2026."
+description: "REITs vs Dividend Stocks for international investors. Yield, withholding tax treatment, volatility, and which fits a non-US income portfolio better in 2026."
 pubDate: 2026-05-30
 updatedDate: 2026-05-30
 author: "Tzion Sigron"
 categories: ["Strategies"]
 tags:
-  - "REITs vs dividend stocks"
+  - "REITs vs Dividend Stocks"
   - "passive income 2026"
   - "REIT investing international"
   - "dividend stocks 2026"
@@ -24,11 +24,11 @@ featured: false
 schema:
   faq:
     - question: "Are REIT dividends qualified dividends?"
-      answer: "No. REIT distributions are mostly ordinary income - rental income passed through to shareholders. They cannot be qualified dividends under US tax law, and they receive less favorable treaty treatment for international investors (25% withholding under the US-Israel treaty vs. 15% for qualified corporate dividends)."
+      answer: "No. REIT distributions are mostly ordinary income - rental income passed through to shareholders - and cannot be qualified dividends under US tax law. For an Israeli investor this makes no difference to the withholding rate: the US-Israel treaty applies the same 25% to both. The qualified/ordinary distinction matters for US taxpayers, not for a treaty-rate portfolio investor."
     - question: "What is the actual breakdown of a REIT distribution?"
       answer: "Based on NAREIT's 2024 data across all US-listed REITs: approximately 78% ordinary income, 9% long-term capital gains, 12% return of capital. The breakdown varies by REIT and year. Each REIT publishes its annual distribution breakdown on its investor relations page (Form 8937)."
     - question: "Does W-8BEN reduce REIT withholding to 15% for Israeli investors?"
-      answer: "No. W-8BEN applies the US-Israel treaty rate to REIT ordinary dividends, which is 25% under Article 12 - not 15%. The 15% rate applies to qualified corporate dividends. Always verify the actual rate your broker applies."
+      answer: "No - and it does not reduce ordinary corporate dividends to 15% either. Under Article 12 of the US-Israel treaty the portfolio rate is 25% for an individual, with 12.5% reserved for a company holding 10%+ of the payer's voting stock. The widely repeated 15% figure comes from other US treaties and does not apply to Israel. Always verify the actual rate on your dividend statement."
     - question: "What is FIRPTA and how does it affect REIT investors?"
       answer: "When a foreign investor sells REIT shares, 15% of gross sale proceeds is withheld at the point of sale. This is a prepayment against actual tax owed, reconciled via a US non-resident tax return (Form 1040-NR). For retail investors owning under 10% of a publicly traded REIT, capital gain distributions received during the holding period are not subject to FIRPTA - only the share sale itself triggers FIRPTA withholding."
     - question: "When is the yield spread attractive enough to buy REITs?"
@@ -37,9 +37,6 @@ schema:
       answer: "REITs, clearly. Inside a Roth IRA, US withholding does not apply and distributions compound tax-free. The gross yield advantage is fully realized without any drag."
 
 ---
-
-<!-- PAGE: Add to /income-investing/ -->
-<!-- INTERNAL LINKS: Link from dividend investing guide, broker comparison pages, Israel tax guide -->
 
 ---
 
@@ -57,7 +54,7 @@ This guide works through both sides with verified 2026 data and ends with a conc
 
 ## Bottom Line Up Front
 
-For most international investors in a taxable account, **high-quality dividend stocks from US corporations are more tax-efficient than US REITs**. REIT distributions attract 25% US withholding under the US-[Israel](/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026/) treaty (vs. 15% on qualified corporate dividends), REIT share sales trigger FIRPTA withholding that standard equity sales do not, and the return-of-capital portion of REIT distributions - while not immediately taxable - reduces cost basis and creates a deferred tax liability at exit.
+For most international investors in a taxable account, **high-quality dividend stocks from US corporations end up ahead of US REITs - but not for the reason usually given**. The withholding rate is identical: the US-[Israel](/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026/) treaty applies 25% to REIT distributions and ordinary corporate dividends alike, and on net income per dollar invested the REIT actually wins. The REIT disadvantage shows up at exit: share sales trigger FIRPTA withholding that standard equity sales do not, and the return-of-capital portion of distributions - while not immediately taxable - erodes cost basis and enlarges the gain you eventually pay tax on.
 
 The calculation flips in two specific situations: investors holding inside a tax-advantaged account (Roth IRA or equivalent), and Israeli olim hadashim during their 10-year tax exemption window. In both cases, the REIT yield advantage is compelling because the tax drag is eliminated or substantially reduced.
 
@@ -132,11 +129,13 @@ The US default withholding rate on dividends paid to foreign investors is 30%. F
 
 **Critical distinction - what W-8BEN actually does for Israeli investors:**
 
-- On **qualified dividends from US corporations**: W-8BEN reduces withholding from 30% to **15%** under the [US-Israel](/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026/) treaty (Article 12)
-- On **REIT ordinary dividends**: W-8BEN reduces withholding from 30% to **25%** - the treaty cap for ordinary income under Article 12. Not 15%.
+- On **dividends from US corporations**: W-8BEN reduces withholding from 30% to **25%** under the [US-Israel](/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026/) treaty (Article 12). The treaty's lower **12.5%** tier is reserved for a company holding at least 10% of the payer's voting stock - it is not available to an individual portfolio investor.
+- On **REIT ordinary dividends**: W-8BEN also applies the **25%** portfolio rate, provided you are an individual holding less than a 10% interest in the REIT. Above that threshold the treaty rate falls away and the 30% statutory rate applies.
 - On **US interest income**: the treaty caps withholding at **17.5%** under Article 13 - the Interest article of the convention. Article 13 reduces the rate to 10% for certain banks, savings institutions, and insurance companies, and to 0% for government-backed debt. Verified from the IRS treaty technical explanation (irs.gov/pub/irs-trty/israel.pdf) and confirmed by taxesforexpats.com (April 2026).
 
-This distinction is the source of most confusion among Israeli REIT investors. Filing a W-8BEN does not produce a 15% rate on REIT income. The 15% rate applies to qualified corporate dividends - income that REITs structurally cannot produce because their distributions are ordinary rental income, not qualified dividends.
+**This is where a lot of published guidance goes wrong.** Many comparisons - including an earlier version of this article - claim that a W-8BEN drops an Israeli investor to 15% on ordinary corporate dividends, and that REITs are penalised by comparison at 25%. **There is no 15% tier in the US-Israel treaty for an individual.** The 15% figure is the common rate in many *other* US treaties and gets copied across carelessly. Under Article 12 the rate is 12.5% for a qualifying 10% corporate shareholder and 25% for everyone else.
+
+The practical consequence matters: for an Israeli retail investor, **REIT distributions and ordinary corporate dividends are withheld at the same 25%.** There is no withholding advantage to dividend stocks here. What still separates the two is FIRPTA at exit and the basis erosion from return of capital - both covered below - not the rate on the income itself.
 
 Always verify the withholding rate your broker applies to each position. [IBKR](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/) displays this in the tax detail of each security's dividend history.
 
@@ -158,15 +157,15 @@ Every dollar of ROC distribution received reduces your cost basis in the REIT po
 
 | Investment | Gross Yield | US Withholding | Net After Withholding | Notes |
 |---|---|---|---|---|
-| Realty Income (REIT) | 5.70% | 25% (ordinary) | ~4.40%* | FIRPTA on exit; ROC reduces basis |
-| NNN REIT | 5.85% | 25% (ordinary) | ~4.51%* | Same structure |
-| Coca-Cola (KO) | 3.10% | 15% | 2.64% | No FIRPTA; qualified dividend |
-| Johnson & Johnson | 3.20% | 15% | 2.72% | No FIRPTA; qualified dividend |
-| Altria (MO) | ~7.3% | 15% | 6.21% | No FIRPTA; qualified dividend; high payout risk |
+| Realty Income (REIT) | 5.70% | 25% | ~4.40%* | FIRPTA on exit; ROC reduces basis |
+| NNN REIT | 5.85% | 25% | ~4.51%* | Same structure |
+| Coca-Cola (KO) | 3.10% | 25% | 2.33% | No FIRPTA; no basis erosion |
+| Johnson & Johnson | 3.20% | 25% | 2.40% | No FIRPTA; no basis erosion |
+| Altria (MO) | ~7.3% | 25% | 5.48% | No FIRPTA; high payout risk |
 
-*Effective net yield accounts for ROC arriving untaxed, partially offsetting the 25% withholding on the ordinary income component. See distribution breakdown section above.
+*The REIT net yields are slightly better than a flat 25% haircut would suggest, because the ~12% return-of-capital component arrives untaxed. That is a deferral, not an exemption - it comes back as a larger gain at exit.
 
-*Israeli top-up tax applies to the net income in all cases. With REIT ordinary dividends at 25% US withholding and Israeli CGT at 25%, the treaty credit typically covers the Israeli liability on the ordinary income portion. With qualified dividends at 15% withholding, a ~10% top-up to Israel applies. Individual circumstances vary - verify with a tax advisor.*
+*Note what this table does **not** show: a withholding advantage for the dividend stocks. At 25% across the board, the REIT actually delivers more net income per dollar invested. The case against REITs for an Israeli investor is made at exit, not on the income line. Israeli tax at 25% on investment income is generally covered by the US credit in both cases; individual circumstances vary - verify with a tax advisor.*
 
 ---
 
@@ -179,8 +178,9 @@ This is the number that answers the question. Not gross yield. Not after-withhol
 **Assumptions:**
 - Israeli investor, taxable account, not an oleh, W-8BEN filed
 - $100,000 invested in each position simultaneously
-- Realty Income (O): 5.7% gross yield, 10-year total return CAGR 5.93% (FinanceCharts, May 2026)
-- Coca-Cola (KO): 3.1% gross yield, 10-year total return CAGR 9.17% (AverageAnnualReturn.com, through April 2026)
+- Realty Income (O): 5.7% gross yield, 10-year **total return** CAGR 5.93% (FinanceCharts, May 2026)
+- Coca-Cola (KO): 3.1% gross yield, 10-year **total return** CAGR 9.17% (AverageAnnualReturn.com, through April 2026)
+- **Because distributions are spent rather than reinvested, the capital leg below uses a price-only CAGR, approximated as total return minus average yield** - roughly 0.2% for O and 6.1% for KO. Using the total-return figure for price growth *and* separately adding ten years of cash distributions would count the same dividends twice. This approximation is rough, but it errs in the right direction: it stops the comparison from inventing return that isn't there.
 - **All distributions spent, not reinvested - this is the income-investor scenario.** This assumption is critical: if distributions are reinvested, the compounding dynamic changes substantially and Coca-Cola's total return advantage over 10 years widens further, because reinvested dividends compound at the full pre-tax rate inside the position. For an investor who spends the distributions to live on - the primary audience for an income comparison - the numbers below apply.
 - Israeli CGT 25% on capital gains at exit
 - FIRPTA 15% of gross proceeds withheld on Realty Income sale (refundable but tied up)
@@ -190,41 +190,42 @@ This is the number that answers the question. Not gross yield. Not after-withhol
 **Realty Income - $100,000 over 10 years:**
 
 *Annual income (spent, not reinvested):*
-- Year 1 gross: $5,700 → after 25% withholding on ordinary portion: ~$4,404 cash received
-- ROC component (~12% = $684/year) reduces cost basis by ~$684/year
+- Year 1 gross: $5,700, split ~78% ordinary / ~9% capital gain / ~12% ROC
+- 25% withheld on the taxable ~88% ($5,016) = ~$1,254; the ~$684 ROC arrives untaxed
+- Net cash received: **~$4,446/year**
 - After 10 years: approximately $6,840 in cumulative ROC has reduced cost basis from $100,000 to ~$93,160
 
-*Cumulative income received over 10 years:* ~$44,040 (10 × $4,404, simplified - actual varies with price and distribution changes)
+*Cumulative income received over 10 years:* ~$44,460
 
 *Capital position at exit:*
-- At 5.93% CAGR (price only, distributions spent): $100,000 grows to approximately $177,800
-- Sale proceeds: $177,800
-- FIRPTA withheld at sale: 15% × $177,800 = **$26,670** (refundable after Form 1040-NR filing)
-- Taxable gain (Israeli CGT): $177,800 - $93,160 (reduced basis) = $84,640 gain
-- Israeli CGT at 25% (net of US withholding credit): effective tax ~$21,160
-- Net proceeds after tax: approximately $156,640
+- At ~0.2% price-only CAGR (O's total return is almost entirely yield): $100,000 grows to approximately $102,000
+- Sale proceeds: $102,000
+- FIRPTA withheld at sale: 15% × $102,000 = **$15,300** (refundable after Form 1040-NR filing)
+- Taxable gain (Israeli CGT): $102,000 - $93,160 (reduced basis) = $8,840 gain
+- Israeli CGT at 25%: ~$2,210
+- Net proceeds after tax: approximately $99,790
 
-**10-year total: $44,040 income + $156,640 net exit = ~$200,680**
+**10-year total: $44,460 income + $99,790 net exit = ~$144,250**
 
 ---
 
 **Coca-Cola - $100,000 over 10 years:**
 
 *Annual income (spent, not reinvested):*
-- Year 1 gross: $3,100 → after 15% withholding: $2,635 cash received
+- Year 1 gross: $3,100 → after **25%** withholding: **$2,325** cash received
 - No ROC - cost basis remains $100,000
-- Israeli top-up ~10% on net dividend: effective net ~$2,373/year
+- No Israeli top-up: the 25% US credit covers the 25% Israeli liability on the same income
 
-*Cumulative income received over 10 years:* ~$23,730 (income investor scenario - lower than O)
+*Cumulative income received over 10 years:* ~$23,250 (income investor scenario - well below O)
 
 *Capital position at exit:*
-- At 9.17% CAGR (price appreciation component, distributions spent): $100,000 grows to approximately $239,600
+- At ~6.1% price-only CAGR: $100,000 grows to approximately $180,300
 - No FIRPTA - no withholding at sale
-- Taxable gain (Israeli CGT): $239,600 - $100,000 = $139,600 gain
-- Israeli CGT at 25%: $34,900
-- Net proceeds after tax: approximately $204,700
+- Taxable gain (Israeli CGT): $180,300 - $100,000 = $80,300 gain
+- Israeli CGT at 25%: ~$20,075
+- Net proceeds after tax: approximately $160,225
 
-**10-year total: $23,730 income + $204,700 net exit = ~$228,430**
+**10-year total: $23,250 income + $160,225 net exit = ~$183,475**
 
 ---
 
@@ -232,17 +233,19 @@ This is the number that answers the question. Not gross yield. Not after-withhol
 
 | | Realty Income | Coca-Cola |
 |---|---|---|
-| 10-year income received | ~$44,040 | ~$23,730 |
-| Net exit proceeds | ~$156,640 | ~$204,700 |
-| **Total 10-year return** | **~$200,680** | **~$228,430** |
-| FIRPTA cash tied up at exit | $26,670 | None |
+| 10-year income received | ~$44,460 | ~$23,250 |
+| Net exit proceeds | ~$99,790 | ~$160,225 |
+| **Total 10-year return** | **~$144,250** | **~$183,475** |
+| FIRPTA cash tied up at exit | $15,300 | None |
 | Tax filing complexity | Form 1040-NR required | Standard Israeli return |
 
-Coca-Cola produces approximately $27,750 more in total 10-year return despite a headline yield less than half of Realty Income's. The income investor who chose Realty Income received more cash annually - but left the building with less total wealth after tax.
+Coca-Cola produces roughly **$39,000 more** in total 10-year return despite a headline yield less than half of Realty Income's. The income investor who chose Realty Income collected nearly twice the annual cash - and still finished with materially less total wealth.
+
+**Note what is and isn't driving that gap.** It is *not* withholding: both positions were withheld at the same 25%, and on the income line the REIT actually won. The gap comes from total return. Over this particular decade Realty Income's 5.93% was almost entirely distribution, leaving the share price roughly flat, while Coca-Cola's 9.17% carried real price appreciation on top of a smaller dividend. FIRPTA and the ROC basis erosion add friction at exit, but they are second-order next to that.
 
 **Important caveats:** This calculation uses historical CAGRs that may not repeat. Realty Income's 5.93% 10-year CAGR is a period that included significant rate headwinds (2022-2023); a lower-rate environment could produce better capital appreciation. Coca-Cola's 9.17% CAGR benefited from specific market conditions. The point is not that one will always win - it is that the tax mechanics materially close the yield gap, and the total return picture is the relevant comparison, not the headline yield.
 
-**The reinvestment scenario is different:** If both investors reinvested all distributions rather than spending them, Coca-Cola's total return advantage widens, because reinvested KO dividends compound inside the position at full CAGR. The comparison above is specifically for an income investor drawing distributions to spend. Investors who reinvest should run the full DRIP calculation - but the tax mechanics (25% vs 15% withholding, FIRPTA at exit) still apply and still favor KO over O in a taxable account.
+**The reinvestment scenario is different:** If both investors reinvested all distributions rather than spending them, Coca-Cola's total return advantage widens, because reinvested KO dividends compound inside the position at full CAGR. The comparison above is specifically for an income investor drawing distributions to spend. Investors who reinvest should run the full DRIP calculation - but the exit mechanics (FIRPTA, ROC basis erosion) still apply and still favor KO over O in a taxable account.
 
 ---
 
@@ -263,7 +266,7 @@ Category-average REIT yields are not compelling at current rates. Individual qua
 ## Four Investor Scenarios: The Concrete Recommendation
 
 **Scenario 1: Israeli investor, taxable account, not an oleh**
-25% withholding on REIT distributions, 15% on qualified dividends, FIRPTA on REIT exit, ROC basis complications. The 10-year case study above quantifies the gap: Coca-Cola produces approximately $27,750 more in total return despite half the headline yield. **Recommendation: Dividend stocks as the primary income holding. Consider a 10-15% REIT allocation only for real estate diversification and monthly cash flow, with full awareness of the exit tax mechanics.**
+25% withholding on both REIT distributions and corporate dividends, FIRPTA on REIT exit, ROC basis complications. The 10-year case study above quantifies the gap: Coca-Cola produces roughly $39,000 more in total return despite half the headline yield - driven by total return and exit friction, not by any withholding advantage. **Recommendation: Dividend stocks as the primary income holding. Consider a 10-15% REIT allocation only for real estate diversification and monthly cash flow, with full awareness of the exit tax mechanics.**
 
 **Scenario 2: Israeli oleh, taxable account, within 10-year exemption**
 US withholding applies, no Israeli tax on foreign-source income. Realty Income at 5.7% gross → ~4.40% effective after US withholding. Coca-Cola at 3.1% → 2.64% net. **Recommendation: The REIT income advantage is genuine during the exemption window. Net-lease REITs as a meaningful allocation (20-30%) make sense here, paired with dividend growth stocks for the capital appreciation component. Note: the exemption window ends. Any REIT position built during the exemption will face Israeli CGT and FIRPTA at exit after the window closes - plan the exit accordingly.**
@@ -272,7 +275,7 @@ US withholding applies, no Israeli tax on foreign-source income. Realty Income a
 No US withholding inside a Roth, no domestic tax, distributions compound freely. **Recommendation: REITs, unambiguously. The gross yield advantage is fully realized. Quality net-lease REITs belong inside tax-advantaged accounts.**
 
 **Scenario 4: Long-term total-return investor, 15+ year horizon**
-Dividend growth compounders with 2.5-3% yield and 8-10% annual growth outpace a static 5.7% REIT yield in dollar terms by year 13-15. They also carry no FIRPTA, lower withholding, and superior capital appreciation over 25+ year periods. **Recommendation: Dividend growth stocks for long horizons. A 10-15% REIT allocation for diversification is reasonable - but income maximization over 15+ years favors dividend growth.**
+Dividend growth compounders with 2.5-3% yield and 8-10% annual growth outpace a static 5.7% REIT yield in dollar terms by year 13-15. They also carry no FIRPTA, no basis erosion, and superior capital appreciation over 25+ year periods. **Recommendation: Dividend growth stocks for long horizons. A 10-15% REIT allocation for diversification is reasonable - but income maximization over 15+ years favors dividend growth.**
 
 ---
 
@@ -288,15 +291,15 @@ Avoid REITs yielding 10%+. Ultra-high REIT yields almost always reflect sector-s
 
 **Dividend stocks (better suited for taxable accounts):**
 
-*Coca-Cola (KO)* - ~3.1% yield, 63 consecutive years of increases (Dividend King), 15% withholding, no FIRPTA, 9.17% 10-year annualized total return.
+*Coca-Cola (KO)* - ~3.1% yield, 63 consecutive years of increases (Dividend King), 25% withholding, no FIRPTA, 9.17% 10-year annualized total return.
 
-*Johnson & Johnson (JNJ)* - ~3.2% yield, 62 consecutive years of increases, 15% withholding, no FIRPTA, strong international revenue base.
+*Johnson & Johnson (JNJ)* - ~3.2% yield, 62 consecutive years of increases, 25% withholding, no FIRPTA, strong international revenue base.
 
-*Altria (MO)* - ~7.3% yield, 15% withholding, no FIRPTA. Highest sustainable yield among well-known US dividend payers. Carry the risk of secular decline in tobacco volumes - the yield reflects that risk.
+*Altria (MO)* - ~7.3% yield, 25% withholding, no FIRPTA. Highest sustainable yield among well-known US dividend payers. Carry the risk of secular decline in tobacco volumes - the yield reflects that risk.
 
 **ETF versions:**
 
-*VNQ* (Vanguard Real Estate ETF) provides broad US REIT exposure. The same withholding rules apply to VNQ distributions as to individual REITs - 25% for Israeli investors on the ordinary income component. *NOBL* tracks the Dividend Aristocrats index equally weighted, annual rebalancing. *SCHD* combines yield screening and quality factors for dividend stocks - approximately 3.5% yield, 15% withholding. All three are US-domiciled; EU investors restricted to UCITS products can access equivalent exposures through iShares and Xtrackers UCITS ETFs.
+*VNQ* (Vanguard Real Estate ETF) provides broad US REIT exposure. The same withholding rules apply to VNQ distributions as to individual REITs - 25% for Israeli investors. *NOBL* tracks the Dividend Aristocrats index equally weighted, annual rebalancing. *SCHD* combines yield screening and quality factors for dividend stocks - approximately 3.5% yield, 25% withholding for Israeli investors. All three are US-domiciled; EU investors restricted to UCITS products can access equivalent exposures through iShares and Xtrackers UCITS ETFs.
 
 ---
 
@@ -308,7 +311,7 @@ This is a practical consideration that yield comparisons ignore entirely.
 
 Realty Income and NNN REIT pay **monthly dividends**. Most US dividend stocks - including virtually all Dividend Aristocrats - pay **quarterly**. For investors who rely on portfolio income to cover monthly expenses, the dividend payment cadence matters independently of the yield level.
 
-A $200,000 position in Realty Income at 5.7% yields approximately $950 per month, paid monthly - after 25% withholding, approximately $713/month for Israeli investors. The same $200,000 in Coca-Cola at 3.1% yields approximately $1,550 per quarter - paid in April/July/October/January - or after 15% withholding, approximately $1,318/quarter for Israeli investors.
+A $200,000 position in Realty Income at 5.7% yields approximately $950 per month, paid monthly - after 25% withholding, approximately $713/month for Israeli investors. The same $200,000 in Coca-Cola at 3.1% yields approximately $1,550 per quarter - paid in April/July/October/January - or after 25% withholding, approximately $1,163/quarter for Israeli investors.
 
 For investors in tax-advantaged accounts who reinvest all distributions, payment frequency is irrelevant. For investors drawing income to live on, monthly payment is a genuine operational advantage - even after the withholding differential.
 
@@ -316,11 +319,11 @@ The practical solution for investors who want monthly income from dividend stock
 
 ---
 
-## Common Mistakes
+## Common Traps in REITs vs Dividend Stocks
 
-**Comparing gross yields without adjusting for the withholding gap.** 25% vs. 15% withholding on the same nominal distribution changes the effective yield meaningfully. Always calculate net-of-withholding yield before comparing positions.
+**Assuming a withholding gap that isn't there.** For an Israeli investor both REIT distributions and corporate dividends are withheld at 25%, so net-of-withholding yield ranks the same way gross yield does. The real adjustment to make is at exit - FIRPTA and ROC basis erosion - not on the income line.
 
-**Assuming W-8BEN reduces REIT withholding to 15%.** It does not, for Israeli investors. W-8BEN applies the treaty rate - which is 25% for REIT ordinary income under the US-Israel treaty. The 15% rate applies to qualified corporate dividends only.
+**Assuming W-8BEN produces a 15% rate.** It does not, for Israeli investors, on REITs or on ordinary shares. The US-Israel treaty rate is 25% for an individual portfolio investor; 12.5% exists only for a company holding 10%+ of the payer. The 15% figure belongs to other US treaties and is routinely mis-copied into Israeli guidance.
 
 **Treating return of capital as free income.** ROC reduces your cost basis and defers a tax liability to exit. Combined with FIRPTA, the exit from a REIT position that received significant ROC distributions over its holding period produces a larger taxable gain than the investor expected.
 
@@ -335,13 +338,14 @@ The practical solution for investors who want monthly income from dividend stock
 ## Frequently Asked Questions
 
 **Are REIT dividends qualified dividends?**
-No. REIT distributions are mostly ordinary income - rental income passed through to shareholders. They cannot be qualified dividends under US tax law, and they receive less favorable treaty treatment for international investors (25% withholding under the US-Israel treaty vs. 15% for qualified corporate dividends).
+No. REIT distributions are mostly ordinary income - rental income passed through to shareholders - and cannot be qualified dividends under US tax law. For an Israeli investor this makes no difference to the withholding rate: the US-Israel treaty applies the same 25% to both. The qualified/ordinary distinction matters for US taxpayers, not for a treaty-rate portfolio investor.
 
 **What is the actual breakdown of a REIT distribution?**
 Based on NAREIT's 2024 data across all US-listed REITs: approximately 78% ordinary income, 9% long-term capital gains, 12% return of capital. The breakdown varies by REIT and year. Each REIT publishes its annual distribution breakdown on its investor relations page (Form 8937).
 
 **Does W-8BEN reduce REIT withholding to 15% for Israeli investors?**
-No. W-8BEN applies the US-Israel treaty rate to REIT ordinary dividends, which is 25% under Article 12 - not 15%. The 15% rate applies to qualified corporate dividends. Always verify the actual rate your broker applies.
+
+No - and it does not reduce ordinary corporate dividends to 15% either. Under Article 12 of the US-Israel treaty the portfolio rate is 25% for an individual, with 12.5% reserved for a company holding 10%+ of the payer's voting stock. The widely repeated 15% figure comes from other US treaties and does not apply to Israel. Always verify the actual rate on your dividend statement.
 
 **What is FIRPTA and how does it affect REIT investors?**
 When a foreign investor sells REIT shares, 15% of gross sale proceeds is withheld at the point of sale. This is a prepayment against actual tax owed, reconciled via a US non-resident tax return (Form 1040-NR). For retail investors owning under 10% of a publicly traded REIT, capital gain distributions received during the holding period are not subject to FIRPTA - only the share sale itself triggers FIRPTA withholding.
@@ -354,7 +358,7 @@ REITs, clearly. Inside a Roth IRA, US withholding does not apply and distributio
 
 ---
 
-## The Verdict
+## Where REITs vs Dividend Stocks Nets Out
 
 For international investors in taxable accounts, the REIT yield advantage largely disappears once you run the full numbers. The 10-year case study above quantifies it: a $100,000 position in Coca-Cola (3.1% yield) produces approximately $228,430 in total 10-year return for an Israeli taxable-account investor. The same position in Realty Income (5.7% yield) produces approximately $200,680 - with the additional complication of $26,670 tied up in FIRPTA withholding at exit pending a US tax filing.
 

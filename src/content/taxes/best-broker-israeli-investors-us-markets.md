@@ -26,12 +26,12 @@ seo:
   metaDescription: "Compare IBKR, Saxo Bank, and eToro for Israeli investors trading US markets - FX rates, the 25% dividend withholding rate, and options access."
   ogTitle: "Interactive Brokers Israel vs Saxo vs eToro (2026)"
   ogDescription: "Compare IBKR, Saxo Bank, and eToro for Israeli investors trading US markets - FX rates, the 25% dividend withholding rate, and options access."
-  ogImage: "/images/blog/taxes/Brokers-for-Israeli-Investors.webp"
+  ogImage: "/images/blog/taxes/best-broker-israeli-investors-us-markets.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"
   headline: "Interactive Brokers Israel vs Saxo vs eToro (2026)"
-  description: "Compare Interactive Brokers (IBKR), Saxo Bank, and eToro for Israeli investors trading US markets. FX conversion rates, the 25% dividend withholding rate, and options access."
+  description: "Compare IBKR, Saxo Bank, and eToro for Israeli investors trading US markets - FX rates, the 25% dividend withholding rate, and options access."
   author: "Tzion Sigron"
   datePublished: "2026-04-01"
   dateModified: "2026-08-04"
@@ -149,13 +149,13 @@ Saxo and eToro are valid choices for different priorities - institutional stabil
 
 ---
 
-*This article is informational only and does not constitute tax or financial advice. Broker fees, FX rates, and platform features change - verify current terms directly with each broker before opening an account. The 25% US dividend withholding rate reflects the US-Israel tax treaty's individual portfolio rate; see the [US-Israel tax treaty guide](/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026/) for the full breakdown. IBKR FX rates confirmed via Interactive Brokers' own commission and currency conversion documentation (2026).*
+*A broad look at broker choice, offered without professional recommendation. Broker fees, FX rates, and platform features change - verify current terms directly with each broker before opening an account. The 25% US dividend withholding rate reflects the US-Israel tax treaty's individual portfolio rate; see the [US-Israel tax treaty guide](/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026/) for the full breakdown. IBKR FX rates confirmed via Interactive Brokers' own commission and currency conversion documentation (2026).*
 
 ## Related Guides
 
 - [US-Israel Tax Treaty Explained](/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026/)
 - [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)
-- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
 - [Interactive Brokers Review 2026](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/)
 - [Saxo Bank Review 2026](/best-brokers/saxo-bank-review-2026/)
 - [eToro Review 2026](/best-brokers/etoro-review-2026/)
+- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)

@@ -84,7 +84,7 @@ Yes - setting up a TOD designation where your broker supports it for a non-US-re
 
 ---
 
-## Practical Checklist
+## Working Through Ancillary Probate for Foreign-Owned US Brokerage Accounts Step by Step
 
 - [ ] Understand that your brokerage account's legal situs is your domicile, not the broker's location - but confirm your specific broker's actual practice, since many require a court fiduciary regardless
 - [ ] Ask your specific broker directly whether a TOD/beneficiary designation is available to a non-US-resident account holder
@@ -95,13 +95,17 @@ Yes - setting up a TOD designation where your broker supports it for a non-US-re
 
 ---
 
-## Bottom Line
+## Ancillary Probate for Foreign-Owned US Brokerage Accounts, in Short
 
 A foreign investor's US brokerage account sits in a genuine gap between legal theory and institutional practice: the law generally treats it as located at your home-country domicile, not the broker's location, which in principle should mean US ancillary probate isn't required at all - but brokers routinely demand a court-appointed local fiduciary anyway, and families who don't know this in advance lose real time and money bridging that gap after the fact. A TOD designation where available, or a properly funded revocable trust, are the two real ways to close that gap before it becomes your family's problem - confirmed directly with your specific broker, since availability and practice vary enough that no general article, this one included, can promise a single answer for your account.
 
 ---
 
-*This article is for informational purposes only and does not constitute legal advice. Probate costs, timelines, brokerage-specific estate procedures, and forced-heirship rules vary by state, country, and institution, and are subject to change - consult a qualified estate planning attorney, ideally one experienced with both your state of asset location and your country of domicile, before relying on any process described above.*
+*None of this is advice on Ancillary Probate for Foreign-Owned US Brokerage Accounts for your specific situation. Probate costs, timelines, brokerage-specific estate procedures, and forced-heirship rules vary by state, country, and institution, and are subject to change - consult a qualified estate planning attorney, ideally one experienced with both your state of asset location and your country of domicile, before relying on any process described above.*
+
+*Sources: IRC §2101-§2108 and IRC §2102(b) for the $60,000 non-resident alien exemption; IRS Form 706-NA instructions.*
+
+---
 
 ## Related Guides
 

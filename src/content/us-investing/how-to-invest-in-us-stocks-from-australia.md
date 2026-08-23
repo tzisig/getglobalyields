@@ -1,13 +1,13 @@
 ---
 slug: how-to-invest-in-us-stocks-from-australia
 title: "How to Invest in US Stocks from Australia (2026 Guide)"
-description: "How to invest in US stocks from Australia: broker comparison, W-8BEN, CGT rules, SMSF considerations, and the 2027 CGT changes to know."
+description: "How to Invest in US Stocks from Australia: broker comparison, W-8BEN, CGT rules, SMSF considerations, and the 2027 CGT changes to know."
 pubDate: 2026-05-23
 updatedDate: 2026-05-23
 author: "Tzion Sigron"
 categories: ["US Investing"]
 tags:
-  - "how to invest in us stocks from australia"
+  - "How to Invest in US Stocks from Australia"
   - "buy us stocks australia"
   - "best broker us stocks australia"
   - "W-8BEN australia"
@@ -76,17 +76,15 @@ On custody: CHESS sponsorship applies to ASX-listed securities only. US stocks h
 
 For anyone investing serious money and making regular contributions, [IBKR](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/) is the answer - and the FX conversion is the reason.
 
-Using manual FX conversion through the IBKR Client Portal's "Convert Currency" tab, the fee is 0.002% with a minimum of USD $2.00. On a $10,000 AUD deposit, that is roughly AUD $3. On a $50,000 deposit, around AUD $14. Every other platform on this list charges between $250 and $500 for the same deposit.
+Using manual FX conversion through the IBKR Client Portal's "Convert Currency" tab, the fee is 0.002% with a minimum of USD $2.00. The commission itself is trivial at these sizes, so the USD $2 minimum is what you actually pay - roughly AUD $3 on a $10,000 deposit and the same roughly AUD $3 on a $50,000 one. Every other platform on this list charges between $250 and $500 for the same deposit.
 
-One thing to get right from day one: IBKR also offers an auto-conversion service at 0.03% - fifteen times more expensive on large amounts. The manual process takes under a minute once you know where to find it. Use it every time.
+One thing to get right from day one: IBKR also offers an auto-conversion service at 0.03% - fifteen times the headline rate, and unlike the manual route it has no small flat minimum to cap it, so the gap widens with size. The manual process takes under a minute once you know where to find it. Use it every time.
 
 The trading commission is USD $0.005 per share, minimum USD $1 per order. The Trader Workstation platform is powerful but not immediately intuitive. IBKR GlobalTrader, the mobile app, is a much cleaner entry point for investors who want to buy and hold.
 
 ---
 
-### CMC Invest
-
-CMC Invest charges $0 commission on all US, [UK](/us-investing/invest-us-stocks-uk/), [Canadian](/us-investing/how-to-invest-in-us-stocks-from-canada/) and Japanese stocks and ETFs - no conditions, no minimum trade count. The only cost is an FX spread of approximately 0.6% when you deposit AUD. You pay that once per deposit, then trade as many times as you want for free.
+### CMC Invest charges $0 commission on all US, [UK](/us-investing/invest-us-stocks-uk/), [Canadian](/us-investing/how-to-invest-in-us-stocks-from-canada/) and Japanese stocks and ETFs - no conditions, no minimum trade count. The only cost is an FX spread of approximately 0.6% when you deposit AUD. You pay that once per deposit, then trade as many times as you want for free.
 
 For active investors who make multiple trades per month from a single deposit, this structure is genuinely hard to beat. The minimum international order size is AUD $1,000, though a selection of popular US stocks are available below that threshold. International securities are held in custody with BNP Paribas. ASX shares are CHESS-sponsored.
 
@@ -132,7 +130,7 @@ What you actually pay to get money invested - one deposit, one trade.
 
 | Broker | FX fee on $10k deposit | FX fee on $50k deposit | Commission per trade |
 |---|---|---|---|
-| IBKR (manual FX) | ~AUD $3 | ~AUD $14 | USD $1 min |
+| IBKR (manual FX) | ~AUD $3 | ~AUD $3 | USD $2 min |
 | CMC Invest | ~AUD $60 | ~AUD $300 | $0 |
 | Moomoo | ~AUD $50 | ~AUD $250 | USD $0.99 |
 | Superhero | ~AUD $65 | ~AUD $325 | USD $2 |
@@ -176,7 +174,7 @@ The most widely held options: [IVV](/strategies/best-high-yield-etfs-2026/) (iSh
 
 ## Mistakes That Cost Real Money
 
-**Using IBKR's auto-conversion.** Auto costs 0.03% versus 0.002% for manual. On a $50,000 deposit that is $150 versus $14. The manual process takes under a minute in the Client Portal. Do it every time.
+**Using IBKR's auto-conversion.** Auto costs 0.03% versus 0.002% for manual. On a $50,000 deposit that is $15 versus the $2 minimum. The manual process takes under a minute in the Client Portal. Do it every time.
 
 **Letting the W-8BEN lapse.** It expires every three years. A lapsed form means 30% withholding instead of 15%. Check it once a year in your account settings.
 
@@ -207,6 +205,10 @@ Use our [Broker Finder](/resources/broker-finder/) to compare brokers that serve
 
 ---
 
-> **This article is for informational purposes only and does not constitute financial or tax advice. The CGT changes described are announced policy, not yet law, pending legislation passing Parliament. SMSF tax treatment is based on current ATO guidance and is subject to change. Always consult a registered tax agent and an ASIC-licensed financial adviser before making investment decisions.**
+> **Treat this as background on Australia, not as advice for your own position. The CGT changes described are announced policy, not yet law, pending legislation passing Parliament. SMSF tax treatment is based on current ATO guidance and is subject to change. Always consult a registered tax agent and an ASIC-licensed financial adviser before making investment decisions.**
 
 *Last updated: May 2026*
+
+---
+
+*Sources: US-Australia Income Tax Convention (August 6, 1982) and Protocol (September 27, 2001); ATO Double Taxation Agreement guidance; IRS Publication 515 (2026); Fenro - ATO Tax Brackets 2026-27; SuperGuide - Australian Income Tax Rates and Brackets (2026-27); austax.tools - ATO Tax Changes 2025-26 vs 2026-27; ATO Foreign Income Tax Offset rules; ATO CGT discount provisions; IRS PFIC rules (Section 1291-1298); FinCEN FBAR guidance (2025); IRS Form 8938 FATCA thresholds (2025 tax year); IRS Publication 515 (2026).*

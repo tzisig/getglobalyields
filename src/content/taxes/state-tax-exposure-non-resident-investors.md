@@ -28,7 +28,7 @@ schema:
   headline: "State Tax Exposure for Non-Resident Investors (2026)"
   description: "Does your broker's state of registration create a state tax obligation? Generally no - the dividing line is your own presence or property in that state."
   author: "Tzion Sigron"
-  datePublished: "2026-08-05"
+  datePublished: "2026-09-22"
   dateModified: "2026-08-05"
   image: "/images/blog/taxes/state-tax-exposure-non-resident-investors.webp"
   mainEntityOfPage: "https://getglobalyields.com/taxes/state-tax-exposure-non-resident-investors"
@@ -94,7 +94,7 @@ No - a new state tax nexus created by real estate ownership would apply specific
 
 ---
 
-## Practical Checklist
+## What to Actually Do About State Tax Exposure
 
 - [ ] Confirm you have no US real estate holdings, physical business presence, or extended physical presence in any specific US state
 - [ ] If any of those apply, treat that specific situation as requiring dedicated advice - it is a genuinely different question from ordinary portfolio investing
@@ -103,13 +103,13 @@ No - a new state tax nexus created by real estate ownership would apply specific
 
 ---
 
-## Bottom Line
+## The Practical Upshot of State Tax Exposure
 
 For the ordinary non-US investor holding US stocks and ETFs through a broker, state tax is simply not part of the picture - not because of some special exemption, but because the basic requirements for state tax nexus (residency, physical presence, in-state property or business activity) are not met by passive securities ownership, regardless of where the broker happens to be headquartered. The exceptions - US real estate, physical business presence, or extended time physically in a specific state - are distinct situations that call for their own dedicated advice, not an extension of ordinary brokerage investing.
 
 ---
 
-*This article is informational only and does not constitute tax or legal advice. State tax nexus rules are set individually by each US state and can vary and change. Consult a qualified cross-border tax professional if you have US real estate, business presence, or extended physical presence in a specific state.*
+*General information on state tax exposure; your own circumstances need a professional's eyes. State tax nexus rules are set individually by each US state and can vary and change. Consult a qualified cross-border tax professional if you have US real estate, business presence, or extended physical presence in a specific state.*
 
 *Sources: General state tax nexus principles applicable to individual non-resident investors; state department of revenue guidance varies by state and is not centrally published by the IRS.*
 

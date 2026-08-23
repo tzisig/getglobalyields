@@ -183,3 +183,6 @@ For a full comparison of brokers available to you, see our [Best Brokers for Int
 
 _The content on GetGlobalYields.com is for informational and educational purposes only and does not constitute financial, investment, or tax advice. Always consult a licensed financial advisor and tax professional before making investment decisions. Tax laws vary by country and individual circumstances._
 
+---
+
+*Sources: IRC §1441 (30% statutory withholding on US-source dividends paid to non-resident aliens); IRS Publication 515 and the IRS tax treaty tables for the reduced treaty rates - many European treaties reduce to 15%, while the US-Israel treaty sets 25% for an individual portfolio investor and 12.5% only for a qualifying corporate holder.*

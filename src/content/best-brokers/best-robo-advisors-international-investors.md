@@ -74,7 +74,7 @@ No - the standard NRA dividend withholding framework covered throughout this sit
 
 ---
 
-## Practical Checklist
+## Best Robo-Advisors for International Investors: What to Sort Out First
 
 - [ ] Do not assume Betterment, Wealthfront, or Schwab Intelligent Portfolios will accept a non-US address - confirm directly if you want to test this, but expect a no
 - [ ] Confirm Interactive Advisors' current country eligibility for your specific residence separately from standard IBKR account eligibility
@@ -84,13 +84,17 @@ No - the standard NRA dividend withholding framework covered throughout this sit
 
 ---
 
-## Bottom Line
+## Reading Best Robo-Advisors for International Investors Overall
 
 Most "best robo-advisor" content is written for an audience this site doesn't serve, and testing the mainstream US names is likely to end in a rejected application. Interactive Advisors, built on IBKR's already-international infrastructure, is the genuine option worth checking - though its tax-loss harvesting feature may deliver less value to a non-resident alien than the marketing suggests. For investors it doesn't reach, a simple, manually managed ETF portfolio delivers most of the same practical benefit without needing platform eligibility at all.
 
 ---
 
-*This article is informational only and does not constitute financial advice. Robo-advisor country eligibility changes - confirm current details directly with each platform before applying.*
+*This piece covers Best Robo-Advisors for International Investors in general terms and is not financial advice. Robo-advisor country eligibility changes - confirm current details directly with each platform before applying.*
+
+*Sources: Interactive Advisors published fee schedule and account minimums - management fees range 0.08%-0.75%, with most model and asset-allocation portfolios at 0.20% and minimums from $100.*
+
+---
 
 ## Related Guides
 

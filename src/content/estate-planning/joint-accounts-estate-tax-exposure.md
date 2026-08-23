@@ -40,7 +40,18 @@ This is a real, specific rule (sometimes called the "back-tracing" requirement),
 
 **Consider a mixed-nationality couple who jointly hold a $500,000 US brokerage account, where the US citizen spouse contributed all the funds and dies first.** Under the intuitive assumption, one might expect $250,000 (half) to be included in the deceased citizen spouse's estate. Under the actual back-tracing rule, since the non-citizen spouse contributed nothing that can be substantiated, the full $500,000 is included in the deceased spouse's estate instead.
 
-**Why this specific gap matters practically:** a US citizen decedent has access to the large citizen exemption, so this particular estate likely wouldn't face US estate tax regardless of whether $250,000 or $500,000 is technically included - the deceased citizen spouse's own exemption comfortably covers either figure. **The situation reverses, and becomes genuinely dangerous, when the roles are reversed**: if the *non-citizen* spouse dies first, and the couple assumed the same "half the account" intuition, the deceased non-citizen spouse's estate could face inclusion of the full account value against only the $60,000 NRA exemption - not half the account against a proportionally scaled exemption, but the full value against the same tiny fixed threshold covered throughout this category.
+**Why this specific gap matters practically:** a US citizen decedent has access to the large citizen exemption, so this particular estate likely wouldn't face US estate tax regardless of whether $250,000 or $500,000 is technically included - the deceased citizen spouse's own exemption comfortably covers either figure. **Note which way the rule cuts, because it is easy to get backwards.** Inclusion follows *who furnished the money*, not who died. If the citizen spouse funded the account and the non-citizen spouse dies first, the non-citizen furnished nothing - so little or nothing is includible in their estate. The rule works in the couple's favour in that direction.
+
+**The genuinely dangerous case is the one where the non-citizen spouse both funded the account and dies first.** Then the full $500,000 is included in an estate with a $60,000 exemption, and the bill is real:
+
+| Step | Amount |
+|---|---|
+| Included in the NRA's estate | $500,000 |
+| Tentative tax under the §2001(c) schedule | $155,800 |
+| Less the §2102(b) unified credit | −$13,000 |
+| **US estate tax due** | **$142,800** |
+
+There is no unlimited marital deduction to fall back on, because the surviving spouse is not a US citizen - which is precisely what the QDOT below is for. A couple who assumed the "half the account" intuition would have planned for a fraction of that.
 
 ---
 
@@ -82,7 +93,7 @@ The back-tracing rule and marital deduction limitation are general principles ap
 
 ---
 
-## Practical Checklist
+## What to Actually Do About Joint Accounts and US Estate Tax Exposure
 
 - [ ] If you're in a mixed-nationality couple with a jointly held US brokerage account, do not assume joint ownership automatically splits estate tax exposure the way it would for two US citizen spouses
 - [ ] Keep clear, contemporaneous documentation of each spouse's actual financial contributions to the joint account, since this is what determines whether the non-citizen spouse's contribution can be substantiated and excluded from the full-inclusion rule
@@ -92,13 +103,17 @@ The back-tracing rule and marital deduction limitation are general principles ap
 
 ---
 
-## Bottom Line
+## Closing the Loop on Joint Accounts and US Estate Tax Exposure
 
 For a mixed-nationality couple, joint ownership of a US brokerage account does not provide the intuitive "half the exposure" protection that applies between two US citizen spouses - without documented proof of the non-citizen spouse's own contributions, the full account value can be included in the first-to-die spouse's estate, with no unlimited marital deduction available to offset it. This is one of the more consequential, and least intuitive, rules covered in this category, and worth addressing proactively - through careful documentation, a QDOT structure, or separate accounts - rather than discovering after the fact.
 
 ---
 
-*This article is for informational purposes only and does not constitute legal or tax advice. Joint ownership and marital deduction rules for mixed-nationality couples are complex and fact-specific. Consult a qualified cross-border estate planning attorney for advice specific to your situation.*
+*Educational content about Joint Accounts and US Estate Tax Exposure; it carries no advice for your case. Joint ownership and marital deduction rules for mixed-nationality couples are complex and fact-specific. Have a qualified professional weigh this against your situation.*
+
+*Sources: IRC §2102(b) ($60,000 exemption equivalent for non-resident aliens); IRS Form 706-NA instructions. On a joint tenancy with right of survivorship the IRS presumes the full account belonged to the first decedent unless the survivor can evidence their own contribution - which is what drives the outcome in the worked example above.*
+
+---
 
 ## Related Guides
 

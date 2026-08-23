@@ -1,7 +1,7 @@
 ---
 slug: life-insurance-vs-brokerage-assets-estate-planning
-title: "Life Insurance vs Brokerage Assets for Cross-Border Estate Planning"
-description: "Life insurance proceeds on a non-resident alien's life are generally treated as outside US-situs and not subject to US estate tax - unlike US stocks, which are. A real, underused tool for offsetting the $60,000 exemption gap, with a worked example of how it's structured in practice."
+title: "Life Insurance vs Brokerage Assets in Cross-Border Estates"
+description: "Life insurance on a non-resident alien is generally outside US situs; US stocks are not. An underused way to offset the $60,000 gap, with a worked example."
 pubDate: 2026-10-12
 updatedDate: 2026-08-06
 author: "Tzion Sigron"
@@ -38,7 +38,16 @@ Every article in this estate planning category so far has focused on reducing or
 
 ## A Worked Illustration of the Structure
 
-**Consider a non-resident alien investor with $260,000 in US-situs brokerage holdings, facing a projected estate tax liability in the tens of thousands of dollars on the $200,000 taxable amount above the $60,000 exemption, calculated under the graduated rate schedule discussed in our [$60,000 exemption guide](/estate-planning/us-estate-tax-non-resident-aliens-60000-exemption/).** Rather than leaving heirs to figure out how to pay that liability - potentially by forcing a sale of the brokerage holdings themselves, possibly at an inopportune moment in the market - the investor takes out a life insurance policy with a death benefit sized to approximately cover the projected tax liability.
+**Consider a non-resident alien investor with $260,000 in US-situs brokerage holdings.** Under the §2001(c) graduated schedule the tentative tax on $260,000 is $74,200, against which the §2102(b) unified credit of $13,000 is applied:
+
+| Step | Amount |
+|---|---|
+| US-situs brokerage holdings | $260,000 |
+| Tentative estate tax on $260,000 | $74,200 |
+| Less §2102(b) unified credit | −$13,000 |
+| **Estate tax due** | **$61,200** |
+
+**That $61,200 is the number the policy has to cover** - roughly 30.6% of the $200,000 above the exemption, payable in cash within nine months of death. Rather than leaving heirs to figure out how to pay that liability - potentially by forcing a sale of the brokerage holdings themselves, possibly at an inopportune moment in the market - the investor takes out a life insurance policy with a death benefit sized to approximately cover the projected tax liability.
 
 **The mechanical result:** upon the investor's death, the brokerage account (US-situs, subject to estate tax above $60,000) generates a tax bill, but the life insurance proceeds (generally not US-situs for a non-resident alien) arrive separately and aren't themselves subject to that same estate tax. The beneficiaries can use the insurance proceeds specifically to fund the brokerage account's estate tax liability, preserving the underlying investment portfolio intact rather than needing to liquidate it under time pressure to cover a tax bill.
 
@@ -78,7 +87,7 @@ The underlying liquidity-planning logic scales down reasonably well - even a mod
 
 ---
 
-## Practical Checklist
+## What to Actually Do About Life Insurance vs Brokerage Assets for Cross-Border Estate Planning
 
 - [ ] If you have meaningful US-situs brokerage exposure above the $60,000 exemption, consider whether a life insurance policy could serve as a targeted tool to fund the resulting estate tax liability, rather than assuming it must come from other sources
 - [ ] Confirm the specific policy's treatment with a cross-border estate planning professional before relying on the general life-insurance-outside-US-situs rule
@@ -89,13 +98,13 @@ The underlying liquidity-planning logic scales down reasonably well - even a mod
 
 ---
 
-## Bottom Line
+## The Net Position on Life Insurance vs Brokerage Assets for Cross-Border Estate Planning
 
 Life insurance proceeds sit outside the US-situs estate tax framework that applies to stocks and other brokerage assets for a non-resident alien - a real, specific difference worth understanding as a targeted planning tool for addressing estate tax liquidity, used alongside (not instead of) your regular brokerage investing. Sized correctly and structured properly, it lets heirs pay an otherwise-unavoidable estate tax liability without being forced to liquidate the underlying investment portfolio itself. Confirm the specific policy treatment and your home country's rules before relying on this as part of a broader estate plan.
 
 ---
 
-*This article is for informational purposes only and does not constitute legal, tax, or insurance advice. Life insurance estate tax treatment depends on specific policy structure and issuer, and home-country tax treatment varies by jurisdiction. Consult a qualified cross-border estate planning attorney and insurance professional before implementing any strategy discussed here.*
+*Written as an overview of life insurance brokerage, not as financial guidance for your circumstances. Life insurance estate tax treatment depends on specific policy structure and issuer, and home-country tax treatment varies by jurisdiction. Consult a qualified cross-border estate planning attorney and insurance professional before implementing any strategy discussed here.*
 
 ## Related Guides
 

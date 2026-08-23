@@ -58,7 +58,7 @@ IJR and VB both track broad small-cap indices with similar overall characteristi
 
 ---
 
-## Practical Guidance
+## Small-Cap ETFs (IJR, VB) for Genuine Diversification: What It Means for You
 
 **A deliberate, sized small-cap allocation** can add genuine diversification value to a portfolio otherwise concentrated in large-cap names, given how different this segment's risk and return drivers are from the mega-cap-dominated core covered throughout most of this site's index-fund content.
 
@@ -82,7 +82,7 @@ IJR and VB specifically hold US small-cap companies; international small-cap exp
 
 ---
 
-## Practical Checklist
+## What to Actually Do About Small-Cap ETFs (IJR, VB) for Genuine Diversification
 
 - [ ] Recognize that broad market funds like VOO or VTI provide minimal genuine small-cap exposure, given market-cap weighting's concentration in large companies
 - [ ] Size a dedicated small-cap allocation deliberately, accounting for its higher volatility relative to large-cap exposure
@@ -92,13 +92,16 @@ IJR and VB specifically hold US small-cap companies; international small-cap exp
 
 ---
 
-## Bottom Line
+## The Short Version of Small-Cap ETFs (IJR, VB) for Genuine Diversification
 
 Small-cap ETFs like IJR and VB provide genuinely different market exposure than the large-cap-dominated funds covered throughout the rest of this category - a real diversification tool, not a redundant addition to an already-diversified-feeling portfolio. The trade-off is real, higher volatility, a somewhat different dividend and withholding profile, and a historical outperformance pattern that has been inconsistent enough in recent years to treat as a documented tendency rather than a dependable planning assumption.
 
 ---
 
-*This article is for informational purposes only and does not constitute financial advice. Fund holdings, index methodology, and historical performance patterns are not indicative of future results. Confirm current details directly with the fund provider before investing.*
+*This sets out how Small-Cap ETFs (IJR, VB) for Genuine Diversification works and stops short of telling you what to do. Fund holdings, index methodology, and historical performance patterns are not indicative of future results. Confirm current details directly with the fund provider before investing.*
+
+*Educational coverage of small-cap ETFs and diversification. Nothing here is settled permanently - check the current position before acting.*
+---
 
 ## Related Guides
 

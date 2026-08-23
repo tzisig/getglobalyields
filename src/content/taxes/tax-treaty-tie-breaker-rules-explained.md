@@ -18,19 +18,19 @@ readingTime: "9 min read"
 featured: false
 seo:
   metaTitle: "Tax Treaty Tie-Breaker Rules Explained (2026)"
-  metaDescription: "If two countries both claim you as a tax resident, Article 4 tie-breaker rules decide which one wins. Permanent home, center of vital interests, habitual abode, and nationality, in order."
+  metaDescription: "If two countries both claim you as a tax resident, Article 4 tie-breaker rules decide which one wins. Permanent home, center of vital interests, habitual."
   ogTitle: "Tax Treaty Tie-Breaker Rules Explained (2026)"
-  ogDescription: "If two countries both claim you as a tax resident, Article 4 tie-breaker rules decide which one wins. Permanent home, center of vital interests, habitual abode, and nationality, in order."
-  ogImage: "/images/blog/taxes/tax-treaty-tie-breaker-rules.webp"
+  ogDescription: "If two countries both claim you as a tax resident, Article 4 tie-breaker rules decide which one wins. Permanent home, center of vital interests, habitual."
+  ogImage: "/images/blog/taxes/tax-treaty-tie-breaker-rules-explained.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"
   headline: "Tax Treaty Tie-Breaker Rules Explained (2026)"
-  description: "If two countries both claim you as a tax resident, Article 4 tie-breaker rules decide which one wins. Permanent home, center of vital interests, habitual abode, and nationality, in order."
+  description: "If two countries both claim you as a tax resident, Article 4 tie-breaker rules decide which one wins. Permanent home, center of vital interests, habitual."
   author: "Tzion Sigron"
-  datePublished: "2026-08-05"
+  datePublished: "2026-09-16"
   dateModified: "2026-08-05"
-  image: "/images/blog/taxes/tax-treaty-tie-breaker-rules.webp"
+  image: "/images/blog/taxes/tax-treaty-tie-breaker-rules-explained.webp"
   mainEntityOfPage: "https://getglobalyields.com/taxes/tax-treaty-tie-breaker-rules-explained"
 ---
 
@@ -107,7 +107,7 @@ Rarely, for most individual investors - it's a formal, government-to-government 
 
 ---
 
-## Practical Checklist
+## The Tie-Breaker Rules Checklist
 
 - [ ] Confirm whether you meet the domestic residency test of more than one country for the tax year in question - this has to be assessed under each country's own rules, not the treaty
 - [ ] If you do, check whether a US tax treaty with a tie-breaker provision applies between those two countries (most, but not all, US treaties include one)
@@ -117,13 +117,13 @@ Rarely, for most individual investors - it's a formal, government-to-government 
 
 ---
 
-## Bottom Line
+## What Tie-Breaker Rules Means for You
 
 Tie-breaker rules exist for a specific, narrow situation: when two countries' domestic tax laws both claim you as a resident in the same year. Most investors never encounter this. If you have recently relocated, work remotely from a country other than where your family or primary ties remain, or otherwise have a plausible residency claim in more than one place, this is worth resolving deliberately - with professional input - rather than assuming either country's claim automatically wins.
 
 ---
 
-*This article is informational only and does not constitute tax or legal advice. Tie-breaker provisions vary by treaty and not every US tax treaty includes one in identical form. Consult a qualified cross-border tax professional if you have a plausible dual-residency claim.*
+*General reading on tie-breaker rules - get advice before you act on it. Tie-breaker provisions vary by treaty and not every US tax treaty includes one in identical form. Consult a qualified cross-border tax professional if you have a plausible dual-residency claim.*
 
 *Sources: OECD Model Tax Convention on Income and on Capital, Article 4 (Resident); individual US income tax treaty texts as published by the IRS.*
 

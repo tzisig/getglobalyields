@@ -7,7 +7,7 @@ updatedDate: 2026-08-06
 author: "Tzion Sigron"
 categories: ["Estate Planning"]
 tags:
-  - "US estate tax treaty countries list"
+  - "US Estate Tax Treaty Countries list"
   - "estate tax treaty relief non-resident alien"
   - "which countries have estate tax treaty US"
 heroImage: "/images/blog/estate-planning/us-estate-tax-treaty-countries.webp"
@@ -24,7 +24,14 @@ Every country-specific guide on this site's [taxes category](/taxes/) covers inc
 
 ## The Countries With US Estate Tax Treaties
 
-As of 2026, the US maintains estate tax treaties with a relatively short list of countries, including Australia, Austria, Canada, Denmark, Finland, France, Germany, Greece, Ireland, Italy, Japan, the Netherlands, Norway, South Africa, Sweden, Switzerland, and the United Kingdom. **This is a meaningfully shorter list than the income tax treaty network** covered throughout this site's country-specific guides - a country having a US income tax treaty does not mean it also has a US estate tax treaty, and the two lists should not be assumed to match.
+As of 2026 the US maintains standalone estate (and in some cases gift) tax treaties with a short list of countries: **Australia, Austria, Denmark, Finland, France, Germany, Greece, Ireland, Italy, Japan, the Netherlands, Norway, South Africa, Switzerland, and the United Kingdom.**
+
+**Two entries commonly listed here do not belong, and getting them wrong is expensive:**
+
+- **Sweden is no longer on the list.** The US delivered notice of termination in June 2007 and the estate and gift tax treaty ceased to have effect on **1 January 2008**, after Sweden abolished its own inheritance and gift tax. Sources still listing Sweden are working from pre-2008 material.
+- **Canada has no standalone estate tax treaty.** Relief for a Canadian-resident decedent runs through **Article XXIX B of the US-Canada income tax convention**, added by the 1995 Protocol. The effect is broadly similar - a pro-rated unified credit, and a Canadian credit for US estate tax paid - but it sits inside the income treaty, which is exactly the income-vs-estate distinction this article exists to warn about.
+
+**This is a meaningfully shorter list than the income tax treaty network** covered throughout this site's country-specific guides - a country having a US income tax treaty does not mean it also has a US estate tax treaty, and the two lists should not be assumed to match.
 
 **Confirm your specific country's status directly** rather than assuming either way based on its income tax treaty status - the estate tax treaty network was negotiated separately and covers a distinctly smaller set of countries.
 
@@ -76,7 +83,7 @@ No - notably, several major economies with substantial US income tax treaties an
 
 ---
 
-## Practical Checklist
+## Working Through US Estate Tax Treaty Countries Step by Step
 
 - [ ] Confirm whether your specific country of residence has a US estate tax treaty - do not assume based on income tax treaty status, since the two lists differ
 - [ ] If your country is on the estate tax treaty list, get a cross-border estate planning attorney to confirm the specific provisions and how they apply to your estate's composition
@@ -86,13 +93,17 @@ No - notably, several major economies with substantial US income tax treaties an
 
 ---
 
-## Bottom Line
+## The Short Version of US Estate Tax Treaty Countries
 
 US estate tax treaties exist with a relatively short list of countries - a much narrower network than income tax treaties, reflecting a separate and less recently active negotiation history - and can meaningfully improve on the standard $60,000 non-resident alien exemption where they apply, often through a pro-rated exemption mechanic tied to the ratio of US-situs assets to total worldwide estate. But the specific mechanics vary genuinely by treaty and require professional confirmation rather than a generic assumption. For the majority of international investors on this site whose country isn't on the list, the base exemption and rate structure is the operative framework, making the mitigation strategies covered elsewhere in this category more directly relevant.
 
 ---
 
-*This article is for informational purposes only and does not constitute legal or tax advice. US estate tax treaty terms are country-specific and can change. Consult a qualified cross-border estate planning attorney to confirm the specific provisions applicable to your situation.*
+*General information about US Estate Tax Treaty Countries - not a recommendation you should act on unaided. US estate tax treaty terms are country-specific and can change. Consult a qualified cross-border estate planning attorney to confirm the specific provisions applicable to your situation.*
+
+*Sources: IRC §2101-§2108; IRC §2102(b) ($60,000 exemption equivalent); IRS Form 706-NA instructions; IRS table of US estate and gift tax treaties.*
+
+---
 
 ## Related Guides
 

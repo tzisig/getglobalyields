@@ -60,7 +60,7 @@ Net lease REITs get pitched as the closest thing to a bond that still trades as 
 
 ---
 
-## Dividend Withholding for International Investors
+## What Gets Withheld From Net Lease REITs Explained Dividends
 
 **Realty Income, NNN REIT, and other US-domiciled net lease REITs pay dividends subject to the same NRA withholding framework** covered throughout this site's [taxes category](/taxes/) - the standard treaty rate or 30% default based on your country of residence and W-8BEN status. REIT dividends carry one detail specific to the sector worth knowing: a portion of REIT distributions is often classified as return of capital rather than ordinary income, which can affect the character (though generally not the withholding mechanics) of what you receive - covered in more depth in our broader [REITs for international investors guide](/real-estate/us-reits-international-investors-guide/).
 
@@ -72,13 +72,13 @@ Net lease REITs get pitched as the closest thing to a bond that still trades as 
 
 ---
 
-## Bottom Line
+## Summing Up Net Lease REITs Explained
 
 Net lease REITs earn their bond-like reputation honestly - the triple net structure genuinely does shift almost all operating cost and variability onto the tenant, leaving a long, predictable rent stream behind. Realty Income's monthly-payment streak is the number everyone knows, but NNN REIT's longer annual-increase streak is the more precise version of the same story, delivered by a company that markets itself far less loudly. Neither streak, however long, changes the sector's real sensitivity to interest rates - the predictability lives in the rent checks, not in the stock price.
 
 ---
 
-*This article is for informational purposes only and does not constitute financial advice. Dividend streaks, yields, and payout ratios change over time - confirm current figures directly with each company's investor relations disclosures before investing. Past dividend consistency does not guarantee future payments or increases.*
+*A general account of Net Lease REITs Explained, not advice tailored to anyone in particular. Dividend streaks, yields, and payout ratios change over time - confirm current figures directly with each company's investor relations disclosures before investing. Past dividend consistency does not guarantee future payments or increases.*
 
 ## Related Guides
 

@@ -68,7 +68,7 @@ This is a real practice some investors use, but it generally violates the exchan
 
 ---
 
-## Practical Checklist
+## A Working List for Can Non-US Residents Buy Crypto Through US ETFs
 
 - [ ] Check whether your existing broker already lists the specific crypto ETF you're considering, the same as checking access to any other ETF
 - [ ] If considering direct crypto exchange ownership instead, check that specific exchange's current, published country-eligibility policy directly rather than assuming based on general reputation
@@ -78,13 +78,16 @@ This is a real practice some investors use, but it generally violates the exchan
 
 ---
 
-## Bottom Line
+## Can Non-US Residents Buy Crypto Through US ETFs in a Paragraph
 
 Access to US-listed crypto ETFs generally follows the same straightforward brokerage rules as any other US ETF, while direct crypto exchange access remains a fragmented, country-by-country picture that changes more often than traditional broker access does. For an international investor facing genuine uncertainty about direct crypto exchange access in their country, that access gap alone is a real, practical reason the ETF path is often the more reliably available option.
 
 ---
 
-*This article is for informational purposes only and does not constitute financial or legal advice, and does not constitute a recommendation for any specific broker or exchange. Access rules, country eligibility, and regulatory status change frequently in the crypto industry - confirm current details directly with any specific broker or exchange before opening an account.*
+*This sets out how can non residents works and stops short of telling you what to do. Access rules, country eligibility, and regulatory status change frequently in the crypto industry - confirm current details directly with any specific broker or exchange before opening an account.*
+
+*Background reading on Can Non-US Residents Buy Crypto Through US ETFs rather than advice. General coverage cannot account for your own tax position or timing.*
+---
 
 ## Related Guides
 

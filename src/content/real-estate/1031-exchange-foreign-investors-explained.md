@@ -74,7 +74,7 @@ The Qualified Intermediary holds the funds throughout the exchange, not you dire
 
 ---
 
-## Practical Checklist
+## The 1031 Exchanges for Foreign Investors and FIRPTA Checklist
 
 - [ ] Confirm your relinquished property qualifies as real property held for investment or business use, not personal property or resale inventory
 - [ ] Start your ITIN application (Form W-7) and Form 8288-B withholding certificate process well before listing the property, not after finding a buyer
@@ -85,13 +85,17 @@ The Qualified Intermediary holds the funds throughout the exchange, not you dire
 
 ---
 
-## Bottom Line
+## Closing the Loop on 1031 Exchanges for Foreign Investors and FIRPTA
 
 A non-resident alien can legally complete a 1031 exchange on US real property under exactly the same rules as a US investor - the statute doesn't distinguish by citizenship, and once the withholding question is resolved, the mechanics are identical. The real difference is entirely about sequencing: FIRPTA's 15% withholding requirement, and the ITIN plus Form 8288-B process needed to reduce or eliminate it, run on a timeline that has to be started early and managed alongside the unmovable 45-day and 180-day 1031 clocks - not after them. Foreign investors who treat this as "the same exchange with extra paperwork" and start that paperwork early tend to get through it fine; those who plan on a purely domestic timeline are the ones who end up losing capital to withholding they could have avoided.
 
 ---
 
-*This article is for informational purposes only and does not constitute tax or legal advice. 1031 exchange rules, FIRPTA withholding requirements, and DST eligibility criteria are complex, fact-specific, and subject to change - consult a qualified Qualified Intermediary, tax advisor, and securities counsel experienced with foreign-investor transactions before relying on any figure or process described above.*
+*Use this as orientation on 1031 Exchanges for Foreign Investors and FIRPTA rather than as a recommendation. 1031 exchange rules, FIRPTA withholding requirements, and DST eligibility criteria are complex, fact-specific, and subject to change - consult a qualified Qualified Intermediary, tax advisor, and securities counsel experienced with foreign-investor transactions before relying on any figure or process described above.*
+
+*Sources: IRC §1445 (FIRPTA withholding at 15% of amount realised); IRC §1031 (like-kind exchanges, real property only after the 2017 Act); California FTB Form 593 (3.33% state real estate withholding); IRS Publication 515 (2026).*
+
+---
 
 ## Related Guides
 

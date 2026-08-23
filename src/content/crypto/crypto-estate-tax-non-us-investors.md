@@ -68,7 +68,7 @@ Not necessarily - this is one factor among several (alongside custody, tax-on-ga
 
 ---
 
-## Practical Checklist
+## Crypto and US Estate Tax - Your Action List
 
 - [ ] Understand that direct cryptocurrency's US estate tax situs treatment for a non-resident alien is a genuinely unresolved question, unlike the settled rules covering US stock
 - [ ] Recognize that a US-listed crypto ETF share follows the same clear, predictable US-situs treatment as any other US stock or ETF
@@ -78,13 +78,17 @@ Not necessarily - this is one factor among several (alongside custody, tax-on-ga
 
 ---
 
-## Bottom Line
+## Reading Crypto and US Estate Tax Overall
 
 Cryptocurrency's US estate tax situs treatment for a non-resident alien remains a genuinely open question, in sharp contrast to the settled rules covering US stock that the rest of this site's estate planning content relies on. A US-listed crypto ETF sidesteps this ambiguity entirely, following the same well-understood treatment as any other US security - a real, distinct reason, beyond custody or capital gains considerations, that a predictability-focused investor might prefer the ETF path while this specific area of tax law continues to develop.
 
 ---
 
-*This article is for informational purposes only and does not constitute legal, tax, or estate planning advice. Cryptocurrency's US estate tax treatment for non-resident aliens is a genuinely unsettled area of law, subject to change as guidance develops - consult a qualified cross-border estate planning attorney with current cryptocurrency tax expertise before relying on any analysis in this guide.*
+*Everything here about Crypto and US Estate Tax is educational, not personalised advice. Cryptocurrency's US estate tax treatment for non-resident aliens is a genuinely unsettled area of law, subject to change as guidance develops - consult a qualified cross-border estate planning attorney with current cryptocurrency tax expertise before relying on any analysis in this guide.*
+
+*Sources: IRC §2101-§2108 and IRC §2102(b) for the $60,000 non-resident alien exemption; IRS Notice 2014-21 (virtual currency treated as property); IRS Form 706-NA instructions.*
+
+---
 
 ## Related Guides
 

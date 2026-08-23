@@ -58,19 +58,23 @@ Every REIT covered elsewhere on this site - Realty Income, Welltower, American T
 
 ---
 
-## Dividend Withholding for International Investors
+## What Gets Withheld From VNQI vs RWX Dividends
 
 **Both VNQI and RWX are US-domiciled funds, so the standard NRA dividend withholding framework applies** - treaty rate or 30% default, based on your country of residence and W-8BEN status, the same mechanics covered throughout this site's [taxes category](/taxes/), regardless of the fact that the underlying real estate itself sits outside the US. The fund's domicile, not the location of the properties it holds, is what determines the withholding treatment.
 
 ---
 
-## Bottom Line
+## Summing Up VNQI vs RWX
 
 VNQI beats RWX clearly on the two numbers that matter most for a straightforward buy-and-hold comparison - a 0.12% expense ratio against 0.59%, and a meaningfully higher current yield - with RWX's only real practical edge being quarterly rather than semi-annual distributions. For an investor specifically wanting real estate exposure outside the US as a genuine diversifier against the domestic REITs covered elsewhere on this site, VNQI is the more cost-efficient default unless distribution frequency specifically matters to your income planning.
 
 ---
 
-*This article is for informational purposes only and does not constitute financial advice. Expense ratios, yields, and index methodologies change over time - confirm current figures directly with each fund provider before investing.*
+*Educational content about VNQI vs RWX; it carries no advice for your case. Expense ratios, yields, and index methodologies change over time - confirm current figures directly with each fund provider before investing.*
+
+*Sources: Vanguard Global ex-U.S. Real Estate ETF (VNQI) fund profile, expense ratio 0.12%; State Street SPDR Dow Jones International Real Estate ETF (RWX) fund page, net expense ratio 0.59%. Portfolio weightings and yields are point-in-time and should be re-checked against each provider's current fact sheet before relying on them.*
+
+---
 
 ## Related Guides
 

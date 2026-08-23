@@ -60,13 +60,13 @@ International health insurance - ongoing coverage for someone actually living ou
 
 ---
 
-## Bottom Line
+## International Health Insurance for Expats Explained, in Short
 
 International health insurance solves a real problem for anyone genuinely living across multiple countries, but the "worldwide" label on a plan is not a guarantee the US is actually included - confirm that specific detail before assuming coverage extends to exactly the country where a meaningful share of this site's readers hold real financial ties. The cost gap between "worldwide" and "worldwide including US" is large enough, and the coincidence of "has real US assets" with "might need to travel to the US" common enough among this site's audience, that it's worth checking directly rather than assuming.
 
 ---
 
-*This article is for informational purposes only and does not constitute financial, tax, or insurance advice. Plan terms, coverage regions, and costs vary significantly by provider and change over time - compare current plan documents directly with providers before purchasing.*
+*General material on International Health Insurance for Expats Explained - it does not account for your circumstances. Plan terms, coverage regions, and costs vary significantly by provider and change over time - compare current plan documents directly with providers before purchasing.*
 
 ## Related Guides
 

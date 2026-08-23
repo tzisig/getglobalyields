@@ -19,18 +19,18 @@ draft: true
 readingTime: "9 min read"
 featured: false
 seo:
-  metaTitle: "US-Chile Tax Treaty: New Since 2024, 15% Rate Explained (2026)"
-  metaDescription: "The US-Chile tax treaty entered into force December 19, 2023 after decades of delay. The 15% dividend rate, pension fund exemption, and IBKR/eToro access for Chilean residents."
+  metaTitle: "US-Chile Tax Treaty: New Since 2024, 15% Rate (2026)"
+  metaDescription: "The US-Chile tax treaty entered into force December 19, 2023 after decades of delay. The 15% dividend rate, pension fund exemption, and IBKR/eToro access."
   ogTitle: "US-Chile Tax Treaty: New Since 2024, 15% Rate Explained (2026)"
-  ogDescription: "The US-Chile tax treaty entered into force December 19, 2023 after decades of delay. The 15% dividend rate, pension fund exemption, and IBKR/eToro access for Chilean residents."
-  ogImage: "/images/blog/taxes/us-chile-tax-treaty.webp"
+  ogDescription: "The US-Chile tax treaty entered into force December 19, 2023 after decades of delay. The 15% dividend rate, pension fund exemption, and IBKR/eToro access."
+  ogImage: "/images/blog/taxes/us-chile-tax-treaty-investors.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"
   headline: "US-Chile Tax Treaty: New Since 2024, 15% Rate Explained (2026)"
-  description: "The US-Chile tax treaty entered into force December 19, 2023 after decades of delay. The 15% dividend rate, pension fund exemption, and IBKR/eToro access for Chilean residents."
+  description: "The US-Chile tax treaty entered into force December 19, 2023 after decades of delay. The 15% dividend rate, pension fund exemption, and IBKR/eToro access."
   author: "Tzion Sigron"
-  datePublished: "2026-08-12"
+  datePublished: "2026-09-07"
   dateModified: "2026-08-12"
   image: "/images/blog/taxes/us-chile-tax-treaty-investors.webp"
   mainEntityOfPage: "https://getglobalyields.com/taxes/us-chile-tax-treaty-investors"
@@ -84,22 +84,22 @@ Chilean tax residents are taxed on worldwide income, including foreign dividends
 
 ---
 
-## Broker Access
+## Which Brokers Accept Chilean Residents
 
-Both Interactive Brokers and eToro are confirmed to accept Chilean residents for account opening. Confirm current requirements directly before applying, since broker policies can change - and specifically confirm that your broker is correctly applying the 15% treaty rate rather than a stale 30% non-treaty rate if your account was opened before the treaty took effect in 2024.
+Chile is supported for account opening at Interactive Brokers and eToro. Confirm current requirements directly before applying, since broker policies can change - and specifically confirm that your broker is correctly applying the 15% treaty rate rather than a stale 30% non-treaty rate if your account was opened before the treaty took effect in 2024.
 
 ---
 
-## Practical Checklist
+## Tidying Up the Chile Details
 
-**Chilean resident investing in US stocks:**
+**Working through it as a Chilean resident:**
 - [ ] Confirm W-8BEN is on file with your broker; verify 15%, not 30%, on dividend statements - especially important if your account predates February 2024
 - [ ] If your account is older than the treaty, contact your broker to confirm the treaty rate is now being applied rather than an outdated 30% default
 - [ ] Renew W-8BEN before the three-year expiry
 - [ ] Report US dividends and capital gains as part of worldwide income on your Chilean tax return
 - [ ] Claim the foreign tax credit for US withholding under the now-formal treaty mechanism
 - [ ] If relying on AFP pension exposure to US equities, confirm with your AFP whether the treaty's pension fund exemption is being applied at the fund level
-- [ ] Confirm current account-opening requirements with Interactive Brokers or eToro before applying
+- [ ] Ask the broker up front which Chilean documents it accepts as proof of address and tax ID
 
 ---
 
@@ -110,20 +110,20 @@ Both Interactive Brokers and eToro are confirmed to accept Chilean residents for
 
 ---
 
-## Bottom Line
+## Stepping Back from the Chile Detail
 
 The most important fact in this guide is the date: the US-Chile tax treaty is new, in force only since December 2023 and effective for withholding since February 2024, after more than a decade of Senate delay. Any information describing a no-treaty relationship between the two countries is now out of date. For a Chilean investor filing W-8BEN correctly today, the result is a standard, solid 15% dividend rate - the same treatment most Western European investors receive - plus a pension fund exemption worth understanding if AFP-held assets are part of the picture.
 
 ---
 
-*This article is informational only and does not constitute tax or legal advice. Treaty rates are based on the US-Chile Income Tax Treaty (signed 2010, in force December 19, 2023). Chilean domestic tax rules for foreign-source income can change - always consult a qualified Chilean tax advisor for advice specific to your situation.*
+*Offered as general orientation on investing from Chile, not as a professional view. Treaty rates are based on the US-Chile Income Tax Treaty (signed 2010, in force December 19, 2023). Chilean domestic tax rules for foreign-source income can change. Before acting, get a Chilean tax advisor to review the specifics.*
 
 *Sources: US-Chile Income Tax Treaty text and IRS documentation; Crowell & Moring - Tax Treaty with Chile Enters Into Force; Herbert Smith Freehills Kramer - US-Chile Bilateral Income Tax Treaty Enters Into Force; CBIZ - A Breakthrough in Tax Relations: Understanding the US-Chile Income Tax Treaty; Duane Morris - The Long-Awaited Chile-US Income Tax Treaty Is Finally Making It to the Finish Line; PwC Chile Tax Summaries - Corporate Withholding Taxes (2026).*
 
 ## Related Guides
 
-- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
-- [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)
 - [PFIC Rules for International Investors](/taxes/pfic-rules-international-investors/)
+- [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
 - [Investing in US Stocks from Argentina](/taxes/us-argentina-tax-treaty-investors/)
 - [US-Mexico Tax Treaty for Investors](/taxes/us-mexico-tax-treaty-investors/)
+- [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)
