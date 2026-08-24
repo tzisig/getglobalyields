@@ -1,6 +1,6 @@
 ---
 slug: us-denmark-tax-treaty-investors
-title: "US-Denmark Tax Treaty for Investors: The Aktiesparekonto PFIC Trap (2026)"
+title: "US-Denmark Taxes: Tax Treaty Guide for Danish Investors"
 description: "US-Denmark tax treaty guide for individual investors. Withholding rates on dividends, the aktiesparekonto PFIC trap for US citizens, the 0% pension fund rate, W-8BEN filing, and how Danish aktieindkomst tax interacts with US rules."
 pubDate: 2026-06-17
 updatedDate: 2026-08-04

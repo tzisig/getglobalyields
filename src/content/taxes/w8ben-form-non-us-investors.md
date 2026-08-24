@@ -1,6 +1,6 @@
 ---
 slug: w8ben-form-non-us-investors
-title: "W-8BEN Form: Complete Guide for International Investors"
+title: "W-8BEN Form: International Trading Withholding Guide"
 description: "How to complete and file Form W-8BEN to reduce US withholding tax from 30% to treaty rates. Common mistakes, renewal rules, and broker-specific instructions."
 pubDate: 2026-04-01
 updatedDate: 2026-08-04

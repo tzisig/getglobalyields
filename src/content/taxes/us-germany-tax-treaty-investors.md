@@ -1,6 +1,6 @@
 ---
 slug: us-germany-tax-treaty-investors
-title: "US-Germany Tax Treaty for Investors: Abgeltungsteuer and UCITS ETFs (2026)"
+title: "Germany USA Double Taxation Tax Treaty Agreement 2026"
 description: "US-Germany tax treaty for investors. Dividend withholding rates, W-8BEN filing, Abgeltungsteuer interaction, and UCITS vs US ETF tax treatment explained."
 pubDate: 2026-05-24
 updatedDate: 2026-08-04

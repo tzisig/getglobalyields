@@ -1,6 +1,6 @@
 ---
 slug: invest-us-stocks-uk
-title: "How to Buy US Stocks (Shares) from the UK (2026)"
+title: "Tax on US Stocks: How to Buy Shares from UK 2026"
 description: "Complete guide for UK investors: ISA vs SIPP vs GIA for US stocks, withholding tax, CGT rates, best brokers, and the mistake most investors make with their ISA."
 pubDate: 2026-05-19
 updatedDate: 2026-05-19

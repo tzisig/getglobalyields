@@ -1,6 +1,6 @@
 ---
 slug: how-to-invest-100k-step-by-step-guide
-title: "How to Invest $100K: A Step-by-Step Allocation Guide"
+title: "How to Invest $100K in a Year: Step-by-Step Allocation Guide"
 description: "How to invest $100,000 as a non-US investor in 2026. Asset allocation frameworks, broker selection, tax-efficient structures, and common mistakes to avoid."
 pubDate: 2026-05-20
 updatedDate: 2026-05-20

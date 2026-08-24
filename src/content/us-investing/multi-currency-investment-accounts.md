@@ -1,6 +1,6 @@
 ---
 slug: multi-currency-investment-accounts
-title: "Multi-Currency Investment Accounts Guide"
+title: "Best Multi-Currency Investment Broker Account Funding"
 description: "How to manage currency exposure when investing in US markets from abroad. Multi-currency brokers, FX costs, hedging options, and account structures compared."
 pubDate: 2026-05-24
 updatedDate: 2026-05-24

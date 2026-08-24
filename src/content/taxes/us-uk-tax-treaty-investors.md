@@ -1,6 +1,6 @@
 ---
 slug: us-uk-tax-treaty-investors
-title: "US-UK Tax Treaty for Investors: ISA vs SIPP for US Stocks (2026)"
+title: "Tax on US Stocks in the UK: Investor Tax Treaty 2026"
 description: "US-UK tax treaty guide for individual investors. Withholding rates on dividends, ISA vs SIPP treatment, W-8BEN filing, and the 0% pension exemption explained."
 pubDate: 2026-05-24
 updatedDate: 2026-08-04

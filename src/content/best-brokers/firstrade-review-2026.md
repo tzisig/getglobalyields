@@ -1,6 +1,6 @@
 ---
 slug: firstrade-review-2026
-title: "Firstrade Review: Free Options for Non-US Investors"
+title: "Firstrade International Trading: Review for Non-US (2026)"
 description: "Firstrade reviewed for non-US investors. Zero-commission options, no account minimum, and the limitations that matter for international traders."
 pubDate: 2026-05-23
 updatedDate: 2026-05-23

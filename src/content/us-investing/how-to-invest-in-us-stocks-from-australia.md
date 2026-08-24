@@ -1,6 +1,6 @@
 ---
 slug: how-to-invest-in-us-stocks-from-australia
-title: "How to Invest in US Stocks from Australia (2026 Guide)"
+title: "Buy US Stocks from Australia: What Happens (2026 Guide)"
 description: "How to Invest in US Stocks from Australia: broker comparison, W-8BEN, CGT rules, SMSF considerations, and the 2027 CGT changes to know."
 pubDate: 2026-05-23
 updatedDate: 2026-05-23

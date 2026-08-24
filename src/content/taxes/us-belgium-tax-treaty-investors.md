@@ -1,6 +1,6 @@
 ---
 slug: us-belgium-tax-treaty-investors
-title: "US-Belgium Tax Treaty for Investors: The New 10% Capital Gains Tax (2026)"
+title: "Belgium USA Tax Treaty Guide for Belgian Investors (2026)"
 description: "US-Belgium tax treaty guide for individual investors. Dividend withholding rates, Belgium's new 10% capital gains tax and its August 31, 2026 opt-out deadline, the 833 euro dividend exemption, précompte mobilier, and W-8BEN filing."
 pubDate: 2026-06-01
 updatedDate: 2026-08-04

@@ -1,6 +1,6 @@
 ---
 slug: us-canada-tax-treaty-investors-2026
-title: "US-Canada Tax Treaty for Investors: Dividends, Capital Gains, and the RRSP Advantage (2026)"
+title: "Does Canada Have a Tax Treaty with the US? (2026)"
 description: "A complete guide to the US-Canada tax treaty for Canadian investors holding US assets. Withholding rates, account-by-account breakdown, RRSP exemption, TFSA trap, and how to keep more of what you earn."
 pubDate: 2026-06-01
 updatedDate: 2026-08-04
