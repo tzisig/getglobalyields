@@ -1,7 +1,7 @@
 ---
 slug: how-to-invest-in-us-stocks-from-germany
 title: "Best Platform for Buying US Shares from Germany (2026)"
-description: "The best platform and broker to invest in US stocks from Germany. W-8BEN, Abgeltungsteuer, UCITS vs US ETFs, and Vorabpauschale - explained clearly for 2026."
+description: "Best broker and platform for buying US shares from Germany. W-8BEN, Abgeltungsteuer, UCITS ETFs, Vorabpauschale — German investor tax guide 2026."
 pubDate: 2026-05-20
 updatedDate: 2026-05-20
 author: "Tzion Sigron"

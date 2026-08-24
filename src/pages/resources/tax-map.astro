@@ -3,7 +3,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import { getCollection } from 'astro:content';
 import { taxTreatyCountries as countries, iso3ToIso2 } from '../../data/tax-treaty-countries';
 
-// Only countries whose article is currently published (draft:false) get a working guide link —
+// Only countries whose article is currently published (draft:false) get a working guide link -
 // this stays correct automatically as the staged rollout publishes new country guides.
 const publishedSlugs = new Set(
   (await getCollection('taxes')).filter(p => !p.data.draft).map(p => p.id)
@@ -17,7 +17,7 @@ const treatyDataEntries = countries.map(([iso3, name, flag, status, rate, slug, 
 const treatyDataJson = JSON.stringify(Object.fromEntries(treatyDataEntries));
 const iso3ToIso2Json = JSON.stringify(iso3ToIso2);
 
-// Static, crawlable table of every country — the map itself only reveals data on click,
+// Static, crawlable table of every country - the map itself only reveals data on click,
 // which search engines don't do, so this is the actual indexable content of the page.
 const tableCountries = treatyDataEntries
   .filter(([iso3]) => iso3 !== 'USA')
@@ -26,7 +26,7 @@ const tableCountries = treatyDataEntries
 ---
 
 <BaseLayout
-  title="US Tax Treaty World Map — Get Global Yields"
+  title="US Tax Treaty Countries World Map - Get Global Yields"
   description="Interactive world map showing US tax treaty status, withholding rates, and W-8BEN requirements."
 >
   <script is:inline src="https://d3js.org/d3.v7.min.js"></script>
@@ -511,14 +511,14 @@ const tableCountries = treatyDataEntries
                     {c.status === 'full' ? 'Treaty in Force' : 'No Treaty'}
                   </td>
                   <td class="rate-cell">{c.rate}</td>
-                  <td class="note-cell">{c.note ?? '—'}</td>
+                  <td class="note-cell">{c.note ?? '-'}</td>
                   <td class="guide-cell">
                     {c.guide ? (
                       <a href={c.guide}>Read guide →</a>
                     ) : c.scheduled ? (
                       <span>Coming soon</span>
                     ) : (
-                      <span>—</span>
+                      <span>-</span>
                     )}
                   </td>
                 </tr>

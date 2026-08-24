@@ -1,7 +1,7 @@
 ---
 slug: jepi-vs-schd-vs-qyld
 title: "JEPI vs SCHD vs QYLD: Monthly Yields, Beta, NAV Erosion"
-description: "Compare JEPI, SCHD, QYLD yields, beta volatility, NAV erosion, tax treatment for international investors. Metrics breakdown in comparison table."
+description: "Compare JEPI, SCHD, QYLD: 5y monthly beta, yields, volatility, NAV erosion, tax treatment for international investors. Comparison table."
 pubDate: 2026-04-01
 updatedDate: 2026-05-28
 author: "Tzion Sigron"
