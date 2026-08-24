@@ -1,6 +1,6 @@
 ---
 slug: us-bulgaria-tax-treaty-investors
-title: "US-Bulgaria Tax Treaty for Investors: The Art. 13 Exemption Dispute (2026)"
+title: "Bulgaria Foreign Income Tax Guide for Investors (2026)"
 description: "US-Bulgaria tax treaty guide for individual investors. Withholding rates on dividends, interest, and capital gains, W-8BEN filing, the Art. 13 ZDDFL exemption dispute over US exchanges, and the full picture for Bulgarian residents investing in US stocks."
 pubDate: 2026-06-01
 updatedDate: 2026-08-04

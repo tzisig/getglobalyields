@@ -1,6 +1,6 @@
 ---
 slug: us-china-tax-treaty-investors
-title: "US-China Tax Treaty for Investors: The Broker Access Problem (2026)"
+title: "China-America Tax Treaties Guide for Chinese Investors (2026)"
 description: "US-China tax treaty guide for individual investors. Withholding rates on dividends, the broker access problem for mainland residents, the Hong Kong distinction, W-8BEN filing, and the FATCA gap explained."
 pubDate: 2026-06-04
 updatedDate: 2026-08-04

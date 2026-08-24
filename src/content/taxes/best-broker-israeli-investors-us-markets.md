@@ -1,6 +1,6 @@
 ---
 slug: best-broker-israeli-investors-us-markets
-title: "Interactive Brokers Israel vs Saxo vs eToro: Best Broker for US Markets (2026)"
+title: "Interactive Brokers Israel Support vs Saxo vs eToro (2026)"
 description: "Compare Interactive Brokers, Saxo Bank, and eToro for Israeli investors trading US stocks, ETFs, and options. FX costs, the 25% dividend withholding rate, and options access."
 pubDate: 2026-04-01
 updatedDate: 2026-08-04
