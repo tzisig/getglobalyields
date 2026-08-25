@@ -23,9 +23,9 @@ readingTime: "16 min read"
 featured: true
 rating: 4.8
 seo:
-  metaTitle: "US-China Tax Treaty Guide for Chinese Investors (2026)"
+  metaTitle: "China-America Tax Treaties Guide for Chinese Investors (2026)"
   metaDescription: "How the US-China tax treaty reduces withholding tax on US dividends to 10% for Chinese residents. W-8BEN requirements and tax optimization explained."
-  ogTitle: "US-China Tax Treaty Guide for Chinese Investors (2026)"
+  ogTitle: "China-America Tax Treaties Guide for Chinese Investors (2026)"
   ogDescription: "How the US-China tax treaty reduces withholding tax on US dividends to 10% for Chinese residents. W-8BEN requirements and tax optimization explained."
   ogImage: "/images/blog/taxes/us-china-tax-treaty-investors.webp"
   twitterCard: "summary_large_image"
