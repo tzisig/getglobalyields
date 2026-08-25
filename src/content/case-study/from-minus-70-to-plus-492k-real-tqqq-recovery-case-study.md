@@ -1,7 +1,7 @@
 ---
 slug: "from-minus-70-to-plus-492k-real-tqqq-recovery-case-study"
-title: "From -72% to +250%: Real TQQQ Recovery Case Study"
-description: "Real TQQQ case study: -72% drawdown to +250% recovery. Full breakdown with numbers, the Wheel Strategy used, mistakes made, and current portfolio status."
+title: "TQQQ Yield: -72% to +250% Real Recovery Case Study"
+description: "A real TQQQ yield case study: -72% drawdown to +250% recovery, the Wheel Strategy used, mistakes made, and current portfolio status."
 pubDate: 2026-04-17
 author: "Tzion Sigron"
 categories: ["case-study"]

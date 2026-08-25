@@ -1,7 +1,7 @@
 ---
 slug: interactive-brokers-review-2026-the-best-broker-for-international-investors
-title: "Interactive Brokers Review 2026 for International Investors"
-description: "Honest IBKR review for non-US investors. Covers fees, account opening, options access, FX rates, W-8BEN handling, and who IBKR is and isn't right for."
+title: "Interactive Brokers Israel Review 2026 for Investors"
+description: "Interactive Brokers Israel review 2026: fees, account opening, options access, FX rates, W-8BEN handling, and who IBKR is and isn't right for."
 pubDate: 2026-04-05
 updatedDate: 2026-05-12
 author: "Tzion Sigron"
