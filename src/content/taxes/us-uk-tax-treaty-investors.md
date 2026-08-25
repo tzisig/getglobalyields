@@ -1,7 +1,7 @@
 ---
 slug: us-uk-tax-treaty-investors
 title: "Tax on US Stocks in the UK: Investor Tax Treaty 2026"
-description: "US-UK tax treaty guide for individual investors. Withholding rates on dividends, ISA vs SIPP treatment, W-8BEN filing, and the 0% pension exemption explained."
+description: "Tax on US stocks in the UK: US-UK tax treaty guide for individual investors. Withholding rates on dividends, ISA vs SIPP treatment, and W-8BEN filing."
 pubDate: 2026-05-24
 updatedDate: 2026-08-04
 author: "Tzion Sigron"
@@ -24,15 +24,15 @@ readingTime: "16 min read"
 featured: true
 seo:
   metaTitle: "Tax on US Stocks in the UK: Investor Tax Treaty 2026"
-  metaDescription: "US-UK tax treaty guide for individual investors. Withholding rates on dividends, ISA vs SIPP treatment, W-8BEN filing, and the 0% pension exemption explained."
+  metaDescription: "Tax on US stocks in the UK: US-UK tax treaty guide for individual investors. Withholding rates on dividends, ISA vs SIPP treatment, and W-8BEN filing."
   ogTitle: "Tax on US Stocks in the UK: Investor Tax Treaty 2026"
-  ogDescription: "US-UK tax treaty guide for individual investors. Withholding rates on dividends, ISA vs SIPP treatment, W-8BEN filing, and the 0% pension exemption explained."
+  ogDescription: "Tax on US stocks in the UK: US-UK tax treaty guide for individual investors. Withholding rates on dividends, ISA vs SIPP treatment, and W-8BEN filing."
   ogImage: "/images/blog/taxes/us-uk-tax-treaty-investors.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"
   headline: "Tax on US Stocks in the UK: Investor Tax Treaty 2026"
-  description: "US-UK tax treaty guide for individual investors. Withholding rates on dividends, ISA vs SIPP treatment, W-8BEN filing, and the 0% pension exemption explained."
+  description: "Tax on US stocks in the UK: US-UK tax treaty guide for individual investors. Withholding rates on dividends, ISA vs SIPP treatment, and W-8BEN filing."
   author: "Tzion Sigron"
   datePublished: "2026-05-24"
   dateModified: "2026-08-04"

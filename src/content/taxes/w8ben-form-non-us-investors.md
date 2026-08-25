@@ -1,7 +1,7 @@
 ---
 slug: w8ben-form-non-us-investors
 title: "W-8BEN Form: International Trading Withholding Guide"
-description: "How to complete and file Form W-8BEN to reduce US withholding tax from 30% to treaty rates. Common mistakes, renewal rules, and broker-specific instructions."
+description: "How to complete and file Form W-8BEN for international trading: reduce US withholding tax from 30% to treaty rates. Mistakes to avoid and renewal rules."
 pubDate: 2026-04-01
 updatedDate: 2026-08-04
 author: "Tzion Sigron"
@@ -22,15 +22,15 @@ readingTime: "12 min read"
 featured: false
 seo:
   metaTitle: "W-8BEN Form: International Trading Withholding Guide"
-  metaDescription: "How to complete and file Form W-8BEN to reduce US withholding tax from 30% to treaty rates. Common mistakes, renewal rules, and broker-specific instructions."
+  metaDescription: "How to complete and file Form W-8BEN for international trading: reduce US withholding tax from 30% to treaty rates. Mistakes to avoid and renewal rules."
   ogTitle: "W-8BEN Form: International Trading Withholding Guide"
-  ogDescription: "How to complete and file Form W-8BEN to reduce US withholding tax from 30% to treaty rates. Common mistakes, renewal rules, and broker-specific instructions."
+  ogDescription: "How to complete and file Form W-8BEN for international trading: reduce US withholding tax from 30% to treaty rates. Mistakes to avoid and renewal rules."
   ogImage: "/images/blog/taxes/w8ben-form-non-us-investors.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"
   headline: "W-8BEN Form: International Trading Withholding Guide"
-  description: "How to complete and file Form W-8BEN to reduce US withholding tax from 30% to treaty rates. Common mistakes, renewal rules, and broker-specific instructions."
+  description: "How to complete and file Form W-8BEN for international trading: reduce US withholding tax from 30% to treaty rates. Mistakes to avoid and renewal rules."
   author: "Tzion Sigron"
   datePublished: "2026-04-01"
   dateModified: "2026-08-04"
