@@ -47,10 +47,24 @@ const linkCategories = [
 ];
 ---
 
-<BaseLayout 
-  title="Useful Links & Resources | Get Global Yields" 
+<BaseLayout
+  title="Useful Links & Resources | Get Global Yields"
   description="A curated directory of the best brokers, options tools, market data, and tax compliance resources for international investors."
 >
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Useful Links & Resources",
+    "description": "A curated directory of the best brokers, options tools, market data, and tax compliance resources for international investors.",
+    "url": "https://getglobalyields.com/resources/useful-links/",
+    "isPartOf": {
+      "@type": "WebSite",
+      "@id": "https://getglobalyields.com/#website",
+      "name": "Get Global Yields",
+      "url": "https://getglobalyields.com/"
+    }
+  })} />
+
   <div class="container mx-auto px-4 py-12 sm:px-6 lg:px-8 max-w-6xl">
     <div class="mb-12 text-center">
       <h1 class="text-4xl font-bold text-slate-100 mb-4">Useful <span class="text-accent-500">Links</span></h1>
