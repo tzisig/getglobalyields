@@ -21,16 +21,16 @@ draft: false
 readingTime: "12 min read"
 featured: false
 seo:
-  metaTitle: "W-8BEN Form Explained (2026): Reduce US Withholding Tax"
-  metaDescription: "Step-by-step W-8BEN guide for non-US investors. Reduce dividend tax from 30% to treaty rates and avoid costly mistakes."
-  ogTitle: "W-8BEN Form Explained (2026): Reduce US Withholding Tax"
-  ogDescription: "Step-by-step W-8BEN guide for non-US investors. Reduce dividend tax from 30% to treaty rates and avoid costly mistakes."
+  metaTitle: "W-8BEN Form: International Trading Withholding Guide"
+  metaDescription: "How to complete and file Form W-8BEN to reduce US withholding tax from 30% to treaty rates. Common mistakes, renewal rules, and broker-specific instructions."
+  ogTitle: "W-8BEN Form: International Trading Withholding Guide"
+  ogDescription: "How to complete and file Form W-8BEN to reduce US withholding tax from 30% to treaty rates. Common mistakes, renewal rules, and broker-specific instructions."
   ogImage: "/images/blog/taxes/w8ben-form-non-us-investors.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"
-  headline: "W-8BEN Form Explained (2026): Reduce US Withholding Tax"
-  description: "Step-by-step W-8BEN guide for non-US investors. Reduce dividend tax from 30% to treaty rates and avoid costly mistakes."
+  headline: "W-8BEN Form: International Trading Withholding Guide"
+  description: "How to complete and file Form W-8BEN to reduce US withholding tax from 30% to treaty rates. Common mistakes, renewal rules, and broker-specific instructions."
   author: "Tzion Sigron"
   datePublished: "2026-04-01"
   dateModified: "2026-08-04"

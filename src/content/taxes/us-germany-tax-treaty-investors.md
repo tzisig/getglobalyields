@@ -24,16 +24,16 @@ draft: false
 readingTime: "16 min read"
 featured: true
 seo:
-  metaTitle: "US-Germany Tax Treaty (Double Taxation Agreement) 2026"
-  metaDescription: "The US-Germany tax treaty (double taxation agreement) for German investors. Reduce US dividend withholding to 15% via Form W-8BEN."
-  ogTitle: "US-Germany Tax Treaty (Double Taxation Agreement) 2026"
-  ogDescription: "The US-Germany tax treaty (double taxation agreement) for German investors. Reduce US dividend withholding to 15% via Form W-8BEN."
+  metaTitle: "Germany USA Double Taxation Tax Treaty Agreement 2026"
+  metaDescription: "US-Germany tax treaty for investors. Dividend withholding rates, W-8BEN filing, Abgeltungsteuer interaction, and UCITS vs US ETF tax treatment explained."
+  ogTitle: "Germany USA Double Taxation Tax Treaty Agreement 2026"
+  ogDescription: "US-Germany tax treaty for investors. Dividend withholding rates, W-8BEN filing, Abgeltungsteuer interaction, and UCITS vs US ETF tax treatment explained."
   ogImage: "/images/blog/taxes/us-germany-tax-treaty-investors.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"
-  headline: "US-Germany Tax Treaty (Double Taxation Agreement) 2026"
-  description: "The US-Germany tax treaty (double taxation agreement) for German investors. Reduce US dividend withholding to 15% via Form W-8BEN."
+  headline: "Germany USA Double Taxation Tax Treaty Agreement 2026"
+  description: "US-Germany tax treaty for investors. Dividend withholding rates, W-8BEN filing, Abgeltungsteuer interaction, and UCITS vs US ETF tax treatment explained."
   author: "Tzion Sigron"
   datePublished: "2026-05-24"
   dateModified: "2026-08-04"

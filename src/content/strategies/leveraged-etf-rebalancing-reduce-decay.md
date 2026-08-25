@@ -22,8 +22,8 @@ draft: false
 readingTime: "13 min read"
 featured: false
 seo:
-  metaTitle: "Leveraged ETF Volatility Decay: 4 Proven Ways to Reduce It"
-  metaDescription: "How leveraged ETF volatility decay works, and 4 proven strategies to reduce it: HFEA, threshold rebalancing, calendar-reset ETFs, and vol targeting."
+  metaTitle: "Daily Reset ETF Decay: Explanation & 4 Ways to Reduce"
+  metaDescription: "Daily reset ETF volatility decay explained, and 4 proven strategies to reduce it: HFEA, threshold rebalancing, calendar-reset ETFs, and vol targeting."
 ---
 
 <!-- ADSENSE / AFFILIATE PLACEHOLDER
