@@ -6,6 +6,26 @@ import BaseLayout from '../layouts/BaseLayout.astro';
   title="About Get Global Yields: Founder, Method, and Sources"
   description="Meet Tzion Sigron, the economist and data professional behind Get Global Yields - his background, and how every article is researched and fact-checked."
 >
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "AboutPage",
+    "name": "About Get Global Yields",
+    "description": "Meet Tzion Sigron, the economist and data professional behind Get Global Yields - his background, and how every article is researched and fact-checked.",
+    "url": "https://getglobalyields.com/about/",
+    "mainEntity": {
+      "@type": "Person",
+      "name": "Tzion Sigron",
+      "jobTitle": "Founder & Editor",
+      "url": "https://getglobalyields.com/about/",
+      "sameAs": ["https://www.linkedin.com/in/tzion-sigron/"],
+      "worksFor": {
+        "@type": "Organization",
+        "name": "Get Global Yields",
+        "url": "https://getglobalyields.com/"
+      }
+    }
+  })} />
+
   <div class="bg-primary-900 py-16 lg:py-24">
     <div class="container mx-auto px-4 sm:px-6 lg:px-8 max-w-4xl">
       <article class="prose prose-invert prose-lg prose-a:text-accent-500 hover:prose-a:text-accent-400 max-w-none">
@@ -20,7 +40,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
         <p>I hold a Bachelor's degree in Economics and Management, and I've spent years working at the intersection of finance and data. For five years, I worked at a company that builds financial information software for the Tel Aviv Stock Exchange, where I specialized in bond data. My job was to take raw fixed-income data straight from the exchange, process it, and integrate it into systems that financial clients relied on every day. That work gave me a close, hands-on understanding of how market data actually moves from source to decision-maker, and how easily things get lost in translation along the way.</p>
 
-        <p>Alongside that, I've been personally investing in the Israeli stock market for years, and for the past 4.5 years I've been actively investing in the US stock market too. That means I've dealt firsthand with the tax treaties, reporting requirements, and account structures that trip up so many international investors, the same issues this site is built to help you navigate.</p>
+        <p>Alongside that, I've been personally investing in the Israeli stock market for years, and for the past 4.5 years I've been actively investing in the US stock market too. That means I've dealt firsthand with the <a href="/resources/tax-map/">tax treaties</a>, reporting requirements, and account structures that trip up so many international investors, the same issues this site is built to help you navigate.</p>
 
         <p>I started GetGlobalYields because I got tired of watching non-US investors wade through confusing, US-centric, or outdated information just to invest confidently in American markets. Most of what's out there is written for an American audience and never adapted for anyone else. My goal is to take what I've learned, both from working with financial data professionally and from investing my own money across two markets, and turn it into clear, practical guides that actually apply to your situation.</p>
 
@@ -37,7 +57,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 
         <h3 class="text-slate-100">Contact</h3>
         <p>Follow Tzion on <a href="https://www.linkedin.com/in/tzion-sigron/" target="_blank" rel="noopener noreferrer">LinkedIn</a> for more insights.</p>
-        <p>Have a question or feedback? Feel free to <a href="/contact/">reach out</a>.</p>
+        <p>Have a question or feedback? Feel free to <a href="/contact/">reach out</a>. New here? <a href="/start-here/">Start here</a> for a step-by-step roadmap.</p>
       </article>
     </div>
   </div>
