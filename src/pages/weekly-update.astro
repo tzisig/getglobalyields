@@ -3,6 +3,20 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 ---
 
 <BaseLayout title="This Week in Global Investing - Get Global Yields" description="Follow curated weekly updates on regulations, brokerage news, tax treaties, and market statistics affecting international investors worldwide.">
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "This Week in Global Investing",
+    "description": "Follow curated weekly updates on regulations, brokerage news, tax treaties, and market statistics affecting international investors worldwide.",
+    "url": "https://getglobalyields.com/weekly-update/",
+    "isPartOf": {
+      "@type": "WebSite",
+      "@id": "https://getglobalyields.com/#website",
+      "name": "Get Global Yields",
+      "url": "https://getglobalyields.com/"
+    }
+  })} />
+
   <section class="w-full px-4 pt-10 pb-14 sm:px-6 sm:pt-12 sm:pb-16 lg:px-8 lg:pt-14 lg:pb-20">
     <div class="weekly-update-container">
       <div class="header">
@@ -24,9 +38,9 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 Regulatory Update
 </span> <div class="headline" data-field="headline">SEC Proposes New "Regulation Crypto Assets" Framework</div> <div class="summary" data-field="summary">On August 18, the SEC proposed "Regulation Crypto Assets," a new rulemaking creating two exemptions from securities registration for certain crypto investment contracts - a "startup exemption" for raises up to $5 million over four years, and a "fundraising exemption" for up to $75 million in any 12-month period. The proposal follows the SEC's March 2026 interpretive guidance on crypto assets and comes as a related Senate bill, the Digital Asset Market Clarity Act, stalled before the August recess. Chairman Paul Atkins described the package as a "minimum effective dose" of oversight. The public comment period runs 60 days after publication in the Federal Register.</div> <div class="date-tag" data-field="week">Week of August 12, 2026</div> </div> <div class="card broker" data-card="broker"> <div class="card-accent-bar"></div> <span class="category-badge"> <svg fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M3 7.5L7.5 3m0 0L12 7.5M7.5 3v13.5m13.5 0L16.5 21m0 0L12 16.5m4.5 4.5V7.5"></path></svg>
 Broker News
-</span> <div class="headline" data-field="headline">eToro Reports Strong Q2, Announces $230 Million TradeZero Acquisition</div> <div class="summary" data-field="summary">eToro reported Q2 2026 results on August 11, with net contribution up 9% year-over-year to $229 million and funded accounts growing 18% to 4.28 million (rising further to 4.32 million in July). On the same day, the company announced an agreement to acquire TradeZero, a US-focused broker-dealer serving active traders, for up to $230 million in cash and stock - eToro's third acquisition this year. Assets under administration reached over $19 billion for the quarter, and adjusted diluted EPS rose to $0.68 from $0.56 a year earlier. The TradeZero deal is expected to close in the first half of 2027.</div> <div class="date-tag" data-field="week">Week of August 12, 2026</div> </div> <div class="card tax" data-card="tax"> <div class="card-accent-bar"></div> <span class="category-badge"> <svg fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M9 12.75L11.25 15 15 9.75m-3-7.036A11.959 11.959 0 013.598 6 11.99 11.99 0 003 9.749c0 5.592 3.824 10.29 9 11.623 5.176-1.332 9-6.03 9-11.622 0-1.31-.21-2.571-.598-3.751h-.152c-3.196 0-6.1-1.248-8.25-3.285z"></path></svg>
+</span> <div class="headline" data-field="headline"><a href="/best-brokers/etoro-review-2026/">eToro</a> Reports Strong Q2, Announces $230 Million TradeZero Acquisition</div> <div class="summary" data-field="summary">eToro reported Q2 2026 results on August 11, with net contribution up 9% year-over-year to $229 million and funded accounts growing 18% to 4.28 million (rising further to 4.32 million in July). On the same day, the company announced an agreement to acquire TradeZero, a US-focused broker-dealer serving active traders, for up to $230 million in cash and stock - eToro's third acquisition this year. Assets under administration reached over $19 billion for the quarter, and adjusted diluted EPS rose to $0.68 from $0.56 a year earlier. The TradeZero deal is expected to close in the first half of 2027. See our full <a href="/best-brokers/etoro-review-2026/">eToro review</a> for fees and account details.</div> <div class="date-tag" data-field="week">Week of August 12, 2026</div> </div> <div class="card tax" data-card="tax"> <div class="card-accent-bar"></div> <span class="category-badge"> <svg fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M9 12.75L11.25 15 15 9.75m-3-7.036A11.959 11.959 0 013.598 6 11.99 11.99 0 003 9.749c0 5.592 3.824 10.29 9 11.623 5.176-1.332 9-6.03 9-11.622 0-1.31-.21-2.571-.598-3.751h-.152c-3.196 0-6.1-1.248-8.25-3.285z"></path></svg>
 Tax Treaty Update
-</span> <div class="headline" data-field="headline">Investors Push for Lower US Dividend Withholding in Canada, Israel, and Switzerland</div> <div class="summary" data-field="summary">The National Foreign Trade Council's 2026 Tax Treaty Survey found that respondents specifically want to see reduced US dividend withholding rates for residents of Canada, Israel, and Switzerland, with Switzerland ranking as the top overall priority for treaty updates for a second straight year. On India, respondents pushed for clearer permanent establishment rules aligned with OECD guidelines. Dividend withholding remains by far the most cited negotiation priority across all countries surveyed, ahead of limitation-on-benefits provisions and interest withholding. No formal negotiations have been announced as a result of the survey, but it signals where investor pressure for treaty changes is concentrated.</div> <div class="date-tag" data-field="week">Week of August 12, 2026</div> </div> <div class="card stat" data-card="stat"> <div class="card-accent-bar"></div> <span class="category-badge"> <svg fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M3 13.125C3 12.504 3.504 12 4.125 12h2.25c.621 0 1.125.504 1.125 1.125v6.75C7.5 20.496 6.996 21 6.375 21h-2.25A1.125 1.125 0 013 19.875v-6.75zM9.75 8.625c0-.621.504-1.125 1.125-1.125h2.25c.621 0 1.125.504 1.125 1.125v11.25c0 .621-.504 1.125-1.125 1.125h-2.25a1.125 1.125 0 01-1.125-1.125V8.625zM16.5 4.125c0-.621.504-1.125 1.125-1.125h2.25C20.496 3 21 3.504 21 4.125v15.75c0 .621-.504 1.125-1.125 1.125h-2.25a1.125 1.125 0 01-1.125-1.125V4.125z"></path></svg>
+</span> <div class="headline" data-field="headline">Investors Push for Lower US Dividend Withholding in Canada, Israel, and Switzerland</div> <div class="summary" data-field="summary">The National Foreign Trade Council's 2026 Tax Treaty Survey found that respondents specifically want to see reduced US dividend withholding rates for residents of <a href="/taxes/us-canada-tax-treaty-investors-2026/">Canada</a>, <a href="/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026/">Israel</a>, and <a href="/taxes/us-switzerland-tax-treaty-investors/">Switzerland</a>, with Switzerland ranking as the top overall priority for treaty updates for a second straight year. On India, respondents pushed for clearer permanent establishment rules aligned with OECD guidelines. Dividend withholding remains by far the most cited negotiation priority across all countries surveyed, ahead of limitation-on-benefits provisions and interest withholding. No formal negotiations have been announced as a result of the survey, but it signals where investor pressure for treaty changes is concentrated. See our full <a href="/resources/tax-map/">tax treaty map</a> for current rates by country.</div> <div class="date-tag" data-field="week">Week of August 12, 2026</div> </div> <div class="card stat" data-card="stat"> <div class="card-accent-bar"></div> <span class="category-badge"> <svg fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2"><path stroke-linecap="round" stroke-linejoin="round" d="M3 13.125C3 12.504 3.504 12 4.125 12h2.25c.621 0 1.125.504 1.125 1.125v6.75C7.5 20.496 6.996 21 6.375 21h-2.25A1.125 1.125 0 013 19.875v-6.75zM9.75 8.625c0-.621.504-1.125 1.125-1.125h2.25c.621 0 1.125.504 1.125 1.125v11.25c0 .621-.504 1.125-1.125 1.125h-2.25a1.125 1.125 0 01-1.125-1.125V8.625zM16.5 4.125c0-.621.504-1.125 1.125-1.125h2.25C20.496 3 21 3.504 21 4.125v15.75c0 .621-.504 1.125-1.125 1.125h-2.25a1.125 1.125 0 01-1.125-1.125V4.125z"></path></svg>
 Stat of the Week
 </span> <div class="headline" data-field="headline">Foreign Holdings of US Securities Reach $35 Trillion</div> <div class="summary" data-field="summary">Foreign investors held approximately $35 trillion in US securities as of mid-2025, according to the Treasury's annual benchmark survey - up from roughly $31 trillion the year before. Private foreign investors, who account for over 80% of total foreign holdings, increased their net purchases of US securities to about $1.5 trillion in 2025, up from an average of roughly $1 trillion annually in prior years. The Treasury's next full survey, covering holdings through mid-2026, is expected to report preliminary results by August 31, 2026.</div> <div class="date-tag" data-field="week">Week of August 12, 2026</div> </div> </div>
 
@@ -429,6 +443,17 @@ Stat of the Week
     line-height: 1.55;
     flex: 1;
     margin-bottom: 12px;
+  }
+
+  .card .headline a,
+  .card .summary a {
+    color: var(--accent);
+    text-decoration: none;
+  }
+
+  .card .headline a:hover,
+  .card .summary a:hover {
+    text-decoration: underline;
   }
 
   .card .date-tag {

@@ -1,6 +1,6 @@
 ---
 slug: saxo-bank-review-2026
-title: "Saxo Bank: Best International Broker for US Equities"
+title: "Saxo Bank Review: Best International Broker for Equities"
 description: "Saxo Bank reviewed for international investors. High minimums, wide market access, and premium tools - is it worth the cost over IBKR?"
 pubDate: 2026-05-18
 updatedDate: 2026-05-18

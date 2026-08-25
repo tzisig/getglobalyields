@@ -11,6 +11,13 @@ const posts = (await getCollection('estate-planning').catch(() => []))
 <BaseLayout
   title="Estate Planning for International Investors"
   description="US estate tax exposure, account structures, and cross-border inheritance planning for non-US investors holding US stocks and ETFs."
+  collection={{
+    name: "Estate Planning for International Investors",
+    items: posts.map(post => ({
+      name: post.data.title,
+      url: `/estate-planning/${post.id}/`
+    }))
+  }}
 >
   <div class="bg-primary-900 py-16 lg:py-24 border-b border-primary-700 relative overflow-hidden">
     <div class="container relative mx-auto px-4 sm:px-6 lg:px-8 max-w-4xl text-center">
@@ -19,6 +26,9 @@ const posts = (await getCollection('estate-planning').catch(() => []))
       </h1>
       <p class="text-xl text-slate-300 leading-relaxed max-w-2xl mx-auto">
         US estate tax exposure, account structures, and cross-border inheritance planning for non-US investors holding US stocks and ETFs.
+      </p>
+      <p class="text-base text-slate-400 leading-relaxed max-w-2xl mx-auto mt-4">
+        Non-resident aliens get a $60,000 US estate tax exemption - a fraction of the amount US citizens get - which means a US brokerage account can create an unexpected estate tax bill for heirs. Start with <a href="/estate-planning/us-estate-tax-non-resident-aliens-60000-exemption/" class="text-accent-500 hover:underline">the $60,000 exemption explained</a>, then see the account structures that reduce exposure in <a href="/estate-planning/avoiding-us-estate-tax-brokerage-account/" class="text-accent-500 hover:underline">avoiding US estate tax on a brokerage account</a>.
       </p>
     </div>
   </div>

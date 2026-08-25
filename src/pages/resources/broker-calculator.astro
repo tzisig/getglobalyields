@@ -3,6 +3,20 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 ---
 
 <BaseLayout title="The Wrong Broker Cost Calculator — Get Global Yields" description="Estimate how much broker fees may reduce your invested capital over time, compare two fee rates, and see the potential savings from switching providers.">
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Broker Cost Calculator",
+    "description": "Estimate how much broker fees may reduce your invested capital over time, compare two fee rates, and see the potential savings from switching providers.",
+    "url": "https://getglobalyields.com/resources/broker-calculator/",
+    "isPartOf": {
+      "@type": "WebSite",
+      "@id": "https://getglobalyields.com/#website",
+      "name": "Get Global Yields",
+      "url": "https://getglobalyields.com/"
+    }
+  })} />
+
   <section class="w-full px-4 pt-10 pb-14 sm:px-6 sm:pt-12 sm:pb-16 lg:px-8 lg:pt-14 lg:pb-20">
     <div class="broker-calculator-container">
       <div class="header">
@@ -13,6 +27,9 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
         </div>
         <h1>The <span>Wrong Broker</span> Cost Calculator</h1>
         <p>See how much hidden fees are really costing you — and what you could save by switching to a better broker.</p>
+        <p style="max-width: 560px; margin: 12px auto 0; font-size: 0.9rem; color: var(--text-muted);">
+          The gap between a 1.5% fee structure and a low-cost broker compounds fast. See which providers actually charge less in our <a href="/best-brokers/" style="color: var(--accent);">broker reviews</a>, or use the <a href="/resources/broker-finder/" style="color: var(--accent);">broker finder</a> to see what's available where you live.
+        </p>
       </div>
 
       <div class="form-grid" id="form-grid">

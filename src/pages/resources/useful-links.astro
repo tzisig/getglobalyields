@@ -8,6 +8,7 @@ const linkCategories = [
   {
     title: 'Brokers',
     icon: '<svg class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z" /></svg>',
+    blurb: 'Sign-up pages for the brokers we cover most often. For a side-by-side comparison of fees, FX costs, and account opening from outside the US, see our <a href="/best-brokers/" class="text-accent-500 hover:underline">broker reviews</a> or use the <a href="/resources/broker-finder/" class="text-accent-500 hover:underline">broker finder</a> to match a broker to your country.',
     links: [
       { name: 'Interactive Brokers', url: BROKER_LINKS.ibkr, desc: 'interactivebrokers.com' },
       { name: 'tastytrade', url: BROKER_LINKS.tastytrade, desc: 'tastytrade.com' },
@@ -17,6 +18,7 @@ const linkCategories = [
   {
     title: 'Options Tools',
     icon: '<svg class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 12l3-3 3 3 4-4M8 21l4-4 4 4M3 4h18M4 4h16v12a1 1 0 01-1 1H5a1 1 0 01-1-1V4z" /></svg>',
+    blurb: 'Free data for pricing and tracking option positions. If you are new to selling premium on leveraged ETFs, our <a href="/strategies/tqqq-covered-calls-cash-secured-puts-strategy/" class="text-accent-500 hover:underline">TQQQ covered calls guide</a> and <a href="/options-income/wheel-strategy-tqqq/" class="text-accent-500 hover:underline">wheel strategy walkthrough</a> cover the mechanics step by step.',
     links: [
       { name: 'Market Chameleon', url: 'https://marketchameleon.com', desc: 'Free IV Rank data (marketchameleon.com)' },
       { name: 'tastytrade Options Education', url: `${BROKER_LINKS.tastytrade}learn`, desc: 'tastytrade.com/learn' }
@@ -25,6 +27,7 @@ const linkCategories = [
   {
     title: 'Tax & Compliance',
     icon: '<svg class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" /></svg>',
+    blurb: 'The primary-source forms and treaty text. For plain-language explanations, see our <a href="/taxes/w8ben-form-non-us-investors/" class="text-accent-500 hover:underline">W-8BEN filing guide</a> and the <a href="/resources/tax-map/" class="text-accent-500 hover:underline">tax treaty map</a>, which lists the withholding rate for every country we cover.',
     links: [
       { name: 'IRS W-8BEN Instructions', url: 'https://www.irs.gov/forms-pubs/about-form-w-8-ben', desc: 'irs.gov' },
       { name: 'IRS Tax Treaty Countries', url: 'https://www.irs.gov/businesses/international-businesses/united-states-income-tax-treaties-a-to-z', desc: 'irs.gov' },
@@ -34,6 +37,7 @@ const linkCategories = [
   {
     title: 'Market Data',
     icon: '<svg class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7h8m0 0v8m0-8l-8 8-4-4-6 6" /></svg>',
+    blurb: 'General-purpose quote and fund-screening sites. For yield and NAV-erosion comparisons across specific income ETFs, see our <a href="/strategies/best-high-yield-etfs-2026/" class="text-accent-500 hover:underline">high-yield ETF guide</a> and the <a href="/resources/calculators/" class="text-accent-500 hover:underline">investment calculators</a>.',
     links: [
       { name: 'Yahoo Finance', url: 'https://finance.yahoo.com', desc: 'finance.yahoo.com' },
       { name: 'ETF Database', url: 'https://etfdb.com', desc: 'etfdb.com' },
@@ -53,6 +57,9 @@ const linkCategories = [
       <p class="text-lg text-slate-400 max-w-2xl mx-auto">
         A curated collection of top-tier resources, tools, and regulatory sites for global investors.
       </p>
+      <p class="text-base text-slate-400 max-w-2xl mx-auto mt-4">
+        These are the external sites we actually reference when researching broker access, options data, tax treaty rules, and market data for non-US investors. For our own comparisons and step-by-step guides on the same topics, see the <a href="/best-brokers/" class="text-accent-500 hover:underline">broker reviews</a>, the <a href="/resources/tax-map/" class="text-accent-500 hover:underline">tax treaty map</a>, and the <a href="/resources/broker-finder/" class="text-accent-500 hover:underline">broker finder</a>.
+      </p>
     </div>
 
     <!-- Layout: Main content + Sidebar -->
@@ -68,6 +75,7 @@ const linkCategories = [
               </div>
               
               <div class="p-6">
+                <p class="text-slate-400 text-sm mb-4" set:html={category.blurb} />
                 <ul class="space-y-4">
                   {category.links.map((link) => (
                     <li>

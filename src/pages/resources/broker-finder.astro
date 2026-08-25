@@ -4,6 +4,19 @@ import { BROKER_LINKS } from '../../data/brokerLinks';
 ---
 
 <BaseLayout title="Broker Finder | Get Global Yields" description="Find brokers that accept investors in your country, then compare available online platforms, account features, and provider options side by side.">
+<script type="application/ld+json" set:html={JSON.stringify({
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Broker Finder",
+  "description": "Find brokers that accept investors in your country, then compare available online platforms, account features, and provider options side by side.",
+  "url": "https://getglobalyields.com/resources/broker-finder/",
+  "isPartOf": {
+    "@type": "WebSite",
+    "@id": "https://getglobalyields.com/#website",
+    "name": "Get Global Yields",
+    "url": "https://getglobalyields.com/"
+  }
+})} />
 <section class="w-full mt-6 px-4 pt-10 pb-10 sm:mt-8 sm:px-6 sm:pt-12 sm:pb-12 lg:mt-10 lg:px-8 lg:pt-14 lg:pb-14">
 <div class="broker-finder-container">
     <!-- Header -->
@@ -15,6 +28,9 @@ import { BROKER_LINKS } from '../../data/brokerLinks';
         </div>
         <h1>Find Your <span>Broker</span> by Country</h1>
         <p>Select your country of residence to see which brokers accept you - and compare them side by side.</p>
+        <p style="max-width: 600px; margin: 12px auto 0; font-size: 0.95rem; color: var(--text-muted);">
+            Availability by country changes as brokers open and close markets, so treat this as a starting point rather than the final word. For a deeper look at the brokers most commonly available to international investors, see our <a href="/best-brokers/" style="color: var(--accent);">broker reviews</a>, or run the numbers on FX and commission costs with the <a href="/resources/broker-calculator/" style="color: var(--accent);">broker cost calculator</a>.
+        </p>
     </div>
 
     <!-- Country Selector -->

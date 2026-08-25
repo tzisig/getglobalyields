@@ -1,7 +1,7 @@
 ---
 slug: how-to-hedge-tqqq
 title: "Buy and Hold TQQQ: Hedging Strategy Guide (2026)"
-description: "The real cost of hedging TQQQ - protective puts, collars, SQQQ, and position sizing. What works, what doesn't, and the math most guides skip."
+description: "The real cost of hedging a buy-and-hold TQQQ position: protective puts, collars, SQQQ, and sizing. What works, what doesn't, and the math most guides skip."
 pubDate: 2026-05-25
 updatedDate: 2026-05-25
 author: "Tzion Sigron"

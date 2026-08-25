@@ -5,9 +5,23 @@ import FinancialDisclaimer from '../../components/FinancialDisclaimer.astro';
 ---
 
 <BaseLayout 
-  title="Investment Calculators | Get Global Yields" 
+  title="Investment Calculators | Get Global Yields"
   description="Free calculators to plan your financial journey, project compound interest, and estimate returns."
 >
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Investment Calculators",
+    "description": "Free calculators to plan your financial journey, project compound interest, and estimate returns.",
+    "url": "https://getglobalyields.com/resources/calculators/",
+    "isPartOf": {
+      "@type": "WebSite",
+      "@id": "https://getglobalyields.com/#website",
+      "name": "Get Global Yields",
+      "url": "https://getglobalyields.com/"
+    }
+  })} />
+
   <div class="py-12 lg:py-16">
     <div class="container mx-auto px-4 sm:px-6 lg:px-8 max-w-7xl">
       <div class="mb-12 text-center">
@@ -21,6 +35,7 @@ import FinancialDisclaimer from '../../components/FinancialDisclaimer.astro';
         <p>Compounding is the single biggest driver of long-term portfolio growth - more than picking the right stock or timing an entry. The calculator below shows what a starting balance plus regular monthly contributions actually turns into over time at a given annual return, assuming monthly compounding.</p>
         <p>This matters more for international investors than the headline number suggests. Currency conversion costs, withholding tax on dividends, and broker fees all quietly reduce the effective annual return you actually compound at - a 8% assumption on paper can easily be 6-7% in practice once those are accounted for. Run the numbers at a few different return assumptions to see how sensitive the outcome is.</p>
         <p>The result is illustrative, not a projection - actual markets do not return a fixed rate every year, and sequence of returns matters as much as the average. Use it to compare scenarios (higher monthly contribution vs. a higher assumed return, for example), not as a guarantee of what your portfolio will be worth.</p>
+        <p>For a full worked example of putting a lump sum to work, see our <a href="/us-investing/how-to-invest-100k-step-by-step-guide/" class="text-accent-500 hover:underline">$100K allocation guide</a>. To estimate what broker fees and FX spreads are actually costing you on top of the return assumption above, use the <a href="/resources/broker-calculator/" class="text-accent-500 hover:underline">broker cost calculator</a>.</p>
       </div>
 
       <!-- Content Grid Matching Review Pages -->

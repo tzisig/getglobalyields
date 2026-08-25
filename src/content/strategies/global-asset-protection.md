@@ -1,7 +1,7 @@
 ---
 slug: global-asset-protection
 title: "Multi-Jurisdictional Asset Protection for Investors"
-description: "How non-US investors can protect assets across borders. Covers broker safety, account structures, and legal considerations for international portfolios."
+description: "Multi-jurisdictional asset protection for non-US investors: broker safety, account structures, and legal considerations for international portfolios."
 pubDate: 2026-04-01
 updatedDate: 2026-05-25
 author: "Tzion Sigron"

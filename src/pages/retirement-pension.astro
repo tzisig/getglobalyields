@@ -11,6 +11,13 @@ const posts = (await getCollection('retirement-pension').catch(() => []))
 <BaseLayout
   title="Retirement & Pension Planning for International Investors"
   description="Cross-border retirement and pension planning for non-US investors holding US stocks and ETFs - pension access, retirement income, and withdrawal strategy."
+  collection={{
+    name: "Retirement & Pension Planning",
+    items: posts.map(post => ({
+      name: post.data.title,
+      url: `/retirement-pension/${post.id}/`
+    }))
+  }}
 >
   <div class="bg-primary-900 py-16 lg:py-24 border-b border-primary-700 relative overflow-hidden">
     <div class="container relative mx-auto px-4 sm:px-6 lg:px-8 max-w-4xl text-center">
@@ -19,6 +26,9 @@ const posts = (await getCollection('retirement-pension').catch(() => []))
       </h1>
       <p class="text-xl text-slate-300 leading-relaxed max-w-2xl mx-auto">
         Cross-border retirement planning for international investors holding US stocks and ETFs - pension access, withdrawal strategy, and retiring across borders.
+      </p>
+      <p class="text-base text-slate-400 leading-relaxed max-w-2xl mx-auto mt-4">
+        Retiring across a border changes the mechanics most retirement advice assumes: US-based 401(k) and IRA access can differ by country, required minimum distributions interact with foreign tax rules, and a domestic dividend-income strategy does not automatically work once you're filing taxes somewhere else. The guides below cover specific cases - from <a href="/retirement-pension/401k-ira-access-non-us-citizens/" class="text-accent-500 hover:underline">401(k) and IRA access for non-US citizens</a> to <a href="/retirement-pension/retirement-income-ladder-us-dividend-stocks/" class="text-accent-500 hover:underline">building a dividend income ladder</a> - rather than generic advice that skips the cross-border details.
       </p>
     </div>
   </div>

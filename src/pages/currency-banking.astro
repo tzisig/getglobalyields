@@ -11,6 +11,13 @@ const posts = (await getCollection('currency-banking').catch(() => []))
 <BaseLayout
   title="Currency & Cross-Border Banking for International Investors"
   description="Funding a US broker from abroad, currency conversion costs, and cross-border banking for international investors."
+  collection={{
+    name: "Currency & Cross-Border Banking",
+    items: posts.map(post => ({
+      name: post.data.title,
+      url: `/currency-banking/${post.id}/`
+    }))
+  }}
 >
   <div class="bg-primary-900 py-16 lg:py-24 border-b border-primary-700 relative overflow-hidden">
     <div class="container relative mx-auto px-4 sm:px-6 lg:px-8 max-w-4xl text-center">
@@ -19,6 +26,9 @@ const posts = (await getCollection('currency-banking').catch(() => []))
       </h1>
       <p class="text-xl text-slate-300 leading-relaxed max-w-2xl mx-auto">
         Funding a US broker from abroad, currency conversion costs, and cross-border banking for international investors.
+      </p>
+      <p class="text-base text-slate-400 leading-relaxed max-w-2xl mx-auto mt-4">
+        The spread on a currency conversion is often the largest hidden cost in cross-border investing, quietly outweighing broker commissions over time. See how much <a href="/currency-banking/avoiding-double-currency-conversion-fees/" class="text-accent-500 hover:underline">double conversion fees</a> actually cost, and whether you even <a href="/currency-banking/do-you-need-us-bank-account-to-invest/" class="text-accent-500 hover:underline">need a US bank account</a> to get started.
       </p>
     </div>
   </div>

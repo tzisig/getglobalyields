@@ -1,7 +1,7 @@
 ---
 slug: etoro-review-2026
 title: "eToro Rating 2026: Review for International Investors"
-description: "eToro reviewed for non-US investors: fees, copy trading, crypto access, withdrawal costs, and why experienced investors may want a more advanced broker."
+description: "eToro rating 2026: fees, copy trading, crypto access, withdrawal costs, and why experienced investors may want a more advanced broker."
 pubDate: 2026-05-19
 updatedDate: 2026-05-19
 author: "Tzion Sigron"

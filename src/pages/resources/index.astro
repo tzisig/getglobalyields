@@ -3,9 +3,21 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 import Sidebar from '../../components/Sidebar.astro';
 ---
 
-<BaseLayout 
+<BaseLayout
   title="Investor Resources and Tools for International Investors"
   description="Expert tools, glossaries, and useful links to empower your global investment journey."
+  collection={{
+    name: "Investor Resources and Tools",
+    items: [
+      { name: "Glossary", url: "/resources/glossary/" },
+      { name: "Calculators", url: "/resources/calculators/" },
+      { name: "Useful Links", url: "/resources/useful-links/" },
+      { name: "Broker Finder", url: "/resources/broker-finder/" },
+      { name: "Broker Calculator", url: "/resources/broker-calculator/" },
+      { name: "Tax Map", url: "/resources/tax-map/" },
+      { name: "Investor Profiles", url: "/resources/investor-profiles/" }
+    ]
+  }}
 >
   <div class="py-12 lg:py-16 bg-primary-900 border-b border-primary-700">
     <div class="container mx-auto px-4 sm:px-6 lg:px-8 max-w-7xl">
@@ -13,6 +25,9 @@ import Sidebar from '../../components/Sidebar.astro';
         <h1 class="text-4xl font-bold text-slate-100 mb-4">Investment <span class="text-accent-500">Resources</span></h1>
         <p class="text-lg text-slate-400 max-w-2xl mx-auto">
           Everything you need to navigate international markets, understand complex financial concepts, and calculate your potential returns.
+        </p>
+        <p class="text-base text-slate-400 max-w-2xl mx-auto mt-4">
+          Start with the <a href="/resources/glossary/" class="text-accent-500 hover:underline">glossary</a> if a term in one of our guides is unfamiliar, the <a href="/resources/tax-map/" class="text-accent-500 hover:underline">tax treaty map</a> to check withholding rates for your country, or the <a href="/resources/broker-finder/" class="text-accent-500 hover:underline">broker finder</a> to see which platforms accept investors where you live. Each tool below links back to the fuller guides that explain the numbers behind it.
         </p>
       </div>
 

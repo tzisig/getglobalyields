@@ -3,6 +3,20 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 ---
 
 <BaseLayout title="Real Investor Profiles - Get Global Yields" description="Explore real-world profiles showing how international investors from different countries access US markets, choose brokers, and build portfolios.">
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Real Investor Profiles",
+    "description": "Explore real-world profiles showing how international investors from different countries access US markets, choose brokers, and build portfolios.",
+    "url": "https://getglobalyields.com/resources/investor-profiles/",
+    "isPartOf": {
+      "@type": "WebSite",
+      "@id": "https://getglobalyields.com/#website",
+      "name": "Get Global Yields",
+      "url": "https://getglobalyields.com/"
+    }
+  })} />
+
   <section class="w-full px-4 pt-10 pb-14 sm:px-6 sm:pt-12 sm:pb-16 lg:px-8 lg:pt-14 lg:pb-20">
     <div class="investor-profiles-container">
       <div class="header">
@@ -25,7 +39,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
             <img src="https://flagcdn.com/32x24/ar.png" alt="Argentina" style="width:32px;height:24px;border-radius:3px;">
             <div class="name-block">
               <div class="name">Maria</div>
-              <div class="meta">Argentina <span class="separator">|</span> Graphic Designer</div>
+              <div class="meta"><a href="/taxes/us-argentina-tax-treaty-investors/">Argentina</a> <span class="separator">|</span> Graphic Designer</div>
             </div>
           </div>
           <div class="info-row">
@@ -34,7 +48,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
           </div>
           <div class="info-row">
             <span class="info-label">Broker</span>
-            <span class="info-value">Interactive Brokers</span>
+            <span class="info-value"><a href="/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/">Interactive Brokers</a></span>
           </div>
           <div class="allocation">
             <strong>Portfolio:</strong> 60% VOO &nbsp;|&nbsp; 25% SCHD &nbsp;|&nbsp; 15% Cash
@@ -49,7 +63,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
             <img src="https://flagcdn.com/32x24/jp.png" alt="Japan" style="width:32px;height:24px;border-radius:3px;">
             <div class="name-block">
               <div class="name">Kenji</div>
-              <div class="meta">Japan <span class="separator">|</span> Software Engineer</div>
+              <div class="meta"><a href="/us-investing/how-to-invest-in-us-stocks-from-japan/">Japan</a> <span class="separator">|</span> Software Engineer</div>
             </div>
           </div>
           <div class="info-row">
@@ -58,7 +72,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
           </div>
           <div class="info-row">
             <span class="info-label">Broker</span>
-            <span class="info-value">Firstrade</span>
+            <span class="info-value"><a href="/best-brokers/firstrade-review-2026/">Firstrade</a></span>
           </div>
           <div class="allocation">
             <strong>Portfolio:</strong> 50% QQQ &nbsp;|&nbsp; 30% VTI &nbsp;|&nbsp; 10% TQQQ &nbsp;|&nbsp; 10% Cash
@@ -73,7 +87,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
             <img src="https://flagcdn.com/32x24/ae.png" alt="UAE" style="width:32px;height:24px;border-radius:3px;">
             <div class="name-block">
               <div class="name">Fatima</div>
-              <div class="meta">UAE <span class="separator">|</span> Marketing Director</div>
+              <div class="meta"><a href="/us-investing/how-to-invest-in-us-stocks-from-uae/">UAE</a> <span class="separator">|</span> Marketing Director</div>
             </div>
           </div>
           <div class="info-row">
@@ -82,7 +96,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
           </div>
           <div class="info-row">
             <span class="info-label">Broker</span>
-            <span class="info-value">Saxo Bank</span>
+            <span class="info-value"><a href="/best-brokers/saxo-bank-review-2026/">Saxo Bank</a></span>
           </div>
           <div class="allocation">
             <strong>Portfolio:</strong> 40% VWRA &nbsp;|&nbsp; 30% IUIT &nbsp;|&nbsp; 20% AGGU &nbsp;|&nbsp; 10% Cash
@@ -97,7 +111,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
             <img src="https://flagcdn.com/32x24/mx.png" alt="Mexico" style="width:32px;height:24px;border-radius:3px;">
             <div class="name-block">
               <div class="name">Carlos</div>
-              <div class="meta">Mexico <span class="separator">|</span> University Professor</div>
+              <div class="meta"><a href="/us-investing/how-to-invest-in-us-stocks-from-mexico/">Mexico</a> <span class="separator">|</span> University Professor</div>
             </div>
           </div>
           <div class="info-row">
@@ -106,7 +120,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
           </div>
           <div class="info-row">
             <span class="info-label">Broker</span>
-            <span class="info-value">tastytrade</span>
+            <span class="info-value"><a href="/best-brokers/tastytrade-review-2026/">tastytrade</a></span>
           </div>
           <div class="allocation">
             <strong>Portfolio:</strong> 45% SPY &nbsp;|&nbsp; 30% QQQ &nbsp;|&nbsp; 15% Covered Call ETFs &nbsp;|&nbsp; 10% Cash
@@ -121,7 +135,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
             <img src="https://flagcdn.com/32x24/in.png" alt="India" style="width:32px;height:24px;border-radius:3px;">
             <div class="name-block">
               <div class="name">Ananya</div>
-              <div class="meta">India <span class="separator">|</span> Data Analyst</div>
+              <div class="meta"><a href="/us-investing/invest-us-stocks-india/">India</a> <span class="separator">|</span> Data Analyst</div>
             </div>
           </div>
           <div class="info-row">
@@ -130,7 +144,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
           </div>
           <div class="info-row">
             <span class="info-label">Broker</span>
-            <span class="info-value">Interactive Brokers</span>
+            <span class="info-value"><a href="/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/">Interactive Brokers</a></span>
           </div>
           <div class="allocation">
             <strong>Portfolio:</strong> 55% VTI &nbsp;|&nbsp; 25% VXUS &nbsp;|&nbsp; 10% BND &nbsp;|&nbsp; 10% Cash
@@ -145,7 +159,7 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
             <img src="https://flagcdn.com/32x24/de.png" alt="Germany" style="width:32px;height:24px;border-radius:3px;">
             <div class="name-block">
               <div class="name">Lars</div>
-              <div class="meta">Germany <span class="separator">|</span> Mechanical Engineer</div>
+              <div class="meta"><a href="/us-investing/how-to-invest-in-us-stocks-from-germany/">Germany</a> <span class="separator">|</span> Mechanical Engineer</div>
             </div>
           </div>
           <div class="info-row">
@@ -372,6 +386,19 @@ import BaseLayout from '../../layouts/BaseLayout.astro';
 
   .profile-card .meta .separator {
     color: var(--border);
+  }
+
+  .profile-card .meta a,
+  .profile-card .info-value a {
+    color: inherit;
+    text-decoration: none;
+    border-bottom: 1px dotted var(--text-muted);
+  }
+
+  .profile-card .meta a:hover,
+  .profile-card .info-value a:hover {
+    color: var(--accent);
+    border-bottom-color: var(--accent);
   }
 
   .profile-card .info-row {

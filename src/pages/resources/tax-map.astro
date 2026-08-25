@@ -27,8 +27,22 @@ const tableCountries = treatyDataEntries
 
 <BaseLayout
   title="US Tax Treaty Countries World Map - Get Global Yields"
-  description="Interactive world map showing US tax treaty status, withholding rates, and W-8BEN requirements."
+  description="Interactive world map of US tax treaty countries: treaty status, withholding rates, and W-8BEN requirements by country."
 >
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "US Tax Treaty Countries World Map",
+    "description": "Interactive world map of US tax treaty countries: treaty status, withholding rates, and W-8BEN requirements by country.",
+    "url": "https://getglobalyields.com/resources/tax-map/",
+    "isPartOf": {
+      "@type": "WebSite",
+      "@id": "https://getglobalyields.com/#website",
+      "name": "Get Global Yields",
+      "url": "https://getglobalyields.com/"
+    }
+  })} />
+
   <script is:inline src="https://d3js.org/d3.v7.min.js"></script>
   <script is:inline src="https://d3js.org/topojson.v3.min.js"></script>
 

@@ -40,6 +40,20 @@ const startInvesting = [
   title="Start Here - Your Global Investing Journey"
   description="Follow our step-by-step roadmap to start investing in US markets from anywhere in the world."
 >
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Start Here: Your Global Investing Journey",
+    "description": "Follow our step-by-step roadmap to start investing in US markets from anywhere in the world.",
+    "url": "https://getglobalyields.com/start-here/",
+    "isPartOf": {
+      "@type": "WebSite",
+      "@id": "https://getglobalyields.com/#website",
+      "name": "Get Global Yields",
+      "url": "https://getglobalyields.com/"
+    }
+  })} />
+
   <div class="bg-primary-900 py-16 lg:py-24 border-b border-primary-700 relative overflow-hidden">
     <div class="absolute inset-x-0 bottom-0 h-1/2 bg-gradient-to-t from-primary-800 to-transparent"></div>
     <div class="container relative mx-auto px-4 sm:px-6 lg:px-8 max-w-4xl text-center">
@@ -47,7 +61,10 @@ const startInvesting = [
         Your Playbook to <span class="text-accent-500 text-transparent bg-clip-text bg-gradient-to-r from-accent-400 to-accent-600">Global Yields</span>
       </h1>
       <p class="text-xl text-slate-300 leading-relaxed">
-        Don't let borders limit your financial growth. Follow this step-by-step roadmap tailored specifically for international investors. 
+        Don't let borders limit your financial growth. Follow this step-by-step roadmap tailored specifically for international investors.
+      </p>
+      <p class="text-base text-slate-400 leading-relaxed mt-4 max-w-2xl mx-auto">
+        The order matters more than it looks: opening a US brokerage account before you understand W-8BEN and withholding tax rules is how people end up overpaying for years without noticing. Work through the four steps below in sequence - basics, broker, real-world profiles for context, then strategy - and you will have covered the decisions that are expensive to get wrong and cheap to get right early.
       </p>
     </div>
   </div>
@@ -162,6 +179,9 @@ const startInvesting = [
         </div>
       </div>
 
+      <p class="text-slate-400 text-center max-w-2xl mx-auto mt-16">
+        Once you've opened an account and filed your W-8BEN, the ongoing work is mostly maintenance: tracking tax treaty changes for your country on the <a href="/resources/tax-map/" class="text-accent-500 hover:underline">tax treaty map</a>, and revisiting strategy as your goals shift. Come back to <a href="/weekly-update/" class="text-accent-500 hover:underline">this week's update</a> for what's changed recently.
+      </p>
     </div>
   </section>
 
