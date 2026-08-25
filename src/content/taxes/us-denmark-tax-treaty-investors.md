@@ -1,7 +1,7 @@
 ---
 slug: us-denmark-tax-treaty-investors
 title: "US-Denmark Taxes: Tax Treaty Guide for Danish Investors"
-description: "US-Denmark tax treaty guide for individual investors. Withholding rates on dividends, the aktiesparekonto PFIC trap for US citizens, the 0% pension fund rate, W-8BEN filing, and how Danish aktieindkomst tax interacts with US rules."
+description: "US-Denmark taxes and tax treaty guide for individual investors. Withholding rates on dividends, the aktiesparekonto PFIC trap for US citizens, the 0% pension fund rate, W-8BEN filing, and how Danish aktieindkomst tax interacts with US rules."
 pubDate: 2026-06-17
 updatedDate: 2026-08-04
 author: "Tzion Sigron"
@@ -24,15 +24,15 @@ featured: false
 rating: 4.6
 seo:
   metaTitle: "US-Denmark Taxes: Tax Treaty Guide for Danish Investors"
-  metaDescription: "US-Denmark tax treaty guide for investors. Withholding rates on dividends, the aktiesparekonto PFIC trap, the 0% pension rate, and W-8BEN filing."
+  metaDescription: "US-Denmark taxes and tax treaty guide for investors. Withholding rates on dividends, the aktiesparekonto PFIC trap, the 0% pension rate, and W-8BEN filing."
   ogTitle: "US-Denmark Taxes: Tax Treaty Guide for Danish Investors"
-  ogDescription: "US-Denmark tax treaty guide for investors. Withholding rates on dividends, the aktiesparekonto PFIC trap, the 0% pension rate, and W-8BEN filing."
+  ogDescription: "US-Denmark taxes and tax treaty guide for investors. Withholding rates on dividends, the aktiesparekonto PFIC trap, the 0% pension rate, and W-8BEN filing."
   ogImage: "/images/blog/taxes/us-denmark-tax-treaty-investors.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"
   headline: "US-Denmark Taxes: Tax Treaty Guide for Danish Investors"
-  description: "US-Denmark tax treaty guide for investors. Withholding rates on dividends, the aktiesparekonto PFIC trap, the 0% pension rate, and W-8BEN filing."
+  description: "US-Denmark taxes and tax treaty guide for investors. Withholding rates on dividends, the aktiesparekonto PFIC trap, the 0% pension rate, and W-8BEN filing."
   author: "Tzion Sigron"
   datePublished: "2026-06-17"
   dateModified: "2026-08-04"

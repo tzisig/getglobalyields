@@ -1,6 +1,6 @@
 ---
 slug: us-china-tax-treaty-investors
-title: "China-America Tax Treaties Guide for Chinese Investors (2026)"
+title: "China-America Tax Treaties Guide for Investors (2026)"
 description: "China tax treaties: the US-China treaty's withholding rates, broker access for mainland residents, W-8BEN, FATCA gap, and Hong Kong distinction."
 pubDate: 2026-06-04
 updatedDate: 2026-08-04
@@ -23,15 +23,15 @@ readingTime: "16 min read"
 featured: true
 rating: 4.8
 seo:
-  metaTitle: "China-America Tax Treaties Guide for Chinese Investors (2026)"
+  metaTitle: "China-America Tax Treaties Guide for Investors (2026)"
   metaDescription: "China tax treaties: the US-China treaty's withholding rates, broker access for mainland residents, W-8BEN, FATCA gap, and Hong Kong distinction."
-  ogTitle: "China-America Tax Treaties Guide for Chinese Investors (2026)"
+  ogTitle: "China-America Tax Treaties Guide for Investors (2026)"
   ogDescription: "China tax treaties: the US-China treaty's withholding rates, broker access for mainland residents, W-8BEN, FATCA gap, and Hong Kong distinction."
   ogImage: "/images/blog/taxes/us-china-tax-treaty-investors.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"
-  headline: "China-America Tax Treaties Guide for Chinese Investors (2026)"
+  headline: "China-America Tax Treaties Guide for Investors (2026)"
   description: "China tax treaties: the US-China treaty's withholding rates, broker access for mainland residents, W-8BEN, FATCA gap, and Hong Kong distinction."
   author: "Tzion Sigron"
   datePublished: "2026-06-04"

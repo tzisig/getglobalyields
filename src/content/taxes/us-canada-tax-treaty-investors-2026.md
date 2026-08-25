@@ -24,9 +24,9 @@ featured: false
 rating: 4.6
 seo:
   metaTitle: "Does Canada Have a Tax Treaty with the US? (2026)"
-  metaDescription: "Learn how the US-Canada tax treaty affects RRSP, TFSA, and taxable accounts. How to reduce withholding tax to 15% and avoid common IRS tax traps."
+  metaDescription: "Does Canada have a tax treaty with the US? Yes - see how it affects RRSP, TFSA, and taxable accounts, and how to reduce withholding tax to 15%."
   ogTitle: "Does Canada Have a Tax Treaty with the US? (2026)"
-  ogDescription: "Learn how the US-Canada tax treaty affects RRSP, TFSA, and taxable accounts. How to reduce withholding tax to 15% and avoid common IRS tax traps."
+  ogDescription: "Does Canada have a tax treaty with the US? Yes - see how it affects RRSP, TFSA, and taxable accounts, and how to reduce withholding tax to 15%."
   ogImage: "/images/blog/taxes/us-canada-tax-treaty-investors-2026.webp"
   twitterCard: "summary_large_image"
 schema:
@@ -47,7 +47,7 @@ schema:
       answer: "Yes. Canadian-domiciled ETFs that hold US stocks (such as XUS, VFV, ZSP) receive US dividends subject to US withholding at the fund level. The treaty partially reduces this withholding at the fund level when the ETF is held in an RRSP, but the mechanics differ from holding the US ETF directly. For full RRSP withholding efficiency, holding US-domiciled ETFs (SPY, VTI, VYM) directly inside your RRSP captures the complete Article XXI(7) exemption."
   type: "article"
   headline: "Does Canada Have a Tax Treaty with the US? (2026)"
-  description: "Learn how the US-Canada tax treaty affects RRSP, TFSA, and taxable accounts. How to reduce withholding tax to 15% and avoid common IRS tax traps."
+  description: "Does Canada have a tax treaty with the US? Yes - see how it affects RRSP, TFSA, and taxable accounts, and how to reduce withholding tax to 15%."
   author: "Tzion Sigron"
   datePublished: "2026-06-01"
   dateModified: "2026-08-04"

@@ -28,15 +28,15 @@ featured: false
 rating: 4.6
 seo:
   metaTitle: "Bulgaria Foreign Income Tax Guide for Investors (2026)"
-  metaDescription: "US-Bulgaria tax treaty guide for investors. Dividend withholding rates, W-8BEN filing, and the Art. 13 ZDDFL capital gains exemption dispute explained."
+  metaDescription: "Bulgaria foreign income tax and US-Bulgaria tax treaty guide for investors. Dividend withholding rates, W-8BEN filing, and the Art. 13 ZDDFL exemption dispute."
   ogTitle: "Bulgaria Foreign Income Tax Guide for Investors (2026)"
-  ogDescription: "US-Bulgaria tax treaty guide for investors. Dividend withholding rates, W-8BEN filing, and the Art. 13 ZDDFL capital gains exemption dispute explained."
+  ogDescription: "Bulgaria foreign income tax and US-Bulgaria tax treaty guide for investors. Dividend withholding rates, W-8BEN filing, and the Art. 13 ZDDFL exemption dispute."
   ogImage: "/images/blog/taxes/us-bulgaria-tax-treaty-investors.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"
   headline: "Bulgaria Foreign Income Tax Guide for Investors (2026)"
-  description: "US-Bulgaria tax treaty guide for investors. Dividend withholding rates, W-8BEN filing, and the Art. 13 ZDDFL capital gains exemption dispute explained."
+  description: "Bulgaria foreign income tax and US-Bulgaria tax treaty guide for investors. Dividend withholding rates, W-8BEN filing, and the Art. 13 ZDDFL exemption dispute."
   author: "Tzion Sigron"
   datePublished: "2026-06-01"
   dateModified: "2026-08-04"
