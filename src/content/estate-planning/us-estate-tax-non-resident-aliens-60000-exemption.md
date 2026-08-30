@@ -57,7 +57,7 @@ A smaller estate shows the same shape. On **$150,000** of US-situs assets, the t
 
 **US-listed stocks and securities held through any broker - including a foreign broker - generally count as US-situs assets for this purpose.** Moving your holdings to a non-US brokerage platform does not change the situs of US-listed securities; the tax exposure follows the underlying asset's US character, not the location of the account holding it.
 
-This is a common and understandable point of confusion - it seems intuitive that a European or Asian brokerage account should be outside US estate tax's reach, but the determining factor is what the account holds (US-listed securities), not where the account itself is domiciled. **Non-US-domiciled funds - UCITS ETFs, for instance - are generally treated differently**, since the fund itself is not a US entity, a genuine mitigation angle covered in more depth in our [UCITS vs US-domiciled comparison](/index-funds/ucits-vs-us-domiciled-etfs-tax-comparison/) and in our companion [avoiding US estate tax guide](/estate-planning/avoiding-us-estate-tax-brokerage-account/).
+This is a common and understandable point of confusion - it seems intuitive that a European or Asian brokerage account should be outside US estate tax's reach, but the determining factor is what the account holds (US-listed securities), not where the account itself is domiciled. **Non-US-domiciled funds - UCITS ETFs, for instance - are generally treated differently**, since the fund itself is not a US entity, a genuine mitigation angle covered in more depth in our UCITS vs US-domiciled comparison and in our companion [avoiding US estate tax guide](/estate-planning/avoiding-us-estate-tax-brokerage-account/).
 
 ---
 
@@ -80,7 +80,7 @@ If a non-resident alien's US-situs assets exceed the $60,000 threshold at death,
 ## Frequently Asked Questions
 
 **Does the $60,000 exemption apply per person, or per couple/family?**
-Per person - each non-resident alien individual has their own separate $60,000 exemption; there's no combined or portable exemption between spouses the way US citizen spouses can access certain marital deduction provisions, a distinction covered in more detail in our [joint accounts guide](/estate-planning/joint-accounts-estate-tax-exposure/).
+Per person - each non-resident alien individual has their own separate $60,000 exemption; there's no combined or portable exemption between spouses the way US citizen spouses can access certain marital deduction provisions, a distinction covered in more detail in our joint accounts guide.
 
 **Does the $60,000 threshold ever get adjusted, or has it truly never changed?**
 The figure has remained fixed for a long period without inflation indexing, unlike many other tax thresholds that adjust periodically - while tax law can always change through future legislation, this specific figure's history of remaining static is itself part of why it catches investors off guard, since a portfolio that felt modest years ago may have grown well past a threshold that never moved.
@@ -89,7 +89,7 @@ The figure has remained fixed for a long period without inflation indexing, unli
 Yes - the US NRA estate tax exemption is based specifically on US-situs asset value, entirely independent of your total worldwide estate size or your home country's own estate tax rules and thresholds. A modest worldwide estate with a meaningful US-situs component can still generate US estate tax exposure even if the same investor's home country would never tax an estate of that total size.
 
 **Is there any way to reduce this exposure without giving up US stock exposure entirely?**
-Yes - several structural approaches exist, covered throughout this category, including holding through non-US-domiciled funds, specific account structuring, and treaty-based relief for investors from certain countries, covered in our [avoiding US estate tax guide](/estate-planning/avoiding-us-estate-tax-brokerage-account/) and [estate tax treaty countries guide](/estate-planning/us-estate-tax-treaty-countries/).
+Yes - several structural approaches exist, covered throughout this category, including holding through non-US-domiciled funds, specific account structuring, and treaty-based relief for investors from certain countries, covered in our [avoiding US estate tax guide](/estate-planning/avoiding-us-estate-tax-brokerage-account/) and estate tax treaty countries guide.
 
 ---
 
@@ -115,5 +115,5 @@ The $60,000 non-resident alien estate tax exemption is dramatically smaller than
 ## Related Guides
 
 - [Avoiding US Estate Tax on a Brokerage Account](/estate-planning/avoiding-us-estate-tax-brokerage-account/)
-- [US Estate Tax Treaty Countries](/estate-planning/us-estate-tax-treaty-countries/)
-- [Joint Accounts and Estate Tax Exposure](/estate-planning/joint-accounts-estate-tax-exposure/)
+- US Estate Tax Treaty Countries
+- Joint Accounts and Estate Tax Exposure

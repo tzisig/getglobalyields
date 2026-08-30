@@ -58,7 +58,7 @@ Since totalization agreements don't apply, the relevant frameworks for your US b
 
 - **The income tax treaty** (or absence of one) between the US and your country of residence, determining your dividend withholding rate - covered in our [country-specific tax guides](/taxes/).
 - **Your home country's own domestic tax rules** on the resulting investment income.
-- **The foreign tax credit mechanism**, covered in our [dedicated guide](/taxes/foreign-tax-credit-us-dividend-withholding/), for reconciling any double taxation between the two.
+- **The foreign tax credit mechanism**, covered in our dedicated guide, for reconciling any double taxation between the two.
 
 None of these are totalization agreements, and none of them are affected by whether your country happens to have one - a country with a robust totalization agreement covering employment income might have a comparatively unfavorable (or nonexistent) income tax treaty for investment income, and vice versa. The two frameworks vary independently of each other, country by country.
 
@@ -100,5 +100,5 @@ Totalization agreements are a genuinely useful protection against double Social 
 ## Related Guides
 
 - [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
-- [How the Foreign Tax Credit Works for US Dividend Withholding](/taxes/foreign-tax-credit-us-dividend-withholding/)
+- How the Foreign Tax Credit Works for US Dividend Withholding
 - [401(k) and IRA Access for Non-US Citizens](/retirement-pension/401k-ira-access-non-us-citizens/)

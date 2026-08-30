@@ -24,7 +24,7 @@ Once you understand the [$60,000 non-resident alien estate tax exemption](/estat
 
 ## What Genuinely Works: Non-US-Domiciled Funds
 
-**This is the approach with the clearest, most direct effect.** US estate tax situs rules apply specifically to US-situs assets - and a non-US-domiciled fund, even one that itself invests in US stocks, is generally not treated as a US-situs asset in the same way a directly-held US-listed stock or US-domiciled ETF is. This is the same underlying structural distinction covered throughout this site's European [us-investing guides](/us-investing/) regarding UCITS ETFs (CSPX, VWCE, and similar Irish-domiciled funds), and in more depth in our [UCITS vs US-domiciled comparison](/index-funds/ucits-vs-us-domiciled-etfs-tax-comparison/) - originally discussed there as a PRIIPs-driven access requirement, but relevant here as a genuine estate tax planning tool as well, available to any international investor regardless of whether PRIIPs applies to them.
+**This is the approach with the clearest, most direct effect.** US estate tax situs rules apply specifically to US-situs assets - and a non-US-domiciled fund, even one that itself invests in US stocks, is generally not treated as a US-situs asset in the same way a directly-held US-listed stock or US-domiciled ETF is. This is the same underlying structural distinction covered throughout this site's European [us-investing guides](/us-investing/) regarding UCITS ETFs (CSPX, VWCE, and similar Irish-domiciled funds), and in more depth in our UCITS vs US-domiciled comparison - originally discussed there as a PRIIPs-driven access requirement, but relevant here as a genuine estate tax planning tool as well, available to any international investor regardless of whether PRIIPs applies to them.
 
 **The practical implication:** an investor holding CSPX (Irish-domiciled, tracking the S&P 500) instead of VOO (US-domiciled, tracking the same index) gets equivalent market exposure while generally sitting outside the US estate tax situs rules that apply to VOO directly. This is a genuinely significant structural difference for estate planning purposes, not just a European regulatory workaround - it works the same way for an investor from anywhere in the world, not only for EU/UK investors who are forced into UCITS access by PRIIPs.
 
@@ -40,13 +40,13 @@ Once you understand the [$60,000 non-resident alien estate tax exemption](/estat
 
 ## Life Insurance as a Genuine, Separate Mitigation Tool
 
-**Life insurance proceeds on a non-resident alien's life are generally treated as non-US-situs property**, an entirely separate mitigation angle from fund domicile choice, covered in more depth in our [life insurance vs brokerage assets guide](/estate-planning/life-insurance-vs-brokerage-assets-estate-planning/). For an investor with US-situs exposure that can't easily be restructured into non-US-domiciled funds - individual US stocks held for specific reasons, for instance - a life insurance policy sized to cover the anticipated estate tax liability can serve as a practical funding mechanism, ensuring the estate has liquidity to actually pay any US estate tax due without needing to force a sale of the underlying US assets at an inopportune time.
+**Life insurance proceeds on a non-resident alien's life are generally treated as non-US-situs property**, an entirely separate mitigation angle from fund domicile choice, covered in more depth in our life insurance vs brokerage assets guide. For an investor with US-situs exposure that can't easily be restructured into non-US-domiciled funds - individual US stocks held for specific reasons, for instance - a life insurance policy sized to cover the anticipated estate tax liability can serve as a practical funding mechanism, ensuring the estate has liquidity to actually pay any US estate tax due without needing to force a sale of the underlying US assets at an inopportune time.
 
 ---
 
 ## A Real, But More Complex, Option: Ownership Structures
 
-**Holding US assets through certain trust or corporate structures** can, in some circumstances, change how they're treated for US estate tax purposes - covered in more depth in our [LLC/trust vs direct holding guide](/estate-planning/llc-trust-vs-direct-holding-us-stocks/) - but this is genuinely complex territory, with real setup and ongoing compliance costs, and the specific structure needs to be designed correctly to achieve the intended result rather than simply adding complexity without the corresponding benefit. Some structures that seem intuitively protective can actually fail to achieve the intended estate tax benefit if not designed with specific attention to US tax rules governing foreign entities, or can create their own separate tax complications (certain foreign corporate structures, for instance, can trigger unfavorable US tax treatment on the underlying investment income itself, potentially offsetting the estate tax benefit).
+**Holding US assets through certain trust or corporate structures** can, in some circumstances, change how they're treated for US estate tax purposes - covered in more depth in our LLC/trust vs direct holding guide - but this is genuinely complex territory, with real setup and ongoing compliance costs, and the specific structure needs to be designed correctly to achieve the intended result rather than simply adding complexity without the corresponding benefit. Some structures that seem intuitively protective can actually fail to achieve the intended estate tax benefit if not designed with specific attention to US tax rules governing foreign entities, or can create their own separate tax complications (certain foreign corporate structures, for instance, can trigger unfavorable US tax treatment on the underlying investment income itself, potentially offsetting the estate tax benefit).
 
 **This is not a do-it-yourself decision** - if you're considering this route, it requires a cross-border estate planning attorney familiar with both US estate tax rules and your home country's treatment of foreign entity ownership, not a general guide like this one, given how easily a poorly designed structure can fail to deliver its intended benefit while still incurring its full setup and maintenance cost.
 
@@ -54,7 +54,7 @@ Once you understand the [$60,000 non-resident alien estate tax exemption](/estat
 
 ## Estate Tax Treaties - Covered Separately
 
-If your country of residence has a US estate tax treaty - a shorter list than income tax treaties, covered in our [dedicated guide](/estate-planning/us-estate-tax-treaty-countries/) - treaty provisions can meaningfully change your exposure, sometimes significantly, potentially including a higher effective exemption or different situs rules than the standard NRA framework described in this guide. This is worth checking specifically before assuming the standard $60,000 exemption is your only option, since treaty relief (where available) can be a simpler mitigation path than restructuring your entire portfolio into non-US-domiciled funds.
+If your country of residence has a US estate tax treaty - a shorter list than income tax treaties, covered in our dedicated guide - treaty provisions can meaningfully change your exposure, sometimes significantly, potentially including a higher effective exemption or different situs rules than the standard NRA framework described in this guide. This is worth checking specifically before assuming the standard $60,000 exemption is your only option, since treaty relief (where available) can be a simpler mitigation path than restructuring your entire portfolio into non-US-domiciled funds.
 
 ---
 
@@ -70,7 +70,7 @@ If your country of residence has a US estate tax treaty - a shorter list than in
 Generally yes - since switching involves selling the existing US-domiciled position and buying the UCITS equivalent, this typically triggers a capital gains event under your applicable tax rules, covered by this site's [taxes category](/taxes/). This transition cost needs to be weighed against the ongoing estate tax exposure reduction, not treated as costless.
 
 **Does gifting US securities during my lifetime help avoid the estate tax exposure discussed here?**
-This is a genuinely different mitigation angle worth its own dedicated treatment, covered in our [gifting US securities guide](/estate-planning/gifting-us-securities-foreign-investor/) - there's a real, if counterintuitive, asymmetry between US gift tax and estate tax treatment for non-resident aliens worth understanding specifically.
+This is a genuinely different mitigation angle worth its own dedicated treatment, covered in our gifting US securities guide - there's a real, if counterintuitive, asymmetry between US gift tax and estate tax treatment for non-resident aliens worth understanding specifically.
 
 **Is there a minimum portfolio size below which this planning isn't worth the effort?**
 Given the $60,000 threshold's low, fixed nature, even a moderately sized portfolio can benefit from at least being aware of these mitigation options - though the cost-benefit of more complex structures (trusts, entities) generally only makes sense for larger exposures, while the simpler fund-domicile-choice approach can be worth adopting even for smaller portfolios given its relatively low ongoing cost.
@@ -109,5 +109,5 @@ The most direct, broadly-applicable way to reduce US estate tax exposure is choo
 ## Related Guides
 
 - [US Estate Tax for Non-Resident Aliens: The $60,000 Exemption Trap](/estate-planning/us-estate-tax-non-resident-aliens-60000-exemption/)
-- [US Estate Tax Treaty Countries](/estate-planning/us-estate-tax-treaty-countries/)
-- [Life Insurance vs Brokerage Assets in Estate Planning](/estate-planning/life-insurance-vs-brokerage-assets-estate-planning/)
+- US Estate Tax Treaty Countries
+- Life Insurance vs Brokerage Assets in Estate Planning

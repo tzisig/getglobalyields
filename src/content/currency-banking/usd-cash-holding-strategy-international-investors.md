@@ -90,7 +90,7 @@ Consider an investor planning to invest $6,000 over a year, in equal monthly $50
 Where your broker offers a USD-denominated money market fund alongside plain cash balances, comparing the two is worth doing - a money market fund can sometimes offer a better yield than a broker's default cash interest rate, though it may also involve a same-day or next-day settlement delay when you want to deploy it, which is worth weighing against the routine cash balance's instant availability.
 
 **Does it make sense to hold the buffer in a currency-market fund instead of literal cash to also capture some yield on the home-currency side?**
-This starts to blend into currency-hedging and cash-management territory covered in our [hedging guide](/currency-banking/hedging-usd-exposure-international-investors/) - for most investors, keeping the cash-buffer decision (how much USD to hold, for how long) separate from the hedging decision (whether to offset currency risk directly) keeps each decision clearer than combining them.
+This starts to blend into currency-hedging and cash-management territory covered in our hedging guide - for most investors, keeping the cash-buffer decision (how much USD to hold, for how long) separate from the hedging decision (whether to offset currency risk directly) keeps each decision clearer than combining them.
 
 **Is there a general rule of thumb for how large a buffer to hold relative to portfolio size?**
 There's no universal figure that fits every investor's situation - the right buffer size depends on your contribution frequency, your broker's specific fee structure, and how much currency-risk exposure you're comfortable carrying on the buffer itself. Working through the fee-structure and holding-period framework in this guide for your own numbers will give a more useful answer than a generic percentage.
@@ -121,5 +121,5 @@ Holding a USD cash buffer reduces how often you pay a conversion fee, and the sa
 ## Related Guides
 
 - [Multi-Currency Investment Accounts Guide](/us-investing/multi-currency-investment-accounts/)
-- [Should You Hedge USD Exposure as an International Investor?](/currency-banking/hedging-usd-exposure-international-investors/)
+- Should You Hedge USD Exposure as an International Investor?
 - [Currency Risk vs Market Risk for International Investors](/currency-banking/currency-risk-vs-market-risk-international-investors/)

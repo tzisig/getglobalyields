@@ -38,7 +38,7 @@ Three of the largest ETFs in the world - VOO, SPY, and IVV - track the exact sam
 
 **Why this matters more than it might seem:** an expense ratio difference that looks trivial as a single annual percentage compounds meaningfully over a long holding period, because it's deducted every year, indefinitely, regardless of market performance. Consider two otherwise identical $50,000 positions held for 20 years, growing at the same 8% gross annual return, where one fund's expense ratio runs 0.05 percentage points higher than the other. That seemingly tiny annual gap compounds to a meaningfully different ending balance over two decades - not because either fund performed differently, but purely because a slightly larger annual slice was deducted from one of them, year after year, compounding against the investor rather than for them.
 
-**Why SPY still commands enormous trading volume despite the higher cost:** its status as the original, most heavily traded S&P 500 ETF makes it the default choice for institutional traders, market makers, and options traders who prioritize maximum liquidity and the deepest options market over the small ongoing cost difference - the same dynamic covered in our [QQQ vs QQQM comparison](/strategies/qqq-vs-qqqm-vs-vgt-comparison/) regarding QQQ's continued dominance despite QQQM's lower cost. Trading volume and expense ratio serve genuinely different types of investors, and SPY's volume reflects its role as a trading vehicle as much as an investment vehicle.
+**Why SPY still commands enormous trading volume despite the higher cost:** its status as the original, most heavily traded S&P 500 ETF makes it the default choice for institutional traders, market makers, and options traders who prioritize maximum liquidity and the deepest options market over the small ongoing cost difference - the same dynamic covered in our QQQ vs QQQM comparison regarding QQQ's continued dominance despite QQQM's lower cost. Trading volume and expense ratio serve genuinely different types of investors, and SPY's volume reflects its role as a trading vehicle as much as an investment vehicle.
 
 ---
 
@@ -88,7 +88,7 @@ Holding more than one of these funds simultaneously doesn't add diversification 
 The two are close enough in structure and cost that the practical difference for most investors is minimal - both are standard open-end funds from major providers with competitive, similar expense ratios. Provider-specific factors like securities lending programs or platform availability at your specific broker are more likely to be the deciding factor than any inherent difference in the funds themselves.
 
 **For EU/UK investors, is there a UCITS equivalent to VOO, SPY, or IVV?**
-Yes - PRIIPs regulation blocks direct retail access to all three US-domiciled funds for EU/UK investors, requiring an Irish-domiciled UCITS equivalent instead, covered in detail in our [UCITS vs US-domiciled comparison](/index-funds/ucits-vs-us-domiciled-etfs-tax-comparison/).
+Yes - PRIIPs regulation blocks direct retail access to all three US-domiciled funds for EU/UK investors, requiring an Irish-domiciled UCITS equivalent instead, covered in detail in our UCITS vs US-domiciled comparison.
 
 ---
 
@@ -102,6 +102,6 @@ VOO, SPY, and IVV are functionally the same investment - identical index, identi
 
 ## Related Guides
 
-- [QQQ vs QQQM vs VGT: Choosing a Core Tech Holding](/strategies/qqq-vs-qqqm-vs-vgt-comparison/)
-- [UCITS vs US-Domiciled ETFs: Tax Comparison](/index-funds/ucits-vs-us-domiciled-etfs-tax-comparison/)
+- QQQ vs QQQM vs VGT: Choosing a Core Tech Holding
+- UCITS vs US-Domiciled ETFs: Tax Comparison
 - [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)

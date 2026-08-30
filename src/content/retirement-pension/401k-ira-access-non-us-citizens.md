@@ -58,7 +58,7 @@ Non-US citizens - including nonresident aliens, green card holders, and temporar
 
 ## What Happens to Contributions Already Made if You Leave the US
 
-If you contributed to a 401(k) or IRA while working in the US and later leave - a genuinely common situation for the internationally mobile investors this site serves - the account itself does not need to be liquidated immediately. Standard options include leaving the funds in the existing plan (if the provider permits non-resident account holders, which not all do), rolling over to an IRA, or withdrawing the funds entirely - each with different tax consequences, and this site's [what happens to your brokerage account when you retire abroad](/retirement-pension/us-brokerage-account-retiring-abroad/) covers the parallel question for an ordinary brokerage account, though the retirement-account-specific mechanics differ meaningfully from a standard brokerage account's.
+If you contributed to a 401(k) or IRA while working in the US and later leave - a genuinely common situation for the internationally mobile investors this site serves - the account itself does not need to be liquidated immediately. Standard options include leaving the funds in the existing plan (if the provider permits non-resident account holders, which not all do), rolling over to an IRA, or withdrawing the funds entirely - each with different tax consequences, and this site's what happens to your brokerage account when you retire abroad covers the parallel question for an ordinary brokerage account, though the retirement-account-specific mechanics differ meaningfully from a standard brokerage account's.
 
 **Withdrawals by a nonresident alien from these accounts can face withholding up to 30%**, reduced if a specific tax treaty provision applies to retirement account distributions specifically - not all treaties address retirement account distributions identically to how they address ordinary dividend income, so confirm your specific country's treatment rather than assuming the standard dividend treaty rate automatically applies to a 401(k) or IRA distribution as well. **Early withdrawal penalties** (a standard 10% additional tax for distributions taken before the plan's designated retirement age, subject to specific exceptions) generally apply to a nonresident alien the same way they'd apply to a US citizen taking an early distribution, on top of whatever withholding applies.
 
@@ -101,6 +101,6 @@ US tax law does provide for spousal IRA contributions in some circumstances for 
 
 ## Related Guides
 
-- [What Happens to Your US Brokerage Account When You Retire Abroad](/retirement-pension/us-brokerage-account-retiring-abroad/)
+- What Happens to Your US Brokerage Account When You Retire Abroad
 - [Social Security Totalization Agreements and Investment Income](/retirement-pension/social-security-totalization-agreements-investment-income/)
 - [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)

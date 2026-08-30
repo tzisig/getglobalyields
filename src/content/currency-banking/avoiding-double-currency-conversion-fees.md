@@ -42,7 +42,7 @@ An Indian investor wiring ₹1,00,000 to fund a US brokerage account might reaso
 
 ## Intermediary Bank Conversions - A Less Obvious Source
 
-**SWIFT wire transfers can route through one or more intermediary (correspondent) banks between the sending and receiving institutions**, particularly when those two banks don't have a direct relationship - a mechanic covered in more detail in our [SWIFT vs local rails guide](/currency-banking/swift-wire-vs-local-transfer-rails-explained/). Each intermediary bank in that chain can, in some cases, deduct its own handling fee or apply an unfavorable conversion along the way, particularly if the transfer wasn't set up with a full-transparency fee arrangement.
+**SWIFT wire transfers can route through one or more intermediary (correspondent) banks between the sending and receiving institutions**, particularly when those two banks don't have a direct relationship - a mechanic covered in more detail in our SWIFT vs local rails guide. Each intermediary bank in that chain can, in some cases, deduct its own handling fee or apply an unfavorable conversion along the way, particularly if the transfer wasn't set up with a full-transparency fee arrangement.
 
 This is a less visible version of the same double-conversion problem: it isn't always a second deliberate, disclosed FX conversion in the way a broker's on-receipt conversion is - it can show up as a smaller-than-expected amount arriving, with no single line item explaining the gap. The practical effect on the investor is identical either way: less money arrives than the sent amount and the "official" exchange rate would suggest.
 
@@ -52,7 +52,7 @@ This is a less visible version of the same double-conversion problem: it isn't a
 
 **Check your transfer confirmation for the exchange rate actually applied**, and compare it to the interbank mid-market rate for that currency pair at the approximate time of the transfer (widely available on financial data sites, distinct from any single bank's quoted "buy" or "sell" rate). A gap in the low single-digit percentages against mid-market is consistent with a single, reasonably priced conversion. A larger gap - or a discrepancy between the amount your bank confirms it sent and the amount your broker confirms it received, after accounting for the disclosed rate - is a signal that more than one conversion, or an undisclosed intermediary deduction, occurred along the way.
 
-**Ask your sending bank directly whether the transfer will be sent as "OUR" (sender pays all fees, full amount arrives) or "SHA"/"BEN" (fees split or deducted from the amount received)** - this SWIFT fee-handling designation, covered in more detail in our [SWIFT vs local rails guide](/currency-banking/swift-wire-vs-local-transfer-rails-explained/), directly determines whether intermediary deductions come out of your transfer or are billed to you separately, and most banks don't default to the sender-pays-all option unless you request it.
+**Ask your sending bank directly whether the transfer will be sent as "OUR" (sender pays all fees, full amount arrives) or "SHA"/"BEN" (fees split or deducted from the amount received)** - this SWIFT fee-handling designation, covered in more detail in our SWIFT vs local rails guide, directly determines whether intermediary deductions come out of your transfer or are billed to you separately, and most banks don't default to the sender-pays-all option unless you request it.
 
 ---
 
@@ -100,5 +100,5 @@ Double currency conversion is one of the more common, invisible costs internatio
 ## Related Guides
 
 - [Multi-Currency Investment Accounts Guide](/us-investing/multi-currency-investment-accounts/)
-- [SWIFT Wire vs Local Transfer Rails Explained](/currency-banking/swift-wire-vs-local-transfer-rails-explained/)
+- SWIFT Wire vs Local Transfer Rails Explained
 - [Should You Hold USD Cash Between Trades?](/currency-banking/usd-cash-holding-strategy-international-investors/)

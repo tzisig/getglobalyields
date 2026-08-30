@@ -34,7 +34,7 @@ Many UCITS ETFs come in two versions - accumulating (often marked "Acc" in the f
 
 ## What Doesn't Change: US Withholding at the Fund Level
 
-**This is the point most commonly misunderstood.** Whether a UCITS fund is accumulating or distributing, the underlying US dividend withholding at the fund level - the US-Ireland treaty's 15% rate for a fund like CSPX, covered in our [UCITS vs US-domiciled comparison](/index-funds/ucits-vs-us-domiciled-etfs-tax-comparison/) - applies identically either way. **The accumulating structure does not avoid or reduce US withholding.** The withholding happens when the fund itself receives the dividend from its underlying US stock holdings, before the accumulating-vs-distributing choice about what happens next even enters the picture. Both fund versions receive the identical dividend, net of the identical 15% US withholding, from the identical underlying stocks - the divergence happens entirely at the next step, what the fund does with that already-withheld amount.
+**This is the point most commonly misunderstood.** Whether a UCITS fund is accumulating or distributing, the underlying US dividend withholding at the fund level - the US-Ireland treaty's 15% rate for a fund like CSPX, covered in our UCITS vs US-domiciled comparison - applies identically either way. **The accumulating structure does not avoid or reduce US withholding.** The withholding happens when the fund itself receives the dividend from its underlying US stock holdings, before the accumulating-vs-distributing choice about what happens next even enters the picture. Both fund versions receive the identical dividend, net of the identical 15% US withholding, from the identical underlying stocks - the divergence happens entirely at the next step, what the fund does with that already-withheld amount.
 
 ---
 
@@ -102,6 +102,6 @@ Accumulating and distributing versions of the same UCITS fund face identical US 
 
 ## Related Guides
 
-- [UCITS vs US-Domiciled ETFs: The Complete Tax Comparison](/index-funds/ucits-vs-us-domiciled-etfs-tax-comparison/)
+- UCITS vs US-Domiciled ETFs: The Complete Tax Comparison
 - [How to Invest in US Stocks from Germany](/us-investing/how-to-invest-in-us-stocks-from-germany/)
 - [How to Invest in US Stocks from the Netherlands](/us-investing/how-to-invest-in-us-stocks-from-netherlands/)

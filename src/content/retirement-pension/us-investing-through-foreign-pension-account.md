@@ -40,7 +40,7 @@ Some tax treaties include specific provisions recognizing certain pension accoun
 
 ## The PFIC Overlay for US Persons
 
-**A foreign pension holding underlying fund investments (rather than direct individual securities) raises the same PFIC concern covered in depth in our [Israeli Kupat Gemel guide](/retirement-pension/israeli-kupat-gemel-vs-direct-us-stock-investing/), applied to whatever country's pension system you're researching.** If a US person's foreign pension holds foreign-domiciled pooled investment funds internally - a common structure for pension plans that invest through a fund menu rather than direct securities - those underlying funds can trigger PFIC classification under US tax law, with the same punitive excess-distribution tax treatment and annual Form 8621 filing burden discussed in that guide.
+**A foreign pension holding underlying fund investments (rather than direct individual securities) raises the same PFIC concern covered in depth in our Israeli Kupat Gemel guide, applied to whatever country's pension system you're researching.** If a US person's foreign pension holds foreign-domiciled pooled investment funds internally - a common structure for pension plans that invest through a fund menu rather than direct securities - those underlying funds can trigger PFIC classification under US tax law, with the same punitive excess-distribution tax treatment and annual Form 8621 filing burden discussed in that guide.
 
 **Some tax treaties specifically address this interaction**, providing relief from PFIC treatment for qualifying foreign pension plans recognized under the treaty - but this relief is treaty-specific and plan-specific, not a general exemption that applies to every foreign pension by default. Confirming whether your specific country's treaty, and your specific pension plan, qualifies for this kind of relief is a genuinely important step for any US person with a foreign pension holding fund investments, given how significant the difference is between qualifying for relief and facing full PFIC treatment.
 
@@ -50,7 +50,7 @@ Some tax treaties include specific provisions recognizing certain pension accoun
 
 - **Can the plan hold individual US stocks or ETFs at all, or only a fixed menu of pre-selected funds?** This determines whether the rest of this analysis is even relevant to your specific plan.
 - **If US securities are available, does the plan handle W-8BEN-equivalent documentation** to claim any applicable treaty rate on dividend withholding, or does the full 30% default apply by not being properly documented? Some institutional pension platforms handle this automatically on behalf of plan participants; others require individual action.
-- **What happens to the account, and its US holdings, if you relocate to a different country** - a real consideration for the increasingly common case of an internationally mobile career, covered further in our guide on [what happens to your US brokerage account when you retire abroad](/retirement-pension/us-brokerage-account-retiring-abroad/) (which addresses standalone brokerage accounts specifically, but raises analogous questions worth asking your pension provider too).
+- **What happens to the account, and its US holdings, if you relocate to a different country** - a real consideration for the increasingly common case of an internationally mobile career, covered further in our guide on what happens to your US brokerage account when you retire abroad (which addresses standalone brokerage accounts specifically, but raises analogous questions worth asking your pension provider too).
 - **If you're a US person, does your specific country's treaty include pension-plan-specific relief from PFIC treatment**, and does your specific plan qualify under that provision?
 
 ---
@@ -98,5 +98,5 @@ Whether and how you can hold US stocks inside a foreign pension account depends 
 ## Related Guides
 
 - [PFIC Rules for International Investors](/taxes/pfic-rules-international-investors/)
-- [Israeli Pension Funds (Kupot Gemel) vs Direct US Stock Investing](/retirement-pension/israeli-kupat-gemel-vs-direct-us-stock-investing/)
-- [What Happens to Your US Brokerage Account When You Retire Abroad](/retirement-pension/us-brokerage-account-retiring-abroad/)
+- Israeli Pension Funds (Kupot Gemel) vs Direct US Stock Investing
+- What Happens to Your US Brokerage Account When You Retire Abroad

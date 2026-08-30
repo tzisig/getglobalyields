@@ -107,4 +107,4 @@ A TOD designation is a genuinely useful, low-friction way to ensure a US brokera
 
 - [US Estate Tax for Non-Resident Aliens: The $60,000 Exemption Trap](/estate-planning/us-estate-tax-non-resident-aliens-60000-exemption/)
 - [Avoiding US Estate Tax on a Brokerage Account](/estate-planning/avoiding-us-estate-tax-brokerage-account/)
-- [Joint Accounts and Estate Tax Exposure](/estate-planning/joint-accounts-estate-tax-exposure/)
+- Joint Accounts and Estate Tax Exposure

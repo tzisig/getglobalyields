@@ -44,7 +44,7 @@ BND, AGG, and TLT are three of the most commonly held US bond ETFs, and they rep
 
 ## The Tax Advantage: Portfolio Interest and Interest-Related Dividends
 
-**This is where bond ETFs offer a genuinely different tax picture than equity funds for a non-US investor.** As covered in detail in our [municipal bonds guide](/taxes/municipal-bonds-foreign-investors-tax-treatment/) and [main dividend withholding guide](/taxes/taxes-us-dividends-foreign-investors/), interest income - including interest passed through by a US bond fund as an "interest-related dividend" under IRC §871(k)(1) - is generally exempt from the standard 30%-or-treaty-rate withholding that applies to equity dividends, when the underlying interest itself would qualify for the portfolio interest exemption under §871(h).
+**This is where bond ETFs offer a genuinely different tax picture than equity funds for a non-US investor.** As covered in detail in our municipal bonds guide and [main dividend withholding guide](/taxes/taxes-us-dividends-foreign-investors/), interest income - including interest passed through by a US bond fund as an "interest-related dividend" under IRC §871(k)(1) - is generally exempt from the standard 30%-or-treaty-rate withholding that applies to equity dividends, when the underlying interest itself would qualify for the portfolio interest exemption under §871(h).
 
 **In practice:** a substantial portion of the distributions from BND, AGG, and TLT - funds holding US Treasuries and other qualifying debt instruments - can arrive with little to no US withholding, assuming the fund properly designates the distribution as interest-related and your broker applies the exemption correctly at the point of payment. This is a meaningfully more favorable withholding picture than equity dividends face from the same broker, and it's worth checking your Form 1042-S against, since brokers do not always apply this exemption correctly, as flagged in our main withholding guide - a mistaken 30% withholding on what should have been a largely exempt interest distribution is a common, recoverable error, not something to simply accept.
 
@@ -62,7 +62,7 @@ BND, AGG, and TLT are three of the most commonly held US bond ETFs, and they rep
 
 ## Choosing Between Them
 
-**BND or AGG** suit an investor wanting a straightforward, diversified fixed-income allocation as a stabilizing portfolio component - similar in purpose to the conservative leg described in our [barbell portfolio guide](/strategies/barbell-portfolio-tqqq-core-bond-ballast/), though that guide specifically recommends shorter-duration Treasuries for genuine stability during a market downturn, a role BND/AGG's more moderate duration profile fits reasonably but not as precisely as a dedicated short-duration Treasury fund would, given their inclusion of longer-duration and corporate holdings within the broad index.
+**BND or AGG** suit an investor wanting a straightforward, diversified fixed-income allocation as a stabilizing portfolio component - similar in purpose to the conservative leg described in our barbell portfolio guide, though that guide specifically recommends shorter-duration Treasuries for genuine stability during a market downturn, a role BND/AGG's more moderate duration profile fits reasonably but not as precisely as a dedicated short-duration Treasury fund would, given their inclusion of longer-duration and corporate holdings within the broad index.
 
 **TLT** suits an investor with a specific view on long-term interest rates, or seeking a more targeted long-duration Treasury exposure for a specific portfolio role - not a default "safe" bond allocation given its meaningfully higher price volatility relative to BND or AGG. An investor reaching for TLT expecting BND-like stability is likely to be surprised by how much TLT's price can move in either direction.
 
@@ -110,6 +110,6 @@ BND, AGG, and TLT are not interchangeable "bond ETF" options - BND and AGG offer
 
 ## Related Guides
 
-- [Municipal Bonds and Foreign Investors: Tax Treatment](/taxes/municipal-bonds-foreign-investors-tax-treatment/)
+- Municipal Bonds and Foreign Investors: Tax Treatment
 - [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
-- [Building a Barbell Portfolio: TQQQ Core Plus Bond Ballast](/strategies/barbell-portfolio-tqqq-core-bond-ballast/)
+- Building a Barbell Portfolio: TQQQ Core Plus Bond Ballast

@@ -26,7 +26,7 @@ An Australian investor checks her brokerage app and sees her US equity position 
 
 **Market risk** is the risk that the underlying investment - a stock, an ETF, a leveraged fund like TQQQ - moves against you in USD terms, driven by company performance, sector trends, interest rates, and broad market sentiment. This is the risk most investment content, including most of the rest of this site, focuses on directly, and it's the risk investors generally believe they're managing when they choose what to buy, hold, or sell.
 
-**Currency risk** is the separate risk that your home currency's value relative to the USD shifts, changing what your USD-denominated gains (or losses) are actually worth once converted back to your home currency - covered in more detail in our [USD hedging guide](/currency-banking/hedging-usd-exposure-international-investors/). These two risks are driven by almost entirely different underlying factors: market risk responds to company earnings, sector rotation, and equity market sentiment; currency risk responds to interest rate differentials, trade flows, capital flows, and macroeconomic conditions in two separate economies. They can move in the same direction, opposite directions, or independently of each other in any given period, and there's no structural reason to expect them to correlate reliably one way or the other.
+**Currency risk** is the separate risk that your home currency's value relative to the USD shifts, changing what your USD-denominated gains (or losses) are actually worth once converted back to your home currency - covered in more detail in our USD hedging guide. These two risks are driven by almost entirely different underlying factors: market risk responds to company earnings, sector rotation, and equity market sentiment; currency risk responds to interest rate differentials, trade flows, capital flows, and macroeconomic conditions in two separate economies. They can move in the same direction, opposite directions, or independently of each other in any given period, and there's no structural reason to expect them to correlate reliably one way or the other.
 
 ---
 
@@ -52,7 +52,7 @@ An Australian investor checks her brokerage app and sees her US equity position 
 
 **Decisions about the investment** - whether to hold, sell, or add to a position - should generally be based on the investment's own merits, your own strategy, and its own USD-denominated performance, not on recent currency movements that happen to be flattering or unflattering your recent home-currency returns. An investor who sells a fundamentally sound position because "it hasn't performed well this year," when the underlying USD return was actually fine and a currency headwind did the damage, is making a decision based on the wrong variable.
 
-**Decisions about currency exposure** - whether to hedge, as covered in our [hedging guide](/currency-banking/hedging-usd-exposure-international-investors/), or how much USD cash to hold, as covered in our [USD cash strategy guide](/currency-banking/usd-cash-holding-strategy-international-investors/) - are a genuinely separate set of decisions, worth making deliberately based on your currency outlook and time horizon, rather than as an emotional reaction to a currency-driven swing in your recent reported returns.
+**Decisions about currency exposure** - whether to hedge, as covered in our hedging guide, or how much USD cash to hold, as covered in our [USD cash strategy guide](/currency-banking/usd-cash-holding-strategy-international-investors/) - are a genuinely separate set of decisions, worth making deliberately based on your currency outlook and time horizon, rather than as an emotional reaction to a currency-driven swing in your recent reported returns.
 
 ---
 
@@ -68,7 +68,7 @@ An Australian investor checks her brokerage app and sees her US equity position 
 
 **Comparing your home-currency return against a benchmark quoted in USD** without adjusting for the currency difference - this compares two genuinely different things and can make your performance look better or worse than an apples-to-apples comparison would show.
 
-**Assuming a string of currency-flattered years means your currency is now "expensive" and due to weaken** - currency movements, like the exchange-rate-timing question covered in our [timing guide](/currency-banking/exchange-rate-timing-effective-returns/), don't reliably mean-revert on a schedule useful for decision-making.
+**Assuming a string of currency-flattered years means your currency is now "expensive" and due to weaken** - currency movements, like the exchange-rate-timing question covered in our timing guide, don't reliably mean-revert on a schedule useful for decision-making.
 
 **Treating a single year's currency contribution as representative of the long-run currency effect** - currency movements tend to be far noisier year-to-year than they are over a full market cycle, so a single strong or weak currency year says little about what to expect going forward.
 
@@ -111,6 +111,6 @@ Currency risk and market risk are genuinely independent forces acting on an inte
 
 ## Related Guides
 
-- [Should You Hedge USD Exposure as an International Investor?](/currency-banking/hedging-usd-exposure-international-investors/)
+- Should You Hedge USD Exposure as an International Investor?
 - [Should You Hold USD Cash Between Trades?](/currency-banking/usd-cash-holding-strategy-international-investors/)
-- [Does Exchange Rate Timing Actually Affect Your Long-Term Returns?](/currency-banking/exchange-rate-timing-effective-returns/)
+- Does Exchange Rate Timing Actually Affect Your Long-Term Returns?

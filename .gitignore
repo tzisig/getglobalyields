@@ -25,3 +25,7 @@ pnpm�debug.log*
 .idea/
 node_modules
 scripts/fonts/.cache/
+
+# local-only working folders - never committed, deleted after review
+/videos/
+/articles/
