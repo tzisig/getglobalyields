@@ -155,6 +155,12 @@ This means a mainland Chinese tax resident selling US stocks pays no US capital 
 
 ---
 
+## The Student and Trainee Exemption: Article 20
+
+This is a separate provision from everything above, and it matters here because a Chinese student or trainee in the US is often also the person opening their first US brokerage account. Article 20 of the treaty exempts a Chinese resident temporarily in the US for education, training, or research from US tax on: payments received from abroad for maintenance and education, grants from a tax-exempt organization, and the first $5,000 (often written $5000) per year of income from personal services performed in the US. The exemption can continue to apply even after the student becomes a US resident alien for tax purposes, for as long as is reasonably necessary to complete the education or training. Investment income from a brokerage account is not itself covered by Article 20 - it falls under the dividend and capital gains rules described above - but the $5,000 personal-services exemption is what most searches for this figure are actually asking about. The full treaty text is available directly from the <a href="https://www.irs.gov/pub/irs-trty/china.pdf" target="_blank" rel="noopener noreferrer">IRS</a>.
+
+---
+
 ## How China Taxes the Same Income: The 2026 Numbers
 
 This is the section that determines what an investor actually keeps, and it differs meaningfully from the UK or Australian pattern.
