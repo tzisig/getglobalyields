@@ -75,8 +75,12 @@ const linkify = (body, anchor, targetUrl, isHtml, htmlAttrs) => {
       const alreadyLinked = isHtml
         ? /<a\s[^>]*$/i.test(before) || /^\s*<\/a>/i.test(after)
         : /\[[^\]]*$/.test(before) || /^\s*\]\(/.test(after);
+      // Reject a match sitting inside an HTML attribute value (e.g. alt="Japan"
+      // on a flag icon next to a "Japan" link target) - an odd number of
+      // unescaped double-quotes before the match means we're mid-attribute.
+      const insideAttrValue = isHtml && (before.match(/"/g) || []).length % 2 === 1;
 
-      if (!partOfLongerWord && !alreadyLinked) {
+      if (!partOfLongerWord && !alreadyLinked && !insideAttrValue) {
         const replacement = isHtml
           ? `<a href="${targetUrl}/"${htmlAttrs ? ' ' + htmlAttrs : ''}>${anchor}</a>`
           : `[${anchor}](${targetUrl}/)`;

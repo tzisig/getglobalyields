@@ -1,0 +1,28 @@
+name: Check Draft Links
+
+# Fails the build if a live page (published article, or any .astro page)
+# links directly to an article that is still draft: true - see
+# scripts/check-draft-links.mjs for why this matters and how to fix it.
+
+on:
+  push:
+    paths:
+      - 'src/content/**'
+      - 'src/pages/**'
+      - 'src/components/**'
+  pull_request:
+    paths:
+      - 'src/content/**'
+      - 'src/pages/**'
+      - 'src/components/**'
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - run: node scripts/check-draft-links.mjs
