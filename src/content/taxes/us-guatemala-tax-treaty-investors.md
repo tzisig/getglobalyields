@@ -105,7 +105,7 @@ Both Interactive Brokers and eToro are open to Guatemalan applicants.
 - [ ] Expect 30% US withholding on every dividend payment, with no treaty-based reduction available
 - [ ] Don't expect a Guatemalan-side tax filing obligation on US dividend or capital gains income - Guatemala's territorial system exempts both
 - [ ] Budget with reasonable confidence in GTQ-USD conversion stability, though not the certainty of an officially fixed peg
-- [ ] Confirm current account-opening requirements with Interactive Brokers, eToro, or XTB before applying
+- [ ] Confirm current account-opening requirements with Interactive Brokers, eToro, or [XTB](/best-brokers/xtb-review-2026/) before applying
 
 ---
 

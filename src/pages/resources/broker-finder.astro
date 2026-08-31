@@ -603,7 +603,7 @@ import { BROKER_LINKS } from '../../data/brokerLinks';
                             <td>${b.minDeposit}</td>
                             <td>${b.commission}</td>
                             <td><span class="badge ${b.w8ben ? 'badge-yes' : 'badge-no'}">${b.w8ben ? 'Yes' : 'No'}</span></td>
-                            <td><a href="${b.url}" target="_blank" rel="noopener noreferrer" class="btn-open">Open Account →</a></td>
+                            <td><a href="${b.url}" target="_blank" rel="noopener noreferrer${b.id === 'xtb' ? ' sponsored' : ''}" class="btn-open">Open Account →</a></td>
                         </tr>
                     `).join('');
 

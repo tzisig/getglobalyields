@@ -96,7 +96,7 @@ Morocco maintains a foreign exchange control regime administered by the Office d
 
 ## Step 6: Choosing a Broker From Morocco
 
-**Interactive Brokers (IBKR)** is confirmed to accept Moroccan residents for account opening, alongside other options including XTB and MEXEM. Confirm current requirements directly before applying, and separately confirm the exchange-control question above before a large transfer. [See our full IBKR review →](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/)
+**Interactive Brokers (IBKR)** is confirmed to accept Moroccan residents for account opening, alongside other options including [XTB](/best-brokers/xtb-review-2026/) and MEXEM. Confirm current requirements directly before applying, and separately confirm the exchange-control question above before a large transfer. [See our full IBKR review →](/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/)
 
 ---
 

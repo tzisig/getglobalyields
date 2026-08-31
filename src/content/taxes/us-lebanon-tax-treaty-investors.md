@@ -80,7 +80,7 @@ Given the scale of the banking crisis, Lebanon's specific domestic tax treatment
 
 ## Getting an Account Open from Lebanon
 
-Interactive Brokers, eToro and XTB are the brokers most commonly used from Lebanon - but as emphasized throughout this guide, **whether you can actually get funds to a foreign broker is a banking-access question, not a broker-eligibility one.** Confirm the funding path with your Lebanese bank before assuming account opening alone solves the problem.
+Interactive Brokers, eToro and [XTB](/best-brokers/xtb-review-2026/) are the brokers most commonly used from Lebanon - but as emphasized throughout this guide, **whether you can actually get funds to a foreign broker is a banking-access question, not a broker-eligibility one.** Confirm the funding path with your Lebanese bank before assuming account opening alone solves the problem.
 
 ---
 

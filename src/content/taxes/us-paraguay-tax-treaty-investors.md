@@ -111,7 +111,7 @@ Interactive Brokers and eToro both serve Paraguayan clients.
 - [ ] Expect 30% US withholding on every dividend payment, with no treaty-based reduction available
 - [ ] Confirm your Paraguayan tax residency status is properly established before relying on the foreign-income exclusion
 - [ ] Don't expect a Paraguayan tax filing obligation on US dividend or capital gains income held personally, given the current explicit exclusion
-- [ ] Confirm current account-opening requirements with Interactive Brokers, eToro, or XTB before applying
+- [ ] Confirm current account-opening requirements with Interactive Brokers, eToro, or [XTB](/best-brokers/xtb-review-2026/) before applying
 
 ---
 

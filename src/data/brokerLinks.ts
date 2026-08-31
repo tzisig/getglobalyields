@@ -7,7 +7,7 @@ export const BROKER_LINKS = {
   etrade: 'https://www.etrade.com/',
   tdAmeritrade: 'https://www.tdameritrade.com/',
   webull: 'https://www.webull.com/',
-  xtb: 'https://www.xtb.com/',
+  xtb: 'https://geolink.xtb.com/4xcQo',
   etoro: 'https://www.etoro.com/',
   degiro: 'https://www.degiro.com/',
   saxo: 'https://www.saxobank.com/',

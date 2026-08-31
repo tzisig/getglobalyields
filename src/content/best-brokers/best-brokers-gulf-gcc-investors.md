@@ -38,7 +38,7 @@ Saxo Bank is available to both UAE and broader GCC residents and offers a signif
 
 ### 4. XTB - Best for Zero-Commission Trading
 
-XTB also serves the region with zero-commission trading on stocks and ETFs, giving Gulf investors another genuinely low-cost option alongside eToro, subject to the same monthly volume threshold and FX conversion fee structure covered in our [zero-commission brokers comparison](/best-brokers/best-zero-commission-brokers-international-investors/).
+[XTB](/best-brokers/xtb-review-2026/) also serves the region with zero-commission trading on stocks and ETFs, giving Gulf investors another genuinely low-cost option alongside eToro, subject to the same monthly volume threshold and FX conversion fee structure covered in our [zero-commission brokers comparison](/best-brokers/best-zero-commission-brokers-international-investors/).
 
 ---
 
