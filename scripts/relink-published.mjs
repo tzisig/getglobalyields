@@ -6,13 +6,21 @@
 // prose as ordinary text and the intent is recorded as a row in
 // relink-when-published.tsv:
 //
-//     source<TAB>target<TAB>anchor
+//     source<TAB>target<TAB>anchor[<TAB>htmlAttrs]
 //     taxes/us-argentina-tax-treaty-investors.md   /taxes/us-brazil-tax-treaty-investors   Investing in US Stocks from Brazil
+//     ../pages/currency-banking.astro   /currency-banking/do-you-need-us-bank-account-to-invest   need a US bank account   class="text-accent-500 hover:underline"
+//
+// Source paths are resolved relative to src/content, so a row for a page
+// outside src/content (a .astro page, not a content article) uses a leading
+// ../ to point at it - e.g. ../pages/foo.astro resolves to src/pages/foo.astro.
+// A source ending in .astro is restored as a real HTML <a href> tag (using the
+// optional 4th column for any original attributes like `class="..."`) instead
+// of a markdown link.
 //
 // Nothing used to read that file, so the links were never created. This script
 // closes that loop: it runs straight after publish-scheduled-articles.mjs,
 // finds rows whose target is now `draft: false`, converts the anchor phrase in
-// the source article into a markdown link, and removes the row from the queue.
+// the source into a link, and removes the row from the queue.
 //
 // Deliberately conservative. A row is left in the queue untouched whenever the
 // anchor cannot be located unambiguously - a missed link costs nothing, a
@@ -49,7 +57,7 @@ const isPublished = (targetUrl) => {
 // Rejects: matches already inside a markdown link, matches that are part of a
 // longer word, and matches sitting in the italic Sources / disclaimer trailer,
 // where the same phrase routinely reappears as a citation.
-const linkify = (body, anchor, targetUrl) => {
+const linkify = (body, anchor, targetUrl, isHtml, htmlAttrs) => {
   const bodyLines = body.split('\n');
   for (let i = 0; i < bodyLines.length; i++) {
     const line = bodyLines[i];
@@ -64,10 +72,15 @@ const linkify = (body, anchor, targetUrl) => {
       const after = line.slice(at + anchor.length);
 
       const partOfLongerWord = /[A-Za-z0-9]$/.test(before) || /^[A-Za-z0-9]/.test(after);
-      const alreadyLinked = /\[[^\]]*$/.test(before) || /^\s*\]\(/.test(after);
+      const alreadyLinked = isHtml
+        ? /<a\s[^>]*$/i.test(before) || /^\s*<\/a>/i.test(after)
+        : /\[[^\]]*$/.test(before) || /^\s*\]\(/.test(after);
 
       if (!partOfLongerWord && !alreadyLinked) {
-        bodyLines[i] = before + `[${anchor}](${targetUrl}/)` + after;
+        const replacement = isHtml
+          ? `<a href="${targetUrl}/"${htmlAttrs ? ' ' + htmlAttrs : ''}>${anchor}</a>`
+          : `[${anchor}](${targetUrl}/)`;
+        bodyLines[i] = before + replacement + after;
         return { ok: true, body: bodyLines.join('\n'), line: i + 1 };
       }
       from = at + 1;
@@ -81,7 +94,7 @@ const done = [];
 const skipped = [];
 
 for (const row of rows) {
-  const [source, target, anchor] = row.split('\t');
+  const [source, target, anchor, htmlAttrs] = row.split('\t');
   if (!source || !target || !anchor) { kept.push(row); continue; }
 
   const pub = isPublished(target);
@@ -94,22 +107,33 @@ for (const row of rows) {
     continue;
   }
 
+  const isHtml = source.endsWith('.astro');
+
   const text = fs.readFileSync(sourcePath, 'utf8');
   const crlf = text.includes('\r\n');
   const flat = text.split('\r\n').join('\n');
   const fmEnd = flat.indexOf('\n---\n', 4);
-  if (fmEnd === -1) { kept.push(row); skipped.push(`${source}: no frontmatter`); continue; }
-
-  const head = flat.slice(0, fmEnd + 5);
-  const body = flat.slice(fmEnd + 5);
+  let head, body;
+  if (fmEnd === -1) {
+    if (!isHtml) { kept.push(row); skipped.push(`${source}: no frontmatter`); continue; }
+    // .astro pages without a component-script fence: treat the whole file as body.
+    head = '';
+    body = flat;
+  } else {
+    head = flat.slice(0, fmEnd + 5);
+    body = flat.slice(fmEnd + 5);
+  }
 
   // Already linked to this target somewhere? Then the queue row is stale.
-  if (body.includes(`](${target}/)`) || body.includes(`](${target})`)) {
+  const alreadyLinkedGlobally = isHtml
+    ? body.includes(`href="${target}/"`) || body.includes(`href="${target}"`)
+    : body.includes(`](${target}/)`) || body.includes(`](${target})`);
+  if (alreadyLinkedGlobally) {
     done.push(`${source} -> ${target} (already linked)`);
     continue;
   }
 
-  const res = linkify(body, anchor, target);
+  const res = linkify(body, anchor, target, isHtml, htmlAttrs);
   if (!res.ok) {
     kept.push(row);
     skipped.push(`${source} -> ${target}: ${res.why} ("${anchor}")`);
