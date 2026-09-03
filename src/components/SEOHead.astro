@@ -137,26 +137,20 @@ const collectionSchema = collection?.items?.length ? {
 
 <head>
   <meta charset="utf-8" />
-  <!-- Prevent flash of English before Google Translate applies the visitor's
-       language, and the layout shift (CLS) that comes from Google Translate
-       reflowing text (e.g. button widths changing) after the page is already
-       visible. Hides the page only if a translation is actually expected
-       (saved cookie, or geo-detected country with no explicit English choice).
-       Header.astro's triggerSelect() reveals the page as soon as translation
-       is actually applied - the timeout below is only a worst-case safety net
-       (e.g. Google Translate blocked or failing to load) so the page never
-       stays hidden. Base 2500ms (not 600ms) because on a throttled/slow
-       connection loading the translate script and its first translation call
-       can genuinely take longer than 600ms, and revealing before that
-       finishes is exactly what causes the visible CLS this is meant to
-       prevent; extends further when the Network Information API (Chrome/
-       Edge/Android only - unsupported browsers keep the base 2500ms)
-       reports a slow connection. Placed as the very first thing in <head>
-       (moved here from BaseLayout.astro, which put it after this whole
-       <head> block) so the conditional preconnect hints below register
-       before any other resource request competes for the connection -
-       PageSpeed Insights was flagging them as "unused preconnect" because
-       they were being added too late to matter. -->
+  <!-- Warm the connection to Google Translate's origins when a translation is
+       expected (saved cookie, or geo-detected country with no explicit
+       English choice) - Header.astro's loadGoogleTranslate()/triggerSelect()
+       does the actual translation once the page is interactive. Deliberately
+       does NOT hide the page while waiting: an earlier version hid the whole
+       page (visibility:hidden) until translation applied, which prevented
+       the pre-translation CLS but cost every page 2.5-5s of blocked FCP/LCP/
+       TTI, and Lighthouse showed this dragging every page's Performance
+       score into the 50s-60s. CLS is now prevented differently: the
+       highest-risk elements (Header, Sidebar, Footer - short text in
+       fixed-width buttons/badges that visibly snap when translated) are
+       marked notranslate, so they never reflow; only body prose translates,
+       and paragraph-height reflow is a much smaller, more gradual CLS
+       contributor than a button snapping width. -->
   <script is:inline>
     (function() {
       var m = document.cookie.match(/googtrans=\/en\/([a-zA-Z-]+)/);
@@ -176,15 +170,6 @@ const collectionSchema = collection?.items?.length ? {
           link.crossOrigin = 'anonymous';
           document.head.appendChild(link);
         });
-        document.documentElement.style.setProperty('visibility', 'hidden', 'important');
-        var revealDelay = 2500;
-        var conn = navigator.connection || navigator.mozConnection || navigator.webkitConnection;
-        if (conn && (conn.effectiveType === 'slow-2g' || conn.effectiveType === '2g' || conn.effectiveType === '3g')) {
-          revealDelay = 5000;
-        }
-        window.__ggyRevealTimeout = setTimeout(function() {
-          document.documentElement.style.removeProperty('visibility');
-        }, revealDelay);
       }
     })();
   </script>
