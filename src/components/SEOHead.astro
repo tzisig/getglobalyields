@@ -137,42 +137,16 @@ const collectionSchema = collection?.items?.length ? {
 
 <head>
   <meta charset="utf-8" />
-  <!-- Warm the connection to Google Translate's origins when a translation is
-       expected (saved cookie, or geo-detected country with no explicit
-       English choice) - Header.astro's loadGoogleTranslate()/triggerSelect()
-       does the actual translation once the page is interactive. Deliberately
-       does NOT hide the page while waiting: an earlier version hid the whole
-       page (visibility:hidden) until translation applied, which prevented
-       the pre-translation CLS but cost every page 2.5-5s of blocked FCP/LCP/
-       TTI, and Lighthouse showed this dragging every page's Performance
-       score into the 50s-60s. CLS is now prevented differently: the
-       highest-risk elements (Header, Sidebar, Footer - short text in
-       fixed-width buttons/badges that visibly snap when translated) are
-       marked notranslate, so they never reflow; only body prose translates,
+  <!-- Google Translate is manual-only (see Header.astro): it never auto-loads
+       on page load, only when a visitor explicitly picks a language from the
+       dropdown, which is also when the origins below get preconnected. This
+       keeps every page's baseline load - and Lighthouse score - clean for
+       the majority of visitors who never opt in. CLS from translation itself
+       is prevented by marking the layout-sensitive elements (Header,
+       Sidebar, Footer - short text in fixed-width buttons/badges that would
+       visibly snap when translated) notranslate; only body prose translates,
        and paragraph-height reflow is a much smaller, more gradual CLS
        contributor than a button snapping width. -->
-  <script is:inline>
-    (function() {
-      var m = document.cookie.match(/googtrans=\/en\/([a-zA-Z-]+)/);
-      var lang = m ? m[1] : null;
-      if (!lang && document.cookie.indexOf('lang_choice_made=1') === -1) {
-        var g = document.cookie.match(/geo_country=([A-Z]{2})/);
-        if (g) {
-          var COUNTRY_LANG = { IL:'iw', ES:'es', MX:'es', AR:'es', CO:'es', CL:'es', PE:'es', VE:'es', EC:'es', GT:'es', UY:'es', PY:'es', BO:'es', DO:'es', HN:'es', SV:'es', NI:'es', CR:'es', PA:'es', FR:'fr', BE:'fr', DE:'de', AT:'de', BR:'pt', PT:'pt', IT:'it', NL:'nl', PL:'pl', RU:'ru', SA:'ar', AE:'ar', EG:'ar', QA:'ar', KW:'ar', JO:'ar', OM:'ar', BH:'ar', MA:'ar', DZ:'ar', TN:'ar', IQ:'ar', LB:'ar', CN:'zh-CN', JP:'ja', KR:'ko', TR:'tr', ID:'id', TH:'th', VN:'vi' };
-          lang = COUNTRY_LANG[g[1]] || null;
-        }
-      }
-      if (lang) {
-        ['https://translate.googleapis.com', 'https://translate.google.com', 'https://translate-pa.googleapis.com'].forEach(function (origin) {
-          var link = document.createElement('link');
-          link.rel = 'preconnect';
-          link.href = origin;
-          link.crossOrigin = 'anonymous';
-          document.head.appendChild(link);
-        });
-      }
-    })();
-  </script>
   <meta name="viewport" content="width=device-width,initial-scale=1" />
   <link rel="icon" type="image/png" href="/favicon.webp?v=3" />
   <meta name="generator" content={Astro.generator} />

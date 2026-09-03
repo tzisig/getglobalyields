@@ -375,38 +375,6 @@ const currentPath = Astro.url.pathname;
     { lang: 'vi', label: 'Tiếng Việt', flag: '🇻🇳' },
   ];
 
-  // Maps CF-IPCountry codes (set as a cookie by our Pages Function) to a
-  // language in LANGS. Only countries with a clear majority language are
-  // listed; anything else falls back to English.
-  var COUNTRY_LANG = {
-    IL: 'iw',
-    ES: 'es', MX: 'es', AR: 'es', CO: 'es', CL: 'es', PE: 'es', VE: 'es', EC: 'es', GT: 'es', UY: 'es', PY: 'es', BO: 'es', DO: 'es', HN: 'es', SV: 'es', NI: 'es', CR: 'es', PA: 'es',
-    FR: 'fr', BE: 'fr',
-    DE: 'de', AT: 'de',
-    BR: 'pt', PT: 'pt',
-    IT: 'it',
-    NL: 'nl',
-    PL: 'pl',
-    RU: 'ru',
-    SA: 'ar', AE: 'ar', EG: 'ar', QA: 'ar', KW: 'ar', JO: 'ar', OM: 'ar', BH: 'ar', MA: 'ar', DZ: 'ar', TN: 'ar', IQ: 'ar', LB: 'ar',
-    CN: 'zh-CN',
-    JP: 'ja',
-    KR: 'ko',
-    TR: 'tr',
-    ID: 'id',
-    TH: 'th',
-    VN: 'vi'
-  };
-
-  function getGeoCountry() {
-    var m = document.cookie.match(/geo_country=([^;]+)/);
-    return m ? m[1] : null;
-  }
-
-  function hasLangChoice() {
-    return document.cookie.indexOf('lang_choice_made=1') !== -1;
-  }
-
   function markLangChoiceMade() {
     document.cookie = 'lang_choice_made=1; path=/; max-age=31536000; SameSite=Lax';
   }
@@ -579,12 +547,26 @@ const currentPath = Astro.url.pathname;
       document.getElementById('lang-reset-mobile').addEventListener('click', doReset);
     }
 
+    var preconnected = false;
+    function preconnectTranslate() {
+      if (preconnected) return;
+      preconnected = true;
+      ['https://translate.googleapis.com', 'https://translate.google.com', 'https://translate-pa.googleapis.com'].forEach(function (origin) {
+        var link = document.createElement('link');
+        link.rel = 'preconnect';
+        link.href = origin;
+        link.crossOrigin = 'anonymous';
+        document.head.appendChild(link);
+      });
+    }
+
     function toggle(dd, btn) {
       var isHidden = dd.hidden;
       closeAll();
       if (isHidden) {
         dd.hidden = false;
         btn.setAttribute('aria-expanded', 'true');
+        preconnectTranslate();
       }
     }
 
@@ -606,17 +588,15 @@ const currentPath = Astro.url.pathname;
     });
     document.addEventListener('keydown', function (e) { if (e.key === 'Escape') closeAll(); });
 
-    // TEMP: Google Translate auto-load disabled for a Lighthouse before/after
-    // test (see commit message). Not deleted - just short-circuited so it's
-    // a one-line revert. Manual language selection from the dropdown still
-    // calls doTranslate() directly elsewhere and is unaffected.
-    var TEMP_DISABLE_TRANSLATE_AUTOLOAD = true;
-
-    // Restore saved state
+    // Restore saved state. Manual-only: translation only ever runs after the
+    // visitor explicitly picks a language from the dropdown (see the
+    // ddDesktop/ddMobile click handlers above) - there is no geo auto-detect
+    // or auto-load on page load. This keeps every page's baseline load (and
+    // Lighthouse score) clean for the majority of visitors who never opt in,
+    // while still reloading the engine on later pages for a visitor who
+    // already chose a language earlier in their visit.
     var saved = getCookieLang();
-    if (TEMP_DISABLE_TRANSLATE_AUTOLOAD) {
-      revealPage();
-    } else if (saved) {
+    if (saved) {
       applyRTL(saved);
       var match = LANGS.find(function (l) { return l.lang === saved; });
       if (match) {
@@ -627,17 +607,6 @@ const currentPath = Astro.url.pathname;
         // Load translate engine since a language was previously selected
         suppressGoogleBanner();
         loadGoogleTranslate(function() { triggerSelect(saved); });
-      } else {
-        revealPage();
-      }
-    } else if (!hasLangChoice()) {
-      // No cookie yet and the user never explicitly picked English/reset either -
-      // auto-select a language based on the visitor's country (set by our
-      // Cloudflare Pages Function as the geo_country cookie).
-      var country = getGeoCountry();
-      var autoLang = country && COUNTRY_LANG[country];
-      if (autoLang) {
-        doTranslate(autoLang);
       } else {
         revealPage();
       }
