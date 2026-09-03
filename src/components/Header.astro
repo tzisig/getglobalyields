@@ -606,9 +606,17 @@ const currentPath = Astro.url.pathname;
     });
     document.addEventListener('keydown', function (e) { if (e.key === 'Escape') closeAll(); });
 
+    // TEMP: Google Translate auto-load disabled for a Lighthouse before/after
+    // test (see commit message). Not deleted - just short-circuited so it's
+    // a one-line revert. Manual language selection from the dropdown still
+    // calls doTranslate() directly elsewhere and is unaffected.
+    var TEMP_DISABLE_TRANSLATE_AUTOLOAD = true;
+
     // Restore saved state
     var saved = getCookieLang();
-    if (saved) {
+    if (TEMP_DISABLE_TRANSLATE_AUTOLOAD) {
+      revealPage();
+    } else if (saved) {
       applyRTL(saved);
       var match = LANGS.find(function (l) { return l.lang === saved; });
       if (match) {
