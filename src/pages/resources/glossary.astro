@@ -97,7 +97,7 @@ const sortedLetters = Object.keys(groupedTerms).sort();
                       <h3 class="text-xl font-bold text-slate-100 mb-2 glossary-term-title">{item.term}</h3>
                       <p class="text-slate-400 leading-relaxed glossary-term-desc">{item.definition}</p>
                       {item.link && (
-                        <a href={item.link} class="inline-block mt-2 text-sm text-accent-500 hover:underline">Read the {item.linkText} &rarr;</a>
+                        <a href={item.link} class="inline-block mt-2 text-sm text-accent-500 underline">Read the {item.linkText} &rarr;</a>
                       )}
                     </div>
                   ))}
