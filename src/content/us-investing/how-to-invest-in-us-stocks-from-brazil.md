@@ -86,7 +86,7 @@ Before Rafaela buys anything, she needs to convert reais into dollars and move t
 
 Keep the broker's Form 1042-S (issued by March 15 each year) as documentation supporting this credit claim on her Brazilian return.
 
-For the full mechanics, see our US-Brazil tax treaty guide.
+For the full mechanics, see our [US-Brazil tax treaty guide](/taxes/us-brazil-tax-treaty-investors/).
 
 ---
 

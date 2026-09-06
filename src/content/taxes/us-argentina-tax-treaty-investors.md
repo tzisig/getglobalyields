@@ -131,7 +131,7 @@ No treaty means the 30% US withholding on dividends is fixed - there's no form t
 
 ## Related Guides
 
-- Investing in US Stocks from Brazil
+- [Investing in US Stocks from Brazil](/taxes/us-brazil-tax-treaty-investors/)
 - [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)
 - US-Mexico Tax Treaty for Investors
 - [Best Brokers for International Investors](/best-brokers/best-brokers-international-investors-2026/)

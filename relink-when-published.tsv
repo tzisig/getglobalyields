@@ -1,5 +1,4 @@
 source	target	anchor
-taxes/us-argentina-tax-treaty-investors.md	/taxes/us-brazil-tax-treaty-investors	Investing in US Stocks from Brazil
 taxes/us-argentina-tax-treaty-investors.md	/taxes/us-mexico-tax-treaty-investors	US-Mexico Tax Treaty for Investors
 taxes/us-bahrain-tax-treaty-investors.md	/taxes/us-saudi-arabia-tax-treaty-investors	US-Saudi Arabia Tax Treaty for Investors
 taxes/us-bahrain-tax-treaty-investors.md	/taxes/us-uae-tax-treaty-investors	US-UAE Tax Treaty for Investors
@@ -15,7 +14,6 @@ taxes/us-indonesia-tax-treaty-investors.md	/taxes/us-singapore-tax-treaty-invest
 taxes/us-kuwait-tax-treaty-investors.md	/taxes/us-saudi-arabia-tax-treaty-investors	US-Saudi Arabia Tax Treaty for Investors
 taxes/us-new-zealand-tax-treaty-investors.md	/taxes/us-singapore-tax-treaty-investors	Interactive Brokers Singapore: US Stock Tax Guide
 taxes/us-oman-tax-treaty-investors.md	/taxes/us-qatar-tax-treaty-investors	US-Qatar Tax Treaty for Investors
-us-investing/how-to-invest-in-us-stocks-from-brazil.md	/taxes/us-brazil-tax-treaty-investors	US-Brazil tax treaty guide
 us-investing/how-to-invest-in-us-stocks-from-mexico.md	/taxes/us-mexico-tax-treaty-investors	US-Mexico tax treaty guide
 us-investing/how-to-invest-in-us-stocks-from-netherlands.md	/taxes/us-netherlands-tax-treaty-investors	US-Netherlands tax treaty
 us-investing/how-to-invest-in-us-stocks-from-netherlands.md	/taxes/us-netherlands-tax-treaty-investors	US-Netherlands tax treaty guide
