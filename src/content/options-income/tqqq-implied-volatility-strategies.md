@@ -95,7 +95,7 @@ The reason is direct: investors holding TQQQ or Nasdaq-100 exposure consistently
 
 Cash-secured puts are the most natural starting point for TQQQ options income. You sell an OTM put, collect the premium, and either keep it at expiration or take assignment at an effective lower cost basis.
 
-**Strike selection:** Target the 0.25-0.30 delta range for 30-45 DTE. In a Normal IV regime, that puts your short strike roughly 10-15% below the current price. The elevated skew on the put side means you collect more premium here than the equivalent delta call would generate.
+**Strike selection:** Target the 0.25-0.30 delta range for 30-45 DTE. In a Normal IV regime, that puts your short strike roughly 10-15% below the current price. The elevated skew on the put side means you collect more premium here than the equivalent delta call would generate - see our [TQQQ options chain analysis](/options-income/tqqq-options-chain-analysis/) for how to read strikes, deltas, and open interest on the actual chain before placing the trade.
 
 **A concrete example:** With TQQQ trading around $75 and IV in the Normal regime (~65%), a 0.30 delta put with 35 DTE would typically sit near the $64-$66 strike range. At 65% IV, that put could generate approximately $3.50-$4.50 in premium per share, or $350-$450 per contract. That represents roughly 4.5-6% of the capital at risk ($6,600 strike × 100 shares) for a 35-day period - well above what equivalent strategies on QQQ or SPY would produce.
 

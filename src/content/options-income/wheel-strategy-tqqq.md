@@ -38,7 +38,7 @@ This guide walks through the mechanics honestly - how the strategy works, what t
 
 ## What Is the Wheel Strategy?
 
-The wheel is a systematic options income strategy built on two positions that most options traders know: the [cash-secured put](/options-income/cash-secured-puts-high-iv/) and the [covered call](/options-income/selling-covered-calls-tqqq/). The "wheel" refers to the cycle between them.
+The wheel is a systematic options income strategy built on two positions that most options traders know: the [cash-secured put](/options-income/cash-secured-puts-high-iv/) and the [covered call](/options-income/selling-covered-calls-tqqq/). The "wheel" refers to the cycle between them - see our [combined covered call and cash-secured put strategy guide](/strategies/tqqq-covered-calls-cash-secured-puts-strategy/) for the full mechanics of running both sides together.
 
 ### Phase 1 - Sell a Cash-Secured Put
 
