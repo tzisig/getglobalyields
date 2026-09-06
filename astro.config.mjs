@@ -6,6 +6,26 @@ import tailwindcss from '@tailwindcss/vite';
 import sitemap from '@astrojs/sitemap';
 import mdx from '@astrojs/mdx';
 
+// GFM task-list checkboxes (`- [ ] text`) render as disabled, unlabeled
+// `<input type="checkbox">` elements - purely a static bullet glyph in our
+// articles, never a real interactive control. Screen readers/AI agents
+// flagged them as unlabeled form fields, so hide them from the
+// accessibility tree entirely rather than adding a label to a control
+// nobody can actually operate.
+function rehypeHideTaskListCheckboxes() {
+  return (tree) => {
+    function visit(node) {
+      if (node.tagName === 'input' && node.properties?.type === 'checkbox') {
+        node.properties.ariaHidden = 'true';
+      }
+      if (node.children) {
+        node.children.forEach(visit);
+      }
+    }
+    visit(tree);
+  };
+}
+
 // https://astro.build/config
 export default defineConfig({
   site: 'https://getglobalyields.com',
@@ -17,6 +37,7 @@ export default defineConfig({
   },
   markdown: {
     remarkPlugins: [remarkGfm],
+    rehypePlugins: [rehypeHideTaskListCheckboxes],
   },
   integrations: [
     sitemap({
