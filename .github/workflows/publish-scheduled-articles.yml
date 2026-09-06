@@ -52,7 +52,6 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add 'src/content/**/*.md' 'src/pages/**/*.astro' 'src/components/**/*.astro'
-          git add relink-when-published.tsv
+          git add -A -- src/content src/pages src/components relink-when-published.tsv
           git commit -m "chore: publish scheduled articles (${{ steps.publish.outputs.published }}) - ${{ steps.publish.outputs.published_list }}"
           git push
