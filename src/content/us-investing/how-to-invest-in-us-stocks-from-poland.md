@@ -65,7 +65,7 @@ The US-Poland income tax treaty caps US withholding on dividends paid to Polish 
 
 Miss it and the rate sits at 30% until you fix it.
 
-For the full treaty mechanics, see our [US-Poland tax treaty guide](/taxes/us-poland-tax-treaty-investors/).
+For the full treaty mechanics, see our US-Poland tax treaty guide.
 
 ---
 

@@ -109,5 +109,5 @@ Greece's tax relationship with the US is unusual among the countries in this ser
 - [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)
 - [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
 - [PFIC Rules for International Investors](/taxes/pfic-rules-international-investors/)
-- [US-Italy Tax Treaty for Investors](/taxes/us-italy-tax-treaty-investors/)
+- US-Italy Tax Treaty for Investors
 - [Best Brokers for International Investors](/best-brokers/best-brokers-international-investors-2026/)

@@ -127,5 +127,5 @@ There is no treaty rate to solve for: US dividends take 30% and stay there. What
 - [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)
 - [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
 - [PFIC Rules for International Investors](/taxes/pfic-rules-international-investors/)
-- [Interactive Brokers Singapore: US Stock Tax Guide](/taxes/us-singapore-tax-treaty-investors/)
-- [US-Thailand Tax Treaty for Investors](/taxes/us-thailand-tax-treaty-investors/)
+- Interactive Brokers Singapore: US Stock Tax Guide
+- US-Thailand Tax Treaty for Investors
