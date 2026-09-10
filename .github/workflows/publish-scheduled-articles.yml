@@ -55,3 +55,14 @@ jobs:
           git add -A -- src/content src/pages src/components relink-when-published.tsv
           git commit -m "chore: publish scheduled articles (${{ steps.publish.outputs.published }}) - ${{ steps.publish.outputs.published_list }}"
           git push
+
+      # check-draft-links.yml listens for this too, but a push made with the
+      # default GITHUB_TOKEN (the "Commit and push" step above) does not
+      # trigger other workflows' on:push - a deliberate GitHub anti-loop rule,
+      # not a bug in that workflow's trigger config. Without this step, an
+      # article that links forward to one of today's still-draft neighbors
+      # ships live with nothing checking it until someone notices by hand.
+      # Run inline instead of relying on the separate workflow to fire.
+      - name: Check for links to draft articles
+        if: steps.publish.outputs.published != '0'
+        run: node scripts/check-draft-links.mjs
