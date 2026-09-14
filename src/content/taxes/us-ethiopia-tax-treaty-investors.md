@@ -118,7 +118,7 @@ There's no comprehensive US-Ethiopia tax treaty, so the full 30% US withholding 
 ## Related Guides
 
 - [PFIC Rules for International Investors](/taxes/pfic-rules-international-investors/)
-- US-Kenya Tax Treaty for Investors
+- [US-Kenya Tax Treaty for Investors](/taxes/us-kenya-tax-treaty-investors/)
 - US-Nigeria Tax Treaty for Investors
 - [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)
 - [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
