@@ -29,7 +29,7 @@ featured: false
 
 ## Who This Article Is For
 
-David, an [Israeli](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026/) investor with $80,000 in TQQQ, found the 225-day SMA strategy in early 2022 - right after QQQ crossed below the line in January. He moved to cash. He avoided the 79% drawdown. He re-entered in late November 2022 when QQQ crossed back above. He captured the full 198% 2023 rally. On paper, the strategy worked exactly as advertised. For the fundamental choice between TQQQ and QQQ, see [TQQQ vs QQQ](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026/). Also see [TQQQ Long-Term Outlook](/strategies/tqqq-long-term-outlook/), [Dollar-Cost Averaging TQQQ](/strategies/dollar-cost-averaging-tqqq/), and [Compounding Returns with TQQQ](/strategies/compounding-returns-tqqq/).
+Take a hypothetical [Israeli](/us-investing/how-to-invest-in-us-stocks-from-israel-step-by-step-2026/) investor, David, with $80,000 in TQQQ, who found the 225-day SMA strategy in early 2022 - right after QQQ crossed below the line in January. He moves to cash. He avoids the 79% drawdown. He re-enters in late November 2022 when QQQ crosses back above. He captures the full 198% 2023 rally. On paper, the strategy worked exactly as advertised. For the fundamental choice between TQQQ and QQQ, see [TQQQ vs QQQ](/strategies/buying-tqqq-vs-qqq-which-is-right-for-international-investors-in-2026/). Also see [TQQQ Long-Term Outlook](/strategies/tqqq-long-term-outlook/), [Dollar-Cost Averaging TQQQ](/strategies/dollar-cost-averaging-tqqq/), and [Compounding Returns with TQQQ](/strategies/compounding-returns-tqqq/).
 
 The catch is that one successful exit does not prove long-term superiority. Masonson's research shows lower risk-adjusted returns when the strategy is applied to TQQQ than when TQQQ is simply held, because moving-average exits can miss the rapid recoveries that drive much of its decade-long compounding.
 
@@ -134,7 +134,7 @@ For TQQQ: the buy-and-hold investor lost approximately 79% in 2022. The strategy
 
 This is where the strategy genuinely shines for leveraged investors. The downside protection in sustained bear markets is real and substantial. The -79% TQQQ drawdown without the strategy vs. a near-zero loss in cash is a dramatic difference.
 
-The complication is what happened next. QQQ's first convincing recross above the 225-day SMA came in late November 2022. But TQQQ had already risen approximately 80% from its December 2022 bottom by the time the signal confirmed. An investor re-entering TQQQ on the 225-day crossover in late November captured the 2023 rally from that level - still extraordinary at +198% - but missed the initial recovery bounce.
+The complication is what happened next. QQQ's first convincing recross above the 225-day SMA came in late November 2022. But TQQQ had already risen sharply from its October 2022 bottom by the time the signal confirmed. An investor re-entering TQQQ on the 225-day crossover in late November captured the 2023 rally from that level - still extraordinary at +198% - but missed the initial recovery bounce.
 
 This is the fundamental tension: the strategy reliably prevents catastrophic losses in genuine bear markets, but consistently enters the recovery later than buy-and-hold. For QQQ, entering later costs a modest amount. For TQQQ at 3x, the timing gap costs proportionally more.
 
@@ -201,9 +201,9 @@ As of late May 2026, QQQ is trading at approximately $729 (52-week high: $733.32
 
 The strategy signal is unambiguously bullish. Under both the basic strategy and the buffer variants (requiring 3-5% above the SMA to enter), the current posture is fully invested.
 
-This is consistent with QQQ's strong recovery from the April 2026 tariff-driven correction. QQQ hit a 52-week low of $427.93 in early April 2026 before recovering strongly. Investors applying the buffer approach (requiring a 3% close below the SMA to sell) would not have been triggered to exit during that correction - the SMA at approximately $590-$600 at that point was not decisively breached on a closing basis.
+This is consistent with QQQ's strong recovery from a sharp March 2026 correction. QQQ hit a 52-week low of $555.60 on March 30, 2026 before recovering strongly. Investors applying the buffer approach (requiring a 3% close below the SMA to sell) would not have been triggered to exit during that correction - the SMA at approximately $590-$600 at that point was not decisively breached on a closing basis.
 
-**The April 2026 episode illustrates the buffer approach's value exactly:** a sharp but short correction that approached the 225-day SMA would have generated a sell signal under the pure crossover version, moving TQQQ investors to cash in early April - only for QQQ to recover sharply to new 52-week highs within weeks. With a 3% buffer, no sell signal was triggered, and investors stayed in TQQQ through the full recovery.
+**The March 2026 episode illustrates the buffer approach's value exactly:** a sharp but short correction that approached the 225-day SMA would have generated a sell signal under the pure crossover version, moving TQQQ investors to cash - only for QQQ to recover sharply to new 52-week highs within weeks. With a 3% buffer, no sell signal was triggered, and investors stayed in TQQQ through the full recovery.
 
 **Always verify the current SMA level on your own charting platform before acting.** Moving average values change daily. TipRanks, TradingView, and Yahoo Finance all provide current QQQ SMA readings in their technical analysis sections.
 
@@ -231,7 +231,7 @@ The most defensible use of this strategy for investors who hold TQQQ is as a ris
 
 The strategy's greatest value for TQQQ investors is not finding the optimal entry and exit timing. It is providing a systematic, pre-committed rule for reducing exposure before catastrophic bear markets - the kind of rule that prevents the behavioral error of holding TQQQ through an 80% drawdown to zero. For that purpose, imperfect but consistent execution beats perfect but intermittent judgment.
 
-David's 2022 experience was real and the strategy worked for him that year. The question is not whether it worked once - it is whether it works better than buy-and-hold over the full decade, after taxes, accounting for the compounding he missed at the bottom of every recovery. That calculation, done honestly, is what determines whether this strategy belongs in his portfolio or just in his research folder.
+The strategy worked for David in this hypothetical, and it would have worked for a real investor who applied it in 2022. The question is not whether it worked once - it is whether it works better than buy-and-hold over the full decade, after taxes, accounting for the compounding missed at the bottom of every recovery. That calculation, done honestly, is what determines whether this strategy belongs in a portfolio or just in a research folder.
 
 For the [Wheel Strategy on TQQQ](/options-income/wheel-strategy-tqqq/) and [Selling Covered Calls on TQQQ](/options-income/selling-covered-calls-tqqq/), see how options can supplement timing strategies.
 

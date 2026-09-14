@@ -33,7 +33,7 @@ schema:
     - question: "Do I need to pay tax in Israel on US stock gains?"
       answer: "Yes. Capital gains from selling US stocks are taxable in Israel at 25%. Dividends are also taxed at 25% in Israel, but the US withholding of 25% under the treaty means you generally do not pay double tax. You must report all foreign investment income on your Israeli annual tax return."
     - question: "What is the minimum deposit to start investing in US stocks from Israel?"
-      answer: "Interactive Brokers has no minimum deposit. For beginners, starting with $1,000 to $5,000 is reasonable. To avoid the monthly inactivity fee, aim to generate at least $10 per month in commissions or grow your account to $100,000."
+      answer: "Interactive Brokers has no minimum deposit and no inactivity fee (IBKR eliminated those in 2021). For beginners, starting with $1,000 to $5,000 is reasonable."
     - question: "Do I need to declare my IBKR account to the Bank of Israel?"
       answer: "There is no requirement to notify the Bank of Israel simply for opening a foreign brokerage account. However, you must report foreign assets and income to the Israeli Tax Authority as part of your annual tax obligations."
 ---
@@ -114,9 +114,10 @@ For Israeli investors, fill it out as follows:
 | Line 3 - Permanent residence address | Your Israeli home address |
 | Line 6 - Foreign tax ID | Your Teudat Zehut number |
 | Line 9 - Treaty country | Israel |
-| Line 10 - Rate | 25% (dividends under US-Israel treaty) |
 
-Sign and date. The form is valid for 3 years - set a reminder to renew it.
+Line 9 alone establishes your treaty claim for dividend withholding - your broker's system applies the 25% Israel treaty rate automatically for this income type. Line 10 ("Special rates and conditions") is not used for standard dividend treaty claims; it only applies to specific cases like certain royalty types, so leave it blank.
+
+Sign and date. The form stays valid through the last day of the third calendar year after you sign it - not a flat 3 years from the signing date, but close enough that setting a reminder around then is the practical approach.
 
 ## **Step 5: Fund Your Account**
 
@@ -162,14 +163,14 @@ This is the step most guides skip - but it is essential for Israeli investors.
 
 **What you must report to the Israeli Tax Authority:** Foreign investment income (dividends, interest) and capital gains from selling foreign securities must be reported on your Israeli annual tax return (Doch Mas Hachnasa).
 
-**How the foreign tax credit works:** The US withholds 25% on your dividends under the treaty. Israel taxes investment income at 25%. Because you already paid 25% to the US, you receive a foreign tax credit in Israel - meaning you generally do not pay double tax on dividends.
+**How the foreign tax credit works:** The US withholds 25% on your dividends under the treaty. Israel taxes investment income at 25%, plus a surtax on capital-source income (dividends, capital gains, interest, and rental income combined) above ILS 721,560 in a year - see our [US-Israel tax treaty guide](/taxes/us-israel-tax-treaty-explained-capital-gains-dividends-2026/) for the surtax mechanics. Because you already paid 25% to the US, you receive a foreign tax credit in Israel - meaning you generally do not pay double tax on dividends.
 
 **Capital gains:** Profits from selling stocks have no US withholding but are taxable in Israel at 25%. Report these on your Israeli tax return.
 
 Key documents to keep:
 
 -   Your IBKR annual statement (available in the Client Portal under Reports)
--   The 1042-S form (Foreign Person's US Source Income) - issued by IBKR each January for the prior tax year - Records of all buy and sell transactions
+-   The 1042-S form (Foreign Person's US Source Income) - IBKR must furnish this by March 15 for the prior tax year - Records of all buy and sell transactions
 
 Tip: If your foreign investment income is significant, consider working with an Israeli accountant (roa'e cheshbon) who specializes in foreign investments. The cost is usually worth it for portfolios above $50,000.
 
@@ -189,7 +190,7 @@ Currency fluctuations affect your returns when measured in ILS. If the USD stren
 
 ### **What is the minimum amount to start?**
 
-IBKR has no minimum deposit. However, to avoid the monthly inactivity fee, aim to either generate at least $10/month in commissions or grow your account to $100,000+. For beginners, starting with $1,000 to $5,000 is reasonable.
+IBKR has no minimum deposit and no inactivity fee (IBKR eliminated those in 2021). For beginners, starting with $1,000 to $5,000 is reasonable.
 
 ## **Israeli Bank Wire Transfers: Which Banks Work Best**
 

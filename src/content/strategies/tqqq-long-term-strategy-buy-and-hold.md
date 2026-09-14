@@ -43,11 +43,11 @@ This article is built around that contradiction: why the gap exists, who the sel
 
 Not all of the outflows represent failure. Breaking down who sold, and when, reveals three distinct groups - and their outcomes tell the complete story of what buy-and-hold actually requires on TQQQ.
 
-**Group One: The panic sellers (February-May 2025)**
+**Group One: The panic sellers (February-April 2025)**
 
-When the Trump administration's tariff announcements triggered a sharp Nasdaq correction in early 2025, TQQQ fell from its January 2025 opening price of approximately $85.56 to a 52-week low of $31.93 on May 12, 2025 - a 63% decline over roughly four months (StockScan historical data). Volume data and fund flow reporting show heavy net selling throughout that decline, with particularly intense selling around the April 7 low in QQQ and the subsequent volatile sessions. These investors had likely held through 2022, watched TQQQ recover to new highs in 2023-2024, and then sold into the 2025 correction - locking in losses on a position that had already recovered once.
+When the Trump administration's "Liberation Day" tariff announcements triggered a sharp Nasdaq correction in early April 2025, TQQQ fell from its January 2025 opening price of approximately $85.56 to a low of approximately $31.93 in early April 2025 - a roughly 63% decline over about three months (StockScan historical data). Volume data and fund flow reporting show heavy net selling throughout that decline, with particularly intense selling around the April 7 low in QQQ and the subsequent volatile sessions. These investors had likely held through 2022, watched TQQQ recover to new highs in 2023-2024, and then sold into the 2025 correction - locking in losses on a position that had already recovered once.
 
-TQQQ then returned 35.2% on April 9, 2025 alone - its best single day on record - and has since recovered to the $70s. The investors who sold at or near the May 2025 low permanently forfeited that recovery. They were right about TQQQ's long-term trajectory and wrong about when to exit.
+TQQQ then returned 35.2% on April 9, 2025 alone - its best single day on record - and has since recovered to the $70s. The investors who sold at or near the April 2025 low permanently forfeited that recovery. They were right about TQQQ's long-term trajectory and wrong about when to exit.
 
 **Group Two: The profit takers (2023-2024)**
 
