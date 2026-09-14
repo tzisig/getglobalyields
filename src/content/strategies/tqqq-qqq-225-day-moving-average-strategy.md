@@ -39,7 +39,7 @@ If you [hold TQQQ](/strategies/tqqq-long-term-strategy-buy-and-hold/) and have e
 
 ## The Strategy: What It Is and Where It Comes From
 
-The 225-day simple moving average strategy was documented in detail by Leslie Masonson in his book *The Triple Qs and the T-Triple Qs ETF Profit Machine* (2025). Masonson has over 50 years of market experience, has authored six financial books, and has actively traded Nasdaq-100 instruments for 15+ years.
+The 225-day simple moving average strategy was documented in detail by Leslie Masonson in his book *The QQQ and TQQQ ETF Profit Machine* (2025). Masonson has over 50 years of market experience, has authored six financial books, and has actively traded Nasdaq-100 instruments for 15+ years.
 
 The rules are entirely mechanical:
 
@@ -63,7 +63,7 @@ For QQQ, the strategy's 25-year backtest (January 2000 through February 2025) pr
 | Maximum drawdown | -28.6% | -83.0% |
 | Period | 25 years | 25 years |
 
-Source: Leslie Masonson, *The Triple Qs and the T-Triple Qs ETF Profit Machine* (2025); independent review at FinancialWisdomTV.com (January 2026).
+Source: Leslie Masonson, *The QQQ and TQQQ ETF Profit Machine* (2025); independent review at FinancialWisdomTV.com (January 2026).
 
 The strategy delivered approximately 68% more total return while cutting the maximum drawdown from 83% to 28.6% - a reduction of more than two-thirds. For context, the 83% buy-and-hold drawdown reflects what QQQ investors experienced during the 2000-2002 dot-com collapse, when the Nasdaq-100 fell from its March 2000 peak to a trough in October 2002 and did not recover to that peak price until 2016.
 
