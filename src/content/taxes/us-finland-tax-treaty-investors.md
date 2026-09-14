@@ -19,15 +19,15 @@ draft: false
 readingTime: "9 min read"
 featured: false
 seo:
-  metaTitle: "US-Finland Tax Treaty: 30%/34% Capital Income Split (2026)"
+  metaTitle: "US-Finland Tax Treaty: Dividend & Capital Split (2026)"
   metaDescription: "A US-Finland tax treaty caps dividend withholding at 15%. Finland's two-tier capital income tax runs 30% up to EUR 30,000, then 34% above that."
-  ogTitle: "US-Finland Tax Treaty: 30%/34% Capital Income Split (2026)"
+  ogTitle: "US-Finland Tax Treaty: Dividend & Capital Split (2026)"
   ogDescription: "A US-Finland tax treaty caps dividend withholding at 15%. Finland's two-tier capital income tax runs 30% up to EUR 30,000, then 34% above that."
   ogImage: "/images/blog/taxes/us-finland-tax-treaty-investors.webp"
   twitterCard: "summary_large_image"
 schema:
   type: "article"
-  headline: "US-Finland Tax Treaty: 30%/34% Capital Income Split (2026)"
+  headline: "US-Finland Tax Treaty: Dividend & Capital Split (2026)"
   description: "A US-Finland tax treaty caps dividend withholding at 15%. Finland's two-tier capital income tax runs 30% up to EUR 30,000, then 34% above that."
   author: "Tzion Sigron"
   datePublished: "2026-08-06"

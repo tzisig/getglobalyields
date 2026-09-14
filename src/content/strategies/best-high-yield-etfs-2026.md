@@ -1,7 +1,7 @@
 ---
 slug: best-high-yield-etfs-2026
-title: "Largest Actively Managed ETFs by AUM: JEPI & More (2026)"
-description: "The largest actively managed high-yield ETFs by AUM: JEPI, JEPQ, SCHD, SPYI, QQQI, JNK - yields, NAV erosion, and tax rules for non-US investors."
+title: "Largest Actively Managed ETFs by AUM List: JEPI (2025-2026)"
+description: "2025-2026 list of largest actively managed high-yield ETFs by AUM: JEPI, JEPQ, SCHD, SPYI, QQQI, JNK - yields, NAV erosion, and tax rules for non-US investors."
 pubDate: 2026-05-24
 updatedDate: 2026-05-24
 author: "Tzion Sigron"
