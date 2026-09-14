@@ -135,7 +135,7 @@ The gap column tells the real story: every income-focused ETF that has been thro
 
 ### How ELNs Work - and Why It Matters for Taxes
 
-JEPI and JEPQ do not write covered calls directly. They allocate approximately 15% of each fund's assets to equity-linked notes (ELNs) - custom over-the-counter structured products issued by major banks that replicate the payoff profile of one-month, out-of-the-money covered calls on the relevant index.
+JEPI and JEPQ do not write covered calls directly. They allocate up to approximately 20% of each fund's assets to equity-linked notes (ELNs) - custom over-the-counter structured products issued by major banks that replicate the payoff profile of one-month, out-of-the-money covered calls on the relevant index.
 
 The distinction has two practical consequences.
 

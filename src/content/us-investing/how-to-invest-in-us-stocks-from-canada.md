@@ -38,7 +38,7 @@ schema:
 
 ---
 
-A Canadian investor who put $50,000 into the S&P 500 ten years ago and let it sit - doing nothing - ended up with roughly $185,000 today. The same $50,000 in the TSX composite grew to about $100,000 over the same period. Same country, same investor, one decision: which market to be in.
+A Canadian investor who put $50,000 into the S&P 500 ten years ago and let it sit - doing nothing - ended up with roughly $205,000 today, based on the index's approximately 313% ten-year total return with dividends reinvested. The TSX Composite has trailed the S&P 500 by a wide margin over the same stretch - directionally the same $50,000 would be worth meaningfully less there, though the exact multiple depends on the specific window measured. Same country, same investor, one decision: which market to be in.
 
 The process of buying US stocks from Canada is not complicated. What is complicated - and what quietly costs investors thousands of dollars a year - are three specific details: which account to use, whether your [W-8BEN](/taxes/w8ben-form-non-us-investors/) form is on file, and how you convert CAD to USD. Get those right and the rest is straightforward.
 

@@ -26,7 +26,7 @@ schema:
     - question: "Can I buy VOO or VTI as a Spanish investor?"
       answer: "No, not through a regulated EU broker. PRIIPs requires a Key Information Document in an EU language, which US ETF providers generally do not produce. Use UCITS equivalents like CSPX (S&P 500) or VWCE (global)."
     - question: "Do I need to file Modelo 720 for my US brokerage account?"
-      answer: "Only if the account's value exceeds €50,000 at any point during the year. If it does, file by March 31 of the following year. Below that threshold, there is nothing to file for this obligation."
+      answer: "Only if the account's value exceeds €50,000 as of December 31. If it does, file by March 31 of the following year. Below that threshold on that date, there is nothing to file for this obligation."
     - question: "Is Modelo 720 a tax I have to pay?"
       answer: "No. It is a disclosure requirement. Filing it correctly does not itself create a tax bill - your actual tax on dividends and capital gains is calculated separately under Spain's progressive savings income scale."
     - question: "What's the actual tax rate on US dividends and gains for a Spanish resident?"
@@ -71,7 +71,7 @@ Marta cannot buy VOO. She can buy CSPX, which tracks the identical S&P 500 index
 
 This is the detail that catches Spanish residents off guard, and it has nothing to do with the tax rate on your investments.
 
-If a Spanish tax resident's US brokerage account (Category C2 under Modelo 720, covering foreign investments and pensions) exceeds **€50,000** at any point during the year, they must file **Modelo 720** by **March 31** of the following year. There are no extensions.
+If a Spanish tax resident's US brokerage account (Category C2 under Modelo 720, covering foreign investments and pensions) exceeds **€50,000** as of **December 31**, they must file **Modelo 720** by **March 31** of the following year. There are no extensions.
 
 **Modelo 720 is a disclosure, not a tax bill.** Filing it correctly does not itself create a tax liability - the actual tax on dividends and capital gains is calculated separately, described below. The risk is entirely procedural: missing the deadline, or filing incorrectly, has historically carried some of the harshest penalty exposure of any reporting obligation in Spain's tax system.
 
@@ -192,7 +192,7 @@ She opens her account, files her W-8BEN, and buys her first two ETFs in an after
 No, not through a regulated EU broker. PRIIPs regulations require a Key Information Document in an EU language, which US ETF providers generally do not produce. Use UCITS equivalents like CSPX (S&P 500) or VWCE (global).
 
 **Do I need to file Modelo 720 for my US brokerage account?**
-Only if the account's value exceeds €50,000 at any point during the year. If it does, file by March 31 of the following year. Below that threshold, there is nothing to file for this obligation.
+Only if the account's value exceeds €50,000 as of December 31. If it does, file by March 31 of the following year. Below that threshold on that date, there is nothing to file for this obligation.
 
 **Is Modelo 720 a tax I have to pay?**
 No. It is a disclosure requirement. Filing it correctly does not itself create a tax bill - your actual tax on dividends and capital gains is calculated separately under Spain's progressive savings income scale.

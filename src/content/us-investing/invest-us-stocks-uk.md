@@ -29,7 +29,7 @@ schema:
     - question: "Does my ISA protect me from US withholding tax?"
       answer: "No. The ISA shields you from UK income and capital gains tax, but the US still withholds 15% on dividends before they enter your ISA. This 15% is irrecoverable inside an ISA."
     - question: "How does a SIPP get 0% withholding on US dividends?"
-      answer: "The IRS recognises UK SIPPs as qualifying pension schemes. Your SIPP provider handles the recognition automatically. No individual W-8BEN is required."
+      answer: "The IRS recognises UK SIPPs as qualifying pension schemes, and no individual W-8BEN is required - the claim has to be made by the pension fund itself, not by you. In practice this doesn't always happen: a November 2025 UKSA report found some major SIPP providers, including AJ Bell and Interactive Investor, had not been claiming or recovering this treaty benefit properly, leaving customers over-withheld. Check your own SIPP's dividend statements for 0% withholding rather than assuming it."
     - question: "What is the W-8BEN and do I need one?"
       answer: "The W-8BEN confirms you are a UK tax resident and claims the 15% treaty rate on US dividends instead of the default 30%. Most UK brokers collect it during account setup for US markets. It must be renewed every three years."
     - question: "What happens if I do not file W-8BEN?"
@@ -79,7 +79,7 @@ For growth-focused US positions where dividends are minimal - think QQQ, individ
 
 This is where it gets genuinely interesting for US stock investors.
 
-The IRS recognises UK SIPPs as qualifying pension schemes. This means US companies pay dividends into your SIPP with zero withholding - not 15%, not 25%, zero. No W-8BEN required; your broker or SIPP provider handles the pension recognition automatically.
+The IRS recognises UK SIPPs as qualifying pension schemes. This means US companies can pay dividends into your SIPP with zero withholding - not 15%, not 25%, zero. No individual W-8BEN is required; the claim has to be made by your SIPP provider at the fund level, not by you - and, as covered below, that claim doesn't always get made correctly in practice.
 
 For income-focused US investors, holding dividend-paying US stocks or ETFs in a SIPP rather than an ISA eliminates the 15% withholding entirely. The trade-off is that SIPP funds cannot be accessed until age 57 (rising to 58 in 2028), and withdrawals in retirement are taxed as income (with 25% available tax-free).
 
@@ -111,7 +111,7 @@ The W-8BEN is the IRS form that confirms you are a UK tax resident and claims th
 
 Most UK brokers collect this during account setup or as part of their onboarding for US markets. It expires every three years - your broker should send a renewal reminder, but do not wait for one. If it lapses, your withholding reverts to 30% until you renew.
 
-One important note: in a SIPP, you do not file an individual W-8BEN. The pension trustee or SIPP provider handles the pension recognition separately with the IRS, which is what secures the 0% withholding rate. This happens automatically - you do not need to do anything extra.
+One important note: in a SIPP, you do not file an individual W-8BEN. The pension trustee or SIPP provider is supposed to handle the pension recognition separately with the IRS, which is what secures the 0% withholding rate - there's nothing for you to file. But "supposed to" is doing real work in that sentence: a November 2025 report from UKSA (UK Shareholders' Association) found that some major SIPP providers, including AJ Bell and Interactive Investor, had not actually been claiming this treaty benefit, leaving customers over-withheld with no notice. Check your own SIPP's dividend statements for 0% US withholding, and raise it with your provider directly if you're seeing 15% or 30% instead.
 
 ---
 
@@ -222,7 +222,7 @@ Yes, on gains above the £3,000 annual exemption - at 18% (basic rate) or 24% (h
 No. The ISA shields you from UK income and capital gains tax, but the US still withholds 15% on dividends before they enter your ISA. This 15% is irrecoverable inside an ISA.
 
 **How does a SIPP get 0% withholding on US dividends?**
-The IRS recognises UK SIPPs as qualifying pension schemes. Your SIPP provider handles the recognition automatically. No individual W-8BEN is required.
+The IRS recognises UK SIPPs as qualifying pension schemes, and no individual W-8BEN is required - the claim has to be made by the pension fund itself, not by you. In practice this doesn't always happen: a November 2025 UKSA report found some major SIPP providers, including AJ Bell and Interactive Investor, had not been claiming or recovering this treaty benefit properly, leaving customers over-withheld. Check your own SIPP's dividend statements for 0% withholding rather than assuming it.
 
 **What is the W-8BEN and do I need one?**
 The W-8BEN confirms you are a UK tax resident and claims the 15% treaty rate on US dividends instead of the default 30%. Most UK brokers collect it during account setup for US markets. It must be renewed every three years.

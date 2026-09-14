@@ -52,7 +52,7 @@ The W-8BEN is an IRS form that certifies you are a foreign person for US tax pur
 
 The W-8BEN is not complicated. It asks for your name, country of citizenship, country of residence, and tax identification number. Most brokers let you fill it out digitally during the account opening process.
 
-The form must be renewed every 3 years.
+The form stays valid through the last day of the third calendar year after you sign it - in practice, a little over three years for most signing dates - so renew it before then.
 
 ## **Step-by-Step: How to Open a US Brokerage Account as a Non-Resident**
 

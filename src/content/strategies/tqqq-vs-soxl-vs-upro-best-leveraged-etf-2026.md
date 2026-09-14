@@ -74,7 +74,7 @@ For the long-term outlook on each fund, see [TQQQ Long-Term Outlook](/strategies
 
 The three funds are built on three different indices, and understanding that difference is the first step.
 
-**TQQQ - ProShares UltraPro QQQ** seeks 3x the daily return of the Nasdaq-100 Index - 100 of the largest non-financial companies listed on Nasdaq. The index is technology-heavy but not technology-only: it includes communication services, consumer discretionary, and healthcare alongside its dominant tech weighting. Top holdings as of 2026 include Nvidia (5.42%), Apple (4.70%), Microsoft (3.56%), Amazon (2.59%), and Meta (2.26%). The Magnificent 7 collectively represent over 40% of the index.
+**TQQQ - ProShares UltraPro QQQ** seeks 3x the daily return of the Nasdaq-100 Index - 100 of the largest non-financial companies listed on Nasdaq. The index is technology-heavy but not technology-only: it includes communication services, consumer discretionary, and healthcare alongside its dominant tech weighting. Top holdings as of May 2026 include Nvidia (8.69%), Apple (7.14%), Microsoft (5.28%), Amazon (4.92%), and Alphabet (3.92%) - the top 5 alone are nearly 31% of the index. The Magnificent 7 collectively represent over 40% of the index.
 
 **SOXL - Direxion Daily Semiconductor Bull 3X Shares** seeks 3x the daily return of the ICE Semiconductor Index - a pure-play semiconductor exposure. No consumer staples, no healthcare, no software companies that happen to use chips. The holdings are chip designers, manufacturers, and equipment makers: Nvidia, TSMC, AMD, Broadcom, ASML, Applied Materials. If semiconductors fall, SOXL has nowhere to hide within its index.
 
