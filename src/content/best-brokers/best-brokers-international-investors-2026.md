@@ -244,7 +244,7 @@ From my experience, Interactive Brokers remains the gold standard for internatio
 | **Feature** | **Details** |
 | --- | --- |
 | Countries served | 200+ countries and territories |
-| US stock commission | $0 on IBKR Lite; $0.0005/share (min $1) on IBKR Pro |
+| US stock commission | $0 on IBKR Lite; $0.005/share (min $1) on IBKR Pro |
 | Currency accounts | 25+ currencies with best-in-class FX conversion at near-interbank rates |
 | W-8BEN support | Yes - full treaty documentation and withholding management |
 | Regulation | SEC/FINRA (US), FCA (UK), IIROC ([Canada](/us-investing/how-to-invest-in-us-stocks-from-canada/)), MAS (Singapore), and more |
@@ -280,7 +280,7 @@ eToro has grown into one of the most accessible platforms for non-US internation
 - **Regulated** by FCA (UK), CySEC (EU), and ASIC ([Australia](/us-investing/how-to-invest-in-us-stocks-from-australia/)).
 - **USD-denominated account** with FX conversion on deposit/withdrawal.
 
-**Key consideration:** eToro's "commission-free" model is funded partly through FX conversion spreads (typically 150 bps on non-USD deposits) and CFD spreads. For investors making large or frequent transactions, these implicit costs can exceed what a traditional commission broker would charge. Additionally, experienced traders should note that eToro often lacks access to leveraged US ETFs like TQQQ in many jurisdictions due to MiFID II restrictions-investors seeking those products should use IBKR instead.
+**Key consideration:** eToro's "commission-free" model is funded partly through FX conversion spreads (typically 150 bps on non-USD deposits) and CFD spreads. For investors making large or frequent transactions, these implicit costs can exceed what a traditional commission broker would charge. Additionally, experienced traders should note that eToro often lacks access to leveraged US ETFs like TQQQ in many jurisdictions because US-domiciled ETFs don't produce the PRIIPs Key Information Document (KID) EU rules require for retail investors-investors seeking those products should use IBKR instead.
 
 ### **4. Firstrade** \- **Best Zero-Commission Option for Non-US Nationals**
 
@@ -318,7 +318,7 @@ XTB is a publicly listed (Warsaw Stock Exchange) European broker built around ze
 |---|---|:---:|---|---|---|---|---|:---:|
 | **Interactive Brokers**<br>IBKR | Overall best | <span class="text-green-500 font-bold">✓</span> | Very Low | $0 | Excellent | 200+ | Full (incl. TQQQ) | <a href="/best-brokers/interactive-brokers-review-2026-the-best-broker-for-international-investors/" class="inline-block rounded bg-accent-500 px-3 py-1 text-xs font-semibold !text-primary-900 transition-colors hover:bg-accent-400 no-underline whitespace-nowrap mt-1">Review</a> |
 | **Schwab Intl.**<br>US expats | US expats | <span class="text-green-500 font-bold">✓</span> | $0 | $0 | Bank rates | US persons abroad | Full | <a href="https://schwab.com" target="_blank" rel="noopener noreferrer" class="inline-block rounded bg-accent-500 px-3 py-1 text-xs font-semibold !text-primary-900 transition-colors hover:bg-accent-400 no-underline whitespace-nowrap mt-1">Details</a> |
-| **eToro**<br>EU / UK entity | Beginners | <span class="text-red-500 font-bold">✗</span> | Medium | $50–$200 | 0.5% | 100+ | Limited (MiFID II) | <a href="/best-brokers/etoro-review-2026/" class="inline-block rounded bg-accent-500 px-3 py-1 text-xs font-semibold !text-primary-900 transition-colors hover:bg-accent-400 no-underline whitespace-nowrap mt-1">Review</a> |
+| **eToro**<br>EU / UK entity | Beginners | <span class="text-red-500 font-bold">✗</span> | Medium | $50–$200 | 1.5% | 100+ | Limited (PRIIPs KID) | <a href="/best-brokers/etoro-review-2026/" class="inline-block rounded bg-accent-500 px-3 py-1 text-xs font-semibold !text-primary-900 transition-colors hover:bg-accent-400 no-underline whitespace-nowrap mt-1">Review</a> |
 | **Firstrade**<br>NRAs | Cost-conscious NRAs | <span class="text-green-500 font-bold">✓</span> | $0 | $0 | USD only | Selected countries | Full | <a href="/best-brokers/firstrade-review-2026/" class="inline-block rounded bg-accent-500 px-3 py-1 text-xs font-semibold !text-primary-900 transition-colors hover:bg-accent-400 no-underline whitespace-nowrap mt-1">Review</a> |
 | **tastytrade**<br>Options traders | Options/Derivatives | <span class="text-green-500 font-bold">✓</span> | Low | $0 | USD only | Selected countries | Full | <a href="/best-brokers/tastytrade-review-2026/" class="inline-block rounded bg-accent-500 px-3 py-1 text-xs font-semibold !text-primary-900 transition-colors hover:bg-accent-400 no-underline whitespace-nowrap mt-1">Review</a> |
 | **Saxo Bank**<br>Multi-entity | EU/MENA investors | <span class="text-green-500 font-bold">✓</span> | High → Low* | $2,000+ | Good | EU, MENA, APAC | Broad | <a href="/best-brokers/saxo-bank-review-2026/" class="inline-block rounded bg-accent-500 px-3 py-1 text-xs font-semibold !text-primary-900 transition-colors hover:bg-accent-400 no-underline whitespace-nowrap mt-1">Review</a> |
@@ -362,7 +362,7 @@ Non-US persons holding US-sited assets - including stocks, ETFs, and bonds held 
 - **US estate tax exposure** on assets exceeding $60,000 for non-US persons.
 - **Currency conversion costs** on deposits and withdrawals from non-USD accounts (though platforms like IBKR minimize this).
 - **Complex tax reporting** obligations depending on your country of residence.
-- **Some US brokers restrict access** to leveraged ETFs for non-US clients (particularly EU residents under MiFID II).
+- **Some US brokers restrict access** to leveraged ETFs for non-US clients (particularly EU residents, under the PRIIPs KID requirement).
 - **Time zone mismatch** for customer support, though high-quality brokers now offer excellent coverage. **In my experience trading from Israel, the top-tier brokers provide great support even during our late evening hours (until 11:00 PM), ensuring you are never left without an answer.**
 
 ## **Conclusion: Choosing the Right Broker for Your Global Strategy**

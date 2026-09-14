@@ -23,9 +23,9 @@ readingTime: "13 min read"
 featured: true
 ---
 
-In October 2025, Tesla reported earnings and its implied volatility spiked to the 75th percentile of its 52-week range. The stock was trading at $258. Consider a trader who understood what that meant: she sold the $240 strike put with 45 days to expiration and collected $8.50 in premium - $850 per contract. Tesla needed to fall more than 11% before she would be assigned shares at a price she had already decided she was comfortable owning.
+Here's a hypothetical that shows the mechanics: a stock like Tesla heads into an earnings report and implied volatility spikes to the 75th percentile of its 52-week range. Suppose the stock is trading at $258. A trader who understands what that IV spike means sells the $240 strike put with 45 days to expiration and collects $8.50 in premium - $850 per contract. The stock would need to fall more than 11% before she is assigned shares at a price she has already decided she is comfortable owning.
 
-Tesla finished above $240 at expiration. She kept the $850 and moved on.
+In this scenario, the stock finishes above $240 at expiration. She keeps the $850 and moves on.
 
 That trade is the essence of cash-secured puts on high-IV stocks. You are not predicting where the stock will go. You are selling expensive insurance to other traders who are panicking, at a price level where you would genuinely be happy to own the underlying. Done systematically, on stocks you have researched, with position sizes that do not threaten your account - it is one of the most durable income strategies in retail options trading.
 
@@ -98,17 +98,17 @@ Going deeper OTM (0.15-0.20 delta) reduces premium but also reduces assignment r
 
 ---
 
-## A Complete Trade Example: AMD
+## A Complete Trade Example: AMD (Hypothetical)
 
-It is November 12, 2025. AMD is trading at $150. IV Rank is 62 - elevated, reflecting post-earnings uncertainty that has faded from the headlines but is still priced into options. AMD has positive free cash flow, deep options liquidity, and no earnings for another 11 weeks. You would be comfortable owning AMD at $138.
+Here's a hypothetical walkthrough using AMD to show the process end to end. Suppose AMD is trading at $150 and IV Rank is 62 - elevated, reflecting post-earnings uncertainty that has faded from the headlines but is still priced into options. AMD has positive free cash flow, deep options liquidity, and no earnings for another 11 weeks. You would be comfortable owning AMD at $138.
 
-You look at the December 26 expiration - 44 days out. The $138 put is bid at $3.80, offered at $4.10. You sell one contract at $3.95, collecting $395 in premium. Your broker holds $13,800 in collateral.
+You look at an expiration 44 days out. The $138 put is bid at $3.80, offered at $4.10. You sell one contract at $3.95, collecting $395 in premium. Your broker holds $13,800 in collateral.
 
 Your maximum profit is $395. Your effective purchase price if assigned is $134.05 ($138 - $3.95). AMD would need to fall 10.6% from current price before you own shares at a loss relative to today's market price.
 
 Three scenarios play out from here.
 
-**Scenario A - AMD stays above $138.** The put expires worthless on December 26. You keep $395 on $13,800 in collateral - a 2.9% return in 44 days, or approximately 23% annualized. Capital is freed. You look for the next trade.
+**Scenario A - AMD stays above $138.** The put expires worthless at expiration. You keep $395 on $13,800 in collateral - a 2.9% return in 44 days, or approximately 23% annualized. Capital is freed. You look for the next trade.
 
 **Scenario B - AMD drops to $142 by day 22.** The put, originally worth $3.95, is now worth approximately $2.00. You have made roughly half your maximum profit with three weeks still on the clock. Following the 50% rule, you close the position for $2.00, locking in $195 profit. You have been in the trade 22 days and freed capital to run a new position. Over a month of capital deployment, this approach compounds returns more efficiently than holding to expiration.
 
@@ -169,11 +169,13 @@ Run 3-5 simultaneous positions across different sectors. Concentration in a sing
 
 ## The Tax Consideration
 
-Cash-secured puts on individual stocks are taxed as short-term capital gains in the US, regardless of how long the position is held. Premium collected and then kept at expiration is short-term income in the tax year collected.
+This works differently for a non-US investor than for a US taxpayer, and most guides on this topic are written for the latter. In the US, gains and premium from options - including cash-secured puts - are treated as capital transactions. The US generally does not tax capital gains for non-resident aliens who are not otherwise engaged in a US trade or business, the same principle that exempts NRAs from US tax on stock sale gains. Unlike dividends, option premium is not FDAP income, so US brokers do not withhold anything on it.
 
-If you are assigned shares and later sell them, the holding period for the shares begins on the assignment date - not when you sold the put. Hold the assigned shares for more than 12 months and any gain on the stock itself qualifies for long-term capital gains treatment.
+That does not mean the income is tax-free - it means the US is not the one taxing it. Your home country's rules determine how options premium is actually taxed, and that varies widely: some countries tax it as ordinary income, others as capital gains, with different reporting requirements. Confirm the treatment with a tax advisor in your own country rather than assuming a US framework applies.
 
-Running cash-secured puts inside a tax-advantaged account - a Roth IRA or traditional IRA - eliminates the annual tax drag on premium income entirely. Many experienced practitioners run the Wheel Strategy specifically inside retirement accounts for this reason. Check with your broker that your IRA account is approved for options selling before placing trades.
+This also means the US tax-advantaged-account angle many guides mention - running the strategy inside a Roth IRA or traditional IRA to shelter premium income - is generally not relevant here. Both account types require US-source earned income to contribute in the first place, which most readers of this site do not have; see our guide on [401(k) and IRA access for non-US citizens](/retirement-pension/401k-ira-access-non-us-citizens/) for the specifics.
+
+If you are assigned shares and later sell them, the same principle applies to any gain on the shares themselves - it is your home country's tax rules, not a US holding-period test, that govern the outcome.
 
 ---
 
@@ -211,7 +213,7 @@ The strategy's edge is real. Its risks are also real - concentrated positions in
 
 The traders who do this well are not necessarily picking the best stocks or timing the market. They are running a process: screen for elevated IV, choose names they would genuinely own, size positions so no single assignment threatens the portfolio, close at 50% of profit, and deploy capital again. Month after month, year after year.
 
-Premium selling is not exciting. The Tesla trade from the opening of this guide - $850 collected, option expired worthless, capital freed in 45 days - is representative of how the strategy feels when it works. Disciplined, systematic, and quietly profitable.
+Premium selling is not exciting. The hypothetical trade from the opening of this guide - $850 collected, option expired worthless, capital freed in 45 days - is representative of how the strategy feels when it works. Disciplined, systematic, and quietly profitable.
 
 ---
 

@@ -97,7 +97,7 @@ Interactive Brokers is widely considered the gold standard for international inv
 
 **Cons:**
 
--   Interface can feel complex for beginners - Inactivity fees apply on some account types (waived with $100K+ balance)
+-   Interface can feel complex for beginners - Market data subscriptions can add up if you want real-time quotes on multiple exchanges
 
 **Best for:** Serious investors who want the full range of US markets
 

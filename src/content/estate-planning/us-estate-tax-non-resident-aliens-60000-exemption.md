@@ -47,7 +47,7 @@ Worked properly, for an investor whose US-situs assets total **$260,000** at dea
 
 That is **30.6%** of the $200,000 above the exemption - well under the 40% headline, but nowhere near the 18% the bottom of the schedule suggests.
 
-A smaller estate shows the same shape. On **$150,000** of US-situs assets, the tentative tax is $38,800, less the $13,000 credit leaves **$25,800** - **28.7%** of the $90,000 taxable amount. The effective rateount grows larger - the same graduated-bracket logic that applies to US income tax, applied here to the estate tax calculation instead.
+A smaller estate shows the same shape. On **$150,000** of US-situs assets, the tentative tax is $38,800, less the $13,000 credit leaves **$25,800** - **28.7%** of the $90,000 taxable amount. The effective rate grows larger as the taxable amount grows - the same graduated-bracket logic that applies to US income tax, applied here to the estate tax calculation instead.
 
 **Why this matters for planning purposes:** understanding that the tax is graduated, not a flat 40% on everything above $60,000, changes the urgency calculus somewhat for a moderate-sized portfolio - a $150,000 US-situs position facing a $90,000 taxable amount owes meaningfully less than 40% of that $90,000 in practice, even though the top rate does apply once the taxable amount grows large enough to reach the highest bracket.
 

@@ -42,7 +42,7 @@ Non-US citizens - including nonresident aliens, green card holders, and temporar
 
 **Traditional IRA:** a nonresident alien can contribute only if they have US-source earned income - most commonly from a US-based job reported on a W-2. There is a specific structure sometimes called a Non-Resident Alien IRA, which functions as a Traditional IRA opened by an NRA with qualifying US earned income, requiring the filing of Form 1040-NR to report US income and, where applicable, claim any available deductions.
 
-**Roth IRA:** generally off-limits to nonresident aliens. Roth IRA eligibility is tied to US tax residency in a way Traditional IRA eligibility isn't - a nonresident alien would generally need to become a US tax resident (through the substantial presence test or otherwise) before Roth IRA contributions become available, a genuinely different threshold than the earned-income requirement that governs Traditional IRA access.
+**Roth IRA:** a genuinely unsettled area, not a flat "closed door." Some nonresident aliens with qualifying US-source earned income have opened and contributed to Roth IRAs while filing as NRAs on Form 1040-NR - custodian and practitioner practice varies here more than for the Traditional IRA path. Becoming a US tax resident (through the substantial presence test, or an election such as filing jointly with a US-resident spouse under IRC §6013(g)) is the clearer, more commonly cited route, but treating it as the *only* route overstates how settled this actually is. If a Roth IRA specifically matters to your planning, this is worth confirming directly with both a cross-border tax advisor and the prospective IRA custodian - practices differ enough between providers that a blanket answer isn't reliable.
 
 **What doesn't qualify:** investment income, dividends, or capital gains from your existing US brokerage account do not count as the kind of earned income either account type requires for contribution eligibility - a source of genuine confusion given how much of this site otherwise focuses on exactly that kind of investment income.
 
@@ -84,7 +84,7 @@ US tax law does provide for spousal IRA contributions in some circumstances for 
 
 - [ ] Confirm you have qualifying US-source earned income (wages or self-employment) before assuming 401(k) or IRA eligibility - investment income from your brokerage account does not count
 - [ ] If employed by a US company, confirm directly with HR/benefits whether the specific 401(k) plan excludes nonresident aliens, since this varies by employer
-- [ ] Understand that Roth IRA is generally unavailable to nonresident aliens, while Traditional IRA may be available with qualifying earned income
+- [ ] Understand that Roth IRA access for nonresident aliens is unsettled and provider-dependent, while Traditional IRA may be available with qualifying earned income
 - [ ] Check whether FICA withholding applies to your specific visa category and qualifying wages
 - [ ] If you have existing 401(k) or IRA balances and are leaving the US, research your options (leave in place, roll over, withdraw) and their tax consequences before deciding
 - [ ] Confirm the applicable withholding rate on any retirement account distribution with your specific country's treaty, since it may differ from the standard dividend withholding rate

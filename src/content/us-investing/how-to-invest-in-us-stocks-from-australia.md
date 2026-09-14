@@ -139,7 +139,7 @@ What you actually pay to get money invested - one deposit, one trade.
 
 *FX costs are one-way on deposit. Stake also charges FX on withdrawal. IBKR auto-conversion costs ~0.03% - always use manual FX via Client Portal.*
 
-**What this looks like in real life:** Sarah is 34 and deposits AUD $2,000 per month into US stocks. Over five years, that is AUD $120,000 in total deposits. At IBKR manual FX rates, her total FX cost over five years is approximately AUD $36. At Stake's rates, the same deposits cost her approximately AUD $1,080 in FX fees alone - before a single trade. At IBKR she makes roughly four trades per month, adding around AUD $288 in commissions over five years. Total all-in cost at IBKR: under AUD $325. Total at Stake: over AUD $1,800. The $1,475 difference, invested at 8% annual return over that same period, compounds to over AUD $2,100. That is real money - and it is gone before a single stock picks or drops.
+**What this looks like in an illustrative scenario:** Sarah is 34 and deposits AUD $2,000 per month into US stocks. Over five years, that is AUD $120,000 in total deposits. At IBKR manual FX rates, her total FX cost over five years is approximately AUD $36. At Stake's rates, the same deposits cost her approximately AUD $1,080 in FX fees alone - before a single trade. At IBKR she makes roughly four trades per month, adding around AUD $288 in commissions over five years. Total all-in cost at IBKR: under AUD $325. Total at Stake: over AUD $1,800. The $1,475 difference, invested at 8% annual return over that same period, compounds to over AUD $2,100. That is real money - and it is gone before a single stock picks or drops.
 
 ---
 

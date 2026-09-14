@@ -35,7 +35,7 @@ schema:
     - question: "What happens if I do not file W-8BEN?"
       answer: "The US defaults to 30% withholding on dividends instead of 15%. The difference is significant on any meaningful dividend income."
     - question: "Are UCITS ETFs better than US ETFs for UK investors?"
-      answer: "It depends on the account and the strategy. In an ISA, both face 15% withholding at some level, but accumulating UCITS ETFs eliminate dividend distributions entirely. In a GIA, accumulating UCITS ETFs defer dividend tax. In a SIPP, US-listed ETFs benefit from 0% withholding. The right answer varies by account type and tax situation."
+      answer: "It depends on the account and the strategy. In an ISA, both face 15% withholding at some level, but accumulating UCITS ETFs eliminate dividend distributions entirely. In a GIA, accumulating UCITS ETFs do not avoid UK dividend tax - you still owe tax annually on excess reportable income (ERI), whether distributed or not. In a SIPP, US-listed ETFs benefit from 0% withholding. The right answer varies by account type and tax situation."
     - question: "What is the US estate tax risk for UK investors?"
       answer: "Non-US residents holding US-domiciled assets above approximately $60,000 are subject to US estate tax at rates up to 40%. Ireland-domiciled UCITS ETFs are not subject to this. For investors building large US equity positions, this is worth specific planning."
 
@@ -89,7 +89,7 @@ If you are a long-term investor and dividend income is part of your strategy, th
 
 The GIA has no annual contribution limits and no access restrictions - but gains and dividends are taxed in full.
 
-Dividends from US stocks in a GIA are subject to US withholding at 15% (with W-8BEN filed) and then reportable as dividend income in the UK. After the £500 dividend allowance, UK dividend tax rates apply: 8.75% (basic rate), 33.75% (higher rate), or 39.35% (additional rate).
+Dividends from US stocks in a GIA are subject to US withholding at 15% (with W-8BEN filed) and then reportable as dividend income in the UK. After the £500 dividend allowance, UK dividend tax rates apply: 10.75% (basic rate), 35.75% (higher rate), or 39.35% (additional rate) - raised from 8.75%/33.75%/39.35% from April 2026.
 
 Capital gains in a GIA are subject to UK CGT. The annual CGT exemption is £3,000 for 2026/27. Above that, gains are taxed at 18% for basic rate taxpayers or 24% for higher and additional rate taxpayers. There is no separate lower rate for US stocks versus UK stocks - the rates are the same.
 
@@ -101,7 +101,7 @@ One practical GIA strategy: use your £3,000 annual CGT exemption actively. Real
 |---|---|---|---|---|
 | ISA | 0% | 0% | 15% (irrecoverable) | £20,000 |
 | SIPP | 0% (in fund) | 0% (in fund) | 0% | Annual pension allowance |
-| GIA | 18-24% above £3k | 8.75-39.35% above £500 | 15% (partial credit) | None |
+| GIA | 18-24% above £3k | 10.75-39.35% above £500 | 15% (partial credit) | None |
 
 ---
 
@@ -121,7 +121,7 @@ UK investors have a choice that many other nationalities do not: Ireland-domicil
 
 Most mainstream index ETFs available in the UK are domiciled in Ireland - iShares Core, Vanguard UCITS, Invesco, Xtrackers. Ireland has its own tax treaty with the US that caps dividend withholding at the fund level to 15%. This is the same rate you get as an individual investor via W-8BEN, so for the ISA context, the outcome is similar.
 
-Where UCITS ETFs have a specific advantage: accumulating share classes. An accumulating UCITS ETF automatically reinvests dividends inside the fund rather than distributing them to you. Since the dividend is never paid out to you, there is no UK income tax event in a GIA. The value accrues as capital gain instead, which you control the timing of. For GIA investors in higher tax brackets, this is a meaningful structural advantage - dividend tax rates in the UK are higher than CGT rates.
+Where UCITS ETFs have a narrower advantage than commonly described: accumulating share classes. An accumulating UCITS ETF automatically reinvests dividends inside the fund rather than distributing them to you - but that does not make the income UK-tax-free in a GIA. For a fund with HMRC Reporting Fund status (which most mainstream UCITS ETFs have), you still owe UK income tax annually on the fund's "excess reportable income" (ERI), whether or not it is paid out in cash. See [What Most Guides Do Not Tell You](#what-most-guides-do-not-tell-you) below for how ERI actually works.
 
 The trade-off: US-listed ETFs like QQQ or SPY typically have lower expense ratios than their UCITS equivalents, and the product range is far wider. If you are investing inside an ISA or SIPP where the tax wrapper already handles most of the tax question, US-listed ETFs are often worth the slightly higher withholding complexity for the wider selection and lower fees.
 
@@ -170,7 +170,7 @@ The largest UK investment platform by assets. Excellent research tools, strong c
 
 FX conversion is where most platforms make their money. When you buy a US stock priced in dollars using a GBP account, your platform converts at their rate. At Trading 212 that is 0.35%. At Hargreaves Lansdown it is 1% capped at £5.99. At IBKR it is 0.002%. On a £10,000 investment, the difference between IBKR and Hargreaves Lansdown is roughly £100 - before you have made a single penny in returns.
 
-US estate tax is real and applies to UK investors. Non-US residents holding US-domiciled assets - stocks and ETFs listed on NYSE or NASDAQ - are subject to US estate tax on holdings above approximately $60,000, at rates up to 40%. The US citizen exemption is over $13 million. The non-resident exemption is $60,000. This is one of the most consistently overlooked risks among UK investors building large US equity positions. Ireland-domiciled UCITS ETFs are not subject to this because they are not US-domiciled assets. For investors building substantial long-term positions, this is worth discussing with a tax advisor.
+US estate tax is real and applies to UK investors. Non-US residents holding US-domiciled assets - stocks and ETFs listed on NYSE or NASDAQ - are subject to US estate tax on holdings above approximately $60,000, at rates up to 40%. The US citizen exemption is $15 million (2026). The non-resident exemption is $60,000. This is one of the most consistently overlooked risks among UK investors building large US equity positions. Ireland-domiciled UCITS ETFs are not subject to this because they are not US-domiciled assets. For investors building substantial long-term positions, this is worth discussing with a tax advisor.
 
 The ISA withholding trap. As covered above - 15% US withholding on dividends inside an ISA is irrecoverable. For high-yield US positions, this is a real ongoing drag. Consider whether those positions belong in your SIPP instead.
 
@@ -206,7 +206,7 @@ Currency gains are taxable in a GIA. Most investors track their returns in GBP a
 
 The £3,000 CGT exemption is worth using actively. With gains under £3,000 untaxed, realising profits up to the exemption each year and reinvesting is entirely legitimate. Many GIA investors let gains accumulate for years and then face a large tax bill. Annual housekeeping is better.
 
-Accumulating UCITS ETFs in a GIA defer dividend tax. If you hold an accumulating share class of a UCITS ETF - where dividends reinvest inside the fund rather than being paid out - you avoid UK dividend tax events in a GIA. The value accrues as capital gain instead. Given that UK dividend tax rates (33.75% for higher rate) are higher than CGT rates (24%), this is a meaningful structural difference for investors in a GIA.
+Accumulating UCITS ETFs in a GIA do not actually avoid UK dividend tax - a common misconception. Because most mainstream UCITS ETFs have HMRC Reporting Fund status, you owe UK income tax each year on "excess reportable income" (ERI) - the fund's undistributed income - even though no cash reaches your account. The tax is not deferred; only the cash is. What accumulating funds do avoid is a separate UK dividend tax *event* on distributions you never receive in hand, and they spare you the admin of reinvesting a cash payout yourself - but you still need your ERI figure (published annually by the fund provider) for your Self Assessment. Only inside an ISA or SIPP does ERI become irrelevant.
 
 ---
 
@@ -231,7 +231,7 @@ The W-8BEN confirms you are a UK tax resident and claims the 15% treaty rate on 
 The US defaults to 30% withholding on dividends instead of 15%. The difference is significant on any meaningful dividend income.
 
 **Are UCITS ETFs better than US ETFs for UK investors?**
-It depends on the account and the strategy. In an ISA, both face 15% withholding at some level, but accumulating UCITS ETFs eliminate dividend distributions entirely. In a GIA, accumulating UCITS ETFs defer dividend tax. In a SIPP, US-listed ETFs benefit from 0% withholding. The right answer varies by account type and tax situation.
+It depends on the account and the strategy. In an ISA, both face 15% withholding at some level, but accumulating UCITS ETFs eliminate dividend distributions entirely. In a GIA, accumulating UCITS ETFs do not avoid UK dividend tax - you still owe tax annually on excess reportable income (ERI), whether distributed or not. In a SIPP, US-listed ETFs benefit from 0% withholding. The right answer varies by account type and tax situation.
 
 **What is the US estate tax risk for UK investors?**
 Non-US residents holding US-domiciled assets above approximately $60,000 are subject to US estate tax at rates up to 40%. Ireland-domiciled UCITS ETFs are not subject to this. For investors building large US equity positions, this is worth specific planning.

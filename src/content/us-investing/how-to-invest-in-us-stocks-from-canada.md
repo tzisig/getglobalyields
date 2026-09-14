@@ -72,7 +72,7 @@ For US growth stocks that pay little or no dividend, the TFSA is still highly ef
 
 The 2026 TFSA annual contribution limit is $7,000. Total cumulative room since inception (for those who were 18+ in 2009) is $109,000. Verify your exact limit through CRA My Account.
 
-> **Real example:** David, 38, from Toronto, had been holding $150,000 in US dividend ETFs inside his TFSA for four years. His portfolio yielded around 2.8% annually - about $4,200 in dividends per year. He had no idea that 15% of that, roughly $630 every year, was being withheld by the IRS and was gone permanently. Over four years, that is $2,500+ he will never see. He moved his dividend positions to his RRSP. The growth positions stayed in the TFSA where they belong.
+> **Illustrative example:** David, 38, from Toronto, had been holding $150,000 in US dividend ETFs inside his TFSA for four years. His portfolio yielded around 2.8% annually - about $4,200 in dividends per year. He had no idea that 15% of that, roughly $630 every year, was being withheld by the IRS and was gone permanently. Over four years, that is $2,500+ he will never see. He moved his dividend positions to his RRSP. The growth positions stayed in the TFSA where they belong.
 
 ### Non-Registered Account
 
