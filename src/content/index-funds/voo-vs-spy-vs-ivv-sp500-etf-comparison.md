@@ -26,15 +26,15 @@ Three of the largest ETFs in the world - VOO, SPY, and IVV - track the exact sam
 
 **SPY (SPDR S&P 500 ETF Trust)** was the first US ETF ever launched, in 1993, and remains the most heavily traded ETF in the world by daily volume. It's structured as a unit investment trust (UIT), a legally distinct wrapper from the standard open-end fund structure used by most modern ETFs, including its two main competitors.
 
-**VOO (Vanguard S&P 500 ETF)** is Vanguard's S&P 500 offering, structured as a standard open-end fund, and generally carries the lowest expense ratio of the three - Vanguard's broader fee structure across its index fund lineup has consistently been among the lowest in the industry.
+**VOO (Vanguard S&P 500 ETF)** is Vanguard's S&P 500 offering, structured as a standard open-end fund, and carries an expense ratio of **0.03%** - Vanguard's broader fee structure across its index fund lineup has consistently been among the lowest in the industry.
 
-**IVV (iShares Core S&P 500 ETF)** is BlackRock/iShares' offering, also structured as a standard open-end fund, with an expense ratio close to VOO's and meaningfully below SPY's.
+**IVV (iShares Core S&P 500 ETF)** is BlackRock/iShares' offering, also structured as a standard open-end fund, matching VOO's **0.03%** expense ratio and meaningfully below SPY's.
 
 ---
 
 ## The Real Difference: Cost, Compounded Over Time
 
-**VOO and IVV both carry meaningfully lower expense ratios than SPY** - the specific gap has narrowed and shifted over the years as all three providers have periodically adjusted pricing, so confirm the current figures directly with each provider rather than relying on any fixed historical number, but the ordering (VOO and IVV below SPY) has been a consistent, structural feature of the three funds' pricing for years.
+**VOO and IVV both carry meaningfully lower expense ratios than SPY:** 0.03% for VOO and IVV versus approximately 0.0945% for SPY, a gap of roughly $6.45 a year per $10,000 invested. The specific numbers have shifted over the years as all three providers have periodically adjusted pricing, so confirm the current figures directly with each provider rather than treating these as permanently fixed, but the ordering (VOO and IVV below SPY) has been a consistent, structural feature of the three funds' pricing for years.
 
 **Why this matters more than it might seem:** an expense ratio difference that looks trivial as a single annual percentage compounds meaningfully over a long holding period, because it's deducted every year, indefinitely, regardless of market performance. Consider two otherwise identical $50,000 positions held for 20 years, growing at the same 8% gross annual return, where one fund's expense ratio runs 0.05 percentage points higher than the other. That seemingly tiny annual gap compounds to a meaningfully different ending balance over two decades - not because either fund performed differently, but purely because a slightly larger annual slice was deducted from one of them, year after year, compounding against the investor rather than for them.
 

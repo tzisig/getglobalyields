@@ -72,7 +72,7 @@ Three factors make it look appealing for wheel traders:
 
 **2. Liquid options chain.** TQQQ has an active options market with weekly expirations, reasonable bid-ask spreads, and enough open interest to enter and exit positions without significant slippage.
 
-**3. Lower nominal share price than QQQ.** At around $73, one lot (100 shares) requires roughly $7,300 in cash to be fully secured. QQQ trades around $475, meaning a fully cash-secured put there requires $47,500. For smaller accounts, TQQQ seems accessible.
+**3. Lower nominal share price than QQQ.** At around $73, one lot (100 shares) requires roughly $7,300 in cash to be fully secured. QQQ trades around $729, meaning a fully cash-secured put there requires $72,900. For smaller accounts, TQQQ seems accessible.
 
 That premium yield is real. The problem is what it's pricing in.
 
@@ -158,8 +158,8 @@ Here's how the three compare as wheel candidates:
 
 | | TQQQ | QQQ | SPY |
 |---|---|---|---|
-| Current Price (approx.) | ~$73 | ~$475 | ~$570 |
-| Cash Required (1 lot) | ~$7,300 | ~$47,500 | ~$57,000 |
+| Current Price (approx.) | ~$73 | ~$729 | ~$680 |
+| Cash Required (1 lot) | ~$7,300 | ~$72,900 | ~$68,000 |
 | Approximate 30-day CSP Yield | 3.5-5.0% | 1.5-2.5% | 1.0-1.8% |
 | Max Drawdown (2022) | -81.66% | -32.6% | -25.4% |
 | Volatility Decay | Yes - structural | No | No |

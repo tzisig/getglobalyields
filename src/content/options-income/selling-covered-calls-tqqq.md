@@ -153,17 +153,11 @@ The goal is to collect enough new premium from the roll to offset the loss on bu
 
 ## The Tax Treatment - Details That Matter
 
-[Option income](/taxes/tqqq-tax-international-investors/) is taxed differently depending on how the position closes, and the rules have specific implications for covered calls. Source: IRS Publication 550 (see our [W-8BEN guide](/taxes/w8ben-form-non-us-investors/) for international tax filing) and Fidelity's tax guidance on covered calls.
+The mechanics above (qualified vs. non-qualified covered calls, holding-period suspension, short-term vs. long-term rates) are US-taxpayer rules - IRS Publication 550's territory. They generally don't apply to a non-US investor.
 
-**If the call expires worthless:** The premium collected is treated as a short-term capital gain, regardless of how long you held the shares. Taxed at ordinary income rates.
+**Why:** the US generally does not tax capital gains - including gains and premium from covered calls - for a non-resident alien who isn't otherwise engaged in a US trade or business, the same reason NRAs owe no US tax on a straight stock sale. Option premium isn't FDAP income like dividends, so US brokers don't withhold anything on it. The whole "qualified vs. non-qualified covered call" distinction exists to police a US holding-period question (short-term vs. long-term capital gains rates) that simply doesn't arise when the US isn't taxing the gain to begin with.
 
-**If the call is assigned (exercised):** The premium received is added to the sale price of the shares. The holding period of the shares determines whether the gain on the stock is short-term or long-term - but only if the covered call qualifies as a "qualified covered call."
-
-**Qualified vs. non-qualified covered calls:** This distinction is crucial and often overlooked. A covered call is qualified if it is not deep in-the-money and the strike meets IRS guidelines based on share price. Qualified covered calls do not interrupt the holding period of the underlying shares - meaning if you have held TQQQ for over a year and sell a qualified OTM covered call, your long-term capital gains status is preserved if assigned. Non-qualified covered calls (typically deep ITM) suspend the holding period while the call is open.
-
-**The tax straddle problem:** If a non-qualified covered call is sold against a TQQQ position held less than one year, the holding period for those shares is terminated. You start again at zero for long-term gains purposes. For a volatile instrument like TQQQ where many investors are actively trading in and out, this can mean an unexpected short-term gains bill.
-
-**The practical implication:** Most investors selling OTM covered calls on TQQQ are generating short-term capital gains from the premiums. If you are in a high tax bracket, the after-tax income from the strategy is meaningfully lower than the gross premium. Factor this into your return calculations.
+**What actually matters for you:** your home country's tax rules, which vary widely - some tax option premium as ordinary income, some as capital gains, with different reporting requirements and no equivalent of the US's qualified-covered-call carve-out. Confirm the treatment with a tax advisor in your own country. [Option income taxation for TQQQ](/taxes/tqqq-tax-international-investors/) and our [W-8BEN guide](/taxes/w8ben-form-non-us-investors/) cover the broader international picture; this section exists mainly so you recognize US-centric advice elsewhere for what it is.
 
 ---
 
@@ -204,7 +198,7 @@ TQQQ's implied volatility is not stable. It can jump from 50% to 90%+ during mar
 |---|---|---|---|
 | Implied Volatility (approx.) | 55-65% | 18-22% | 15-18% |
 | Monthly ATM premium (approx.) | 5-7% of price | 2-3% | 1.5-2% |
-| Max historical drawdown | 81.66% | ~54% (2008) | ~55% (2008) |
+| Max historical drawdown | 81.66% | ~54% (2007-2008) | ~55% (2007-2008) |
 | Volatility decay risk | High | Minimal | Minimal |
 | Premium as buffer vs. drawdown | Very limited | Limited | Limited |
 | Complexity of management | High | Moderate | Low |

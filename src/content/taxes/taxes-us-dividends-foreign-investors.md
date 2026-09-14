@@ -288,7 +288,7 @@ For publicly traded US REITs, the FIRPTA exemption for domestically controlled e
 
 **Before your first dividend payment:**
 - [ ] Confirm your NRA status (not a US citizen, green card holder, or substantial presence test passer)
-- [ ] Check whether your country has a US tax treaty and what the dividend rate is — use the [Tax Map](/resources/tax-map/) for a quick overview
+- [ ] Check whether your country has a US tax treaty and what the dividend rate is - use the [Tax Map](/resources/tax-map/) for a quick overview
 - [ ] Complete Form [W-8BEN](/taxes/w8ben-form-non-us-investors/) and submit it to your broker
 - [ ] Name your country of residence on Line 9 - that is what claims the treaty rate (15% for most European investors, under Article 10); leave Line 10 blank unless your claim needs conditions Line 9 does not cover
 - [ ] Choose a [broker that handles treaty documentation correctly](/best-brokers/best-brokers-international-investors-2026/) for your country

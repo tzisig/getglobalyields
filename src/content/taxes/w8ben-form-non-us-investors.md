@@ -246,7 +246,7 @@ Does not cover:
 - Capital gains
 - Your local taxes
 
-For most non-US investors, US capital gains tax is generally 0% and tax is paid in the home country. One important exception is [PFIC rules](/taxes/pfic-rules-international-investors/), which can apply to non-US mutual funds and certain foreign ETFs held by US taxpayers — less common for non-US residents investing directly in US securities, but worth knowing about if you hold both US and local funds.
+For most non-US investors, US capital gains tax is generally 0% and tax is paid in the home country. One important exception is [PFIC rules](/taxes/pfic-rules-international-investors/), which can apply to non-US mutual funds and certain foreign ETFs held by US taxpayers - less common for non-US residents investing directly in US securities, but worth knowing about if you hold both US and local funds.
 
 ## Estate Tax Risk
 
@@ -287,7 +287,7 @@ What to look for:
 - Accurate Form 1042-S reporting
 - Proper income classification
 
-Many international investors prefer Interactive Brokers because the W-8BEN flow is integrated end-to-end. Other brokers popular with international investors include [Saxo Bank](/best-brokers/saxo-bank-review-2026/), [eToro](/best-brokers/etoro-review-2026/), and [XTB](/best-brokers/xtb-review-2026/) — check how each handles treaty documentation before committing.
+Many international investors prefer Interactive Brokers because the W-8BEN flow is integrated end-to-end. Other brokers popular with international investors include [Saxo Bank](/best-brokers/saxo-bank-review-2026/), [eToro](/best-brokers/etoro-review-2026/), and [XTB](/best-brokers/xtb-review-2026/) - check how each handles treaty documentation before committing.
 
 Also read:
 
