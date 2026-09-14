@@ -124,7 +124,7 @@ This cycle - selling puts, getting assigned, selling covered calls, getting call
 
 The trade above assumes AMD dropped on noise, not substance. What happens when the drop is real?
 
-In early 2025, a trader sold cash-secured puts on a mid-cap semiconductor company with IV Rank of 75. The premium looked exceptional - $6.80 on a $55 strike, nearly 12% annualized return. He was assigned when the company missed earnings and cut guidance. The stock fell to $38 over the following six weeks.
+Here's a hypothetical showing what that looks like: a trader sold cash-secured puts on a mid-cap semiconductor company with IV Rank of 75. The premium looked exceptional - $6.80 on a $55 strike, nearly 12% annualized return. He was assigned when the company missed earnings and cut guidance. The stock fell to $38 over the following six weeks.
 
 He was now holding shares at an effective cost of $48.20 in a stock trading at $38. Selling covered calls at current prices would collect perhaps $1.50 per month while he waited for recovery. At that rate, it would take roughly seven months of covered call premium just to break even - assuming the stock went nowhere. If the company's problems were fundamental rather than temporary, the recovery might never come.
 
