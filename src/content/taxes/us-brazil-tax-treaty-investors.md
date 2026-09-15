@@ -68,7 +68,7 @@ Before dividends or capital gains enter the picture, funding a US brokerage acco
 
 **For remittances characterized as investment abroad** (funding a foreign brokerage account to buy stocks, funds, or securities), the applicable IOF rate is **1.1%** on the value of the transaction - distinct from the lower rate that can apply to other remittance purposes. This is a real, upfront cost layered on top of whatever FX spread your bank or remittance service charges, and it applies regardless of which broker ultimately receives the funds.
 
-Confirm with your bank or remittance provider that the transfer is coded correctly as an investment remittance - misclassification can result in the wrong IOF rate being applied.
+Confirm with your bank or remittance provider that the transfer is coded correctly as an investment remittance. This is a concrete cost, not a formality: a transfer to your own foreign bank account that isn't coded as investment - for example, moving money there first and wiring to the broker later - is taxed at **3.5%** rather than 1.1%. Sending funds directly to the broker as an investment remittance is what secures the lower rate.
 
 ---
 

@@ -30,13 +30,13 @@ schema:
     - question: "Does the lack of a US-Brazil tax treaty mean I lose the US withholding entirely?"
       answer: "No. Brazilian tax authorities have officially recognized reciprocity with the United States, which makes the 30% US withholding creditable against Brazilian tax on the same income, even without a formal treaty."
     - question: "How are my capital gains taxed in Brazil?"
-      answer: "15% on gains up to BRL 5 million per sale, progressively up to 22.5% above that. Gains are exempt entirely if total sale proceeds in a given month stay at or below BRL 35,000."
+      answer: "Since Law 14,754/2023 (effective January 1, 2024), gains from foreign investments like US stocks are taxed at a flat 15% with no progressive brackets. The BRL 35,000 monthly small-sale exemption is a rule for Brazilian (B3) stock sales only - it does not apply to foreign holdings, so every real of gain on a US stock sale is taxable."
     - question: "Which brokers accept Brazilian residents?"
       answer: "Interactive Brokers and eToro are both confirmed to accept Brazilian residents for account opening."
 
 ---
 
-Brazil and the US have never signed a comprehensive income tax treaty, so most guides stop at "expect 30% withholding and move on." That leaves out the part that actually matters for a Brazilian investor's real return: an officially recognized reciprocity arrangement that makes the US withholding creditable anyway, a real upfront cost on funding the account (IOF), and a capital gains system with its own exemption worth planning around.
+Brazil and the US have never signed a comprehensive income tax treaty, so most guides stop at "expect 30% withholding and move on." That leaves out the part that actually matters for a Brazilian investor's real return: an officially recognized reciprocity arrangement that makes the US withholding creditable anyway, a real upfront cost on funding the account (IOF), and a flat-rate capital gains system that works differently from what most Brazilian investors assume from domestic stock investing.
 
 This guide covers all three, plus which brokers actually work and the one form still worth filing even without a treaty rate to claim.
 
@@ -69,7 +69,7 @@ Before Rafaela buys anything, she needs to convert reais into dollars and move t
 
 **For remittances characterized as investment abroad** - funding a foreign brokerage account to buy stocks, funds, or securities - the applicable IOF rate is **1.1%** on the transaction value. This is a real, upfront cost on top of whatever FX spread her bank or remittance service charges, and it applies regardless of which broker ultimately receives the funds.
 
-**Worth confirming directly with her bank or remittance provider:** that the transfer is coded correctly as an investment remittance. Misclassification can trigger a different, sometimes higher, IOF rate.
+**Worth confirming directly with her bank or remittance provider:** that the transfer is coded correctly as an investment remittance. This matters concretely, not just as a formality - a transfer to her own foreign bank account, not coded as investment (for example, if she moves money there first and wires to the broker later), is taxed at **3.5%** rather than 1.1%. Sending funds directly to the broker as an investment remittance is what secures the lower rate.
 
 ---
 
@@ -90,20 +90,15 @@ For the full mechanics, see our [US-Brazil tax treaty guide](/taxes/us-brazil-ta
 
 ---
 
-## Step 4: Capital Gains - Progressive Rates and a Monthly Exemption
+## Step 4: Capital Gains - A Flat Rate, Not the Domestic Brazilian Rules
 
-Capital gains on foreign securities held by a Brazilian tax resident, including US stocks, are taxed at:
+This is the section where most guides (and most Brazilian investors' assumptions from trading on B3, Brazil's own exchange) get it wrong. The progressive 15%-22.5% schedule and the BRL 35,000 monthly small-sale exemption that apply to **Brazilian** stock sales do not apply to US stocks.
 
-| Gain (per sale) | Rate |
-|---|---|
-| Up to BRL 5,000,000 | **15%** |
-| Above BRL 5,000,000 | **Progressively up to 22.5%** |
+Since Law 14,754/2023 took effect on January 1, 2024, gains from foreign financial investments - including US-listed stocks - are taxed at a flat **15% rate**, with no progressive brackets and no deduction from the calculation base. The Receita Federal has explicitly confirmed the BRL 35,000 exemption does not extend to foreign holdings: every real of gain on a US stock sale is taxable, no matter how small the sale. Gains aren't calculated per transaction either - they're totaled and declared annually on Rafaela's Declaração de Ajuste Anual (DAA), not month by month.
 
-**A meaningful exemption for smaller investors:** gains are exempt from this tax if total sale proceeds across all disposals in a given calendar month stay at or below **BRL 35,000**. This is a monthly threshold based on total proceeds, not just the gain, so it resets every month - spreading larger sales across multiple months rather than realizing everything at once can keep Rafaela under the threshold more often.
+**One more layer since the same law:** foreign exchange gains on assets held abroad are also included in the taxable base alongside the asset's own price movement. In practice, this means BRL/USD movement over her holding period can itself add to (or reduce) her taxable gain - not just the change in the stock's dollar value. Both legs need tracking, following the same currency-decomposition logic covered in more general terms in our [currency risk vs market risk guide](/currency-banking/currency-risk-vs-market-risk-international-investors/) - for Rafaela specifically, this isn't just a useful mental framework, it's a literal component of her Brazilian tax calculation.
 
-**One more layer since Law 14,754/2023:** foreign exchange gains on assets held abroad are now included in the taxable base alongside the asset's own price movement. In practice, this means BRL/USD movement over her holding period can itself add to (or reduce) her taxable gain - not just the change in the stock's dollar value. Both legs need tracking, following the same currency-decomposition logic covered in more general terms in our [currency risk vs market risk guide](/currency-banking/currency-risk-vs-market-risk-international-investors/) - though for Rafaela specifically, this isn't just a useful mental framework, it's a literal component of her Brazilian tax calculation.
-
-**A worked illustration of the monthly-exemption timing:** Rafaela wants to sell BRL 60,000 worth of VOO in total. Selling it all in a single month puts her BRL 60,000 in proceeds well above the BRL 35,000 exemption threshold, making the entire sale taxable. Splitting the same total sale across two separate months - BRL 30,000 in each - keeps each individual month's proceeds under the threshold, potentially exempting the entire BRL 60,000 from capital gains tax rather than taxing it in full. This is a legitimate, deliberate use of a monthly threshold explicitly structured this way in the law, not an aggressive interpretation - though it requires planning sales in advance rather than reactively, and doesn't help with a single large, unavoidable liquidity need that can't be split across months.
+**What this means for Rafaela in practice:** there's no monthly threshold to plan around and no benefit to splitting a sale across multiple months - a strategy that works for Brazilian stocks does nothing for her VOO and QQQ positions. If she sells BRL 60,000 of VOO in one month or BRL 30,000 in each of two months, the full gain is taxable at 15% either way. The only things that reduce what she owes are the annual DAA declaration timing and the currency-gain calculation above - not transaction timing.
 
 ---
 
@@ -141,7 +136,7 @@ Neither broker changes the underlying 30% US withholding rate or the IOF cost of
 
 **Annual tax situation:**
 - 30% US withholding on dividends, creditable against Brazilian tax under the officially recognized reciprocity arrangement
-- Capital gains reported on her annual Brazilian return; tracks monthly sale proceeds against the BRL 35,000 exemption threshold
+- Capital gains taxed at a flat 15% and declared annually on the DAA - no monthly exemption applies to foreign holdings
 - Both asset-price and BRL/USD movement tracked for accurate gain calculation
 
 She pays the IOF once, on funding. From there, her ongoing obligations are annual: report dividends and gains, claim the credit for US withholding already paid, and keep her Form 1042-S on file.
@@ -159,7 +154,7 @@ She pays the IOF once, on funding. From there, her ongoing obligations are annua
 
 **Assuming no treaty means no credit.** Brazil's officially recognized reciprocity with the US means the 30% withholding is still creditable - a materially better position than a no-treaty, no-reciprocity country.
 
-**Realizing large gains in a single month without checking the BRL 35,000 exemption.** Spreading sales across months can keep smaller disposals exempt entirely.
+**Assuming the BRL 35,000 monthly exemption applies to US stocks.** It doesn't - that's a rule for Brazilian (B3) stock sales. Every real of gain on a foreign holding is taxable at a flat 15%, regardless of sale size or timing.
 
 **Ignoring the FX-gain rule.** Since Law 14,754/2023, currency movement on assets held abroad factors into the taxable gain, not just the stock's own price change.
 
@@ -171,7 +166,7 @@ She pays the IOF once, on funding. From there, her ongoing obligations are annua
 2. **Open a broker account.** IBKR for commission-free access via IBKR Lite, eToro for a simpler entry point.
 3. **Buy VOO or QQQ as they trade** - the UCITS-only rule is a European one.
 4. **File your W-8BEN** to avoid backup withholding.
-5. **Track monthly sale proceeds** against the BRL 35,000 exemption if you plan to sell in the near term.
+5. **Plan for a flat 15% capital gains rate** on every sale, with no small-sale exemption - and remember gains are declared annually, not per transaction.
 
 ---
 
@@ -199,7 +194,7 @@ IOF is Brazil's Tax on Financial Operations, applied to currency conversions. Re
 No. Brazilian tax authorities have officially recognized reciprocity with the United States, which makes the 30% US withholding creditable against Brazilian tax on the same income, even without a formal treaty.
 
 **How are my capital gains taxed in Brazil?**
-15% on gains up to BRL 5 million per sale, progressively up to 22.5% above that. Gains are exempt entirely if total sale proceeds in a given month stay at or below BRL 35,000.
+Since Law 14,754/2023 (effective January 1, 2024), gains from foreign investments like US stocks are taxed at a flat 15% with no progressive brackets. The BRL 35,000 monthly small-sale exemption is a rule for Brazilian (B3) stock sales only - it does not apply to foreign holdings, so every real of gain on a US stock sale is taxable.
 
 **Which brokers accept Brazilian residents?**
 Interactive Brokers and eToro are both confirmed to accept Brazilian residents for account opening.
