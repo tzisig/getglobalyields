@@ -116,7 +116,7 @@ There's no US-Oman tax treaty, so the full 30% US withholding applies with no re
 ## Related Guides
 
 - [PFIC Rules for International Investors](/taxes/pfic-rules-international-investors/)
-- US-Qatar Tax Treaty for Investors
+- [US-Qatar Tax Treaty for Investors](/taxes/us-qatar-tax-treaty-investors/)
 - [US-Kuwait Tax Treaty for Investors](/taxes/us-kuwait-tax-treaty-investors/)
 - [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
 - [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)
