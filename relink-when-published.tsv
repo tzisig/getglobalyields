@@ -1,5 +1,6 @@
 source	target	anchor
 taxes/us-argentina-tax-treaty-investors.md	/taxes/us-mexico-tax-treaty-investors	US-Mexico Tax Treaty for Investors
+taxes/us-chile-tax-treaty-investors.md	/taxes/us-mexico-tax-treaty-investors	US-Mexico Tax Treaty for Investors
 taxes/us-bahrain-tax-treaty-investors.md	/taxes/us-saudi-arabia-tax-treaty-investors	US-Saudi Arabia Tax Treaty for Investors
 taxes/us-bahrain-tax-treaty-investors.md	/taxes/us-uae-tax-treaty-investors	US-UAE Tax Treaty for Investors
 taxes/us-bolivia-tax-treaty-investors.md	/taxes/us-ecuador-tax-treaty-investors	US-Ecuador Tax Treaty for Investors
@@ -52,3 +53,7 @@ taxes/us-greece-tax-treaty-investors.md	/taxes/us-italy-tax-treaty-investors	US-
 taxes/us-malaysia-tax-treaty-investors.md	/taxes/us-singapore-tax-treaty-investors	Interactive Brokers Singapore: US Stock Tax Guide
 taxes/us-malaysia-tax-treaty-investors.md	/taxes/us-thailand-tax-treaty-investors	US-Thailand Tax Treaty for Investors
 us-investing/how-to-invest-in-us-stocks-from-poland.md	/taxes/us-poland-tax-treaty-investors	US-Poland tax treaty guide
+taxes/us-croatia-tax-treaty-investors.md	/taxes/us-italy-tax-treaty-investors	US-Italy Tax Treaty for Investors
+taxes/us-kenya-tax-treaty-investors.md	/taxes/us-south-africa-tax-treaty-investors	US-South Africa Tax Treaty for Investors
+us-investing/how-to-invest-in-us-stocks-from-italy.md	/taxes/us-italy-tax-treaty-investors	US-Italy tax treaty guide
+us-investing/how-to-invest-in-us-stocks-from-turkey.md	/taxes/us-turkey-tax-treaty-investors	US-Turkey tax treaty guide

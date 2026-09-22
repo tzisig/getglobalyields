@@ -121,5 +121,5 @@ This is one of the more actively moving situations covered in this series: a gen
 - [PFIC Rules for International Investors](/taxes/pfic-rules-international-investors/)
 - [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
 - [US-Chile Tax Treaty for Investors](/taxes/us-chile-tax-treaty-investors/)
-- [US-Italy Tax Treaty for Investors](/taxes/us-italy-tax-treaty-investors/)
+- US-Italy Tax Treaty for Investors
 - [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)

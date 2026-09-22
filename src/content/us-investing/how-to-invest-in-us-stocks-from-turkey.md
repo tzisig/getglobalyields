@@ -59,7 +59,7 @@ The US-Turkey tax treaty (1996) caps US withholding on dividends paid to individ
 
 An unfiled form means the full 30% on every distribution, first to last. Emre checks his first dividend statement to confirm 20% - not 30% and not 15% - was actually withheld.
 
-For the full treaty mechanics, see our [US-Turkey tax treaty guide](/taxes/us-turkey-tax-treaty-investors/).
+For the full treaty mechanics, see our US-Turkey tax treaty guide.
 
 ---
 

@@ -125,5 +125,5 @@ The most important fact in this guide is the date: the US-Chile tax treaty is ne
 - [PFIC Rules for International Investors](/taxes/pfic-rules-international-investors/)
 - [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
 - [Investing in US Stocks from Argentina](/taxes/us-argentina-tax-treaty-investors/)
-- [US-Mexico Tax Treaty for Investors](/taxes/us-mexico-tax-treaty-investors/)
+- US-Mexico Tax Treaty for Investors
 - [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)

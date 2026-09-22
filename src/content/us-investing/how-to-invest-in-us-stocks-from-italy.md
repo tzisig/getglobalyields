@@ -60,7 +60,7 @@ Quadro RW is the section of Italy's tax return where residents declare foreign f
 
 **This applies to an ordinary US brokerage account without exception.** Giulia's €25,000 position clears this threshold immediately, and reporting is required even though the account is nothing unusual by international standards.
 
-For the full mechanics, see our [US-Italy tax treaty guide](/taxes/us-italy-tax-treaty-investors/).
+For the full mechanics, see our US-Italy tax treaty guide.
 
 ---
 
