@@ -72,7 +72,7 @@ The US-Philippines tax treaty dates to 1976 and remains in force - despite some 
 
 This rate is identical whether Ana is classified as an OFW or a Philippine resident - the treaty does not distinguish. What differs enormously is what happens after the US withholding, on the Philippine side.
 
-For the full mechanics, see our US-Philippines tax treaty guide.
+For the full mechanics, see our [US-Philippines tax treaty guide](/taxes/us-philippines-tax-treaty-investors/).
 
 ---
 
