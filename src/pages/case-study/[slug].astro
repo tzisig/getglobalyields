@@ -13,7 +13,7 @@ import PortfolioRecoveryChart from '../../components/PortfolioRecoveryChart.astr
 
 // Chart switch for the recovery case study. true = PortfolioRecoveryChart component,
 // false = the previous inline lightweight-charts implementation (kept intact below).
-const USE_PORTFOLIO_RECOVERY_CHART = true;
+const USE_PORTFOLIO_RECOVERY_CHART = false;
 
 export async function getStaticPaths() {
   const posts = await getCollection('case-study').catch(() => []);
