@@ -206,19 +206,43 @@ const recoveryCandles = useOldChart ? await getRecoveryCandles() : [];
         };
       }
 
-      function drawBubble(ctx, x, y, opts) {
-        const w = 96;
-        const h = opts.note ? 58 : 48;
+      function drawBubble(ctx, px, py, opts, cw, ch) {
+        const w = 104;
+        const h = opts.note ? 60 : 48;
         const r = 8;
-        const ax = opts.rightArrow ? w + 22 : -22;
-        const ay = opts.rightArrow ? 18 : h - 7;
-        const tipX = opts.rightArrow ? x + ax + 12 : x + ax - 12;
-        const tipY = opts.rightArrow ? y + ay + 4 : y + ay + 10;
+        let x = Math.min(Math.max(px + opts.dx, 4), cw - w - 4);
+        let y = Math.min(Math.max(py + opts.dy, 4), ch - h - 4);
+        const c = opts.colors;
 
+        // Connector from the nearest bubble edge to the actual data point
+        const bx = Math.min(Math.max(px, x), x + w);
+        const by = Math.min(Math.max(py, y), y + h);
+        const len = Math.hypot(px - bx, py - by);
         ctx.save();
-        ctx.strokeStyle = opts.colors.bubbleBorder;
-        ctx.fillStyle = opts.colors.bubbleBg;
-        ctx.lineWidth = 1;
+        ctx.strokeStyle = c.bubbleBorder;
+        ctx.fillStyle = c.bubbleBorder;
+        ctx.lineWidth = 1.2;
+        if (len > 6) {
+          const ang = Math.atan2(py - by, px - bx);
+          const ex = px - Math.cos(ang) * 5;
+          const ey = py - Math.sin(ang) * 5;
+          ctx.beginPath();
+          ctx.moveTo(bx, by);
+          ctx.lineTo(ex, ey);
+          ctx.stroke();
+          ctx.beginPath();
+          ctx.moveTo(ex, ey);
+          ctx.lineTo(ex - 7 * Math.cos(ang - 0.4), ey - 7 * Math.sin(ang - 0.4));
+          ctx.lineTo(ex - 7 * Math.cos(ang + 0.4), ey - 7 * Math.sin(ang + 0.4));
+          ctx.closePath();
+          ctx.fill();
+        }
+        ctx.beginPath();
+        ctx.arc(px, py, 3, 0, Math.PI * 2);
+        ctx.fill();
+
+        // Bubble
+        ctx.fillStyle = c.bubbleBg;
         ctx.beginPath();
         ctx.moveTo(x + r, y);
         ctx.arcTo(x + w, y, x + w, y + h, r);
@@ -229,39 +253,20 @@ const recoveryCandles = useOldChart ? await getRecoveryCandles() : [];
         ctx.fill();
         ctx.stroke();
 
-        ctx.beginPath();
-        ctx.moveTo(x + ax, y + ay);
-        ctx.lineTo(tipX, tipY);
-        ctx.stroke();
-
-        ctx.beginPath();
-        if (opts.rightArrow) {
-          ctx.moveTo(tipX, tipY);
-          ctx.lineTo(tipX - 6, tipY - 3);
-          ctx.lineTo(tipX - 6, tipY + 3);
-        } else {
-          ctx.moveTo(tipX, tipY);
-          ctx.lineTo(tipX + 6, tipY - 3);
-          ctx.lineTo(tipX + 6, tipY + 3);
-        }
-        ctx.closePath();
-        ctx.fillStyle = opts.colors.bubbleBorder;
-        ctx.fill();
-
         ctx.textAlign = 'center';
-        ctx.fillStyle = opts.colors.green;
+        ctx.fillStyle = c.green;
         ctx.font = '600 11px Inter, system-ui, sans-serif';
         ctx.fillText(opts.title, x + w / 2, y + 14);
-        ctx.fillStyle = opts.colors.bubbleText;
+        ctx.fillStyle = c.bubbleText;
         ctx.font = '500 9px Inter, system-ui, sans-serif';
         ctx.fillText(opts.date, x + w / 2, y + 26);
-        ctx.fillStyle = opts.negative ? opts.colors.red : opts.colors.green;
+        ctx.fillStyle = opts.negative ? c.red : c.green;
         ctx.font = '600 11px Inter, system-ui, sans-serif';
         ctx.fillText(opts.value, x + w / 2, y + 40);
         if (opts.note) {
-          ctx.fillStyle = opts.colors.bubbleMuted;
+          ctx.fillStyle = c.bubbleMuted;
           ctx.font = '500 8px Inter, system-ui, sans-serif';
-          ctx.fillText(opts.note, x + w / 2, y + 52);
+          ctx.fillText(opts.note, x + w / 2, y + 53);
         }
         ctx.restore();
       }
@@ -328,11 +333,11 @@ const recoveryCandles = useOldChart ? await getRecoveryCandles() : [];
         const priceByDate = new Map(candles.map((c) => [c.time, c.close]));
 
         const annotations = [
-          { key: 'start', time: '2022-01-18', title: 'Start', date: 'Jan 2022', value: '$100,000', dx: -38, dy: -100 },
-          { key: 'bottom', time: '2023-02-13', title: 'Bottom', date: 'Feb 2023', value: '-72%', note: '(~$28,000)', negative: true, dx: -40, dy: -84 },
-          { key: 'temp', time: '2025-02-10', title: 'Temp Record', date: 'Feb 2025', value: '$465,000', dx: -44, dy: -96 },
-          { key: 'drop', time: '2025-04-07', title: 'Dropdown', date: 'Apr 2025', value: '$340,000', rightArrow: true, dx: -118, dy: -78 },
-          { key: 'today', time: '2026-04-27', title: 'Today', date: 'Apr 2026', value: '$492,000', note: '(+245% total return)', rightArrow: true, dx: -118, dy: -118 },
+          { key: 'start', time: '2022-01-18', title: 'Start', date: 'Jan 2022', value: '$100,000', dx: 30, dy: -80 },
+          { key: 'bottom', time: '2023-02-13', title: 'Bottom', date: 'Feb 2023', value: '-72%', note: '(~$28,000)', negative: true, dx: -52, dy: -110 },
+          { key: 'temp', time: '2025-02-10', title: 'Temp Record', date: 'Feb 2025', value: '$465,000', dx: -150, dy: -90 },
+          { key: 'drop', time: '2025-04-07', title: 'Dropdown', date: 'Apr 2025', value: '$340,000', dx: 30, dy: 40 },
+          { key: 'today', time: '2026-04-27', title: 'Today', date: 'Apr 2026', value: '$492,000', note: '(+245% total return)', dx: -150, dy: -95 },
         ];
 
         function mount(container, theme) {
@@ -406,7 +411,7 @@ const recoveryCandles = useOldChart ? await getRecoveryCandles() : [];
               const x = chart.timeScale().timeToCoordinate(toBusinessDay(a.time));
               const y = series.priceToCoordinate(priceByDate.get(a.time) ?? candles[candles.length - 1].close);
               if (x == null || y == null) continue;
-              drawBubble(ctx, x + a.dx, y + a.dy, { ...a, colors });
+              drawBubble(ctx, x, y, { ...a, colors }, width, height);
             }
           }
 
@@ -440,7 +445,7 @@ const recoveryCandles = useOldChart ? await getRecoveryCandles() : [];
       height: 100%;
       z-index: 1;
     }
-    .chart-annotation-canvas {
+    :global(.chart-annotation-canvas) {
       position: absolute;
       inset: 0;
       pointer-events: none;
