@@ -122,5 +122,5 @@ There's no US-Kuwait tax treaty, so the full 30% US withholding applies with no 
 - [PFIC Rules for International Investors](/taxes/pfic-rules-international-investors/)
 - [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
 - [US-Bahrain Tax Treaty for Investors](/taxes/us-bahrain-tax-treaty-investors/)
-- US-Saudi Arabia Tax Treaty for Investors
+- [US-Saudi Arabia Tax Treaty for Investors](/taxes/us-saudi-arabia-tax-treaty-investors/)
 - [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)

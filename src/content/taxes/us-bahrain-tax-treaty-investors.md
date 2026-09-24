@@ -134,4 +134,4 @@ For a Bahrain-resident investor, the tax math is about as simple as this series 
 - [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)
 - [PFIC Rules for International Investors](/taxes/pfic-rules-international-investors/)
 - US-UAE Tax Treaty for Investors
-- US-Saudi Arabia Tax Treaty for Investors
+- [US-Saudi Arabia Tax Treaty for Investors](/taxes/us-saudi-arabia-tax-treaty-investors/)

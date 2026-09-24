@@ -52,7 +52,7 @@ Faisal is 36, lives in Riyadh, and runs a small consulting business. He has SAR 
 
 **One consideration beyond income tax worth flagging: US estate tax exposure.** Saudi Arabia doesn't appear on the short list of countries with a US estate tax treaty, covered in our estate tax treaty countries guide, meaning the standard $60,000 non-resident alien exemption applies in full to Faisal's US-situs holdings, without any treaty-based relief. This is a genuinely separate question from the income tax picture covered above - a Saudi investor building a substantial US stock position over time should be aware of this exposure and the mitigation options covered throughout our [estate-planning category](/estate-planning/), independent of the income-tax-free status Saudi Arabia otherwise offers.
 
-For the full mechanics, see our US-Saudi Arabia tax treaty guide.
+For the full mechanics, see our [US-Saudi Arabia tax treaty guide](/taxes/us-saudi-arabia-tax-treaty-investors/).
 
 ---
 
