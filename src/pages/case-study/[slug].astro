@@ -9,6 +9,11 @@ import AffiliateDisclaimer from '../../components/AffiliateDisclaimer.astro';
 import FinancialDisclaimer from '../../components/FinancialDisclaimer.astro';
 import TableOfContents from '../../components/TableOfContents.astro';
 import ThemeHeroImage from '../../components/ThemeHeroImage.astro';
+import PortfolioRecoveryChart from '../../components/PortfolioRecoveryChart.astro';
+
+// Chart switch for the recovery case study. true = PortfolioRecoveryChart component,
+// false = the previous inline lightweight-charts implementation (kept intact below).
+const USE_PORTFOLIO_RECOVERY_CHART = true;
 
 export async function getStaticPaths() {
   const posts = await getCollection('case-study').catch(() => []);
@@ -70,7 +75,9 @@ async function getRecoveryCandles(): Promise<CandlePoint[]> {
   }
 }
 
-const recoveryCandles = isRecoveryChartPost ? await getRecoveryCandles() : [];
+const useNewChart = isRecoveryChartPost && USE_PORTFOLIO_RECOVERY_CHART;
+const useOldChart = isRecoveryChartPost && !USE_PORTFOLIO_RECOVERY_CHART;
+const recoveryCandles = useOldChart ? await getRecoveryCandles() : [];
 ---
 
 <BaseLayout
@@ -110,7 +117,9 @@ const recoveryCandles = isRecoveryChartPost ? await getRecoveryCandles() : [];
             </div>
           </header>
 
-          {isRecoveryChartPost ? (
+          {useNewChart ? (
+            <div class="mb-12 shadow-2xl"><PortfolioRecoveryChart /></div>
+          ) : useOldChart ? (
             <div class="recovery-chart-wrapper mb-12 shadow-2xl border border-primary-700 rounded-xl overflow-hidden">
               <div class="recovery-chart-header px-5 py-4 border-b border-primary-700">
                 <p class="text-sm font-semibold tracking-wide">Portfolio Recovery Timeline</p>
@@ -155,7 +164,7 @@ const recoveryCandles = isRecoveryChartPost ? await getRecoveryCandles() : [];
     </div>
   </article>
 
-  {isRecoveryChartPost && (
+  {useOldChart && (
     <script is:inline>
       function parseChartData() {
         const el = document.getElementById('recovery-chart-data');
