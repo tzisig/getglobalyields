@@ -120,10 +120,16 @@ const recoveryCandles = useOldChart ? await getRecoveryCandles() : [];
           {useNewChart ? (
             <div class="mb-12 shadow-2xl"><PortfolioRecoveryChart /></div>
           ) : useOldChart ? (
-            <div class="recovery-chart-wrapper mb-12 shadow-2xl border border-primary-700 rounded-xl overflow-hidden">
-              <div class="recovery-chart-header px-5 py-4 border-b border-primary-700">
-                <p class="text-sm font-semibold tracking-wide">Portfolio Recovery Timeline</p>
-                <p class="text-xs text-slate-400">From 01/01/2022 to today</p>
+            <div id="recovery-chart-wrapper" class="recovery-chart-wrapper mb-12 shadow-2xl border border-primary-700 rounded-xl overflow-hidden">
+              <div class="recovery-chart-header px-5 py-4 border-b border-primary-700 flex items-center justify-between gap-4">
+                <div>
+                  <p class="text-sm font-semibold tracking-wide">Portfolio Recovery Timeline</p>
+                  <p class="text-xs text-slate-400">From 01/01/2022 to today</p>
+                </div>
+                <button type="button" id="recovery-chart-fs" class="recovery-chart-fs-btn" aria-label="View chart full screen" title="Full screen">
+                  <svg class="fs-enter" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 3H5a2 2 0 0 0-2 2v3M21 8V5a2 2 0 0 0-2-2h-3M3 16v3a2 2 0 0 0 2 2h3M16 21h3a2 2 0 0 0 2-2v-3"/></svg>
+                  <svg class="fs-exit" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M8 3v3a2 2 0 0 1-2 2H3M21 8h-3a2 2 0 0 1-2-2V3M3 16h3a2 2 0 0 1 2 2v3M16 21v-3a2 2 0 0 1 2-2h3"/></svg>
+                </button>
               </div>
               <div class="recovery-chart relative">
                 <div id="recovery-chart-dark" class="tv-chart theme-dark-only"></div>
@@ -417,7 +423,7 @@ const recoveryCandles = useOldChart ? await getRecoveryCandles() : [];
 
           chart.timeScale().subscribeVisibleLogicalRangeChange(redraw);
           chart.subscribeCrosshairMove(redraw);
-          window.addEventListener('resize', redraw);
+          window.addEventListener('resize', () => { chart.timeScale().fitContent(); redraw(); });
           redraw();
           return chart;
         }
@@ -426,8 +432,50 @@ const recoveryCandles = useOldChart ? await getRecoveryCandles() : [];
         mount(lightContainer, 'light');
       }
 
+      function setupRecoveryFullscreen() {
+        const wrapper = document.getElementById('recovery-chart-wrapper');
+        const btn = document.getElementById('recovery-chart-fs');
+        const area = wrapper && wrapper.querySelector('.recovery-chart');
+        if (!wrapper || !btn || !area || wrapper.dataset.fsReady === '1') return;
+        wrapper.dataset.fsReady = '1';
+        const nativeFs = !!(wrapper.requestFullscreen || wrapper.webkitRequestFullscreen);
+        const isOpen = () => !!(document.fullscreenElement || document.webkitFullscreenElement) || wrapper.classList.contains('is-pseudo-fs');
+        const refresh = () => setTimeout(() => window.dispatchEvent(new Event('resize')), 60);
+        function open() {
+          if (nativeFs) {
+            (wrapper.requestFullscreen || wrapper.webkitRequestFullscreen).call(wrapper);
+          } else {
+            wrapper.classList.add('is-pseudo-fs');
+            document.body.style.overflow = 'hidden';
+            refresh();
+          }
+        }
+        function close() {
+          if (document.fullscreenElement || document.webkitFullscreenElement) {
+            (document.exitFullscreen || document.webkitExitFullscreen).call(document);
+          } else {
+            wrapper.classList.remove('is-pseudo-fs');
+            document.body.style.overflow = '';
+            refresh();
+          }
+        }
+        btn.addEventListener('click', (e) => { e.stopPropagation(); isOpen() ? close() : open(); });
+        // A plain click on the chart opens full screen; a drag (panning the chart) does not.
+        let downX = 0, downY = 0;
+        area.addEventListener('pointerdown', (e) => { downX = e.clientX; downY = e.clientY; });
+        area.addEventListener('click', (e) => {
+          if (isOpen()) return;
+          if (Math.hypot(e.clientX - downX, e.clientY - downY) > 5) return;
+          open();
+        });
+        document.addEventListener('keydown', (e) => { if (e.key === 'Escape' && wrapper.classList.contains('is-pseudo-fs')) close(); });
+        document.addEventListener('fullscreenchange', refresh);
+        document.addEventListener('webkitfullscreenchange', refresh);
+      }
+
       initRecoveryChart();
-      document.addEventListener('astro:page-load', initRecoveryChart);
+      setupRecoveryFullscreen();
+      document.addEventListener('astro:page-load', () => { initRecoveryChart(); setupRecoveryFullscreen(); });
     </script>
   )}
 
@@ -437,7 +485,46 @@ const recoveryCandles = useOldChart ? await getRecoveryCandles() : [];
       width: 100%;
       height: 430px;
       background: #071a33;
+      cursor: zoom-in;
     }
+    .recovery-chart-fs-btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 34px;
+      height: 34px;
+      border-radius: 8px;
+      border: 1px solid rgba(148, 163, 184, 0.35);
+      color: #cbd5e1;
+      background: transparent;
+      cursor: pointer;
+      flex-shrink: 0;
+    }
+    .recovery-chart-fs-btn:hover { border-color: #eab308; color: #eab308; }
+    .recovery-chart-fs-btn .fs-exit { display: none; }
+    .recovery-chart-wrapper:fullscreen,
+    .recovery-chart-wrapper.is-pseudo-fs {
+      position: fixed;
+      inset: 0;
+      z-index: 9999;
+      margin: 0;
+      width: 100vw;
+      height: 100vh;
+      border-radius: 0;
+      display: flex;
+      flex-direction: column;
+      background: #071a33;
+    }
+    .recovery-chart-wrapper:fullscreen .recovery-chart,
+    .recovery-chart-wrapper.is-pseudo-fs .recovery-chart {
+      flex: 1;
+      height: auto;
+      cursor: default;
+    }
+    .recovery-chart-wrapper:fullscreen .fs-enter,
+    .recovery-chart-wrapper.is-pseudo-fs .fs-enter { display: none; }
+    .recovery-chart-wrapper:fullscreen .fs-exit,
+    .recovery-chart-wrapper.is-pseudo-fs .fs-exit { display: inline; }
     .tv-chart {
       position: absolute;
       inset: 0;
