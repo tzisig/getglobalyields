@@ -13,11 +13,6 @@ tags:
   - "leveraged ETF recovery"
   - "options income TQQQ"
   - "investing in TQQQ from abroad"
-heroImage: "/images/blog/case-study/tqqq_recovery_light.webp"
-heroImageWidth: 1200
-heroImageHeight: 675
-heroImageLight: "/images/blog/case-study/tqqq_recovery_light.webp"
-heroImageDark: "/images/blog/case-study/tqqq_recovery_dark.webp"
 products: ["TQQQ", "Options"]
 ---
 
