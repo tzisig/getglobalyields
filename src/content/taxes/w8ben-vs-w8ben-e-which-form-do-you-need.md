@@ -14,7 +14,7 @@ tags:
 heroImage: "/images/blog/taxes/w8ben-vs-w8ben-e-which-form-do-you-need.webp"
 heroImageWidth: 840
 heroImageHeight: 560
-draft: true
+draft: false
 readingTime: "11 min read"
 featured: false
 seo:
