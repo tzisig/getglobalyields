@@ -13,7 +13,7 @@ tags:
 heroImage: "/images/blog/taxes/backup-withholding-explained.webp"
 heroImageWidth: 840
 heroImageHeight: 560
-draft: true
+draft: false
 readingTime: "8 min read"
 featured: false
 seo:
