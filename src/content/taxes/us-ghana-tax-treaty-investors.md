@@ -133,5 +133,5 @@ No treaty means the 30% US withholding on dividends is fixed - there's no form t
 - [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)
 - [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
 - [Investing in US Stocks from Kenya](/taxes/us-kenya-tax-treaty-investors/)
-- Investing in US Stocks from Nigeria
+- [Investing in US Stocks from Nigeria](/taxes/us-nigeria-tax-treaty-investors/)
 - [Best Brokers for International Investors](/best-brokers/best-brokers-international-investors-2026/)

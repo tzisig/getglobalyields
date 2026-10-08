@@ -155,5 +155,5 @@ Both problems are addressable. Neither is addressable by reading an article - in
 - [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
 - [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)
 - [US-Ghana Tax Treaty for Investors](/taxes/us-ghana-tax-treaty-investors/)
-- US-Nigeria Tax Treaty for Investors
+- [US-Nigeria Tax Treaty for Investors](/taxes/us-nigeria-tax-treaty-investors/)
 - [PFIC Rules for International Investors](/taxes/pfic-rules-international-investors/)
