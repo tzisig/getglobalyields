@@ -127,4 +127,4 @@ Both Interactive Brokers and eToro are open to New Zealand applicants. Neither b
 - [PFIC Rules for International Investors](/taxes/pfic-rules-international-investors/)
 - [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)
 - [US-Australia Tax Treaty for Investors](/taxes/us-australia-tax-treaty-investors/)
-- Interactive Brokers Singapore: US Stock Tax Guide
+- [Interactive Brokers Singapore: US Stock Tax Guide](/taxes/us-singapore-tax-treaty-investors/)
