@@ -65,7 +65,7 @@ Karim is 34, lives in Dubai, and works in logistics. He has AED 100,000 (about $
 
 **A separate consideration worth flagging: US estate tax.** The UAE, like Saudi Arabia, doesn't appear on the short list of countries with a US estate tax treaty, covered in our estate tax treaty countries guide - meaning Karim's US-situs holdings would face the standard $60,000 non-resident alien exemption in full, without any treaty-based relief, once his portfolio grows large enough for this to become relevant. This is entirely separate from the income-tax picture covered above, and worth understanding as his position grows over time, given the mitigation approaches covered throughout our [estate-planning category](/estate-planning/).
 
-For the full mechanics, including how FATCA/CRS reporting interacts with citizenship (relevant for the UAE's large expat population), see our US-UAE tax treaty guide.
+For the full mechanics, including how FATCA/CRS reporting interacts with citizenship (relevant for the UAE's large expat population), see our [US-UAE tax treaty guide](/taxes/us-uae-tax-treaty-investors/).
 
 ---
 
