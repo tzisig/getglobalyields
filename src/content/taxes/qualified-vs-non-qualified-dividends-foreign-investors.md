@@ -13,7 +13,7 @@ tags:
 heroImage: "/images/blog/taxes/qualified-vs-non-qualified-dividends-foreign-investors.webp"
 heroImageWidth: 840
 heroImageHeight: 560
-draft: true
+draft: false
 readingTime: "7 min read"
 featured: false
 seo:
