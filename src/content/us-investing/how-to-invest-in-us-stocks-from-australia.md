@@ -1,9 +1,9 @@
 ---
 slug: how-to-invest-in-us-stocks-from-australia
-title: "Buy US Stocks from Australia: What Happens (2026 Guide)"
-description: "What happens when you buy US stocks from Australia: broker comparison, W-8BEN, CGT rules, SMSF considerations, and the 2027 CGT changes to know."
+title: "Invest in US Growth Stocks from Australia: 2026 Guide"
+description: "How to invest in US growth stocks from Australia: broker comparison, W-8BEN, CGT rules, SMSF considerations, and the 2027 CGT changes to know."
 pubDate: 2026-05-23
-updatedDate: 2026-05-23
+updatedDate: 2026-10-25
 author: "Tzion Sigron"
 categories: ["US Investing"]
 tags:
@@ -34,11 +34,6 @@ The first question has a short answer: yes, Australians can buy US stocks freely
 That number is the FX conversion fee. Every time you move AUD into USD to fund a [US brokerage account](/best-brokers/how-to-open-a-us-brokerage-account-as-a-non-resident-2026-guide/), your broker takes a cut. The difference between the cheapest and most expensive platforms on this list is over $480 on a single $50,000 deposit. Do that annually for ten years and reinvest the difference, and you are talking about a gap that would make most investors choose differently.
 
 Here is how to set it up properly - and how to make sure you are not the one leaving money on the table.
-
----
-
-<!-- ADSENSE / AFFILIATE PLACEHOLDER - TOP OF ARTICLE -->
-<!-- [AD_UNIT_1: responsive banner 728x90 or broker comparison widget] -->
 
 ---
 
@@ -84,7 +79,8 @@ The trading commission is USD $0.005 per share, minimum USD $1 per order. The Tr
 
 ---
 
-### CMC Invest charges $0 commission on all US, [UK](/us-investing/invest-us-stocks-uk/), [Canadian](/us-investing/how-to-invest-in-us-stocks-from-canada/) and Japanese stocks and ETFs - no conditions, no minimum trade count. The only cost is an FX spread of approximately 0.6% when you deposit AUD. You pay that once per deposit, then trade as many times as you want for free.
+### CMC Invest 
+charges $0 commission on all US, [UK](/us-investing/invest-us-stocks-uk/), [Canadian](/us-investing/how-to-invest-in-us-stocks-from-canada/) and Japanese stocks and ETFs - no conditions, no minimum trade count. The only cost is an FX spread of approximately 0.6% when you deposit AUD. You pay that once per deposit, then trade as many times as you want for free.
 
 For active investors who make multiple trades per month from a single deposit, this structure is genuinely hard to beat. The minimum international order size is AUD $1,000, though a selection of popular US stocks are available below that threshold. International securities are held in custody with BNP Paribas. ASX shares are CHESS-sponsored.
 
@@ -139,12 +135,23 @@ What you actually pay to get money invested - one deposit, one trade.
 
 *FX costs are one-way on deposit. Stake also charges FX on withdrawal. IBKR auto-conversion costs ~0.03% - always use manual FX via Client Portal.*
 
-**What this looks like in an illustrative scenario:** Sarah is 34 and deposits AUD $2,000 per month into US stocks. Over five years, that is AUD $120,000 in total deposits. At IBKR manual FX rates, her total FX cost over five years is approximately AUD $36. At Stake's rates, the same deposits cost her approximately AUD $1,080 in FX fees alone - before a single trade. At IBKR she makes roughly four trades per month, adding around AUD $288 in commissions over five years. Total all-in cost at IBKR: under AUD $325. Total at Stake: over AUD $1,800. The $1,475 difference, invested at 8% annual return over that same period, compounds to over AUD $2,100. That is real money - and it is gone before a single stock picks or drops.
+**What this looks like in an illustrative scenario:** Sarah is 34 and deposits AUD $2,000 per month into US stocks. Over five years, that is AUD $120,000 in total deposits. At IBKR manual FX rates, her total FX cost over five years is approximately AUD $36. At Stake's rates, the same deposits cost her approximately AUD $1,080 in FX fees alone - before a single trade. At IBKR she makes roughly four trades per month, adding around AUD $288 in commissions over five years. Total all-in cost at IBKR: under AUD $325. Total at Stake: over AUD $1,800. The $1,475 difference, invested at 8% annual return over that same period, compounds to over AUD $2,100. That is real money - and it is gone before a single stock rises or drops.
 
 ---
 
-<!-- ADSENSE / AFFILIATE PLACEHOLDER - MID ARTICLE -->
-<!-- [AD_UNIT_2: contextual display ad 300x250 or 728x90] -->
+## Investing in US Growth Stocks from Australia
+
+Growth stocks - companies that reinvest profits to expand rather than pay them out - are what most Australians come to US markets for. Apple and Nvidia are the obvious examples, and buying them means opening an account with US market access.
+
+Four things change when your focus is growth rather than income:
+
+** Dividends matter less, FX and CGT matter more.** Growth stocks typically pay little or no dividend, so the 15% withholding under the W-8BEN affects you less. Your main costs are the FX fee on deposits and Australian CGT when you sell.
+
+** Fractional shares help with high share prices.** Stake and Superhero offer fractional US shares from USD $10, so you can build a position in an expensive stock gradually.
+
+** An ETF is the simpler route to growth exposure.** NDQ (BetaShares Nasdaq 100 ETF, MER 0.48%) trades on the ASX in AUD, with no FX step.
+
+** Holding period drives your tax.** Growth positions are usually held for years, which is exactly where the 12-month CGT discount and the 1 July 2027 changes below apply.
 
 ---
 
@@ -166,9 +173,9 @@ Australian residents pay tax on worldwide income. US stocks are not exempt. Here
 
 ## The ASX Alternative Worth Mentioning
 
-If managing a separate international account is more complexity than you want right now, US-focused ETFs on the ASX solve the problem for passive investors. You buy in AUD through any standard broker, the fund manager handles currency conversion internally, and there is no FX fee to manage.
+If managing a separate international account is more complexity than you want right now, [US-focused ETFs](/index-funds/) on the ASX solve the problem for passive investors. You buy in AUD through any standard broker, the fund manager handles currency conversion internally, and there is no FX fee to manage.
 
-The most widely held options: [IVV](/strategies/best-high-yield-etfs-2026/) (iShares S&P 500 ETF, MER 0.07%), NDQ (BetaShares Nasdaq 100 ETF, MER 0.48%), and QUAL (VanEck MSCI World ex-Australia Quality ETF, MER 0.40%). You pay the management fee every year, you cannot pick individual stocks, and you have no control over the fund's internal FX timing. For someone who wants broad US market exposure without the overhead, these are a legitimate choice - not a compromise.
+The most widely held options: IVV (iShares S&P 500 ETF, MER 0.04%), NDQ (BetaShares Nasdaq 100 ETF, MER 0.48%), and VTS (Vanguard US Total Market Shares Index ETF, MER 0.03%). You pay the management fee every year, you cannot pick individual stocks, and you have no control over the fund's internal FX timing. For someone who wants broad US market exposure without the overhead, these are a legitimate choice - not a compromise.
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 slug: multi-currency-investment-accounts
-title: "Best Multi-Currency Investment Broker Account Funding"
-description: "The best multi-currency brokers for funding accounts when investing in US markets from abroad. FX costs, hedging options, and account structures compared."
+title: "Best Broker for Multi-Currency Portfolios & Account Funding"
+description: "Compare the best brokers for multi-currency portfolios and account funding when investing in US markets from abroad. FX costs, hedging and account structures."
 pubDate: 2026-05-24
 updatedDate: 2026-05-24
 author: "Tzion Sigron"
