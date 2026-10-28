@@ -13,7 +13,7 @@ tags:
 heroImage: "/images/blog/taxes/options-trading-tax-treatment-non-us-residents.webp"
 heroImageWidth: 840
 heroImageHeight: 560
-draft: true
+draft: false
 readingTime: "9 min read"
 featured: false
 seo:
