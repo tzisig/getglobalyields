@@ -117,6 +117,6 @@ Two months before this was written, Bolivia ended a currency peg that had held f
 
 - [PFIC Rules for International Investors](/taxes/pfic-rules-international-investors/)
 - [US Dividend Withholding Tax for Foreign Investors](/taxes/taxes-us-dividends-foreign-investors/)
-- US-Ecuador Tax Treaty for Investors
+- [US-Ecuador Tax Treaty for Investors](/taxes/us-ecuador-tax-treaty-investors/)
 - [US-Argentina Tax Treaty for Investors](/taxes/us-argentina-tax-treaty-investors/)
 - [W-8BEN Form Complete Guide for International Investors](/taxes/w8ben-form-non-us-investors/)
