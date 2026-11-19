@@ -50,7 +50,7 @@ Some tax treaties include specific provisions recognizing certain pension accoun
 
 - **Can the plan hold individual US stocks or ETFs at all, or only a fixed menu of pre-selected funds?** This determines whether the rest of this analysis is even relevant to your specific plan.
 - **If US securities are available, does the plan handle W-8BEN-equivalent documentation** to claim any applicable treaty rate on dividend withholding, or does the full 30% default apply by not being properly documented? Some institutional pension platforms handle this automatically on behalf of plan participants; others require individual action.
-- **What happens to the account, and its US holdings, if you relocate to a different country** - a real consideration for the increasingly common case of an internationally mobile career, covered further in our guide on what happens to your US brokerage account when you retire abroad (which addresses standalone brokerage accounts specifically, but raises analogous questions worth asking your pension provider too).
+- **What happens to the account, and its US holdings, if you relocate to a different country** - a real consideration for the increasingly common case of an internationally mobile career, covered further in our guide on [what happens to your US brokerage account when you retire abroad](/retirement-pension/us-brokerage-account-retiring-abroad/) (which addresses standalone brokerage accounts specifically, but raises analogous questions worth asking your pension provider too).
 - **If you're a US person, does your specific country's treaty include pension-plan-specific relief from PFIC treatment**, and does your specific plan qualify under that provision?
 
 ---
