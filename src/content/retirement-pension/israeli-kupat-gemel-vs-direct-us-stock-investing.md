@@ -13,7 +13,7 @@ tags:
 heroImage: "/images/blog/retirement-pension/israeli-kupat-gemel-vs-direct-us-stock-investing.webp"
 heroImageWidth: 840
 heroImageHeight: 560
-draft: true
+draft: false
 readingTime: "12 min read"
 featured: false
 ---
